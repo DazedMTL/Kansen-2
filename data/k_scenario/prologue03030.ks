@@ -110,7 +110,7 @@ might really do something to her..."[pcms]
 *7760|
 [fc]
 [ns]Ookura Hiroshi[nse]
-"Åc?"[pcms]
+"...?"[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 

@@ -523,7 +523,7 @@ suck on my cock, trying to swallow all of my semen.[pcms]
 [fc]
 [vo_mob s="youen0020"]
 [ns]Bewitching Woman[nse]
-"Aha--h... hah... haaah.... I came just from my breasts..."[pcms]
+"Aha--h... hah... haaah... I came just from my breasts..."[pcms]
 
 *525|
 [fc]
@@ -636,7 +636,7 @@ warm and wet insides.[pcms]
 [fc]
 [vo_mob s="suit0003"]
 [ns]Woman in a suit[nse]
-"Haaaahhhhhhh.... it feels so good~~..., a young boy's cock[r]
+"Haaaahhhhhhh... it feels so good~~..., a young boy's cock[r]
 is so hard..., nhaaahhh..."[pcms]
 
 *541|

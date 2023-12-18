@@ -261,7 +261,7 @@ at the sky, I could see the helicopter wobbling towards us.[pcms]
 *4047|
 [fc]
 [ns]Ookura Hiroshi[nse]
-"Åc?"[pcms]
+"...?"[pcms]
 
 *4048|
 [fc]
@@ -371,7 +371,7 @@ So why are they ignoring us...!![pcms]
 *4065|
 [fc]
 [ns]Ookura Hiroshi[nse]
-"Åc?"[pcms]
+"...?"[pcms]
 
 *4066|
 [fc]

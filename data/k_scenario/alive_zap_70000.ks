@@ -773,7 +773,7 @@ from the men's torment. What on earth is happening to me?[pcms]
 
 *2777|
 [fc]
-I couldn't even recall Katsuya's face properly.... To feel[r]
+I couldn't even recall Katsuya's face properly... To feel[r]
 this way despite what's happening...[pcms]
 
 *2778|

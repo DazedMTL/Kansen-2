@@ -311,7 +311,7 @@ hurts!!"[pcms]
 [fc]
 [vo_nag s="nagasaki0385"]
 [ns]Sailor Suit Girl[nse]
-"Stop it! You're such a....noooooo!! Don't touch me![r]
+"Stop it! You're such a...noooooo!! Don't touch me![r]
 Ahhhhhh!!"[pcms]
 
 *204|
@@ -556,7 +556,7 @@ pervert!! Uwahhh!"[pcms]
 
 *246|
 [fc]
-Dammit...I can't breathe..., my back is.... Did I break a[r]
+Dammit...I can't breathe..., my back is... Did I break a[r]
 bone?![pcms]
 
 *247|
@@ -1207,7 +1207,7 @@ ahahh..."[pcms]
 [fc]
 [vo_kob s="koba0504"]
 [ns]Kobayashi[nse]
-"Ahhh.... it won't stop..., my semen won't stop..."[pcms]
+"Ahhh... it won't stop..., my semen won't stop..."[pcms]
 
 *356|
 [fc]

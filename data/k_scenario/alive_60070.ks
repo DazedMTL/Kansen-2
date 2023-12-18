@@ -431,7 +431,7 @@ attacking me and suddenly became quiet.[pcms]
 [fc]
 [vo_hay s="hayami1035"]
 [ns]Arisu[nse]
-"Åc?"[pcms]
+"...?"[pcms]
 
 *918|
 [fc]

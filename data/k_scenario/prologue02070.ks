@@ -56,7 +56,7 @@ beyond, there were two large buildings...[pcms]
 *7372|
 [fc]
 [ns]Ookura Hiroshi[nse]
-`It's the shopping mall... That place might be safe...[pcms]
+It's the shopping mall... That place might be safe...[pcms]
 
 [ChrSetEx layer=4 chbase="koba_n04"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
@@ -64,13 +64,13 @@ beyond, there were two large buildings...[pcms]
 [fc]
 [vo_kob s="koba0110"]
 [ns]Kobayashi[nse]
-`That's right... Yes! I remember reading in a pamphlet that[r]
+That's right... Yes! I remember reading in a pamphlet that[r]
 it's designated as an evacuation site in case of disasters![pcms]
 
 *7374|
 [fc]
 [ns]Ookura Hiroshi[nse]
-`Alright...!![pcms]
+Alright...!![pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
@@ -93,7 +93,7 @@ district and bearing down on us.[pcms]
 *7377|
 [fc]
 [ns]Ookura Hiroshi[nse]
-`Damn it! What the hell are these guys!![pcms]
+Damn it! What the hell are these guys!![pcms]
 
 *7378|
 [fc]
@@ -109,12 +109,12 @@ like I couldn't make any calls at all.[pcms]
 *7380|
 [fc]
 [ns]Dog[nse]
-`Woof!! Woof woof!![pcms]
+Woof!! Woof woof!![pcms]
 
 *7381|
 [fc]
 [ns]Ookura Hiroshi[nse]
-`What the!?[pcms]
+What the!?[pcms]
 
 *7382|
 [fc]
@@ -124,7 +124,7 @@ appeared out of nowhere and ran up to us.[pcms]
 *7383|
 [fc]
 [ns]Dog[nse]
-`Woof! Woof!![pcms]
+Woof! Woof!![pcms]
 
 *7384|
 [fc]
@@ -137,12 +137,12 @@ trying to tell us something.[pcms]
 [fc]
 [vo_kob s="koba0111"]
 [ns]Kobayashi[nse]
-`Hey, have you ever seen this Siberian Husky before...?[pcms]
+Hey, have you ever seen this Siberian Husky before...?[pcms]
 
 *7386|
 [fc]
 [ns]Ookura Hiroshi[nse]
-`No... Huskies are everywhere, aren't they?[pcms]
+No... Huskies are everywhere, aren't they?[pcms]
 
 *7387|
 [fc]
@@ -156,7 +156,7 @@ hem of Hayami's skirt.[pcms]
 [fc]
 [vo_hay s="hayami0123"]
 [ns]Arisu[nse]
-`Yahh!! Hey, let go of me!![pcms]
+Yahh!! Hey, let go of me!![pcms]
 
 *7389|
 [fc]
@@ -172,12 +172,12 @@ skirt and barked once before running off somewhere.[pcms]
 [fc]
 [vo_hay s="hayami0124"]
 [ns]Arisu[nse]
-`What was that about? Geez...[pcms]
+What was that about? Geez...[pcms]
 
 *7391|
 [fc]
 [ns]Ookura[nse]
-`Huh...?[pcms]
+Huh...?[pcms]
 
 *7392|
 [fc]
@@ -187,7 +187,7 @@ us.[pcms]
 *7393|
 [fc]
 [ns]Dog[nse]
-`Woof woof!![pcms]
+Woof woof!![pcms]
 
 [chara_int_ layer=4]
 [ChrSetEx layer=2 chbase="koba_n12"][ChrSetXY layer=2 x=0 y=0]
@@ -197,13 +197,13 @@ us.[pcms]
 [fc]
 [vo_kob s="koba0112"]
 [ns]Kobayashi[nse]
-`Maybe it wants us to follow? Like its owner is hurt or[r]
+Maybe it wants us to follow? Like its owner is hurt or[r]
 something...[pcms]
 
 *7395|
 [fc]
 [ns]Ookura Hiroshi[nse]
-`Ah! Could it be the dog of the person who collapsed in the[r]
+Ah! Could it be the dog of the person who collapsed in the[r]
 park!?[pcms]
 
 [ChrSetEx layer=2 chbase="koba_n04"][ChrSetXY layer=2 x=0 y=0][trans_c cross time=150]
@@ -212,7 +212,7 @@ park!?[pcms]
 [fc]
 [vo_kob s="koba0113"]
 [ns]Kobayashi[nse]
-`I don't know, but it's possible.[pcms]
+I don't know, but it's possible.[pcms]
 
 [chara_int][trans_c cross time=150]
 
@@ -242,7 +242,7 @@ Husky.[pcms]
 *7398|
 [fc]
 [ns]Ookura Hiroshi[nse]
-`This dog is...![pcms]
+This dog is...![pcms]
 
 *7399|
 [fc]
@@ -254,12 +254,12 @@ family I had seen on my way home from school.[pcms]
 [fc]
 [vo_kob s="koba0114"]
 [ns]Kobayashi[nse]
-`So it was her Husky after all...[pcms]
+So it was her Husky after all...[pcms]
 
 *7401|
 [fc]
 [ns]John[nse]
-`Whine...[pcms]
+Whine...[pcms]
 
 *7402|
 [fc]
@@ -281,18 +281,18 @@ Why is she here...? Was she on a training journey too...?[pcms]
 [fc]
 [vo_may s="maya0010"]
 [ns]Young Lady[nse]
-`...You guys...[pcms]
+...You guys...[pcms]
 
 *7406|
 [fc]
 [ns]Ookura Hiroshi[nse]
-`Eh?[pcms]
+Eh?[pcms]
 
 *7407|
 [fc]
 [vo_may s="maya0011"]
 [ns]Young Lady[nse]
-`...Are you guys... sane...?[pcms]
+...Are you guys... sane...?[pcms]
 
 *7408|
 [fc]
@@ -312,7 +312,7 @@ would make sense for her to doubt even a guy like me...[pcms]
 *7411|
 [fc]
 [ns]Ookura[nse]
-`For now, yes. At least, I have no intention of attacking[r]
+For now, yes. At least, I have no intention of attacking[r]
 you.[pcms]
 
 [evcg storage="NEV002b"][trans_c cross time=301]
@@ -330,7 +330,7 @@ Of course... It's not a situation for jokes right now...[pcms]
 *7414|
 [fc]
 [ns]Ookura Hiroshi[nse]
-`...Hey, do you know anything? Why is this shopping district[r]
+...Hey, do you know anything? Why is this shopping district[r]
 destroyed? Why are there so many crazed people wandering[r]
 around?[pcms]
 

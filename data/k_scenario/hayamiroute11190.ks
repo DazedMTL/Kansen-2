@@ -368,8 +368,8 @@ still in that shopping mall. Please help them!"[pcms]
 *4123|
 [fc]
 Without approaching us, the man who had been standing by the[r]
-passenger seat spoke to someone insideprobably the[r]
-driverand then walked towards the back of the truck.[pcms]
+passenger seat spoke to someone insideprobably the driverand[r]
+then walked towards the back of the truck.[pcms]
 
 *4124|
 [fc]

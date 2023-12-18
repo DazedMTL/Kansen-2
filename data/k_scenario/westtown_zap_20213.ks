@@ -34,7 +34,7 @@ out the situation on the third floor.[pcms]
 [fc]
 [vo_hay s="hayami0396"]
 [ns]Arisu[nse]
-"c!"[pcms]
+"...!"[pcms]
 ;//ƒuƒƒbƒN‚Q‚O‚Q‚P‚P‚Ì—¬—p
 
 ;//ôFbgm011 stop

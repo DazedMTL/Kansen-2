@@ -439,8 +439,7 @@ it had ever been before.[pcms]
 [fc]
 [vo_hay s="hayami0975"]
 [ns]Arisu[nse]
-"I'm going to insert it now... It's okay, do it,[r]
-Hiroshi..."[pcms]
+"I'm going to insert it now... It's okay, do it, Hiroshi..."[pcms]
 
 *10098|
 [fc]
@@ -540,8 +539,8 @@ die...!![pcms]
 [fc]
 [vo_hay s="hayami0979"]
 [ns]Arisu[nse]
-"Hiuuh!! Fuaaah...!! It feels so good... My pussy feels[r]
-so good, Hiroshi...!!"[pcms]
+"Hiuuh!! Fuaaah...!! It feels so good... My pussy feels so[r]
+good, Hiroshi...!!"[pcms]
 
 *10116|
 [fc]

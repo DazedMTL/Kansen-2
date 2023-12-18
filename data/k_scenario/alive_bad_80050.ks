@@ -44,7 +44,7 @@ woman down...[pcms]
 *2313|
 [fc]
 [ns]Ookura Hiroshi[nse]
-`Hey... Yuu... don't you want to have sex with Naomi? I[r]
+Hey... Yuu... don't you want to have sex with Naomi? I[r]
 really want to violate that strong-looking woman, me...[pcms]
 
 [ChrSetEx layer=4 chbase="koba_t04"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -53,12 +53,12 @@ really want to violate that strong-looking woman, me...[pcms]
 [fc]
 [vo_kob s="koba0582"]
 [ns]Kobayashi[nse]
-`Eh~...? Are you serious? She looks so strong though~?[pcms]
+Eh~...? Are you serious? She looks so strong though~?[pcms]
 
 *2315|
 [fc]
 [ns]Ookura Hiroshi[nse]
-`If it's the two of us, we can probably manage something,[r]
+If it's the two of us, we can probably manage something,[r]
 right? Plus, we can get that old man to help us...[pcms]
 
 [ChrSetEx layer=4 chbase="koba_t02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -67,7 +67,7 @@ right? Plus, we can get that old man to help us...[pcms]
 [fc]
 [vo_kob s="koba0583"]
 [ns]Kobayashi[nse]
-`Eh~... I really don't like that old man... But if it's a[r]
+Eh~... I really don't like that old man... But if it's a[r]
 request from Hiro...[pcms]
 
 *2317|
@@ -77,7 +77,7 @@ Yuu blushed and nodded. It seemed he agreed to my request.[pcms]
 *2318|
 [fc]
 [ns]Ookura Hiroshi[nse]
-`Alright... now seems like we can do it... Let's go, Yuu![pcms]
+Alright... now seems like we can do it... Let's go, Yuu![pcms]
 
 [ChrSetEx layer=4 chbase="koba_t01"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
@@ -85,7 +85,7 @@ Yuu blushed and nodded. It seemed he agreed to my request.[pcms]
 [fc]
 [vo_kob s="koba0584"]
 [ns]Kobayashi[nse]
-`Yeah...! Wow~![pcms]
+Yeah...! Wow~![pcms]
 
 [ChrSetEx layer=4 chbase="turuta_n03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
@@ -93,7 +93,7 @@ Yuu blushed and nodded. It seemed he agreed to my request.[pcms]
 [fc]
 [vo_nao s="naomi0162"]
 [ns]Naomi[nse]
-`That's why the truck is... Eh!? Wha... What are you guys[r]
+That's why the truck is... Eh!? Wha... What are you guys[r]
 doing! Kyaaah![pcms]
 
 [ChrSetEx layer=4 chbase="sugo_n04"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -101,12 +101,12 @@ doing! Kyaaah![pcms]
 *2321|
 [fc]
 [ns]Sugou[nse]
-`Wha... What's going on with you guys?[pcms]
+Wha... What's going on with you guys?[pcms]
 
 *2322|
 [fc]
 [ns]Ookura Hiroshi[nse]
-`Yuu! Hold Naomi down!! Hey old man! You help violate Naomi[r]
+Yuu! Hold Naomi down!! Hey old man! You help violate Naomi[r]
 too!![pcms]
 
 [ChrSetEx layer=4 chbase="sugo_n02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -114,7 +114,7 @@ too!![pcms]
 *2323|
 [fc]
 [ns]Sugou[nse]
-`Heh... You guys are pretty daring, huh!? Alright, let's do[r]
+Heh... You guys are pretty daring, huh!? Alright, let's do[r]
 this!?[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_h03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -123,7 +123,7 @@ this!?[pcms]
 [fc]
 [vo_may s="maya_bad0001"]
 [ns]Maya[nse]
-`I'm scared...[pcms]
+I'm scared...[pcms]
 
 [ChrSetEx layer=4 chbase="hayami_a09"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
@@ -131,7 +131,7 @@ this!?[pcms]
 [fc]
 [vo_hay s="hayami1220"]
 [ns]Arisu[nse]
-`Hey~!? What's wrong Hiroshi...? It's kind of scary...?[r]
+Hey~!? What's wrong Hiroshi...? It's kind of scary...?[r]
 Maya-chan, shall we go over there together?[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_h02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -140,7 +140,7 @@ Maya-chan, shall we go over there together?[pcms]
 [fc]
 [vo_may s="maya_bad0002"]
 [ns]Maya[nse]
-`Yeah...[pcms]
+Yeah...[pcms]
 
 [ChrSetEx layer=4 chbase="turuta_d02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
@@ -148,7 +148,7 @@ Maya-chan, shall we go over there together?[pcms]
 [fc]
 [vo_nao s="naomi0163"]
 [ns]Naomi[nse]
-`You guys... Don't you want to be saved!? Stop this stupid[r]
+You guys... Don't you want to be saved!? Stop this stupid[r]
 act!! Youuuu! Let go!![pcms]
 
 [ChrSetEx layer=4 chbase="koba_t04"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -157,7 +157,7 @@ act!! Youuuu! Let go!![pcms]
 [fc]
 [vo_kob s="koba0585"]
 [ns]Kobayashi[nse]
-`Since it's a request from Hiro... sorry... umm... you're[r]
+Since it's a request from Hiro... sorry... umm... you're[r]
 really strong...[pcms]
 
 [ChrSetEx layer=4 chbase="sugo_n03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -165,7 +165,7 @@ really strong...[pcms]
 *2329|
 [fc]
 [ns]Sugou[nse]
-`Alright, I'll start by violating this cheeky mouth first!?[r]
+Alright, I'll start by violating this cheeky mouth first!?[r]
 Hyahah!![pcms]
 
 *2330|
@@ -181,7 +181,7 @@ was three men.[pcms]
 *2332|
 [fc]
 [ns]Ookura Hiroshi[nse]
-`Heheh!! Hahaha!! I'll be the first! I'll be the first to[r]
+Heheh!! Hahaha!! I'll be the first! I'll be the first to[r]
 enter Naomi's pussy!![pcms]
 
 [ChrSetEx layer=4 chbase="turuta_a01"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -190,7 +190,7 @@ enter Naomi's pussy!![pcms]
 [fc]
 [vo_nao s="naomi0164"]
 [ns]Naomi[nse]
-`Aguh... Stop... Stop it!! You guys... Noooo!![pcms]
+Aguh... Stop... Stop it!! You guys... Noooo!![pcms]
 
 ;//★イベント
 ;//iptd-093jp-06.jpg
@@ -225,30 +225,30 @@ arms, and we roughly tore off the clothes she was wearing.[pcms]
 [fc]
 [vo_nao s="naomi0165"]
 [ns]Naomi[nse]
-`Damn it!! Like this... Let go!! Guahh!! Stop it!![pcms]
+Damn it!! Like this... Let go!! Guahh!! Stop it!![pcms]
 
 *2336|
 [fc]
 [vo_kob s="koba0586"]
 [ns]Kobayashi[nse]
-`Her breasts... they're so big~... I also wish I had such...[pcms]
+Her breasts... they're so big~... I also wish I had such...[pcms]
 
 *2337|
 [fc]
 [ns]Sugou[nse]
-`Oraa! Lick my dick now!![pcms]
+Oraa! Lick my dick now!![pcms]
 
 *2338|
 [fc]
 [ns]Ookura Hiroshi[nse]
-`Hah... hahah...!! I'm going to put it in Naomi's... Naomi's[r]
+Hah... hahah...!! I'm going to put it in Naomi's... Naomi's[r]
 pussy now!![pcms]
 
 *2339|
 [fc]
 [vo_nao s="naomi0166"]
 [ns]Naomi[nse]
-`Stop! Stop it... Stop it!! You guys, after all... Guahhh!![pcms]
+Stop! Stop it... Stop it!! You guys, after all... Guahhh!![pcms]
 
 *2340|
 [fc]
@@ -258,7 +258,7 @@ It's somehow exciting...[pcms]
 *2341|
 [fc]
 [ns]Sugou[nse]
-`Oh-oh-, those tan lines are nice, huh? They fit quite[r]
+Oh-oh-, those tan lines are nice, huh? They fit quite[r]
 well!! My dick is getting excited for the first time in a[r]
 while too!![pcms]
 
@@ -266,19 +266,19 @@ while too!![pcms]
 [fc]
 [vo_kob s="koba0587"]
 [ns]Kobayashi[nse]
-`I've always wanted breasts like these..., then maybe...[pcms]
+I've always wanted breasts like these..., then maybe...[pcms]
 
 *2343|
 [fc]
 [vo_nao s="naomi0167"]
 [ns]Naomi[nse]
-`Nguh... Stop it... Nbuuhh... Buahh! Stop it... Youuuu...[r]
+Nguh... Stop it... Nbuuhh... Buahh! Stop it... Youuuu...[r]
 Nbuahh! Ngyiih![pcms]
 
 *2344|
 [fc]
 [ns]Ookura Hiroshi[nse]
-`Ah... huh? What's that...? Why isn't it going in...?[pcms]
+Ah... huh? What's that...? Why isn't it going in...?[pcms]
 
 *2345|
 [fc]
@@ -302,32 +302,32 @@ won't go in, huh... What should I do now...[pcms]
 *2349|
 [fc]
 [ns]Sugou[nse]
-`Hey you, what are you dawdling for!! Hurry up and stick it[r]
+Hey you, what are you dawdling for!! Hurry up and stick it[r]
 in! You're holding up the line!![pcms]
 
 *2350|
 [fc]
 [ns]Ookura Hiroshi[nse]
-`Even if you say that... it's not wet!! It won't go in!![pcms]
+Even if you say that... it's not wet!! It won't go in!![pcms]
 
 *2351|
 [fc]
 [vo_nao s="naomi0168"]
 [ns]Naomi[nse]
-`Idiot! Such a thing... Buahh!! Nbuuhh... Guchuu!! Jyuu![pcms]
+Idiot! Such a thing... Buahh!! Nbuuhh... Guchuu!! Jyuu![pcms]
 
 *2352|
 [fc]
 [vo_kob s="koba0588"]
 [ns]Kobayashi[nse]
-`Huh~? Your nipples are getting hard~? Even though you're[r]
+Huh~? Your nipples are getting hard~? Even though you're[r]
 resisting, what's up with that? Huh~? Let me lick them~![pcms]
 
 *2353|
 [fc]
 [vo_nao s="naomi0169"]
 [ns]Naomi[nse]
-`Fuaahh... Nguh... Jyubuuh..., Stop it... Nahh! Let me[r]
+Fuaahh... Nguh... Jyubuuh..., Stop it... Nahh! Let me[r]
 goooo!![pcms]
 
 *2354|
@@ -345,34 +345,34 @@ against her.[pcms]
 *2356|
 [fc]
 [ns]Ookura Hiroshi[nse]
-`Ah... this feels good too.... Hahaha.... watching Naomi[r]
+Ah... this feels good too... Hahaha... watching Naomi[r]
 masturbate with mine.[pcms]
 
 *2357|
 [fc]
 [vo_nao s="naomi0170"]
 [ns]Naomi[nse]
-`Ubuahh... Nfuhh-uhh... Jyubuhh...! Hahh... Fuh-uhh... Stop[r]
+Ubuahh... Nfuhh-uhh... Jyubuhh...! Hahh... Fuh-uhh... Stop[r]
 it... Nbuahh![pcms]
 
 *2358|
 [fc]
 [vo_kob s="koba0589"]
 [ns]Kobayashi[nse]
-`Your nipples are so hard and big..., I'm jealous~... I want[r]
+Your nipples are so hard and big..., I'm jealous~... I want[r]
 them too~.[pcms]
 
 *2359|
 [fc]
 [vo_nao s="naomi0171"]
 [ns]Naomi[nse]
-`Stop it! Don't bite them! Nahhh! Fuhh.. Faaah! Nbuuhh..[r]
+Stop it! Don't bite them! Nahhh! Fuhh.. Faaah! Nbuuhh..[r]
 Juppuhh![pcms]
 
 *2360|
 [fc]
 [ns]Sugou[nse]
-`You're really useless, you know that? Just shut up and lick[r]
+You're really useless, you know that? Just shut up and lick[r]
 like an idiot! And you're really pathetic at this too.[pcms]
 
 *2361|
@@ -665,7 +665,7 @@ guhh..."[pcms]
 *2410|
 [fc]
 [ns]Ookura Hiroshi[nse]
-"Uaaahhh.. Naomi's.... kuh..."[pcms]
+"Uaaahhh.. Naomi's... kuh..."[pcms]
 
 *2411|
 [fc]
@@ -966,263 +966,243 @@ to whisper.[pcms]
 
 *2461|
 [fc]
-少し哀しそうに声を震わせ、衝撃的な言葉を続ける[r]
-ユウの目は、俺をまっすぐに見つめていた。[pcms]
+With a voice trembling with a hint of sadness, Yuu continued[r]
+with shocking words, her eyes staring straight into mine.[pcms]
 
 *2462|
 [fc]
 [vo_kob s="koba0607"]
 [ns]Kobayashi[nse]
-「ボク……ヒロがすきだったんだ……。でも、ボクは[r]
-　おとこのこだから、ずっとがまんしてたんだけど、[r]
-　きょうはなんだか……」[pcms]
+"I... I've always liked you, Hiro... But because I'm a boy,[r]
+I've always held back. But today, somehow..."[pcms]
 
 *2463|
 [fc]
 [vo_kob s="koba0608"]
 [ns]Kobayashi[nse]
-「なんだか、がまんできなかったんだ……、ほんとう[r]
-　は、ダメだって……おもってたんだけど……、[r]
-　さっきのヒロのきもちよさそうなかおみてたら……」[pcms]
+"Somehow, I couldn't hold back anymore... I knew it was[r]
+wrong... but when I saw how good you looked earlier..."[pcms]
 
 *2464|
 [fc]
 [vo_kob s="koba0609"]
 [ns]Kobayashi[nse]
-「ボク……どうしても……ヒロと……エッチ……、[r]
-　エッチしたくなったんだっ！　ボクも、きもちよく[r]
-　なりたいんだっ……ヒロと……いっしょにっ！！」[pcms]
+"I just... really wanted to have sex... with you, Hiro! I[r]
+wanted to feel good too... with you... together!!"[pcms]
 
 *2465|
 [fc]
 [ns]Ookura Hiroshi[nse]
-「ユウっ……うっ……」[pcms]
+"Yuu... ugh..."[pcms]
 
 *2466|
 [fc]
 [vo_kob s="koba0610"]
 [ns]Kobayashi[nse]
-「きもちよく……んっ！　はっ……あははっ！[r]
-　ヒロのおちんちんで……きもちよくなるっ！！[r]
-　ふあっ！　おちんちん……しびれそうっ！！」[pcms]
+"Feeling good... nnh! Haah... ahaha! With your cock... I'm[r]
+going to feel good!! Fuaah! My cock... it's tingling!!"[pcms]
 
 *2467|
 [fc]
 [ns]Ookura Hiroshi[nse]
-「うあぁっ……きついっ……ユウっ！　ダメだ……、[r]
-　はなれろっ！！　ユウッ！！」[pcms]
+"Uaah... it's tight... Yuu! No, this is wrong... get off[r]
+me!! Yuu!!"[pcms]
 
 *2468|
 [fc]
-男同士でこんな事をするのは、おかしいと思い、[r]
-ユウをどかそうとした。[pcms]
+Thinking it was wrong to do this with another man, I tried[r]
+to push Yuu away.[pcms]
 
 *2469|
 [fc]
-しかし、ユウに押さえつけられている事と、[r]
-頭を打ったせいで体が痺れた様になっていて、[r]
-ふりほどく事が出来なかった。[pcms]
+However, because Yuu was holding me down and because my head[r]
+was hit, my body felt numb and I couldn't shake him off.[pcms]
 
 *2470|
 [fc]
 [vo_kob s="koba0611"]
 [ns]Kobayashi[nse]
-「やぁ……、ボクは、ヒロをきもちよくさせるんだ！[r]
-　ボクも……きもちよくなって……んぁぁっ！！[r]
-　ヒロ……おねがい……いまだけ……んあぁっ」[pcms]
+"Yaa... I'm going to make Hiro feel good! I'm going to feel[r]
+good too... nnaah!! Hiro... please... just for now...[r]
+nnaahh"[pcms]
 
 *2471|
 [fc]
-俺が逃げようとしている事に気が付いたのか、ユウは[r]
-泣きそうな声で懇願していた。[pcms]
+Realizing that I was trying to escape, Yuu pleaded with a[r]
+voice that sounded like she was about to cry.[pcms]
 
 *2472|
 [fc]
 [ns]Ookura Hiroshi[nse]
-「ユウ……」[pcms]
+"Yuu..."[pcms]
 
 *2473|
 [fc]
-ユウの、男とは思えないような顔や声に、[r]
-俺はだんだんこのままでも良いかと思った瞬間、[r]
-抵抗することがバカバカしく思えてきた。[pcms]
+As I looked at Yuu's face and heard her voice, which didn't[r]
+seem like a man's, I began to think that maybe this was[r]
+okay, and resisting started to feel foolish.[pcms]
 
 *2474|
 [fc]
-このままで……いいか……。[r]
-ユウが、だんだんおんなにみえてきたし……。[r]
-それに……きもちいーし……。[pcms]
+This is fine... Yuu is starting to look more like a woman to[r]
+me... And it feels good...[pcms]
 
 *2475|
 [fc]
-あれ……。[r]
-おれ、いまユウとセックスしてんだよな……。[r]
-てか、おとこも、おんなもかわんねーな……。[pcms]
+Wait... I'm having sex with Yuu right now, aren't I? Well,[r]
+it doesn't matter if it's a man or a woman...[pcms]
 
 *2476|
 [fc]
-このままでいいか……。[r]
-なんかふわふわしてきたし……。[r]
-ユウも、かわいいかおしてるし……。[pcms]
+This is fine... I'm feeling kind of floaty... And Yuu has[r]
+such a cute face...[pcms]
 
 *2477|
 [fc]
 [ns]Ookura Hiroshi[nse]
-「うぁっ……うぅっ！」[pcms]
+"Uah... uuh!"[pcms]
 
 *2478|
 [fc]
 [vo_kob s="koba0612"]
 [ns]Kobayashi[nse]
-「やぁっ……すごっ……ヒロの……あっつい……。[r]
-　もう、なにもかんがえられないっ……んあっ！[r]
-　あたま……まっしろに……」[pcms]
+"Yaa... amazing... Hiro's so hot... I can't think of[r]
+anything else... nnaah! My head's going blank..."[pcms]
 
 *2479|
 [fc]
-ユウは目に涙を溢れさせながら、自分のチンコを強く[r]
-擦って、うわずった声を上げている。[pcms]
+Yuu, with tears in her eyes, was rubbing her cock vigorously[r]
+and letting out moans.[pcms]
 
 *2480|
 [fc]
-ユウのなか……おんなのとちがって……、[r]
-すげえきっつい……。[pcms]
+Inside Yuu... it's different from a woman's... incredibly[r]
+tight...[pcms]
 
 *2481|
 [fc]
-それに……ユウがチンコこすると、けつあなが……、[r]
-すっげーしめつけてくる……。[pcms]
+And when Yuu rubs her cock, her ass clenches so tight...[pcms]
 
 *2482|
 [fc]
 [vo_kob s="koba0613"]
 [ns]Kobayashi[nse]
-「ボク……ヘンなのはわかってる……でも、どうして[r]
-　もヒロとこうしたかったんだ……！　いっかいだけ、[r]
-　いっかいだけでいいから……」[pcms]
+"I know it's weird... but I really wanted to do this with[r]
+Hiro...! Just once, only once is fine..."[pcms]
 
 *2483|
 [fc]
 [vo_kob s="koba0614"]
 [ns]Kobayashi[nse]
-「ヒロと、いっしょに……イッてみたかったんだ！！[r]
-　だから……ボク……ボク……うぁぁぁっ！！[r]
-　ヒロのが……ボクのうらがわにあたって……あっ！」[pcms]
+"I wanted to cum together with Hiro!! That's why... I...[r]
+I... uwaahh!! Hiro's hitting my backside... ah!"[pcms]
 
 *2484|
 [fc]
 [ns]Ookura[nse]
-「くっ……う……きもち……いい……ユウの……、[r]
-　うっ……なか」[pcms]
+"Kuh... ugh... it feels good... inside Yuu..., ugh..."[pcms]
 
 *2485|
 [fc]
 [vo_kob s="koba0615"]
 [ns]Kobayashi[nse]
-「あはっ……ヒロ……ボク、といっしょに……イッて[r]
-　くれる……？　ねえ……ヒロぉ……」[pcms]
+"Ahah... Hiro... will you cum with me? Please? Hey...[r]
+Hiroo..."[pcms]
 
 *2486|
 [fc]
-チンコの先を手の平で撫で回し、ユウは甘い声を上げ[r]
-ている。[pcms]
+Stroking the tip of the cock with her palm, Yuu let out a[r]
+sweet moan.[pcms]
 
 *2487|
 [fc]
-撫で回されたチンコはユウの手を押し上げる程に強く[r]
-跳ね、その先から溢れた我慢汁が、俺の腹を濡らす。[pcms]
+The cock that was being stroked pushed up against Yuu's hand[r]
+so strongly that it throbbed, and the pre-cum that[r]
+overflowed from the tip wet my stomach.[pcms]
 
 *2488|
 [fc]
-男で、親友であるユウとセックスをしている。[r]
-異常な事だって事は、分かっている。[r]
-でも、今はもうそんなことはどうでも良くなっていた。[pcms]
+Having sex with Yuu, a man and my best friend. I know it's[r]
+abnormal. But now, none of that mattered anymore.[pcms]
 
 *2489|
 [fc]
-今はただ、この気持ちよさが続けばいい。[pcms]
+Now, all that matters is that this pleasure continues.[pcms]
 
 *2490|
 [fc]
-ただそれだけでいい……。[pcms]
+Just that is enough...[pcms]
 
 *2491|
 [fc]
 [ns]Ookura[nse]
-「ユウ……おれ……さいしょは……うぁっ……いや、[r]
-　だったけど……いまは……そんなのどうでもいい。[r]
-　きもちいいし……おまえの、なか……」[pcms]
+"Yuu... at first I was against it... uahh... but now, none[r]
+of that matters. It feels good and your inside..."[pcms]
 
 *2492|
 [fc]
-そう……。おとこでも、おんなでも……。[r]
-きもちいいから……もう……。[pcms]
+Yes... Whether it's a man or a woman doesn't matter anymore.[r]
+It feels good so that's all...[pcms]
 
 *2493|
 [fc]
 [vo_kob s="koba0616"]
 [ns]Kobayashi[nse]
-「……うあぁっ……んうっ……うれっ、しいっ……、[r]
-　んあっ！！　ヒロ……すきっ……んあぁっ！　あぁ、[r]
-　あっ、ああぁっ、ぼ、ボクっ……もっ……あぁっ！」[pcms]
+"...uaahh... nnuh... happy..., nnaah!! Hiro... love you...[r]
+nnaahh! Ahh, ah, ahhhh, I'm going to cummm!"[pcms]
 
 *2494|
 [fc]
 [ns]Ookura Hiroshi[nse]
-「うあっ……ユウっ……そんなにっ……ああっ！[r]
-　……うあっ……なんか、あたるっ……うあっ！」[pcms]
+"Uahh... Yuu... like that..., ahh! ...uahh... something's[r]
+hitting me... uahh!"[pcms]
 
 *2495|
 [fc]
-……なんだ……コレ……？[r]
-チンコが、ぜんぶきもちいい……。[pcms]
+What is this? My cock feels so good...[pcms]
 
 *2496|
 [fc]
-ユウの中に硬いモノを感じた俺は、それにチンコを[r]
-突き当て、さらに強い快感を受けようとした。[pcms]
+Feeling something hard inside Yuu, I thrust my cock against[r]
+it for an even stronger pleasure.[pcms]
 
 *2497|
 [fc]
 [vo_kob s="koba0617"]
 [ns]Kobayashi[nse]
-「う、あ、あ、あ、あっ……おちんちんのうらがぁっ！[r]
-　びりびりするっ！　そっ……そこダメっ……、あ、[r]
-　あ、あああ、あっ！　イッ……イクっ……」[pcms]
+"Uh, ah, ah, ah! The underside of my cock! It's tingling![r]
+That spot is bad..., ah, ah, ahhh! I'm going to cum..."[pcms]
 
 *2498|
 [fc]
-ユウの中の硬いソレは、神経が集中している部分らし[r]
-く、俺のモノを強く擦りつけると、すぐに限界を感じ[r]
-たのか、ユウは体を大きく震わせた。[pcms]
+The hard thing inside Yuu seemed to be where the nerves were[r]
+concentrated because when my thing rubbed against it[r]
+strongly, Yuu immediately felt the limit and her body shook[r]
+violently.[pcms]
 
 *2499|
 [fc]
 [vo_kob s="koba0618"]
 [ns]Kobayashi[nse]
-「ダメぇ――っ！　そこっ、あたま、まっしろ……に、[r]
-　あうぁ……あうぅ……んあぁっ！！　ダメ、ダメっ！[r]
-　でっ……て゛ちゃうぅ！　あ゛うぅぅっ！！」[pcms]
+"No way--! That spot makes my head go blank..., auahh...[r]
+auuhh... nnaahh!! No, no! I'm going to cum! Auuuhhh!!"[pcms]
 
 *2500|
 [fc]
 [ns]Ookura Hiroshi[nse]
-「うあぁっ……そんなにしめるなっ……すげっ……、[r]
-　ははっ、あは゛はっ……うあ゛ぁっ！！　ユ゛ぅっ！[r]
-　うあぁっ！！」[pcms]
+"Uaahh... don't clench so hard..., amazing..., haha, ahaha![r]
+Uaahh!! Yuuh! Uaahh!!"[pcms]
 
 *2501|
 [fc]
 [vo_kob s="koba0619"]
 [ns]Kobayashi[nse]
-「ほ゛く……もう゛……おちん゛ち゛んから……、[r]
-　ひ゛ゅって……て゛ちゃうよぉっ……う゛ぁぁっ！[r]
-　あ゛――――っ！！」[pcms]
+"I'm going to shoot from my cock..., uuaahh! Ah----!!"[pcms]
 
 *2502|
 [fc]
 [ns]Ookura Hiroshi[nse]
-「お゛れもっ……う゛ぁ！！」[pcms]
+"I'm also going to cumm!!"[pcms]
 
 ;[射精フラA]
 ;イベントCG射精差分
@@ -1233,16 +1213,16 @@ to whisper.[pcms]
 [fc]
 [vo_kob s="koba0620"]
 [ns]Kobayashi[nse]
-「あ゛ぁぁぁぁぁぁっぁぁあぁぁぁぁぁっ！！」[pcms]
+"Aaaaaaaaahhhhhhhhh!!"[pcms]
 
 *2504|
 [fc]
 [ns]Ookura Hiroshi[nse]
-「う゛ぁぁ……」[pcms]
+"Uaah..."[pcms]
 
 *2505|
 [fc]
-ユウと俺は、二人一緒に射精をした。[pcms]
+Yuu and I ejaculated together.[pcms]
 
 ;//俺は、ユウの中に。
 ;//ユウは、弧を描いて。
@@ -1251,8 +1231,8 @@ to whisper.[pcms]
 
 *2506|
 [fc]
-俺がユウの中に熱い精液を流し込む中、[r]
-ユウもまた、身体を震わせて精液を吐き出す。[pcms]
+As I poured my hot semen inside Yuu, she too shook her body[r]
+and released her semen.[pcms]
 
 ;//ユウは俺の腹の上に出した精液を指ですくい、
 ;//うっとりとした顔で、それをしばらく見つめていた。
@@ -1261,8 +1241,9 @@ to whisper.[pcms]
 
 *2507|
 [fc]
-ユウはうっとりとした顔で、萎え始めた俺のチンコを[r]
-まさぐると、精液を指に絡めながら歓喜の声を上げた。[pcms]
+With an ecstatic expression, Yuu fondled my wilting cock and[r]
+let out a cry of joy as she twined the semen around her[r]
+fingers.[pcms]
 
 [evcg storage="HEV804c"][trans_c cross time=301]
 
@@ -1270,21 +1251,20 @@ to whisper.[pcms]
 [fc]
 [vo_kob s="koba0621"]
 [ns]Kobayashi[nse]
-「はぁっ……はっ……ほ゛く……ひろ゛と……、[r]
-　え゛っち……しちゃった゛……あははっ……、あは、[r]
-　はははははっ……うれ゛しぃっ……あははっ！」[pcms]
+"Haah... haah... I had sex with Hiro..., ahaha..., ahaha,[r]
+hahaha! I'm so happy..., ahaha!"[pcms]
 
 *2509|
 [fc]
 [ns]Ookura Hiroshi[nse]
-「ゆ゛う……きも゛ちよ゛かっ……た……。[r]
-　おれ゛……ねむ゛い……」[pcms]
+"Yuu... it felt good.... I'm sleepy..."[pcms]
 
 *2510|
 [fc]
-連続で射精し、疲れた俺は猛烈な睡魔に襲われ、[r]
-Unable to move even a fingertip, my body numb, I remained[r]
-connected to Yuu and closed my eyes right there.[pcms]
+After ejaculating repeatedly and feeling exhausted, an[r]
+overwhelming sleepiness overcame me. Unable to move even a[r]
+fingertip, my body numb, I remained connected to Yuu and[r]
+closed my eyes right there.[pcms]
 
 *2511|
 [fc]

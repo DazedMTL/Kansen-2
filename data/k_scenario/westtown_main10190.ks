@@ -49,7 +49,7 @@ growling but kept its nose wrinkled.[pcms]
 *10786|
 [fc]
 [ns]Ookura Hiroshi[nse]
-"Åc?"[pcms]
+"...?"[pcms]
 
 *10787|
 [fc]

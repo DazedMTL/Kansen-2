@@ -937,23 +937,23 @@ me.[pcms]
 [vo_may s="maya0113"]
 [ns]Young Lady[nse]
 She looked down, avoiding my eyes, and hesitated to speak as[r]
-if she found it difficult to say.[pcms]
+"..."[pcms]
 
 *11580|
 [fc]
-"..."[pcms]
+"Hm?"[pcms]
 
 *11581|
 [fc]
 [vo_may s="maya0114"]
 [ns]Young Lady[nse]
-"Hm?"[pcms]
+"...because you helped me when I was in trouble after John[r]
+disappeared..."[pcms]
 
 *11582|
 [fc]
 [ns]Ookura Hiroshi[nse]
-"...because you helped me when I was in trouble after John[r]
-disappeared..."[pcms]
+Having said that much, she blushed and fell silent.[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_f04"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
@@ -961,56 +961,58 @@ disappeared..."[pcms]
 [fc]
 [vo_may s="maya0115"]
 [ns]Young Lady[nse]
-Having said that much, she blushed and fell silent.[pcms]
-
-*11584|
-[fc]
 Thinking about it, that's right... I did help her out[r]
 without expecting anything in return when she was in trouble[r]
 at that time...[pcms]
 
-*11585|
+*11584|
 [fc]
 "I see... Yuu, Hayami, and I, we were already friends with[r]
 you."[pcms]
 
-*11586|
+*11585|
 [fc]
-[ns]Ookura Hiroshi[nse]
 Upon hearing that, she looked up and I smiled and gave her a[r]
 light wave.[pcms]
 
+*11586|
+[fc]
+[ns]Ookura Hiroshi[nse]
+"My name is Ookura. First name Hiroshi. Nice to meet you"[pcms]
+
 *11587|
 [fc]
-"My name is Ookura. First name Hiroshi. Nice to meet you"[pcms]
+She smiled shyly and nodded slightly as if bowing in return.[pcms]
 
 *11588|
 [fc]
 [ns]Ookura Hiroshi[nse]
-She smiled shyly and nodded slightly as if bowing in return.[pcms]
+"Ah, you can call me Ookura or Hiroshi. I don't like being[r]
+called with '-kun' by friends."[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_n02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *11589|
 [fc]
-"Ah, you can call me Ookura or Hiroshi. I don't like being[r]
-called with '-kun' by friends."[pcms]
+"Hi-Hiro, shi...?"[pcms]
 
 *11590|
 [fc]
 [ns]Ookura Hiroshi[nse]
-"Hi-Hiro, shi...?"[pcms]
+"Yeah, Hiroshi. What about you? What's your name?"[pcms]
 
 *11591|
 [fc]
 [vo_may s="maya0116"]
 [ns]Young Lady[nse]
-"Yeah, Hiroshi. What about you? What's your name?"[pcms]
+"Jinguuji, Maya..."[pcms]
 
 *11592|
 [fc]
 [ns]Ookura Hiroshi[nse]
-"Jinguuji, Maya..."[pcms]
+I almost blurted out that her surname sounded very wealthy,[r]
+but I managed to swallow the words just in time, as they[r]
+seemed to be a landmine for her.[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_n03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
@@ -1018,13 +1020,12 @@ called with '-kun' by friends."[pcms]
 [fc]
 [vo_may s="maya0117"]
 [ns]Young Lady[nse]
-I almost blurted out that her surname sounded very wealthy,[r]
-but I managed to swallow the words just in time, as they[r]
-seemed to be a landmine for her.[pcms]
+"I... I also..."[pcms]
 
 *11594|
 [fc]
-"I... I also..."[pcms]
+She murmured in a fading voice and hesitated to continue,[r]
+struggling to speak.[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_f04"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
@@ -1032,50 +1033,50 @@ seemed to be a landmine for her.[pcms]
 [fc]
 [vo_may s="maya0120"]
 [ns]Maya[nse]
-She murmured in a fading voice and hesitated to continue,[r]
-struggling to speak.[pcms]
+"..."[pcms]
 
 *11596|
 [fc]
-"..."[pcms]
+"Hm?"[pcms]
 
 *11597|
 [fc]
 [vo_may s="maya0121"]
 [ns]Maya[nse]
-"Hm?"[pcms]
+"I also prefer to be called by my name..."[pcms]
 
 *11598|
 [fc]
 [ns]Ookura Hiroshi[nse]
-"I also prefer to be called by my name..."[pcms]
+She looked at me with an anxious face, wondering how I would[r]
+react, and I returned the look with a smile.[pcms]
 
 *11599|
 [fc]
 [vo_may s="maya0122"]
 [ns]Maya[nse]
-She looked at me with an anxious face, wondering how I would[r]
-react, and I returned the look with a smile.[pcms]
+"Okay. Then, Maya-chan it is."[pcms]
 
 *11600|
 [fc]
-"Okay. Then, Maya-chan it is."[pcms]
+She nodded slightly with her gaze on the floor, and perhaps[r]
+it was my imagination, but she seemed somewhat happy.[pcms]
 
 *11601|
 [fc]
 [ns]Ookura[nse]
-She nodded slightly with her gaze on the floor, and perhaps[r]
-it was my imagination, but she seemed somewhat happy.[pcms]
+I never thought I'd actually become friends with this[r]
+girl...[pcms]
 
 *11602|
 [fc]
-I never thought I'd actually become friends with this[r]
-girl...[pcms]
+And to think she wanted to be friends with us... I wonder[r]
+how Yuu and Hayami would react when they hear this...[pcms]
 
 *11603|
 [fc]
 And to think she wanted to be friends with us... I wonder[r]
-how Yuu and Hayami would react when they hear this...[pcms]
+how Yuuki and Hayami would react when they hear this...[pcms]
 
 *11604|
 [fc]

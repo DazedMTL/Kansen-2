@@ -482,7 +482,7 @@ starting to clench.[pcms]
 
 *16596|
 [fc]
-That feeling again..., my head is getting light.... Am I[r]
+That feeling again..., my head is getting light... Am I[r]
 going to cum? Am I going to cum again from this...!?[pcms]
 
 *16597|
@@ -632,7 +632,7 @@ cumming--!!"[pcms]
 
 *16617|
 [fc]
-I came.... Aaah...[pcms]
+I came... Aaah...[pcms]
 
 *16618|
 [fc]

@@ -165,7 +165,7 @@ In a whisper to him, I head outside the cargo area.[pcms]
 [fc]
 [vo_may s="maya0221"]
 [ns]Maya[nse]
-"…?"[pcms]
+"...?"[pcms]
 
 *16669|
 [fc]
@@ -214,7 +214,7 @@ out of nowhere.[pcms]
 [fc]
 [vo_may s="maya0223"]
 [ns]Maya[nse]
-"…!!"[pcms]
+"...!!"[pcms]
 ;//◎驚いて息を飲む
 
 [ChrSetEx layer=4 chbase="etc04"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -263,7 +263,7 @@ to run away.[pcms]
 [fc]
 [vo_may s="maya0225"]
 [ns]Maya[nse]
-"…!!"[pcms]
+"...!!"[pcms]
 ;//◎驚き、息を飲む
 
 *16685|

@@ -202,7 +202,7 @@ place where I can hide.[pcms]
 [fc]
 [vo_may s="maya0552"]
 [ns]Maya[nse]
-"Åc?"[pcms]
+"...?"[pcms]
 
 *3262|
 [fc]

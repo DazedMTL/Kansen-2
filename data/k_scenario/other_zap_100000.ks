@@ -531,7 +531,7 @@ twitching..."[pcms]
 *6097|
 [fc]
 [ns]Male Student 3[nse]
-"Lick, kuchu, kuchu... puaah, haa.... This small hole above[r]
+"Lick, kuchu, kuchu... puaah, haa... This small hole above[r]
 is the urethra..."[pcms]
 
 *6098|
@@ -588,7 +588,7 @@ Pssht Pshaa Pshaaaahhhhhhh...[pcms]
 [fc]
 [vo_mob s="busgaid0033"]
 [ns]Bus Guide[nse]
-"Fuaaahh, hahh, hafuu... nkuh, hifuuuhh.... faaah..."[pcms]
+"Fuaaahh, hahh, hafuu... nkuh, hifuuuhh... faaah..."[pcms]
 
 *6106|
 [fc]
@@ -600,7 +600,7 @@ good to squirt like that~"[pcms]
 [fc]
 [vo_mob s="busgaid0034"]
 [ns]Bus Guide[nse]
-"Hiuuuhh, hahh, afuuu... nhihh, fuuhh.... kufuu.... ahh....[r]
+"Hiuuuhh, hahh, afuuu... nhihh, fuuhh... kufuu... ahh...[r]
 ahhh..."[pcms]
 
 *6108|
@@ -625,8 +625,8 @@ twitching..."[pcms]
 [fc]
 [vo_mob s="busgaid0035"]
 [ns]Bus Guide[nse]
-"Ah... ahh.. so many dicks twitching..., hahh, afuu....[r]
-wahh.... kufuuu..."[pcms]
+"Ah... ahh.. so many dicks twitching..., hahh, afuu...[r]
+wahh... kufuuu..."[pcms]
 
 *6112|
 [fc]

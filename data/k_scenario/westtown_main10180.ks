@@ -154,7 +154,7 @@ was up.[pcms]
 *10770|
 [fc]
 [ns]Ookura Hiroshi[nse]
-"Åc?"[pcms]
+"...?"[pcms]
 
 [ChrSetEx layer=3 chbase="jinguji_n01"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
 

@@ -49,8 +49,8 @@ star-filled sky above.[pcms]
 [fc]
 The cars parked on the rooftop, seemingly belonging to the[r]
 guests who had come here, were all in a terrible[r]
-stateflipped on their sides, upside down, or piled on top[r]
-of each other.[pcms]
+stateflipped on their sides, upside down, or piled on top of[r]
+each other.[pcms]
 
 *11146|
 [fc]

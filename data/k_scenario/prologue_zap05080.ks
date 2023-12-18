@@ -146,7 +146,7 @@ But who am I jealous of...? Hiro...? Arisu...?[pcms]
 [fc]
 [vo_kob s="koba0132"]
 [ns]Kobayashi[nse]
-"Åc?"[pcms]
+"...?"[pcms]
 
 *8283|
 [fc]

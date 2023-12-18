@@ -320,25 +320,25 @@ the woman will shatter to pieces![pcms]
 
 *13731|
 [fc]
-アタシは世界に空を取り戻すんだ！[r]
-アタシはみんなのヒーローになれるんだ！！[pcms]
+I'm going to bring the sky back to the world! I can become[r]
+everyone's hero!![pcms]
 
 *13732|
 [fc]
 [vo_mob s="girl0005"]
 [ns]Girl[nse]
-「あはっあははっ、はっ、ひっ、ひははっ！！」[pcms]
+"Ahaha, haha, hihi, hahaha!!"[pcms]
 ;//◎録る必要なし
 
 *13733|
 [fc]
-アタシはこの世に空を取り戻すんだ！[r]
-アタシは皆のヒーロー！！[pcms]
+I will bring the sky back to this world! I am everyone's[r]
+hero!![pcms]
 
 *13734|
 [fc]
-おかっぱ女を砕くため振り下ろした金槌の軌跡に、[r]
-黒い塊が飛び込んで来た。[pcms]
+As I swung down my hammer to shatter the bob-haired girl, a[r]
+black mass flew into its path.[pcms]
 
 ;//SE：打撃音（？）
 
@@ -347,25 +347,23 @@ the woman will shatter to pieces![pcms]
 *13735|
 [fc]
 [ns]John[nse]
-「グァフッ……！！」[pcms]
+"Guaf...!!"[pcms]
 
 *13736|
 [fc]
-また、ジャマ者か！[r]
-みんなが、アタシの邪魔をする！！[pcms]
+Another nuisance! Everyone is getting in my way!![pcms]
 
 [ChrSetEx layer=4 chbase="anza_n06"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *13737|
 [fc]
-別の女も、アタシに飛びかかってきた。[r]
-ジャマをするな。[r]
-アタシのジャマをするな！[pcms]
+Another woman also lunged at me. Don't get in my way. Don't[r]
+get in my way![pcms]
 
 *13738|
 [fc]
-アタシは握りしめた手を、[r]
-まるで剣を持った西洋の兵士の様に振り回す。[pcms]
+I swing my clenched hand around like a Western soldier[r]
+wielding a sword.[pcms]
 
 [ChrSetEx layer=4 chbase="anza_n04"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
@@ -373,28 +371,26 @@ the woman will shatter to pieces![pcms]
 [fc]
 [vo_anz s="anzai0113"]
 [ns]Female[nse]
-「うぅっ！！」[pcms]
+"Ugh!!"[pcms]
 ;//◎録る必要なし
 
 *13740|
 [fc]
-アタシの金槌によって、その女は飛ばされた。[r]
-女の飛んでゆく様はまるで、風船。[pcms]
+My hammer sent the woman flying. The way she flew was just[r]
+like a balloon.[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *13741|
 [fc]
-風船が、飛んでいく。[r]
-風も無いのに、風船が飛んでいる！[r]
-その様子がおかしくて、笑いを抑える事が出来ない。[pcms]
+The balloon flies away. Even without wind, the balloon is[r]
+flying! It's so funny that I can't help but laugh.[pcms]
 
 *13742|
 [fc]
 [vo_mob s="girl0006"]
 [ns]Girl[nse]
-「ふぁははっ、あっははははは！！　ひぃーっははは[r]
-　ははははは！！」[pcms]
+"Fahahaha, ahahahahaha!! Hii-hahaha hahahaha!!"[pcms]
 ;//◎録る必要なし
 
 [ChrSetEx layer=2 chbase="ookura_n02a"][ChrSetXY layer=2 x=0 y=0]
@@ -403,23 +399,21 @@ the woman will shatter to pieces![pcms]
 *13743|
 [fc]
 [ns]Ookura[nse]
-「もうやめろ！！　どうしたんだよ！！」[pcms]
+"Stop it already!! What's wrong with you?!"[pcms]
 
 *13744|
 [fc]
-大倉と言う男と、小林…とか言うヤツが、[r]
-アタシに飛びかかってきた。[pcms]
+A man named Ookura and someone called Kobayashi... lunged at[r]
+me.[pcms]
 
 *13745|
 [fc]
-キライ……。[r]
-この男達も、アタシのジャマをするの？[r]
-この男達も、あの女の仲間？！[pcms]
+I hate it... Are these men also getting in my way? Are these[r]
+men also allies of that woman?![pcms]
 
 *13746|
 [fc]
-はなせ！！[r]
-アタシから離れろ！！！[pcms]
+Let go!! Get away from me!!![pcms]
 
 [chara_int_ layer=2][chara_int_ layer=3][trans_c cross time=150]
 [ChrSetEx layer=4 chbase="koba_n03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -428,80 +422,76 @@ the woman will shatter to pieces![pcms]
 [fc]
 [vo_kob s="koba0281"]
 [ns]Kobayashi[nse]
-「すごいちから……！！」[pcms]
+"Such incredible strength...!!"[pcms]
 ;//◎録る必要なし
 
 *13748|
 [fc]
-大倉…はまだ、良い。[r]
-小林。[r]
-この男に近寄られるのは、何かイヤだ。[pcms]
+Ookura... is still okay. Kobayashi. I don't like being[r]
+approached by this man.[pcms]
 
 *13749|
 [fc]
-大倉に抱かれたい。[r]
-このまま、この男にこの場で、犯されたい！[pcms]
+I want to be held by Ookura. Right here, by this man, I want[r]
+to be violated![pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *13750|
 [fc]
-…………。[pcms]
+...[pcms]
 
 *13751|
 [fc]
-……アタシは何を考えているのだろう？[r]
-……そうだ。[r]
-アタシの頭の中には、何かの回路が埋まっている。[pcms]
+What am I thinking? That's right. There's some kind of[r]
+circuit buried in my head.[pcms]
 
 *13752|
 [fc]
-ソレは大倉のお尻から出た音で操作され、[r]
-アタシはソレに操られている。[pcms]
+It's controlled by the sound from Ookura's ass, and I'm[r]
+being manipulated by it.[pcms]
 
 *13753|
 [fc]
-だから、アタシはおかしな事を考える。[r]
-きっと、アタシはソレに操られているだけ。[r]
-だから、アタシは悪くない。[pcms]
+That's why I think strange things. Surely, I'm just being[r]
+manipulated by it. So, I'm not bad.[pcms]
 
 *13754|
 [fc]
-アタシがおかしいのではなくて――[r]
-アタシの周りにいる、この人達がおかしいんだ！[pcms]
+It's not that I'm strange-- it's these people around me who[r]
+are strange![pcms]
 
 *13755|
 [fc]
-アタシはこんな奴等の言いなりになんて、ならない。[r]
-絶対に、ならない！[pcms]
+I won't be controlled by such people. Never, ever![pcms]
 
 *13756|
 [fc]
-アタシには……。[r]
-この世にキレイな星空を取り戻す使命があるのよ！[pcms]
+I have a mission... To bring back the beautiful starry sky[r]
+to this world![pcms]
 
 *13757|
 [fc]
 [vo_mob s="girl0008"]
 [ns]Girl[nse]
-「うふふっ、うふふふぁはあはははははっ！！」[pcms]
+"Ufufu, ufufufahahahahaha!!"[pcms]
 ;//◎録る必要なし
 
 *13758|
 [fc]
-アタシは救世主。[r]
-こんな所で、こんな奴等に負けるわけにはいかない。[pcms]
+I am the savior. I can't lose to such people in a place like[r]
+this.[pcms]
 
 *13759|
 [fc]
-懲りもせずアタシを止めようとする女も、小林も。[r]
-全て倒して見せる。[r]
-こんな風船は、アタシを止める事は、出来ない！[pcms]
+The woman who tries to stop me again and again, and[r]
+Kobayashi too. I'll defeat them all. These balloons can't[r]
+stop me![pcms]
 
 *13760|
 [fc]
-振り回すアタシの手に、小林と呼ばれる、[r]
-人型の風船が当たり、遠くへ飛んでゆく。[pcms]
+My swinging hand hits a humanoid balloon called Kobayashi,[r]
+sending it flying far away.[pcms]
 
 [ChrSetEx layer=4 chbase="koba_n13"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
@@ -509,7 +499,7 @@ the woman will shatter to pieces![pcms]
 [fc]
 [vo_kob s="koba0282"]
 [ns]Kobayashi[nse]
-「うわっ！」[pcms]
+"Uwah!"[pcms]
 ;//◎録る必要なし
 
 [ChrSetEx layer=4 chbase="anza_n06"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -518,14 +508,13 @@ the woman will shatter to pieces![pcms]
 [fc]
 [vo_anz s="anzai0115"]
 [ns]Female[nse]
-「お願いだから落ち着いて！！」[pcms]
+"Please calm down!!"[pcms]
 ;//◎録る必要なし
 
 *13763|
 [fc]
-別の女も、またアタシに近づいてくる。[r]
-が、振り回した手に勝手に当たり、小林同様に、[r]
-飛んでゆく。[pcms]
+Another woman approaches me again. But she accidentally gets[r]
+hit by my swinging hand and flies away just like Kobayashi.[pcms]
 
 [ChrSetEx layer=4 chbase="anza_n13"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
@@ -533,100 +522,95 @@ the woman will shatter to pieces![pcms]
 [fc]
 [vo_anz s="anzai0116"]
 [ns]Female[nse]
-「ぐぅっ……！！」[pcms]
+"Guu...!!"[pcms]
 ;//◎録る必要なし
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *13765|
 [fc]
-女は棚に当たり、大きな音を立てて、[r]
-その場にうずくまっている。[pcms]
+The woman hits a shelf, makes a loud noise, and crouches[r]
+down on the spot.[pcms]
 
 *13766|
 [fc]
-あと少しで……。[r]
-アタシはこの世に星空を取り戻すことが出来る。[pcms]
+Just a little more... I can bring back the starry sky to[r]
+this world.[pcms]
 
 *13767|
 [fc]
-みんなが、アタシをほめてくれる。[r]
-今までの苦労は、全部この時の為にあったんだ。[pcms]
+Everyone will praise me. All the hardships were for this[r]
+moment.[pcms]
 
 *13768|
 [fc]
-そう思うと、笑いが抑えられない。[r]
-口を閉じている事が出来なくなって、[r]
-思わず声を出して笑ってしまう。[pcms]
+The thought makes me unable to suppress my laughter. Unable[r]
+to keep my mouth shut, I inadvertently burst out laughing.[pcms]
 
 *13769|
 [fc]
 [vo_mob s="girl0009"]
 [ns]Girl[nse]
-「あーーーははぁははははっはははあははっはは！！」[pcms]
+"Ah---hahahahahahhahahahaha!!"[pcms]
 ;//◎録る必要なし
 
 *13770|
 [fc]
-アタシのすぐそばでは、さっき飛ばされた犬が、[r]
-アタシを睨んで、唸っている。[pcms]
+Right beside me, the dog that was sent flying earlier is[r]
+glaring at me and growling.[pcms]
 
 *13771|
 [fc]
 [ns]John[nse]
-「グルルルルルッ！！」[pcms]
+"Grrrrrrr!!"[pcms]
 ;//◎録る必要なし
 
 *13772|
 [fc]
-この犬は、生かしておいてあげよう。[r]
-動物は、嫌いじゃない。[pcms]
+I'll let this dog live. I don't hate animals.[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_n10"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *13773|
 [fc]
-アタシが嫌いなのは、何の苦労も知らない……、[r]
-あの、おかっぱ女と、[r]
-それに操られる人型の風船だけ。[pcms]
+What I hate are those who know no hardship... that bob-[r]
+haired girl and the humanoid balloons manipulated by her.[pcms]
 
 *13774|
 [fc]
-おかっぱ女とアタシの距離は、じわじわと近くなる。[r]
-おかっぱ女は逃げる事もなく、[r]
-ただアタシを見つめている。[pcms]
+The distance between the bob-haired girl and me is slowly[r]
+closing. The bob-haired girl doesn't try to escape; she just[r]
+stares at me.[pcms]
 
 *13775|
 [fc]
-アタシに崩されるのを、待っている。[pcms]
+She's waiting to be shattered by me.[pcms]
 
 [ChrSetEx layer=4 chbase="ookura_n02a"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *13776|
 [fc]
 [ns]Ookura Hiroshi[nse]
-「やめるんだ！！」[pcms]
+"Stop it!!"[pcms]
 
 *13777|
 [fc]
-大倉が、アタシに抱きついた。[r]
-アタシに……。[r]
-この男もまた、アタシの体を……？！[pcms]
+Ookura has embraced me. To me... Is this man also after my[r]
+body?![pcms]
 
 *13778|
 [fc]
-…………。[pcms]
+...[pcms]
 
 *13779|
 [fc]
-犬もそうだけど、この男もキライじゃない。[r]
-アタシは、この男に抱かれたい。[r]
-この男に、犯されたい。[pcms]
+I don't dislike dogs, and I don't dislike this man either. I[r]
+want to be held by this man. I want to be violated by him.[pcms]
 
 *13780|
 [fc]
-この男なら、イヤじゃない。[r]
-この男の目からは、操られているカンジはしない。[pcms]
+This man is not unpleasant. His eyes don't give off the[r]
+feeling of being manipulated.[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_n07"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
@@ -665,7 +649,7 @@ only you!? Kufufahahaha!! Hey~ why is that~?!"[pcms]
 [fc]
 [vo_may s="maya0140"]
 [ns]Young Lady[nse]
-"…?"[pcms]
+"...?"[pcms]
 ;//◎録る必要なし
 
 *13787|

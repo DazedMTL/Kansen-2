@@ -171,7 +171,7 @@ well...[pcms]
 [fc]
 [vo_mob s="girl0109"]
 [ns]Girl[nse]
-"Åc?"[pcms]
+"...?"[pcms]
 
 *14220|
 [fc]

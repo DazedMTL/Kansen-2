@@ -818,7 +818,7 @@ motorcycle and something being put into the mailbox outside.[pcms]
 *5972|
 [fc]
 [ns]Ookura Hiroshi[nse]
-"…?"[pcms]
+"...?"[pcms]
 
 *5973|
 [fc]
@@ -1060,7 +1060,7 @@ and the owner of the voice sat down next to me.[pcms]
 *6009|
 [fc]
 [ns]Ookura Hiroshi[nse]
-"…!"[pcms]
+"...!"[pcms]
 
 ;//[]SE：扉をノックする音
 ;//[se0 storage="SE21"]

@@ -761,9 +761,8 @@ dick...moreeee!"[pcms]
 *6243|
 [fc]
 A voice that could be taken for a scream, a shout of anger,[r]
-or pleasuremore aptly described as a beast's growlcarried[r]
-on the wind across the school and flowed into the ruined[r]
-city.[pcms]
+or pleasuremore aptly described as a beast's growlcarried on[r]
+the wind across the school and flowed into the ruined city.[pcms]
 
 *6244|
 [fc]

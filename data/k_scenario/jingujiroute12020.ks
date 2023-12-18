@@ -82,7 +82,7 @@ chan muttered softly from the seat in front of me.[pcms]
 *4353|
 [fc]
 [ns]Ookura Hiroshi[nse]
-"Åc?"[pcms]
+"...?"[pcms]
 
 *4354|
 [fc]
@@ -276,7 +276,7 @@ Ah, that reminds me...[pcms]
 [fc]
 [vo_may s="maya0319"]
 [ns]Maya[nse]
-"Åc?"[pcms]
+"...?"[pcms]
 
 *4383|
 [fc]

@@ -173,7 +173,7 @@ all that trouble...[pcms]
 [vo_may s="maya0407"]
 [ns]Maya[nse]
 "'If you can't help someone in trouble, then what kind of[r]
-friend are you...'Åh[pcms]
+friend are you...'[pcms]
 
 *5325|
 [fc]

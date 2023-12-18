@@ -339,33 +339,31 @@ me... Become mine..."[pcms]
 [fc]
 [vo_hay s="hayami0548"]
 [ns]Alice[nse]
-「……！？　何よ！！　長崎さん、おかしいよ！！[r]
-　こんなの、絶対おかしいよ！！[r]
-　離してよ！！　バカァ！！」[pcms]
+"...!? What the heck!! Nagasaki-san, this is crazy!! This is[r]
+definitely not right!! Let me go!! Idiot!!"[pcms]
 
 *14925|
 [fc]
 [vo_nag s="nagasaki0238"]
 [ns]Chihiro[nse]
-「にがさない……あなたはアタシのモノだから……。[r]
-　こんなにかわいいあなたは、ぜんぶアタシのもの、[r]
-　アタシの……ふふっ……ふふっ……」[pcms]
+"I won't let you go... because you're mine... Such a cute[r]
+you, all mine, mine... hehe... hehe..."[pcms]
 
 *14926|
 [fc]
 [vo_hay s="hayami0549"]
 [ns]Alice[nse]
-「やっ……やめてぇ！！　いやだよ！！[r]
-　こんなの……いやだぁ！！」[pcms]
+"No... stop it!! I don't want this!! This is... I don't want[r]
+this!!"[pcms]
 
 *14927|
 [fc]
-長崎さんは、逃れようとじたばたもがくあたしの足を、[r]
-いとも簡単に押さえつけて、ヒモで固定する。[pcms]
+Nagasaki-san easily pinned down my flailing legs as I tried[r]
+to escape and tied them with a rope.[pcms]
 
 *14928|
 [fc]
-あたしは再び、体の自由を奪われてしまった。[pcms]
+I was once again deprived of my freedom.[pcms]
 
 [ChrSetEx layer=4 chbase="naga_n02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
@@ -373,80 +371,77 @@ me... Become mine..."[pcms]
 [fc]
 [vo_nag s="nagasaki0239"]
 [ns]Chihiro[nse]
-「ちょっとだけ、まってて……。いいものあげる……、[r]
-　うふっ……ふふっ……！！」[pcms]
+"Just wait a little bit... I'll give you something nice...[r]
+uh-huh... hehe...!!"[pcms]
 
 *14930|
 [fc]
 [vo_hay s="hayami0550"]
 [ns]Alice[nse]
-「離して！！　こんなこと、もう……やめて！！」[pcms]
+"Let me go!! Stop doing this... stop it!!"[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *14931|
 [fc]
-長崎さんはあたしを放って、笑いながらレストランの[r]
-奥へと歩いていった。[pcms]
+Nagasaki-san left me behind and walked towards the back of[r]
+the restaurant, laughing.[pcms]
 
 *14932|
 [fc]
-またあのヘンな人がきたら……あたし、逃げられない！[pcms]
+If that weird person comes again... I won't be able to[r]
+escape![pcms]
 
 *14933|
 [fc]
 [vo_hay s="hayami0551"]
 [ns]Alice[nse]
-「長崎さん！！　長崎さん！！」[pcms]
+"Nagasaki-san!! Nagasaki-san!!"[pcms]
 
 *14934|
 [fc]
-あたしの叫び声に、長崎さんは振り返りもしないで、[r]
-手を振って、そのまま歩いていく。[pcms]
+Without looking back at my screams, Nagasaki-san waved her[r]
+hand and kept walking.[pcms]
 
 *14935|
 [fc]
 [vo_hay s="hayami0552"]
 [ns]Arisu[nse]
-「……」[pcms]
+"..."[pcms]
 
 *14936|
 [fc]
-なんであたしだけ……。[r]
-あたしだけ、こんな目に……。[pcms]
+Why only me... Why am I the only one subjected to this...[pcms]
 
 *14937|
 [fc]
-それに、長崎さん……。[r]
-いい人だと思ってたのに！！[r]
-こんな事するなんて！！　あの人も、絶対どこかヘン！[pcms]
+And Nagasaki-san... I thought she was a nice person!! To do[r]
+something like this!! She must be weird too![pcms]
 
 *14938|
 [fc]
-ヒロシ達とはぐれて、オジサンや長崎さんに[r]
-オモチャのように扱われて、あたしの心はズタズタに[r]
-されていた。[pcms]
+Separated from Hiroshi and the others, treated like a toy by[r]
+that old man and Nagasaki-san, my heart was torn to shreds.[pcms]
 
 *14939|
 [fc]
-あたしはイスに固定されたまま、クラッシック音楽の[r]
-響くレストランで一人、すすり泣いた。[pcms]
+I sat tied to the chair, alone in the restaurant filled with[r]
+classical music, sobbing quietly.[pcms]
 
 *14940|
 [fc]
 [vo_hay s="hayami0553"]
 [ns]Alice[nse]
-「ぐすっ……惨め……あたし……。[r]
-　こんな……こんな事……。もうイヤ……」[pcms]
+"Sniffle... miserable... me... This is... I can't stand this[r]
+anymore..."[pcms]
 
 *14941|
 [fc]
-こんな時に、あのヘンな人が来たら、あたし、[r]
-どうなっちゃうんだろう……。[pcms]
+If that weird person comes now, what will become of me...[pcms]
 
 *14942|
 [fc]
-イスに縛られて、逃げる事もできないまま……。[pcms]
+Tied to the chair, unable to escape...[pcms]
 
 [ChrSetEx layer=4 chbase="naga_n04"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
@@ -454,56 +449,54 @@ me... Become mine..."[pcms]
 [fc]
 [vo_nag s="nagasaki0240"]
 [ns]Chihiro[nse]
-「おまたせ……、ほら……あなた、お酒……好き？」[pcms]
+"Sorry to keep you waiting... here... do you like alcohol?"[pcms]
 
 *14944|
 [fc]
 [vo_hay s="hayami0554"]
 [ns]Arisu[nse]
-「なっ……！？」[pcms]
+"What...!?"[pcms]
 
 *14945|
 [fc]
-長崎さんは、手に赤い液体の入った瓶をもって、[r]
-ニコニコして戻ってきた。[pcms]
+Nagasaki-san returned with a bottle filled with red liquid,[r]
+smiling cheerfully.[pcms]
 
 *14946|
 [fc]
 [vo_hay s="hayami0555"]
 [ns]Arisu[nse]
-「なによ……それ……、なんの真似！？」[pcms]
+"What is that... what are you trying to do!?"[pcms]
 
 *14947|
 [fc]
-さっきまでと違って、嫌悪感も露わに叫ぶあたしを[r]
-まるで無視して、長崎さんは手に持った瓶に口を付け、[r]
-その中身を、自分の口に含ませた。[pcms]
+Ignoring my screams, now filled with disgust, Nagasaki-san[r]
+took a sip from the bottle she was holding and transferred[r]
+its contents into her own mouth.[pcms]
 
 *14948|
 [fc]
-そして、あたしの顔を押さえつけて、また強引に[r]
-口づけをしてくる。[pcms]
+Then, holding my face down, she forced another kiss on me.[pcms]
 
 *14949|
 [fc]
 [vo_nag s="nagasaki0241"]
 [ns]Chihiro[nse]
-「ふふっ……ちゅっ……たのしいわね……、[r]
-　ふふふふっ……うれしいわ……アタシ……あなたと[r]
-　こうしたかったの……ちゅっ！」[pcms]
+"Hehe... chu... isn't this fun... hehehehe... I'm so[r]
+happy... I wanted to do this with you... chu!"[pcms]
 
 *14950|
 [fc]
 [vo_hay s="hayami0556"]
 [ns]Arisu[nse]
-「んうっ！？　んん！！　んっ……ちゅっ！！[r]
-　ぷあっ！！　いやっ！！　何これ……苦いぃ！！」[pcms]
+"Nnh!? Mm!! Mm... chu!! Pwah!! No!! What is this... it's[r]
+bitter!!"[pcms]
 
 *14951|
 [fc]
 [vo_nag s="nagasaki0242"]
 [ns]Chihiro[nse]
-「さぁ……たのしみましょう……ふふっ、ふふっ！」[pcms]
+"Now... let's enjoy ourselves... hehe, hehe!"[pcms]
 
 ;//------------------------------------------------
 *KAISOU_INT
@@ -529,143 +522,135 @@ me... Become mine..."[pcms]
 
 *14952|
 [fc]
-長崎さんは、あたしから少し離れると、[r]
-制服を上に捲り上げて、胸を露出させた。[pcms]
+Nagasaki-san moved away from me a bit and rolled up her[r]
+uniform, exposing her breasts.[pcms]
 
 *14953|
 [fc]
-さっきオジサンにされたみたいに、また胸を[r]
-他人に見られてしまう。[pcms]
+Just like what that old man did earlier, my breasts are[r]
+being seen by someone else again.[pcms]
 
 *14954|
 [fc]
 [vo_hay s="hayami0557"]
 [ns]Arisu[nse]
-「や、やあっ！！　ちょっと、長崎さん！！[r]
-　どうしたのよ、急に！！[r]
-　どうして……どうしてこんな事！？」[pcms]
+"No, noo!! Wait, Nagasaki-san!! What's gotten into you all[r]
+of a sudden!! Why are you doing this!?"[pcms]
 
 *14955|
 [fc]
 [vo_nag s="nagasaki0243"]
 [ns]Chihiro[nse]
-「おもったとおり……おっぱいも、かわいいわ……。[r]
-　ちくびも、ピンクいろで……。やわらかくて、[r]
-　いいにおいがする……あまい……」[pcms]
+"Just as I thought... your breasts are cute too... Your[r]
+nipples are pink and soft, they smell nice... sweet..."[pcms]
 
 *14956|
 [fc]
-長崎さんは、だらしなく外にだされたあたしの胸を、[r]
-鼻息を荒くして、揉んだり、なめ回したりしている。[pcms]
+Nagasaki-san, with heavy breathing, fondled and licked my[r]
+exposed breasts carelessly.[pcms]
 
 *14957|
 [fc]
-真っ赤な舌と、唇が、あたしのオッパイを軽く、[r]
-滑るように動く。[pcms]
+Her bright red tongue and lips lightly glided over my[r]
+breasts.[pcms]
 
 *14958|
 [fc]
-くすぐったい……。[pcms]
+It tickles...[pcms]
 
 *14959|
 [fc]
 [vo_nag s="nagasaki0244"]
 [ns]Chihiro[nse]
-「ちくび……たってきたわ……、ふふっ……、[r]
-　きもちいいのね？　ふふっ……、もっと、[r]
-　もっときもちいこと、してあげる……」[pcms]
+"Your nipples are getting hard... hehe... does it feel good?[r]
+Hehe... I'll do even more pleasurable things for you..."[pcms]
 
 *14960|
 [fc]
 [vo_hay s="hayami0558"]
 [ns]Alice[nse]
-「いやっ……そんなぁ……。[r]
-　気持ちよくなんてないよ！！　お願い……、[r]
-　長崎さん、落ち着いて！！　ね！？」[pcms]
+"No... not like that... It doesn't feel good at all!![r]
+Please... Nagasaki-san, calm down!! Right!?"[pcms]
 
 *14961|
 [fc]
-長崎さんの目には、前に感じた時と同じ、[r]
-異常な光が宿っていた。[pcms]
+In Nagasaki-san's eyes was the same abnormal light I had[r]
+seen before.[pcms]
 
 *14962|
 [fc]
-あたしを見るその目はまるで、男の人が、[r]
-好きな女の人を見るような目だった。[pcms]
+The way she looked at me was like how a man looks at a woman[r]
+he likes.[pcms]
 
 *14963|
 [fc]
-この人、もしかして、女の子の方が好きな……、[r]
-レズの人……？[pcms]
+This person, could she possibly prefer girls... a[r]
+lesbian...?[pcms]
 
 *14964|
 [fc]
 [vo_hay s="hayami0559"]
 [ns]Alice[nse]
-「……信用してたのに……、長崎さんの事、信用[r]
-　してたのに……！！　それが、こんな……こんな[r]
-　変態だったなんて！！　もうイヤァ！！」[pcms]
+"...I trusted you... I trusted Nagasaki-san...!! And yet,[r]
+this is what you are... such a pervert!! I can't take it[r]
+anymore!!"[pcms]
 
 *14965|
 [fc]
 [vo_nag s="nagasaki0245"]
 [ns]Chihiro[nse]
-「へんたいなんて……。あたしはただ、[r]
-　あなたみたいなかわいいこがすきなだけ……。[r]
-　おかしくなんてないわ……」[pcms]
+"Pervert? I just like cute girls like you... There's nothing[r]
+wrong with that..."[pcms]
 
 *14966|
 [fc]
 [vo_hay s="hayami0560"]
 [ns]Arisu[nse]
-「近寄らないで！！　触らないで！！　[r]
-　変態！！　変態！！　ヘンタイッ！！」[pcms]
+"Don't come any closer!! Don't touch me!! Pervert!![r]
+Pervert!! Freak!!"[pcms]
 
 *14967|
 [fc]
 [vo_nag s="nagasaki0246"]
 [ns]Chihiro[nse]
-「あなたのそのこえも……かわいいわ……。[r]
-　ちゅっ……ほら、ほんとはかんじてるんでしょ……、[r]
-　ちくび、ぴくぴくしてる……かたい……ちゅっ！」[pcms]
+"Your voice is also cute... chu... see, you're actually[r]
+feeling it, aren't you... your nipples are twitching...[r]
+hard... chu!"[pcms]
 
 *14968|
 [fc]
 [vo_hay s="hayami0561"]
 [ns]Arisu[nse]
-「んぁっ……、ちが……う！！　感じてなんかないよ！[r]
-　もうやめてよ！　こんなヘンな事！！[r]
-　早く逃げようよ！！」[pcms]
+"Nahh... that's not it!! I'm not feeling anything! Stop it[r]
+already! Stop these weird things!! Let's get away quickly!!"[pcms]
 
 *14969|
 [fc]
 [vo_nag s="nagasaki0247"]
 [ns]Chihiro[nse]
-「ふふ……あわてんぼうさんね……、[r]
-　しんぱいしなくても、だいじょうぶ……。[r]
-　あたしに、まかせて……ちゅっ……れろっ……」[pcms]
+"Hehe... you're such a worrywart... don't worry, everything[r]
+is fine... Just leave it to me... chu... lero..."[pcms]
 
 *14970|
 [fc]
-長崎さんは、まるであたしの言うことを聞かず、[r]
-虚ろな目をしてあたしのオッパイを舐め続けている。[pcms]
+Nagasaki-san continued to lick my breasts without listening[r]
+to what I said, her eyes vacant.[pcms]
 
 *14971|
 [fc]
-……あれ……？[r]
-頭がくらくらする……。[pcms]
+...Huh? My head is spinning...[pcms]
 
 *14972|
 [fc]
-さっき飲まされたお酒のせい……？[r]
-それに、体が温かくなってきた……。[pcms]
+Is it because of the alcohol she made me drink earlier? And[r]
+now my body is starting to feel warm...[pcms]
 
 *14973|
 [fc]
 [vo_nag s="nagasaki0248"]
 [ns]Chihiro[nse]
-「あせ……かいてる……。おっぱいもあかくなって、[r]
-　いやらしい……えっちなからだね……」[pcms]
+"You're sweating... Your breasts are turning red and look[r]
+lewd... such a naughty body..."[pcms]
 
 *14974|
 [fc]

@@ -31,7 +31,7 @@ back at me.[pcms]
 *5387|
 [fc]
 [ns]Ookura Hiroshi[nse]
-"c?"[pcms]
+"...?"[pcms]
 
 ;êŠ<ImageFade 6,60,OFF,OFF>
 

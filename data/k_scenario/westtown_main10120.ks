@@ -668,7 +668,7 @@ knew something.[pcms]
 
 *10620|
 [fc]
-Re: How's the trip?</Sub>[pcms]
+How's the trip?</Sub>[pcms]
 
 *10621|
 [fc]

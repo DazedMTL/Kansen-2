@@ -887,7 +887,7 @@ the truck.[pcms]
 *7735|
 [fc]
 [ns]Ookura[nse]
-"Åc?"[pcms]
+"...?"[pcms]
 
 *7736|
 [fc]

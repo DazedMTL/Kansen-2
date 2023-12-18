@@ -351,14 +351,14 @@ I'm hungry...[pcms]
 [fc]
 [vo_hay s="hayami1234"]
 [ns]Arisu[nse]
-`...Huh? What's that over there, shining? It's twinkling,[r]
+...Huh? What's that over there, shining? It's twinkling,[r]
 twinkling~ÅÙ[pcms]
 
 *2023|
 [fc]
 [vo_may s="maya0848"]
 [ns]Maya[nse]
-`I'm sleepy...[pcms]
+I'm sleepy...[pcms]
 
 *2024|
 [fc]

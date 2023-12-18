@@ -1476,16 +1476,15 @@ appeared to have reached his limit.[pcms]
 *16395|
 [fc]
 [ns]Tall man[nse]
-「おおぅ！　おれ……もう……ダメだあぁぁ！！[r]
-　へっ……へへっ！　だすぞ！　[r]
-　かおにぶっかけてやる！　いくぜえ！」[pcms]
+"Oooh! I... can't... hold it anymore ahhh!! Heh... heheh![r]
+Here it comes! I'm gonna splatter it all over your face![r]
+Here I go!"[pcms]
 
 *16396|
 [fc]
 [vo_hay s="hayami0633"]
 [ns]Alice[nse]
-「うぶぁっ！　はあっ！　はあっ……、や、やあっ！[r]
-　いやああぁぁあぁあ！！」[pcms]
+"Ubuah! Haa! Haa... No, nooo! Nooooo!!"[pcms]
 
 ;[射精フラA]
 ;イベントCG射精差分
@@ -1497,27 +1496,27 @@ appeared to have reached his limit.[pcms]
 [fc]
 [vo_hay s="hayami0634"]
 [ns]Arisu[nse]
-「あ……ああっ……顔中……いやぁ……べとべと……」[pcms]
+"Ah... ahh... my face... no... it's all sticky..."[pcms]
 
 *16398|
 [fc]
 [ns]Tall man[nse]
-「ひょーっ！　ぶっかけだぜ！？　へへっ！！[r]
-　かおじゅうベットベトだなぁ！」[pcms]
+"Hyoh! Take this facial!? Heheh!! Your face is all sticky[r]
+now, huh?!"[pcms]
 
 *16399|
 [fc]
 [vo_hay s="hayami0635"]
 [ns]Arisu[nse]
-「ぐすっ……酷いよ……こんなの……うあぁぁぁん！[r]
-　うわあぁっぁあ！！」[pcms]
+"Gus... that's awful... something like this... uwaahhhn![r]
+Uwaaahhh!!"[pcms]
 
 *16400|
 [fc]
 [ns]A man with a bad look in his eyes[nse]
-「せいだいにとばしたな！　おまえ、げんきじゃん！[r]
-　おれも……もうすこしででるぜ？　しっかり[r]
-　なめろよぉ！？」[pcms]
+"I let out a huge load! You're lively, aren't you! I'm about[r]
+to come too, you know? Make sure you lick it up properly,[r]
+okay?!"[pcms]
 
 [evcg storage="HEV215c"][trans_c cross time=301]
 
@@ -1525,28 +1524,24 @@ appeared to have reached his limit.[pcms]
 [fc]
 [vo_nag s="nagasaki0359"]
 [ns]Chihiro[nse]
-「うぐっ……ぐはっ……んぶぅぅうっ！[r]
-　おぶぅっ……んぶっぷあぁ！」[pcms]
+"Uguh... guhah... nbufuuuuh! Obuh... nbufuhah!"[pcms]
 
 *16402|
 [fc]
 [ns]A man with a bad look in his eyes[nse]
-「おまえのそのなまいきなツラにも、おれの[r]
-　ブッかけてやっからよ！！　ははっ！！[r]
-　おまえのツラ、なんかなまいきなんだよ！！」[pcms]
+"I'm gonna splatter it all over that smug face of yours[r]
+too!! Haha!! Your face looks so damn smug!!"[pcms]
 
 *16403|
 [fc]
 [vo_nag s="nagasaki0360"]
 [ns]Chihiro[nse]
-「んーーっ！！　んんーーーっ！！！！　ごぶっ、[r]
-　ぐぢゅっ、ぢゅぐぉっ！！　んっ、ぶ……っ、[r]
-　んん――――っ！！！！！」[pcms]
+"Nn--!! Nnn---!! Gobuh, gujuh, jugohh!! Nn, buh... nn----!!"[pcms]
 
 *16404|
 [fc]
 [ns]A man with a bad look in his eyes[nse]
-「おっ……おおっ……うぉおぉぉおお！！　おらっ！」[pcms]
+"Oh... ooh... uooohhhhh!! Take this!"[pcms]
 
 ;[射精フラA]
 ;イベントCG射精差分
@@ -1558,193 +1553,181 @@ appeared to have reached his limit.[pcms]
 [fc]
 [vo_nag s="nagasaki0361"]
 [ns]Chihiro[nse]
-「いやあぁぁあぁぁああぁああ！！」[pcms]
+"No, nooooooo!!"[pcms]
 
 ;//★イベントＣＧ４＿Ｃ
 
 *16406|
 [fc]
 [ns]A man with a bad look in his eyes[nse]
-「はあっ……はあっ……、きったねぇ！！[r]
-　こいつら、きたねぇ！！　ぎゃははは！！」[pcms]
+"Haa... haa... filthy!! These girls, filthy!! Gyahahaha!!"[pcms]
 
 *16407|
 [fc]
 [vo_hay s="hayami0636"]
 [ns]Arisu[nse]
-「うあ……ああ……」[pcms]
+"Ua... aah..."[pcms]
 
 *16408|
 [fc]
 [vo_nag s="nagasaki0362"]
 [ns]Chihiro[nse]
-「うっ……うげぇぇ……うえっ……！！[r]
-　きたない……！　きたないっ！！[r]
-　いやああぁあぁぁあ！！」[pcms]
+"Ugh... ugeeh... ueh...!! Dirty...! Dirty!! Nooooo!!"[pcms]
 
 *16409|
 [fc]
 [ns]Tall man[nse]
-「ふたりなかよくブッかけられて、よかったなぁ！」[pcms]
+"Both of you got facials together, how nice for you!"[pcms]
 
 *16410|
 [fc]
 [ns]A man with a bad look in his eyes[nse]
-「でもよお、くっせーから、おたがいきらわれねぇ[r]
-　ようにな！！　ぎゃはははっ！！　ぎゃははは！」[pcms]
+"But hey, don't hate each other now, since you both stink![r]
+Gyahahaha!! Gyahahaha!"[pcms]
 
 *16411|
 [fc]
 [ns]Tall man[nse]
-「だな、そっちのなまいきなツラしたねーちゃん、[r]
-　このおんなにきらわれたんじゃねぇか？[r]
-　あたしせーえきくさいひと、きらい！！　ってな！」[pcms]
+"Right, that smug-faced Onee-san over there, she probably[r]
+hates you now, doesn't she? 'I hate people who smell like[r]
+semen!' That's what she said!"[pcms]
 
 *16412|
 [fc]
 [ns]A man with a bad look in his eyes[nse]
-「……あー、そうかもしれねーな！[r]
-　だってよ、さっきからこのおっぱいでけぇ[r]
-　ねえちゃん、おまえのほうみねえもんな！！」[pcms]
+"...Ah, that might be true! After all, that big-breasted[r]
+Onee-san hasn't even looked your way once!!"[pcms]
 
 *16413|
 [fc]
 [ns]Tall man[nse]
-「きらわれたぜ！　おまえ！[r]
-　ぎゃはははは！　あはははは！！」[pcms]
+"You're hated! You! Gyahahahaha! Ahahahaha!!"[pcms]
 
 *16414|
 [fc]
 [vo_nag s="nagasaki0363"]
 [ns]Chihiro[nse]
-「……！？」[pcms]
+"...!?"[pcms]
 
 *16415|
 [fc]
-ありすさんは、アタシに背中を向けてすすり泣いてい[r]
-た。[pcms]
+Arisu-san was sobbing with her back turned to me.[pcms]
 
 *16416|
 [fc]
-このクズ共の言うように……アタシは……。[pcms]
+Just like these scumbags said... I am...[pcms]
 
 *16417|
 [fc]
 [vo_nag s="nagasaki0364"]
 [ns]Chihiro[nse]
-「きらわれ……た……！？」[pcms]
+"Hated...!?"[pcms]
 
 *16418|
 [fc]
-アタシ……ありすさんに嫌われた！！[pcms]
+I'm hated by Arisu-san!![pcms]
 
 *16419|
 [fc]
 [vo_nag s="nagasaki0365"]
 [ns]Chihiro[nse]
-「せいえきくさいいから……？[r]
-　クズにおかされたから！？」[pcms]
+"Because I smell like semen...? Because I was violated by[r]
+scum?!"[pcms]
 
 *16420|
 [fc]
-アタシが、汚されたから！？[pcms]
+Because I was defiled?![pcms]
 
 *16421|
 [fc]
 [vo_nag s="nagasaki0366"]
 [ns]Chihiro[nse]
-「きらわれた……きらわれた……きらわれた！！」[pcms]
+"Hated... hated... hated!!"[pcms]
 
 *16422|
 [fc]
-アタシは、ありすさんに嫌われた！！[pcms]
+I am hated by Arisu-san!![pcms]
 
 *16423|
 [fc]
 [vo_nag s="nagasaki0367"]
 [ns]Chihiro[nse]
-「いやっ……いやあぁぁぁぁぁああ！！[r]
-　うわあぁあぁぁぁぁ！！[r]
-　いやだあぁぁ！！　そんなの、いやだぁぁ！！」[pcms]
+"No... nooooooo!! Uwaaaahhhhh!! Noooo!! I don't want that!!"[pcms]
 
 *16424|
 [fc]
 [vo_hay s="hayami0637"]
 [ns]Arisu[nse]
-「な、長崎さん……！？」[pcms]
+"Nagasaki-san...!?"[pcms]
 
 *16425|
 [fc]
-ありすさんが、アタシを蔑んだ目で見ている！！[pcms]
+Arisu-san was looking at me with disdainful eyes![pcms]
 
 *16426|
 [fc]
-アタシを汚いモノを見るような目で、睨んでいる！！[pcms]
+She was glaring at me as if I were something filthy![pcms]
 
 *16427|
 [fc]
-アタシは、完全に嫌われた！！[pcms]
+I am completely hated![pcms]
 
 *16428|
 [fc]
-クズ共に犯された事。[r]
-クズ共に罵られ、笑われた事。[pcms]
+Being violated by these scumbags. Being ridiculed and[r]
+laughed at by them.[pcms]
 
 *16429|
 [fc]
-ありすさんに嫌われた事。[pcms]
+Being hated by Arisu-san.[pcms]
 
 *16430|
 [fc]
-その事全てがアタシの頭の中を木霊する。[pcms]
+All of that was echoing in my head.[pcms]
 
 *16431|
 [fc]
-もう、ありすさんに顔を合わせられない。[pcms]
+I can't face Arisu-san anymore.[pcms]
 
 *16432|
 [fc]
-ありすさんに嫌われたアタシは、どうしたらいいの？[pcms]
+What should I do now that I'm hated by Arisu-san?[pcms]
 
 *16433|
 [fc]
 [vo_nag s="nagasaki0368"]
 [ns]Chihiro[nse]
-「だめ！！　だめ！！　アタシをわらわないで！！[r]
-　きらわないで！！　アタシをみないで！！[r]
-　アタシにちかよるなぁぁ！！」[pcms]
+"No!! No!! Don't laugh at me!! Don't hate me!! Don't look at[r]
+me!! Don't come near meee!!"[pcms]
 
 *16434|
 [fc]
 [vo_hay s="hayami0638"]
 [ns]Arisu[nse]
-「長崎さん！！」[pcms]
+"Nagasaki-san!!"[pcms]
 
 *16435|
 [fc]
-アタシはこの場にいてはいけない！[r]
-ありすさんはアタシを嫌っている！[r]
-アタシを、憎悪に燃えた目で見つめている！！[pcms]
+I shouldn't be here! Arisu-san hates me! She's looking at me[r]
+with eyes full of loathing![pcms]
 
 *16436|
 [fc]
-視界が歪む。[r]
-足下が歪む。[pcms]
+My vision is warping. The ground beneath me is distorting.[pcms]
 
 *16437|
 [fc]
-男に汚され、ありすさんに嫌われたアタシは、[r]
-もうここにはいられない。[pcms]
+Defiled by men and hated by Arisu-san, I can't stay here[r]
+anymore.[pcms]
 
 *16438|
 [fc]
-吐き気がする。[r]
-気持ち悪い。[pcms]
+I feel nauseous. Sick to my stomach.[pcms]
 
 *16439|
 [fc]
-アタシの頭の中でまた、虫が蠢く。[r]
-脳を引っ掻き回されている。[pcms]
+The bugs are writhing in my head again. It feels like my[r]
+brain is being scratched out.[pcms]
 
 ;//♪：m05 fadeout
 [fadeoutbgm time=1000]
@@ -1753,15 +1736,14 @@ appeared to have reached his limit.[pcms]
 [fc]
 [vo_nag s="nagasaki0369"]
 [ns]Chihiro[nse]
-「あぁあぁあぁぁあぁああぁあ！！[r]
-　ああ……いやああぁぁぁあぁああぁああ！！」[pcms]
+"Aaaaahhhhhhh!!! Ahh... noooooo!!! Aaaaaaahhhhhhh!!! "[pcms]
 
 ;//------------------------------------------------
 [if exp="tf.scene_mode==1"]
 	[jump storage="b_scene.ks" target=*back_from_SR]
 ;	[link storage=sceneAgain]もう一度見る[endlink]
 ;	[link storage=sceneList]一覧に戻る[endlink]
-;	[s]
+[pcms]
 [endif]
 
 *KAISOU_PASS
@@ -1772,12 +1754,11 @@ appeared to have reached his limit.[pcms]
 
 *16441|
 [fc]
-フラフラする。[r]
-天井と、地面がひっくり返る。[pcms]
+I'm staggering. The ceiling and the floor are flipping over.[pcms]
 
 *16442|
 [fc]
-でも、アタシはここにいてはいけない！[pcms]
+But I shouldn't be here![pcms]
 
 ;//★ＢＧ：レストラン
 ;//＠：東棟・四階
@@ -1790,9 +1771,9 @@ appeared to have reached his limit.[pcms]
 *16443|
 [fc]
 [ns]Middle-aged person with a bag[nse]
-「あおおお！！　お゛んなのこ゛！[r]
-"Stop it!! Don't look at me!! Don't come near me!![r]
-Aaaaahhh!! Don't laugh, don't laugh, don't laugh at meee!!"[pcms]
+"Aooooo!! You girl! Stop it!! Don't look at me!! Don't come[r]
+near me!! Aaaaahhh!! Don't laugh, don't laugh, don't laugh[r]
+at meee!!"[pcms]
 
 *16444|
 [fc]

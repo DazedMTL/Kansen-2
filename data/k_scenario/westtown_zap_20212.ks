@@ -274,7 +274,7 @@ But... She licked that place on me...[pcms]
 [fc]
 [vo_nag s="nagasaki0193"]
 [ns]Chihiro[nse]
-"Åc?"[pcms]
+"...?"[pcms]
 
 *14062|
 [fc]

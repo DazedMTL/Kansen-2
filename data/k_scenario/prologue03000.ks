@@ -559,7 +559,7 @@ up like them too...?[pcms]
 *7586|
 [fc]
 [ns]Ookura Hiroshi[nse]
-"Åc?"[pcms]
+"...?"[pcms]
 
 *7587|
 [fc]

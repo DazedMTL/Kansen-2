@@ -261,7 +261,7 @@ Hayami started to waste away, and her smile became weaker.[pcms]
 [fc]
 [vo_hay s="hayami0897"]
 [ns]Arisu[nse]
-`Hey, Hiroshi... At the shopping mall, you know, I had[r]
+Hey, Hiroshi... At the shopping mall, you know, I had[r]
 friends... We were really close friends... We were always[r]
 together...[pcms]
 
@@ -283,25 +283,25 @@ showed signs of confused memories.[pcms]
 [fc]
 [vo_hay s="hayami0898"]
 [ns]Alice[nse]
-`Can you take me there...? I want to see my friends... It's[r]
+Can you take me there...? I want to see my friends... It's[r]
 okay, right...? Hiroshi...[pcms]
 
 *4160|
 [fc]
 [ns]Ookura Hiroshi[nse]
-`Yeah... Then how about we go there on my day off this week?[pcms]
+Yeah... Then how about we go there on my day off this week?[pcms]
 
 *4161|
 [fc]
 [vo_hay s="hayami0899"]
 [ns]Arisu[nse]
-`...Where? If you're going out, I want you to take me with[r]
+...Where? If you're going out, I want you to take me with[r]
 you~[pcms]
 
 *4162|
 [fc]
 [ns]Ookura Hiroshi[nse]
-`Ah, yeah, of course, I'll take you with me.[pcms]
+Ah, yeah, of course, I'll take you with me.[pcms]
 
 [cutin storage="NEV103i"][trans_c cross time=1000]
 
@@ -309,24 +309,24 @@ you~[pcms]
 [fc]
 [vo_hay s="hayami0900"]
 [ns]Arisu[nse]
-`It's been a while since we've gone out somewhere other than[r]
+It's been a while since we've gone out somewhere other than[r]
 the hospitalÅÙ[pcms]
 
 *4164|
 [fc]
 [ns]Ookura Hiroshi[nse]
-`Yeah, that's true.[pcms]
+Yeah, that's true.[pcms]
 
 *4165|
 [fc]
 [vo_hay s="hayami0901"]
 [ns]Alice[nse]
-`What should I wear~ÅÙ[pcms]
+What should I wear~ÅÙ[pcms]
 
 *4166|
 [fc]
 [ns]Ookura Hiroshi[nse]
-`...[pcms]
+...[pcms]
 
 *4167|
 [fc]
@@ -380,18 +380,18 @@ and carried Hayami into the premises.[pcms]
 [fc]
 [vo_hay s="hayami0902"]
 [ns]Arisu[nse]
-`Ah~, we shouldn't be doing this~[pcms]
+Ah~, we shouldn't be doing this~[pcms]
 
 *4173|
 [fc]
 [ns]Ookura Hiroshi[nse]
-`It'll be our little secret.[pcms]
+It'll be our little secret.[pcms]
 
 *4174|
 [fc]
 [vo_hay s="hayami0903"]
 [ns]Arisu[nse]
-`Hehe...[pcms]
+Hehe...[pcms]
 
 *4175|
 [fc]
