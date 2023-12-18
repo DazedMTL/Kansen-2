@@ -312,8 +312,7 @@ pussy...ÅÙ"[pcms]
 [fc]
 [vo_may s="mayab0011"]
 [ns]A familiar-looking girl[nse]
-"N--!! Nnn---!!! Gobu, gujyu, jyugo!! Nng, bu... nnn-----!!![r]
-"[pcms]
+"N--!! Nnn---!!! Gobu, gujyu, jyugo!! Nng, bu... nnn-----!!![pcms]
 
 *15703|
 [fc]

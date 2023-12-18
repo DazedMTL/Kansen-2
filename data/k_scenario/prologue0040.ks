@@ -53,9 +53,9 @@ turned out to be a letter from Hayami.[pcms]
 
 *6570|
 [fc]
-"[Let's go eat Zunda Mochi during the free time of our[r]
+"(Let's go eat Zunda Mochi during the free time of our[r]
 training trip!! I heard there's a famous shop! Looking[r]
-forward to itÅÙ]"[pcms]
+forward to itÅÙ)"[pcms]
 
 *6571|
 [fc]
@@ -69,7 +69,7 @@ to...?[pcms]
 
 *6573|
 [fc]
-"[What's Zunda Mochi? Something about Mutsumo-chan?]"[pcms]
+"(What's Zunda Mochi? Something about Mutsumo-chan?)"[pcms]
 
 *6574|
 [fc]
@@ -85,7 +85,7 @@ me.[pcms]
 
 *6576|
 [fc]
-"[Sorry, I don't know... What's the answer?]"[pcms]
+"(Sorry, I don't know... What's the answer?)"[pcms]
 
 *6577|
 [fc]
@@ -94,9 +94,9 @@ the empty space and tossed it over.[pcms]
 
 *6578|
 [fc]
-"[How many years have you been my partner? You're supposed[r]
+"(How many years have you been my partner? You're supposed[r]
 to retort with 'That's a married man with kids!' right[r]
-there!]"[pcms]
+there!)"[pcms]
 
 *6579|
 [fc]
@@ -105,9 +105,9 @@ back and threw it at me.[pcms]
 
 *6580|
 [fc]
-"[Your setup is too hard to understand!! Plus, I didn't know[r]
+"(Your setup is too hard to understand!! Plus, I didn't know[r]
 that Professor Mutsumo had a wife and kids!! Self-centered[r]
-jokes are the worst!! You third-rate comedian!!]"[pcms]
+jokes are the worst!! You third-rate comedian!!)"[pcms]
 
 *6581|
 [fc]
@@ -121,25 +121,25 @@ centered!?[pcms]
 
 *6583|
 [fc]
-"[I chose an easy-to-understand joke for you, and you call[r]
+"(I chose an easy-to-understand joke for you, and you call[r]
 me a third-rate comedian!? Don't blame me for your not[r]
-getting it!!]"[pcms]
+getting it!!)"[pcms]
 
 *6584|
 [fc]
-"[Chose for me? Why are you so condescending? You don't[r]
+"(Chose for me? Why are you so condescending? You don't[r]
 realize that without Yuuki and my support, Hiroshi would[r]
-never make it as a comedian.]"[pcms]
+never make it as a comedian.)"[pcms]
 
 *6585|
 [fc]
-"[You bitch!! Don't talk like you're some third-rate gravure[r]
-idol!!]"[pcms]
+"(You bitch!! Don't talk like you're some third-rate gravure[r]
+idol!!)"[pcms]
 
 *6586|
 [fc]
-"[You got hit with a zuboshi and now you're angry[r]
-Éµ(ÅPÅP)Éµkekeke]"[pcms]
+"(You got hit with a zuboshi and now you're angry[r]
+Éµ(ÅPÅP)Éµkekeke)"[pcms]
 
 *6587|
 [fc]
