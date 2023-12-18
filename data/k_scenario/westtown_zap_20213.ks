@@ -61,7 +61,7 @@ out the situation on the third floor.[pcms]
 *14117|
 [fc]
 [vo_hay s="hayami0397"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Ow...ow! One person... two people... The others... can't[r]
 see them..."[pcms]
 ;//ƒuƒƒbƒN‚Q‚O‚Q‚P‚P‚Ì—¬—p
@@ -164,7 +164,7 @@ that!!"[pcms]
 *14130|
 [fc]
 [vo_hay s="hayami0399"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Chihiro!"[pcms]
 ;//ƒuƒƒbƒN‚Q‚O‚Q‚P‚P‚Ì—¬—p
 
@@ -300,7 +300,7 @@ me and tumbled down the escalator stairs to the lower floor.[pcms]
 *14146|
 [fc]
 [vo_hay s="hayami0401"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "No!! Noooo!!! No way!! Mister! What are you doing..."[pcms]
 ;//ƒuƒƒbƒN‚Q‚O‚Q‚P‚P‚Ì—¬—p
 
@@ -334,7 +334,7 @@ The broken neck just hung there, dangling limply.[pcms]
 *14152|
 [fc]
 [vo_hay s="hayami0403"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Ugh... uweh!! Gag... ugh..."[pcms]
 ;//ƒuƒƒbƒN‚Q‚O‚Q‚P‚P‚Ì—¬—p
 
@@ -465,7 +465,7 @@ pushing the bald man over the edge of the escalator.[pcms]
 *14169|
 [fc]
 [vo_hay s="hayami0406"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Nooooo!! Not again...!! Please stop!! Mister!! I can't take[r]
 it anymore!!"[pcms]
 
@@ -582,7 +582,7 @@ Uwoooooo!!"[pcms]
 *14182|
 [fc]
 [vo_hay s="hayami0408"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Mister..."[pcms]
 
 *14183|
@@ -601,7 +601,7 @@ guys!! It's all your fault!! Damn it!!"[pcms]
 *14185|
 [fc]
 [vo_hay s="hayami0409"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "...? Wha... what are you talking about...? What did we do[r]
 to you!?"[pcms]
 
@@ -620,7 +620,7 @@ limped closer, dragging his leg.[pcms]
 *14188|
 [fc]
 [vo_hay s="hayami0410"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Eek... wha... what...!? What's going on!!"[pcms]
 
 *14189|

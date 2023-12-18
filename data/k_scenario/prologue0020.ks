@@ -21,7 +21,7 @@
 
 *6395|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Miyagi Prefecture, Sendai City, Aoba Ward...? It's just[r]
 around the corner, this..."[pcms]
 
@@ -69,7 +69,7 @@ prefecture."[pcms]
 *6401|
 [fc]
 [vo_hay s="hayami0011"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Then, after we graduate, let's go somewhere more[r]
 interesting, just the three of us. Even going abroad would[r]
 be nice."[pcms]
@@ -151,12 +151,12 @@ we've been cleverly deceived by this system...[pcms]
 *6413|
 [fc]
 [vo_hay s="hayami0014"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Hey Hiroshi! Are you listening!?"[pcms]
 
 *6414|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Ah, you're talking about how Oguchi's bra today was orange,[r]
 right?"[pcms]
 
@@ -165,13 +165,13 @@ right?"[pcms]
 *6415|
 [fc]
 [vo_hay s="hayami0015"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Ah, speaking of which, Hideko's was see-through. She should[r]
 wear a vest."[pcms]
 
 *6416|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Maybe she wanted to show off her new one? It was a color[r]
 I've never seen before."[pcms]
 
@@ -188,12 +188,12 @@ I've never seen before."[pcms]
 *6418|
 [fc]
 [vo_hay s="hayami0016"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "...Hiroshi, are you checking out my bra too?"[pcms]
 
 *6419|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "So, why is it just the three of us?"[pcms]
 
 [ChrSetEx layer=3 chbase="hayami_n04"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
@@ -201,7 +201,7 @@ I've never seen before."[pcms]
 *6420|
 [fc]
 [vo_hay s="hayami0017"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Well, you see..."[pcms]
 
 [ChrSetEx layer=2 chbase="koba_n06"][ChrSetXY layer=2 x=0 y=0][trans_c cross time=150]
@@ -237,7 +237,7 @@ Yuu.[pcms]
 
 *6425|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Just the three of us..."[pcms]
 
 [ChrSetEx layer=3 chbase="hayami_n07"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
@@ -266,14 +266,14 @@ Yuu.[pcms]
 *6429|
 [fc]
 [vo_hay s="hayami0019"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "There were also many girls who said they wanted to be with[r]
 Yuuki. Even girls from other classes. They said they wanted[r]
 to go sightseeing with Kobayashi-kun."[pcms]
 
 *6430|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Huh..."[pcms]
 
 *6431|
@@ -305,7 +305,7 @@ Or maybe I'm just unaware that she's actually quite popular?[pcms]
 *6436|
 [fc]
 [vo_hay s="hayami0020"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "You know, they're all so eager. They want to become a[r]
 couple before the training trip. Isn't it like anyone will[r]
 do for them?"[pcms]
@@ -351,13 +351,13 @@ Because attached to Hayami's body are parts that attract men[r]
 
 *6444|
 [fc]
-[ns]Ookura Hiroshi[nse]
-"But hey, guys who set their sights on Hayamiare they just[r]
+[ns]Ookura[nse]
+"But hey, guys who set their sights on Hayami, are they just[r]
 after her big tits?"[pcms]
 
 *6445|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Maybe they're thinking they can get a feel during the free[r]
 time, or if they somehow start dating, they could actually[r]
 do it."[pcms]
@@ -378,7 +378,7 @@ skin, as Hayami glared at me sideways with a sharp look.[pcms]
 *6448|
 [fc]
 [vo_hay s="hayami0022"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Don't say 'touching'! Just imagining some old guy hitting[r]
 on me is super creepy!"[pcms]
 
@@ -402,7 +402,7 @@ and started to flirt.[pcms]
 *6451|
 [fc]
 [vo_hay s="hayami0023"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "No way, Yuuki, you're so naughty~ÅÙ You have such a cute[r]
 face, but you're still a boy after all. Saying 'that's not[r]
 what I meant to poke at'Kyaa!"[pcms]
@@ -420,7 +420,7 @@ what I meant to poke at'Kyaa!"[pcms]
 *6453|
 [fc]
 [vo_hay s="hayami0024"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Ah, but you can poke between my cleavage?"[pcms]
 
 [ChrSetEx layer=2 chbase="koba_n12"][ChrSetXY layer=2 x=0 y=0][trans_c cross time=150]
@@ -467,7 +467,7 @@ the red-light district of Kabukicho!"[pcms]
 
 *6460|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Yeah, yeah."[pcms]
 
 *6461|
@@ -487,7 +487,7 @@ sell my body to earn money for his drinking!"[pcms]
 
 *6463|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "You sound like someone from the early Showa period. Just[r]
 break up with him if it's that bad."[pcms]
 
@@ -530,7 +530,7 @@ was it?"[pcms]
 
 *6470|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Besides, it's hot, so don't cling too much."[pcms]
 
 [ChrSetEx layer=4 chbase="hayami_n08"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -571,7 +571,7 @@ would be embarrassing for me."[pcms]
 
 *6476|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Ah, by the way, why are we three the only ones in our group[r]
 for the training trip? Weren't there quite a few people who[r]
 said they wanted to be in the same group as Hayami and Yuu?"[pcms]
@@ -589,7 +589,7 @@ said they wanted to be in the same group as Hayami and Yuu?"[pcms]
 
 *6478|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Is that so?"[pcms]
 
 [ChrSetEx layer=3 chbase="hayami_n07"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
@@ -597,7 +597,7 @@ said they wanted to be in the same group as Hayami and Yuu?"[pcms]
 *6479|
 [fc]
 [vo_hay s="hayami0032"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "It might just be me, but things just don't feel right[r]
 without Hiroshi and Yuuki. It's like we don't mesh well with[r]
 others."[pcms]
@@ -662,12 +662,12 @@ Yuu and Hayami have become indispensable to me now.[pcms]
 *6488|
 [fc]
 [vo_hay s="hayami0034"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Ah, it's from Tomo-chan. Excuse me for a sec."[pcms]
 
 *6489|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Oh? Who is it? This one? This one?"[pcms]
 
 [chara_int][trans_c cross time=150]
@@ -716,7 +716,7 @@ face with a teasing look.[pcms]
 
 *6498|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Hm? No..."[pcms]
 
 *6499|
@@ -745,7 +745,7 @@ sense.[pcms]
 
 *6503|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "...Probably F, I guess."[pcms]
 
 [ChrSetEx layer=4 chbase="koba_n03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -758,7 +758,7 @@ sense.[pcms]
 
 *6505|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Yeah, that's my guess."[pcms]
 
 [ChrSetEx layer=4 chbase="koba_n12"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -771,7 +771,7 @@ sense.[pcms]
 
 *6507|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Well, it's an initial if you want to call it that."[pcms]
 
 [ChrSetEx layer=4 chbase="koba_n01"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -806,7 +806,7 @@ increase the number of yawns after all.[pcms]
 
 *6513|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "What about you, Yuu? Got any place you want to go?"[pcms]
 
 [ChrSetEx layer=4 chbase="koba_n08"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -819,7 +819,7 @@ increase the number of yawns after all.[pcms]
 
 *6515|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "A shopping mall?"[pcms]
 
 [ChrSetEx layer=4 chbase="koba_n01"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -841,7 +841,7 @@ doesn't it sound fun?"[pcms]
 
 *6518|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "True, there's nothing around here... Oh, right. Wanna go to[r]
 a maid cafe? I've always wanted to see maids in person."[pcms]
 
@@ -884,7 +884,7 @@ Yuu's body to look at my face.[pcms]
 
 *6524|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "It's not like that. I've only seen them on TV, so I just[r]
 want to see it in person."[pcms]
 
@@ -893,7 +893,7 @@ want to see it in person."[pcms]
 *6525|
 [fc]
 [vo_hay s="hayami0037"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Hmm... then should I wear it for you? A maid outfit."[pcms]
 
 [ChrSetEx layer=2 chbase="koba_n01"][ChrSetXY layer=2 x=0 y=0][trans_c cross time=150]
@@ -902,12 +902,12 @@ want to see it in person."[pcms]
 [fc]
 [vo_kob s="koba0031"]
 [ns]Kobayashi[nse]
-"Ah, Alice might suit it. Though it's a bit naughty."[pcms]
+"Ah, Arisu might suit it. Though it's a bit naughty."[pcms]
 
 *6527|
 [fc]
 [vo_hay s="hayami0038"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Right? I think I can pull it off pretty well~"[pcms]
 
 *6528|
@@ -939,7 +939,7 @@ interesting... There seems to be a demand for it too...[pcms]
 
 *6532|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Yeah, for your fans."[pcms]
 
 [ChrSetEx layer=3 chbase="hayami_n09"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
@@ -961,7 +961,7 @@ interesting... There seems to be a demand for it too...[pcms]
 
 *6535|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "You're ripping me off way too much! 6:4 is fair. And the 6[r]
 is mine!"[pcms]
 
@@ -974,7 +974,7 @@ lower than that!"[pcms]
 
 *6537|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Hey, wait a minute! You just casually denied my existence![r]
 Despite getting 40 points on the biology test yourself! What[r]
 do you know about genes!!"[pcms]
@@ -998,7 +998,7 @@ yourself! What? 20 points! That's unbelievable!!"[pcms]
 *6540|
 [fc]
 [vo_hay s="hayami0044"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "The one who calls someone stupid is the stupid one![r]
 Hiroshi's stupid stupid!!"[pcms]
 

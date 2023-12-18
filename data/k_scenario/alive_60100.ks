@@ -27,7 +27,7 @@ finally managed to reach "West Town."[pcms]
 
 *1050|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Quit your whining! If you try anything, I'll slap you with[r]
 this next time!"[pcms]
 
@@ -119,7 +119,7 @@ grabbing clothes they liked.[pcms]
 *1060|
 [fc]
 [vo_hay s="hayami1037"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Ah! Hiroshi~! Over here, there are so many clothes! You can[r]
 choose whatever you like!"[pcms]
 
@@ -133,7 +133,7 @@ clothes like Hayami and her group.[pcms]
 
 *1062|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "...? Are we really allowed to just take these? I[r]
 remember... it was supposed to be a trade or something...[r]
 right?"[pcms]
@@ -177,7 +177,7 @@ like this..."[pcms]
 
 *1068|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Oh... Ah, okay..."[pcms]
 
 *1069|
@@ -202,7 +202,7 @@ on her face.[pcms]
 
 *1072|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "...!? Yuu, that... isn't that women's clothing?"[pcms]
 
 *1073|
@@ -228,7 +228,7 @@ mind.[pcms]
 
 *1076|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Even so... Yuu, it doesn't look out of place on you at[r]
 all..."[pcms]
 
@@ -240,7 +240,7 @@ all..."[pcms]
 
 *1078|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "...?"[pcms]
 
 *1079|
@@ -257,7 +257,7 @@ fell silent and looked down when I spoke to him.[pcms]
 
 *1081|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Go where? And who are you, anyway?"[pcms]
 
 [ChrSetEx layer=4 chbase="naga_c02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -270,7 +270,7 @@ you be...?"[pcms]
 
 *1083|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "I'm Hiroshi. The one in the maid outfit over there is[r]
 Yuuki... and that woman with the big breasts is..."[pcms]
 
@@ -331,7 +331,7 @@ hasn't shown up..."[pcms]
 
 *1092|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Huh... I wonder what her boyfriend is up to?"[pcms]
 
 *1093|
@@ -360,7 +360,7 @@ event" that's nagging at the back of my mind...[pcms]
 
 *1097|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Ugh... guh..."[pcms]
 
 [ChrSetEx layer=4 chbase="naga_c07"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -408,7 +408,7 @@ herself...[pcms]
 
 *1105|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Yeah... doesn't seem like she has a lover or anything..."[pcms]
 
 [ChrSetEx layer=4 chbase="naga_c04"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -421,7 +421,7 @@ men...! Let's go!"[pcms]
 
 *1107|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Yes, yes..."[pcms]
 
 ;//ÅöçïâÊñ 

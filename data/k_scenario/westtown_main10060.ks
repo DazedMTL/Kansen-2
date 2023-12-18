@@ -39,7 +39,7 @@ around the corner and surveyed the surroundings.[pcms]
 
 *10407|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Yeah..."[pcms]
 
 *10408|
@@ -55,7 +55,7 @@ any sign of the crazed group.[pcms]
 
 *10410|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Yuuki, show me the map."[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
@@ -111,7 +111,7 @@ clothes, or rather costumes.[pcms]
 
 *10420|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Hey, Yuuki...! What are you doing...!"[pcms]
 
 [ChrSetEx layer=4 chbase="koba_n07"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -124,7 +124,7 @@ clothes, or rather costumes.[pcms]
 
 *10422|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "This is no time to be mesmerized by that stuff...! Let's[r]
 go...!"[pcms]
 
@@ -158,7 +158,7 @@ the staircase.[pcms]
 
 *10426|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Hide...!!"[pcms]
 
 *10427|
@@ -169,7 +169,7 @@ hiding.[pcms]
 
 *10428|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "..."[pcms]
 
 *10429|
@@ -207,7 +207,7 @@ the staircase from behind me.[pcms]
 
 *10435|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Yeah..."[pcms]
 
 ;//ÅÙÅFbgm009 stop

@@ -22,7 +22,7 @@
 
 *1573|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Hn...?"[pcms]
 
 ;//＠：東棟・四階
@@ -40,7 +40,7 @@
 
 *1574|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "What...? What was that just now... huh?"[pcms]
 
 *1575|
@@ -51,7 +51,7 @@ Did the one sleeping next to me go somewhere?[pcms]
 
 *1576|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Hm...?"[pcms]
 
 ;//♪：bgm012 fadein
@@ -74,7 +74,7 @@ A strong voice echoes from the darkness.[pcms]
 
 *1580|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "...Who's there?"[pcms]
 
 [ChrSetEx layer=4 chbase="turuta_d05"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -86,7 +86,7 @@ A strong voice echoes from the darkness.[pcms]
 
 *1582|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "...? What do you mean? Infected with what...? And who are[r]
 you...?"[pcms]
 
@@ -104,7 +104,7 @@ suspiciously while standing guard.[pcms]
 
 *1584a|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Huh? Why I'm here...? I don't know... I just found myself[r]
 sleeping here."[pcms]
 
@@ -123,7 +123,7 @@ something strange or what...?[pcms]
 
 *1587|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "What's the deal... What did I do to you!! I was just[r]
 sleeping here, that's all!"[pcms]
 
@@ -137,7 +137,7 @@ those crazed ones who growl and scream..."[pcms]
 
 *1589|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "...What are you talking about! I don't understand a thing[r]
 you're saying!! I've been here the whole time!"[pcms]
 
@@ -162,7 +162,7 @@ me?"[pcms]
 
 *1593|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Huh? What do I think...? Just that you're a huge woman...[r]
 That's it..."[pcms]
 
@@ -199,7 +199,7 @@ Who was it...?[pcms]
 
 *1600|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Ugh... companions... there are... my friends are nearby..."[pcms]
 
 [ChrSetEx layer=4 chbase="turuta_n03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -216,7 +216,7 @@ to find the one I was with...[pcms]
 
 *1603|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Understood... But who are you, anyway?"[pcms]
 
 [ChrSetEx layer=4 chbase="turuta_a04"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -244,8 +244,8 @@ Well, whatever...[pcms]
 
 *1608|
 [fc]
-[ns]Ookura Hiroshi[nse]
-"Huh... My name is Ookura Hiroshi."[pcms]
+[ns]Ookura[nse]
+"Huh... My name is Ookura."[pcms]
 
 [ChrSetEx layer=4 chbase="turuta_n01"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *1609|
@@ -256,7 +256,7 @@ Well, whatever...[pcms]
 
 *1610|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Understood... but I can't run, you know... Walk slowly for[r]
 me..."[pcms]
 
@@ -274,7 +274,7 @@ Bombing? What is she talking about, seriously...[pcms]
 
 *1613|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "What are you saying... I don't understand what you mean..."[pcms]
 
 *1614|
@@ -298,7 +298,7 @@ Escape? There's no need for that...[pcms]
 
 *1617|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Ah..."[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]

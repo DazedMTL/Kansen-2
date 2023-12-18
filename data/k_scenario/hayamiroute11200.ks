@@ -282,13 +282,13 @@ showed signs of confused memories.[pcms]
 *4159|
 [fc]
 [vo_hay s="hayami0898"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 Can you take me there...? I want to see my friends... It's[r]
 okay, right...? Hiroshi...[pcms]
 
 *4160|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 Yeah... Then how about we go there on my day off this week?[pcms]
 
 *4161|
@@ -300,7 +300,7 @@ you~[pcms]
 
 *4162|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 Ah, yeah, of course, I'll take you with me.[pcms]
 
 [cutin storage="NEV103i"][trans_c cross time=1000]
@@ -314,18 +314,18 @@ the hospitalÅÙ[pcms]
 
 *4164|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 Yeah, that's true.[pcms]
 
 *4165|
 [fc]
 [vo_hay s="hayami0901"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 What should I wear~ÅÙ[pcms]
 
 *4166|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 ...[pcms]
 
 *4167|
@@ -384,7 +384,7 @@ Ah~, we shouldn't be doing this~[pcms]
 
 *4173|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 It'll be our little secret.[pcms]
 
 *4174|
@@ -437,7 +437,7 @@ down Hayami, whom I was carrying, and made her sit.[pcms]
 
 *4181|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Yeah..."[pcms]
 
 ;//ÅÙÅFbgm010 stop
@@ -461,7 +461,7 @@ little bit?"[pcms]
 
 *4184|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "What's with that all of a sudden? Don't say such unlucky[r]
 things."[pcms]
 
@@ -474,7 +474,7 @@ and with Hiroshi..."[pcms]
 
 *4186|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "..."[pcms]
 
 [evcg storage="NEV103e"][trans_c cross time=2000]
@@ -503,13 +503,13 @@ Hayami blushed, smiled shyly, and looked down embarrassed.[pcms]
 *4190|
 [fc]
 [vo_hay s="hayami0910"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "...Thank you for everything up until now... I will always[r]
 love Hiroshi... Don't forget about me..."[pcms]
 
 *4191|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Heh, idiot..."[pcms]
 
 *4192|
@@ -546,7 +546,7 @@ afterlife, so I buried a part of her bones under that tree.[pcms]
 
 *4195|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "See you again..."[pcms]
 
 *4196|
@@ -598,7 +598,7 @@ tampered with it...[pcms]
 
 *4202|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Hmm..."[pcms]
 
 *4203|
@@ -611,7 +611,7 @@ me, there was a smile reminiscent of Hayami's.[pcms]
 
 *4204|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "You found some beautiful flowers. Go ahead and place them[r]
 there."[pcms]
 
@@ -630,7 +630,7 @@ prayer.[pcms]
 
 *4207|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "...Alright, shall we go home, Arisu?"[pcms]
 
 *4208|
@@ -641,7 +641,7 @@ prayer.[pcms]
 
 *4209|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Then, shall we say goodbye?"[pcms]
 
 *4210|
@@ -658,7 +658,7 @@ mall where Yuu and the others rest.[pcms]
 
 *4212|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "See you again..."[pcms]
 
 [fadeoutbgm time=3000]

@@ -32,7 +32,7 @@ you?"[pcms]
 
 *1622|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "He was... until just a moment ago. When I woke up, I was[r]
 alone..."[pcms]
 
@@ -58,7 +58,7 @@ you! We need to hurry..."[pcms]
 
 *1626|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Ah, ah-..."[pcms]
 
 ;//—F“Œ“ElŠK
@@ -82,7 +82,7 @@ system..."[pcms]
 
 *1628|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Public address..."[pcms]
 
 ;êŠ<ImageFade 6,60,OFF,OFF>
@@ -108,7 +108,7 @@ system..."[pcms]
 
 *1630|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Huh?"[pcms]
 
 ;êŠ<ImageFade 6,60,OFF,OFF>
@@ -131,7 +131,7 @@ the direction of the figure.[pcms]
 
 *1633|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Ahh~...? No, that's probably not them... My friend has big[r]
 tits...ugh"[pcms]
 
@@ -141,7 +141,7 @@ Ugh, it's hard to breathe...![pcms]
 
 *1635|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Ugh~..."[pcms]
 
 *1636|
@@ -158,7 +158,7 @@ Your hand... it's in the way... I can't breathe...[pcms]
 
 *1638|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Ugh..."[pcms]
 
 *1639|

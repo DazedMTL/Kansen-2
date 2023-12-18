@@ -150,7 +150,7 @@ right in front of us.[pcms]
 *12981|
 [fc]
 [vo_hay s="hayami0228"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "What...!? An ambush...? Were you hiding...!?"[pcms]
 
 *12982|
@@ -175,7 +175,7 @@ right in front of us.[pcms]
 *12984|
 [fc]
 [vo_hay s="hayami0229"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Kyaa!"[pcms]
 
 [ChrSetEx layer=4 chbase="etc03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -262,7 +262,7 @@ slimy liquid began to spread.[pcms]
 *12993|
 [fc]
 [vo_hay s="hayami0230"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Eh...!? Ah...ahh..., his head..., blood... Blood is...!![r]
 Noooaaaahhh!!!"[pcms]
 ;//ÅùëÂÇ†ÇÌÇƒÇ≈
@@ -304,7 +304,7 @@ unconsciously suppressed began to overflow.[pcms]
 *13001|
 [fc]
 [vo_hay s="hayami0231"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "...!! Noooaaaahhhhhhh!! A...murderer...!! A murderer!!!"[pcms]
 
 [ChrSetEx layer=4 chbase="sugo_k03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -372,7 +372,7 @@ alive!!"[pcms]
 *13013|
 [fc]
 [vo_hay s="hayami0233"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Eh...!?"[pcms]
 
 [ChrSetEx layer=4 chbase="etc03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -429,7 +429,7 @@ they can't come this way, so just calm down!!"[pcms]
 *13021|
 [fc]
 [vo_hay s="hayami0235"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Eh...!? Nagasaki-san!! What!?"[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
@@ -735,7 +735,7 @@ set up everything like this...[pcms]
 *13061|
 [fc]
 [vo_hay s="hayami0239"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "..."[pcms]
 
 [ChrSetEx layer=2 chbase="etc01"][ChrSetXY layer=2 x=0 y=0]
@@ -759,7 +759,7 @@ cardboard, not trying to move it aside.[pcms]
 *13065|
 [fc]
 [vo_hay s="hayami0240"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "What...these people...why...?"[pcms]
 
 [chara_int_ layer=2][chara_int_ layer=3]
@@ -791,7 +791,7 @@ It seems we're safe for now... ...I felt somewhat relieved.[pcms]
 *13070|
 [fc]
 [vo_hay s="hayami0241"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Looks like we're safe... But it's creepy, so let's get[r]
 away... And...I...need the bathroom..."[pcms]
 ;//ÅùÇ≥Ç≥Ç‚Ç≠ÇÊÇ§Ç…
@@ -875,7 +875,7 @@ But...I can't hold it anymore...[pcms]
 *13082|
 [fc]
 [vo_hay s="hayami0243"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "...let me go to the bathroom..."[pcms]
 ;//ÅùÉgÉCÉåÇ…
 
@@ -924,7 +924,7 @@ What is this person thinking...?[pcms]
 *13090|
 [fc]
 [vo_hay s="hayami0245"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Ugh...please..."[pcms]
 
 *13091|
@@ -973,7 +973,7 @@ calmed down.[pcms]
 *13097|
 [fc]
 [vo_hay s="hayami0246"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "I understand! I get it... Everyone, calm down!! I'll hold[r]
 it in a bit longer...!"[pcms]
 

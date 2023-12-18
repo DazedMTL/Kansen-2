@@ -30,7 +30,7 @@
 *9541|
 [fc]
 [vo_hay s="hayami1081"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Haa... Haa..."[pcms]
 
 ;êŠ<ImageFade 6,60,OFF,OFF>

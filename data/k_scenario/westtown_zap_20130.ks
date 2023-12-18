@@ -23,7 +23,7 @@
 *13317|
 [fc]
 [vo_hay s="hayami0279"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Uuu... *sniffle*... *hic*..."[pcms]
 
 *13318|
@@ -55,7 +55,7 @@ more miserable."[pcms]
 *13323|
 [fc]
 [vo_hay s="hayami0280"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "*hic*... *sniffle*..."[pcms]
 
 *13324|
@@ -132,7 +132,7 @@ It's embarrassing..."[pcms]
 *13337|
 [fc]
 [vo_hay s="hayami0283"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "*sniffle*... *hic*... *hic*..."[pcms]
 
 [ChrSetEx layer=4 chbase="sugo_k01"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -207,7 +207,7 @@ you, so strip?"[pcms]
 *13347|
 [fc]
 [vo_hay s="hayami0285"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Eh...? Why do I have to strip...?"[pcms]
 
 [ChrSetEx layer=4 chbase="sugo_k02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -220,7 +220,7 @@ you, so strip?"[pcms]
 *13349|
 [fc]
 [vo_hay s="hayami0286"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "..."[pcms]
 ;//ÅùÇΩÇﬂëß
 
@@ -265,7 +265,7 @@ absolute worst day of my life..."[pcms]
 *13357|
 [fc]
 [vo_hay s="hayami0287"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "No...! I'll strip! I'll do it myself..."[pcms]
 
 *13358|
@@ -348,7 +348,7 @@ as I stood there naked, covering my breasts.[pcms]
 *13372|
 [fc]
 [vo_hay s="hayami0289"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Nagasaki-san... please don't look so much..."[pcms]
 
 *13373|
@@ -480,7 +480,7 @@ juggler.[pcms]
 *13392|
 [fc]
 [vo_hay s="hayami0291"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Hik!"[pcms]
 
 *13393|
@@ -549,7 +549,7 @@ her fingertips along my thigh.[pcms]
 *13400|
 [fc]
 [vo_hay s="hayami0293"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Nnh... fuh..."[pcms]
 
 *13401|
@@ -597,7 +597,7 @@ What...? What are you doing...? Nagasaki-san...!?[pcms]
 *13409|
 [fc]
 [vo_hay s="hayami0295"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "It's embarrassing... Your face is too close..."[pcms]
 
 *13410|
@@ -613,7 +613,7 @@ The old man's vulgar laughter echoed through the toilet.[pcms]
 *13412|
 [fc]
 [vo_hay s="hayami0296"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "No... ah... that's not true..."[pcms]
 
 *13413|
@@ -772,7 +772,7 @@ hitting my clitoris.[pcms]
 *13440|
 [fc]
 [vo_hay s="hayami0301"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Auh! Ah... ah..."[pcms]
 
 ;//SE:ï˙îAÅiíZÇ¢Åj
@@ -793,7 +793,7 @@ The stimulation of touching my clitoris made pee seep out.[pcms]
 *13443|
 [fc]
 [vo_hay s="hayami0302"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "...I can't take it anymore!! Uwaaaahhh!! Uwaaaaaaahhhhh!"[pcms]
 
 *13444|
@@ -805,7 +805,7 @@ boobie girl!! Is your pussy loose too?"[pcms]
 *13445|
 [fc]
 [vo_hay s="hayami0303"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Uwaaaahhhhh!"[pcms]
 
 *13446|
@@ -854,7 +854,7 @@ The worst... the worst! This is just the worst!![pcms]
 *13449|
 [fc]
 [vo_hay s="hayami0304"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "The worst... this is just..."[pcms]
 
 ;//SE:óYã©Ç—
@@ -886,7 +886,7 @@ later! Follow me! Let's go see!!"[pcms]
 *13453|
 [fc]
 [vo_hay s="hayami0306"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Ah..."[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
@@ -910,7 +910,7 @@ No. I can't take it anymore...[pcms]
 *13457|
 [fc]
 [vo_hay s="hayami0308"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Gusss... Uuu..."[pcms]
 
 *13458|
@@ -920,7 +920,7 @@ That's right... I'm naked...[pcms]
 *13459|
 [fc]
 [vo_hay s="hayami0309"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "I need to get dressed..."[pcms]
 
 *13460|
@@ -952,7 +952,7 @@ I just want to close the door and never go out again...[pcms]
 *13466|
 [fc]
 [vo_hay s="hayami0310"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "..."[pcms]
 ;//ÅùÇΩÇﬂëß
 
@@ -967,7 +967,7 @@ Let's pull myself together...[pcms]
 *13469|
 [fc]
 [vo_hay s="hayami0311"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Ah..."[pcms]
 
 *13470|
@@ -978,7 +978,7 @@ cell phone in my skirt pocket.[pcms]
 *13471|
 [fc]
 [vo_hay s="hayami0312"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "I wonder if it'll connect now..."[pcms]
 
 *13472|

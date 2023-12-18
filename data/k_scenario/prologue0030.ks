@@ -39,7 +39,7 @@ this...[pcms]
 
 *6545|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Oh..."[pcms]
 
 *6546|
@@ -56,7 +56,7 @@ the rear seat door, and bowed his head slowly.[pcms]
 
 *6548|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Who's going to come out...?"[pcms]
 
 *6549|
@@ -77,7 +77,7 @@ getting out of the car.[pcms]
 
 *6550|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Huh..."[pcms]
 
 *6551|
@@ -88,7 +88,7 @@ fitting the description of 'delicate.'[pcms]
 
 *6552|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "That girl is..."[pcms]
 
 *6553|
@@ -113,7 +113,7 @@ to other girls walking around, but now I understand why.[pcms]
 
 *6557|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "If she's from a different world, then of course her level[r]
 of cuteness is different. In a way, she's like an alien."[pcms]
 
@@ -143,7 +143,7 @@ again towards my home.[pcms]
 
 *6560|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Sigh..."[pcms]
 
 ;èÍèä<ImageFade 6,60,OFF,OFF>
@@ -155,7 +155,7 @@ take care of her every need...[pcms]
 
 *6562|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Some people really do have money..."[pcms]
 
 [fadeoutbgm time=502]

@@ -45,7 +45,7 @@ be dragged along.[pcms]
 
 *9132|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Damn it...! Let go of me!!"[pcms]
 
 ;//Åóê_ã{éõÅ@ñXéqÇ†ÇË
@@ -59,7 +59,7 @@ be dragged along.[pcms]
 
 *9134|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Maya-chan!!"[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
@@ -88,7 +88,7 @@ into me.[pcms]
 
 *9139|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "You bastards...! Let go of me, damn you!!"[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_n10"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -105,7 +105,7 @@ into me.[pcms]
 
 *9141|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "!!"[pcms]
 
 *9142|
@@ -135,7 +135,7 @@ gripping me.[pcms]
 
 *9146|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Guaaaaahhhhhhhhhhhhhhhhhhhhhh!!!!!"[pcms]
 
 [stop_se0]
@@ -154,7 +154,7 @@ through me, and I became unable to move.[pcms]
 
 *9148|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Agahh!! Gahh, uguuuaaahhhhhhh!!!!!"[pcms]
 
 *9149|

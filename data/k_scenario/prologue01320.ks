@@ -52,7 +52,7 @@
 
 *6891|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Do you know where it is?"[pcms]
 
 ;èÍèä<ImageFade 6,60,OFF,OFF>
@@ -74,7 +74,7 @@ seen.[pcms]
 
 *6894|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Ah, so that's it... But hey, isn't there a bit of a sting[r]
 in the way you're talking?"[pcms]
 
@@ -96,7 +96,7 @@ is empty too."[pcms]
 
 *6897|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Hey, wait a minute! Just because I lost at rock-paper-[r]
 scissors, you're taking revenge here!? Just because you have[r]
 slightly better grades..."[pcms]
@@ -109,7 +109,7 @@ slightly better grades..."[pcms]
 
 *6899|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Don't you say that!! I heard from Minami just now on the[r]
 bus! You failed Classical Literature, didn't you!!"[pcms]
 
@@ -118,13 +118,13 @@ bus! You failed Classical Literature, didn't you!!"[pcms]
 *6900|
 [fc]
 [vo_hay s="hayami0090"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "...What? Did you sweet-talk Minami? Ah~, that's why you've[r]
 been getting along recently."[pcms]
 
 *6901|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "You're an idiot..."[pcms]
 
 [ChrSetEx layer=2 chbase="koba_n08"][ChrSetXY layer=2 x=0 y=0][trans_c cross time=150]
@@ -145,7 +145,7 @@ been getting along recently."[pcms]
 
 *6904|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "You're a guy too!"[pcms]
 
 *6905|
@@ -158,7 +158,7 @@ been getting along recently."[pcms]
 
 *6906|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "I didn't do it!!"[pcms]
 
 ;mm Ç±Ç±Ç≈Ç†ÇËÇ∑Ç™ÇæÇﬂâüÇµÇ≈Ç‡Ç§ÇPâÒåæÇ¶ÇŒÇ¢Ç¢ÇÒÇ∂Ç·ÅH
@@ -185,7 +185,7 @@ into view on their right.[pcms]
 
 *6909|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "...?"[pcms]
 
 [chara_int_ layer=2][chara_int_ layer=3][trans_c cross time=150]
@@ -195,7 +195,7 @@ into view on their right.[pcms]
 
 *6910|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Is this a hospital...?"[pcms]
 
 *6911|
@@ -225,13 +225,13 @@ one."[pcms]
 *6914|
 [fc]
 [vo_hay s="hayami0093"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "With a hospital this big, I bet the hospital food is[r]
 luxurious~ÅÙ"[pcms]
 
 *6915|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "...Please, even if you get hospitalized, don't eat the food[r]
 of the patient next to you, okay?"[pcms]
 
@@ -244,7 +244,7 @@ nurse for seconds."[pcms]
 
 *6917|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Just be careful not to overeat..."[pcms]
 
 [sysbt_meswin clear]

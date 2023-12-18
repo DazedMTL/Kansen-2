@@ -28,7 +28,7 @@
 
 *1921|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Whoa! That was close!!"[pcms]
 
 *1922|
@@ -43,7 +43,7 @@ take over the driving![pcms]
 
 *1924|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Naomi! I'll... I'll take over!"[pcms]
 
 *1925|
@@ -54,7 +54,7 @@ take over the driving![pcms]
 
 *1926|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "That doesn't matter right now! I can't just stand by and[r]
 watch!! Switch with me!"[pcms]
 
@@ -84,7 +84,7 @@ arms swung violently from side to side.[pcms]
 
 *1930|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Uwah... uwaaaahhhhh!!!!"[pcms]
 
 [quake_bg å≥time=1000 xy l]
@@ -128,7 +128,7 @@ building loomed in front of me.[pcms]
 
 *1933|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "..."[pcms]
 
 ;//ÅöÇrÇdÅFóYã©Ç—
@@ -220,7 +220,7 @@ Where is she now...?[pcms]
 
 *1949|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Ah..."[pcms]
 
 *1950|
@@ -274,7 +274,7 @@ I feel so lonely...[pcms]
 
 *1960|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Friends..."[pcms]
 
 *1961|

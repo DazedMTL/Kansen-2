@@ -72,7 +72,7 @@ were relaxing on benches.[pcms]
 
 *6923|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Cities are amazing, huh? To think that so many people[r]
 gather just to shop."[pcms]
 
@@ -115,7 +115,7 @@ inside...?"[pcms]
 
 *6930|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Ah, sorry, don't mind us..."[pcms]
 
 [ChrSetEx layer=3 chbase="hayami_b09"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]

@@ -30,7 +30,7 @@ crowd of crazed guys was wandering aimlessly on the rooftop.[pcms]
 
 *4915|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Hayami..."[pcms]
 
 ;èÍèä<ImageFade 6,60,OFF,OFF>
@@ -72,7 +72,7 @@ she's safe...[pcms]
 
 *4922|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "It seems she's not here. Let's search the lower floors."[pcms]
 
 *4923|
@@ -91,7 +91,7 @@ up.[pcms]
 
 *4924|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Tch...!"[pcms]
 
 *4925|
@@ -106,7 +106,7 @@ spacious here, so there should still be some leeway...[pcms]
 
 *4927|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "...Let's go down the other staircase."[pcms]
 
 *4928|
@@ -132,7 +132,7 @@ floor were coming up.[pcms]
 
 *4931|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Damn it, this way too...!!"[pcms]
 
 *4932|
@@ -155,7 +155,7 @@ can enter from there...[pcms]
 
 *4935|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Eh?"[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_n07"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -205,7 +205,7 @@ down using the stairs... Let's at least try going there...[pcms]
 
 *4944|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "...Yeah, let's give it a try."[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
@@ -238,7 +238,7 @@ ready in case crazed guys came out from inside.[pcms]
 
 *4947|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "..."[pcms]
 
 ;èÍèä<ImageFade 6,60,OFF,OFF>
@@ -259,7 +259,7 @@ an employee entrance that isn't locked somewhere...[pcms]
 
 *4950|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Maya-chan, stay back because it's dangerous."[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_f04"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -282,7 +282,7 @@ The doors gradually opened, revealing what was inside.[pcms]
 
 *4954|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "..."[pcms]
 
 *4955|
@@ -296,7 +296,7 @@ either.[pcms]
 
 *4956|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Hayami...!!"[pcms]
 
 ;//ÅóÇ†ÇËÇ∑ÇÕä≠êıêßïûóßÇøäGégóp
@@ -351,7 +351,7 @@ and immediately made a displeased face.[pcms]
 
 *4964|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Eh? Oh, yeah, we met at the arcade, right? You know, the[r]
 one with the husky."[pcms]
 
@@ -359,12 +359,12 @@ one with the husky."[pcms]
 *4965|
 [fc]
 [vo_hay s="hayami0684"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Why... are you with another woman...?"[pcms]
 
 *4966|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Hayami..."[pcms]
 
 *4967|

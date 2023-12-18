@@ -38,7 +38,7 @@
 
 *2987|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Haa... Haa..."[pcms]
 
 ;èÍèä<ImageFade 6,60,OFF,OFF>
@@ -72,7 +72,7 @@ end...[pcms]
 
 *2991|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "What's...?"[pcms]
 
 *2992|
@@ -88,7 +88,7 @@ bell began to ring.[pcms]
 
 *2993|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "!"[pcms]
 
 [stop_se0]
@@ -113,7 +113,7 @@ shutters at the entrance of the corridor coming down.[pcms]
 
 *2995|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Damn it!!"[pcms]
 
 *2996|
@@ -154,7 +154,7 @@ end got caught right under the shutter.[pcms]
 
 *3003|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "!!"[pcms]
 
 *3004|
@@ -170,7 +170,7 @@ didn't actually happen.[pcms]
 
 *3006|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Huh..."[pcms]
 
 *3007|

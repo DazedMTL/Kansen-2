@@ -69,7 +69,7 @@ out towards Maya-chan.[pcms]
 
 *5008|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Damn it...!!"[pcms]
 
 *5009|
@@ -80,7 +80,7 @@ the flat back side against Hayami's shoulder.[pcms]
 
 *5010|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Sorry, Hayami...!"[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
@@ -103,7 +103,7 @@ floor.[pcms]
 
 *5013|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Maya-chan, get out!!"[pcms]
 
 [chara_int][trans_c cross time=150]

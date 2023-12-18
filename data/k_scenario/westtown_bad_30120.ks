@@ -43,7 +43,7 @@
 
 *9509|
 [fc]
-He mutters to us, clearly with malice, as the man[r]
+He mutters to us, clearly with mArisu, as the man[r]
 approaches.[pcms]
 
 *9510|
@@ -150,7 +150,7 @@ and doesn't move an inch.[pcms]
 *9526|
 [fc]
 [vo_hay s="hayami1078"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Chihiro-san!? Chihiro-san!!!"[pcms]
 
 *9527|
@@ -161,7 +161,7 @@ stands in my way, blocking me.[pcms]
 *9528|
 [fc]
 [vo_hay s="hayami1079"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "...ah"[pcms]
 
 *9529|
@@ -194,7 +194,7 @@ say...!?"[pcms]
 *9531|
 [fc]
 [vo_hay s="hayami1080"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Eek...!"[pcms]
 
 *9532|

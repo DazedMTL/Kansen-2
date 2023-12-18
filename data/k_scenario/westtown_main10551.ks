@@ -27,7 +27,7 @@ going...!![pcms]
 
 *12421|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Huff...!!"[pcms]
 
 ;èÍèä<ImageFade 6,60,OFF,OFF>
@@ -40,7 +40,7 @@ into the corridor.[pcms]
 
 *12423|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Let's go...!!"[pcms]
 
 *12424|
@@ -83,7 +83,7 @@ crazed guy closest to me and thrust it with all my might.[pcms]
 
 *12430|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Uraaaaaaaah!!!!!"[pcms]
 
 ;[fadeoutbgm time=502]

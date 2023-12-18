@@ -30,7 +30,7 @@
 
 *3037|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Are you okay...?"[pcms]
 
 ;èÍèä<ImageFade 6,60,OFF,OFF>
@@ -43,7 +43,7 @@ a strange pose.[pcms]
 
 *3039|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "You...!"[pcms]
 
 [ChrSetEx layer=4 chbase="sugo_n06"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -66,7 +66,7 @@ something out of an erotic book.[pcms]
 
 *3041|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "..."[pcms]
 
 *3042|
@@ -112,7 +112,7 @@ take this off!!"[pcms]
 
 *3049|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "...Hey, I'm trying to help you, what's with that attitude?"[pcms]
 
 [ChrSetEx layer=4 chbase="sugo_n04"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -134,7 +134,7 @@ kidnapped Hayami... There's no way he'd cooperate...[pcms]
 
 *3052|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "...Sorry, I'm busy. Ask someone else for help."[pcms]
 
 [ChrSetEx layer=4 chbase="sugo_n06"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -146,7 +146,7 @@ wait!!"[pcms]
 
 *3053|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Good work."[pcms]
 
 [chara_int][trans_c cross time=150]
@@ -159,7 +159,7 @@ corridor.[pcms]
 
 *3055|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Tch...!"[pcms]
 
 *3056|

@@ -25,7 +25,7 @@
 
 *3292|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Huh...?"[pcms]
 
 *3293|
@@ -38,7 +38,7 @@ a group of crazies lurking in the dark.[pcms]
 
 *3294|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Tch! Did I drop it somewhere, damn it...!"[pcms]
 
 *3295|
@@ -61,7 +61,7 @@ Moving around here without a weapon is going to be tough...[pcms]
 
 *3299|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "...Hayami, come here."[pcms]
 
 *3300|
@@ -72,19 +72,19 @@ car near the wall.[pcms]
 
 *3301|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Phew... What to do now..."[pcms]
 
 [ChrSetEx layer=4 chbase="hayami_t05"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *3302|
 [fc]
 [vo_hay s="hayami0713"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Hiroshi, where's Yuuki? Aren't you together?"[pcms]
 
 *3303|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Yeah... We got separated along the way. Even if I want to[r]
 meet up, the corridor shutter is closed, and I can't get to[r]
 the other building."[pcms]
@@ -98,7 +98,7 @@ the other building."[pcms]
 
 *3305|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Of course not... Probably around 9 or 10 o'clock, that[r]
 shutter should open again."[pcms]
 
@@ -117,7 +117,7 @@ meet up with Yuu and the others. But still..."[pcms]
 
 *3308|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "It's about where to wait until the corridor shutter opens.[r]
 Is there a place in this building where we can safely hide?"[pcms]
 
@@ -131,7 +131,7 @@ shook her head.[pcms]
 
 *3310|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "I figured..."[pcms]
 
 *3311|
@@ -146,7 +146,7 @@ lying around.[pcms]
 
 *3313|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Let's hide inside a car..."[pcms]
 
 [ChrSetEx layer=4 chbase="hayami_t05"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -158,13 +158,13 @@ lying around.[pcms]
 
 *3315|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "The cars parked here. Let's find one with unbroken windows[r]
 and unlocked doors and hide until morning."[pcms]
 
 *3316|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "If the windows aren't broken, they won't be able to open[r]
 it, and we might get some sleep."[pcms]
 
@@ -177,20 +177,20 @@ it, and we might get some sleep."[pcms]
 
 *3318|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "...What's wrong, feeling sick?"[pcms]
 
 [ChrSetEx layer=4 chbase="hayami_t05"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *3319|
 [fc]
 [vo_hay s="hayami0718"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "No, just feeling a bit spaced out."[pcms]
 ;//ÅùÇ≤Ç‹Ç©Ç∑ÇÊÇ§Ç…èŒÇ¢Ç»Ç™ÇÁ
 
 *3320|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Alright... let's look for a car we can get into."[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
@@ -214,7 +214,7 @@ for one we could hide inside.[pcms]
 
 *3322|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "This one's no good either, damn it...!"[pcms]
 
 *3323|
@@ -234,7 +234,7 @@ Should we go back inside the building...?[pcms]
 *3325|
 [fc]
 [vo_hay s="hayami0719"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Hiroshi... Hiroshi...!"[pcms]
 ;//Åùè¨ê∫
 
@@ -247,7 +247,7 @@ Should we go back inside the building...?[pcms]
 *3327|
 [fc]
 [vo_hay s="hayami0720"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "They're coming this way...!"[pcms]
 ;//Åùè¨ê∫
 
@@ -259,7 +259,7 @@ were approaching our location.[pcms]
 
 *3329|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Hide here...!"[pcms]
 
 [ChrSetEx layer=4 chbase="hayami_t05"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -284,7 +284,7 @@ nearby and then crawled in myself.[pcms]
 
 *3333|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "..."[pcms]
 
 *3334|
@@ -301,7 +301,7 @@ of the car and the ground, starting to wander around.[pcms]
 
 *3336|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Come closer to me..."[pcms]
 
 *3337|
@@ -317,7 +317,7 @@ resting her head near my shoulder.[pcms]
 
 *3339|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Hey..."[pcms]
 
 *3340|
@@ -334,7 +334,7 @@ to me started making my heartbeat strangely quicken.[pcms]
 
 *3342|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "..."[pcms]
 
 *3343|

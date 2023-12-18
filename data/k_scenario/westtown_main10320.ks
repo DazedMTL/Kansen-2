@@ -49,7 +49,7 @@ body into it.[pcms]
 
 *11434|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Every other place was filled with crazies. Not just a few[r]
 either, so we can't say this place is safe either..."[pcms]
 
@@ -88,7 +88,7 @@ the aisle was smiling at me.[pcms]
 
 *11440|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "What's up?"[pcms]
 
 *11441|
@@ -101,7 +101,7 @@ the aisle was smiling at me.[pcms]
 
 *11442|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Hey...!"[pcms]
 
 *11443|
@@ -117,7 +117,7 @@ looking up at me.[pcms]
 
 *11445|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Big bro..."[pcms]
 
 *11446|
@@ -211,7 +211,7 @@ away quickly!!"[pcms]
 
 *11459|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Hey, calm down a bit..."[pcms]
 
 [ChrSetEx layer=3 chbase="nanasi_n03"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
@@ -282,7 +282,7 @@ without anyone coming to help sent a chill down my spine.[pcms]
 
 *11470|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Keep watch?"[pcms]
 
 [ChrSetEx layer=4 chbase="anza_n09"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -315,7 +315,7 @@ immediately."[pcms]
 
 *11474|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Hey, Yuuki..."[pcms]
 
 [ChrSetEx layer=2 chbase="anza_n08"][ChrSetXY layer=2 x=0 y=0][trans_c cross time=150]
@@ -340,7 +340,7 @@ to follow her.[pcms]
 
 *11478|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Yuuki, I'll join you."[pcms]
 
 [ChrSetEx layer=4 chbase="koba_n05"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -363,7 +363,7 @@ alone..."[pcms]
 
 *11482|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "...If you want to switch, just say so immediately."[pcms]
 
 *11483|
@@ -381,7 +381,7 @@ outside with the mop she had removed.[pcms]
 
 *11485|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Haa..."[pcms]
 
 *11486|
@@ -470,7 +470,7 @@ come...[pcms]
 
 *11502|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Hmm...?"[pcms]
 
 ;//♪：bgm004 
@@ -495,7 +495,7 @@ while wagging its tail.[pcms]
 
 *11506|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Hey, hey... stop that..."[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_n07"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -525,7 +525,7 @@ two seats away and asked.[pcms]
 
 *11511|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Does he not get attached to strangers?"[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_n03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -544,14 +544,14 @@ something else.[pcms]
 
 *11514|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "...You're from the Sakata family, right? I said it when we[r]
 entered this building, but I've seen you on my way home from[r]
 school."[pcms]
 
 *11515|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "You might not remember, but we've talked before, right? It[r]
 was when your dog got lost and you were looking for him, I[r]
 think."[pcms]
@@ -566,7 +566,7 @@ think."[pcms]
 
 *11517|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Ah... Sorry..."[pcms]
 
 *11518|
@@ -601,7 +601,7 @@ turned a cold face towards me as she muttered dismissively.[pcms]
 
 *11523|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Hypoc...!?"[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_n06"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -615,7 +615,7 @@ were after money..."[pcms]
 
 *11525|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Wait a minute! I don't remember ever saying I was after[r]
 money..."[pcms]
 
@@ -632,7 +632,7 @@ knee.[pcms]
 
 *11528|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "..."[pcms]
 
 *11529|
@@ -669,7 +669,7 @@ me.[pcms]
 
 *11534|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 「あ、ウン……」[pcms]
 
 *11535|
@@ -688,7 +688,7 @@ me.[pcms]
 
 *11537|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 「え……？」[pcms]
 
 *11538|
@@ -700,7 +700,7 @@ me.[pcms]
 
 *11539|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 「え、俺を……？」[pcms]
 
 *11540|
@@ -715,7 +715,7 @@ me.[pcms]
 
 *11542|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 「お、俺も、ずっと、友達になりたいなって……」[pcms]
 
 *11543|
@@ -751,7 +751,7 @@ me.[pcms]
 
 *11548|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 「３……？　え……？」[pcms]
 
 *11549|
@@ -766,7 +766,7 @@ me.[pcms]
 
 *11551|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 「３人……？」[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_f01"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -779,7 +779,7 @@ me.[pcms]
 
 *11553|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 「あー……ユウと速水……」[pcms]
 
 *11554|
@@ -801,7 +801,7 @@ me.[pcms]
 
 *11557|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 「な、なんだぁ！　だったら、もっと早く言ってくれ[r]
 　れば良かったのに。俺だって、あんなカワイイ子と[r]
 　友達になれたらなー、って思ってたしね！」[pcms]
@@ -816,7 +816,7 @@ me.[pcms]
 
 *11559|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 「いや、ホントホント！　こっちから友達になってく[r]
 　れってお願いしたいぐらい！」[pcms]
 
@@ -827,13 +827,13 @@ me.[pcms]
 
 *11561|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 「つーか、お願いしちゃおうかなー！　良かったらさ、[r]
 　俺と友達になってよ、ね！」[pcms]
 
 *11562|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 「そうだ、いま俺と友達になってくれると、もれなく[r]
 　ユウと速水もついてくるけど！　どう！　奥さん！」[pcms]
 
@@ -875,7 +875,7 @@ me.[pcms]
 
 *11569|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 「ホントの友達……親友ってこと？　うん……どん[r]
 　だけ一緒にいても全然飽きないとか、ヘンな気を遣[r]
 　わなくていいとか……」[pcms]
@@ -893,7 +893,7 @@ me.[pcms]
 
 *11572|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 「うん……」[pcms]
 
 *11573|
@@ -926,7 +926,7 @@ me.[pcms]
 
 *11578|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 「うん……俺もその意見に賛成だな。困ってる時に助[r]
 　けてやれないなんて、そんなの友達じゃねーよな」[pcms]
 
@@ -952,7 +952,7 @@ disappeared..."[pcms]
 
 *11582|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 Having said that much, she blushed and fell silent.[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_f04"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -977,7 +977,7 @@ light wave.[pcms]
 
 *11586|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "My name is Ookura. First name Hiroshi. Nice to meet you"[pcms]
 
 *11587|
@@ -986,7 +986,7 @@ She smiled shyly and nodded slightly as if bowing in return.[pcms]
 
 *11588|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Ah, you can call me Ookura or Hiroshi. I don't like being[r]
 called with '-kun' by friends."[pcms]
 
@@ -998,7 +998,7 @@ called with '-kun' by friends."[pcms]
 
 *11590|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Yeah, Hiroshi. What about you? What's your name?"[pcms]
 
 *11591|
@@ -1009,7 +1009,7 @@ called with '-kun' by friends."[pcms]
 
 *11592|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 I almost blurted out that her surname sounded very wealthy,[r]
 but I managed to swallow the words just in time, as they[r]
 seemed to be a landmine for her.[pcms]
@@ -1047,7 +1047,7 @@ struggling to speak.[pcms]
 
 *11598|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 She looked at me with an anxious face, wondering how I would[r]
 react, and I returned the look with a smile.[pcms]
 

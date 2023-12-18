@@ -70,7 +70,7 @@ seemed to think the same thing and muttered it.[pcms]
 *13849|
 [fc]
 [vo_hay s="hayami0346"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "The worst... I've never seen someone like that before..."[pcms]
 
 [ChrSetEx layer=4 chbase="naga_n01"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -145,7 +145,7 @@ us as he shouted.[pcms]
 *13859|
 [fc]
 [vo_hay s="hayami0347"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Calling others cowards... He's one to talk..."[pcms]
 ;//ÅùöëÇ≠ÇÊÇ§Ç…
 
@@ -171,7 +171,7 @@ violently scattered aside.[pcms]
 *13863|
 [fc]
 [vo_hay s="hayami0348"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "I thought it was okay when I checked earlier..."[pcms]
 
 [ChrSetEx layer=4 chbase="sugo_k05"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -186,7 +186,7 @@ them all!! Let's go up!"[pcms]
 *13865|
 [fc]
 [vo_hay s="hayami0349"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Wait... Don't push so much..."[pcms]
 
 *13866|

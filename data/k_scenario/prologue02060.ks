@@ -39,7 +39,7 @@ to do.[pcms]
 
 *7340|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Huh...? It was here, right...?"[pcms]
 
 *7341|
@@ -54,7 +54,7 @@ resembling him.[pcms]
 
 *7343|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "With injuries like that, where could he have gone? That[r]
 person..."[pcms]
 
@@ -73,7 +73,7 @@ spread on the ground.[pcms]
 
 *7346|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "No... Even if you guys were here, with the hospital in that[r]
 condition, we couldn't have helped either way..."[pcms]
 
@@ -96,14 +96,14 @@ saved.[pcms]
 
 *7350|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "We didn't understand because we're amateurs, but maybe that[r]
 person's injuries weren't that serious? Maybe they were able[r]
 to move on their own."[pcms]
 
 *7351|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Otherwise, maybe someone decent came by and took them to a[r]
 different hospital."[pcms]
 
@@ -134,7 +134,7 @@ somewhere.[pcms]
 
 *7355|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Yeah... What's this...?"[pcms]
 
 *7356|
@@ -198,7 +198,7 @@ exactly what would happen to us.[pcms]
 *7364|
 [fc]
 [vo_hay s="hayami0122"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "H-Hiroshi, we have to run!"[pcms]
 
 *7365|

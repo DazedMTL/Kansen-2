@@ -62,7 +62,7 @@ Hang in there!!"[pcms]
 
 *1725|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Guuh... Uaahh!!"[pcms]
 
 ;//ÅÙÅFbgm012 fadein
@@ -122,7 +122,7 @@ Hayami's smile... Maya-chan too... Hiro's smile...[pcms]
 
 *1737|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Uaaahhhhh!! Damn it!! No good! Hayami!! Hiro!! Endure it!![r]
 Uaaahhh!!"[pcms]
 
@@ -169,7 +169,7 @@ end up like those guys!!"[pcms]
 
 *1745|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "That's why... that's why... Hayami and the others, try[r]
 hard, try hard to suppress your feelings now!!"[pcms]
 
@@ -206,7 +206,7 @@ there a little longer!!"[pcms]
 
 *1750|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "You guys..."[pcms]
 
 *1751|
@@ -237,7 +237,7 @@ I'll fuck!! Hyahah!"[pcms]
 
 *1753|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Ugh..."[pcms]
 
 *1754|
@@ -257,7 +257,7 @@ This damn old man...[pcms]
 
 *1757|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Stop it... Ugh..."[pcms]
 
 [ChrSetEx layer=4 chbase="sugo_n03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -340,7 +340,7 @@ Damn! I can't deal with this!"[pcms]
 
 *1763|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Ah..."[pcms]
 
 *1764|
@@ -391,7 +391,7 @@ ugh..."[pcms]
 
 *1770|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "...? What's wrong? More importantly, that guy... mentioned[r]
 a truck..."[pcms]
 
@@ -438,7 +438,7 @@ We all decided to leave this place...[pcms]
 
 *1777|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Uh... okay, got it..."[pcms]
 
 [ChrSetEx layer=4 chbase="turuta_n04"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]

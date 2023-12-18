@@ -411,7 +411,7 @@ all and let it happen.[pcms]
 
 *12232|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "..."[pcms]
 
 *12233|
@@ -717,7 +717,7 @@ violently again.[pcms]
 
 *12282|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Tch...!"[pcms]
 
 *12283|

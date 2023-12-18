@@ -76,7 +76,7 @@ to give them water or food...[pcms]
 
 *9888|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Where are the leads kept?"[pcms]
 
 *9889|
@@ -111,7 +111,7 @@ the floor coming from somewhere.[pcms]
 
 *9894|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "What's that sound...?"[pcms]
 
 *9895|
@@ -124,7 +124,7 @@ back.[pcms]
 
 *9896|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "!"[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
@@ -136,7 +136,7 @@ back.[pcms]
 
 *9898|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Whoa!!"[pcms]
 
 ;//[]SE：打撃音（？）
@@ -168,7 +168,7 @@ other all over their bodies.[pcms]
 
 *9903|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "!!"[pcms]
 
 *9904|
@@ -187,7 +187,7 @@ That means... Another dog is approaching...![pcms]
 
 *9907|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Damn...!!"[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_n08"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -230,7 +230,7 @@ Is there anywhere to hide...!?[pcms]
 
 *9914|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "!!"[pcms]
 
 *9915|
@@ -244,7 +244,7 @@ What am I doing...!! Why did I leave Maya-chan behind...!![pcms]
 
 *9917|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Maya-cha..."[pcms]
 
 *9918|
@@ -254,7 +254,7 @@ What am I doing...!! Why did I leave Maya-chan behind...!![pcms]
 
 *9919|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Guuaaaaahhhhhhh!!!!!"[pcms]
 
 *9920|
@@ -265,7 +265,7 @@ body, blocking everything else from view.[pcms]
 
 *9921|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Guahh!! Gaaaahhhhhhh!!!!!"[pcms]
 
 *9922|
@@ -297,7 +297,7 @@ pull my arm towards me.[pcms]
 
 *9927|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Gahh, agahh!!! Let go...!!"[pcms]
 
 *9928|
@@ -339,7 +339,7 @@ Maya-chan being attacked by a large black dog.[pcms]
 
 *9930|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Maya-chan...!!"[pcms]
 
 *9931|
@@ -399,7 +399,7 @@ I have to...! I have to save her...!! Damn it...!![pcms]
 
 *9941|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Let go... you stupid dog...!!"[pcms]
 
 *9942|
@@ -420,7 +420,7 @@ I have to...! I have to save her...!! Damn it...!![pcms]
 
 *9945|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Maya-chan...!!"[pcms]
 
 *9946|
@@ -467,7 +467,7 @@ dislodged.[pcms]
 
 *9954|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Damn it...!! Move it!! You damn dog!!"[pcms]
 
 *9955|
@@ -500,7 +500,7 @@ kuh..."[pcms]
 
 *9960|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "You bastard...!!"[pcms]
 
 *9961|
@@ -526,7 +526,7 @@ fangs, they sank deeply into my leg as I tried to stand up.[pcms]
 
 *9965|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Guahh!! Gaaaahhhhhhh!!!!!"[pcms]
 
 *9966|
@@ -542,7 +542,7 @@ repeatedly bite into my body and quickly let go.[pcms]
 
 *9968|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Guhaaahh!! Agaaahh!!"[pcms]
 
 *9969|
@@ -567,7 +567,7 @@ started to seem lewdly amusing.[pcms]
 
 *9973|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Fuhahh... kuhaha...! Hahaha!"[pcms]
 
 *9974|
@@ -583,7 +583,7 @@ started to seem lewdly amusing.[pcms]
 
 *9976|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Maya-chan... being raped by a dog from behind, does it feel[r]
 good? It feels good, right?!"[pcms]
 
@@ -595,7 +595,7 @@ good? It feels good, right?!"[pcms]
 
 *9978|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Getting fucked by a dog's cock and screaming out loud![r]
 Maya-chan doesn't care if her partner isn't human at all,[r]
 right?! Hahaha!"[pcms]
@@ -613,7 +613,7 @@ semen inside her.[pcms]
 
 *9981|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "After you're done, let me have a turn too! You let a dog[r]
 have you, so it's fine, right?"[pcms]
 
@@ -631,7 +631,7 @@ haguh...!"[pcms]
 
 *9984|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "You want a human dick too, don't you? Ah, that's right,[r]
 Maya-chan doesn't care as long as it's a dick![r]
 Fuhahahahaha!!"[pcms]
@@ -674,7 +674,7 @@ clearly feel my own dick getting hard.[pcms]
 
 *9991|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Kufaahaha!! Maya-chan! Forget about that dog, hurry up and[r]
 do it with me! Hihafahh!!"[pcms]
 
@@ -726,7 +726,7 @@ panting heavily while shaking its body.[pcms]
 
 *9998|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Puhahaha!! You're being creampied by a dog! Thank goodness?[r]
 Hey~, did the dog's creampie feel good~~? Ahhahaha!!"[pcms]
 
@@ -770,7 +770,7 @@ her pussy.[pcms]
 
 *10006|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Damn it...next should be my turn...you bastard...!"[pcms]
 
 *10007|
@@ -834,7 +834,7 @@ good...?[pcms]
 
 *10019|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Huff...kufufu..."[pcms]
 
 *10020|
@@ -844,7 +844,7 @@ laugh at the ridiculous idea that came to mind.[pcms]
 
 *10021|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Pufa...! Kukkuk..."[pcms]
 
 *10022|
@@ -861,7 +861,7 @@ Do I taste good~~...?[pcms]
 
 *10025|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Fuhaha, kahaha...!! Buhfukukuku...!"[pcms]
 
 *10026|
@@ -885,7 +885,7 @@ feel the impact and couldn't stop laughing.[pcms]
 
 *10029|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Gobu!! Gubuhaha!! Gafah!! Kuhayu!! Bujyuhuu!!"[pcms]
 
 ;//------------------------------------------------

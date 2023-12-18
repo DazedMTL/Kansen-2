@@ -50,7 +50,7 @@ escape before we're surrounded!!"[pcms]
 
 *12389|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "...Let's go, Maya-chan!"[pcms]
 
 *12390|

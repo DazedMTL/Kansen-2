@@ -27,7 +27,7 @@
 
 *1213|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Hayami!! I... I...!"[pcms]
 
 *1214|
@@ -61,7 +61,7 @@ There's no way I should be thinking such things![pcms]
 
 *1220|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Hayami! I love you!! Seeing you like this... it makes me[r]
 feel so... so much! So... let's have sex right here, right[r]
 now!!"[pcms]
@@ -69,7 +69,7 @@ now!!"[pcms]
 *1221|
 [fc]
 [vo_hay s="hayami1054"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Eh...!? Wait!! What... Hiroshi!! What's gotten into you!?[r]
 Wait... kyaa!"[pcms]
 
@@ -118,7 +118,7 @@ her.[pcms]
 
 *1228|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Wha- what the... Yuu! You too like Hayami...?"[pcms]
 
 *1229|
@@ -132,7 +132,7 @@ And now she's trying to take Hayami away from me.[pcms]
 
 *1231|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Damn it, Yuu! I was first! Hayami is mine!!"[pcms]
 
 [ChrSetEx layer=4 chbase="hayami_q02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -166,14 +166,14 @@ Yuu![pcms]
 
 *1236|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Hayami!! Let me do it!"[pcms]
 
 [ChrSetEx layer=4 chbase="hayami_q02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *1237|
 [fc]
 [vo_hay s="hayami1057"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "No...!! Hiroshi!! Stop it!"[pcms]
 
 ;消し
@@ -228,7 +228,7 @@ Uwaaahhh!!"[pcms]
 
 *1241|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Ah, aahh... Hayami! Hayami!!"[pcms]
 
 *1242|
@@ -239,13 +239,13 @@ painfully tight, it leaked clear fluid from inside.[pcms]
 
 *1243|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Hayami... you're so tight!?"[pcms]
 
 *1244|
 [fc]
 [vo_hay s="hayami1059"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "It's... biku... yes!! That's why... what!? Muku! It's...[r]
 suffocating!"[pcms]
 
@@ -259,7 +259,7 @@ But...!! I'm having sex with Hayami!![pcms]
 
 *1247|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Ha... hahaha!! I'm doing it with Hayami! Ahahaha!!"[pcms]
 
 *1248|
@@ -277,20 +277,20 @@ What was that? A dream?[pcms]
 
 *1251|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "You... weren't you just violated by someone?"[pcms]
 
 *1252|
 [fc]
 [vo_hay s="hayami1060"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Guh... ahh... ah... what are you saying... nn! I'm... with[r]
 Hiroshi for the first time...!!"[pcms]
 ;//↑※ボイス加工？
 
 *1253|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "But you were surely... huh? Wait...? What am I saying?"[pcms]
 
 *1254|
@@ -306,13 +306,13 @@ started flickering like TV static.[pcms]
 
 *1256|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Ugh... uwaahh!? Damn it!! What the hell! Uwaaahhh!!"[pcms]
 
 *1257|
 [fc]
 [vo_hay s="hayami1061"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Uwah! ...nuuhh!!"[pcms]
 ;//↑※ボイス加工？
 
@@ -332,13 +332,13 @@ I'm having sex with Hayami!! That's enough for me![pcms]
 *1261|
 [fc]
 [vo_hay s="hayami1062"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Ah... that's... me..., nn! ...aguh!"[pcms]
 ;//↑※ボイス加工？
 
 *1262|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Haha... hahahaha...! What are you saying!? Does it feel[r]
 good?"[pcms]
 
@@ -353,7 +353,7 @@ in my dick, which was tightly squeezed by Hayami's pussy.[pcms]
 
 *1265|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Ugh... uwaahh... your pussy... it's so tight! Amazing!!"[pcms]
 
 *1266|
@@ -379,14 +379,14 @@ gradually fading.[pcms]
 
 *1269|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "What's the matter, Hayami! Tighten up more... like you did[r]
 before... squeeze it hard!!"[pcms]
 
 *1270|
 [fc]
 [vo_hay s="hayami1064"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Yaaahhh!! I can't... ahhhh!! I don't know what to do! It's[r]
 hot... it's so hot inside!!"[pcms]
 
@@ -410,7 +410,7 @@ completely naked.[pcms]
 
 *1274|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "...!! Y-Yuuki...!!"[pcms]
 
 *1275|
@@ -421,7 +421,7 @@ take Hayami away from me.[pcms]
 
 *1276|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Whoa!! What are you doing, Yuuki!! Stop it!"[pcms]
 
 *1277|
@@ -431,7 +431,7 @@ Hayami![pcms]
 
 *1278|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Damn it... stop it Yuuki! Uwah!"[pcms]
 
 ;//ここから佐藤改造
@@ -457,12 +457,12 @@ into the place where Hayami and I were joined.[pcms]
 *1280|
 [fc]
 [vo_hay s="hayami1065"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Ah... agaaahhh!! It's so tight! Ahhh... uwaahh!!"[pcms]
 
 *1281|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "It's so tight!! Yuuki... what are you doing!"[pcms]
 
 ;//★HEV609c
@@ -489,7 +489,7 @@ hard!!"[pcms]
 
 *1285|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "...!? Yuuki... you..."[pcms]
 
 *1286|
@@ -514,7 +514,7 @@ Hiro... Hiro! My dick is rubbing against yours...!!"[pcms]
 *1289|
 [fc]
 [vo_hay s="hayami1067"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Nnahh... my pussy! Aguuuhh!"[pcms]
 
 *1290|
@@ -543,7 +543,7 @@ Hayami and Yuuki...[pcms]
 
 *1295|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Uwahh... it's so tight!! Yuuki... pull out, please..."[pcms]
 
 *1296|
@@ -568,7 +568,7 @@ pull out already!! Noo! I don't want this!!"[pcms]
 
 *1299|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Uwahh... hah... hah... ahhhh!"[pcms]
 
 *1300|
@@ -603,7 +603,7 @@ my mind could focus on now.[pcms]
 
 *1305|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Ahaha... ahahaha!! It doesn't matter anymore!! As long as[r]
 it feels good, that's all that matters!! It feels good!![r]
 Both of you!!"[pcms]
@@ -643,7 +643,7 @@ it..., Hiro's heat is..."[pcms]
 *1311|
 [fc]
 [vo_hay s="hayami1070"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "I'm already... ah... I can't take it..., I'm going to fly[r]
 away!! Ahh... ahhh!!"[pcms]
 
@@ -652,7 +652,7 @@ away!! Ahh... ahhh!!"[pcms]
 
 *1312|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Uwahh... me too... I'm about to!! Ugh... ahh!"[pcms]
 
 *1313|
@@ -671,7 +671,7 @@ too much... uwaahhhhh!!"[pcms]
 
 *1315|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Kuh... I, too... uwoooohh!!"[pcms]
 
 ;[射精フラA]
@@ -715,14 +715,14 @@ the floor.[pcms]
 
 *1320|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Uwaaahh... ah... hah... haaah... that was amazing...[r]
 thought I was gonna die... Hey...? Hayami? Yuu?"[pcms]
 
 *1321|
 [fc]
 [vo_hay s="hayami1073"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Uwah... ahh..."[pcms]
 
 *1322|

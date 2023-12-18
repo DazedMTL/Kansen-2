@@ -46,7 +46,7 @@ and grimace.[pcms]
 
 *7200|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "...Hayami, are you hurt?"[pcms]
 
 *7201|
@@ -64,7 +64,7 @@ shirt without letting go.[pcms]
 
 *7203|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "I don't know... but one thing's for sure, they're out of[r]
 their minds..."[pcms]
 
@@ -90,7 +90,7 @@ Looking at my face, Hayami shook her head again.[pcms]
 
 *7208|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "I see..."[pcms]
 
 *7209|
@@ -134,7 +134,7 @@ lying face down in the park.[pcms]
 
 *7215|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "..."[pcms]
 
 *7216|
@@ -154,7 +154,7 @@ there.[pcms]
 
 *7218|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Be ready to run in case that person attacks."[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
@@ -166,7 +166,7 @@ collapsed person, watching carefully.[pcms]
 
 *7220|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Hey, are you okay?"[pcms]
 
 *7221|
@@ -192,7 +192,7 @@ with blood that had flowed from his head.[pcms]
 
 *7225|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "What happened to you? What happened here?"[pcms]
 
 *7226|
@@ -213,7 +213,7 @@ hospital quickly..."[pcms]
 *7228|
 [fc]
 [vo_hay s="hayami0116"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "There's a big hospital nearby, let's take them there."[pcms]
 
 *7229|
@@ -225,7 +225,7 @@ them too much."[pcms]
 
 *7230|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "...I'll go and ask a doctor to come. You two watch over[r]
 this person."[pcms]
 

@@ -33,7 +33,7 @@
 *13172|
 [fc]
 [vo_hay s="hayami0248"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "...Haa... Haa..."[pcms]
 ;//ÅùçrÇ¢ëßégÇ¢
 
@@ -86,7 +86,7 @@ about something...[pcms]
 *13181|
 [fc]
 [vo_hay s="hayami0250"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "I'm from Sakata... Do you live around here, Nagasaki-san?"[pcms]
 
 *13182|
@@ -99,7 +99,7 @@ something?"[pcms]
 *13183|
 [fc]
 [vo_hay s="hayami0251"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Yeah... I was looking forward to coming here, but... to get[r]
 caught up in something like this..."[pcms]
 
@@ -115,7 +115,7 @@ huge earthquake... And there were so many strange people..."[pcms]
 *13185|
 [fc]
 [vo_hay s="hayami0252"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Right after the earthquake... those people... It's strange[r]
 how everyone changed all at once... But why are we unharmed,[r]
 I wonder..."[pcms]
@@ -157,7 +157,7 @@ around Chitai..."[pcms]
 *13191|
 [fc]
 [vo_hay s="hayami0254"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Yeah... Thank you!"[pcms]
 
 *13192|
@@ -179,7 +179,7 @@ Nagasaki-san is such a nice person...[pcms]
 *13194|
 [fc]
 [vo_hay s="hayami0255"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Eek..."[pcms]
 
 *13195|
@@ -302,7 +302,7 @@ because you have a knife, you act all high and mighty!!"[pcms]
 *13207|
 [fc]
 [vo_hay s="hayami0259"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Nagasaki-san! Be careful!!"[pcms]
 
 [ChrSetEx layer=4 chbase="sugo_k03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -391,7 +391,7 @@ right there!"[pcms]
 *13218|
 [fc]
 [vo_hay s="hayami0261"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Tha... That's outrageous!"[pcms]
 
 [ChrSetEx layer=4 chbase="sugo_k01"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -428,7 +428,7 @@ to run away, right? No way! Piss right there!"[pcms]
 *13223|
 [fc]
 [vo_hay s="hayami0262"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "No... I'm not trying to escape..."[pcms]
 
 *13224|
@@ -464,7 +464,7 @@ and hurry up and pee!"[pcms]
 *13228|
 [fc]
 [vo_hay s="hayami0263"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Ugh..."[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
@@ -596,7 +596,7 @@ This is too much... But right now, I can't resist...[pcms]
 *13248|
 [fc]
 [vo_hay s="hayami0266"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Nnn...sob..."[pcms]
 
 *13249|
@@ -673,7 +673,7 @@ the hair is visible!! Hyahahahahaha!!"[pcms]
 *13262|
 [fc]
 [vo_hay s="hayami0268"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Ah...hah... No more...!! Don't say it!!"[pcms]
 
 *13263|
@@ -704,7 +704,7 @@ It's so embarrassing! This is just...no![pcms]
 *13268|
 [fc]
 [vo_hay s="hayami0270"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "I...I can't hold it anymore...it's coming out..."[pcms]
 
 *13269|
@@ -727,7 +727,7 @@ leaking a bit? Hey!"[pcms]
 *13272|
 [fc]
 [vo_hay s="hayami0271"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "This is terrible... Ugh... Ah, aah..."[pcms]
 
 *13273|
@@ -739,7 +739,7 @@ Chihuahua or something!? Hurry up and let it out!"[pcms]
 *13274|
 [fc]
 [vo_hay s="hayami0272"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Ah... Ah... No more... No more!! Don't look! Nooooo!!"[pcms]
 
 ;//SE:ï˙îA
@@ -762,7 +762,7 @@ stinks and it's coming out with such force, oi!!"[pcms]
 *13277|
 [fc]
 [vo_hay s="hayami0274"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Uwaaaahhh!! *sob*... Aaaaahhh!!"[pcms]
 ;//ÅùãÉÇ´ê∫
 
@@ -842,7 +842,7 @@ hearts.[pcms]
 *13291|
 [fc]
 [vo_hay s="hayami0275a"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Uwaaaahhh!! I can't take this anymore!! Don't look...[r]
 please... Don't look at me anymore!!"[pcms]
 
@@ -900,7 +900,7 @@ girlfriend crying while peeing herself!"[pcms]
 *13303|
 [fc]
 [vo_hay s="hayami0276"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "...!!"[pcms]
 ;//ÅùëßÇÇÃÇﬁ
 
@@ -934,7 +934,7 @@ life...[pcms]
 *13310|
 [fc]
 [vo_hay s="hayami0277"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Don't say it... Noooo!! I can't take this anymore!! This is[r]
 too much...!!"[pcms]
 
@@ -948,7 +948,7 @@ crying!! Hyahha!"[pcms]
 *13312|
 [fc]
 [vo_hay s="hayami0278"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Stop it... please... Don't say anything more...[r]
 Uwaaaahhh..."[pcms]
 

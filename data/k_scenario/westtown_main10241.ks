@@ -24,7 +24,7 @@
 
 *10950|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Yuuki! Hold that girl down!"[pcms]
 
 [ChrSetEx layer=4 chbase="koba_n03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -51,7 +51,7 @@ pressed the call button on my cell phone.[pcms]
 *10953|
 [fc]
 [vo_hay s="hayami0155"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Hiroshi...?"[pcms]
 
 *10954|
@@ -61,7 +61,7 @@ was weak, but it was unmistakably Hayami's.[pcms]
 
 *10955|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Hey, are you okay!? Are you hurt!? That bastard didn't do[r]
 anything to you, did he!!"[pcms]
 
@@ -73,19 +73,19 @@ anything to you, did he!!"[pcms]
 
 *10957|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Ah, right..."[pcms]
 
 *10958|
 [fc]
 [vo_hay s="hayami0157"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "I'm not hurt at all. How about you? Are Hiroshi and Yuuki[r]
 safe?"[pcms]
 
 *10959|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Yeah, it's a bit hectic over here, but we're okay. More[r]
 importantly, where are you now?"[pcms]
 
@@ -103,7 +103,7 @@ cell phone, only the sound of fabric rubbing could be heard.[pcms]
 
 *10962|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Hey, Hayami?"[pcms]
 
 *10963|
@@ -114,7 +114,7 @@ cell phone, only the sound of fabric rubbing could be heard.[pcms]
 
 *10964|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Hey, wait! I'll definitely come to save you! Hang in there[r]
 somehow!"[pcms]
 
@@ -131,7 +131,7 @@ cell phone.[pcms]
 
 *10966|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Is she really okay? That girl..."[pcms]
 
 *10967|
@@ -148,7 +148,7 @@ was frustrated with my own helplessness.[pcms]
 
 *10969|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "What's gotten into her all of a sudden..."[pcms]
 
 *10970|

@@ -23,7 +23,7 @@
 
 *10944|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "..."[pcms]
 
 *10945|

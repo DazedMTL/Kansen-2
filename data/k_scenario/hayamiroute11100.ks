@@ -28,7 +28,7 @@
 
 *3271|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Hayami...!"[pcms]
 
 *3272|
@@ -80,7 +80,7 @@ escaped from the women's restroom.[pcms]
 
 *3280|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Daaaaaaaahhhhhhhhhhh!!!"[pcms]
 
 ;//[]BG•\Ž¦
@@ -94,7 +94,7 @@ escaped from the women's restroom.[pcms]
 
 *3281|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Buhah...!!"[pcms]
 
 [ChrSetEx layer=4 chbase="hayami_t06"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -129,7 +129,7 @@ definitely survive...![pcms]
 
 *3287|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Can you stand?"[pcms]
 
 *3288|
@@ -143,7 +143,7 @@ stand.[pcms]
 
 *3289|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "We're running!!"[pcms]
 
 [ChrSetEx layer=4 chbase="hayami_t08"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]

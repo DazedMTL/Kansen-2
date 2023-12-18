@@ -258,7 +258,7 @@ By many people...[pcms]
 
 *13153|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Raaah!!"[pcms]
 
 *13154|
@@ -295,7 +295,7 @@ If all those men had been Hiro... What would I have done...?[pcms]
 
 *13160|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Let's take the escalator..."[pcms]
 
 *13161|
@@ -317,7 +317,7 @@ into my mind... I would definitely be hated...[pcms]
 
 *13164|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Yuuki?"[pcms]
 
 *13165|

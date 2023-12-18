@@ -21,7 +21,7 @@
 
 *5370|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "No way!"[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_n07"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -65,7 +65,7 @@ treat her like Hayami, Yuu, or Anzai-san...[pcms]
 
 *5377|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "My eyes are fine now... Could you... stay with me...?"[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_n03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -82,7 +82,7 @@ with my other hand and pressed closer to her.[pcms]
 
 *5380|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Please don't go...! If I lose Maya-chan too, I..."[pcms]
 
 *5381|
@@ -92,7 +92,7 @@ chan knelt beside me and placed her hand on top of mine.[pcms]
 
 *5382|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "..."[pcms]
 
 

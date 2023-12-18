@@ -35,7 +35,7 @@ and attacked the young lady...[pcms]
 
 *10634|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Yuuki, can you follow at the very back?"[pcms]
 
 [ChrSetEx layer=4 chbase="koba_n05"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -47,7 +47,7 @@ a vacant look on her face, not moving an inch.[pcms]
 
 *10636|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Yuuki? Are you listening?"[pcms]
 
 *10637|
@@ -62,7 +62,7 @@ entered this building, she's been acting a bit strange...[pcms]
 
 *10639|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Hey, Yuuki!"[pcms]
 
 [ChrSetEx layer=4 chbase="koba_n07"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -75,7 +75,7 @@ entered this building, she's been acting a bit strange...[pcms]
 
 *10641|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "I'll lead the way, so you follow at the very back. Got it?"[pcms]
 
 [ChrSetEx layer=4 chbase="koba_n05"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -136,7 +136,7 @@ when it happens...[pcms]
 
 *10650|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Yeah..."[pcms]
 
 [chara_int_ layer=2][chara_int_ layer=3][trans_c cross time=150]

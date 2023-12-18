@@ -33,7 +33,7 @@
 
 *10234|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Who is that old man? Aren't you acquainted with him since[r]
 you were together?"[pcms]
 
@@ -63,7 +63,7 @@ even his name. I haven't asked."[pcms]
 
 *10238|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Is that so..."[pcms]
 
 ;//SE:感染者の群れがシャッターを叩く音（？）
@@ -100,7 +100,7 @@ though."[pcms]
 
 *10243|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "You know about that?"[pcms]
 
 [ChrSetEx layer=4 chbase="anza_n05"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -121,7 +121,7 @@ violent, I think."[pcms]
 
 *10246|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Agitated and violent...?"[pcms]
 
 *10247|
@@ -131,7 +131,7 @@ on stimulants...![pcms]
 
 *10248|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Can't we somehow get to the building across? We need to[r]
 hurry or Hayami will be..."[pcms]
 
@@ -155,7 +155,7 @@ it out, tracing a part of it with her finger.[pcms]
 
 *10251|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Air Bridge..."[pcms]
 
 *10252|
@@ -190,7 +190,7 @@ floor that leads across. I completely forgot..."[pcms]
 
 *10257|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "I'll go check it out. We need to hurry or Hayami is in[r]
 danger."[pcms]
 
@@ -204,7 +204,7 @@ danger."[pcms]
 
 *10259|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Yuuki, we really need to hurry! We don't have time to[r]
 dawdle here!"[pcms]
 
@@ -234,7 +234,7 @@ where it's highly likely she'll encounter danger.[pcms]
 
 *10264|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "...Don't push yourself and just wait here."[pcms]
 
 [ChrSetEx layer=3 chbase="koba_n04"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
@@ -247,7 +247,7 @@ where it's highly likely she'll encounter danger.[pcms]
 
 *10266|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Yuuki, please..."[pcms]
 
 [ChrSetEx layer=2 chbase="anza_n05"][ChrSetXY layer=2 x=0 y=0][trans_c cross time=150]
@@ -278,7 +278,7 @@ girl is seriously injured, maybe I can do something."[pcms]
 
 *10271|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "..."[pcms]
 
 [chara_int_ layer=2][chara_int_ layer=3][trans_c cross time=150]
@@ -300,7 +300,7 @@ have no choice but to go together...[pcms]
 
 *10275|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "You should come with us too. It's dangerous to be alone."[pcms]
 
 *10276|
@@ -320,7 +320,7 @@ one I can trust is myself..."[pcms]
 
 *10278|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "What if something happens to you while you're alone? What[r]
 will you do if that old man comes here while we're gone?"[pcms]
 
@@ -334,7 +334,7 @@ will you do if that old man comes here while we're gone?"[pcms]
 
 *10280|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "That guy has a knife, you know? If your trusted dog gets[r]
 hurt, what then?"[pcms]
 
@@ -346,7 +346,7 @@ hurt, what then?"[pcms]
 
 *10282|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Please think about the situation we're in. You could really[r]
 be killed by that old man!?"[pcms]
 
@@ -360,7 +360,7 @@ be killed by that old man!?"[pcms]
 
 *10284|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "...Actually, I know about you. You might not remember, but[r]
 we've even talked before. That's why I can't just leave you[r]
 here."[pcms]
@@ -381,7 +381,7 @@ loudly.[pcms]
 
 *10287|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Then it doesn't matter if you're a stranger! But don't[r]
 think your ladylike whims will work on someone who's just a[r]
 stranger!!"[pcms]
@@ -394,7 +394,7 @@ stranger!!"[pcms]
 
 *10289|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "If we leave you here alone, I'll be worried and it'll be a[r]
 pain in the ass! Stop being selfish and come with us!!"[pcms]
 
@@ -413,7 +413,7 @@ stared at me blankly for a moment.[pcms]
 
 *10292|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Just hurry up!!"[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]

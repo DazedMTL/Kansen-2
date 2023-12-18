@@ -45,7 +45,7 @@ surprised to see me and stepped back.[pcms]
 
 *9211|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Ah...?"[pcms]
 
 *9212|
@@ -124,7 +124,7 @@ escape and peered into her face.[pcms]
 
 *9224|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "..."[pcms]
 
 *9225|
@@ -146,14 +146,14 @@ The face of Hayami...[pcms]
 
 *9229|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Hayami...?"[pcms]
 
 [ChrSetEx layer=4 chbase="hayami_d02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *9230|
 [fc]
 [vo_hay s="hayami0921"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Huh... uuu..."[pcms]
 ;//ÅùãÉÇ¢ÇƒÇ¢ÇÈ
 
@@ -167,25 +167,25 @@ Why is she here...? And why is she crying...?[pcms]
 
 *9233|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Hey, what's wrong...? Did something happen...?"[pcms]
 
 *9234|
 [fc]
 [vo_hay s="hayami0922"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Sniff... uhh..."[pcms]
 ;//ÅùãÉÇ¢ÇƒÇ¢ÇÈ
 
 *9235|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Hey... why are you crying...? Tell me, I'll listen..."[pcms]
 
 *9236|
 [fc]
 [vo_hay s="hayami0923"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Uhh... uuu..."[pcms]
 ;//ÅùãÉÇ¢ÇƒÇ¢ÇÈ
 
@@ -211,7 +211,7 @@ loudly once, and my vision shook violently.[pcms]
 
 *9241|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Ugh... kuh..."[pcms]
 
 [ChrSetEx layer=4 chbase="hayami_d01"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -227,7 +227,7 @@ What's this...? Why is she crying? This woman...[pcms]
 
 *9244|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Heh..."[pcms]
 
 *9245|
@@ -242,7 +242,7 @@ pussy![pcms]
 
 *9247|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Haha!!"[pcms]
 
 [ChrSetEx layer=4 chbase="hayami_o02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -293,7 +293,7 @@ shoulders and covered her with my body.[pcms]
 
 *9251|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Your pussy~... I'm gonna use your pussy~...!!"[pcms]
 
 *9252|
@@ -304,7 +304,7 @@ shoulders and covered her with my body.[pcms]
 
 *9253|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Shut up~...!!"[pcms]
 
 *9254|
@@ -321,7 +321,7 @@ and stopped her movements.[pcms]
 
 *9256|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Hurry up and spread your pussy, damn it~...!!"[pcms]
 
 *9257|
@@ -338,7 +338,7 @@ already without panties, was exposed.[pcms]
 
 *9259|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Hmm~...? Your pussy, it smells kinda fishy~..."[pcms]
 
 *9260|
@@ -349,7 +349,7 @@ already without panties, was exposed.[pcms]
 
 *9261|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Even though you're saying no, your wet pussy is telling me[r]
 you want it~...!!"[pcms]
 
@@ -362,7 +362,7 @@ you didn't come to save me quickly enough!!"[pcms]
 
 *9263|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Since you let another guy do it, let me cum inside your[r]
 pussy too~...!!"[pcms]
 
@@ -375,7 +375,7 @@ are you doing this too, Hiroshi?!"[pcms]
 
 *9265|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Just wait~... I'll put in your favorite dick soon[r]
 enough~...!!"[pcms]
 
@@ -425,7 +425,7 @@ inside her slowly and deliberately.[pcms]
 
 *9273|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Uheee~... Hahaha~...!!"[pcms]
 
 *9274|
@@ -441,7 +441,7 @@ ejaculate on the spot.[pcms]
 
 *9276|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Hahaa~... It's so damn good~...!!"[pcms]
 
 *9277|
@@ -452,7 +452,7 @@ ejaculate on the spot.[pcms]
 
 *9278|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Haaa~...!! You're so damn tight~... Haaa~...!!"[pcms]
 
 *9279|
@@ -475,7 +475,7 @@ it could hold out much longer.[pcms]
 
 *9282|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Haaa~...!! Your tits are shaking, you must be feeling[r]
 good~... Haaa~...!!"[pcms]
 
@@ -498,7 +498,7 @@ pounded into her even harder, twisting into her pussy.[pcms]
 
 *9286|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Haaa~...!! Are you crying because your pussy feels too[r]
 good~...?"[pcms]
 
@@ -511,7 +511,7 @@ fuuuh!"[pcms]
 
 *9288|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "You're such a slut~...!! Then let me fill your pussy with[r]
 cum~...!!"[pcms]
 
@@ -546,7 +546,7 @@ believed that... Nnh, kuuuh!"[pcms]
 
 *9294|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Haaa~... What? Why are you getting mad at me~... Haaa~..."[pcms]
 
 *9295|
@@ -636,7 +636,7 @@ them violently, pinching and twisting her nipples.[pcms]
 
 *9311|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Hey, don't get carried away...!! You're always shaking[r]
 those big tits, seducing men, aren't you~...?"[pcms]
 
@@ -648,7 +648,7 @@ those big tits, seducing men, aren't you~...?"[pcms]
 
 *9313|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "With these tits, how many dicks have you milked, huh~...?!"[pcms]
 
 *9314|
@@ -690,7 +690,7 @@ looked at me and made a sad face again.[pcms]
 
 *9320|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "It's not just your pussy~... I'll give it to your mouth and[r]
 your ass hole until you die~...!!"[pcms]
 
@@ -704,7 +704,7 @@ head... I don't want that..."[pcms]
 
 *9322|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "..."[pcms]
 
 *9323|
@@ -728,7 +728,7 @@ heard from her mouth.[pcms]
 
 *9326|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Your pussy's clamping down on my dick, huh? Are you about[r]
 to cum~...?"[pcms]
 
@@ -756,7 +756,7 @@ her heavy swaying breasts and licked them inside my mouth.[pcms]
 
 *9331|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Nnn~... chuuu!!"[pcms]
 
 *9332|
@@ -773,7 +773,7 @@ free hand.[pcms]
 
 *9334|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "You lick your nipples too~ Here you go~...!!"[pcms]
 
 *9335|
@@ -795,7 +795,7 @@ brought close to her mouth and licked my tongue as well.[pcms]
 
 *9338|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Pichaa, pechaa... nhaa... nnn~..."[pcms]
 
 *9339|
@@ -822,7 +822,7 @@ overlapped before separating again.[pcms]
 
 *9343|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Heh..."[pcms]
 
 *9344|
@@ -833,7 +833,7 @@ overlapped before separating again.[pcms]
 
 *9345|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Fuhaha! Hahaha!"[pcms]
 
 *9346|
@@ -849,7 +849,7 @@ laughter and I found myself laughing along with her.[pcms]
 
 *9348|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Haha! Kukku... kuhahaha!"[pcms]
 
 *9349|
@@ -888,7 +888,7 @@ Hiuh! ...Fufu, ufufu..."[pcms]
 
 *9354|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Haa, haa... haha, hahaha! Hafu, fahahaha! Haa... fuhaha,[r]
 hahaha!"[pcms]
 

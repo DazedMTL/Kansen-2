@@ -74,7 +74,7 @@ who called us over let out a small breath.[pcms]
 
 *7|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "We're okay."[pcms]
 
 [ChrSetEx layer=3 chbase="koba_n01"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
@@ -145,7 +145,7 @@ What's with this guy...? Is he upset that we got saved...?[pcms]
 
 *18|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "..."[pcms]
 
 *19|
@@ -206,7 +206,7 @@ at Hayami and the young lady in the sailor suit with a grin.[pcms]
 
 *27|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "..."[pcms]
 
 *28|
@@ -242,7 +242,7 @@ sound coming from Hayami's stomach.[pcms]
 
 *32|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "You know..."[pcms]
 
 *33|
@@ -256,12 +256,12 @@ a sigh mixed with exasperation.[pcms]
 *34|
 [fc]
 [vo_hay s="hayami0139"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "But... It can't be helped!!"[pcms]
 
 *35|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Why are you getting defensive? It's amazing you can even[r]
 get hungry in this situation after being relieved we're[r]
 safe..."[pcms]
@@ -276,7 +276,7 @@ safe..."[pcms]
 
 *37|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Don't you have some candy or something in your pocket? The[r]
 leftovers from what you were eating on the bus during the[r]
 day."[pcms]
@@ -314,7 +314,7 @@ troubled face, and I shook my head.[pcms]
 
 *42|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Forget it. That's just looting in a disaster, isn't it?"[pcms]
 
 [ChrSetEx layer=3 chbase="naga_n02"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
@@ -328,7 +328,7 @@ Isn't that simple?"[pcms]
 
 *44|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "It's not about that..."[pcms]
 
 *45|
@@ -340,12 +340,12 @@ Hayami interrupted me by pulling on my shirt.[pcms]
 *46|
 [fc]
 [vo_hay s="hayami0142"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "By the way, didn't we leave our stuff on the bus...?"[pcms]
 
 *47|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "...Ah"[pcms]
 
 *48|
@@ -376,7 +376,7 @@ share my food with you too. That should be fine, right?"[pcms]
 
 *51|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Hey!"[pcms]
 
 *52|
@@ -519,7 +519,7 @@ Hayami by the arm towards him.[pcms]
 
 *71|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Hayami!!"[pcms]
 
 [ChrSetEx layer=3 chbase="sugo_n06"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
@@ -582,7 +582,7 @@ Nothing like those flimsy ones!"[pcms]
 
 *79|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "What are you doing?! Hey, stop it!!"[pcms]
 
 *80|
@@ -600,7 +600,7 @@ tongue across Hayami's cheek while staring at me.[pcms]
 *82|
 [fc]
 [vo_hay s="hayami0148"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Uuh...!"[pcms]
 
 *83|
@@ -612,7 +612,7 @@ Hyahyahya!!"[pcms]
 
 *84|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "You bastard...!!"[pcms]
 
 *85|
@@ -623,7 +623,7 @@ gut you!!"[pcms]
 
 *86|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Grr...!!"[pcms]
 
 *87|
@@ -677,7 +677,7 @@ situation around.[pcms]
 
 *96|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "..."[pcms]
 
 *97|
@@ -710,7 +710,7 @@ let Arisu go!"[pcms]
 
 *102|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "H-Hey! Stop it, Yuu!!"[pcms]
 
 *103|
@@ -783,7 +783,7 @@ never forget my dick!"[pcms]
 
 *115|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "..."[pcms]
 
 *116|
@@ -834,7 +834,7 @@ The huge object coming towards us was an enormous truck.[pcms]
 
 *120|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Uooohhhhh!!!"[pcms]
 
 *121|
@@ -850,7 +850,7 @@ truck's cab, laughing as if possessed by something.[pcms]
 
 *122|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Ugaaahh!"[pcms]
 
 *123|
@@ -861,7 +861,7 @@ onto the floor, unable to move.[pcms]
 
 *124|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Ugh...guah..."[pcms]
 
 *125|
@@ -872,7 +872,7 @@ entrance.[pcms]
 
 *126|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Damn it...ugh...uhh..."[pcms]
 
 [se0 storage="SE48"]
@@ -906,7 +906,7 @@ outside...[pcms]
 
 *132|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Hey...everyone..."[pcms]
 
 *133|
@@ -1016,7 +1016,7 @@ Uoohhhhh!!"[pcms]
 
 *148|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Ugh...damn it...move...ugh..."[pcms]
 
 *149|
@@ -1029,7 +1029,7 @@ towards Hayami and the others.[pcms]
 *150|
 [fc]
 [vo_hay s="hayami1002"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Noooooo!!"[pcms]
 
 *151|
@@ -1039,7 +1039,7 @@ screamed for help, but my body wouldn't respond at all.[pcms]
 
 *152|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Damn it! Damn it all!!"[pcms]
 
 *153|
@@ -1073,7 +1073,7 @@ were all at once attacked by the crazed bastards.[pcms]
 
 *157|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Ugh...guooooh!"[pcms]
 
 *158|

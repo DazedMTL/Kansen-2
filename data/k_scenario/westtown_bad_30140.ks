@@ -25,7 +25,7 @@
 *9555|
 [fc]
 [vo_hay s="hayami1082"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Haa... Haa...!"[pcms]
 
 *9556|
@@ -47,7 +47,7 @@ managed to put some distance between me and that man?[pcms]
 *9559|
 [fc]
 [vo_hay s="hayami1083"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "..."[pcms]
 
 *9560|
@@ -63,7 +63,7 @@ he'll catch up to me soon.[pcms]
 *9562|
 [fc]
 [vo_hay s="hayami1084"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "...Alright!"[pcms]
 
 *9563|
@@ -84,7 +84,7 @@ forward once again.[pcms]
 *9566|
 [fc]
 [vo_hay s="hayami1085"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Eh... Kyaa, kyaaaah!"[pcms]
 
 ;//ÅÙÅFbgm018Å@fadeIN
@@ -102,7 +102,7 @@ This person is also... weird...[pcms]
 *9569|
 [fc]
 [vo_hay s="hayami1086"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "No... that... not that!"[pcms]
 
 *9570|
@@ -132,7 +132,7 @@ that. Such a thing can't be possible.[pcms]
 *9575|
 [fc]
 [vo_hay s="hayami1087"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Kyaaah!"[pcms]
 
 *9576|
@@ -150,7 +150,7 @@ turn on my heel and try to go down the stairs.[pcms]
 *9578|
 [fc]
 [vo_hay s="hayami1088"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "!!"[pcms]
 
 *9579|
@@ -222,7 +222,7 @@ a bear hug.[pcms]
 *9591|
 [fc]
 [vo_hay s="hayami1090"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "No, nooo!"[pcms]
 
 *9592|
@@ -244,7 +244,7 @@ to gather around.[pcms]
 *9595|
 [fc]
 [vo_hay s="hayami1091"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "No! Let go of me!"[pcms]
 
 *9596|
@@ -312,7 +312,7 @@ body being toyed with...[pcms]
 *9604|
 [fc]
 [vo_hay s="hayami1094"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "No... ahhh! Stop it...!"[pcms]
 
 *9605|
@@ -341,7 +341,7 @@ through my body.[pcms]
 *9609|
 [fc]
 [vo_hay s="hayami1095"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Uuu... no... nooo!"[pcms]
 
 *9610|
@@ -357,7 +357,7 @@ in my heart.[pcms]
 *9612|
 [fc]
 [vo_hay s="hayami1096"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Ahh!"[pcms]
 
 *9613|
@@ -378,7 +378,7 @@ skillfully and precisely target my sensitive spots.[pcms]
 *9616|
 [fc]
 [vo_hay s="hayami1097"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Aaaaaah! No! Aaaaah!"[pcms]
 
 *9617|
@@ -396,7 +396,7 @@ and naturally, my voice leaks out in response.[pcms]
 *9619|
 [fc]
 [vo_hay s="hayami1098"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "That's not...! Ahh, no!"[pcms]
 
 *9620|
@@ -429,7 +429,7 @@ even further. But such a reaction only pleases them more.[pcms]
 *9625|
 [fc]
 [vo_hay s="hayami1099"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Uwah! Aaaaah! Stop it!"[pcms]
 
 *9626|
@@ -448,7 +448,7 @@ relentless teasing.[pcms]
 *9628|
 [fc]
 [vo_hay s="hayami1100"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Aaahn! Nooooo! Aaaah!"[pcms]
 
 *9629|
@@ -466,7 +466,7 @@ It's my own body, yet it won't listen to me.[pcms]
 *9631|
 [fc]
 [vo_hay s="hayami1101"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "...!! That's not... wrong!"[pcms]
 
 *9632|
@@ -505,7 +505,7 @@ reacting so much?[pcms]
 *9638|
 [fc]
 [vo_hay s="hayami1102"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Aaaaaahn! No, ahhh!"[pcms]
 
 *9639|
@@ -543,7 +543,7 @@ from down there.[pcms]
 *9644|
 [fc]
 [vo_hay s="hayami1104"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Uuh... ahh... noooo!! Don't look... not like this...[r]
 wrong!! It's wrong!"[pcms]
 
@@ -560,7 +560,7 @@ scene of humiliation with great amusement.[pcms]
 *9647|
 [fc]
 [vo_hay s="hayami1105"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Faaah... uuh... ahh..."[pcms]
 
 *9648|
@@ -585,7 +585,7 @@ do with my own will anymore.[pcms]
 *9651|
 [fc]
 [vo_hay s="hayami1097"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Aaaaaah! No! Aaaaah!"[pcms]
 
 *9652|
@@ -604,7 +604,7 @@ over a creepy man lying on the floor.[pcms]
 *9654|
 [fc]
 [vo_hay s="hayami1095"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Uuuu... no... nooo!"[pcms]
 
 *9655|
@@ -638,7 +638,7 @@ give it to her~"[pcms]
 *9660|
 [fc]
 [vo_hay s="hayami0165"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Noooooo!!"[pcms]
 
 *9661|
@@ -654,7 +654,7 @@ this at all!![pcms]
 *9663|
 [fc]
 [vo_hay s="hayami0622"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Ah... ugh... no!"[pcms]
 
 *9664|
@@ -665,7 +665,7 @@ this at all!![pcms]
 *9665|
 [fc]
 [vo_hay s="hayami0610"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "No, no more!! I don't want this anymore!!"[pcms]
 
 *9666|
@@ -688,7 +688,7 @@ in yet~?"[pcms]
 *9669|
 [fc]
 [vo_hay s="hayami0607"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Hic..."[pcms]
 
 *9670|
@@ -731,7 +731,7 @@ If only this were a dream...[pcms]
 *9678|
 [fc]
 [vo_hay s="hayami1095"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Uuuu... no... nooo!"[pcms]
 
 *9679|
@@ -758,7 +758,7 @@ water bursting, the dick is buried inside.[pcms]
 *9682|
 [fc]
 [vo_hay s="hayami1106"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Aaaaah... mmm!"[pcms]
 
 *9683|
@@ -779,7 +779,7 @@ everyone.[pcms]
 *9686|
 [fc]
 [vo_hay s="hayami1107"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Mmm...! Ahah! Aaahn!"[pcms]
 
 *9687|
@@ -790,7 +790,7 @@ my body. Even my virginity taken away.[pcms]
 *9688|
 [fc]
 [vo_hay s="hayami1108"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Aaaaaah! Haaah! Aaaaahn!"[pcms]
 
 *9689|
@@ -825,7 +825,7 @@ goood~!"[pcms]
 *9695|
 [fc]
 [vo_hay s="hayami1109"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Aaaaaaaaah! Nooo! Haaaah!"[pcms]
 
 *9696|
@@ -851,7 +851,7 @@ everyone feel like they're from a very distant world.[pcms]
 *9700|
 [fc]
 [vo_hay s="hayami1110"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Mmmm... ah, haaah!"[pcms]
 
 *9701|
@@ -878,7 +878,7 @@ different people.[pcms]
 *9704|
 [fc]
 [vo_hay s="hayami1111"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Mmmmb! ...amazing... uaaah, haaah! So much... ryoooh...[r]
 ahhh..."[pcms]
 
@@ -930,7 +930,7 @@ force!"[pcms]
 *9714|
 [fc]
 [vo_hay s="hayami1113"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Aaaaah! It's so deep... aaaaah!"[pcms]
 
 *9715|
@@ -984,7 +984,7 @@ But Hiroshi... it's only you that I...[pcms]
 *9724|
 [fc]
 [vo_hay s="hayami1115"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Aaah! Haaah! Aaaaaaaahn!"[pcms]
 
 *9725|

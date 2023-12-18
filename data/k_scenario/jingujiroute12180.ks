@@ -13,7 +13,7 @@
 
 *5345|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Mmm..."[pcms]
 
 *5346|
@@ -76,7 +76,7 @@ faintly, I realized that I could see her face.[pcms]
 
 *5353|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "...Thank you. It seems to have healed quite a bit. I can[r]
 see Maya-chan's face now."[pcms]
 
@@ -102,7 +102,7 @@ normal.[pcms]
 
 *5357|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "..."[pcms]
 
 *5358|
@@ -129,7 +129,7 @@ snacks, then stood up and began to walk away.[pcms]
 
 *5362|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Ah, wait, where are you going?"[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_n03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -143,7 +143,7 @@ too, so I'm going to get more..."[pcms]
 
 *5364|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "It's dangerous, so no! My eyes are almost completely[r]
 healed, we don't need ice."[pcms]
 

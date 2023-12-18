@@ -43,7 +43,7 @@ her with a puzzled look.[pcms]
 
 *5022|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Lovers...?"[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_f04"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -83,7 +83,7 @@ If only I could have saved her while she was still safe...[pcms]
 
 *5029|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "...No, she wasn't my girlfriend. I thought of her as a[r]
 close friend, though."[pcms]
 
@@ -96,7 +96,7 @@ close friend, though."[pcms]
 
 *5031|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Even if she was a close friend or a girlfriend, once it[r]
 came to this, there was nothing we could do."[pcms]
 
@@ -104,7 +104,7 @@ came to this, there was nothing we could do."[pcms]
 
 *5032|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "It's impossible to take her to the hospital. The virus[r]
 could spread to our bodies too..."[pcms]
 
@@ -122,7 +122,7 @@ She's the last friend I have left, after all."[pcms]
 
 *5035|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "That's why I think there was no other choice but to do[r]
 that."[pcms]
 
@@ -157,7 +157,7 @@ head and smiled at her.[pcms]
 
 *5041|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "I haven't given up on saving them yet. Once we get out of[r]
 here, I plan to look for a rescue team and bring them back[r]
 with us."[pcms]
@@ -172,7 +172,7 @@ with us."[pcms]
 
 *5043|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "But..."[pcms]
 
 *5044|
@@ -182,7 +182,7 @@ entrance.[pcms]
 
 *5045|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "To do that, we'll have to go through them..."[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_n07"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -194,14 +194,14 @@ seriously and intently.[pcms]
 
 *5047|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "They move slow, but there are so many of them that if we're[r]
 not careful, we'll be surrounded in no time. We might end up[r]
 joining those crazies."[pcms]
 
 *5048|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "To avoid that, we can't stop moving; we have to keep[r]
 running continuously. Honestly, I think it will be tough for[r]
 Maya-chan."[pcms]
@@ -210,7 +210,7 @@ Maya-chan."[pcms]
 
 *5049|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "So if it seems impossible..."[pcms]
 
 *5050|
@@ -234,7 +234,7 @@ firm tone.[pcms]
 
 *5053|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "...Then, I will protect Maya-chan. We'll definitely return[r]
 to Sakata safely."[pcms]
 

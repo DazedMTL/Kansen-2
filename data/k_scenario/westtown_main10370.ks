@@ -24,7 +24,7 @@
 
 *12039|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Damn...!"[pcms]
 
 *12040|
@@ -52,7 +52,7 @@ to us."[pcms]
 
 *12043|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "...?"[pcms]
 
 [ChrSetEx layer=4 chbase="anza_n05"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -75,7 +75,7 @@ believe."[pcms]
 
 *12046|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "But, couldn't there have been medicine at the hospital...?"[pcms]
 
 *12047|
@@ -111,7 +111,7 @@ either..."[pcms]
 
 *12051|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "..."[pcms]
 
 *12052|
@@ -190,7 +190,7 @@ contagious disease is...?[pcms]
 
 *12065|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Hey Yuu, have you been scratched or bitten by someone[r]
 anywhere?"[pcms]
 
@@ -227,7 +227,7 @@ eyes...[pcms]
 
 *12071|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "No..."[pcms]
 
 *12072|
@@ -299,7 +299,7 @@ the walkway.[pcms]
 
 *12081|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "...What's wrong?"[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_f03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -314,7 +314,7 @@ the walkway.[pcms]
 
 *12083|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Voices...?"[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
@@ -364,7 +364,7 @@ deranged lunatics spilled out from inside the walkway.[pcms]
 
 *12089|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Run, quickly!"[pcms]
 
 *12090|
@@ -389,7 +389,7 @@ left...[pcms]
 
 *12094|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Upstairs, let's go back to the movie theater!"[pcms]
 
 *12095|

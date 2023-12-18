@@ -163,7 +163,7 @@ so good~~!!"[pcms]
 *16544|
 [fc]
 [vo_hay s="hayami0654"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Nooo!! I don't want this! It's disgusting!! Nooo!! Stop[r]
 it!!"[pcms]
 
@@ -265,7 +265,7 @@ is being...rubbed...aaahhhhh!"[pcms]
 *16560|
 [fc]
 [vo_hay s="hayami0659"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Nnhh...quaaahh..., noo, nooo! It's strange! Like[r]
 this...ahh, ahh..., my stomach, oh, inside is[r]
 being...uaaahhhhhh!"[pcms]
@@ -422,7 +422,7 @@ voice~~..."[pcms]
 *16585|
 [fc]
 [vo_hay s="hayami0666"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Nnh...ahhh--!! Ghh..., ugh..., ah, ahh..., good..., it's[r]
 good..., I'm going crazy..."[pcms]
 
@@ -444,7 +444,7 @@ turning into pleasure and breaking through.[pcms]
 *16589|
 [fc]
 [vo_hay s="hayami0667"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Ahh...ugh...it hurts...my stomach, it hurts..., ugh...my[r]
 stomach!"[pcms]
 
@@ -500,7 +500,7 @@ into my stomach.[pcms]
 *16598|
 [fc]
 [vo_hay s="hayami0668"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Ah--! Aaah--!! My head! Suddenly!? It's strange..., I'm[r]
 cumming...I'm cumming!! Ahh! Aaahhh?!"[pcms]
 
@@ -546,7 +546,7 @@ in unison with my body being vigorously lifted into the air.[pcms]
 *16606|
 [fc]
 [vo_hay s="hayami0669"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Ahh...hic..., ah, ahhh!"[pcms]
 
 ;//★ホワイトフラッシュ
@@ -558,7 +558,7 @@ in unison with my body being vigorously lifted into the air.[pcms]
 *16607|
 [fc]
 [vo_hay s="hayami0670"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "No! Aaah!! Uwahh!! Cumming...I'm cumming!! I'm[r]
 cummingggg!!"[pcms]
 
@@ -663,7 +663,7 @@ inside~~!"[pcms]
 *16622|
 [fc]
 [vo_hay s="hayami0675"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Hah...hah...haah..., ahaha!? U...ua..., ah, aah..., it's[r]
 strange... I'm going crazy!?"[pcms]
 

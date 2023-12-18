@@ -33,7 +33,7 @@ with relief.[pcms]
 
 *12337|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Did you find anything useful?"[pcms]
 
 ;èÍèä<ImageFade 6,60,OFF,OFF>
@@ -59,7 +59,7 @@ man climbing a mountain with the same item in hand.[pcms]
 
 *12341|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "So it's like a walking stick for mountain climbing. What[r]
 about you, Yuuki? What did you choose?"[pcms]
 
@@ -84,7 +84,7 @@ pole Anzai-san was holding.[pcms]
 
 *12345|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Which one should I go for..."[pcms]
 
 [chara_int_ layer=6][trans_c cross time=150]
@@ -99,7 +99,7 @@ approached that shelf.[pcms]
 
 *12347|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "A shovel, huh..."[pcms]
 
 *12348|
@@ -145,7 +145,7 @@ the highest offensive power...[pcms]
 
 *12354|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "You're not thinking of avenging your grandfather with that,[r]
 are you?"[pcms]
 
@@ -166,7 +166,7 @@ and her face seemed a bit sad.[pcms]
 
 *12357|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "...Sorry. I made you remember something unpleasant."[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_f01"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -178,7 +178,7 @@ face had already returned to its usual expressionless state.[pcms]
 
 *12359|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "..."[pcms]
 
 *12360|
@@ -197,7 +197,7 @@ get out of here...[pcms]
 
 *12363|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "...You should also carry something to keep them at bay,[r]
 Maya-chan. Something other than 'that'."[pcms]
 
@@ -210,7 +210,7 @@ chan to look for her weapon.[pcms]
 
 *12365|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Speaking of which, we haven't eaten anything... Maybe[r]
 instead of weapons, we should take some food in case we need[r]
 to hole up."[pcms]
@@ -231,7 +231,7 @@ individual emergency rations.[pcms]
 
 *12368|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Right, water is important too... Then it's better to get[r]
 something that comes as a set with food."[pcms]
 
@@ -250,7 +250,7 @@ glanced at the lanterns lined up on the shelf to my right.[pcms]
 
 *12370|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "We don't know if we can get back while it's still light[r]
 out, so taking a lantern might be a good idea. If it's[r]
 battery-operated, there are small ones that won't take up[r]
@@ -269,7 +269,7 @@ much space."[pcms]
 
 *12372|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "...Indeed."[pcms]
 
 
@@ -294,7 +294,7 @@ come within four or five meters of the store.[pcms]
 
 *12375|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Tch...!"[pcms]
 
 ;mm í«â¡

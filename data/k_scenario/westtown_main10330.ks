@@ -19,7 +19,7 @@
 
 *11605|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Right... I'm going to check on Yuu for a bit. See you[r]
 later."[pcms]
 
@@ -64,7 +64,7 @@ forehead, noticed me standing beside her, she turned around.[pcms]
 
 *11609|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "How is she?"[pcms]
 
 ;èÍèä<ImageFade 6,60,OFF,OFF>
@@ -78,7 +78,7 @@ terrible fever..."[pcms]
 
 *11611|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Fever..."[pcms]
 
 *11612|
@@ -138,7 +138,7 @@ her seat, with sleepy eyes that weren't fully open.[pcms]
 
 *11620|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "..."[pcms]
 
 *11621|
@@ -186,7 +186,7 @@ Or has he already been taken by those crazies...?[pcms]
 
 *11628|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "By the way, what happened to your boyfriend? He's still[r]
 alive, right?"[pcms]
 
@@ -210,7 +210,7 @@ him..."[pcms]
 
 *11632|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Can't you contact him on his cell phone? It might be a bit[r]
 delayed, but it seems like emails can be sent."[pcms]
 
@@ -238,7 +238,7 @@ either."[pcms]
 
 *11636|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Is that so..."[pcms]
 
 *11637|
@@ -257,7 +257,7 @@ for him, but with the situation as it is..."[pcms]
 
 *11639|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "I'm sorry. If I hadn't dragged you along, you could have[r]
 gone to look for your boyfriend..."[pcms]
 
@@ -281,7 +281,7 @@ after you."[pcms]
 
 *11642|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Girlfriend...?"[pcms]
 
 *11643|
@@ -300,7 +300,7 @@ were so desperate to help."[pcms]
 
 *11645|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Tch, no! She's not like that...!"[pcms]
 
 [ChrSetEx layer=4 chbase="anza_n14"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -322,7 +322,7 @@ Hayami as my girlfriend...? Mine...?[pcms]
 
 *11649|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "..."[pcms]
 
 *11650|
@@ -340,7 +340,7 @@ situation...[pcms]
 
 *11652|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Eh... Ah, we came here on a training trip. From the[r]
 mountainside."[pcms]
 
@@ -355,7 +355,7 @@ way."[pcms]
 
 *11654|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Yeah, well..."[pcms]
 
 *11655|
@@ -370,7 +370,7 @@ class would safely return to the mountainside.[pcms]
 
 *11657|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "..."[pcms]
 
 [ChrSetEx layer=4 chbase="anza_n01"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -456,8 +456,8 @@ you."[pcms]
 
 *11667|
 [fc]
-[ns]Ookura Hiroshi[nse]
-"I'm Ookura Hiroshi. Ah, just Hiroshi is fine."[pcms]
+[ns]Ookura[nse]
+"I'm Ookura. Ah, just Hiroshi is fine."[pcms]
 
 *11668|
 [fc]
@@ -498,7 +498,7 @@ I remembered something I had forgotten to ask her earlier.[pcms]
 
 *11674|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Right, Maya-chan, why did you come to Sendai? Was it for a[r]
 training trip like us?"[pcms]
 
@@ -543,7 +543,7 @@ everyone was already gone."[pcms]
 
 *11680|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "We thought they might have been taken to the hospital, so[r]
 we went there, but they weren't there..."[pcms]
 
@@ -571,7 +571,7 @@ doctors I know to take a look at that child."[pcms]
 
 *11684|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "...then you better not go there."[pcms]
 
 *11685|
@@ -596,7 +596,7 @@ woman and attacking her."[pcms]
 
 *11688|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "After that, other patients and people who seemed to be[r]
 visitors and doctors came out, but they all had the same[r]
 expression, so we ran away immediately."[pcms]
@@ -611,7 +611,7 @@ expression, so we ran away immediately."[pcms]
 
 *11690|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "The same face as the crazy guys in here. Their eyes were[r]
 wild, their mouths agape, just going 'Ahh-Ahh'."[pcms]
 
@@ -630,7 +630,7 @@ and slumped down.[pcms]
 
 *11693|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "By the way..."[pcms]
 
 [chara_int][trans_c cross time=150]
@@ -643,7 +643,7 @@ qualification.[pcms]
 
 *11695|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "One of the guys attacking the woman suddenly started[r]
 vomiting and collapsed. He wasn't breathing, so he's[r]
 probably dead. What do you think that was about?"[pcms]
@@ -691,7 +691,7 @@ doing?"[pcms]
 
 *11702|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "She seems okay for now... But with that old man around, we[r]
 can't be too sure."[pcms]
 
@@ -736,7 +736,7 @@ silent about it, I'm sorry."[pcms]
 
 *11708|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "No, it's... I'm really glad Anzai-san came along. We[r]
 wouldn't have known what to do about her otherwise."[pcms]
 
@@ -773,7 +773,7 @@ Suddenly, Yuu's voice brought me back from my thoughts.[pcms]
 
 *11715|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Huh?"[pcms]
 
 [ChrSetEx layer=4 chbase="koba_n12"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -801,7 +801,7 @@ times, but the screen remained unchanged.[pcms]
 
 *11719|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "It's Maya-chan, right?"[pcms]
 
 [ChrSetEx layer=3 chbase="jinguji_f04"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
@@ -836,7 +836,7 @@ after all...[pcms]
 
 *11724|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "...My cell phone doesn't have much battery left either, so[r]
 it's better not to use it carelessly."[pcms]
 
@@ -857,7 +857,7 @@ phone before putting it back in my pocket.[pcms]
 
 *11727|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "It was 3:30 AM."[pcms]
 
 ;[chara_int_ layer=3][chara_int_ layer=4][trans_c cross time=150]
@@ -895,21 +895,21 @@ a key."[pcms]
 
 *11732|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "With all those crazy guys around and considering Hayami's[r]
 situation, we don't have the luxury of looking for that[r]
 key."[pcms]
 
 *11733|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "The other shutters we closed are for emergencies, so once[r]
 they're shut, they're designed not to be easily opened[r]
 again."[pcms]
 
 *11734|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Even if we could open them, we'd only be able to get[r]
 outside, not make it to the building across."[pcms]
 
@@ -936,7 +936,7 @@ through there..."[pcms]
 
 *11737|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "What's that...?"[pcms]
 
 *11738|
@@ -978,7 +978,7 @@ door, quickly stood up and ran outside.[pcms]
 
 *11743|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "The cooler...?"[pcms]
 
 *11744|
@@ -1043,7 +1043,7 @@ eyes were focused.[pcms]
 
 *11753|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "...What's your name?"[pcms]
 
 *11754|
@@ -1067,7 +1067,7 @@ into the theater and Yuu's loud voice.[pcms]
 
 *11757|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "What's up?"[pcms]
 
 *11758|

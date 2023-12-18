@@ -68,7 +68,7 @@ said she was safe. She also said she would call again.[pcms]
 
 *11124|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Come to think of it... how's my family doing..."[pcms]
 
 *11125|

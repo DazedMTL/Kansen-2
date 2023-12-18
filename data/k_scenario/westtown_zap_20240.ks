@@ -55,7 +55,7 @@ expression.[pcms]
 *14344|
 [fc]
 [vo_hay s="hayami0412"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Could it be..."[pcms]
 
 *14345|
@@ -82,7 +82,7 @@ town...[pcms]
 *14349|
 [fc]
 [vo_hay s="hayami0413"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "...!! Mister!?"[pcms]
 
 *14350|
@@ -134,7 +134,7 @@ We're going to be found at this rate... What should we do...[pcms]
 *14358|
 [fc]
 [vo_hay s="hayami0414"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Hiroshi... help me... Hiroshi..."[pcms]
 
 *14359|
@@ -186,7 +186,7 @@ In his hand, he held a knife stained with blood.[pcms]
 *14365|
 [fc]
 [vo_hay s="hayami0415"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Hii... Na-Nagasaki-san... wake up..."[pcms]
 
 *14366|
@@ -197,7 +197,7 @@ wake her up.[pcms]
 *14367|
 [fc]
 [vo_hay s="hayami0416"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "No... Nooo!! Na-Nagasaki-san!! Wake up!! Wake up!! We've[r]
 been found by the man...! We've been found by the man!!"[pcms]
 
@@ -209,7 +209,7 @@ roughly I shook her.[pcms]
 *14369|
 [fc]
 [vo_hay s="hayami0417"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Nagasaki-san! Nagasaki-san, please!! Wake up!! Hey!! What's[r]
 wrong with you!?"[pcms]
 
@@ -222,7 +222,7 @@ was so feisty at first!!"[pcms]
 *14371|
 [fc]
 [vo_hay s="hayami0418"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Nagasaki-san!! Wake up quickly!! If we stay like this... if[r]
 we stay like this!! Noooooo!!"[pcms]
 

@@ -24,7 +24,7 @@ Hayami won't be saved...!"[pcms]
 
 *12432|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Alright...!!"[pcms]
 
 ;èÍèä<ImageFade 6,60,OFF,OFF>
@@ -38,7 +38,7 @@ my arms with both hands to stop me.[pcms]
 
 *12434|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Let go of me. If I don't go, Hayami will...!!"[pcms]
 
 *12435|
@@ -54,7 +54,7 @@ putting strength into the hands that were gripping my arms.[pcms]
 
 *12437|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "But...!!"[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
@@ -88,7 +88,7 @@ guy and was starting to be overwhelmed.[pcms]
 
 *12442|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Damn it...!!"[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
@@ -101,7 +101,7 @@ Yuuki as she crawled on the floor trying to escape.[pcms]
 
 *12444|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Take thissss!!!"[pcms]
 
 ;[fadeoutbgm time=502]

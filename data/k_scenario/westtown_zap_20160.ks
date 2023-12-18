@@ -65,7 +65,7 @@ I press the cell phone to my ear as if praying.[pcms]
 *13593|
 [fc]
 [vo_hay s="hayami0332"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "!! Hi... Hiroshi!? Hiroshi!! Now..."[pcms]
 
 *13594|
@@ -92,7 +92,7 @@ convey my situation.[pcms]
 *13598|
 [fc]
 [vo_hay s="hayami0333"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "I'm... okay... Take care, Hiroshi... There are so many[r]
 strange people... I can't stand it anymore...!"[pcms]
 
@@ -185,7 +185,7 @@ san to increase our chances of escape.[pcms]
 *13614|
 [fc]
 [vo_hay s="hayami0336"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Sorry, I'm going to hang up now. I'll call again later!"[pcms]
 
 [cutin_int][trans_c cross time=300]

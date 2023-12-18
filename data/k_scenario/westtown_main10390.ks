@@ -34,7 +34,7 @@ it to the escalator, rushing down to the third floor.[pcms]
 
 *12169|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "..."[pcms]
 
 *12170|

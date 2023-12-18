@@ -98,7 +98,7 @@ you know? Because of the old calendar, it's in August..."[pcms]
 *15127|
 [fc]
 [vo_hay s="hayami0599"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Nagasaki-san!! Hang in there... hang in there!! Something's[r]
 wrong! What happened to you...?!"[pcms]
 
@@ -129,7 +129,7 @@ That's what I thought just before.[pcms]
 *15131|
 [fc]
 [vo_hay s="hayami0600"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "...!?"[pcms]
 
 *15132|
@@ -143,7 +143,7 @@ near the ceiling of the restaurant.[pcms]
 *15133|
 [fc]
 [vo_hay s="hayami0601"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "...!? The television...? At this hour?? Why suddenly...?"[pcms]
 
 ;//šƒCƒxƒ“ƒg‚b‚f@‚m‚d‚u‚P‚O‚R

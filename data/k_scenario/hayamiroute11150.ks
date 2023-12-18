@@ -41,7 +41,7 @@ quietly waiting for time to pass, for a chance to be saved.[pcms]
 
 *3487|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "...?"[pcms]
 
 *3488|
@@ -77,7 +77,7 @@ hospital...[pcms]
 *3493|
 [fc]
 [vo_hay s="hayami0753"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Hiroshi..."[pcms]
 
 *3494|
@@ -92,19 +92,19 @@ realized that Hayami was getting quite weak.[pcms]
 
 *3496|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Hm?"[pcms]
 
 *3497|
 [fc]
 [vo_hay s="hayami0754"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "If I become like those weird people outside... you can[r]
 throw me out right away... don't worry about it..."[pcms]
 
 *3498|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "What's with that all of a sudden..."[pcms]
 
 [ChrSetEx layer=4 chbase="hayami_d04"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -118,13 +118,13 @@ can't..."[pcms]
 
 *3500|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "What do you mean you can't?"[pcms]
 
 *3501|
 [fc]
 [vo_hay s="hayami0756"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Probably... because I won't be able to go with you... so[r]
 it's okay to throw me out... don't worry about it..."[pcms]
 
@@ -135,7 +135,7 @@ Hayami in a joking manner.[pcms]
 
 *3503|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "That's impossible, give up on that idea."[pcms]
 
 [ChrSetEx layer=4 chbase="hayami_d03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -148,13 +148,13 @@ Hayami in a joking manner.[pcms]
 
 *3505|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "That shutter over there, once it's closed, it's not easy to[r]
 open again."[pcms]
 
 *3506|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "So even if you go crazy, thinking of throwing you out right[r]
 away is impossible."[pcms]
 
@@ -168,7 +168,7 @@ away is impossible."[pcms]
 
 *3508|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Besides, even if the shutter could be opened, I wouldn't[r]
 throw you out."[pcms]
 
@@ -180,14 +180,14 @@ throw you out."[pcms]
 
 *3510|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Didn't I say? We're friends, aren't we? Even if you lose[r]
 it, I won't abandon you."[pcms]
 
 *3511|
 [fc]
 [vo_hay s="hayami0760"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "..."[pcms]
 
 *3512|
@@ -205,7 +205,7 @@ a while, still staring at the ground, she began to speak.[pcms]
 
 *3514|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Hm...?"[pcms]
 
 [ChrSetEx layer=4 chbase="hayami_d01"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -219,7 +219,7 @@ friend...?"[pcms]
 
 *3516|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Ah, of course."[pcms]
 
 [ChrSetEx layer=4 chbase="hayami_d04"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -227,13 +227,13 @@ friend...?"[pcms]
 *3517|
 [fc]
 [vo_hay s="hayami0763"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Really...? Then no matter what I say, you won't be[r]
 disgusted...?"[pcms]
 
 *3518|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "...? Ah, I won't be disgusted."[pcms]
 
 [ChrSetEx layer=4 chbase="hayami_d01"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -247,7 +247,7 @@ what...?"[pcms]
 
 *3520|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "What is it? Just say it. I won't be disgusted."[pcms]
 
 *3521|
@@ -271,12 +271,12 @@ finally continued speaking.[pcms]
 *3524|
 [fc]
 [vo_hay s="hayami0766"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Then... listen without being disgusted..."[pcms]
 
 *3525|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Ah, I'm listening properly so just say it already,[r]
 quickly."[pcms]
 
@@ -285,12 +285,12 @@ quickly."[pcms]
 *3526|
 [fc]
 [vo_hay s="hayami0767"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "You know..."[pcms]
 
 *3527|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Ah"[pcms]
 
 ;//♪：bgm004 stop
@@ -310,12 +310,12 @@ quickly."[pcms]
 *3530|
 [fc]
 [vo_hay s="hayami0769"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "...likes..."[pcms]
 
 *3531|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Huh...?"[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
@@ -338,12 +338,12 @@ confused and I ended up frozen in silence.[pcms]
 *3534|
 [fc]
 [vo_hay s="hayami0770"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "...see... you are disgusted after all..."[pcms]
 
 *3535|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Eh...? Ah, no, it's not that I'm grossed out, it's just...[r]
 what, for real...?"[pcms]
 
@@ -360,7 +360,7 @@ without saying anything.[pcms]
 
 *3538|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "..."[pcms]
 
 *3539|
@@ -398,13 +398,13 @@ Hiroshi..."[pcms]
 *3545|
 [fc]
 [vo_hay s="hayami0773"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Even though it was dangerous for you too... Hiroshi, you[r]
 came to save me just like you promised... I was so happy..."[pcms]
 
 *3546|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Ah, ah-..."[pcms]
 
 [ChrSetEx layer=4 chbase="hayami_d01"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -427,7 +427,7 @@ saying..."[pcms]
 
 *3549|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Is that so-..."[pcms]
 
 *3550|
@@ -453,7 +453,7 @@ excuses.[pcms]
 
 *3553|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "No, it's not that. It's not like that, but Hayami is a[r]
 friend... I thought of you as a best friend... I never saw[r]
 you in that way, so it's kind of..."[pcms]
@@ -463,7 +463,7 @@ you in that way, so it's kind of..."[pcms]
 *3554|
 [fc]
 [vo_hay s="hayami0777"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "You don't have to force yourself... I just wanted to tell[r]
 you before things got weird..."[pcms]
 
@@ -488,7 +488,7 @@ shoulder, pulling her into a strong embrace.[pcms]
 
 *3558|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "So don't give up! There's no such thing as an incurable[r]
 disease in this world. This illness will definitely be[r]
 cured!"[pcms]
@@ -518,7 +518,7 @@ confession at the same time.[pcms]
 
 *3563|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "...I'll cure you."[pcms]
 
 [ChrSetEx layer=4 chbase="hayami_d03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -531,13 +531,13 @@ confession at the same time.[pcms]
 
 *3565|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "I'll cure Hayami's illness. And until you're healthy again,[r]
 I'll stay by your side."[pcms]
 
 *3566|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Besides, even if I catch the virus from Hayami, that's[r]
 okay. Staying by your side is something I decided for[r]
 myself."[pcms]
@@ -562,7 +562,7 @@ you're not good at studying..."[pcms]
 
 *3570|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "No, well... don't say that, you..."[pcms]
 
 [ChrSetEx layer=4 chbase="hayami_d04"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -614,7 +614,7 @@ soon... That's why you're being kind..."[pcms]
 
 *3578|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Hayami..."[pcms]
 
 *3579|
@@ -648,7 +648,7 @@ So what can I do now? What can I do for Hayami?[pcms]
 
 *3585|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Hayami..."[pcms]
 
 ;//＠イベントが挟まるので立ち絵コメントアウト
@@ -659,7 +659,7 @@ So what can I do now? What can I do for Hayami?[pcms]
 *3586|
 [fc]
 [vo_hay s="hayami0786"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "..."[pcms]
 
 *3587|
@@ -696,7 +696,7 @@ face me before pressing my lips against hers.[pcms]
 *3588|
 [fc]
 [vo_hay s="hayami0787"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Ah...!"[pcms]
 
 *3589|
@@ -715,13 +715,13 @@ together for a while before pulling away.[pcms]
 *3591|
 [fc]
 [vo_hay s="hayami0788"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Haah... Haah..."[pcms]
 ;//◎苦しかった
 
 *3592|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "How about that? You understand now that I'm serious?"[pcms]
 
 *3593|
@@ -734,7 +734,7 @@ profusely, hitting me all over in a frenzy.[pcms]
 *3594|
 [fc]
 [vo_hay s="hayami0789"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "...feh... what are you doing...!? Idiot...! Wehh... Now you[r]
 might get infected too, Hiroshi...! You're such an[r]
 idiot...!! Stupid Hiroshi...!!"[pcms]
@@ -748,7 +748,7 @@ idiot...!! Stupid Hiroshi...!!"[pcms]
 *3596|
 [fc]
 [vo_hay s="hayami0790"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Ugh... why a kiss...!? Uhh... That doesn't prove you're[r]
 serious at all...!! Sniffle... Wehh...!"[pcms]
 ;//◎大泣き
@@ -760,7 +760,7 @@ and said with a laugh.[pcms]
 
 *3598|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Now, I have to go to the hospital with you too. It's proof[r]
 that I wasn't lying about always being by your side."[pcms]
 
@@ -774,7 +774,7 @@ that I wasn't lying about always being by your side."[pcms]
 
 *3600|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Ah... but this means I can't become a doctor now... Damn,[r]
 maybe I went a bit too far, haha."[pcms]
 
@@ -783,7 +783,7 @@ maybe I went a bit too far, haha."[pcms]
 *3601|
 [fc]
 [vo_hay s="hayami0792"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Idiot... sniffle, uhh... idiot~...!! Fehh...!"[pcms]
 
 *3602|
@@ -793,7 +793,7 @@ tears, Hayami looked up and gazed at me.[pcms]
 
 *3603|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Ah-ah-, your cute face is all ruined now."[pcms]
 
 *3604|
@@ -807,7 +807,7 @@ mine.[pcms]
 
 *3605|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Mmm...!"[pcms]
 
 *3606|
@@ -870,7 +870,7 @@ make love.[pcms]
 *3616|
 [fc]
 [vo_hay s="hayami0796"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Ah... nm, mmm..."[pcms]
 
 *3617|
@@ -882,7 +882,7 @@ before pressing my lips against hers again.[pcms]
 
 *3618|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Mm, mmm..."[pcms]
 
 *3619|
@@ -933,7 +933,7 @@ slightly.[pcms]
 
 *3627|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Mm..."[pcms]
 
 *3628|
@@ -948,7 +948,7 @@ the shaking, I reached for the shirt buttons again.[pcms]
 *3630|
 [fc]
 [vo_hay s="hayami0800"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Ah..."[pcms]
 
 [evcg storage="HEV116a"][trans_c cross time=301]
@@ -965,13 +965,13 @@ breasts directly before, I found myself staring in awe.[pcms]
 
 *3633|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "..."[pcms]
 
 *3634|
 [fc]
 [vo_hay s="hayami0801"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "No way... don't stare at me like that..."[pcms]
 
 *3635|
@@ -993,12 +993,12 @@ towards her breasts.[pcms]
 *3638|
 [fc]
 [vo_hay s="hayami0803"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Mm...!"[pcms]
 
 *3639|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "So soft..."[pcms]
 
 *3640|
@@ -1025,13 +1025,13 @@ dislike them...?"[pcms]
 
 *3644|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "No... why would I?"[pcms]
 
 *3645|
 [fc]
 [vo_hay s="hayami0805"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Because, mmm... you're making a scary face... ha, u..."[pcms]
 
 *3646|
@@ -1060,7 +1060,7 @@ Hayami seemed ticklish and shrank back.[pcms]
 *3650|
 [fc]
 [vo_hay s="hayami0807"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Yah...! Mm, ya... ha, u...!"[pcms]
 
 *3651|
@@ -1084,7 +1084,7 @@ slightly.[pcms]
 
 *3654|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Chu... chup..."[pcms]
 
 *3655|
@@ -1107,7 +1107,7 @@ teased it even more with the tip of my tongue.[pcms]
 
 *3658|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Mmm... chap... n, chu..."[pcms]
 
 *3659|
@@ -1126,12 +1126,12 @@ skirt to take off her panties.[pcms]
 *3661|
 [fc]
 [vo_hay s="hayami0812"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Ah, no..."[pcms]
 
 *3662|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "...?"[pcms]
 
 *3663|
@@ -1180,7 +1180,7 @@ her.[pcms]
 *3670|
 [fc]
 [vo_hay s="hayami0814"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Ha, ah...!"[pcms]
 
 *3671|
@@ -1194,7 +1194,7 @@ I quickly reached for the emergency evacuation bag near us,[pcms]
 *3672|
 [fc]
 [vo_hay s="hayami0800"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Ah..."[pcms]
 
 *3673|
@@ -1233,7 +1233,7 @@ fingers.[pcms]
 
 *3679|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Ah, ahh, sorry, did that hurt...?"[pcms]
 
 *3680|
@@ -1244,12 +1244,12 @@ head slightly from side to side.[pcms]
 *3681|
 [fc]
 [vo_hay s="hayami0817"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "But... please be a little gentler..."[pcms]
 
 *3682|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Mm, understood..."[pcms]
 
 *3683|
@@ -1266,13 +1266,13 @@ ahwan...!!"[pcms]
 
 *3685|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "This is kinda erotic, Hayami..."[pcms]
 
 *3686|
 [fc]
 [vo_hay s="hayami0819"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "No, ah...! Idiot...! Hya, hnn, uunn...!"[pcms]
 
 *3687|
@@ -1288,7 +1288,7 @@ sensation that was born inside.[pcms]
 
 *3689|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "My hand is all wet... it's going to get pruney..."[pcms]
 
 *3690|
@@ -1299,7 +1299,7 @@ sensation that was born inside.[pcms]
 
 *3691|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "..."[pcms]
 
 ;//※HEV108b.bmp (Ａのトリミングしなかった大きい絵）
@@ -1325,7 +1325,7 @@ slit several times.[pcms]
 
 *3695|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "No, it's not like that..."[pcms]
 
 *3696|
@@ -1336,7 +1336,7 @@ slit several times.[pcms]
 
 *3697|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Around here, huh...?"[pcms]
 
 *3698|
@@ -1370,7 +1370,7 @@ me deeper, and I could feel it through my dick.[pcms]
 
 *3702|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Uh, are you okay...?"[pcms]
 
 *3703|
@@ -1390,20 +1390,20 @@ hurt..."[pcms]
 
 *3705|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "You don't have to force yourself...? You're not feeling[r]
 well..."[pcms]
 
 *3706|
 [fc]
 [vo_hay s="hayami0827"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "The feeling of happiness is bigger... so I'm totally[r]
 fine..."[pcms]
 
 *3707|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "But..."[pcms]
 
 *3708|
@@ -1414,7 +1414,7 @@ fine..."[pcms]
 
 *3709|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "...understood"[pcms]
 
 *3710|
@@ -1433,7 +1433,7 @@ my hips back and forth.[pcms]
 
 *3712|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Ku, ah...!"[pcms]
 
 *3713|
@@ -1448,7 +1448,7 @@ understand just by inserting it.[pcms]
 
 *3715|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Haa...uh, kuh...!"[pcms]
 
 *3716|
@@ -1480,7 +1480,7 @@ Hiroshi's...ahh, nnuh...! Your cock..."[pcms]
 
 *3720|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Yeah, it feels amazing...! But sorry, it's just me...[r]
 Hayami must be in pain..."[pcms]
 
@@ -1510,7 +1510,7 @@ stronger for some reason.[pcms]
 
 *3724|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "I might not be able to hold back... it feels too good..."[pcms]
 
 *3725|
@@ -1534,7 +1534,7 @@ and I stopped moving abruptly.[pcms]
 
 *3728|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "If Hayami can't feel good too then I'll stop... It doesn't[r]
 matter if only I feel good and your body is..."[pcms]
 
@@ -1552,7 +1552,7 @@ could feel this good..."[pcms]
 
 *3731|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "..."[pcms]
 
 *3732|
@@ -1563,7 +1563,7 @@ could feel this good..."[pcms]
 
 *3733|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Yeah, understood... sorry..."[pcms]
 
 *3734|
@@ -1591,7 +1591,7 @@ hips once more.[pcms]
 
 *3738|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Fu...uh..."[pcms]
 
 *3739|
@@ -1618,7 +1618,7 @@ vision start to flicker.[pcms]
 
 *3742|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Ha-... Ha-...!"[pcms]
 
 *3743|
@@ -1631,7 +1631,7 @@ please...!"[pcms]
 
 *3744|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Ah... sorry if I come to death..."[pcms]
 
 *3745|
@@ -1655,7 +1655,7 @@ love you...!"[pcms]
 
 *3748|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Ah... I love you too...!"[pcms]
 
 *3749|
@@ -1667,7 +1667,7 @@ you love me more... ahh...! Come on...!"[pcms]
 
 *3750|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "I love you, Hayami...!"[pcms]
 
 *3751|
@@ -1683,7 +1683,7 @@ longer, and I covered Hayami with my body.[pcms]
 
 *3753|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Haa...! Haa...! Hayami... I'm about to...!!"[pcms]
 
 *3754|
@@ -1703,12 +1703,12 @@ my tongue slip in.[pcms]
 *3756|
 [fc]
 [vo_hay s="hayami0845"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Nnuh...!!"[pcms]
 
 *3757|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Nnnh...!"[pcms]
 
 *3758|
@@ -1723,7 +1723,7 @@ once, and I involuntarily intensified my movements.[pcms]
 
 *3760|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Nn, fuuh...! Chu, nmu..."[pcms]
 
 *3761|
@@ -1741,18 +1741,18 @@ pleasure that quickly brought me to my limit.[pcms]
 *3763|
 [fc]
 [vo_hay s="hayami0847"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Nhaa, ha, amu... chuuu, chapu... nnn, nmuuhh...!!"[pcms]
 
 *3764|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Nnnh...! Fuuh...! Nuuuhh...!!"[pcms]
 
 *3765|
 [fc]
 [vo_hay s="hayami0848"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Nnnh...!! Haa, ha, nnn, chu... nnnh, nuhh...! Nnn~~~!!"[pcms]
 
 *3766|
@@ -1762,7 +1762,7 @@ released everything that had welled up inside into Hayami.[pcms]
 
 *3767|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Nnnh...!!"[pcms]
 
 ;[射精フラA]
@@ -1778,7 +1778,7 @@ released everything that had welled up inside into Hayami.[pcms]
 *3768|
 [fc]
 [vo_hay s="hayami0849"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Nfuuhh...!"[pcms]
 
 *3769|
@@ -1793,7 +1793,7 @@ involuntarily arched back and separated our lips.[pcms]
 
 *3771|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Nn, ha...!"[pcms]
 
 *3772|
@@ -1808,7 +1808,7 @@ After pouring everything into Hayami's depths,[pcms]
 
 *3774|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Haa... Haa..."[pcms]
 
 *3775|
@@ -1833,7 +1833,7 @@ gazing into her moist and shining eyes.[pcms]
 
 *3778|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "..."[pcms]
 
 *3779|
@@ -1855,7 +1855,7 @@ and once again pressed our lips together.[pcms]
 
 *3782|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Ha... nmu..."[pcms]
 
 *3783|

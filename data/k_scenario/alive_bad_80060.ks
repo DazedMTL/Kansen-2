@@ -63,7 +63,7 @@ about your home!"[pcms]
 
 *2529|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "This isn't the time to be saying that!! We're saying let's[r]
 cooperate! So lend us the truck!"[pcms]
 
@@ -89,7 +89,7 @@ Hm...?[pcms]
 
 *2533|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Ugh... Uwaaah!! Wha... Naomi!? We're surrounded!!"[pcms]
 
 [ChrSetEx layer=4 chbase="etc01"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -111,7 +111,7 @@ had been lurking in the darkness and suddenly surrounded us.[pcms]
 
 *2537|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Damn it... Ah!? O-Old man!?"[pcms]
 
 [ChrSetEx layer=4 chbase="sugo_n04"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -166,7 +166,7 @@ Uoooohh!!"[pcms]
 
 *2546|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Hey! Old man!?"[pcms]
 
 *2547|
@@ -206,7 +206,7 @@ killed!![pcms]
 
 *2552|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Those guys... damn it!! This is bad... really bad! ...![r]
 Wha... Naomi!?"[pcms]
 
@@ -264,7 +264,7 @@ away!!"[pcms]
 
 *2561|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Ah... ah, ah, aah... Na-Naomi...!!"[pcms]
 
 *2562|
@@ -276,7 +276,7 @@ worry about me!! Hiroshi!"[pcms]
 
 *2563|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Ah... Naomi is..."[pcms]
 
 *2564|
@@ -319,7 +319,7 @@ I can't just run away after all! I have to save Naomi!![pcms]
 
 *2571|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Grrr... damn it!!"[pcms]
 
 ;//ÅöÇrÇdÅFêlÇâ£ÇÈ
@@ -335,7 +335,7 @@ impact on my head.[pcms]
 
 *2573|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Guah!"[pcms]
 
 *2574|
@@ -392,7 +392,7 @@ Naomi's voice was getting farther and farther away.[pcms]
 *2578|
 [fc]
 [vo_hay s="hayami1221"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Uwaa...nnhh!"[pcms]
 
 *2579|
@@ -409,7 +409,7 @@ Naomi's voice was getting farther and farther away.[pcms]
 
 *2581|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Ugh..."[pcms]
 
 *2582|
@@ -450,7 +450,7 @@ sounds.[pcms]
 *2586|
 [fc]
 The voices I heard belonged to Yuuki, Maya-chan, and also[r]
-Alice and Naomi, the four of them.[pcms]
+Arisu and Naomi, the four of them.[pcms]
 
 *2587|
 [fc]
@@ -468,7 +468,7 @@ and feels good..."[pcms]
 [fc]
 [vo_kob s="koba0626"]
 [ns]Kobayashi[nse]
-"Uwaa... Alice's pussy is amazing... and her breasts are all[r]
+"Uwaa... Arisu's pussy is amazing... and her breasts are all[r]
 over my body... aahh!"[pcms]
 
 *2590|
@@ -476,7 +476,7 @@ over my body... aahh!"[pcms]
 [vo_may s="maya_bad0004"]
 [ns]Maya[nse]
 "Making such a pitiful noise... even though you're a man...[r]
-Don't just enjoy yourself... Alice too..."[pcms]
+Don't just enjoy yourself... Arisu too..."[pcms]
 
 *2591|
 [fc]
@@ -503,7 +503,7 @@ my eyes, and my arms and legs wouldn't move at all.[pcms]
 *2595|
 [fc]
 [vo_hay s="hayami1223"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "The naughty liquid is overflowing so much... Ah! Yuuki's is[r]
 filling me up so much... Nwaaah..."[pcms]
 
@@ -511,7 +511,7 @@ filling me up so much... Nwaaah..."[pcms]
 [fc]
 [vo_kob s="koba0627"]
 [ns]Kobayashi[nse]
-"I'm... I'm going inside Alice raw..., ha... ah..."[pcms]
+"I'm... I'm going inside Arisu raw..., ha... ah..."[pcms]
 
 *2597|
 [fc]
@@ -564,7 +564,7 @@ in my mind.[pcms]
 [fc]
 [vo_kob s="koba0629"]
 [ns]Kobayashi[nse]
-"Alice's... every time mine goes in..., it makes a squishy[r]
+"Arisu's... every time mine goes in..., it makes a squishy[r]
 sound..., it's naughty... uwaaah..."[pcms]
 
 *2606|
@@ -626,7 +626,7 @@ to make me feel increasingly irritated.[pcms]
 
 *2615|
 [fc]
-Dammit... Yuuki is pushing his way in there... Alice too...[pcms]
+Dammit... Yuuki is pushing his way in there... Arisu too...[pcms]
 
 *2616|
 [fc]
@@ -673,7 +673,7 @@ kuaah!"[pcms]
 [vo_kob s="koba0634"]
 [ns]Kobayashi[nse]
 "I can't take it anymore..., I want to release..., I want to[r]
-release so much inside Alice's pussy! Nuuuhh... ahh... I[r]
+release so much inside Arisu's pussy! Nuuuhh... ahh... I[r]
 can't take it anymore..., ahh!"[pcms]
 
 *2623|
@@ -763,7 +763,7 @@ back! It's bursting, bursting out!! Uwaaah!!"[pcms]
 *2636|
 [fc]
 [vo_hay s="hayami1231"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Yaaah! I'm coming... I'm coming! Aaaaah!!"[pcms]
 
 ;[éÀê∏ÉtÉâA]

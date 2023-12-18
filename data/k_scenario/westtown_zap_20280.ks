@@ -53,7 +53,7 @@ I wonder if she's caught a cold...?[pcms]
 *14879|
 [fc]
 [vo_hay s="hayami0538"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Eh...?? No, no, I'm okay... More importantly, we need to[r]
 escape quickly..."[pcms]
 
@@ -66,7 +66,7 @@ escape quickly..."[pcms]
 *14881|
 [fc]
 [vo_hay s="hayami0539"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "???"[pcms]
 
 *14882|
@@ -96,7 +96,7 @@ us... Leave it to me..."[pcms]
 *14886|
 [fc]
 [vo_hay s="hayami0541"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "...!? Did you figure something out? About those people..."[pcms]
 
 *14887|
@@ -176,7 +176,7 @@ whatever you like..."[pcms]
 *14899|
 [fc]
 [vo_hay s="hayami0543"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Eh...? Wha... What...? There's no one here... What are you[r]
 talking about...!? Stop joking around!!"[pcms]
 
@@ -240,7 +240,7 @@ Nagasaki-san forced a kiss on me.[pcms]
 *14908|
 [fc]
 [vo_hay s="hayami0545"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Mm... ah..., puchu..."[pcms]
 
 *14909|
@@ -264,7 +264,7 @@ my mind.[pcms]
 *14912|
 [fc]
 [vo_hay s="hayami0546"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Nah... mm..., fuah..."[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
@@ -322,7 +322,7 @@ My arms were fixed behind my back to the chair.[pcms]
 *14922|
 [fc]
 [vo_hay s="hayami0547"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "...Hey!! What is this...!! Nagasaki-san!! What are you[r]
 doing...!!"[pcms]
 
@@ -338,7 +338,7 @@ me... Become mine..."[pcms]
 *14924|
 [fc]
 [vo_hay s="hayami0548"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "...!? What the heck!! Nagasaki-san, this is crazy!! This is[r]
 definitely not right!! Let me go!! Idiot!!"[pcms]
 
@@ -352,7 +352,7 @@ you, all mine, mine... hehe... hehe..."[pcms]
 *14926|
 [fc]
 [vo_hay s="hayami0549"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "No... stop it!! I don't want this!! This is... I don't want[r]
 this!!"[pcms]
 
@@ -377,7 +377,7 @@ uh-huh... hehe...!!"[pcms]
 *14930|
 [fc]
 [vo_hay s="hayami0550"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Let me go!! Stop doing this... stop it!!"[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
@@ -395,7 +395,7 @@ escape![pcms]
 *14933|
 [fc]
 [vo_hay s="hayami0551"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Nagasaki-san!! Nagasaki-san!!"[pcms]
 
 *14934|
@@ -431,7 +431,7 @@ classical music, sobbing quietly.[pcms]
 *14940|
 [fc]
 [vo_hay s="hayami0553"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Sniffle... miserable... me... This is... I can't stand this[r]
 anymore..."[pcms]
 
@@ -568,7 +568,7 @@ Hehe... I'll do even more pleasurable things for you..."[pcms]
 *14960|
 [fc]
 [vo_hay s="hayami0558"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "No... not like that... It doesn't feel good at all!![r]
 Please... Nagasaki-san, calm down!! Right!?"[pcms]
 
@@ -590,7 +590,7 @@ lesbian...?[pcms]
 *14964|
 [fc]
 [vo_hay s="hayami0559"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "...I trusted you... I trusted Nagasaki-san...!! And yet,[r]
 this is what you are... such a pervert!! I can't take it[r]
 anymore!!"[pcms]
@@ -655,7 +655,7 @@ lewd... such a naughty body..."[pcms]
 *14974|
 [fc]
 [vo_hay s="hayami0562"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "No... that's not it... ugh... stop it! This is weird..."[pcms]
 
 *14975|
@@ -687,7 +687,7 @@ chu... hehe... they've gotten a bit bigger..."[pcms]
 *14979|
 [fc]
 [vo_hay s="hayami0563"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Ahh... it's embarrassing... like that... It tickles... ah,[r]
 ugh... haah..."[pcms]
 
@@ -781,7 +781,7 @@ electricity was flowing through them.[pcms]
 *14996|
 [fc]
 [vo_hay s="hayami0566"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Nahh... mmm... mmmhmm... hah... ahhhh..."[pcms]
 
 *14997|
@@ -855,7 +855,7 @@ you? Such a cute face you're making... hehe..."[pcms]
 *15008|
 [fc]
 [vo_hay s="hayami0570"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Come...? This is coming... ahhh! Ughhhhh! Ah!"[pcms]
 
 *15009|
@@ -886,7 +886,7 @@ mmmh... chuuu!!"[pcms]
 *15014|
 [fc]
 [vo_hay s="hayami0571"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Ah! Ah! Ahh! No, no!! I can't take it anymore! Ah--!? I'm[r]
 falling!! Nooooo!!"[pcms]
 
@@ -952,7 +952,7 @@ like me and began to lie down beside me.[pcms]
 *15021|
 [fc]
 [vo_hay s="hayami0573"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Haahh..., what are you doing? Nagasaki-san..."[pcms]
 
 *15022|

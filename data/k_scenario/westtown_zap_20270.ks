@@ -76,7 +76,7 @@ Nagasaki was waiting outside.[pcms]
 *14766|
 [fc]
 [vo_hay s="hayami0512"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Um... I've washed... Thank you for keeping watch..."[pcms]
 
 [ChrSetEx layer=4 chbase="naga_n05"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -218,7 +218,7 @@ suddenly I feel very lonely.[pcms]
 *14790|
 [fc]
 [vo_hay s="hayami0515"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Sigh..."[pcms]
 ;//ÅùÇΩÇﬂëß
 
@@ -253,7 +253,7 @@ The owner of the voice was Ms. Nagasaki.[pcms]
 *14796|
 [fc]
 [vo_hay s="hayami0517"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "It's over...? What did you do to that old man...!? Could it[r]
 be..."[pcms]
 
@@ -612,7 +612,7 @@ the way I came towards Ms. Nagasaki.[pcms]
 *14850|
 [fc]
 [vo_hay s="hayami0530"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Haah... Haah... Ms. Nagasaki!?"[pcms]
 
 *14851|
@@ -656,7 +656,7 @@ fufufu...!"[pcms]
 *14856|
 [fc]
 [vo_hay s="hayami0532"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Eh...!? What are you talking about...? Mmm! Mmph!!"[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
@@ -669,7 +669,7 @@ embraced me, her body, they were strangely hot.[pcms]
 *14858|
 [fc]
 [vo_hay s="hayami0533"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Mmm... Mmm!! Puaah! Ms. Nagasaki... What are you doing all[r]
 of a sudden!! Stop joking around! More weird people might[r]
 come!!"[pcms]

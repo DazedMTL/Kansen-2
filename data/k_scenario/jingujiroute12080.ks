@@ -33,7 +33,7 @@ easier, so I stopped crouching and stood up.[pcms]
 
 *4850|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Huh...?"[pcms]
 
 *4851|
@@ -98,7 +98,7 @@ understanding and cooperation."[pcms]
 
 *4859|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Third floor West Gate... is that the place with the[r]
 walkway?"[pcms]
 
@@ -116,7 +116,7 @@ open.[pcms]
 
 *4861|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "The shutter's open...!"[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
@@ -146,7 +146,7 @@ groans and footsteps.[pcms]
 
 *4865|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Let's go!"[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
@@ -199,7 +199,7 @@ mouth, I want your pussy~..."[pcms]
 
 *4872|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "..."[pcms]
 
 *4873|
@@ -248,7 +248,7 @@ banging on the shutter.[pcms]
 
 *4880|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "..."[pcms]
 
 *4881|
@@ -264,7 +264,7 @@ thought about saving you...[pcms]
 
 *4883|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "...After I save Hayami, I'll come back with a rescue team,[r]
 so wait for me until then."[pcms]
 
@@ -307,7 +307,7 @@ escalator.[pcms]
 
 *4886|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Huh? This girl..."[pcms]
 
 *4887|
@@ -340,7 +340,7 @@ in her back or stomach either.[pcms]
 
 *4892|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Is she dead...?"[pcms]
 
 *4893|
@@ -380,7 +380,7 @@ We need to hurry...[pcms]
 
 *4900|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Let's go."[pcms]
 
 *4901|

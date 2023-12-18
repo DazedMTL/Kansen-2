@@ -54,7 +54,7 @@ on.[pcms]
 
 *11131|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Damn it... What's going on... Exactly!"[pcms]
 
 *11132|
@@ -72,7 +72,7 @@ battery.[pcms]
 
 *11134|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Can't be helped..."[pcms]
 
 *11135|

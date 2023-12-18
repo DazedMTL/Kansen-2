@@ -56,7 +56,7 @@ Heyyy~... It's okay, right...?"[pcms]
 
 *9380|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Uwaa!! Stop it!! Let go!!"[pcms]
 
 ;èÍèä<ImageFade 6,60,OFF,OFF>
@@ -70,7 +70,7 @@ you want~...! Come on~... Ahhhn...ÅÙ"[pcms]
 
 *9382|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Let go of me, damn it...!! Ughh!!"[pcms]
 
 *9383|
@@ -94,7 +94,7 @@ to slurp and suck it~...!!"[pcms]
 
 *9386|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Stop it...!!"[pcms]
 
 *9387|
@@ -118,7 +118,7 @@ her cheek against my exposed dick.[pcms]
 
 *9390|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Stop... Stop it...!!"[pcms]
 
 *9391|
@@ -147,7 +147,7 @@ breathing heavily.[pcms]
 
 *9395|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "!!"[pcms]
 
 *9396|
@@ -180,7 +180,7 @@ If they lick me... The virus... It could spread...!![pcms]
 
 *9402|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "No, stop it!! Get away from meee!!"[pcms]
 
 
@@ -216,7 +216,7 @@ balls, giving my dick unwanted stimulation.[pcms]
 
 *9407|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Stop it aaaaahhhhhhh!!!"[pcms]
 
 *9408|
@@ -231,7 +231,7 @@ This is bad...!! It could spread...!! I could get sick...!![pcms]
 
 *9410|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Stop it!! Get off me you bastards!! Stop it[r]
 aaaaahhhhhhh!!!"[pcms]
 
@@ -285,7 +285,7 @@ finger and tongue.[pcms]
 
 *9419|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Uwahh!! Stop it, you bastards...!!"[pcms]
 
 *9420|
@@ -296,7 +296,7 @@ eyes.[pcms]
 
 *9421|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Stop it... You bastards, I'll kill you if you don't stop!!"[pcms]
 
 *9422|
@@ -307,7 +307,7 @@ eyes.[pcms]
 
 *9423|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Guahh!! Uwaaaahhhhhhh!!!"[pcms]
 
 *9424|
@@ -323,7 +323,7 @@ as I gasped for air.[pcms]
 
 *9426|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Gaha...! Ha...! Haa...!"[pcms]
 
 *9427|
@@ -353,7 +353,7 @@ ignoring my will, my dick suddenly leaked semen.[pcms]
 
 *9431|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Uwah...ah...!!"[pcms]
 
 *9432|
@@ -416,7 +416,7 @@ good~? Let out all your semen~...!"[pcms]
 
 *9442|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Haguuh!! Oah!! Agaah!!"[pcms]
 
 *9443|
@@ -437,7 +437,7 @@ couldn't escape.[pcms]
 
 *9446|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Guahh!! Fuh, fuhah!! Agaah!!"[pcms]
 
 *9447|
@@ -467,7 +467,7 @@ left, right.[pcms]
 
 *9451|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Gu, fuuh!! Uwahh!! Hah, gahh!!"[pcms]
 
 *9452|
@@ -485,7 +485,7 @@ cum~? Your cock is going to cum~...?"[pcms]
 
 *9454|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Oahh!! Ohh, guh, nuohh!!"[pcms]
 
 *9455|
@@ -497,7 +497,7 @@ torture; my dick easily surpassed its limit again.[pcms]
 
 *9456|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Nguuhh!! Guhh, nuuuhh!!"[pcms]
 
 *9457|
@@ -538,7 +538,7 @@ stop giving me pleasure.[pcms]
 
 *9463|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Stop...stop it...!"[pcms]
 
 *9464|
@@ -549,7 +549,7 @@ stop giving me pleasure.[pcms]
 
 *9465|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Ha, guh...!! Nguuuhh!!"[pcms]
 
 *9466|
@@ -587,7 +587,7 @@ Hayami... I can't save you anymore. I'm sorry...[pcms]
 
 *9472|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Nguuuuuuuuuuuuuuuh!!!!!"[pcms]
 
 ;//whiteEOUT

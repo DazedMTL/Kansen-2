@@ -38,7 +38,7 @@ towards another staircase.[pcms]
 
 *11232|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "I'm going to close the shutter over there!!"[pcms]
 
 [ChrSetEx layer=4 chbase="koba_n04"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -138,7 +138,7 @@ stopped a few steps away.[pcms]
 
 *11245|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Hey! Get inside!"[pcms]
 
 *11246|
@@ -155,7 +155,7 @@ lining up beside the young lady.[pcms]
 
 *11248|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "What's going on... Hurry up before those guys get in...!"[pcms]
 
 [ChrSetEx layer=4 chbase="koba_n03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -168,7 +168,7 @@ lining up beside the young lady.[pcms]
 
 *11250|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "...?"[pcms]
 
 *11251|
@@ -185,7 +185,7 @@ repeatedly closing and opening.[pcms]
 
 *11253|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "A person...?"[pcms]
 
 *11254|
@@ -216,7 +216,7 @@ clothing wandering nearby, heading towards us.[pcms]
 
 *11258|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Hey! Get inside now!!"[pcms]
 
 *11259|
@@ -243,7 +243,7 @@ on the ground.[pcms]
 
 *11263|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "An arm..."[pcms]
 
 *11264|
@@ -267,7 +267,7 @@ at him.[pcms]
 
 *11267|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "!!"[pcms]
 
 *11268|
@@ -278,7 +278,7 @@ around, wrinkled its nose, and bared its teeth at me.[pcms]
 
 *11269|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Grr...!"[pcms]
 
 *11270|
@@ -296,7 +296,7 @@ something, that girl will be in danger...![pcms]
 
 *11272|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Grandfather...?"[pcms]
 
 *11273|
@@ -456,7 +456,7 @@ torso, the husky let out a small bark before running inside.[pcms]
 
 *11299|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "I'm closing it!!"[pcms]
 
 *11300|
@@ -474,7 +474,7 @@ the shutter closed completely with a loud noise.[pcms]
 
 *11302|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Haa..."[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_f02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -522,7 +522,7 @@ in the same town as me... The lady of that big house...[pcms]
 
 *11311|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "For now, let's go back downstairs."[pcms]
 
 [ChrSetEx layer=4 chbase="koba_n05"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]

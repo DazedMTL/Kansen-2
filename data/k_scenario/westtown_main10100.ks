@@ -100,7 +100,7 @@ body, I felt a chill down my spine.[pcms]
 
 *10479|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "This way! Run!!"[pcms]
 
 [cutin_int][trans_c cross time=300]

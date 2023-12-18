@@ -28,7 +28,7 @@
 
 *6661|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Sleepy..."[pcms]
 
 ;êŠ<ImageFade 6,60,OFF,OFF>

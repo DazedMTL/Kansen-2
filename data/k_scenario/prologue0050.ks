@@ -38,7 +38,7 @@ to try it."[pcms]
 
 *6604|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Geez. It's always you who..."[pcms]
 
 [chara_int_ layer=4][chara_int_ layer=2][chara_int_ layer=3]
@@ -95,7 +95,7 @@ and they both exclaimed in awe."[pcms]
 *6610|
 [fc]
 [vo_hay s="hayami0046"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "It's a Husky, how cute~ÅÙ"[pcms]
 
 *6611|
@@ -124,7 +124,7 @@ there."[pcms]
 
 *6614|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Seems like it. I saw her in front of that house the other[r]
 day. She got out of a really fancy car."[pcms]
 
@@ -138,7 +138,7 @@ day. She got out of a really fancy car."[pcms]
 
 *6616|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Can't help but be curious, right? She's so cute and all.[r]
 She has this quiet vibe... I'd like to date a girl like that[r]
 just once."[pcms]
@@ -153,7 +153,7 @@ just once."[pcms]
 
 *6618|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "That type? That's rude to her. She's out of your league,[r]
 you know?"[pcms]
 
@@ -162,7 +162,7 @@ you know?"[pcms]
 *6619|
 [fc]
 [vo_hay s="hayami0048"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Oh really. Then us commoners will take our leave first.[r]
 Let's go, Yuuki."[pcms]
 

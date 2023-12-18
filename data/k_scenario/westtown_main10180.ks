@@ -23,7 +23,7 @@
 
 *10753|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Yuuki! Let's go!!"[pcms]
 
 *10754|
@@ -76,7 +76,7 @@ the long corridor towards the restrooms.[pcms]
 
 *10761|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Hey, Yuuki! We're going too."[pcms]
 
 [ChrSetEx layer=4 chbase="koba_n09"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -89,7 +89,7 @@ the long corridor towards the restrooms.[pcms]
 
 *10763|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Are you really okay?"[pcms]
 
 [ChrSetEx layer=4 chbase="koba_n02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -153,7 +153,7 @@ was up.[pcms]
 
 *10770|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "...?"[pcms]
 
 [ChrSetEx layer=3 chbase="jinguji_n01"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
@@ -188,7 +188,7 @@ do and is crying, we have to help them...[pcms]
 
 *10776|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "I wonder... I'll go check it out."[pcms]
 
 [ChrSetEx layer=2 chbase="anza_n05"][ChrSetXY layer=2 x=0 y=0][trans_c cross time=150]
@@ -202,7 +202,7 @@ situation for a man to handle."[pcms]
 
 *10778|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "But if there are some crazy people inside..."[pcms]
 
 [ChrSetEx layer=2 chbase="anza_n01"][ChrSetXY layer=2 x=0 y=0][trans_c cross time=150]
@@ -217,7 +217,7 @@ help me."[pcms]
 
 *10780|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Okay..."[pcms]
 
 [chara_int_ layer=2][chara_int_ layer=3][trans_c cross time=150]

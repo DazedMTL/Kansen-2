@@ -75,7 +75,7 @@ at the ceiling with their mouths open.[pcms]
 
 *1000|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Huh? What's up old man, you haven't thought of anything?![r]
 If you've got a knife, go do it yourself!"[pcms]
 
@@ -90,7 +90,7 @@ If you've got a knife, go do it yourself!"[pcms]
 
 *1002|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Yuuki...what are you doing?"[pcms]
 
 *1003|
@@ -110,7 +110,7 @@ something..."[pcms]
 
 *1005|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Ha...?"[pcms]
 
 [ChrSetEx layer=4 chbase="sugo_n08"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -132,7 +132,7 @@ lost, idiots!"[pcms]
 
 *1008|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "We're not your underlings! First of all, what did those[r]
 guys even do?!"[pcms]
 
@@ -149,7 +149,7 @@ Strange..."[pcms]
 
 *1010|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "..."[pcms]
 
 *1011|
@@ -173,7 +173,7 @@ your fault!! Oraa!!"[pcms]
 
 *1013|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "...!?"[pcms]
 
 *1014|
@@ -247,7 +247,7 @@ man was at a far greater disadvantage than me.[pcms]
 
 *1025|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "This damn old man!! Getting cocky just because I kept[r]
 quiet!!"[pcms]
 
@@ -274,7 +274,7 @@ it hit the floor and made a loud dent around it.[pcms]
 
 *1028|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Heh!!"[pcms]
 
 ;//★ホワイトフラッシュ
@@ -308,7 +308,7 @@ I definitely can't bring myself to be a murderer.[pcms]
 
 *1032|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Old man... if you get too carried away again, next time I[r]
 might seriously kill you...!"[pcms]
 
@@ -322,7 +322,7 @@ might seriously kill you...!"[pcms]
 
 *1034|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "...Don't call me a villain!! Hey old man... if you do[r]
 something weird again, I'll crack your head open, got it?!"[pcms]
 
@@ -379,7 +379,7 @@ sense, I have no idea what we came here for...[pcms]
 
 *1044|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "...Enough already! Let's go to where Hayami and the others[r]
 are!!"[pcms]
 
@@ -394,7 +394,7 @@ with me?"[pcms]
 
 *1046|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "I said we're done here!"[pcms]
 
 ;//BLACKOUT

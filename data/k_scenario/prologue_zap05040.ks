@@ -107,7 +107,7 @@ touristy mood...[pcms]
 *8007|
 [fc]
 [vo_kob s="koba0073"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Yuuki, there's nothing as nice as glass beads in there,[r]
 right? For Hiroshi's eyes"[pcms]
 ;//˜^‚é•K—v–³‚µiƒuƒƒbƒN‚O‚P‚R‚Q‚O‚Ì‚à‚Ì‚ğ—¬—pj
@@ -123,7 +123,7 @@ like her...[pcms]
 *8009|
 [fc]
 [vo_hay s="hayami0089"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Hollow~ô"[pcms]
 ;//˜^‚é•K—v–³‚µiƒuƒƒbƒN‚O‚P‚R‚Q‚O‚Ì‚à‚Ì‚ğ—¬—pj
 
@@ -131,7 +131,7 @@ like her...[pcms]
 
 *8010|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Don't you say that!! I heard from Minako on the bus[r]
 earlier! You got a red mark in Classical Literature, didn't[r]
 you!!"[pcms]

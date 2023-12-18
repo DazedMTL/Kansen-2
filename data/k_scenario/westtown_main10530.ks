@@ -35,7 +35,7 @@ when I had heard them before.[pcms]
 
 *12393|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Phew..."[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
@@ -48,7 +48,7 @@ on the handle of the shovel.[pcms]
 
 *12395|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Alright...!!"[pcms]
 
 [ChrSetEx layer=4 chbase="etc03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -61,7 +61,7 @@ shovel.[pcms]
 
 *12397|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Uraaah!!!!!"[pcms]
 
 ;//SE：打撃音（？）
@@ -131,7 +131,7 @@ advanced.[pcms]
 
 *12405|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "You bastard...!!"[pcms]
 
 [ChrSetEx layer=4 chbase="etc04"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -154,7 +154,7 @@ advanced.[pcms]
 
 *12407|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Out of the way, you crazy bastard!!"[pcms]
 
 [ChrSetEx layer=4 chbase="etc02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]

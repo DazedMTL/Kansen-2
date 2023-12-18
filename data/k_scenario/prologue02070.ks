@@ -55,7 +55,7 @@ beyond, there were two large buildings...[pcms]
 
 *7372|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 It's the shopping mall... That place might be safe...[pcms]
 
 [ChrSetEx layer=4 chbase="koba_n04"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -69,7 +69,7 @@ it's designated as an evacuation site in case of disasters![pcms]
 
 *7374|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 Alright...!![pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
@@ -92,7 +92,7 @@ district and bearing down on us.[pcms]
 
 *7377|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 Damn it! What the hell are these guys!![pcms]
 
 *7378|
@@ -113,7 +113,7 @@ Woof!! Woof woof!![pcms]
 
 *7381|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 What the!?[pcms]
 
 *7382|
@@ -141,7 +141,7 @@ Hey, have you ever seen this Siberian Husky before...?[pcms]
 
 *7386|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 No... Huskies are everywhere, aren't they?[pcms]
 
 *7387|
@@ -202,7 +202,7 @@ something...[pcms]
 
 *7395|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 Ah! Could it be the dog of the person who collapsed in the[r]
 park!?[pcms]
 
@@ -241,7 +241,7 @@ Husky.[pcms]
 
 *7398|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 This dog is...![pcms]
 
 *7399|
@@ -285,7 +285,7 @@ Why is she here...? Was she on a training journey too...?[pcms]
 
 *7406|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 Eh?[pcms]
 
 *7407|
@@ -329,7 +329,7 @@ Of course... It's not a situation for jokes right now...[pcms]
 
 *7414|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 ...Hey, do you know anything? Why is this shopping district[r]
 destroyed? Why are there so many crazed people wandering[r]
 around?[pcms]
@@ -361,7 +361,7 @@ think."[pcms]
 *7419|
 [fc]
 [vo_hay s="hayami0126"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "But..."[pcms]
 
 *7420|
@@ -394,7 +394,7 @@ people was already very close.[pcms]
 
 *7423|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Tch..."[pcms]
 
 *7424|
@@ -441,7 +441,7 @@ I grabbed her arm, trying to get her to stand up.[pcms]
 
 *7431|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Let's just get out of here! You're coming with us!"[pcms]
 
 *7432|
@@ -458,7 +458,7 @@ stand up.[pcms]
 
 *7434|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Just come on!!"[pcms]
 
 *7435|

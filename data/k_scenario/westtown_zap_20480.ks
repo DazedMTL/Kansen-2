@@ -67,7 +67,7 @@ take good care of you from now on, so rest easy!"[pcms]
 *16466|
 [fc]
 [vo_hay s="hayami0640"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Noooooo!"[pcms]
 
 ;//★レッドフラッシュ
@@ -126,7 +126,7 @@ Gyahaha!"[pcms]
 *16476|
 [fc]
 [vo_hay s="hayami0641"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Hii... do... don't come near me!!"[pcms]
 
 *16477|
@@ -180,7 +180,7 @@ san, who had run away from me earlier, walking unsteadily.[pcms]
 *16485|
 [fc]
 [vo_hay s="hayami0643"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Naga..."[pcms]
 ;//◎長崎と言いかけて、止める
 
@@ -199,7 +199,7 @@ A dull sound echoed through the spacious hall.[pcms]
 *16488|
 [fc]
 [vo_hay s="hayami0644"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "...!! Na! Na... Nagasaki-san...!? Nagasaki-san!![r]
 Kyaaaahhhhh!"[pcms]
 
@@ -287,7 +287,7 @@ were now climbing up the escalator towards me.[pcms]
 *16502|
 [fc]
 [vo_hay s="hayami0648"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Yaaah!! Why is this happening!! Noooo!"[pcms]
 
 *16503|
@@ -319,7 +319,7 @@ button over and over.[pcms]
 *16508|
 [fc]
 [vo_hay s="hayami0650"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Hah... haaah...! Quickly! Quickly!!"[pcms]
 
 *16509|

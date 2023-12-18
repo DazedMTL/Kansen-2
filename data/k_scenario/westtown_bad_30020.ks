@@ -58,7 +58,7 @@ staircase...!?[pcms]
 
 *8607|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Eh, ah, oh..."[pcms]
 
 [chara_int_ layer=2][chara_int_ layer=3][trans_c cross time=150]
@@ -83,7 +83,7 @@ and started to run as urged.[pcms]
 
 *8611|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Ohh!!"[pcms]
 
 [chara_int][trans_c cross time=150]
@@ -96,7 +96,7 @@ back, and I fell to the floor with her.[pcms]
 
 *8613|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Ouch...!"[pcms]
 
 ;//ÅóóßÇøäGÇæÇ≥Ç»Ç¢
@@ -134,7 +134,7 @@ young lady's ass while grinning.[pcms]
 
 *8619|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "You bastard...!!"[pcms]
 
 *8620|
@@ -148,7 +148,7 @@ slam into my chin.[pcms]
 
 *8621|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Gah...!!"[pcms]
 
 *8622|
@@ -159,7 +159,7 @@ I had been punched by the crazy guy nearby.[pcms]
 
 *8623|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Guh, kuh...!!"[pcms]
 
 *8624|
@@ -182,7 +182,7 @@ My body... won't listen to me... What's happening here...![pcms]
 
 *8627|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Yuu...!"[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
@@ -717,7 +717,7 @@ their lips as they look down at themselves.[pcms]
 
 *8713|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Kuh...!!"[pcms]
 
 ;//[]BGï\é¶
@@ -749,7 +749,7 @@ not...!![pcms]
 
 *8717|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Yuuki...!"[pcms]
 
 *8718|
@@ -915,7 +915,7 @@ Dammit, move...! Move...!![pcms]
 
 *8746|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Kuuh...!!"[pcms]
 
 *8747|
@@ -1423,7 +1423,7 @@ No way... They couldn't be doing that to Yuu...![pcms]
 
 *8829|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Stop it, you bastards... Guwaaaah!!"[pcms]
 
 *8830|
@@ -1434,7 +1434,7 @@ felt a biting sensation all over my body.[pcms]
 
 *8831|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Aguwaaah!! Stop... it...!!"[pcms]
 
 *8832|
@@ -1444,7 +1444,7 @@ above by a crazed man who bit into my neck.[pcms]
 
 *8833|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Gah, haaah...!!"[pcms]
 
 *8834|
@@ -1455,7 +1455,7 @@ deeper into my throat.[pcms]
 
 *8835|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Gubwahh!!"[pcms]
 
 *8836|
@@ -1465,7 +1465,7 @@ large spray of red splashed into my field of vision.[pcms]
 
 *8837|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Kahyuh... Bushururuh..."[pcms]
 
 *8838|
@@ -1485,7 +1485,7 @@ to push back the crazed man.[pcms]
 
 *8841|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Hyuh... Hyuuuh..."[pcms]
 
 *8842|

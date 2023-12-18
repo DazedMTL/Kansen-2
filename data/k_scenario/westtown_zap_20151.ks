@@ -135,7 +135,7 @@ this guy down from there!!"[pcms]
 *13542|
 [fc]
 [vo_hay s="hayami0326"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Eh...!?"[pcms]
 
 *13543|
@@ -204,7 +204,7 @@ his weight.[pcms]
 *13552|
 [fc]
 [vo_hay s="hayami0327"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Nooo!!"[pcms]
 
 ;//SE:êlÇâ£ÇÈ

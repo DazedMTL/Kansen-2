@@ -49,7 +49,7 @@
 *6799|
 [fc]
 [vo_hay s="hayami0074"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Finally arrived~! Mmm, the air feels different here!"[pcms]
 
 *6800|
@@ -84,7 +84,7 @@ least 10 minutes before that! Got it?!"[pcms]
 
 *6804|
 [fc]
-[ns]Ookura Hiroshi - Male
+[ns]Ookura - Male
 Hayami Arisu - Female
 Jinguuji Maya - Female
 Kobayashi Yuuki - Female
@@ -103,7 +103,7 @@ It's 16:00 now... Less than two hours left...[pcms]
 
 *6806|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "We don't have much time, so let's get going quickly."[pcms]
 
 *6807|
@@ -114,7 +114,7 @@ It's 16:00 now... Less than two hours left...[pcms]
 
 *6808|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Obviously, we're going to a maid caf."[pcms]
 
 [ChrSetEx layer=2 chbase="koba_n12"][ChrSetXY layer=2 x=0 y=0]
@@ -128,7 +128,7 @@ It's 16:00 now... Less than two hours left...[pcms]
 
 *6810|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "No, it's gotta be the maid caf."[pcms]
 
 [ChrSetEx layer=2 chbase="koba_n03"][ChrSetXY layer=2 x=0 y=0][trans_c cross time=150]

@@ -48,7 +48,7 @@ and Hayami.[pcms]
 
 *4972|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Hayami, I'll apologize as much as you want later, but[r]
 please, just bear with it for now. If we go to the hospital[r]
 right away, you might still be saved, okay?"[pcms]
@@ -79,7 +79,7 @@ waited for youuu~..."[pcms]
 
 *4977|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Hayami, please... I'll give you as many snacks as you want![r]
 So let's go to the hospital...!"[pcms]
 
@@ -137,7 +137,7 @@ crawling.[pcms]
 *4984|
 [fc]
 [vo_hay s="hayami0690"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Uh... uhh..."[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
@@ -164,7 +164,7 @@ come back here with them and save these people...[pcms]
 *4989|
 [fc]
 [vo_hay s="hayami0691"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "You have no right... why are you with Hiroshi...? Leave[r]
 Hiroshi aloneee~...!!"[pcms]
 
@@ -219,7 +219,7 @@ If she scratches us, we might end up crazy too...![pcms]
 
 *4997|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Damn...!"[pcms]
 
 *4998|

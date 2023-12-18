@@ -58,7 +58,7 @@ First, I have to save Yuu and the others...[pcms]
 
 *8326|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Uoooooooh!"[pcms]
 
 *8327|
@@ -77,7 +77,7 @@ charged in fiercely.[pcms]
 
 *8329|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Eh...!? Guah!"[pcms]
 
 ;//ÅöÇrÇdÅFêlÇâ£ÇÈ
@@ -103,7 +103,7 @@ swinging his bulging-veined arm.[pcms]
 
 *8333|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Tch...!"[pcms]
 
 *8334|
@@ -130,7 +130,7 @@ no matter what...![pcms]
 
 *8338|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Guh...!"[pcms]
 
 *8339|
@@ -367,7 +367,7 @@ and back, tears streaming down her face.[pcms]
 
 *8376|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Damn it...!"[pcms]
 
 *8377|
@@ -539,7 +539,7 @@ screaming, is there no end in sight?[pcms]
 
 *8406|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "!!"[pcms]
 
 *8407|
@@ -554,7 +554,7 @@ been resting, but it seems I've recovered somewhat.[pcms]
 
 *8409|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "...Alright!"[pcms]
 
 *8410|
@@ -569,7 +569,7 @@ But in that instant...[pcms]
 
 *8412|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Gyaaaaaaah!"[pcms]
 
 [cutin storage="cut007"][trans_c cross time=500]
@@ -597,7 +597,7 @@ notice the man who came from behind at all.[pcms]
 
 *8417|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Guuaaaah!"[pcms]
 
 *8418|
@@ -612,7 +612,7 @@ thinking this, my body isn't responding.[pcms]
 
 *8420|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Uwaaaaaah"[pcms]
 
 *8421|
@@ -692,7 +692,7 @@ But...[pcms]
 
 *8435|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "!!"[pcms]
 
 *8436|
@@ -868,7 +868,7 @@ face again. She is clearly seeking help from me. But...[pcms]
 
 *8467|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Guuh...!"[pcms]
 
 *8468|
@@ -893,7 +893,7 @@ once more.[pcms]
 
 *8471|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "...!"[pcms]
 
 *8472|
@@ -1527,7 +1527,7 @@ of pleasure in her voice.[pcms]
 
 *8585|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "..."[pcms]
 
 *8586|
@@ -1576,7 +1576,7 @@ pleasure.[pcms]
 
 *8594|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "..."[pcms]
 
 *8595|

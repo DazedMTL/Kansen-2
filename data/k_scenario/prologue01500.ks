@@ -52,7 +52,7 @@ through the air.[pcms]
 
 *6934|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Entrance means the front door, right? How huge is this[r]
 house..."[pcms]
 
@@ -171,7 +171,7 @@ externally and internally.[pcms]
 
 *6951|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Is the reason why the plaza in front is so spacious because[r]
 this place is an evacuation area?"[pcms]
 
@@ -187,7 +187,7 @@ sharp today."[pcms]
 
 *6953|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "..."[pcms]
 
 [ChrSetEx layer=2 chbase="koba_n11"][ChrSetXY layer=2 x=0 y=0]
@@ -210,7 +210,7 @@ without taking her eyes off the pamphlet.[pcms]
 *6956|
 [fc]
 [vo_hay s="hayami0100"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Hey hey hey, since we're here, why don't we go to the[r]
 observation deck?"[pcms]
 
@@ -222,7 +222,7 @@ Observation Deck" marked on their rooftops.[pcms]
 
 *6958|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Does having one on both sides mean that the view must be[r]
 really good?"[pcms]
 
@@ -237,7 +237,7 @@ through that after such a long time!"[pcms]
 
 *6960|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Observation deck, huh..."[pcms]
 
 *6961|
@@ -257,7 +257,7 @@ mall as I did when she said "since we're here."[pcms]
 
 *6964|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Don't you want to see something? Yuuki. You were so eager[r]
 to come here."[pcms]
 
@@ -276,7 +276,7 @@ Yuuki was thinking the same thing as me.[pcms]
 
 *6967|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Then let's go check out the observation deck."[pcms]
 
 [chara_int_ layer=2][chara_int_ layer=3][trans_c cross time=150]

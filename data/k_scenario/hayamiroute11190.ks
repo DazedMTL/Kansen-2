@@ -26,7 +26,7 @@
 
 *4077|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "...Hayami, let's go."[pcms]
 
 [ChrSetEx layer=4 chbase="hayami_t05"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -41,7 +41,7 @@
 
 *4079|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "There's a slope on the other side that cars use to descend.[r]
 We'll use that to get out of this building."[pcms]
 
@@ -54,7 +54,7 @@ behind various cars along the way.[pcms]
 *4081|
 [fc]
 [vo_hay s="hayami0886"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Wait a minute, what about Yuuki?"[pcms]
 ;//Åùè¨ê∫
 
@@ -72,14 +72,14 @@ stopped.[pcms]
 
 *4084|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "...Earlier, I saw some vehicles on the road that could be[r]
 seen from here. I think they were probably the Self-Defense[r]
 Forces."[pcms]
 
 *4085|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "So, for now, we need to get out of here, report that Yuu[r]
 and the others are in the building across the way, and get[r]
 help from the Self-Defense Forces."[pcms]
@@ -87,33 +87,33 @@ help from the Self-Defense Forces."[pcms]
 *4086|
 [fc]
 [vo_hay s="hayami0888"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "But..."[pcms]
 
 *4087|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "I really want to regroup with Yuu and the others and escape[r]
 together, but I don't know if the shutters in the connecting[r]
 corridor are open."[pcms]
 
 *4088|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "If we get to the connecting corridor and the shutters there[r]
 aren't open, we'll have no choice but to wait somewhere[r]
 until they are."[pcms]
 
 *4089|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "If we get attacked by those crazies while waiting, then all[r]
 the help I got from Yuu and others to save you would have[r]
 been for nothing."[pcms]
 
 *4090|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "So let's get out of here now. If we dawdle, the Self-[r]
 Defense Forces might leave, and then we really won't be able[r]
 to save Yuu."[pcms]
@@ -127,7 +127,7 @@ to save Yuu."[pcms]
 
 *4092|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Don't worry, I'm sure Yuu will be saved too. Okay?"[pcms]
 
 *4093|
@@ -160,7 +160,7 @@ slope and somehow managed to reach the ground.[pcms]
 
 *4095|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Are you okay? Hang in there, it's just a little further!"[pcms]
 
 ;èÍèä<ImageFade 6,60,OFF,OFF>
@@ -198,7 +198,7 @@ I had seen from the rooftop.[pcms]
 
 *4098|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "There it is, that's it!! Hey Hayami, we're almost there!"[pcms]
 
 ;èÍèä<ImageFade 6,60,OFF,OFF>
@@ -211,7 +211,7 @@ sight.[pcms]
 
 *4100|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Let's go Hayami, we need to hurry or it'll leave!"[pcms]
 
 *4101|
@@ -222,7 +222,7 @@ sight.[pcms]
 
 *4102|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Hold on tight, it's just a bit more."[pcms]
 
 *4103|
@@ -244,7 +244,7 @@ the Self-Defense Forces...[pcms]
 
 *4106|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "...Alright, then get on my back."[pcms]
 
 *4107|
@@ -260,7 +260,7 @@ my back and crouched down.[pcms]
 
 *4109|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Just get on. I will definitely save you."[pcms]
 
 *4110|
@@ -277,7 +277,7 @@ Defense Forces.[pcms]
 
 *4112|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Make sure you hold on tight!!"[pcms]
 
 *4113|
@@ -311,7 +311,7 @@ earlier.[pcms]
 
 *4114|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "HEY!! Wait!! Please help us!!"[pcms]
 
 *4115|
@@ -338,7 +338,7 @@ pointed a gun at us, and I hurriedly braked with my feet.[pcms]
 
 *4118|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Wait... Hah... Hah... We're not sick... Hah... Hah..."[pcms]
 
 ;mm í«â¡ èeâ∫ÇÎÇµÇ»Ç¢Ç©ÇÁè¡Çµ
@@ -356,7 +356,7 @@ from us towards the ground.[pcms]
 
 *4121|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Ah, yes, well, my friends... and some acquaintances are[r]
 still in that shopping mall. Please help them!"[pcms]
 
@@ -389,13 +389,13 @@ lowered the fence of the cargo bed, pulling back the tarp.[pcms]
 
 *4127|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Ah, yes. Hayami, let's go."[pcms]
 
 *4128|
 [fc]
 [vo_hay s="hayami0896"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Yeah..."[pcms]
 
 *4129|

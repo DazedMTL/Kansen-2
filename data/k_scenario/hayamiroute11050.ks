@@ -24,7 +24,7 @@
 
 *3077|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Hayami! If you're there, answer me!! Hayami!!"[pcms]
 
 *3078|
@@ -48,7 +48,7 @@ name loudly.[pcms]
 
 *3079|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Hayami!! Are you not here!? Hayami!!"[pcms]
 
 *3080|
@@ -74,7 +74,7 @@ pushing them away with a shovel and knocking them down.[pcms]
 
 *3081|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Is she not on this floor...? Hayami! Hayami!!"[pcms]
 
 *3082|
@@ -99,7 +99,7 @@ found her.[pcms]
 
 *3083|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Damn, she's not here..."[pcms]
 
 *3084|
@@ -135,7 +135,7 @@ I need to hurry...!![pcms]
 
 *3090|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "...For now, let's try going up."[pcms]
 
 *3091|

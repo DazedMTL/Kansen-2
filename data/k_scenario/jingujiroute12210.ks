@@ -26,7 +26,7 @@
 
 *5410|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "！？"[pcms]
 
 ;//[]BG表示
@@ -43,7 +43,7 @@
 
 *5411|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "What the...!?"[pcms]
 
 *5412|
@@ -68,7 +68,7 @@ exploding, and I hurriedly looked around.[pcms]
 
 *5415|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Maya-chan! We have to escape!!"[pcms]
 
 *5416|
@@ -79,7 +79,7 @@ a faint smile.[pcms]
 
 *5417|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Maya-chan, that..."[pcms]
 
 ;//♪：bgm009
@@ -105,7 +105,7 @@ someone.[pcms]
 
 *5421|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Hmm...?"[pcms]
 
 *5422|
@@ -120,7 +120,7 @@ body were transmitted to me.[pcms]
 
 *5424|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "What's wrong...?"[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_a09"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -132,7 +132,7 @@ body were transmitted to me.[pcms]
 
 *5426|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Eh?"[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_a04"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -144,7 +144,7 @@ body were transmitted to me.[pcms]
 
 *5428|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Of course. Maya-chan is my precious friend."[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_a02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -169,7 +169,7 @@ around my back.[pcms]
 
 *5432|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Yeah, I understand... I'll also be by Maya-chan's side..."[pcms]
 
 *5433|
@@ -210,7 +210,7 @@ outside seemed irrelevant.[pcms]
 
 *5439|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Maya-chan..."[pcms]
 
 
@@ -254,7 +254,7 @@ overlapped with hers.[pcms]
 
 *5442|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Ha, nnh..."[pcms]
 
 [evcg storage="HEV110a"][trans_c cross time=301]
@@ -288,7 +288,7 @@ visible under the torn clothes.[pcms]
 
 *5447|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "They're hidden..."[pcms]
 
 *5448|
@@ -314,7 +314,7 @@ body occasionally trembled slightly.[pcms]
 
 *5451|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Your voice is cute..."[pcms]
 
 [evcg storage="HEV111a"][trans_c cross time=301]
@@ -361,7 +361,7 @@ breasts...![pcms]
 
 *5459|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Hehe..."[pcms]
 
 *5460|
@@ -384,7 +384,7 @@ into my mouth.[pcms]
 
 *5463|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Hah...heh...nm, chu..."[pcms]
 
 *5464|
@@ -417,7 +417,7 @@ being played with.[pcms]
 
 *5469|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Why...? You don't like it...?"[pcms]
 
 *5470|
@@ -428,7 +428,7 @@ being played with.[pcms]
 
 *5471|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "No, you're cute..."[pcms]
 
 *5472|
@@ -449,7 +449,7 @@ and lifting it, showing her.[pcms]
 
 *5475|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Nn, nnn~..."[pcms]
 
 *5476|
@@ -460,7 +460,7 @@ and lifting it, showing her.[pcms]
 
 *5477|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Fuhah..."[pcms]
 
 *5478|
@@ -470,7 +470,7 @@ mouth and licked around the nipple inside.[pcms]
 
 *5479|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Nn, chu...nm...nnn...chap..."[pcms]
 
 *5480|
@@ -491,7 +491,7 @@ hard, and the tip was wet and sticky with pre-cum.[pcms]
 
 *5483|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Haah...Haah..."[pcms]
 
 *5484|
@@ -522,7 +522,7 @@ making the skin underneath visible through them.[pcms]
 
 *5489|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "..."[pcms]
 
 *5490|
@@ -551,7 +551,7 @@ what to do next, I turned my gaze to Maya-chan.[pcms]
 
 *5495|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Ah, yeah, sure..."[pcms]
 
 *5496|
@@ -623,7 +623,7 @@ cock soon.[pcms]
 
 *5508|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Ah, I understand...I'm putting it in now...!"[pcms]
 
 *5509|
@@ -633,7 +633,7 @@ cock against her pussy, she took a small breath.[pcms]
 
 *5510|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "I understand... I understand...!"[pcms]
 
 *5511|
@@ -666,7 +666,7 @@ made my head go blank with pleasure.[pcms]
 
 *5516|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Haa... Haa... Haa... Haa...!!"[pcms]
 
 *5517|
@@ -751,7 +751,7 @@ doing it for me... I'm happy because of that..."[pcms]
 
 *5530|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Maya-chan..."[pcms]
 
 *5531|
@@ -785,7 +785,7 @@ was numbing, and it gradually spread to my cock.[pcms]
 
 *5536|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Haa, ku... fu, uu..."[pcms]
 
 *5537|
@@ -813,7 +813,7 @@ one... ah, nnuh...! It feels like that..."[pcms]
 
 *5541|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Me too... I feel the same way..."[pcms]
 
 *5542|
@@ -825,7 +825,7 @@ thinking the same thing... fuhah, ku, hinn...!"[pcms]
 
 *5543|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Yeah... It's like our hearts have become one too..."[pcms]
 
 *5544|
@@ -852,7 +852,7 @@ its limit and ejaculated before I could even think.[pcms]
 
 *5547|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Uwaah... Ahh, uwaah~~~..."[pcms]
 
 *5548|
@@ -934,7 +934,7 @@ grabbed my hand and held me back.[pcms]
 
 *5562|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "..."[pcms]
 
 *5563|
@@ -956,7 +956,7 @@ mixed together, creating wet sounds between our bodies.[pcms]
 
 *5566|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Maya-chan's pussy... it's even slipperier than before... it[r]
 feels even better...!!"[pcms]
 
@@ -984,7 +984,7 @@ If you do it with all your might...!"[pcms]
 
 *5570|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "I'm sorry, Maya-chan...!! But it feels too good...!! I[r]
 can't stop my hips...!!"[pcms]
 
@@ -1024,7 +1024,7 @@ quivering...!!"[pcms]
 
 *5577|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Quah...!! Maya-chan... if you move your pussy like that,[r]
 I'm going to...!!"[pcms]
 
@@ -1043,7 +1043,7 @@ Melt together with me, and become one...!"[pcms]
 
 *5580|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Ah... we will become one...!!"[pcms]
 
 *5581|
@@ -1063,7 +1063,7 @@ pussy.[pcms]
 
 *5583|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Maya-chan...!!!!"[pcms]
 
 *5584|
@@ -1080,7 +1080,7 @@ scream-like voice and arched her body greatly.[pcms]
 
 *5586|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Ha, ah... ku...!"[pcms]
 
 *5587|
@@ -1096,7 +1096,7 @@ vagina, I pulled out my cock and moved away from her body.[pcms]
 
 *5589|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Fuhah... hah..."[pcms]
 
 *5590|
@@ -1118,7 +1118,7 @@ me suddenly.[pcms]
 
 *5593|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Haa..."[pcms]
 
 *5594|
@@ -1129,7 +1129,7 @@ all at once.[pcms]
 
 *5595|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Nnn..."[pcms]
 
 *5596|

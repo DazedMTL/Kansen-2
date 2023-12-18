@@ -82,7 +82,7 @@ and slashed the air right in front of me.[pcms]
 *14384|
 [fc]
 [vo_hay s="hayami0422"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Kyaaaahhhhhhh!!"[pcms]
 
 *14385|
@@ -177,7 +177,7 @@ open!?"[pcms]
 *14400|
 [fc]
 [vo_hay s="hayami0425"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Ugh... Nagasaki-san... I'm sorry... I'm so sorry..."[pcms]
 ;//◎涙声で
 
@@ -231,7 +231,7 @@ boyfriend? Does he use these things on you!?"[pcms]
 *14409|
 [fc]
 [vo_hay s="hayami0426"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "No... that's not it! I've never used such things!"[pcms]
 
 [ChrSetEx layer=4 chbase="sugo_k03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -292,7 +292,7 @@ day in my life until now!![pcms]
 *14419|
 [fc]
 [vo_hay s="hayami0428"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Ouch!"[pcms]
 
 *14420|
@@ -320,7 +320,7 @@ old man stopped my hands.[pcms]
 *14424|
 [fc]
 [vo_hay s="hayami0429"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Ow!! Don't be so rough!! I'll listen to what you say...!!"[pcms]
 ;//◎泣き声
 
@@ -382,7 +382,7 @@ completely exposed as they were squished up and down.[pcms]
 *14430|
 [fc]
 [vo_hay s="hayami0430"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "No!! I don't want this!! Don't look!! Noooo!!"[pcms]
 
 *14431|
@@ -397,7 +397,7 @@ you!!"[pcms]
 *14432|
 [fc]
 [vo_hay s="hayami0431"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Tch... No!! That's not it at all!! Nooooo! I'm embarrassed![r]
 Don't look!!"[pcms]
 
@@ -412,7 +412,7 @@ help but stare!! Hoo~!! They're really huge, tits-chan!!"[pcms]
 *14434|
 [fc]
 [vo_hay s="hayami0432"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Don't say... things like that... ugh..., I can't take it[r]
 anymore... sob..."[pcms]
 
@@ -474,7 +474,7 @@ had never seen before.[pcms]
 *14445|
 [fc]
 [vo_hay s="hayami0434"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "..."[pcms]
 
 *14446|
@@ -523,7 +523,7 @@ stuff!!"[pcms]
 *14454|
 [fc]
 [vo_hay s="hayami0436"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "What are you thinking!? Doing something like this... Just[r]
 because girls won't give you the time of day, you resort to[r]
 this!? Pervert! Just let me go already!!"[pcms]
@@ -573,7 +573,7 @@ it with him...[pcms]
 *14463|
 [fc]
 [vo_hay s="hayami0438"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "..."[pcms]
 
 *14464|
@@ -676,7 +676,7 @@ my body.[pcms]
 *14480|
 [fc]
 [vo_hay s="hayami0441"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Ugh!! No!! This is terrible!! It's embarrassing!! Uwaaaah!![r]
 Noooo!!"[pcms]
 
@@ -816,7 +816,7 @@ you're a masochist, aren't you!!"[pcms]
 *14504|
 [fc]
 [vo_hay s="hayami0446"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Eh... no, that's not true! I'm not wet!"[pcms]
 
 *14505|
@@ -828,7 +828,7 @@ loose, aren't you? Even did a standing pee earlier!!"[pcms]
 *14506|
 [fc]
 [vo_hay s="hayami0447"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "No!! That's not true... Stop it! Uwaaaah... *sob* Uwaaaah!"[pcms]
 
 *14507|
@@ -864,7 +864,7 @@ and began to vibrate finely.[pcms]
 *14512|
 [fc]
 [vo_hay s="hayami0448"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "What...!? What are you planning to do...!?"[pcms]
 
 *14513|
@@ -937,7 +937,7 @@ hotter and hotter.[pcms]
 *14525|
 [fc]
 [vo_hay s="hayami0452"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "No, noo!! Nghh~!! It's tingling! No! Nghh! My clit--[r]
 Ahhhhh!! No--!"[pcms]
 
@@ -1116,7 +1116,7 @@ girlie!! Hyahah! To think you'd show me squirting too!"[pcms]
 *14554|
 [fc]
 [vo_hay s="hayami0460"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Nooo!! Uwaaahh!! Ah...ahh... it's suffocating! It's too[r]
 much, too much! Suffocating! Ha...haaahh!! I'm...I'm[r]
 dying...I'm dying!"[pcms]
@@ -1194,7 +1194,7 @@ I don't want to die like this![pcms]
 *14569|
 [fc]
 [vo_hay s="hayami0464"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "No! I don't want to die. I don't want to die...uwaaaahhh!"[pcms]
 
 *14570|
@@ -1303,7 +1303,7 @@ You've got some good tongue skills there!!"[pcms]
 *14588|
 [fc]
 [vo_hay s="hayami0468"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Juguh!! Ju, bujuh!! Nbu, pu juguh, juboo!! Nbuoo!!"[pcms]
 
 *14589|
@@ -1321,7 +1321,7 @@ love this dick! You filthy slut!! Hyahhaa!!"[pcms]
 *14591|
 [fc]
 [vo_hay s="hayami0469"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Ji...jigabu...ugahah!! Geho...noooohhhhh!!"[pcms]
 ;//◎ち……ちが……ちがう……　と言おうとしている。
 
@@ -1338,7 +1338,7 @@ swelling up and trying to push its way down my throat.[pcms]
 *14594|
 [fc]
 [vo_hay s="hayami0470"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Nbooh! Nguh! Gah!! Ueeh...bujuh..."[pcms]
 
 *14595|
@@ -1370,7 +1370,7 @@ Hyahhahaha!!"[pcms]
 *14599|
 [fc]
 [vo_hay s="hayami0472"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Nuuuuhhh!! Nggguh...jubuuhh!! Nuuuh! Nuuuuhhh!!"[pcms]
 
 *14600|
@@ -1397,7 +1397,7 @@ thrust in deeper!"[pcms]
 *14604|
 [fc]
 [vo_hay s="hayami0473"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Ugehh...yabede...nbuh! Gubuh! Nbooh! Jupuh, guchu, bochuu!![r]
 Juboo!!"[pcms]
 
@@ -1431,7 +1431,7 @@ much...[pcms]
 *14610|
 [fc]
 [vo_hay s="hayami0475"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "N--! N--!! Buchuuuuh! Juh...nbuh!"[pcms]
 
 *14611|
@@ -1460,7 +1460,7 @@ cumming--!"[pcms]
 *14615|
 [fc]
 [vo_hay s="hayami0477"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Nguh! Juh...nbah! Guchuu! Buh...nguu!"[pcms]
 
 ;//SE:射精音
@@ -1480,7 +1480,7 @@ cumming--!"[pcms]
 *14617|
 [fc]
 [vo_hay s="hayami0478"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Nbuuaaaaahhhhhhh!!!!!"[pcms]
 
 *14618|
@@ -1589,7 +1589,7 @@ alright..."[pcms]
 *14634|
 [fc]
 [vo_hay s="hayami0483"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Eh...? Kyaa!!"[pcms]
 
 ;//★イベントＣＧ４
@@ -1620,7 +1620,7 @@ dick is overjoyed too...!"[pcms]
 *14639|
 [fc]
 [vo_hay s="hayami0485"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Hiaa...!? Auh... stop, don't... rub it there... yaaah..."[pcms]
 
 *14640|
@@ -1649,7 +1649,7 @@ Did you want to have sex with me that badly!?"[pcms]
 *14644|
 [fc]
 [vo_hay s="hayami0487"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "That's not... it's different... nhaa!! Nfuh-- ah... uuh...[r]
 please stop...!"[pcms]
 
@@ -1717,7 +1717,7 @@ Hyahaha!! Tell me what's happening to your pussy!!"[pcms]
 *14657|
 [fc]
 [vo_hay s="hayami0489"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "...!!"[pcms]
 
 *14658|
@@ -1739,7 +1739,7 @@ I knew without looking that it was a knife.[pcms]
 *14661|
 [fc]
 [vo_hay s="hayami0490"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "No!! I'll say it!! I understand! Uuhh... gusss... hiih...[r]
 uwaaaahhh!!"[pcms]
 
@@ -1766,7 +1766,7 @@ This old man is going to kill me... If I don't obey him...[pcms]
 *14666|
 [fc]
 [vo_hay s="hayami0491"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "My pussy is overflowing with liquid... making lewd[r]
 sounds..."[pcms]
 
@@ -1837,7 +1837,7 @@ was penetrating with wet sounds.[pcms]
 *14677|
 [fc]
 [vo_hay s="hayami0494"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Guh... ugh... ahhhh!! It hurts, it hurts, it hurts! Pull it[r]
 out!! Pull it out!! It hurts!! I'm going to tear!! Gyaahhh!"[pcms]
 
@@ -1849,7 +1849,7 @@ painful.[pcms]
 *14679|
 [fc]
 [vo_hay s="hayami0495"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "My stomach... it's painful!! Gah! It hurts!! Pull it out!![r]
 Auuu... uuuahhh!!"[pcms]
 
@@ -1934,7 +1934,7 @@ fucked!? You pervert! Pervert indeed!! Hyahahaha!!"[pcms]
 *14694|
 [fc]
 [vo_hay s="hayami0499"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Uuu~... uwaah... nnn... nnn...!! Ahh... uwaaahh!! My ass!![r]
 My ass is hot! Stop it already!! Noo! Not like this...!"[pcms]
 
@@ -1981,7 +1981,7 @@ ejaculated a large amount of semen onto my ass.[pcms]
 *14701|
 [fc]
 [vo_hay s="hayami0502"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Aaaahhh!! It's hot!! It's on my ass! Aaaahhhhh!!"[pcms]
 
 *14702|
@@ -2035,7 +2035,7 @@ Nagasaki-san, standing like a withered tree.[pcms]
 *14706|
 [fc]
 [vo_hay s="hayami0504"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Na... Nagasaki-san? Nooo!! Don't look!"[pcms]
 
 *14707|

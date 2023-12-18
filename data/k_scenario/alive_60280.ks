@@ -33,7 +33,7 @@ the pitch-black road, towards the dazzling light.[pcms]
 
 *1904|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "...What's wrong? Hey!? Are you sleepy!?"[pcms]
 
 *1905|
@@ -52,7 +52,7 @@ steering wheel and leaned back.[pcms]
 
 *1907|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "You say you're okay... Hey!! Pull yourself together! The[r]
 wall... we're going to crash!! Huh!? Red... Your stomach,[r]
 it's red...?"[pcms]
@@ -89,7 +89,7 @@ We won't be able to return home together!![pcms]
 
 *1914|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Naomi!! Don't die!! You're supposed to go back with us,[r]
 right!? Don't die!!"[pcms]
 
@@ -104,7 +104,7 @@ you guys back safely... Ngh..."[pcms]
 
 *1916|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Naomi... Whoa!"[pcms]
 
 *1917|

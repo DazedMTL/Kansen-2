@@ -131,7 +131,7 @@ burst.[pcms]
 *12854|
 [fc]
 [vo_hay s="hayami0205"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "No... nooo... what, what is this...?"[pcms]
 
 *12855|
@@ -181,7 +181,7 @@ They're not sane...[pcms]
 *12863|
 [fc]
 [vo_hay s="hayami0207"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Nooooo!! What? What?!"[pcms]
 
 *12864|
@@ -219,7 +219,7 @@ heavily, showing a creepy smile.[pcms]
 *12868|
 [fc]
 [vo_hay s="hayami0209"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Hii!!"[pcms]
 
 *12869|
@@ -361,7 +361,7 @@ Or I'll be killed too!![pcms]
 *12888|
 [fc]
 [vo_hay s="hayami0213"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "...!!"[pcms]
 
 *12889|
@@ -479,7 +479,7 @@ defied him, I couldn't resist.[pcms]
 *12909|
 [fc]
 [vo_hay s="hayami0216"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "I get it! I get it, so let go of my hand!! It hurts!! It[r]
 really hurts!!"[pcms]
 
@@ -576,7 +576,7 @@ he ran off.[pcms]
 *12922|
 [fc]
 [vo_hay s="hayami0218"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Yeah!!"[pcms]
 
 *12923|

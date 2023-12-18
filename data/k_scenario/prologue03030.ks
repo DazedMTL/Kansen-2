@@ -26,7 +26,7 @@
 
 *7748|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "I'm going to check if we can enter the building from the[r]
 back!"[pcms]
 
@@ -48,7 +48,7 @@ are a lot of strange people out there!"[pcms]
 
 *7751|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "This is no time for that!! If we don't hurry and help, who[r]
 knows what that old man will do to her!!"[pcms]
 
@@ -70,7 +70,7 @@ through."[pcms]
 
 *7754|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Even so, if we don't go, Hayami will...!"[pcms]
 
 *7755|
@@ -83,7 +83,7 @@ can we just calm down?"[pcms]
 
 *7756|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "..."[pcms]
 
 *7757|
@@ -109,7 +109,7 @@ might really do something to her..."[pcms]
 
 *7760|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "...?"[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
@@ -122,7 +122,7 @@ truck and the shattered door.[pcms]
 
 *7762|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Tch...!!"[pcms]
 
 *7763|
@@ -142,7 +142,7 @@ west side.[pcms]
 
 *7765|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Lower the shutters!! Go ahead without me!!"[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
@@ -172,7 +172,7 @@ edge to lower the shutters.[pcms]
 
 *7770|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "For emergency use... it should be okay to use this,[r]
 right...?"[pcms]
 
@@ -184,7 +184,7 @@ Device."[pcms]
 
 *7772|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "...Can't hesitate now."[pcms]
 
 *7773|
@@ -205,7 +205,7 @@ fitting.[pcms]
 
 *7775|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "..."[pcms]
 
 *7776|

@@ -111,7 +111,7 @@ spitting were deeply piercing my heart.[pcms]
 *14735|
 [fc]
 [vo_hay s="hayami0506"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "...!!"[pcms]
 
 *14736|
@@ -142,7 +142,7 @@ such a place, in such a state.[pcms]
 *14741|
 [fc]
 [vo_hay s="hayami0508"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Stop it!! Don't look at me with those eyes!! Don't tell[r]
 anyone about this! Please!! What should I do!!"[pcms]
 
@@ -202,7 +202,7 @@ everything, and pretend none of it ever happened.[pcms]
 *14752|
 [fc]
 [vo_hay s="hayami0510"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "...ah..."[pcms]
 
 *14753|

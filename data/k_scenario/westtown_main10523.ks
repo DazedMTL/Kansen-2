@@ -41,7 +41,7 @@ handed it to Maya-chan.[pcms]
 
 *12385|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Alright, let's go!!"[pcms]
 
 ;êŠ<ImageFade 6,60,OFF,OFF>

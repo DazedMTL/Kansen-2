@@ -148,7 +148,7 @@ ha ha ha!!!"[pcms]
 
 *12014|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "!!"[pcms]
 
 [chara_int_ layer=2][chara_int_ layer=3][trans_c cross time=150]
@@ -173,7 +173,7 @@ men just like that woman!"[pcms]
 
 *12017|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "..."[pcms]
 
 *12018|
@@ -202,7 +202,7 @@ from the second floor.[pcms]
 
 *12022|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Damn it...!!"[pcms]
 
 *12023|
@@ -228,7 +228,7 @@ save.[pcms]
 
 *12026|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Wait!! Stop it!!"[pcms]
 
 *12027|
@@ -257,7 +257,7 @@ further.[pcms]
 
 *12031|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Let go!!"[pcms]
 
 *12032|
@@ -268,7 +268,7 @@ further.[pcms]
 
 *12033|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Grr...!!"[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]

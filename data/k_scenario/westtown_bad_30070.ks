@@ -44,7 +44,7 @@ placed along the way.[pcms]
 
 *9187|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "What's this... there's actually food here..."[pcms]
 
 *9188|
@@ -54,7 +54,7 @@ poured them into my mouth.[pcms]
 
 *9189|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Mmm~ Delicious~..."[pcms]
 
 *9190|
@@ -65,7 +65,7 @@ into my mouth.[pcms]
 
 *9191|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Nmm... muku... nng..."[pcms]
 
 *9192|
@@ -77,7 +77,7 @@ into my mouth.[pcms]
 
 *9193|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Hmm...?"[pcms]
 
 *9194|
@@ -93,7 +93,7 @@ A girl's voice...? Where...? Where is she? The girl...[pcms]
 
 *9196|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Hmm..."[pcms]
 
 *9197|
@@ -128,7 +128,7 @@ the escalator.[pcms]
 
 *9203|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Pussy~... Where's the pussy~...?!"[pcms]
 
 ;//[]SE：転がり落ちる音（？）

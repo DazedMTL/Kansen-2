@@ -128,7 +128,7 @@ down hard.[pcms]
 
 *8858|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Stop it!!"[pcms]
 
 *8859|
@@ -172,7 +172,7 @@ without resisting, became prey to the girl's mouth.[pcms]
 
 *8865|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Stop it!! Let go!!"[pcms]
 
 *8866|
@@ -189,7 +189,7 @@ to make her release her bite.[pcms]
 
 *8868|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Uaahh!!"[pcms]
 
 *8869|
@@ -244,7 +244,7 @@ girl; I saw stars and collapsed onto the floor on my back.[pcms]
 
 *8875|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Guuh..."[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]

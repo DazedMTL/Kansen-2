@@ -65,7 +65,7 @@ underneath the button was tilted towards "closed".[pcms]
 
 *10897|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Damn it!!"[pcms]
 
 ;//SE：シャッターを蹴る音（？）
@@ -87,7 +87,7 @@ yeah~~...!!"[pcms]
 
 *10900|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "..."[pcms]
 
 ;//SE：シャッターを叩く音（？）
@@ -128,7 +128,7 @@ like not just a waste, but an unnecessary complication.[pcms]
 
 *10907|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "..."[pcms]
 
 *10908|
@@ -165,7 +165,7 @@ Hayami...[pcms]
 *10909|
 [fc]
 [vo_hay s="hayami0044"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "The one who calls another stupid is the stupid one![r]
 Hiroshi, you big dummy!!"[pcms]
 ;//◎流用するため、録る必要なし
@@ -199,7 +199,7 @@ Hiroshi, you big dummy!!"[pcms]
 *10911|
 [fc]
 [vo_hay s="hayami0011"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Then after we graduate, let's go somewhere even more fun,[r]
 just the three of us. Even going abroad would be nice."[pcms]
 ;//◎流用するため、録る必要なし
@@ -247,7 +247,7 @@ shutter.[pcms]
 
 *10915|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "..."[pcms]
 
 *10916|
@@ -270,7 +270,7 @@ said...[pcms]
 
 *10919|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Excuse me, could you go ahead to the rooftop? If you want,[r]
 you can escape from there."[pcms]
 
@@ -284,7 +284,7 @@ you can escape from there."[pcms]
 
 *10921|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "I'm going back down and heading to the building across from[r]
 the first floor."[pcms]
 

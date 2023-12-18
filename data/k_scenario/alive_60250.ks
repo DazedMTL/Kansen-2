@@ -24,7 +24,7 @@
 
 *1781|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "It's so bright... what is this...?"[pcms]
 
 [ChrSetEx layer=3 chbase="hayami_a07"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
@@ -60,7 +60,7 @@ as crowded as a festival with many people walking around.[pcms]
 
 *1786|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "...? Attack? Why would they?"[pcms]
 
 [ChrSetEx layer=4 chbase="turuta_n05"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -77,7 +77,7 @@ that.[pcms]
 
 *1789|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "What's wrong...?"[pcms]
 
 *1790|
@@ -218,7 +218,7 @@ bright, is he okay I wonder..."[pcms]
 
 *1808|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "It's bright, isn't it... this place... What the hell is[r]
 going on..."[pcms]
 
@@ -259,7 +259,7 @@ Damn it... I'm cutting through!! Don't leave my side!"[pcms]
 
 *1813|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Ah..."[pcms]
 
 *1814|
@@ -269,7 +269,7 @@ towards the wildly destroyed entrance.[pcms]
 
 *1815|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "We should follow them too... Let's go... Yuu..."[pcms]
 
 [ChrSetEx layer=4 chbase="koba_t01"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]

@@ -90,7 +90,7 @@ away...[pcms]
 
 *12294|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "What's the matter, slowpokes!! With so many of you, can't[r]
 even one catch up, you turtles!!"[pcms]
 
@@ -115,7 +115,7 @@ long corridor with the crazy group.[pcms]
 
 *12296|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "This should be far enough..."[pcms]
 
 *12297|
@@ -128,7 +128,7 @@ store where my three companions should be.[pcms]
 
 *12298|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "They've lost me..."[pcms]
 
 *12299|

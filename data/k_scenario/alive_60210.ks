@@ -46,7 +46,7 @@ follow me without making a sound..."[pcms]
 
 *1651|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Uh..."[pcms]
 
 *1652|

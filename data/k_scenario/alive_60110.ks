@@ -37,7 +37,7 @@
 
 *1111|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "If we've searched this much and he's not here, doesn't that[r]
 mean he probably didn't come to this place?"[pcms]
 
@@ -51,7 +51,7 @@ also possible...[pcms]
 
 *1113|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Hey, Anzai-san... could it be that you got the date of the[r]
 promise wrong?"[pcms]
 
@@ -65,7 +65,7 @@ again...?"[pcms]
 
 *1115|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "..."[pcms]
 
 [ChrSetEx layer=4 chbase="anza_d02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -96,7 +96,7 @@ longer usable.[pcms]
 
 *1120|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Damn it... what's this! It's broken! Hey, Hayami, do you[r]
 know what day it is today?"[pcms]
 
@@ -183,7 +183,7 @@ covered in injuries.[pcms]
 
 *1133|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Hey...? What's wrong?"[pcms]
 
 *1134|
@@ -201,7 +201,7 @@ this place immediately.[pcms]
 
 *1136|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Then, shall we head over to this East Town? Chihiro... lead[r]
 the way."[pcms]
 
@@ -227,7 +227,7 @@ walking ahead.[pcms]
 
 *1140|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Alright, shall we go too?"[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_h02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -288,7 +288,7 @@ bright red light like a grand campfire.[pcms]
 
 *1149|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Really... it's beautiful... You're beautiful too, Arisu..."[pcms]
 
 [ChrSetEx layer=4 chbase="hayami_s02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -310,7 +310,7 @@ facing me with a slightly serious expression.[pcms]
 
 *1153|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Hey... Hayami..., why are we in a place like this? We were[r]
 supposed to be on a training trip..."[pcms]
 
@@ -330,7 +330,7 @@ don't know?[pcms]
 *1156|
 [fc]
 [vo_hay s="hayami1046"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Geez... just when things were getting good... What's this[r]
 about a training trip!? Idiot! I don't know!"[pcms]
 
@@ -340,7 +340,7 @@ Huh? A training trip?[pcms]
 
 *1158|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Hayami... what's this about a training trip?"[pcms]
 
 [ChrSetEx layer=4 chbase="koba_m02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -363,7 +363,7 @@ up!"[pcms]
 
 *1161|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Ah..."[pcms]
 
 *1162|
@@ -420,7 +420,7 @@ I want to embrace a woman... I want to fuck...[pcms]
 
 *1173|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "...Ooooh!?"[pcms]
 
 *1174|

@@ -27,7 +27,7 @@ shutter.[pcms]
 
 *10528|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "I'm going to close the shutter on the staircase over there.[r]
 If those guys' friends come, take them and escape to the[r]
 upper floor ahead of us."[pcms]
@@ -136,7 +136,7 @@ shutter...[pcms]
 
 *10539|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "We're heading to the third floor. We have to close the[r]
 shutter up there too."[pcms]
 
@@ -146,13 +146,13 @@ shutter up there too."[pcms]
 
 *10540|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "The shutter on the first floor staircase over there hasn't[r]
 been closed. Those guys might come up to the third floor."[pcms]
 
 *10541|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "If the third floor gets filled with those crazies, it'll be[r]
 tough to save Hayami."[pcms]
 
@@ -169,7 +169,7 @@ how we're going to get out of here after saving her?"[pcms]
 
 *10543|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "..."[pcms]
 
 *10544|
@@ -194,7 +194,7 @@ else's problem, I inadvertently raised my voice.[pcms]
 
 *10547|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "That old man might be a junkie! There's no time to stay[r]
 calm!!"[pcms]
 
@@ -220,7 +220,7 @@ up the topic of stimulants."[pcms]
 
 *10551|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "...?"[pcms]
 
 *10552|
@@ -239,7 +239,7 @@ rationally."[pcms]
 
 *10554|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Rational? That was rational?"[pcms]
 
 *10555|
@@ -267,7 +267,7 @@ think he's a drug addict."[pcms]
 
 *10558|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "..."[pcms]
 
 *10559|
@@ -297,7 +297,7 @@ here, right?"[pcms]
 
 *10563|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "...?"[pcms]
 
 [ChrSetEx layer=2 chbase="anza_n08"][ChrSetXY layer=2 x=0 y=0][trans_c cross time=150]
@@ -345,7 +345,7 @@ and I took a deep breath to calm my racing heart.[pcms]
 
 *10569|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "...Once that shutter is closed, it seems we can't open it[r]
 again without doing it properly. That's what it said in the[r]
 warning note."[pcms]
@@ -372,7 +372,7 @@ structure of the building once more.[pcms]
 
 *10573|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Slope..."[pcms]
 
 *10574|
@@ -394,7 +394,7 @@ outside the building...[pcms]
 
 *10577|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "We can walk down from this slope on the rooftop. From here,[r]
 we can probably get outside."[pcms]
 
@@ -417,7 +417,7 @@ could use those as well."[pcms]
 
 *10580|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Helicopters?"[pcms]
 
 [ChrSetEx layer=3 chbase="koba_n01"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
@@ -431,7 +431,7 @@ from the sky when a disaster happens."[pcms]
 
 *10582|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "I see... So this hasn't made the news yet. Maybe we could[r]
 get help from a TV station's helicopter or something."[pcms]
 
@@ -444,7 +444,7 @@ head to the building across to save Arisu..."[pcms]
 
 *10584|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "It feels like we're escaping from the rooftop. We'll decide[r]
 whether to use the slope or the emergency stairs once we get[r]
 there. At that time, we'll choose whichever is safer."[pcms]
@@ -471,7 +471,7 @@ after she had been silent until now.[pcms]
 
 *10588|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "That is..."[pcms]
 
 *10589|
@@ -483,7 +483,7 @@ acting on your own again..."[pcms]
 
 *10590|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "..."[pcms]
 
 *10591|
@@ -495,7 +495,7 @@ mummy often ends up becoming one'?"[pcms]
 
 *10592|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "...So do you have a better idea then?"[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_n03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -529,7 +529,7 @@ knives over there."[pcms]
 
 *10596|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Oasis...?"[pcms]
 
 *10597|
@@ -548,7 +548,7 @@ Didn't the teacher say that during emergency drills?"[pcms]
 
 *10599|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "...I don't remember such a thing."[pcms]
 
 *10600|
@@ -592,7 +592,7 @@ pocket.[pcms]
 
 *10605|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "An email? No way..."[pcms]
 
 [chara_int_ layer=2][chara_int_ layer=3][trans_c cross time=150]
@@ -619,7 +619,7 @@ forget my souvenir!>[pcms]
 
 *10610|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Huh...?"[pcms]
 
 *10611|
@@ -708,7 +708,7 @@ emails...[pcms]
 
 *10627|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "No, it's from my mom. I just replied asking her to let me[r]
 know if the news is covering the earthquake."[pcms]
 
@@ -728,7 +728,7 @@ that were gone might come back..."[pcms]
 
 *10630|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Well then, let's go."[pcms]
 
 *10631|

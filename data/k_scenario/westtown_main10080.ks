@@ -28,7 +28,7 @@ left and the stairs diagonally in front of us.[pcms]
 
 *10438|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Phew..."[pcms]
 
 ;èÍèä<ImageFade 6,60,OFF,OFF>
@@ -68,7 +68,7 @@ This means we can't use this escalator either...[pcms]
 
 *10445|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "But still..."[pcms]
 
 *10446|
@@ -95,7 +95,7 @@ at something above the escalator.[pcms]
 
 *10450|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "...?"[pcms]
 
 *10451|
@@ -117,7 +117,7 @@ must have finally gone crazy myself.[pcms]
 
 *10453|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "..."[pcms]
 
 *10454|
@@ -178,7 +178,7 @@ pale face, watching them descend towards the first floor.[pcms]
 
 *10460|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Pull yourself together, we're going to run!"[pcms]
 
 [chara_int_ layer=2][chara_int_ layer=3][trans_c cross time=150]
@@ -207,7 +207,7 @@ staircase...[pcms]
 
 *10465|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Damn..."[pcms]
 
 *10466|

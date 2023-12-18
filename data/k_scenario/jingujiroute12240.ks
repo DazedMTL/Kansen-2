@@ -31,7 +31,7 @@
 
 *5848|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Don't come... Don't you come...!"[pcms]
 
 *5849|
@@ -68,7 +68,7 @@ behind you... Maybe it's a butt pussy...!!"[pcms]
 
 *5854|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Don't come any closer, damn you!! I'll smash your head[r]
 in!!"[pcms]
 
@@ -112,7 +112,7 @@ down...!!"[pcms]
 
 *5860|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Don't come!! Don't you come!!"[pcms]
 
 ;//ゾンビの立ちキャラ表示（？）
@@ -165,7 +165,7 @@ peeled off...!!"[pcms]
 
 *5868|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Hii...!!"[pcms]
 
 [cutin storage="cut007"][trans_c cross time=500]
@@ -203,7 +203,7 @@ wide open.[pcms]
 
 *5875|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Stop it...!!"[pcms]
 
 [赤フラ]
@@ -229,7 +229,7 @@ Such sensations spread both inside and outside of me.[pcms]
 
 *5879|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Uaaaaaaaahhhhhhhhhhhhhhhhh!!!"[pcms]
 
 ;//[]BG表示
@@ -246,7 +246,7 @@ Such sensations spread both inside and outside of me.[pcms]
 
 *5880|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Aaahhh...!!"[pcms]
 
 *5881|
@@ -256,7 +256,7 @@ one else was present, I took a deep breath.[pcms]
 
 *5882|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Ha-..."[pcms]
 
 *5883|
@@ -284,7 +284,7 @@ Don't make me remember anymore...[pcms]
 
 *5888|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Haa..."[pcms]
 
 *5889|
@@ -308,7 +308,7 @@ And Maya-chan as well.[pcms]
 
 *5893|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "..."[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -341,7 +341,7 @@ And Maya-chan as well.[pcms]
 
 *5896|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "..."[pcms]
 
 ;//[chara_int][trans_c cross time=150]
@@ -514,7 +514,7 @@ her head down, stopping in front of me.[pcms]
 
 *5920|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "..."[pcms]
 
 *5921|
@@ -534,7 +534,7 @@ someday, I deliberately said goodbye to her easily.[pcms]
 
 *5924|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Take care. If we meet again someday, let's go out together,[r]
 just the two of us."[pcms]
 
@@ -550,7 +550,7 @@ the accumulated tears overflow.[pcms]
 
 *5927|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "...?"[pcms]
 
 [ChrSetEx layer=4 chbase="spi_jinguji_n07"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -580,7 +580,7 @@ you and come to see you..."[pcms]
 
 *5931|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "...Yeah, I'll be waiting. Try to find me as soon as[r]
 possible."[pcms]
 
@@ -612,7 +612,7 @@ had walked towards and quickly disappeared from view.[pcms]
 
 *5935|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "..."[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -681,7 +681,7 @@ facility.[pcms]
 
 *5945|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "..."[pcms]
 
 *5946|
@@ -728,7 +728,7 @@ real emotions inside me.[pcms]
 
 *5954|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Ah... I forgot to go through the transfer procedures..."[pcms]
 
 *5955|
@@ -738,7 +738,7 @@ matter... Hayami and Yuu aren't at any school anyway...[pcms]
 
 *5956|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "..."[pcms]
 
 *5957|
@@ -748,7 +748,7 @@ yet, I should have back then...[pcms]
 
 *5958|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Haa..."[pcms]
 
 *5959|
@@ -758,7 +758,7 @@ hang on until then...[pcms]
 
 *5960|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Heh..."[pcms]
 
 *5961|
@@ -773,7 +773,7 @@ say... What should we talk about...[pcms]
 
 *5963|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Maybe talk about going out to play..."[pcms]
 
 *5964|
@@ -793,7 +793,7 @@ ago...[pcms]
 
 *5967|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "..."[pcms]
 
 *5968|
@@ -807,7 +807,7 @@ Just going round and round in circles, endlessly...[pcms]
 
 *5970|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Tch..."[pcms]
 
 *5971|
@@ -817,7 +817,7 @@ motorcycle and something being put into the mailbox outside.[pcms]
 
 *5972|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "...?"[pcms]
 
 *5973|
@@ -843,7 +843,7 @@ the mailbox to find a thin light blue envelope inside.[pcms]
 
 *5976|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "It's from Maya-chan...!"[pcms]
 
 ;//♪：bgm010
@@ -875,7 +875,7 @@ and wait."[pcms]
 
 *5981|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Promise..."[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -952,7 +952,7 @@ have long covered my heart, making them disappear.[pcms]
 
 *5991|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Haa..."[pcms]
 
 ;//★NEV101a.bmp　fadein表示
@@ -1000,7 +1000,7 @@ and sky, wishing strongly that it would reach her.[pcms]
 
 *6000|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Wishing... huh..."[pcms]
 
 *6001|
@@ -1033,7 +1033,7 @@ Even knowing that, I couldn't help but wish.[pcms]
 
 *6005|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "I want to see Maya-chan... I want to see her right now..."[pcms]
 
 *6006|
@@ -1059,7 +1059,7 @@ and the owner of the voice sat down next to me.[pcms]
 
 *6009|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "...!"[pcms]
 
 ;//[]SE：扉をノックする音

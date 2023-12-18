@@ -110,7 +110,7 @@ What's with this guy...? Is he upset that we got saved...?[pcms]
 
 *7622|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Nothing..."[pcms]
 
 [ChrSetEx layer=4 chbase="sugo_n06"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -139,7 +139,7 @@ What's with this guy...? Is he upset that we got saved...?[pcms]
 
 *7626|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "..."[pcms]
 
 *7627|
@@ -205,7 +205,7 @@ at Hayami and the young lady in the sailor suit with a grin.[pcms]
 
 *7635|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "..."[pcms]
 
 *7636|
@@ -244,7 +244,7 @@ sound coming from Hayami's stomach.[pcms]
 
 *7640|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "You know..."[pcms]
 
 *7641|
@@ -258,7 +258,7 @@ of exasperation.[pcms]
 *7642|
 [fc]
 [vo_hay s="hayami0139"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "But... It can't be helped!!"[pcms]
 
 *7643|
@@ -278,7 +278,7 @@ this situation, you..."[pcms]
 
 *7645|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Don't you have some candy or something in your pocket?[r]
 Leftovers from what you were eating on the bus?"[pcms]
 
@@ -315,7 +315,7 @@ troubled face, and I shook my head.[pcms]
 
 *7650|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Forget it. That's just looting in a disaster, isn't it?"[pcms]
 
 [ChrSetEx layer=3 chbase="naga_n02"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
@@ -329,7 +329,7 @@ That's all there is to it, right?"[pcms]
 
 *7652|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "It's not about that..."[pcms]
 
 *7653|
@@ -377,7 +377,7 @@ eat with you too. That should be fine, right?"[pcms]
 
 *7659|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Hey!"[pcms]
 
 *7660|
@@ -520,7 +520,7 @@ smirking, grabbed Hayami's arm and pulled her towards him.[pcms]
 
 *7679|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Hayami!!"[pcms]
 
 [ChrSetEx layer=3 chbase="sugo_n06"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
@@ -553,7 +553,7 @@ pressed it against Hayami's neck.[pcms]
 *7682|
 [fc]
 [vo_hay s="hayami0146"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Hik..."[pcms]
 
 *7683|
@@ -581,7 +581,7 @@ Nothing like those flimsy ones!"[pcms]
 
 *7687|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "What are you doing?! Hey, stop it!!"[pcms]
 
 *7688|
@@ -598,7 +598,7 @@ while staring at me.[pcms]
 *7690|
 [fc]
 [vo_hay s="hayami0148"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Uuh...!"[pcms]
 
 *7691|
@@ -610,7 +610,7 @@ Hyahyahya!!"[pcms]
 
 *7692|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "You bastard...!!"[pcms]
 
 *7693|
@@ -652,7 +652,7 @@ here."[pcms]
 
 *7700|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "What did you say...?"[pcms]
 
 *7701|
@@ -675,7 +675,7 @@ this situation around.[pcms]
 
 *7704|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "..."[pcms]
 
 *7705|
@@ -708,7 +708,7 @@ let Arisu go!"[pcms]
 
 *7710|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "H-Hey! Stop it, Yuu!!"[pcms]
 
 *7711|
@@ -744,7 +744,7 @@ wimpy guy won't tell the cops, right?!"[pcms]
 *7716|
 [fc]
 [vo_hay s="hayami0149"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "!!"[pcms]
 ;//ÅùëßÇà˘Çﬁâπ
 
@@ -779,12 +779,12 @@ never forget my dick!"[pcms]
 *7722|
 [fc]
 [vo_hay s="hayami0150"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "No, please...!!"[pcms]
 
 *7723|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "..."[pcms]
 
 *7724|
@@ -818,7 +818,7 @@ huge object flew in.[pcms]
 *7725|
 [fc]
 [vo_hay s="hayami0151"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Kyaaaahhhhh!!!"[pcms]
 
 *7726|
@@ -859,7 +859,7 @@ came to a stop.[pcms]
 
 *7730|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Why is there a truck...?"[pcms]
 
 *7731|
@@ -873,7 +873,7 @@ entrance hall into the central wall at the back.[pcms]
 
 *7733|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Hayami is... on the other side, damn it!"[pcms]
 
 *7734|
@@ -898,7 +898,7 @@ the other side.[pcms]
 
 *7737|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Could it be..."[pcms]
 
 *7738|
@@ -917,7 +917,7 @@ ran past me and dove under the truck.[pcms]
 
 *7741|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Damn...!!"[pcms]
 
 *7742|
@@ -946,7 +946,7 @@ before my nose.[pcms]
 
 *7746|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Damn it!! Hey, open up!! Open it up!!"[pcms]
 
 [se0 storage="SE19"]

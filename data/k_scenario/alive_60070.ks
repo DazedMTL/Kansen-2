@@ -134,7 +134,7 @@ virus, please do not panic..."[pcms]
 
 *867|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Tch... what the hell, so noisy..."[pcms]
 
 *868|
@@ -178,18 +178,18 @@ I couldn't figure out.[pcms]
 
 *875|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "What the hell... why are we sleeping in a place like this?"[pcms]
 
 ;//*876|
 ;//[vo_mob s="XXXXXXXX"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 ;//「ん……んんっ……」
 ;//[pcms]
 
 *877|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Hayami...?"[pcms]
 
 [ChrSetEx layer=4 chbase="hayami_k01"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -202,7 +202,7 @@ I couldn't figure out.[pcms]
 
 *879|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "What about you, you're all tattered..."[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
@@ -217,7 +217,7 @@ I couldn't figure out.[pcms]
 
 *881|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "...?"[pcms]
 
 *882|
@@ -239,7 +239,7 @@ shredded.[pcms]
 
 *885|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Huh?"[pcms]
 
 *886|
@@ -283,7 +283,7 @@ What is this...[pcms]
 
 *892|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "...!?"[pcms]
 
 [chara_int_ layer=2][chara_int_ layer=3][trans_c cross time=150]
@@ -299,7 +299,7 @@ couldn't concentrate because of the noise around me.[pcms]
 
 *895|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "What's going on... what's with you guys..."[pcms]
 
 *896|
@@ -309,7 +309,7 @@ couldn't concentrate because of the noise around me.[pcms]
 
 *897|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "...?"[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_m02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -333,7 +333,7 @@ voice, there stood a small-statured girl.[pcms]
 
 *901|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Violated?"[pcms]
 
 *902|
@@ -358,7 +358,7 @@ Violate...?[pcms]
 
 *906|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "What...? I don't quite understand what you're saying...?"[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
@@ -445,7 +445,7 @@ and stared intently at Arisu.[pcms]
 
 *919|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "What the... what's going on!?"[pcms]
 
 [ChrSetEx layer=4 chbase="sugo_n08"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -473,7 +473,7 @@ and started yelling with a voice as crushed as a toad's.[pcms]
 
 *924|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Them? What are you talking about... old man..."[pcms]
 
 *925|
@@ -490,7 +490,7 @@ yapping and follow me..."[pcms]
 
 *927|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "What's with you, old man! Acting all high and mighty!![r]
 First off... who are you...!? And what do you mean by 'get[r]
 rid of them'!"[pcms]
@@ -542,7 +542,7 @@ something to Arisu, right...?"[pcms]
 
 *935|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "...what was it again?"[pcms]
 
 *936|
@@ -559,7 +559,7 @@ do..."[pcms]
 
 *938|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Hmm... but still... Arisu...? Where?"[pcms]
 
 *939|
@@ -589,7 +589,7 @@ ones...[pcms]
 
 *943|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Ah... over there... Maybe they went to look for clothes?"[pcms]
 
 [ChrSetEx layer=2 chbase="koba_n19"][ChrSetXY layer=2 x=0 y=0]
@@ -611,7 +611,7 @@ I'll smash you!"[pcms]
 
 *946|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Yuuki!! Hey! Old man!! Wait up!"[pcms]
 
 *947|
@@ -642,7 +642,7 @@ earlier...?[pcms]
 
 *952|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Damn it..."[pcms]
 
 *953|

@@ -18,7 +18,7 @@
 
 *5597|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Haaah... Haaah..."[pcms]
 
 ;//＠前ファイルからの続きらしい
@@ -43,7 +43,7 @@ sprawled out on the floor in the shape of the character '大'.[pcms]
 
 *5600|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Haaaah..."[pcms]
 
 *5601|
@@ -76,7 +76,7 @@ knew we had been here for quite a long time.[pcms]
 
 *5606|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "..."[pcms]
 
 *5607|
@@ -104,7 +104,7 @@ to me will never change...[pcms]
 
 *5611|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "I'm so hungry..."[pcms]
 
 *5612|
@@ -119,7 +119,7 @@ vacant look in her eyes.[pcms]
 
 *5614|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "I'm starving... Let's go get some food..."[pcms]
 
 *5615|
@@ -155,7 +155,7 @@ parking lot, a blinding light poured down on us.[pcms]
 
 *5618|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Ugh... Stop it... I can't see anything..."[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
@@ -194,7 +194,7 @@ fire had spread to nearby bushes.[pcms]
 
 *5625|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Where can we eat... Ah... right, we can eat at home..."[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_a04"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -206,7 +206,7 @@ fire had spread to nearby bushes.[pcms]
 
 *5627|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Then let's go home...! If we go home, there should be[r]
 food..."[pcms]
 
@@ -218,7 +218,7 @@ food..."[pcms]
 
 *5629|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "You should come to my place too... I'll give you food..."[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_a02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -243,7 +243,7 @@ looked down slightly.[pcms]
 
 *5633|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Walking home holding hands with a girl... It feels like a[r]
 date or something..."[pcms]
 
@@ -274,7 +274,7 @@ forth.[pcms]
 
 *5636|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Huh...? Was this shopping district always named like[r]
 this...?"[pcms]
 
@@ -296,7 +296,7 @@ shopping district.[pcms]
 
 *5639|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "What the...? Are all these buildings supposed to be[r]
 standing upright...?"[pcms]
 
@@ -314,7 +314,7 @@ the shopping district besides us two.[pcms]
 
 *5642|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "This is strange... Everything was open yesterday..."[pcms]
 
 *5643|
@@ -324,7 +324,7 @@ renovation, I walked to the edge of the shopping district.[pcms]
 
 *5644|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Once we pass this point, it's just a bit further..."[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_a03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -340,7 +340,7 @@ renovation, I walked to the edge of the shopping district.[pcms]
 
 *5646|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Oh...?"[pcms]
 
 *5647|
@@ -372,7 +372,7 @@ to me, and I could hear my stomach growling loudly.[pcms]
 
 *5652|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "That looks kinda delicious... I wonder if it's okay to eat[r]
 it..."[pcms]
 
@@ -397,7 +397,7 @@ and smiled brightly again.[pcms]
 
 *5656|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Alright...! Then let's go eat it...!!"[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_a07"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -439,7 +439,7 @@ The hand of the girl I was holding suddenly felt lighter.[pcms]
 
 *5663|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Hmm...?"[pcms]
 
 ;//♪：bgm010 fadeout
@@ -456,7 +456,7 @@ have been there was gone.[pcms]
 
 *5665|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "What...?"[pcms]
 
 *5666|
@@ -470,7 +470,7 @@ there with a puzzled look on her face.[pcms]
 
 *5667|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Ah, sorry..."[pcms]
 
 *5668|
@@ -485,7 +485,7 @@ backward.[pcms]
 
 *5670|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Ah... eh...?"[pcms]
 
 *5671|
@@ -495,7 +495,7 @@ her back on the ground, and it didn't seem to stop at all.[pcms]
 
 *5672|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "What...? What...?"[pcms]
 
 *5673|
@@ -505,7 +505,7 @@ aside, and searched for her vanished face.[pcms]
 
 *5674|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Where did it go...? Hey... where...?"[pcms]
 
 *5675|
@@ -525,7 +525,7 @@ move at all.[pcms]
 
 *5678|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Ha... ah... ahh..."[pcms]
 
 *5679|
@@ -545,7 +545,7 @@ important thing...!![pcms]
 
 *5681|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Aaaaaahhhhhhhhhhhhhhhhhhhhhhhhhhhhhh!!!!!!"[pcms]
 
 [sysbt_meswin clear]

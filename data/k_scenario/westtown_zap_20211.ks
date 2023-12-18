@@ -32,7 +32,7 @@ checking out the situation on the third floor.[pcms]
 *13871|
 [fc]
 [vo_hay s="hayami0350"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "!"[pcms]
 ;//ÅùëßÇÇÃÇﬁ
 
@@ -292,7 +292,7 @@ floor below.[pcms]
 *13902|
 [fc]
 [vo_hay s="hayami0355"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "No!! Noooo!!! No way!! Mister! What have you done..."[pcms]
 
 *13903|
@@ -348,7 +348,7 @@ please let me wake up! Please...!![pcms]
 *13912|
 [fc]
 [vo_hay s="hayami0358"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Mister!? Ah...ahhhhh!!"[pcms]
 
 *13913|
@@ -380,7 +380,7 @@ bastard!!"[pcms]
 *13917|
 [fc]
 [vo_hay s="hayami0359"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Mister!!"[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
@@ -404,7 +404,7 @@ scream-like voice reached my ears.[pcms]
 [fc]
 [vo_nag s="nagasaki0169"]
 [ns]Chihiro[nse]
-"Alice-san!! Help me!!"[pcms]
+"Arisu-san!! Help me!!"[pcms]
 
 *13922|
 [fc]
@@ -499,7 +499,7 @@ backwards.[pcms]
 *13935|
 [fc]
 [vo_hay s="hayami0360b"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Chihiro-san!! Are you okay!? Are you hurt!?"[pcms]
 
 [ChrSetEx layer=4 chbase="naga_n03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -522,7 +522,7 @@ kill him for sure!! How dare he!!"[pcms]
 *13938|
 [fc]
 [vo_hay s="hayami0361"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Chihiro-san!! Stop it!! Don't bother with such a person,[r]
 let's escape while we can!?"[pcms]
 
@@ -591,7 +591,7 @@ being grappled by the man in the suit.[pcms]
 [fc]
 [vo_nag s="nagasaki0175"]
 [ns]Chihiro[nse]
-"Ugh...! Damn it all!! Nooo!! Disgusting!! Alice-san!! Help[r]
+"Ugh...! Damn it all!! Nooo!! Disgusting!! Arisu-san!! Help[r]
 me!!"[pcms]
 
 [ChrSetEx layer=4 chbase="etc04"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -609,7 +609,7 @@ Chihiro's neck.[pcms]
 *13948|
 [fc]
 [vo_hay s="hayami0363"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Let go of Chihiro-san!! You! Get off her!! Please!!"[pcms]
 
 *13949|
@@ -647,7 +647,7 @@ If this goes on... Chihiro will be bitten...[pcms]
 *13953|
 [fc]
 [vo_hay s="hayami0365"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "I have to do something... If only I had some kind of weapon[r]
 I could use...!"[pcms]
 
@@ -681,7 +681,7 @@ my might at the man grappling Chihiro.[pcms]
 *13958|
 [fc]
 [vo_hay s="hayami0367"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Enough already!! You!! You!! You!!"[pcms]
 ;//ÅùéEÇ∑ê®Ç¢Ç≈
 
@@ -695,7 +695,7 @@ my might at the man grappling Chihiro.[pcms]
 *13960|
 [fc]
 [vo_hay s="hayami0368"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Take this! You bastard!!"[pcms]
 
 ;//ÅöÇrÇdÅFêlÇâ£ÇÈ
@@ -715,7 +715,7 @@ my might at the man grappling Chihiro.[pcms]
 *13962|
 [fc]
 [vo_hay s="hayami0369"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Did it...!"[pcms]
 
 [ChrSetEx layer=4 chbase="naga_n15"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -765,7 +765,7 @@ strength anymore.[pcms]
 *13970|
 [fc]
 [vo_hay s="hayami0370a"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Go away!! You!! Haah! Haah! Ahah! You!! Ei!"[pcms]
 ;//ÅùäyÇµÇ≠Çƒãªï±ÇµÇƒÇ¢ÇÈÇÊÇ§Ç…
 
@@ -802,7 +802,7 @@ strength anymore.[pcms]
 *13973|
 [fc]
 [vo_hay s="hayami0371"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Haah...Haah...! Fufu...fufufufufu!! Chihiro-san!! I drove[r]
 that man away! I did it!"[pcms]
 
@@ -828,7 +828,7 @@ trembling.[pcms]
 *13976|
 [fc]
 [vo_hay s="hayami0372"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Yeah!! That's right...! I beat him! I drove him away...I[r]
 pushed him off from here..."[pcms]
 
@@ -845,7 +845,7 @@ san told me.[pcms]
 *13978|
 [fc]
 [vo_hay s="hayami0373"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "...Noooooo!! What have I done...!? This is just like...just[r]
 like that old man!"[pcms]
 
@@ -871,7 +871,7 @@ and died.[pcms]
 *13983|
 [fc]
 [vo_hay s="hayami0374"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Nooooo!! I...I...I killed someone...! Noooooo!"[pcms]
 
 *13984|
@@ -906,7 +906,7 @@ undeniable that I did something terrible!"[pcms]
 *13988|
 [fc]
 [vo_hay s="hayami0377"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "If that man is dead...what should I do? What's going to[r]
 happen to me...!!"[pcms]
 

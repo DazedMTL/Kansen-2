@@ -67,7 +67,7 @@ happening outside.[pcms]
 
 *3899|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "..."[pcms]
 
 *3900|
@@ -99,7 +99,7 @@ speaking.[pcms]
 
 *3905|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "..."[pcms]
 
 *3906|
@@ -331,7 +331,7 @@ here...!!"[pcms]
 
 *3945|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Nnngh...!! Gwoooh...!!"[pcms]
 
 *3946|
@@ -344,7 +344,7 @@ here...!!"[pcms]
 
 *3948|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Gwooooh...!! Fwoooh...!! Vwooooh...!!"[pcms]
 
 *3949|
@@ -358,7 +358,7 @@ here...!!"[pcms]
 
 *3951|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Nmmuuhh...!! Nuuuuhh...!! Mukuooohh...!!!"[pcms]
 
 *3952|
@@ -425,7 +425,7 @@ monsters, so stop worrying about it."[pcms]
 
 *3961|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "..."[pcms]
 
 *3962|
@@ -452,7 +452,7 @@ faster."[pcms]
 
 *3965|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "!!"[pcms]
 
 *3966|
@@ -463,7 +463,7 @@ wasted bullets!"[pcms]
 
 *3967|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Nnn~~~!! Nmuuuvuuu~~~!!"[pcms]
 
 *3968|
@@ -487,7 +487,7 @@ come out~..."[pcms]
 
 *3971|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Nfukuuu~~~!! Nnn, noooohhh~~~!!"[pcms]
 
 ;//[]SE：発砲音（？）
@@ -506,7 +506,7 @@ ahaha, ahahahahafafufahaahahah!!"[pcms]
 
 *3973|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Nkugooohooohoooooohh!!!!!"[pcms]
 
 *3974|
@@ -621,14 +621,14 @@ Kufufufufahahahahahyafufufuhah...!!"[pcms]
 *3990|
 [fc]
 [vo_hay s="hayami0876"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Iro...shi..."[pcms]
 
 ;//[chara_int_ layer=3][chara_int_ layer=4][trans_c cross time=150]
 
 *3991|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Nnnn~!! Nnnn~!!! Guuuuuuoooooh!!!!!"[pcms]
 
 *3992|
@@ -650,7 +650,7 @@ Kufufufufahahahahahyafufufuhah...!!"[pcms]
 
 *3996|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Uuu..."[pcms]
 
 *3997|
@@ -663,7 +663,7 @@ of tears, snot, and drool.[pcms]
 
 *3998|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Uuu~..."[pcms]
 
 *3999|
@@ -682,7 +682,7 @@ Hayami, but because of this mask, even that was impossible.[pcms]
 
 *4002|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "..."[pcms]
 
 *4003|

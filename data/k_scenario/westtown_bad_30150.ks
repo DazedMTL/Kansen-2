@@ -23,7 +23,7 @@
 *9733|
 [fc]
 [vo_hay s="hayami1116"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Tsuki..."[pcms]
 
 *9734|
@@ -43,7 +43,7 @@ single part left untouched.[pcms]
 *9737|
 [fc]
 [vo_hay s="hayami1117"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Beautiful..."[pcms]
 
 *9738|
@@ -59,7 +59,7 @@ little? Fufufu... Maybe one of my dreams has come true.[pcms]
 *9740|
 [fc]
 [vo_hay s="hayami1118"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "...Fufu..."[pcms]
 
 *9741|
@@ -75,7 +75,7 @@ men around, none of them spare me a glance.[pcms]
 *9743|
 [fc]
 [vo_hay s="hayami1119"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "I am... I am still not... satisfied."[pcms]
 
 ;//♪：m02　fadeIN
@@ -105,7 +105,7 @@ I want to become beautiful... and be seen by that person.[pcms]
 *9746|
 [fc]
 [vo_hay s="hayami1120"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Ah, who...?"[pcms]
 
 *9747|
@@ -120,7 +120,7 @@ My mind is clouded, and I can't understand anything.[pcms]
 *9749|
 [fc]
 [vo_hay s="hayami1121"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Well, it doesn't matter..."[pcms]
 
 *9750|
@@ -140,7 +140,7 @@ heaven.[pcms]
 *9753|
 [fc]
 [vo_hay s="hayami1122"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Ufufufufu..."[pcms]
 
 *9754|
@@ -161,7 +161,7 @@ want them to pour more and more semen into me.[pcms]
 *9757|
 [fc]
 [vo_hay s="hayami1124"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Someone..."[pcms]
 
 *9758|
@@ -180,7 +180,7 @@ semen onto my face, my body, inside me?[pcms]
 *9760|
 [fc]
 [vo_hay s="hayami1125"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "...?"[pcms]
 
 *9761|
@@ -189,13 +189,13 @@ I hear a voice calling me from afar. What is it... it feels[r]
 strangely nostalgic.[pcms]
 
 ;//＠主人公の立ち絵まだ出さない
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "...Hayami!"[pcms]
 
 *9762|
 [fc]
 [vo_hay s="hayami1126"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "..."[pcms]
 
 *9763|
@@ -234,7 +234,7 @@ I've become beautiful... Surely I became beautiful for him.[pcms]
 *9770|
 [fc]
 [vo_hay s="hayami1127"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "...But"[pcms]
 
 *9771|
@@ -257,7 +257,7 @@ My feet walk the opposite path.[pcms]
 
 *9775|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Hayami...! Hayami!"[pcms]
 
 *9776|
@@ -295,13 +295,13 @@ always wanted to see.[pcms]
 [ChrSetEx layer=4 chbase="ookura_n02j"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *tuia41|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Ha, Hayami! Were you there...!"[pcms]
 
 *9782|
 [fc]
 [vo_hay s="hayami1129"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "!"[pcms]
 
 *9783|
@@ -340,7 +340,7 @@ Dragging my strangely heavy body, I walk away from him.[pcms]
 *9787|
 [fc]
 [vo_hay s="hayami1130"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "..."[pcms]
 
 *9788|
@@ -370,7 +370,7 @@ and the tears won't stop.[pcms]
 *9793|
 [fc]
 [vo_hay s="hayami1132"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "..."[pcms]
 
 *9794|
@@ -382,7 +382,7 @@ anymore.[pcms]
 [ChrSetEx layer=4 chbase="ookura_n02j"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *tuia44|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Hayami!"[pcms]
 
 *9795|
@@ -403,7 +403,7 @@ His eyes were strong... and kind.[pcms]
 *9798|
 [fc]
 [vo_hay s="hayami1134"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "..."[pcms]
 
 *9799|
@@ -413,7 +413,7 @@ him shakes my heart.[pcms]
 
 *9800|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Hayami! Wait, I'll save you now! Hayami!!"[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
@@ -429,13 +429,13 @@ That's right, I am... and he is...[pcms]
 
 *9803|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Uoooooooh!!! Hayami!"[pcms]
 
 *9804|
 [fc]
 [vo_hay s="hayami1135"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "!"[pcms]
 
 *9805|
@@ -451,7 +451,7 @@ finding pleasure in it...[pcms]
 
 *9807|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Hayami...!"[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
@@ -469,13 +469,13 @@ I'm no longer a woman worthy of facing you.[pcms]
 
 *9810|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Hayami, are you okay?!"[pcms]
 
 *9811|
 [fc]
 [vo_hay s="hayami1136"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Hi, Ro, Shi...!"[pcms]
 
 [ChrSetEx layer=4 chbase="ookura_n02h"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -493,13 +493,13 @@ situation I'm in.[pcms]
 *9814|
 [fc]
 [vo_hay s="hayami1137"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "I'm sorry, Hiroshi..."[pcms]
 
 [ChrSetEx layer=4 chbase="ookura_n02b"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *tuia45|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Hayami...?"[pcms]
 
 *9815|
@@ -538,7 +538,7 @@ matter what.[pcms]
 *9820|
 [fc]
 [vo_hay s="hayami1138"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "...I loved you, Hiroshi"[pcms]
 
 *9821|
@@ -600,7 +600,7 @@ I can no longer stay by his side.[pcms]
 [ChrSetEx layer=4 chbase="ookura_n02j"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *tuia47|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Ha... Hayami!!!!"[pcms]
 
 [quake_bg 元time=200 xy m]
@@ -630,7 +630,7 @@ scatters... and so do my feelings.[pcms]
 *9837|
 [fc]
 [vo_hay s="hayami1140"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Ahah... ahahahahaha!! Ahaha..."[pcms]
 
 *9838|
@@ -644,7 +644,7 @@ being defiled... it feels like everything is flying away...[pcms]
 
 *9840|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Hayami!"[pcms]
 
 [quake_bg 元time=200 xy m]
@@ -667,7 +667,7 @@ back my cleansed body from flying away.[pcms]
 *9844|
 [fc]
 [vo_hay s="hayami1142"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "...Why..."[pcms]
 
 *9845|
@@ -678,13 +678,13 @@ connected to the rooftop... through his arms.[pcms]
 [ChrSetEx layer=4 chbase="ookura_n02b"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *tuia48|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Idiot... don't even think about dying!!"[pcms]
 
 *9846|
 [fc]
 [vo_hay s="hayami1143"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Hiroshi...! Hiroshi... but!"[pcms]
 
 *9847|
@@ -701,7 +701,7 @@ happened and how you feel."[pcms]
 [ChrSetEx layer=4 chbase="ookura_n02f"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *tuia49|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "But hey... but hey! In front of me, such a thing... I'll[r]
 never forgive it!!"[pcms]
 
@@ -731,7 +731,7 @@ faces...[pcms]
 *9854|
 [fc]
 [vo_hay s="hayami1144"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Sniffle... ahaha... ahahahaha!! Sniffle... waaaah..."[pcms]
 
 *9855|
@@ -742,13 +742,13 @@ It's just me who has been seen in a weak moment...[pcms]
 [ChrSetEx layer=4 chbase="ookura_n02b"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *tuia50|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Guh...!"[pcms]
 
 *9856|
 [fc]
 [vo_hay s="hayami1145"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Hiroshi...!?"[pcms]
 
 *9857|
@@ -763,13 +763,13 @@ And they are biting into Hiroshi's body.[pcms]
 *9859|
 [fc]
 [vo_hay s="hayami1146"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Hiroshi... it's okay now! If this continues, you'll be!"[pcms]
 
 [ChrSetEx layer=4 chbase="ookura_n02a"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *tuia51|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Don't say stupid things, this is nothing!!"[pcms]
 
 *9860|
@@ -787,7 +787,7 @@ behind without any defense.[pcms]
 *9862|
 [fc]
 [vo_hay s="hayami1148"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "At this rate, both of us will fall!"[pcms]
 
 *9863|
@@ -798,7 +798,7 @@ lifting me up would be difficult.[pcms]
 [ChrSetEx layer=4 chbase="ookura_n02h"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *tuia52|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "...That might be okay."[pcms]
 
 *9864|
@@ -810,7 +810,7 @@ lifting me up would be difficult.[pcms]
 [ChrSetEx layer=4 chbase="ookura_n02a"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *tuia53|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "If I'm with you... falling like this might not be so[r]
 bad..."[pcms]
 
@@ -828,20 +828,20 @@ But...[pcms]
 [ChrSetEx layer=4 chbase="ookura_n02h"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *tuia54|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "I've been overtaken... I should have been more[r]
 attentive..."[pcms]
 
 *9867|
 [fc]
 [vo_hay s="hayami1151"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "...What are you talking about?"[pcms]
 
 [ChrSetEx layer=4 chbase="ookura_n02c"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *tuia55|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "I love you, Hayami... that's why."[pcms]
 
 *9868|
@@ -851,7 +851,7 @@ As he said that, he embraced me.[pcms]
 *9869|
 [fc]
 [vo_hay s="hayami1152"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Hiroshi...!"[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
@@ -873,18 +873,18 @@ The azure sky shone as if to bless us.[pcms]
 *9873|
 [fc]
 [vo_hay s="hayami1153"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Hiroshi... you heard what I said earlier."[pcms]
 
 *9874|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Of course, there's no way I'd miss your voice."[pcms]
 
 *9875|
 [fc]
 [vo_hay s="hayami1154"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Thank you... Hiroshi."[pcms]
 
 *9876|

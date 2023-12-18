@@ -23,7 +23,7 @@
 
 *10320|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "I'm sure there were stairs at the back, right?"[pcms]
 
 
@@ -75,7 +75,7 @@ started growling.[pcms]
 
 *10327|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "...?"[pcms]
 
 *10328|
@@ -104,7 +104,7 @@ They're different... Not normal humans...!![pcms]
 
 *10333|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Hide!!"[pcms]
 
 ;mm ’Ç‰Á
@@ -151,7 +151,7 @@ understand that staying here is a mistake.[pcms]
 
 *10341|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Yuuki, when I give the signal, take these people and dash[r]
 towards where the elevator is."[pcms]
 
@@ -165,7 +165,7 @@ towards where the elevator is."[pcms]
 
 *10343|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Nothing, just watching."[pcms]
 
 [chara_int][trans_c cross time=150]
@@ -180,7 +180,7 @@ they were.[pcms]
 
 *10345|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "...?"[pcms]
 
 *10346|
@@ -217,7 +217,7 @@ growling.[pcms]
 
 *10352|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Hey...! Keep that dog quiet...!"[pcms]
 
 *10353|
@@ -256,7 +256,7 @@ be seen from the corridor, stealing glances at them.[pcms]
 
 *10358|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Phew..."[pcms]
 
 *10359|
@@ -345,7 +345,7 @@ the opposite side.[pcms]
 
 *10374|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Haa..."[pcms]
 
 *10375|
@@ -380,7 +380,7 @@ so much to worry about after all...[pcms]
 
 *10381|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Alright, let's go..."[pcms]
 
 *10382|
@@ -391,7 +391,7 @@ opposite from where the crazed group went.[pcms]
 
 *10383|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "..."[pcms]
 
 *10384|

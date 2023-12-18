@@ -81,7 +81,7 @@ that, all these guys will be trapped immediately...![pcms]
 
 *3021|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Alright..."[pcms]
 
 *3022|
@@ -91,7 +91,7 @@ corridor, making sure not to knock them down.[pcms]
 
 *3023|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Seah!"[pcms]
 
 *3024|
@@ -101,7 +101,7 @@ corridor, making sure not to knock them down.[pcms]
 
 *3025|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Ora!"[pcms]
 
 *3026|
@@ -111,7 +111,7 @@ corridor, making sure not to knock them down.[pcms]
 
 *3027|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Stay quietly inside!!"[pcms]
 
 *3028|
@@ -146,7 +146,7 @@ crazed bunch.[pcms]
 
 *3031|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Heh, serves you right..."[pcms]
 
 [cutin_int][trans_c cross time=300]
@@ -158,7 +158,7 @@ crazed bunch.[pcms]
 
 *3033|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "What!?"[pcms]
 
 *3034|

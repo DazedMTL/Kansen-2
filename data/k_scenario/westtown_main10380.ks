@@ -28,7 +28,7 @@ fourth floor was a broken mop lying on the floor.[pcms]
 
 *12097|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Tch...!"[pcms]
 
 ;èÍèä<ImageFade 6,60,OFF,OFF>
@@ -43,7 +43,7 @@ inside "No. 6" cinema had come out.[pcms]
 
 *12099|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "For now, let's run and hide in front!"[pcms]
 
 *12100|
@@ -70,7 +70,7 @@ fourth floor and took refuge in the "No. 3" cinema.[pcms]
 
 *12101|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "I really didn't think they'd actually come out..."[pcms]
 
 *12102|
@@ -136,7 +136,7 @@ mind.[pcms]
 
 *12112|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Fight back...?"[pcms]
 
 [ChrSetEx layer=4 chbase="anza_n06"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -190,7 +190,7 @@ used from a distance, I think we can definitely fight back."[pcms]
 
 *12119|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Hmm..."[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
@@ -282,7 +282,7 @@ Anzai-san.[pcms]
 
 *12137|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Do you have any leads on weapons?"[pcms]
 
 *12138|
@@ -295,7 +295,7 @@ conditions I mentioned."[pcms]
 
 *12139|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "The second floor, huh... It's going to be tough, but if[r]
 we're going to the other building, we have no choice but to[r]
 do it."[pcms]
@@ -356,7 +356,7 @@ face towards Anzai-san at a strangely slow pace.[pcms]
 
 *12148|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "...If you're tired, why don't you take a little break?"[pcms]
 
 [ChrSetEx layer=3 chbase="koba_n01"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
@@ -399,7 +399,7 @@ from her shoulder bag and handed it to me.[pcms]
 
 *12155|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Let's see, on the second floor..."[pcms]
 
 *12156|
@@ -418,7 +418,7 @@ up along the longer corridor.[pcms]
 
 *12158|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "'Camping Supplies CamperLand'... so the quickest way is to[r]
 go this way."[pcms]
 
@@ -435,7 +435,7 @@ stopped in front of the store.[pcms]
 
 *12160|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "So once we leave here, we dash full speed using the route[r]
 we came from."[pcms]
 
@@ -468,7 +468,7 @@ handle with more strength.[pcms]
 
 *12166|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "I'm opening it...!"[pcms]
 
 *12167|

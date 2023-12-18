@@ -38,7 +38,7 @@
 *12458|
 [fc]
 [vo_hay s="hayami0164"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Kyaaaaaaahhhhh!!!!!"[pcms]
 
 ;èÍèä<ImageFade 6,60,OFF,OFF>
@@ -74,14 +74,14 @@ were separated.[pcms]
 *12462|
 [fc]
 [vo_hay s="hayami0166"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Hiroshi!! Hiroshiiii!!"[pcms]
 
 [ChrSetEx layer=4 chbase="ookura_n02j"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *12463|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "...!!"[pcms]
 
 *12464|
@@ -152,7 +152,7 @@ that scary-faced Onee-san!!"[pcms]
 *12474|
 [fc]
 [vo_hay s="hayami0167"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Ouch... no... let go!!"[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
@@ -254,7 +254,7 @@ Hiroshi's hand reached out.[pcms]
 *12492|
 [fc]
 [vo_hay s="hayami0171"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Help me!! Help meeeeee!!"[pcms]
 
 [ChrSetEx layer=4 chbase="sugo_n01"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -304,7 +304,7 @@ hand.[pcms]
 *12500|
 [fc]
 [vo_hay s="hayami0174"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Hiroshi!! Noooooo!!"[pcms]
 
 *12501|
@@ -450,7 +450,7 @@ on us and started looking around and shouting loudly.[pcms]
 *12520|
 [fc]
 [vo_hay s="hayami0176"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Eh...?"[pcms]
 
 ;èÍèä<ImageFade 6,60,OFF,OFF>
@@ -500,7 +500,7 @@ rich in no time, right?!"[pcms]
 *12528|
 [fc]
 [vo_hay s="hayami0178"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "..."[pcms]
 ;//ÅùÇΩÇﬂëß
 
@@ -583,7 +583,7 @@ man until she spoke to me.[pcms]
 *12540|
 [fc]
 [vo_hay s="hayami0180"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Even if you say escape... How do we get out of here?"[pcms]
 ;//ÅùÇ≥Ç≥Ç‚Ç≠ÇÊÇ§Ç…
 
@@ -709,7 +709,7 @@ along'?"[pcms]
 *12557|
 [fc]
 [vo_hay s="hayami0184"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Get along... Old man, you're not convincing! Pointing that[r]
 at us...!"[pcms]
 
@@ -779,7 +779,7 @@ old man why he was doing this.[pcms]
 *12567|
 [fc]
 [vo_hay s="hayami0185"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Why..."[pcms]
 ;//ÅùêkÇ¶ÇÈê∫Ç≈
 
@@ -793,7 +793,7 @@ old man why he was doing this.[pcms]
 *12569|
 [fc]
 [vo_hay s="hayami0186"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Why are you doing this..."[pcms]
 ;//ÅùêkÇ¶ÇÈê∫Ç≈
 
@@ -868,7 +868,7 @@ coming here. Then I'll sell them the food here!!"[pcms]
 *12580|
 [fc]
 [vo_hay s="hayami0188"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "...Hah!?"[pcms]
 
 *12581|
@@ -1035,7 +1035,7 @@ have the right to monopolize this place!"[pcms]
 *12604|
 [fc]
 [vo_hay s="hayami0190"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "This makes no sense..."[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
@@ -1061,7 +1061,7 @@ himself with his back turned to us.[pcms]
 *12608|
 [fc]
 [vo_hay s="hayami0191"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Ah!!"[pcms]
 
 *12609|
@@ -1097,7 +1097,7 @@ regroup with Hiroshi and the others...![pcms]
 *12614|
 [fc]
 [vo_hay s="hayami0192"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Let's run... kyaaah!"[pcms]
 ;//ÅóâÊñ óhÇÁÇµ
 
@@ -1298,7 +1298,7 @@ indescribable fear, and I shivered.[pcms]
 *12643|
 [fc]
 [vo_hay s="hayami0195"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Eh?"[pcms]
 ;//ÅùÇ≥Ç≥Ç‚Ç≠ÇÊÇ§Ç…
 
@@ -1312,7 +1312,7 @@ indescribable fear, and I shivered.[pcms]
 *12645|
 [fc]
 [vo_hay s="hayami0196"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "..."[pcms]
 
 [ChrSetEx layer=4 chbase="naga_n05"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -1398,7 +1398,7 @@ a good idea to talk about various things."[pcms]
 *12661|
 [fc]
 [vo_hay s="hayami0199"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "I am Hayami. Hayami Arisu."[pcms]
 
 [ChrSetEx layer=4 chbase="naga_n02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -1412,7 +1412,7 @@ a good idea to talk about various things."[pcms]
 *12663|
 [fc]
 [vo_hay s="hayami0200"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Hm...? What's wrong?"[pcms]
 
 *12664|

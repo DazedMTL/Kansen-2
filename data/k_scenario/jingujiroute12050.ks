@@ -41,7 +41,7 @@ could quickly head back upstairs."[pcms]
 
 *4538|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Where are the leads kept...?"[pcms]
 
 *4539|
@@ -52,7 +52,7 @@ approaching from somewhere."[pcms]
 
 *4540|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "What's that...?"[pcms]
 
 *4541|
@@ -76,7 +76,7 @@ facing the atrium on the right side of the escalator."[pcms]
 
 *4544|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Whoa!!"[pcms]
 
 ;//[]SE：打撃音（？）
@@ -94,7 +94,7 @@ barely escaped harm."[pcms]
 
 *4547|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Haa... Haa...!"[pcms]
 
 *4548|
@@ -125,7 +125,7 @@ off her emergency carry bag, and opened the lid."[pcms]
 
 *4553|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "...?"[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_n07"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -173,7 +173,7 @@ past their noses with incredible speed."[pcms]
 
 *4561|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "That was..."[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_n01"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -185,7 +185,7 @@ past their noses with incredible speed."[pcms]
 
 *4563|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Ah, yeah, right...!"[pcms]
 
 *4564|
@@ -207,7 +207,7 @@ opposite from where the three dogs had appeared."[pcms]
 
 *4565|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Is that it!?"[pcms]
 
 *4566|
@@ -220,7 +220,7 @@ colored strings hanging down."[pcms]
 
 *4567|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "The longer ones are better, right? And ones that seem like[r]
 they won't break..."[pcms]
 
@@ -233,7 +233,7 @@ they won't break..."[pcms]
 
 *4569|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Then let's take this one... maybe two each for hands and[r]
 feet?"[pcms]
 
@@ -286,7 +286,7 @@ stopped, turned around, and began to growl."[pcms]
 
 *4577|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "!"[pcms]
 
 *4578|
@@ -359,7 +359,7 @@ floor, moving further and further away from us.[pcms]
 
 *4591|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Is it trying to pull them away...?"[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_n07"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -431,7 +431,7 @@ moment, a blinding light shone in from behind the counter.[pcms]
 
 *4603|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "What the...!?"[pcms]
 
 
@@ -483,7 +483,7 @@ me away, throwing us onto the floor.[pcms]
 
 *4608|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Guu...!!"[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
@@ -501,7 +501,7 @@ cockpit.[pcms]
 
 *4611|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "What's with that helicopter...!"[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_n08"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -525,7 +525,7 @@ husky was.[pcms]
 
 *4615|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "It's dangerous, don't go there!!"[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_n06"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -549,7 +549,7 @@ This is bad... If that helicopter catches fire...!![pcms]
 
 *4619|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "We need to run, Maya-chan!!"[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_n09"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]

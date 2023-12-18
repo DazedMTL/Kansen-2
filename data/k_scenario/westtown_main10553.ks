@@ -18,7 +18,7 @@
 
 *12445|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Guh...!"[pcms]
 
 *12446|
@@ -44,7 +44,7 @@ chan's scream echoed from behind me.[pcms]
 
 *12449|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Maya-chan!?"[pcms]
 
 *12450|
@@ -60,7 +60,7 @@ close in on Maya-chan.[pcms]
 
 *12452|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "You bastards!! Don't come any closer...!?"[pcms]
 
 *12453|
@@ -70,7 +70,7 @@ wouldn't move forward against my will.[pcms]
 
 *12454|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "What...!?"[pcms]
 
 [black_toplayer][trans_c tb time=300][hide_chara_int]
@@ -84,7 +84,7 @@ vision, plunging me into darkness.[pcms]
 
 *12456|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Uwaaaahhhhh!!!!!"[pcms]
 
 [fadeoutbgm time=502]

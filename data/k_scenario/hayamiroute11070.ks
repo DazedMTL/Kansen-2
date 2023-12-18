@@ -30,12 +30,12 @@
 
 *3189|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Huff...!!"[pcms]
 
 *3190|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Here I go...!!"[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
@@ -64,7 +64,7 @@
 
 *3195|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Uraaaaaahhhhh!!!!!"[pcms]
 
 ;//[]BG表示（ここで普通の色に戻る（クロスフェードで）？）

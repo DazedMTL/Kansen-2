@@ -68,7 +68,7 @@ Even so, I'm tired... I need another nap...[pcms]
 
 *1427|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Uh..."[pcms]
 
 *1428|
@@ -77,7 +77,7 @@ What's this...? I was sleeping so well too...[pcms]
 
 *1429|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Just five more minutes... just five more..."[pcms]
 
 *1430|
@@ -118,7 +118,7 @@ her gym clothes was striking a pose as if to show them off.[pcms]
 
 *1433|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "What's with you, so noisy... and... what's with that[r]
 outfit...?"[pcms]
 
@@ -133,7 +133,7 @@ snugly around her ass...[pcms]
 *1435|
 [fc]
 [vo_hay s="hayami1158"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Hehe~ÅÙ Chihiro-san told me to try these on, she brought[r]
 them for me! She said they'd definitely suit me!"[pcms]
 
@@ -145,7 +145,7 @@ Chihiro...? Who was that again...?[pcms]
 *1437|
 [fc]
 [vo_hay s="hayami1159"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Hiroshi? ...Geez... you're spacing out. Hey... do I look[r]
 cute? Am I cute?"[pcms]
 
@@ -161,12 +161,12 @@ White thighs... Ass...[pcms]
 *1440|
 [fc]
 [vo_hay s="hayami1160"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "...Hiroshi... I'm feeling kind of itchy..."[pcms]
 
 *1441|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Huh? What? Itchy...?"[pcms]
 
 *1442|
@@ -182,12 +182,12 @@ bloomers looked strangely erotic.[pcms]
 *1444|
 [fc]
 [vo_hay s="hayami1161"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Geez... do you want a girl like me to say it? You coward!"[pcms]
 
 *1445|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Eh...? Hey...? Hayami... wow!"[pcms]
 
 [ChrSetEx layer=4 chbase="hayami_s08"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -244,20 +244,20 @@ skillfully began to play with my dick with her feet.[pcms]
 
 *1449|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Wha... what the hell... what are you doing!"[pcms]
 
 *1450|
 [fc]
 [vo_hay s="hayami1163"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "You idiot, Hiroshi! I'm going out of my way to seduce you,[r]
 and you don't do anything! Could it be that you can't get it[r]
 up?"[pcms]
 
 *1451|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "No... it's not that... uh..."[pcms]
 
 *1452|
@@ -286,7 +286,7 @@ pervert~?"[pcms]
 
 *1456|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Uh... ah..."[pcms]
 
 *1457|
@@ -298,13 +298,13 @@ strange excitement that made me forget about my sleepiness.[pcms]
 *1458|
 [fc]
 [vo_hay s="hayami1166"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Pervert! Hiroshi the pervert~! Ahahahaha...! Do you like[r]
 this? Pervert~~!"[pcms]
 
 *1459|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Ugh... ah... I'm not a pervert... no..."[pcms]
 
 *1460|
@@ -315,7 +315,7 @@ Irresistible...[pcms]
 *1461|
 [fc]
 [vo_hay s="hayami1167"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Ahh~... your dick is getting so hot..., and it's twitching[r]
 too~"[pcms]
 
@@ -327,7 +327,7 @@ her pussy spreading.[pcms]
 
 *1463|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Whoa... hey, you too... isn't that wet there..."[pcms]
 
 *1464|
@@ -365,7 +365,7 @@ receded.[pcms]
 
 *1471|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Uh... ughh... what the hell is this!"[pcms]
 
 *1472|
@@ -377,7 +377,7 @@ increasing the pressure of her feet.[pcms]
 *1473|
 [fc]
 [vo_hay s="hayami1169"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Ehehe~ÅÙ How's this? Does it feel good?"[pcms]
 
 [evcg storage="HEV611b"][trans_c cross time=301]
@@ -391,13 +391,13 @@ coming out! Ahahaha!! It's so funny!"[pcms]
 
 *1475|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Guh... like this... ugh..."[pcms]
 
 *1476|
 [fc]
 [vo_hay s="hayami1171"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Huh? What's wrong, Hiroshi-kun? The tip of your cock is[r]
 getting bigger and bigger, you know?"[pcms]
 
@@ -409,7 +409,7 @@ to me, my..."[pcms]
 
 *1478|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Ugh... damn it! That's enough!! Shit..."[pcms]
 
 *1479|
@@ -427,12 +427,12 @@ cowper's fluid.[pcms]
 *1481|
 [fc]
 [vo_hay s="hayami1173"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Ahah! I'm getting excited too! Ahaha!! This is fun too~ÅÙ"[pcms]
 
 *1482|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Hah... Hayami... guh..."[pcms]
 
 *1483|
@@ -449,7 +449,7 @@ man than laughing, were vacant as if feverish.[pcms]
 
 *1485|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Hayami?"[pcms]
 
 *1486|
@@ -465,7 +465,7 @@ Like this... with this... But I can't hold back anymore..."[pcms]
 
 *1488|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Ugh... I can't... anymore..."[pcms]
 
 *1489|
@@ -476,13 +476,13 @@ Like this... with this... But I can't hold back anymore..."[pcms]
 
 *1490|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "I can't... take it anymore!"[pcms]
 
 *1491|
 [fc]
 [vo_hay s="hayami1177"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Hmm~ÅÙ You're making such cute noises~ ahaha! This is so[r]
 fun! Ei! Ei!! Ahah!"[pcms]
 
@@ -494,7 +494,7 @@ heat within me.[pcms]
 
 *1493|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Ugh... it's coming out!"[pcms]
 
 ;[éÀê∏ÉtÉâA]
@@ -511,13 +511,13 @@ Ahahaha!!"[pcms]
 
 *1495|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Ugh... ughh... hah... hah... ughh"[pcms]
 
 *1496|
 [fc]
 [vo_hay s="hayami1179"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Wow~! My feet are all sticky~... Fufu... ahaha..."[pcms]
 
 *1497|
@@ -527,7 +527,7 @@ it as lotion to start stimulating my thing again.[pcms]
 
 *1498|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Hah... ugh... hah... hah... stop, please... ugh..."[pcms]
 
 *1499|
@@ -539,7 +539,7 @@ that good? ...Then, shall I do it even more amazing...?"[pcms]
 
 *1500|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Ugh... what... what are you planning to do...?"[pcms]
 
 *1501|
@@ -551,7 +551,7 @@ fufu... ahahaha!!"[pcms]
 
 *1502|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Ha, Hayami?"[pcms]
 
 ;//ÅöÉCÉxÉìÉgÇbÇfÇQ
@@ -583,7 +583,7 @@ excitement, and slightly swollen veins were visible.[pcms]
 
 *1507|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "To see yours up close like this... Amazing... they're[r]
 huge..., and your nipples are hard..."[pcms]
 
@@ -596,7 +596,7 @@ my nipples..."[pcms]
 
 *1509|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "You're being so lewd... mmm..."[pcms]
 
 *1510|
@@ -627,7 +627,7 @@ The sloppy pussy made lewd noises as it stimulated my cock.[pcms]
 
 *1514|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Oh... ohh... Hayami..."[pcms]
 
 *1515|
@@ -645,7 +645,7 @@ clit feels good!"[pcms]
 
 *1517|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Let me put it in... I can't hold back anymore..."[pcms]
 
 *1518|
@@ -662,13 +662,13 @@ having cum.[pcms]
 
 *1520|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Ugh... I can't stand it anymore..."[pcms]
 
 *1521|
 [fc]
 [vo_hay s="hayami1187"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Ya... ah... just a little more..., nuhh..."[pcms]
 
 *1522|
@@ -680,7 +680,7 @@ each small shudder.[pcms]
 *1523|
 [fc]
 [vo_hay s="hayami1188"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Hah... ah... hiuu...!"[pcms]
 
 *1524|
@@ -709,12 +709,12 @@ My cock was slowly swallowed by the hot, sticky soft flesh.[pcms]
 *1528|
 [fc]
 [vo_hay s="hayami1190"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Hiroshi's... inside me... ahhaa... feels good... nha..."[pcms]
 
 *1529|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Haa... your pussy... it's so warm... and damn wet..."[pcms]
 
 *1530|
@@ -732,13 +732,13 @@ buck in surprise.[pcms]
 
 *1532|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Uah...!? Ah... kuh..., Hayami..., Hayami!"[pcms]
 
 *1533|
 [fc]
 [vo_hay s="hayami1192"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Fuu... faaaaah! Amazing!! Hiroshi's hitting deep inside...[r]
 with a thump... ahah... nhaa!"[pcms]
 
@@ -751,7 +751,7 @@ this with Hiroshi..."[pcms]
 
 *1535|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "...?"[pcms]
 
 *1536|
@@ -763,7 +763,7 @@ why..."[pcms]
 
 *1537|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "..."[pcms]
 
 *1538|
@@ -788,13 +788,13 @@ close friends... but now, even that's becoming unclear..."[pcms]
 *1541|
 [fc]
 [vo_hay s="hayami1197"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Before everything about Hiroshi becomes unclear to me, I[r]
 thought I had to do this... Actually..."[pcms]
 
 *1542|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "..."[pcms]
 
 *1543|
@@ -827,7 +827,7 @@ clear.[pcms]
 
 *1549|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Hayami..., I think... maybe we're thinking the same[r]
 thing..."[pcms]
 
@@ -839,20 +839,20 @@ thing..."[pcms]
 
 *1551|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "But you know... maybe it's okay not to say it. Besides, I[r]
 don't even know how to put it into words..."[pcms]
 
 *1552|
 [fc]
 [vo_hay s="hayami1199"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "...Yeah... But we don't need that..., because... mmm...,[r]
 probably we understood without saying it..."[pcms]
 
 *1553|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "...Sorry... I should have said it. But I was afraid[r]
 everything would break if I did..."[pcms]
 
@@ -892,25 +892,25 @@ couldn't endure it any longer, my limit approached.[pcms]
 
 *1560|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Kuu... Hayami... uhh..."[pcms]
 
 *1561|
 [fc]
 [vo_hay s="hayami1202"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "My head's getting weird again..., ah, ah... more... Nooo...[r]
 nuuuh!"[pcms]
 
 *1562|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "I'm also gonna... uahh...! Kuu!"[pcms]
 
 *1563|
 [fc]
 [vo_hay s="hayami1203"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Fuaah!! Ah--! Noooo!"[pcms]
 
 ;[éÀê∏ÉtÉâA]
@@ -926,7 +926,7 @@ nuuuh!"[pcms]
 
 *1565|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Hah... uh..."[pcms]
 
 *1566|
@@ -941,12 +941,12 @@ space between us.[pcms]
 *1567|
 [fc]
 [vo_hay s="hayami1205"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Hey, let's be happy..., let's kiss..."[pcms]
 
 *1568|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Mmm... me too..."[pcms]
 
 *1569|

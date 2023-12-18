@@ -32,7 +32,7 @@ Strange... Has my body always been this light...?[pcms]
 
 *12797|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "...Will you follow behind me?"[pcms]
 
 ;èÍèä<ImageFade 6,60,OFF,OFF>
@@ -44,7 +44,7 @@ It's kind of nice...[pcms]
 
 *12799|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "...Uh? Are you listening?"[pcms]
 
 *12800|
@@ -65,7 +65,7 @@ What is this feeling...?[pcms]
 
 *12803|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Hey, Yuu!"[pcms]
 
 *12804|
@@ -82,7 +82,7 @@ Oh, so the rustling noise was Hiro's voice...[pcms]
 
 *12806|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "...I'll lead the way, so you... follow behind. ...Okay?"[pcms]
 
 *12807|
@@ -236,7 +236,7 @@ looks like my sister and go in front of Hiro.[pcms]
 
 *12835|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Ah..."[pcms]
 
 *12836|

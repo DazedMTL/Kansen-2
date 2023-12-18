@@ -29,7 +29,7 @@
 
 *4344|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "It looks like the whole building is experiencing a power[r]
 outage."[pcms]
 
@@ -40,7 +40,7 @@ energetically took a seat on the chair.[pcms]
 
 *4346|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Ah... How can we safely and surely get to the building[r]
 across... There's no time, damn it..."[pcms]
 
@@ -58,7 +58,7 @@ chan muttered softly from the seat in front of me.[pcms]
 
 *4349|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "That person...?"[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_f04"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -70,7 +70,7 @@ chan muttered softly from the seat in front of me.[pcms]
 
 *4351|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Ah, Hayami? But why?"[pcms]
 
 *4352|
@@ -81,7 +81,7 @@ chan muttered softly from the seat in front of me.[pcms]
 
 *4353|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "...?"[pcms]
 
 *4354|
@@ -268,7 +268,7 @@ Ah, that reminds me...[pcms]
 
 *4381|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "...I'm still no good."[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_n07"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -280,7 +280,7 @@ Ah, that reminds me...[pcms]
 
 *4383|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "That part about 'the only ones you can trust in this[r]
 world'... I just realized that I'm still not trustworthy."[pcms]
 
@@ -293,7 +293,7 @@ frozen in place.[pcms]
 
 *4385|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "In your eyes, I'm just like those money-grubbing guys...[r]
 That's sad..."[pcms]
 
@@ -314,7 +314,7 @@ couldn't have been so desperate to help someone else..."[pcms]
 
 *4388|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Well then, let's leave the trust issue for later. For now,[r]
 we'll go with me being a proper friend who isn't after your[r]
 money, okay?"[pcms]
@@ -340,7 +340,7 @@ though we're at different schools..."[pcms]
 
 *4391|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Hm?"[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_f04"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -376,7 +376,7 @@ chan.[pcms]
 
 *4397|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "When we get back to the mountain side, how about we go out[r]
 somewhere to play...?"[pcms]
 
@@ -419,7 +419,7 @@ head against my shoulder.[pcms]
 
 *4403|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Y-Yuu!?"[pcms]
 
 *4404|
@@ -430,7 +430,7 @@ head against my shoulder.[pcms]
 
 *4405|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "You... I thought some crazy person had barged in! Don't[r]
 scare me like that!"[pcms]
 
@@ -459,7 +459,7 @@ around my body and I couldn't get her off.[pcms]
 
 *4410|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Hey, enough is enough..."[pcms]
 
 [jump storage="jingujiroute12030.ks" target=*jingujiroute12030_TOP]

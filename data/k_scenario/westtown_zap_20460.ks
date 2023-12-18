@@ -706,7 +706,7 @@ scumbags cheering and Arisu-san's screams.[pcms]
 *16262|
 [fc]
 [vo_hay s="hayami0612"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Ahh... please, no more... Please... stop it..."[pcms]
 
 *16263|
@@ -738,7 +738,7 @@ and jeering at her plight.[pcms]
 *16268|
 [fc]
 [vo_hay s="hayami0613"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Ah... ah! Stop! No... noo! It's too deep... pull it out[r]
 already..."[pcms]
 
@@ -984,7 +984,7 @@ clean for her, huh?"[pcms]
 *16309|
 [fc]
 [vo_hay s="hayami0620"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "What are you saying, you idiot!! Stop it!!"[pcms]
 
 *16310|
@@ -1041,7 +1041,7 @@ girls!! Gyahaha!!"[pcms]
 *16319|
 [fc]
 [vo_hay s="hayami0621"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Nagasaki-san..."[pcms]
 
 *16320|
@@ -1147,7 +1147,7 @@ her up... make her clean..."[pcms]
 *16338|
 [fc]
 [vo_hay s="hayami0624"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Nagasaki-san!! What are you doing!? Nha! Noo... Ahfu..."[pcms]
 
 *16339|
@@ -1483,7 +1483,7 @@ Here I go!"[pcms]
 *16396|
 [fc]
 [vo_hay s="hayami0633"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Ubuah! Haa! Haa... No, nooo! Nooooo!!"[pcms]
 
 ;[éÀê∏ÉtÉâA]

@@ -40,7 +40,7 @@ embarrassing experiences before.[pcms]
 *15337|
 [fc]
 [vo_hay s="hayami0604"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "I'm scared... Hiroshi..."[pcms]
 
 *15338|
@@ -63,7 +63,7 @@ Most of all, I didn't feel like I had a fever.[pcms]
 *15342|
 [fc]
 [vo_hay s="hayami0605"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "But... why... Why did this happen..."[pcms]
 
 *15343|
@@ -120,7 +120,7 @@ heard someone entering the bathroom.[pcms]
 *15353|
 [fc]
 [vo_hay s="hayami0606"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "...!!"[pcms]
 
 *15354|

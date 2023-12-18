@@ -25,7 +25,7 @@
 
 *6969|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "An observation deck, huh..."[pcms]
 
 *6970|
@@ -57,7 +57,7 @@ that would be better...[pcms]
 
 *6975|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Hey, shall we head back to the meeting spot? If we go back[r]
 early, we won't be left behind."[pcms]
 

@@ -28,7 +28,7 @@ previously hidden by shutters.[pcms]
 
 *12414|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Damn it, there are still so many of them...!!"[pcms]
 
 ;êŠ<ImageFade 6,60,OFF,OFF>

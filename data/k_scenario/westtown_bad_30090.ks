@@ -58,7 +58,7 @@ restraints would come off easily...[pcms]
 
 *9360|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Hey, keep still. I'm going to take these off."[pcms]
 
 *9361|
@@ -80,7 +80,7 @@ little shit!!"[pcms]
 
 *9363|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Shut up and stay still!! You want them off or not?!"[pcms]
 
 [chara_int][trans_c cross time=150]
@@ -92,7 +92,7 @@ and reached for the belt-like restraints again.[pcms]
 
 *9365|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Damn, this is tight...!!"[pcms]
 
 *9366|
@@ -111,7 +111,7 @@ it!! Hurry up, you little shit!!"[pcms]
 
 *9367|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Shut it!! Be quiet!!"[pcms]
 
 *9368|
@@ -128,7 +128,7 @@ bastard!!"[pcms]
 
 *9369|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Stop your yapping, damn it!! You're the one who should[r]
 remember this, you piece of trash!!"[pcms]
 
@@ -152,7 +152,7 @@ strange woman who had come close by.[pcms]
 
 *9372|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Hey! That woman is...!"[pcms]
 
 *9373|
@@ -177,7 +177,7 @@ onto it with her.[pcms]
 
 *9375|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "..."[pcms]
 
 *9376|

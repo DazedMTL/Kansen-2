@@ -48,7 +48,7 @@ be here![pcms]
 
 *8302|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Are you okay, Yuu?"[pcms]
 
 *8303|
@@ -77,7 +77,7 @@ struggling.[pcms]
 
 *8306|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "We're almost at the upper floor... Just a little bit[r]
 longer, hang in there!"[pcms]
 
@@ -88,7 +88,7 @@ up these stairs, we can take a breather..."[pcms]
 
 *8308|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "They shouldn't be ahead...!"[pcms]
 
 *8309|
@@ -102,7 +102,7 @@ can do is pray.[pcms]
 
 *8311|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "...!!"[pcms]
 
 *8312|
@@ -120,7 +120,7 @@ of my choice.[pcms]
 
 *8314|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Damn it...!"[pcms]
 
 [chara_int][trans_c cross time=150]

@@ -205,7 +205,7 @@ able to see the sky![pcms]
 
 *13714|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Hey, hey!"[pcms]
 
 ;//SE：打撃音（？）
@@ -590,7 +590,7 @@ She's waiting to be shattered by me.[pcms]
 
 *13776|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Stop it!!"[pcms]
 
 *13777|

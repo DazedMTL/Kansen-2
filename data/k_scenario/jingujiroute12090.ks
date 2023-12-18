@@ -35,7 +35,7 @@ us.[pcms]
 
 *4905|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Tch... one after another..."[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_n01"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -47,7 +47,7 @@ us.[pcms]
 
 *4907|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "The rooftop...?"[pcms]
 
 *4908|
@@ -64,7 +64,7 @@ closed... Those shutters won't open easily, right...?"[pcms]
 
 *4910|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "I see... If we're trying to escape from here, the only way[r]
 out is through the rooftop..."[pcms]
 
@@ -74,7 +74,7 @@ Maya-chan nodded at me again.[pcms]
 
 *4912|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Alright... for now, let's head to the rooftop. If she's not[r]
 there, she might be hiding somewhere else, so let's search[r]
 inside the building one more time."[pcms]

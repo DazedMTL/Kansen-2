@@ -26,7 +26,7 @@
 
 *5187|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "!!"[pcms]
 
 *5188|

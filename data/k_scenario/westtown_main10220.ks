@@ -60,7 +60,7 @@ third floor was labeled "GroundCity PETLand".[pcms]
 
 *10853|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Is this entire floor a pet shop...?"[pcms]
 
 *10854|
@@ -92,7 +92,7 @@ don't have time for ordinary citizens...[pcms]
 
 *10859|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Tch! Useless..."[pcms]
 
 
@@ -107,7 +107,7 @@ don't have time for ordinary citizens...[pcms]
 
 *10861|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Ah, no, it's nothing..."[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
@@ -134,7 +134,7 @@ splattering their own blood on the floor.[pcms]
 
 *10866|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Hmm...?"[pcms]
 
 [ChrSetEx layer=4 chbase="nanasi_n02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -168,7 +168,7 @@ had a scowl on her face.[pcms]
 
 *10871|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "..."[pcms]
 
 *10872|
@@ -236,7 +236,7 @@ them out now, they might attack us."[pcms]
 
 *10883|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Besides, we don't know where the key to open the cages is."[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_n01"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -270,7 +270,7 @@ get attacked by them, there's no way we'll survive...[pcms]
 
 *10889|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "...Let's go."[pcms]
 
 [chara_int][trans_c cross time=150]

@@ -99,7 +99,7 @@ everyone gave their snacks with a wry smile.[pcms]
 *6747|
 [fc]
 [vo_hay s="hayami0064"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Yay, I got some snacksÅÙ"[pcms]
 
 [ChrSetEx layer=2 chbase="koba_n10"][ChrSetXY layer=2 x=0 y=0][trans_c cross time=150]
@@ -122,7 +122,7 @@ plopped down onto my lap with a thud.[pcms]
 
 *6750|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Hey, you...!"[pcms]
 
 [ChrSetEx layer=4 chbase="hayami_t03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -130,13 +130,13 @@ plopped down onto my lap with a thud.[pcms]
 *6751|
 [fc]
 [vo_hay s="hayami0065"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Isn't it because you have big breasts? It's not because[r]
 you're heavy."[pcms]
 
 *6752|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "It's just because you've gotten fat from eating too many[r]
 sweets. Don't escape from reality."[pcms]
 
@@ -154,7 +154,7 @@ sweets. Don't escape from reality."[pcms]
 
 *6754|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Mogah!!"[pcms]
 
 *6755|
@@ -183,7 +183,7 @@ child."[pcms]
 
 *6758|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "..."[pcms]
 
 *6759|
@@ -212,7 +212,7 @@ permission!"[pcms]
 
 *6763|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "You smell like sweets, you know?"[pcms]
 
 [ChrSetEx layer=2 chbase="koba_n08"][ChrSetXY layer=2 x=0 y=0][trans_c cross time=150]
@@ -239,7 +239,7 @@ arm close to her nose.[pcms]
 
 *6767|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Just get off me already, will you!"[pcms]
 
 [ChrSetEx layer=2 chbase="koba_n02"][ChrSetXY layer=2 x=0 y=0][trans_c cross time=150]
@@ -373,7 +373,7 @@ squirming on my lap as if it became too much for her.[pcms]
 
 *6786|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Hey stop squirming... it's spilling everywhere!"[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
@@ -393,7 +393,7 @@ wasn't laughing and was glaring at me with a sullen look.[pcms]
 
 *6789|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Well, unlike you, Yuu is light. She's slender. And fair-[r]
 skinned..."[pcms]
 
@@ -412,13 +412,13 @@ who was on top of me.[pcms]
 
 *6791|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Guwah!! Hey, what are you doing... it hurts!!"[pcms]
 
 *6792|
 [fc]
 [vo_hay s="hayami0072"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "You! You!!"[pcms]
 
 [se0 storage="SE23"]
@@ -457,13 +457,13 @@ trying to kill me... ughaaaahhhhh!!!"[pcms]
 *6796|
 [fc]
 [vo_hay s="hayami0073"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Hey, hey, everyone's piling on too much!! I'm going to die[r]
 too!!"[pcms]
 
 *6797|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Ah..."[pcms]
 
 *6798|

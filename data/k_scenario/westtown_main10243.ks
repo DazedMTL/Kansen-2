@@ -36,7 +36,7 @@ frozen in place."[pcms]
 
 *10987|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Ah..."[pcms]
 
 *10988|
@@ -46,7 +46,7 @@ girl."[pcms]
 
 *10989|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "..."[pcms]
 
 *10990|

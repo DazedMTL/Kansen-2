@@ -51,7 +51,7 @@
 
 *443|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Damn it!"[pcms]
 
 *444|
@@ -61,7 +61,7 @@ clothes and started to fondle my body.[pcms]
 
 *445|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Damn... you!! Let go!!"[pcms]
 
 *446|
@@ -96,7 +96,7 @@ happy about it...?"[pcms]
 
 *451|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Gah...! Stop it!"[pcms]
 
 *452|
@@ -113,7 +113,7 @@ matter how much I pushed or pulled.[pcms]
 
 *454|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Ugh... what the..."[pcms]
 
 *455|
@@ -131,7 +131,7 @@ your body all slippery with it..."[pcms]
 
 *457|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Ughh..."[pcms]
 
 *458|
@@ -181,7 +181,7 @@ guard was relentlessly licking my dick.[pcms]
 
 *466|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Ugh... what's with you guys! Uhh...!"[pcms]
 
 *467|
@@ -207,7 +207,7 @@ want with it. Hehe... *suck*!!"[pcms]
 
 *470|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Ugh... damn it... what's this... ugh..."[pcms]
 
 *471|
@@ -246,7 +246,7 @@ What is this? This makes no sense!![pcms]
 
 *477|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Damn it... ugh!"[pcms]
 
 *478|
@@ -280,7 +280,7 @@ this man's semen~..."[pcms]
 
 *482|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Aggh..."[pcms]
 
 *483|
@@ -300,7 +300,7 @@ stimuli being given to me.[pcms]
 
 *486|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Uaaaah!! What is this?!"[pcms]
 
 *487|
@@ -338,7 +338,7 @@ nipples... are good! Naaah... fuah..."[pcms]
 
 *493|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Ugh... uuh..."[pcms]
 
 *494|
@@ -356,7 +356,7 @@ hey~~ let me drink your semen~~"[pcms]
 
 *496|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Uah..."[pcms]
 
 *497|
@@ -405,7 +405,7 @@ imagined.[pcms]
 
 *505|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Uah! Haha! Auh!"[pcms]
 
 *506|
@@ -424,7 +424,7 @@ milk~~..."[pcms]
 
 *508|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Haha... haha!! That's right! Suck more! Ahaha!"[pcms]
 
 *509|
@@ -442,7 +442,7 @@ feels good, doesn't it...? Your cock is twitching..."[pcms]
 
 *511|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Uaaah... ugh..."[pcms]
 
 *512|
@@ -465,7 +465,7 @@ nnn... fuu!!"[pcms]
 
 *515|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Ugh... aah... ah... I'm going to...!"[pcms]
 
 *516|
@@ -482,7 +482,7 @@ her cheeks puckered.[pcms]
 
 *518|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Ugh... uaaahh!!"[pcms]
 
 *519|
@@ -539,7 +539,7 @@ of my chest, completely spent.[pcms]
 
 *527|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Haa... HAAH..."[pcms]
 
 *528|
@@ -553,7 +553,7 @@ My cock remained erect even after I had just come.[pcms]
 
 *530|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "..."[pcms]
 
 *531|
@@ -580,7 +580,7 @@ where Hayami and the others were.[pcms]
 
 *533|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Hayami... Hayami!!"[pcms]
 
 *534|
@@ -592,7 +592,7 @@ me~~!?"[pcms]
 
 *535|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Guh, ah...!?"[pcms]
 
 *536|
@@ -622,7 +622,7 @@ down.[pcms]
 
 *538|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "What the... let go of me!! What's with this all of a[r]
 sudden!?"[pcms]
 
@@ -641,7 +641,7 @@ is so hard..., nhaaahhh..."[pcms]
 
 *541|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Nnn...ugh..."[pcms]
 
 *542|
@@ -662,7 +662,7 @@ echoed.[pcms]
 
 *545|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Wha...ugh...kuh!"[pcms]
 
 *546|
@@ -674,7 +674,7 @@ face? Does it turn you on?"[pcms]
 
 *547|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Ah...aaaah...kuh!! I just...came...a moment ago...kuh!"[pcms]
 
 *548|
@@ -686,7 +686,7 @@ good~~! Your hard...cock...is good..."[pcms]
 
 *549|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Uaaah..."[pcms]
 
 *550|
@@ -697,7 +697,7 @@ painted with light pink lipstick.[pcms]
 
 *551|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Ah...ugh..."[pcms]
 
 *552|
@@ -765,7 +765,7 @@ your...semen inside me, please!!"[pcms]
 
 *563|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Kuh...uuuh...is that okay with you...to do that?"[pcms]
 
 *564|
@@ -793,7 +793,7 @@ Will I become like this too!?[pcms]
 
 *569|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Ugh...woooah! Let go! I don't want to! I don't want to[r]
 become like you guys!! I want to stay sane...stay sane!"[pcms]
 
@@ -806,7 +806,7 @@ importantly~~...do it more vigorously. Pound me harder~~!"[pcms]
 
 *571|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Kuh...uaaah!! Uah..., uuuuuh!!"[pcms]
 
 *572|
@@ -844,7 +844,7 @@ going to break, ugh!"[pcms]
 
 *578|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Ha...haah...ugh...hahah!! Hahaha!! That's good! Your!!"[pcms]
 
 *579|
@@ -885,7 +885,7 @@ wanted to pursue pleasure relentlessly.[pcms]
 
 *585|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Kuh...I'm also going to come...kuuh!!"[pcms]
 
 *586|
@@ -897,7 +897,7 @@ Uaaaaaaahhh!!"[pcms]
 
 *587|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "I'm going to release it!"[pcms]
 
 ;[éÀê∏ÉtÉâA]
@@ -914,7 +914,7 @@ hot semen! Uaaaaaahhh!!"[pcms]
 
 *589|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Uuuuh..."[pcms]
 
 *590|
@@ -938,7 +938,7 @@ filling me up inside, so much~..."[pcms]
 
 *593|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Uuu..."[pcms]
 
 *594|

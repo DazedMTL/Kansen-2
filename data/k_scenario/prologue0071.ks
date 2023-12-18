@@ -23,7 +23,7 @@
 
 *6639|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Mmm..."[pcms]
 
 [stop_se0]

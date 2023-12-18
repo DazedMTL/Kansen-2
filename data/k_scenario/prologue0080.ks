@@ -34,7 +34,7 @@ district.[pcms]
 
 *6667|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Aren't you buying too much...?"[pcms]
 
 *6668|
@@ -79,7 +79,7 @@ home, aren't you?"[pcms]
 *6673|
 [fc]
 [vo_hay s="hayami0052"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "You can't know that for sure..."[pcms]
 
 *6674|
@@ -96,7 +96,7 @@ This is definitely going to be eaten, no doubt about it...[pcms]
 
 *6676|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "...?"[pcms]
 
 *6677|
@@ -123,7 +123,7 @@ It was that young lady.[pcms]
 
 *6681|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "..."[pcms]
 
 *6682|
@@ -163,7 +163,7 @@ as she stared at me. Her eyes conveyed a sense of wariness.[pcms]
 
 *6688|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Ah, I'm not suspicious or anything. It just looked like you[r]
 were in trouble. Are you looking for something? If you want,[r]
 I can help you look."[pcms]
@@ -184,7 +184,7 @@ there was no ulterior motive.[pcms]
 
 *6691|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "John?"[pcms]
 
 *6692|
@@ -200,7 +200,7 @@ her...?[pcms]
 
 *6694|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "What kind of dog is John?"[pcms]
 
 *6695|
@@ -216,7 +216,7 @@ on the leash because of the dog's pulling strength...?[pcms]
 
 *6697|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Did he get lost around here?"[pcms]
 
 *6698|
@@ -231,7 +231,7 @@ him up..."[pcms]
 
 *6699|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Sorry to interrupt... Oh, Hayami?"[pcms]
 
 *6700|
@@ -240,7 +240,7 @@ The sudden email from Hayami contained an attached image.[pcms]
 
 *6701|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Ah, this...!!"[pcms]
 
 *6702|
@@ -251,7 +251,7 @@ district.[pcms]
 
 *6703|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "That's great. Everything will be okay now."[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_n06"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -327,14 +327,14 @@ fellow strays, we should go look for our partners."[pcms]
 *6714|
 [fc]
 [vo_hay s="hayami0054"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "This kid is smart. When I asked if she wanted to go look[r]
 for her owner, she barked in agreement and followed us[r]
 here."[pcms]
 
 *6715|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Well, it's good that she was found quickly. Right?"[pcms]
 
 *6716|
@@ -376,13 +376,13 @@ people really have bad manners?"[pcms]
 *6721|
 [fc]
 [vo_hay s="hayami0056"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Heh~ You're kind to cute girls, huh?"[pcms]
 ;//ÅùÉCÉÑÉ~Ç¡Ç€Ç≠
 
 *6722|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "No, no, I'm kind to all girls, you know?"[pcms]
 
 *6723|
@@ -393,7 +393,7 @@ people really have bad manners?"[pcms]
 
 *6724|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Let's go home, Yuu."[pcms]
 
 [ChrSetEx layer=4 chbase="hayami_n13"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -401,7 +401,7 @@ people really have bad manners?"[pcms]
 *6725|
 [fc]
 [vo_hay s="hayami0058"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Hey! If you won't carry it, I won't give you guys any[r]
 snacks!!"[pcms]
 
@@ -416,7 +416,7 @@ of it, and there won't be any left for us, right?"[pcms]
 *6727|
 [fc]
 [vo_hay s="hayami0059"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "You can't know that for sure..."[pcms]
 
 *6728|

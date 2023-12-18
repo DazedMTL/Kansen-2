@@ -24,7 +24,7 @@
 
 *4411|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "..."[pcms]
 
 *4412|
@@ -42,7 +42,7 @@ Hiro~ÅÙ"[pcms]
 
 *4414|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Where did you even get this from...?"[pcms]
 
 *4415|
@@ -59,7 +59,7 @@ her from head to toe, and Yuu's cheeks turned red.[pcms]
 
 *4417|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "..."[pcms]
 
 *4418|
@@ -87,7 +87,7 @@ it..."[pcms]
 
 *4422|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "No, well, there are guys who like to cosplay. It's not[r]
 something to worry about..."[pcms]
 
@@ -105,7 +105,7 @@ and stared at Yuu.[pcms]
 
 *4425|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "...What?"[pcms]
 
 [ChrSetEx layer=4 chbase="koba_m03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -127,7 +127,7 @@ for it...? Was Yuu always this oblivious to the mood...?[pcms]
 
 *4429|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "You know... now's not the time for skits, you get that,[r]
 right?"[pcms]
 
@@ -174,7 +174,7 @@ After all... Yuu is...[pcms]
 
 *4437|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Yuu..."[pcms]
 
 [ChrSetEx layer=4 chbase="koba_m04"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -191,7 +191,7 @@ It's different..."[pcms]
 
 *4439|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "..."[pcms]
 
 *4440|
@@ -261,7 +261,7 @@ entered Kyowa University, disappearing from in front of me.[pcms]
 
 *4449|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "No way- thank goodness! I'll return it tomorrow."[pcms]
 
 [ChrSetEx layer=4 chbase="spi_koba_n01"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -291,7 +291,7 @@ Just about three sheets would be fine."[pcms]
 
 *4454|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Take about ten sheets if you're going to take any at all."[pcms]
 
 [ChrSetEx layer=4 chbase="spi_koba_n02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -324,7 +324,7 @@ Since then, we started talking more often.[pcms]
 
 *4458|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "If it's your brain you're looking for, you haven't had one[r]
 for a while now?"[pcms]
 
@@ -332,12 +332,12 @@ for a while now?"[pcms]
 *4459|
 [fc]
 [vo_hay s="hayami0679"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Then lend me yours, Hiroshi."[pcms]
 
 *4460|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Tch, can't be helped..."[pcms]
 
 [ChrSetEx layer=2 chbase="spi_koba_n10"][ChrSetXY layer=2 x=0 y=0][trans_c cross time=150]
@@ -365,7 +365,7 @@ with Hayami.[pcms]
 *4464|
 [fc]
 [vo_hay s="hayami0680"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "If I put that in my head, will I understand the appeal of[r]
 erotic DVDs?"[pcms]
 
@@ -389,7 +389,7 @@ erotic DVDs?"[pcms]
 
 *4466|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Right, Yuu, I'll return the CD, so come by my place, okay?"[pcms]
 
 [ChrSetEx layer=4 chbase="spi_koba_n08"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -404,7 +404,7 @@ magazine? The silver one."[pcms]
 
 *4468|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Okay. But Yuu, silver accessories? That doesn't really fit[r]
 your image."[pcms]
 
@@ -417,7 +417,7 @@ your image."[pcms]
 
 *4470|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Huh... Oh, don't tell me, you're buying it for a girl?"[pcms]
 
 [ChrSetEx layer=4 chbase="spi_koba_n09"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -431,7 +431,7 @@ your image."[pcms]
 
 *4472|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Hey! Who is it? Tell me, come on!"[pcms]
 
 [ChrSetEx layer=4 chbase="spi_koba_n11"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -445,7 +445,7 @@ your image."[pcms]
 
 *4474|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Who is itttttt! Come onnnnn!"[pcms]
 
 [quake_bg å≥time=200 xy m]
@@ -561,7 +561,7 @@ should run away..."[pcms]
 
 *4490|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "That's impossible. I'm going to save both you and Hayami.[r]
 Absolutely."[pcms]
 
@@ -604,7 +604,7 @@ streamed down her pale cheeks.[pcms]
 
 *4496|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Yuu..."[pcms]
 
 *4497|
@@ -616,7 +616,7 @@ me become strange..."[pcms]
 
 *4498|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Right now you're not strange yet, and we can go to the[r]
 hospital before you completely lose it. Don't give up."[pcms]
 
@@ -637,7 +637,7 @@ It's like a school play, pffft ahahaha!!"[pcms]
 
 *4501|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "!!"[pcms]
 
 *4502|
@@ -657,7 +657,7 @@ performance, a per-for-manceÅÙ Fufu...kupfufahahaha!!"[pcms]
 
 *4504|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "What's so funny!! Do you have any idea how Yuu feels right[r]
 now!?"[pcms]
 
@@ -677,7 +677,7 @@ should do as he says and get out of here quickly."[pcms]
 
 *4507|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "What...?"[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
@@ -720,7 +720,7 @@ sleep.[pcms]
 
 *4513|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "..."[pcms]
 
 *4514|
@@ -819,7 +819,7 @@ will, occasionally making pained expressions.[pcms]
 
 *4529|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Ah, okay, wait a minute. I'll bring something to tie you up[r]
 with."[pcms]
 
@@ -833,7 +833,7 @@ floor... You could use one of those to tie her up..."[pcms]
 
 *4531|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "The third floor, huh..."[pcms]
 
 *4532|
@@ -844,7 +844,7 @@ decided to take her with me.[pcms]
 
 *4533|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Then, let's go."[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]

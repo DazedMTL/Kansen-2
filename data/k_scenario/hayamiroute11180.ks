@@ -25,7 +25,7 @@
 
 *4007|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "..."[pcms]
 
 *4008|
@@ -87,7 +87,7 @@ their numbers decrease a bit more...[pcms]
 
 *4016|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "!!"[pcms]
 
 *4017|
@@ -164,13 +164,13 @@ return...[pcms]
 *4030|
 [fc]
 [vo_hay s="hayami0879"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Hiroshi...!"[pcms]
 ;//Åùè¨ê∫
 
 *4031|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "...?"[pcms]
 
 *4032|
@@ -198,7 +198,7 @@ flying somewhere.[pcms]
 
 *4036|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Could it be the rescue team...?"[pcms]
 
 *4037|
@@ -225,7 +225,7 @@ in are gone.[pcms]
 
 *4041|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Alright, let's go out Hayami!"[pcms]
 
 [ChrSetEx layer=4 chbase="hayami_t05"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -243,7 +243,7 @@ squinted my eyes from the glare, turning my face away.[pcms]
 
 *4044|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Ugh..."[pcms]
 
 [ChrSetEx layer=4 chbase="hayami_t04"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -260,7 +260,7 @@ at the sky, I could see the helicopter wobbling towards us.[pcms]
 
 *4047|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "...?"[pcms]
 
 *4048|
@@ -299,7 +299,7 @@ to signal for help from the helicopter.[pcms]
 
 *4054|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Hey! Where are you going?!"[pcms]
 
 *4055|
@@ -309,7 +309,7 @@ the helicopter flew right past us overhead.[pcms]
 
 *4056|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Damn it!!"[pcms]
 
 [ChrSetEx layer=4 chbase="hayami_t06"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -333,7 +333,7 @@ and following the helicopter's path.[pcms]
 
 *4060|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "..."[pcms]
 
 *4061|
@@ -348,12 +348,12 @@ So why are they ignoring us...!![pcms]
 *4063|
 [fc]
 [vo_hay s="hayami0884"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "What should we do? Hiroshi..."[pcms]
 
 *4064|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Ah..."[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
@@ -370,7 +370,7 @@ So why are they ignoring us...!![pcms]
 
 *4065|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "...?"[pcms]
 
 *4066|
@@ -413,7 +413,7 @@ should we do... Somewhere to hide...[pcms]
 
 *4073|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Huh...?"[pcms]
 
 *4074|

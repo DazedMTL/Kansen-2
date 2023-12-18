@@ -55,7 +55,7 @@ many of them.[pcms]
 
 *3405|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Alright..."[pcms]
 
 *3406|
@@ -69,7 +69,7 @@ I had become accustomed to using.[pcms]
 
 *3407|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "With this, we should be safe for a while."[pcms]
 
 *3408|
@@ -129,7 +129,7 @@ I sat down beside her and peered into Hayami's face.[pcms]
 
 *3417|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "You can sleep, I'll stay awake."[pcms]
 
 ;//[ChrSetEx layer=4 chbase="hayami_d01"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -151,18 +151,18 @@ get hot...[pcms]
 
 *3421|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Did you catch a cold or something? You're trembling."[pcms]
 
 *3422|
 [fc]
 [vo_hay s="hayami0730"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "...sorry... I'm sorry, Hiroshi..."[pcms]
 
 *3423|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "What's with that all of a sudden?"[pcms]
 
 *3424|
@@ -173,18 +173,18 @@ began to swell inside me.[pcms]
 
 *3425|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Hey, Hayami...?"[pcms]
 
 *3426|
 [fc]
 [vo_hay s="hayami0731"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "I... with Nagasaki-san..."[pcms]
 
 *3427|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Nagasaki? Who's Nagasaki?"[pcms]
 
 *3428|
@@ -195,7 +195,7 @@ began to swell inside me.[pcms]
 
 *3429|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Ah, that woman... So what about her? Did she do something?"[pcms]
 
 *3430|
@@ -206,24 +206,24 @@ I pressed Hayami for an answer.[pcms]
 *3431|
 [fc]
 [vo_hay s="hayami0733"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "...I was kissed..."[pcms]
 
 *3432|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Huh...? Kissed...?"[pcms]
 
 *3433|
 [fc]
 [vo_hay s="hayami0734"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "By that person who was acting a bit strange... I was[r]
 kissed..."[pcms]
 
 *3434|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "..."[pcms]
 
 *3435|
@@ -233,7 +233,7 @@ I felt my bad premonition slowly turning into reality.[pcms]
 
 *3436|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "A bit strange, you mean...?"[pcms]
 
 [ChrSetEx layer=4 chbase="hayami_d02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -247,7 +247,7 @@ attacked..."[pcms]
 
 *3438|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "You saw that too, huh..."[pcms]
 
 *3439|
@@ -263,7 +263,7 @@ you get sick..."[pcms]
 
 *3441|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "But hey, you were just kissed by that woman, right? It's[r]
 not like you were touched by one of those guys wandering[r]
 around like they're crazy, right? Right?"[pcms]
@@ -290,7 +290,7 @@ away, I stopped in my tracks at her shout.[pcms]
 
 *3445|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Hayami..."[pcms]
 
 [ChrSetEx layer=4 chbase="hayami_d01"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -346,7 +346,7 @@ it..."[pcms]
 *3454|
 [fc]
 [vo_hay s="hayami0742"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "I'm sorry, Hiroshi... even though you came all this way to[r]
 save me... I'm sorry..."[pcms]
 
@@ -404,19 +404,19 @@ trying to push me away and get free.[pcms]
 
 *3464|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Don't say such cold things. We've been friends hanging out[r]
 together since we entered Kyowa Academy, right?"[pcms]
 
 *3465|
 [fc]
 [vo_hay s="hayami0745"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Huh... sob... uuu~..."[pcms]
 
 *3466|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Ah, don't cry. It seems that thanks to going to the[r]
 hospital, there are people who didn't die, so let's hang in[r]
 there a bit more? I'll hang in there with you."[pcms]
@@ -431,7 +431,7 @@ everyone... dies..."[pcms]
 
 *3468|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Don't give up so easily. For all we know, they might have[r]
 already developed a cure that we don't know about, right?"[pcms]
 
@@ -439,7 +439,7 @@ already developed a cure that we don't know about, right?"[pcms]
 *3469|
 [fc]
 [vo_hay s="hayami0747"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Uh... sob..."[pcms]
 
 *3470|
@@ -450,7 +450,7 @@ another rescue team might come here."[pcms]
 
 *3471|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "If they don't come, we'll meet up with Yuu and the others[r]
 and leave this place. Even if you can't walk, I'll[r]
 definitely take you to the hospital."[pcms]
@@ -471,13 +471,13 @@ patted her head and gently stroked it.[pcms]
 *3474|
 [fc]
 [vo_hay s="hayami0749"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Ugh, sob... it's unfair... being kind only at times like[r]
 this... huh, sob..."[pcms]
 
 *3475|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "What's unfair? I'm always kind."[pcms]
 
 *3476|
@@ -510,7 +510,7 @@ against mine.[pcms]
 
 *3481|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "..."[pcms]
 
 *3482|
@@ -523,7 +523,7 @@ patted her as if to say "it's going to be okay."[pcms]
 *3483|
 [fc]
 [vo_hay s="hayami0752"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "...thank you..."[pcms]
 
 *3484|

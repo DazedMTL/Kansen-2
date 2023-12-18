@@ -40,7 +40,7 @@ All I can do is encourage Naomi...[pcms]
 
 *1973|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Naomi... hold on tight!! Aren't you... aren't you going to[r]
 save us!? Right now, you're the only one we can rely on!!"[pcms]
 
@@ -52,7 +52,7 @@ that!!"[pcms]
 
 *1975|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "We're almost safe... So...! Don't die!! We'll also try our[r]
 best not to lose it!!"[pcms]
 
@@ -76,7 +76,7 @@ else, but I have no choice but to believe in Naomi![pcms]
 
 *1979|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "..."[pcms]
 
 *1980|
@@ -128,7 +128,7 @@ protecting me..."[pcms]
 
 *1986|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Naomi...?! What the... there are so many people!! Naomi!![r]
 Look ahead!! It's them!!"[pcms]
 
@@ -145,7 +145,7 @@ seemed like the same kind that attacked the old man earlier.[pcms]
 
 *1989|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "At this rate... we'll be surrounded by them! Naomi!![r]
 Naomi!!"[pcms]
 
@@ -176,7 +176,7 @@ path.[pcms]
 
 *1994|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "...!?"[pcms]
 
 *1995|
@@ -193,7 +193,7 @@ towards the crowd of infected with the screeching of tires.[pcms]
 
 *1997|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Guh...ughaaah!! Na-Naomi!! That's dangerous!![r]
 Uwaaaaahhhhh!!"[pcms]
 
@@ -217,7 +217,7 @@ was all drowned out by the engine's roar and the shaking.[pcms]
 
 *2000|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Ughh...uwaaaahhh!!"[pcms]
 
 ;//★ホワイトアウト
@@ -277,7 +277,7 @@ It's a dream...[pcms]
 *2007|
 [fc]
 [vo_hay s="hayami1233"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Hah...interesting...ahaha~..."[pcms]
 
 *2008|

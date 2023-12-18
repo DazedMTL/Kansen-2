@@ -34,7 +34,7 @@ legs and arms was sluggish, different from what I imagined.[pcms]
 
 *959|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Damn it... what the hell is going on?! What's happened to[r]
 my body?!"[pcms]
 
@@ -67,7 +67,7 @@ noticed that Yuu was engaging in strange behavior.[pcms]
 
 *964|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "...?"[pcms]
 
 [chara_int_ layer=2][chara_int_ layer=3][trans_c cross time=150]
@@ -85,7 +85,7 @@ to feel a fierce hunger.[pcms]
 
 *967|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "...I should eat something too..."[pcms]
 
 *968|
@@ -107,7 +107,7 @@ into it directly.[pcms]
 
 *971|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Ugh... this is amazing! I've never eaten anything like this[r]
 before!"[pcms]
 
@@ -167,7 +167,7 @@ Tch...! What an annoying old man...[pcms]
 
 *982|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Got it..."[pcms]
 
 [chara_int_ layer=2][chara_int_ layer=3][trans_c cross time=150]
@@ -180,7 +180,7 @@ old man was.[pcms]
 
 *984|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "1500 yen? Yen?"[pcms]
 
 *985|
@@ -221,7 +221,7 @@ going up!"[pcms]
 
 *991|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Ye-yes... understood!"[pcms]
 
 *992|

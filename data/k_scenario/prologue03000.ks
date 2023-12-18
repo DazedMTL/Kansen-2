@@ -435,7 +435,7 @@ cock~~~... it's so good, so wonderful~~~...!"[pcms]
 
 *7567|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "..."[pcms]
 
 *7568|
@@ -531,7 +531,7 @@ hugging her as if to shield her.[pcms]
 
 *7581|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "..."[pcms]
 
 *7582|
@@ -558,7 +558,7 @@ up like them too...?[pcms]
 
 *7586|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "...?"[pcms]
 
 *7587|
@@ -575,7 +575,7 @@ approaching us with low groans.[pcms]
 
 *7589|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "What to do... even if you ask..."[pcms]
 
 *7590|
@@ -607,7 +607,7 @@ This is bad... If they all start coming towards us too...!![pcms]
 
 *7595|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Eh...?"[pcms]
 
 *7596|
@@ -646,7 +646,7 @@ like these once we get inside...?[pcms]
 
 *7602|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Hey, wait!!"[pcms]
 
 *7603|
@@ -656,7 +656,7 @@ by the hand and ran towards the shopping mall.[pcms]
 
 *7604|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "That woman...!!"[pcms]
 
 *7605|
@@ -673,7 +673,7 @@ or three steps away from us.[pcms]
 
 *7607|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Damn it!!"[pcms]
 
 [fadeoutbgm time=500]

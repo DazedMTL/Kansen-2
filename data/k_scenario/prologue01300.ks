@@ -54,7 +54,7 @@ to go next.[pcms]
 
 *6820|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "It's huge, right? That shopping mall. It's gonna take time[r]
 to look around."[pcms]
 
@@ -69,7 +69,7 @@ cafe for later, can't we?"[pcms]
 
 *6822|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "If it's going to be quick, we might as well go to the maid[r]
 cafe first."[pcms]
 
@@ -99,7 +99,7 @@ while on the trip because it's embarrassing for you'?"[pcms]
 
 *6826|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Oh! Hayami said something good!"[pcms]
 
 [ChrSetEx layer=2 chbase="koba_n12"][ChrSetXY layer=2 x=0 y=0][trans_c cross time=150]
@@ -126,7 +126,7 @@ rock-paper-scissors!"[pcms]
 
 *6830|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "...Fine by me, I'll crush you!"[pcms]
 
 [ChrSetEx layer=2 chbase="koba_n12"][ChrSetXY layer=2 x=0 y=0][trans_c cross time=150]
@@ -139,7 +139,7 @@ into my right hand.[pcms]
 
 *6832|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Haaaaaaah...!!"[pcms]
 
 [ChrSetEx layer=2 chbase="koba_n07"][ChrSetXY layer=2 x=0 y=0][trans_c cross time=150]
@@ -152,7 +152,7 @@ into my right hand.[pcms]
 
 *6834|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Scissors!"[pcms]
 
 [ChrSetEx layer=3 chbase="hayami_b12"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
@@ -172,7 +172,7 @@ air, were utterly shattered by my tightly clenched fist.[pcms]
 
 *6837|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Take that!!"[pcms]
 
 *6838|
@@ -197,7 +197,7 @@ it."[pcms]
 
 *6841|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Well you see..."[pcms]
 
 [ChrSetEx layer=2 chbase="koba_n12"][ChrSetXY layer=2 x=0 y=0][trans_c cross time=150]
@@ -216,7 +216,7 @@ to comfort her with a kind voice.[pcms]
 *6844|
 [fc]
 [vo_hay s="hayami0080"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "We'll wrap up early and go to the shopping mall, okay?"[pcms]
 
 *6845|

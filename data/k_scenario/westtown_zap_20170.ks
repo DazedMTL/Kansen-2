@@ -100,7 +100,7 @@ being hit didn't seem to care at all and was resisting them.[pcms]
 *13627|
 [fc]
 [vo_hay s="hayami0337"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Nagasaki-san!!"[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
@@ -387,7 +387,7 @@ up... Move it!"[pcms]
 *13667|
 [fc]
 [vo_hay s="hayami0343"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Nagasaki-san... right now we have no choice but to listen[r]
 to him... This old man, we really don't know what he might[r]
 do..."[pcms]

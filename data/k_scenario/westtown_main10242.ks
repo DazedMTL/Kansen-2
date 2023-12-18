@@ -54,7 +54,7 @@ For now, I have to do something about that girl...[pcms]
 
 *10976|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Yuuki, come too! We need to stop her!"[pcms]
 
 [ChrSetEx layer=4 chbase="koba_n03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -77,7 +77,7 @@ in them and shelves with merchandise as she walked.[pcms]
 
 *10979|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Hey!! Stop..."[pcms]
 
 *10980|
@@ -87,7 +87,7 @@ in them and shelves with merchandise as she walked.[pcms]
 
 *10981|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Whoa!!"[pcms]
 
 *10982|
@@ -98,7 +98,7 @@ crashing into a shelf with my left hand.[pcms]
 
 *10983|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Ouch...!!"[pcms]
 
 *10984|

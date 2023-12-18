@@ -30,7 +30,7 @@
 *13480|
 [fc]
 [vo_hay s="hayami0313"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Connected...!?"[pcms]
 
 *13481|
@@ -43,7 +43,7 @@ can clearly hear the ringing.[pcms]
 *13482|
 [fc]
 [vo_hay s="hayami0314"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Maybe... the phone is working now..."[pcms]
 ;//ÅùôÍÇ≠ÇÊÇ§Ç…
 
@@ -65,7 +65,7 @@ I press the cell phone to my ear as if praying.[pcms]
 *13486|
 [fc]
 [vo_hay s="hayami0315"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "!! Hi... Hiroshi!? Hiroshi!! Now..."[pcms]
 
 *13487|
@@ -87,7 +87,7 @@ call back...[pcms]
 *13490|
 [fc]
 [vo_hay s="hayami0316"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Hiroshi... I..."[pcms]
 
 *13491|
@@ -98,7 +98,7 @@ call back...[pcms]
 *13492|
 [fc]
 [vo_hay s="hayami0317"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "!! Hiroshi...?"[pcms]
 
 *13493|
@@ -109,7 +109,7 @@ wanted to hear the most.[pcms]
 
 *13494|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Hey, are you okay!? Are you hurt!? That bastard didn't do[r]
 anything to you, did he!!"[pcms]
 
@@ -144,7 +144,7 @@ feeling down.[pcms]
 
 *13501|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Ah, yeah..."[pcms]
 
 *13502|
@@ -155,19 +155,19 @@ want him to know about that incident.[pcms]
 *13503|
 [fc]
 [vo_hay s="hayami0319"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "I'm fine. How about you? Are Hiroshi and Yuuki safe?"[pcms]
 
 *13504|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Yeah, it's a bit hectic over here, but we're okay. More[r]
 importantly, where are you right now?"[pcms]
 
 *13505|
 [fc]
 [vo_hay s="hayami0320"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "I'm on the second floor. There was a woman who came in[r]
 after me, remember? I'm with her..."[pcms]
 
@@ -209,7 +209,7 @@ Could it be...[pcms]
 
 *13510|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Hey, Hayami?"[pcms]
 
 *13511|
@@ -256,7 +256,7 @@ decide to help Nagasaki-san.[pcms]
 *13519|
 [fc]
 [vo_hay s="hayami0322"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Sorry, I have to hang up now. I'll call again later!"[pcms]
 
 *13520|
@@ -280,7 +280,7 @@ through the speaker.[pcms]
 
 *13524|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Hey! I will definitely come to save you! Hang in there[r]
 somehow!"[pcms]
 

@@ -29,7 +29,7 @@ out at once.[pcms]
 
 *6850|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Oh..."[pcms]
 
 *6851|
@@ -79,7 +79,7 @@ cute...[pcms]
 
 *6859|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Ah, yes."[pcms]
 
 *6860|
@@ -92,7 +92,7 @@ cute...[pcms]
 
 *6861|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Uh..."[pcms]
 
 *6862|
@@ -112,7 +112,7 @@ What kind of rip-off bar is this...[pcms]
 *6865|
 [fc]
 [vo_hay s="hayami0081"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Does nothing to your liking, Master?"[pcms]
 
 *6866|
@@ -122,7 +122,7 @@ if mocking, while Yuu gave me a wry smile.[pcms]
 
 *6867|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "No..."[pcms]
 
 *6868|
@@ -134,7 +134,7 @@ you're not going to order nothing, right~?"[pcms]
 
 *6869|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "You..."[pcms]
 
 *6870|
@@ -154,7 +154,7 @@ major damage to my wallet.[pcms]
 
 *6872|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "One special cake set..."[pcms]
 
 *6873|
@@ -165,7 +165,7 @@ major damage to my wallet.[pcms]
 
 *6874|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Shut up..."[pcms]
 
 *6875|
@@ -212,7 +212,7 @@ away with a smirk.[pcms]
 
 *6882|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "The stuff you were eating on the bus was sweet too. You[r]
 know we still have dinner later, right?"[pcms]
 
@@ -227,7 +227,7 @@ stomachÅÙ"[pcms]
 
 *6884|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Is that so..."[pcms]
 
 *6885|

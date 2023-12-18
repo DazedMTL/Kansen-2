@@ -25,7 +25,7 @@
 
 *7018|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Mmm..."[pcms]
 
 *7019|
@@ -43,7 +43,7 @@ out a new technique on me.[pcms]
 
 *7021|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "...?"[pcms]
 
 *7022|
@@ -58,7 +58,7 @@ window frame of an overturned tour bus.[pcms]
 
 *7024|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "..."[pcms]
 
 *7025|
@@ -79,7 +79,7 @@ made my head hurt terribly.[pcms]
 
 *7028|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Guh...!!"[pcms]
 
 *7029|
@@ -95,7 +95,7 @@ gone, except for me and two others lying close by.[pcms]
 
 *7031|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Hey, are you okay...?"[pcms]
 
 *7032|
@@ -109,7 +109,7 @@ was breathing properly.[pcms]
 
 *7034|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Thank goodness... Hey, Hayami... are you okay?"[pcms]
 
 *7035|
@@ -135,7 +135,7 @@ breathing properly.[pcms]
 
 *7039|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Yuuki... are you okay? Hey..."[pcms]
 
 *7040|
@@ -152,13 +152,13 @@ groaning in pain.[pcms]
 
 *7042|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Don't try to talk..."[pcms]
 
 *7043|
 [fc]
 [vo_hay s="hayami0108"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Thank goodness... Yuuki is also alive..."[pcms]
 
 *7044|
@@ -173,7 +173,7 @@ behind me.[pcms]
 
 *7046|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Hayami, are your injuries...?"[pcms]
 
 *7047|
@@ -184,7 +184,7 @@ behind me.[pcms]
 
 *7048|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "And Yuuki?"[pcms]
 
 *7049|
@@ -200,7 +200,7 @@ nodding at me.[pcms]
 
 *7051|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "For now, let's get out of here... We don't want to be[r]
 flipped over again..."[pcms]
 

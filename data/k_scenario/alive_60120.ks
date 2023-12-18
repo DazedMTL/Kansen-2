@@ -48,7 +48,7 @@ Club," a place we hadn't visited yet.[pcms]
 *1180|
 [fc]
 [vo_hay s="hayami1048"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Ah, there's something like a pool in the back. Shall we go[r]
 in?"[pcms]
 
@@ -96,7 +96,7 @@ can look for him together again!"[pcms]
 
 *1186|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "..."[pcms]
 
 *1187|
@@ -115,7 +115,7 @@ in..."[pcms]
 
 *1189|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Yuuki... even you..."[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
@@ -146,7 +146,7 @@ approached me.[pcms]
 
 *1194|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Oh..."[pcms]
 
 ;//速水　　ビキニ
@@ -204,7 +204,7 @@ stimulating it.[pcms]
 *1201|
 [fc]
 [vo_hay s="hayami1051"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Hiroshi...? What's wrong?"[pcms]
 
 [赤フラ]
@@ -226,7 +226,7 @@ The sweet voices of Hayami and Maya-chan shook my brain.[pcms]
 
 *1204|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Ugh... uuuuh... ughhh!"[pcms]
 
 [赤フラ]

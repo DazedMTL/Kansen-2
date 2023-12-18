@@ -29,7 +29,7 @@ It's painful!! At this rate, I'm gonna die!![pcms]
 
 *2291|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Guh...ngha!! Haa...haa! You bastard! Are you trying to kill[r]
 me?!!"[pcms]
 
@@ -46,7 +46,7 @@ me?!!"[pcms]
 
 *2293|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "But, damn it! It hurts...cough...ah...I thought I was gonna[r]
 die...ah!"[pcms]
 
@@ -88,7 +88,7 @@ die...ah!"[pcms]
 
 *2299|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Aah...ahhhhh...guahhhhh!"[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
@@ -112,7 +112,7 @@ vision went completely dark.[pcms]
 
 *2303|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Ugh...gaboh...geah..."[pcms]
 
 ;//ÅöçïâÊñ 
@@ -138,7 +138,7 @@ it would come to this...[pcms]
 
 *2307|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Gafu...na...gubu...omi...agah... gobu...ua...ah"[pcms]
 
 *2308|

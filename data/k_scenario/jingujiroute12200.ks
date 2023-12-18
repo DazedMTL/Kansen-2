@@ -30,7 +30,7 @@ back at me.[pcms]
 
 *5387|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "...?"[pcms]
 
 ;èÍèä<ImageFade 6,60,OFF,OFF>
@@ -58,7 +58,7 @@ face slowly moved closer to mine.[pcms]
 
 *5391|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Nn...!?"[pcms]
 
 *5392|
@@ -92,7 +92,7 @@ lips against mine again, this time slipping her tongue in.[pcms]
 
 *5397|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Nn, uh..."[pcms]
 
 *5398|
@@ -113,7 +113,7 @@ chan's tongue, I caressed it with my own.[pcms]
 
 *5401|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Nnn..."[pcms]
 
 *5402|
@@ -133,7 +133,7 @@ lips that had been pressed against mine parted.[pcms]
 
 *5404|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Haa..."[pcms]
 
 *5405|
@@ -150,7 +150,7 @@ been kneeling, sat down and reached out her hand to my head.[pcms]
 
 *5407|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Nn..."[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_g03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]

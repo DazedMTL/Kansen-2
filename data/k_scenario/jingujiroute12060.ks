@@ -65,7 +65,7 @@ sniffle.[pcms]
 
 *4629|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "..."[pcms]
 
 *4630|
@@ -88,7 +88,7 @@ now that I'm on the verge of losing Yuu.[pcms]
 
 *4633|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Let's go..."[pcms]
 
 *4634|
@@ -126,7 +126,7 @@ cinema where Yuu was waiting.[pcms]
 
 *4635|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Yuu! Bring something to tie with..."[pcms]
 
 
@@ -200,7 +200,7 @@ body, Yuu gasped and occasionally shook her body.[pcms]
 
 *4645|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "..."[pcms]
 
 *4646|
@@ -658,7 +658,7 @@ me lick your cock..."[pcms]
 
 *4713|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "..."[pcms]
 
 *4714|
@@ -686,7 +686,7 @@ like himself, I couldn't move.[pcms]
 
 *4718|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Ah, yeah..."[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
@@ -728,7 +728,7 @@ approach us together with Yuu.[pcms]
 
 *4724|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Let's go..."[pcms]
 
 *4725|

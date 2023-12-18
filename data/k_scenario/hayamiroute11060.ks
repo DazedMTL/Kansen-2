@@ -22,7 +22,7 @@
 
 *3092|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "What the...? What's that...?"[pcms]
 
 [cutin storage="cut006"][trans_c cross time=500]
@@ -87,7 +87,7 @@ would be fine if they all just left the bathroom...[pcms]
 
 *3105|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Hey!! If you guys want your favorite food, there's some[r]
 over here too!!"[pcms]
 
@@ -120,7 +120,7 @@ to lead the crazy crowd towards the stairs at the dead end.[pcms]
 
 *3111|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "You're too slow!! Hey!! This way!! Don't you want your[r]
 food!?"[pcms]
 
@@ -167,7 +167,7 @@ fourth floor along the corridor in front of the atrium.[pcms]
 
 *3115|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Is it about time...?"[pcms]
 
 *3116|
@@ -179,7 +179,7 @@ away from the crazy crowd.[pcms]
 
 *3117|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Stay there forever, you fools..."[pcms]
 
 ;//♪：bgm011 fadeout
@@ -216,7 +216,7 @@ was there, and all the stall doors were open.[pcms]
 
 *3121|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Phew..."[pcms]
 
 ;//★ＢＧ：トイレA
@@ -301,7 +301,7 @@ seeming to care.[pcms]
 
 *3130|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "This girl..."[pcms]
 
 *3131|
@@ -331,7 +331,7 @@ quickly...![pcms]
 
 *3135|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Hey!! Get away from there!!"[pcms]
 
 ;//[]SE：ドア頭突き
@@ -358,7 +358,7 @@ me.[pcms]
 *3138|
 [fc]
 [vo_hay s="hayami0700"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Hiroshi...!?"[pcms]
 
 *3139|
@@ -403,7 +403,7 @@ near me~~~...!!"[pcms]
 
 *3146|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "!!"[pcms]
 
 *3147|
@@ -419,7 +419,7 @@ Hayami.[pcms]
 
 *3149|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Hayami! I'm holding her back, now's your chance to run!!"[pcms]
 
 [ChrSetEx layer=2 chbase="hayami_o01"][ChrSetXY layer=2 x=0 y=0][trans_c cross time=150]
@@ -449,14 +449,14 @@ wall next to the door just as hard.[pcms]
 
 *3153|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Guh...!!"[pcms]
 
 [ChrSetEx layer=4 chbase="hayami_o02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *3154|
 [fc]
 [vo_hay s="hayami0703"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Kyaa...!!"[pcms]
 
 *3155|
@@ -474,7 +474,7 @@ die~~~...!!!!"[pcms]
 
 *3157|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Damn...!!"[pcms]
 
 *3158|
@@ -496,7 +496,7 @@ couldn't push her back or let Hayami escape.[pcms]
 
 *3161|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Stop it... You bastard...!!"[pcms]
 
 *3162|
@@ -520,7 +520,7 @@ from the entrance.[pcms]
 
 *3165|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "!? "[pcms]
 
 *3166|
@@ -547,7 +547,7 @@ and the restroom was quickly filling up with them.[pcms]
 
 *3170|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Damn...!!"[pcms]
 
 *3171|
@@ -558,7 +558,7 @@ This is bad...!! At this rate, both Hayami and I...!![pcms]
 
 *3172|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "...Get out of the way, you bastard!!"[pcms]
 
 *3173|
@@ -590,7 +590,7 @@ stall.[pcms]
 
 *3177|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "!!"[pcms]
 
 *3178|
@@ -603,12 +603,12 @@ their wave.[pcms]
 *3179|
 [fc]
 [vo_hay s="hayami0706"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "No ahhhh!!"[pcms]
 
 *3180|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Oh ahh!!"[pcms]
 
 *3181|
@@ -644,7 +644,7 @@ pushed through.[pcms]
 
 *3186|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Damn it, move!! Move it!!"[pcms]
 
 ;//[ChrSetEx layer=4 chbase="hayami_o01"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]

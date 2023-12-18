@@ -213,7 +213,7 @@ inside.[pcms]
 *16125|
 [fc]
 [vo_hay s="hayami0608"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "No... Nagasaki-san... don't come over here!!"[pcms]
 
 *16126|

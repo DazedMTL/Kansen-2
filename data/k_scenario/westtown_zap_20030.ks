@@ -43,7 +43,7 @@ Hiro really is reliable...[pcms]
 
 *12683|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Yuuki, show me the map."[pcms]
 
 *12684|
@@ -189,7 +189,7 @@ If I wore such cute clothes...[pcms]
 
 *12713|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Hey, Yuuki...! What are you doing...!"[pcms]
 
 *12714|
@@ -212,7 +212,7 @@ hadn't done anything wrong, he was angry at me.[pcms]
 
 *12717|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "This is no time to be captivated by such things...! Let's[r]
 go...!"[pcms]
 
@@ -253,7 +253,7 @@ could be heard.[pcms]
 
 *12724|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Hide...!!"[pcms]
 
 *12725|

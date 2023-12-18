@@ -362,7 +362,7 @@ my lips against Hiroshi's.[pcms]
 
 *16862|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Mmm..."[pcms]
 
 *16863|
@@ -429,7 +429,7 @@ What is this sound...? It's like something is exploding...[pcms]
 
 *16869|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Ugh...hmm..."[pcms]
 
 *16870|
@@ -516,7 +516,7 @@ get the virus...[pcms]
 
 *16884|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Mmm..."[pcms]
 
 *16885|
@@ -554,7 +554,7 @@ The desire to have him was that strong.[pcms]
 
 *16890|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Mmm...!"[pcms]
 
 *16891|
@@ -579,7 +579,7 @@ woke up and sat up.[pcms]
 
 *16893|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "What's going on!?"[pcms]
 
 *16894|

@@ -31,7 +31,7 @@
 
 *12377|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Maya-chan, take this! Let's go!!"[pcms]
 
 [cutin_int]
@@ -48,7 +48,7 @@ towards the entrance.[pcms]
 
 *12379|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Oops..."[pcms]
 
 *12380|
@@ -62,7 +62,7 @@ register at the entrance for a replacement.[pcms]
 
 *12382|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Sorry, just put it in your pocket later!"[pcms]
 
 *12383|

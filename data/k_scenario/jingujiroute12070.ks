@@ -39,7 +39,7 @@ theater next door.[pcms]
 
 *4728|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "This way...!!"[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -75,7 +75,7 @@ from~..."[pcms]
 
 *4732|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "..."[pcms]
 
 *4733|
@@ -127,7 +127,7 @@ out of here and report to the police or rescue team...[pcms]
 
 *4742|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Eh...?"[pcms]
 
 [ChrSetEx layer=4 chbase="etc02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -140,7 +140,7 @@ while we were distracted.[pcms]
 
 *4744|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "!!"[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
@@ -169,7 +169,7 @@ looked back at Maya-chan over my shoulder.[pcms]
 
 *4749|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Hold the door until I take these guys down!"[pcms]
 
 *4750|
@@ -189,7 +189,7 @@ might at the guy in front of me.[pcms]
 
 *4752|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Uraaah!!"[pcms]
 
 [se0 storage="se20"]
@@ -210,7 +210,7 @@ floor.[pcms]
 
 *4755|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Seah!!"[pcms]
 
 [se0 storage="se20"]
@@ -232,7 +232,7 @@ another guy who had come close by.[pcms]
 
 *4758|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Darrah!!"[pcms]
 
 [se0 storage="se20"]
@@ -361,7 +361,7 @@ something light hit my back along with a small scream.[pcms]
 
 *4775|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "!!"[pcms]
 
 *4776|
@@ -406,7 +406,7 @@ kufufu..."[pcms]
 
 *4782|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Damn..."[pcms]
 
 *4783|
@@ -427,7 +427,7 @@ caught up in this...[pcms]
 
 *4786|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Tch..."[pcms]
 
 *4787|
@@ -459,7 +459,7 @@ aside.[pcms]
 
 *4791|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Sei!!"[pcms]
 
 [ChrSetEx layer=4 chbase="koba_m08"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -486,7 +486,7 @@ the seats.[pcms]
 
 *4794|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Let's go!!"[pcms]
 
 *4795|
@@ -507,7 +507,7 @@ Grabbing Maya-chan's arm, I ran out of the movie theater.[pcms]
 
 *4796|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "!!"[pcms]
 
 *4797|
@@ -572,7 +572,7 @@ now...!"[pcms]
 
 *4806|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Damn..."[pcms]
 
 
@@ -595,7 +595,7 @@ That is if the escalator isn't on fire...[pcms]
 
 *4810|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Maya-chan, let's head downstairs for now..."[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_f02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -607,7 +607,7 @@ a nearby counter, looking dazed.[pcms]
 
 *4812|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "What's wrong!!"[pcms]
 
 *4813|
@@ -623,7 +623,7 @@ muttered while staring at the group of crazed guys.[pcms]
 
 *4815|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Pull yourself together! It's not decided yet that we won't[r]
 make it!!"[pcms]
 
@@ -663,19 +663,19 @@ John... I'll stay here... You go on alone..."[pcms]
 
 *4819|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Yuu and Anzai-san, and that girl too, they all became like[r]
 that against their will."[pcms]
 
 *4820|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Even if we take them to the hospital, that disease might[r]
 not be curable, and they might even die!!"[pcms]
 
 *4821|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Someone who is unharmed and safe has a chance to survive[r]
 and you say 'I don't want to be in this world anymore'!?[r]
 Don't talk such nonsense!!"[pcms]
@@ -694,14 +694,14 @@ firmly.[pcms]
 
 *4824|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "When the white dog chased us on the third floor, John[r]
 distracted it to let you and me escape. He didn't save us[r]
 just to let us die here."[pcms]
 
 *4825|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "And yet, Maya-chan, do you intend to die here? Are you[r]
 going to let John's death be in vain?"[pcms]
 
@@ -724,7 +724,7 @@ she looked at me.[pcms]
 
 *4829|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Come on, stand up! We're going to run!!"[pcms]
 
 *4830|

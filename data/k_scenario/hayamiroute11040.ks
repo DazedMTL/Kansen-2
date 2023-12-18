@@ -35,7 +35,7 @@ shouting behind me stopped me in my tracks."[pcms]
 
 *3060|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "..."[pcms]
 
 *3061|
@@ -115,7 +115,7 @@ up~...! I'm gonna leak shit~...!!"[pcms]
 
 *3070|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "..."[pcms]
 
 *3071|

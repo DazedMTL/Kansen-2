@@ -100,7 +100,7 @@ lust run wild.[pcms]
 *168|
 [fc]
 [vo_hay s="hayami1006"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Ugh...ow...ahhh..."[pcms]
 
 *169|
@@ -361,13 +361,13 @@ These guys...what are they thinking...!![pcms]
 *212|
 [fc]
 [vo_hay s="hayami1009"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Hiroshi...no, nooooo!! I don't want this!! Help me!! Aghh!![r]
 Uwaaaa!!"[pcms]
 
 *213|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Hayami...!?"[pcms]
 
 ;//ÅöÉCÉxÉìÉgÇbÇfÇ`ÅQÇP
@@ -385,7 +385,7 @@ two men, crying out breathlessly.[pcms]
 *216|
 [fc]
 [vo_hay s="hayami1010"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Aghh!! Noooo!! It...hurts!! I'm...I'm going to break! It's[r]
 going to tear me apart!!"[pcms]
 
@@ -402,7 +402,7 @@ going to tear me apart!!"[pcms]
 *219|
 [fc]
 [vo_hay s="hayami1011"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Ah...aghahh!! Noo...ugh...ughuhh! Giihh!"[pcms]
 
 *220|
@@ -422,7 +422,7 @@ I have to help her quickly... Otherwise...Hayami will![pcms]
 *223|
 [fc]
 [vo_hay s="hayami1012"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Hi...Hiroshi..., nooo!! Gihh...! Not like this...I hate it![r]
 Uguhh!"[pcms]
 
@@ -452,12 +452,12 @@ hard~..."[pcms]
 *228|
 [fc]
 [vo_hay s="hayami1014"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Not like this...this is too much...ughh...aguhh!"[pcms]
 
 *229|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Hayami...Hayami!"[pcms]
 
 *230|
@@ -487,7 +487,7 @@ toy.[pcms]
 
 *234|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Yuuki...!?"[pcms]
 
 *235|
@@ -544,7 +544,7 @@ Our eyes metmine and Yuuki's, wet with tears of pain.[pcms]
 
 *244|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Yuuki...ugh!!"[pcms]
 
 *245|
@@ -566,7 +566,7 @@ couldn't go to help anyone.[pcms]
 
 *248|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Haah...ugh...everyone...gah!"[pcms]
 
 *249|
@@ -626,7 +626,7 @@ ah...ahhh!?"[pcms]
 
 *258|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Yuuki...!?"[pcms]
 
 *259|
@@ -654,7 +654,7 @@ louder.[pcms]
 
 *263|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "...!! Uooh!"[pcms]
 
 *264|
@@ -670,7 +670,7 @@ stopped.[pcms]
 
 *266|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Hey... are you okay? ...!!"[pcms]
 
 *267|
@@ -844,7 +844,7 @@ feeble voice could be heard.[pcms]
 *296|
 [fc]
 [vo_hay s="hayami1018"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Ah... uahh... I... I can't take this anymore... my butt and[r]
 my pussy..., I just can't..."[pcms]
 
@@ -856,7 +856,7 @@ my pussy..., I just can't..."[pcms]
 *298|
 [fc]
 [vo_hay s="hayami1019"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Auh... ah... ah, ah..., nahh..."[pcms]
 
 *299|
@@ -884,7 +884,7 @@ was relentlessly tormented by the two men.[pcms]
 *303|
 [fc]
 [vo_hay s="hayami1021"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Agaaahh... nahh... gihh..., ahh..., ah, ah"[pcms]
 
 *304|
@@ -918,7 +918,7 @@ became even faster as if they were playing with a toy.[pcms]
 *309|
 [fc]
 [vo_hay s="hayami1024"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Gih... agih... no... I can't... please... forgive me..."[pcms]
 
 *310|
@@ -942,7 +942,7 @@ is so good~..."[pcms]
 *313|
 [fc]
 [vo_hay s="hayami1026"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Ugh... augh... my butt..., it's full... rubbing against my[r]
 clit too... ugh ah..., ah..."[pcms]
 
@@ -972,7 +972,7 @@ ass~... it's coming so~...!"[pcms]
 *318|
 [fc]
 [vo_hay s="hayami1028"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Augh-... hah... hahah!! Ahaha!? Ah... ugh..., I, I'm[r]
 feeling..., weird... It's strange...! Augh...!!"[pcms]
 
@@ -1019,7 +1019,7 @@ Nooooo..."[pcms]
 
 *325|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Ha... Hayami... ugh..."[pcms]
 
 *326|
@@ -1040,7 +1040,7 @@ still unable to move.[pcms]
 
 *329|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Yuuki..."[pcms]
 
 ;//ÅöÉCÉxÉìÉgÇbÇfÇRÅQÇ`
@@ -1072,7 +1072,7 @@ burst!! Augh!"[pcms]
 
 *334|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Yu... Yuuki...!?"[pcms]
 
 *335|
@@ -1119,7 +1119,7 @@ ahaha! Hiroshi is watching me cum!! Augh!!"[pcms]
 
 *342|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "..."[pcms]
 
 *343|
@@ -1189,7 +1189,7 @@ ahahh..."[pcms]
 
 *352|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Hiroshi..."[pcms]
 
 *353|
@@ -1321,7 +1321,7 @@ Am I having a bad dream!?[pcms]
 
 *375|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Guh..."[pcms]
 
 *376|
@@ -1724,7 +1724,7 @@ However, two women stood in my way and attacked me.[pcms]
 
 *438|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Wha... what the hell are you... doing!! Guahh..."[pcms]
 
 *439|

@@ -55,7 +55,7 @@ Maya-chan had been surrounded by a group of crazed guys.[pcms]
 
 *4216|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Don't come any closer!!"[pcms]
 
 *4217|
@@ -73,7 +73,7 @@ her, knocking him aside.[pcms]
 
 *4219|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Stay back!!"[pcms]
 
 [quake_bg å≥time=200 xy m]
@@ -91,7 +91,7 @@ brought it down on the head of the guy to my right.[pcms]
 
 *4222|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Take that!!"[pcms]
 
 [quake_bg å≥time=200 xy m]
@@ -125,7 +125,7 @@ fell to the ground.[pcms]
 
 *4227|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Get outta here!!"[pcms]
 
 [quake_bg å≥time=200 xy m]
@@ -144,7 +144,7 @@ crazed guys stopped.[pcms]
 
 *4230|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Haah... Haah..."[pcms]
 
 *4231|
@@ -154,7 +154,7 @@ crazed guys in sight.[pcms]
 
 *4232|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Haah... Haah... Phew..."[pcms]
 
 *4233|
@@ -177,7 +177,7 @@ building.[pcms]
 
 *4235|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Isn't this the music that plays when it's closing time...?"[pcms]
 
 *4236|
@@ -215,7 +215,7 @@ halfway.[pcms]
 
 *4240|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "ÅIÅI"[pcms]
 
 *4241|
@@ -234,7 +234,7 @@ already come down completely.[pcms]
 
 *4242|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "...Uaaaahhhhh!!!"[pcms]
 
 *4243|
@@ -287,7 +287,7 @@ hoarse voice.[pcms]
 
 *4251|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Yeah, you're right..."[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_n07"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -324,7 +324,7 @@ for a while."[pcms]
 
 *4256|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Yes..."[pcms]
 
 *4257|
@@ -361,7 +361,7 @@ annoyed.[pcms]
 
 *4262|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "...What are you laughing at? Are you happy that we can't[r]
 save Hayami?"[pcms]
 
@@ -387,7 +387,7 @@ response, I stood up and glared at her.[pcms]
 
 *4266|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Cut it out already, you..."[pcms]
 
 *4267|
@@ -446,7 +446,7 @@ I continued to scowl in silence.[pcms]
 
 *4275|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Cell phone?"[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_n02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -458,7 +458,7 @@ I continued to scowl in silence.[pcms]
 
 *4277|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "..."[pcms]
 
 *4278|
@@ -480,7 +480,7 @@ safe...[pcms]
 
 *4281|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "...Sorry."[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_n04"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -522,7 +522,7 @@ fallen anywhere nearby.[pcms]
 
 *4288|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Found it!"[pcms]
 
 *4289|
@@ -537,7 +537,7 @@ broken by operating it.[pcms]
 
 *4291|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "It's fine... Whoa!!"[pcms]
 
 [se0 storage="se20"]
@@ -559,7 +559,7 @@ crazy guy and took a spectacular tumble.[pcms]
 
 *4293|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Ouch...!!"[pcms]
 
 *4294|
@@ -583,7 +583,7 @@ Maya-chan...[pcms]
 
 *4297|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Damn it...!!"[pcms]
 
 *4298|
@@ -593,7 +593,7 @@ into the stomach of the crazy guy.[pcms]
 
 *4299|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "You bastard!!"[pcms]
 
 [quake_bg å≥time=200 xy m]
@@ -612,7 +612,7 @@ floor sideways. I ran over and drove my toe into his chin.[pcms]
 
 *4302|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Stay down, idiot!!"[pcms]
 
 [quake_bg å≥time=200 xy m]
@@ -656,7 +656,7 @@ guy who was about to stand up.[pcms]
 
 *4309|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "To the cinema... For now, let's head to the cinema!"[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
@@ -670,7 +670,7 @@ to pick up the shovel I had thrown away.[pcms]
 
 *4311|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Sorry, let's go!!"[pcms]
 
 *4312|

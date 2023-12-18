@@ -110,7 +110,7 @@ take separate actions...[pcms]
 
 *11327|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Hayami?"[pcms]
 
 [cutin storage="BGS15"][trans_c cross time=500]
@@ -174,7 +174,7 @@ she sends made me even more anxious.[pcms]
 
 *11340|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Tch..."[pcms]
 
 *11341|
@@ -265,13 +265,13 @@ alright?"[pcms]
 
 *11356|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "That's fine. We also need to think about how to get to the[r]
 building over there."[pcms]
 
 *11357|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Why don't we go into the movie theater right over there?[r]
 There are chairs inside, so it should be more comfortable[r]
 than here for resting."[pcms]

@@ -42,7 +42,7 @@ skirt pulled by a husky, causing her to fall on her butt.[pcms]
 
 *7465|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "What the...guah!!"[pcms]
 
 ;//ÇrÇdÅFÇ«Ç≥Ç¡
@@ -59,7 +59,7 @@ a side path, and the impact sent me tumbling to the ground.[pcms]
 
 *7467|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Ouch...!!"[pcms]
 
 *7468|
@@ -91,7 +91,7 @@ me.[pcms]
 
 *7472|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Tch...!!"[pcms]
 
 ;//ÇrÇdÅFÇ™ÇµÇ·Ç¡
@@ -113,7 +113,7 @@ and glared.[pcms]
 
 *7475|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Scum...!? I'm not about to be called scum by someone who[r]
 throws stones at people's faces!"[pcms]
 
@@ -148,7 +148,7 @@ remaining storefront window behind me.[pcms]
 
 *7480|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "You...!!"[pcms]
 
 *7481|
@@ -168,13 +168,13 @@ stopped me.[pcms]
 
 *7483|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Let go, Hayami!!"[pcms]
 
 *7484|
 [fc]
 [vo_hay s="hayami0129"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "She's different! She's not one of those crazy people!"[pcms]
 
 ;//ÅÙÅFÇOÇOÇX_Unhappy desire.
@@ -182,13 +182,13 @@ stopped me.[pcms]
 
 *7485|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "What!?"[pcms]
 
 *7486|
 [fc]
 [vo_hay s="hayami0130"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Please wait!! We're all sane here!! We won't attack you!!"[pcms]
 
 *7487|
@@ -260,7 +260,7 @@ safe place around here anymore."[pcms]
 *7497|
 [fc]
 [vo_hay s="hayami0132"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "We were thinking of going to the shopping mall ahead. It[r]
 seems like it becomes a shelter during times like these..."[pcms]
 
@@ -276,7 +276,7 @@ something like that..."[pcms]
 *7499|
 [fc]
 [vo_hay s="hayami0133"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Um, do you know someone around here?"[pcms]
 
 *7500|
@@ -317,7 +317,7 @@ ahead while still holding hands with Hayami.[pcms]
 
 *7505|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Who does that woman think she is, taking charge all of a[r]
 sudden!"[pcms]
 
@@ -331,7 +331,7 @@ sudden!"[pcms]
 
 *7507|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Tch...!"[pcms]
 
 [sysbt_meswin clear]

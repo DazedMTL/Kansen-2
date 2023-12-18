@@ -111,7 +111,7 @@ jokes are the worst!! You third-rate comedian!!]"[pcms]
 
 *6581|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Sa..."[pcms]
 
 *6582|
@@ -143,7 +143,7 @@ idol!!]"[pcms]
 
 *6587|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Ku...!!"[pcms]
 
 *6588|
@@ -164,7 +164,7 @@ me in a low voice.[pcms]
 
 *6591|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "I can't afford to lose!"[pcms]
 
 *6592|
@@ -175,7 +175,7 @@ me in a low voice.[pcms]
 
 *6593|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "If you're a man, you understand there are battles you can't[r]
 afford to lose, right!?"[pcms]
 
@@ -187,7 +187,7 @@ afford to lose, right!?"[pcms]
 
 *6595|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "In front!?"[pcms]
 
 *6596|
@@ -198,7 +198,7 @@ glaring at me.[pcms]
 
 *6597|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Ah..."[pcms]
 
 *6598|
@@ -210,7 +210,7 @@ seriously!!!"[pcms]
 
 *6599|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Yes, I'm sorry..."[pcms]
 
 *6600|

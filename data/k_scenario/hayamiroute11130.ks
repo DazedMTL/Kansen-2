@@ -129,7 +129,7 @@ the car.[pcms]
 
 *3364|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Yeah, probably..."[pcms]
 
 *3365|
@@ -164,7 +164,7 @@ scattered everywhere.[pcms]
 
 *3370|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "...For now, let's signal that there are sane people here.[r]
 We don't want to be ignored thinking we're one of those[r]
 crazies."[pcms]
@@ -206,7 +206,7 @@ descending rapidly.[pcms]
 
 *3377|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Hey...!"[pcms]
 
 *3378|
@@ -226,7 +226,7 @@ the edge of the rooftop.[pcms]
 
 *3380|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Damn it...!!"[pcms]
 
 *3381|
@@ -258,7 +258,7 @@ high speed after making a large hole in its outer wall.[pcms]
 
 *3384|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "You've got to be kidding..."[pcms]
 
 ;//[]SE：爆発音（？）
@@ -283,7 +283,7 @@ could finally get out of here...![pcms]
 
 *3388|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Damn it!!"[pcms]
 
 *3389|
@@ -294,7 +294,7 @@ ground, shattering its window glass.[pcms]
 
 *3390|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Ah...!"[pcms]
 
 *3391|
@@ -313,7 +313,7 @@ no sign of reacting to the noise and approaching us.[pcms]
 
 *3393|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Hayami, let's escape while we can...!"[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]

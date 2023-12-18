@@ -48,7 +48,7 @@ growling but kept its nose wrinkled.[pcms]
 
 *10786|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "...?"[pcms]
 
 *10787|
@@ -76,7 +76,7 @@ The girl had red-rimmed eyes and occasionally choked up.[pcms]
 
 *10790|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Is it just this child?"[pcms]
 
 [ChrSetEx layer=2 chbase="anza_n07"][ChrSetXY layer=2 x=0 y=0][trans_c cross time=150]
@@ -90,7 +90,7 @@ and has been hiding here all this time."[pcms]
 
 *10792|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "I see..."[pcms]
 
 *10793|
@@ -128,7 +128,7 @@ down, and gave a small nod.[pcms]
 
 *10799|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "That's good, thank goodness."[pcms]
 
 *10800|
@@ -169,7 +169,7 @@ same expressionless face.[pcms]
 
 *10805|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Well, well. You're usually more popular than me, so it's[r]
 fine, right?"[pcms]
 
@@ -268,7 +268,7 @@ me and Yuuki.[pcms]
 
 *10820|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Yes..."[pcms]
 
 [chara_int][trans_c cross time=150]

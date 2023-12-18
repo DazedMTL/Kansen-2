@@ -18,7 +18,7 @@
 
 *5682|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Then, promise me. If you feel even a little bit of danger,[r]
 come back here immediately. Okay?"[pcms]
 
@@ -38,7 +38,7 @@ hand, and walked out from the cargo bed.[pcms]
 
 *5685|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "..."[pcms]
 
 *5686|
@@ -56,7 +56,7 @@ Maya-chan... Please, come back safely...[pcms]
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
 ;//BKACKOUT
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Hmm..."[pcms]
 
 ;//[]BG表示
@@ -82,7 +82,7 @@ without realizing it.[pcms]
 
 *5690|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Oh..."[pcms]
 
 *5691|
@@ -96,7 +96,7 @@ within my now clear field of vision.[pcms]
 
 *5693|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Ah, Maya-cha..."[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_f05"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -137,7 +137,7 @@ the opposite wall.[pcms]
 
 *5700|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Alright..."[pcms]
 
 *5701|
@@ -175,7 +175,7 @@ it seemed even a little dangerous...!![pcms]
 
 *5707|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Maya-chan!! Wake up, Maya-chan!!"[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_f02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -188,7 +188,7 @@ it seemed even a little dangerous...!![pcms]
 
 *5709|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Are you okay!? Any injuries!?"[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_n03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -223,7 +223,7 @@ I wanted to confirm that as soon as possible.[pcms]
 
 *5715|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "They attacked you, didn't they!? Are you hurt? Are there no[r]
 injuries anywhere!?"[pcms]
 
@@ -241,7 +241,7 @@ realizing it until Maya-chan told me, and I quickly let go.[pcms]
 
 *5718|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Ah, sorry..."[pcms]
 
 *5719|
@@ -274,7 +274,7 @@ and collapsed on the spot in relief.[pcms]
 
 *5723|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Thank goodness... I saw blood on the shovel and thought you[r]
 might have gotten hurt when you fought them..."[pcms]
 
@@ -287,7 +287,7 @@ might have gotten hurt when you fought them..."[pcms]
 
 *5725|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Eh? Oh yeah, it's healed. Perfectly. I can see your face[r]
 clearly now."[pcms]
 
@@ -300,7 +300,7 @@ clearly now."[pcms]
 
 *5727|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "...Thank you, Maya-chan. For going through such danger just[r]
 to do all this for me."[pcms]
 
@@ -318,7 +318,7 @@ gently and shook her head slightly.[pcms]
 
 *5730|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Eh..."[pcms]
 
 *5731|
@@ -335,7 +335,7 @@ barely audible voice,[pcms]
 
 *5733|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "..."[pcms]
 
 *5734|
@@ -372,7 +372,7 @@ fleeing, but I instinctively grabbed her arm to stop her.[pcms]
 
 *5739|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Ah, um..."[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_f03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -385,7 +385,7 @@ fleeing, but I instinctively grabbed her arm to stop her.[pcms]
 
 *5741|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "The drinks are fine. Let's just get out of here."[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_f05"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -398,7 +398,7 @@ fleeing, but I instinctively grabbed her arm to stop her.[pcms]
 
 *5743|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "I don't want to put you in danger anymore. I think of you[r]
 as someone important to me too."[pcms]
 
@@ -422,7 +422,7 @@ her. To me, she had become someone of that much importance.[pcms]
 
 *5747|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Let's go. Before the guys who attacked Maya-chan find this[r]
 place."[pcms]
 
@@ -456,7 +456,7 @@ might be useful, we stepped out of the cargo bed.[pcms]
 
 *5750|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Ugh..."[pcms]
 
 *5751|
@@ -487,7 +487,7 @@ driving towards us from far down the road.[pcms]
 
 *5755|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Is that a car...?"[pcms]
 
 *5756|
@@ -535,7 +535,7 @@ they say...[pcms]
 
 *5763|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "...What do you want with our names?"[pcms]
 
 *5764|
@@ -574,7 +574,7 @@ survivors in this area."[pcms]
 
 *5770|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Do you have proof that you're really with the Self-Defense[r]
 Forces?"[pcms]
 
@@ -603,7 +603,7 @@ carelessness but injuries inflicted by others?"[pcms]
 
 *5775|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "...Neither of us are injured."[pcms]
 
 *5776|
@@ -631,7 +631,7 @@ have much time."[pcms]
 
 *5780|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Before that, could you come with us to that shopping mall?[r]
 My friends are still inside there."[pcms]
 
@@ -643,7 +643,7 @@ the virus?"[pcms]
 
 *5782|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "..."[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_n03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -670,7 +670,7 @@ suggestions.[pcms]
 
 *5786|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "...But, I heard on the news that some people were saved by[r]
 going to the hospital... Ah, look, if we just keep them[r]
 confined, like in the trunk of that car..."[pcms]
@@ -702,7 +702,7 @@ many senses."[pcms]
 
 *5791|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "That can't be... He's my best friend, please!"[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
@@ -720,7 +720,7 @@ many senses."[pcms]
 
 *5792|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "What...?"[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_n07"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -751,7 +751,7 @@ for time!!"[pcms]
 
 *5797|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "..."[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_n03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -812,7 +812,7 @@ it...[pcms]
 
 *5807|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Eh...?"[pcms]
 
 *5808|
@@ -824,7 +824,7 @@ you..."[pcms]
 
 *5809|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "..."[pcms]
 
 *5810|
@@ -872,7 +872,7 @@ protect with my life...[pcms]
 
 *5817|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "...Let's go."[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_n06"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -896,7 +896,7 @@ into the rugged Self-Defense Forces vehicle.[pcms]
 
 *5820|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Whoa...!!"[pcms]
 
 *5821|
@@ -938,7 +938,7 @@ Hayami, Yuu, Anzai-san too...[pcms]
 
 *5828|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Guh...!!"[pcms]
 
 *5829|
@@ -956,7 +956,7 @@ airplanes were flying in from beyond the sunset sky.[pcms]
 
 *5831|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "That airplane..."[pcms]
 
 *5832|
@@ -967,7 +967,7 @@ damn things... Bastards!!"[pcms]
 
 *5833|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "..."[pcms]
 
 *5834|
@@ -1045,7 +1045,7 @@ Yuu... Hayami...[pcms]
 
 *5847|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "See you..."[pcms]
 
 ;//効果：画面揺れ・大・連続（？）

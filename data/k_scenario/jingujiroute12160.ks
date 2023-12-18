@@ -22,7 +22,7 @@
 
 *5191|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Ugh..."[pcms]
 
 *5192|
@@ -44,7 +44,7 @@ and slowly opened my eyes.[pcms]
 
 *5194|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "What...?"[pcms]
 
 ;//＠半失明なので一旦コメントアウト
@@ -62,7 +62,7 @@ could barely make out anything around me.[pcms]
 
 *5197|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Maya-chan...?"[pcms]
 
 ;//[ChrSetEx layer=4 chbase="jinguji_f03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -80,7 +80,7 @@ tell what expression she had.[pcms]
 
 *5200|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Something's wrong with my eyes... Everything's white, I can[r]
 hardly see..."[pcms]
 
@@ -94,7 +94,7 @@ recovered quickly though..."[pcms]
 
 *5202|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Light..."[pcms]
 
 *5203|
@@ -125,7 +125,7 @@ far away after Maya-chan mentioned it.[pcms]
 
 *5208|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Ah, yeah... Whoa!"[pcms]
 
 *5209|
@@ -135,7 +135,7 @@ my balance and fell on my butt.[pcms]
 
 *5210|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Damn it...!"[pcms]
 
 *5211|
@@ -151,7 +151,7 @@ smaller one.[pcms]
 
 *5213|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "...Sorry"[pcms]
 
 *5214|
@@ -185,7 +185,7 @@ the crazy group, I sank into a gloomy mood.[pcms]
 
 *5217|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Huff, huff...!"[pcms]
 
 *5218|
@@ -218,7 +218,7 @@ fatigue feel even more intense.[pcms]
 
 *5223|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Whoa, oops...!"[pcms]
 
 
@@ -246,7 +246,7 @@ vision shifted from white to gray.[pcms]
 
 *5226|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "...?"[pcms]
 
 *5227|
@@ -266,7 +266,7 @@ to go for a moment before pulling me along somewhere again.[pcms]
 
 *5229|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Eh..."[pcms]
 
 *5230|
@@ -288,7 +288,7 @@ placed it on what seemed to be a metal fence.[pcms]
 
 *5233|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Ah, yeah..."[pcms]
 
 *5234|
@@ -314,7 +314,7 @@ What's this...? Some kind of platform...?[pcms]
 
 *5238|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Ah, yeah, okay..."[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
@@ -369,7 +369,7 @@ close by, bringing her face closer to mine.[pcms]
 
 *5246|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Still no good. I can hardly see anything."[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_n03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -381,7 +381,7 @@ close by, bringing her face closer to mine.[pcms]
 
 *5248|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Where is this? Inside some building?"[pcms]
 
 [bg storage="bg29"][image storage="white" layer="&sf.effectlayer" page=back visible=true left=0 top=0 opacity=180][trans_c cross time=1000]
@@ -395,7 +395,7 @@ close by, bringing her face closer to mine.[pcms]
 
 *5250|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "An underground parking garage..."[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_f01"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -416,7 +416,7 @@ and it looked like we could get inside..."[pcms]
 
 *5253|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "The bed of a truck... No wonder..."[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
@@ -447,7 +447,7 @@ nearby.[pcms]
 
 *5258|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Eh... Where are you going? It's dangerous to go alone."[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_n03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -467,7 +467,7 @@ causing the truck bed to shake.[pcms]
 
 *5261|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "..."[pcms]
 
 *5262|
@@ -486,7 +486,7 @@ her...[pcms]
 
 *5265|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Damn..."[pcms]
 
 *5266|
@@ -506,7 +506,7 @@ imagining several crazed lunatics lurking around this truck.[pcms]
 
 *5269|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "..."[pcms]
 
 *5270|
@@ -522,7 +522,7 @@ normal person left alive in this world.[pcms]
 
 *5272|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "..."[pcms]
 
 *5273|
@@ -543,7 +543,7 @@ Maya-chan to return quickly.[pcms]
 
 *5274|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "..."[pcms]
 
 *5275|
@@ -599,7 +599,7 @@ her right away...![pcms]
 
 *5285|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Ah..."[pcms]
 
 *5286|
@@ -621,7 +621,7 @@ mind.[pcms]
 
 *5289|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "..."[pcms]
 
 *5290|
@@ -643,7 +643,7 @@ with sleepiness, I couldn't fall asleep at all.[pcms]
 
 *5293|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "..."[pcms]
 
 *5294|
@@ -668,7 +668,7 @@ the rooftop, I instinctively pulled my legs in.[pcms]
 
 *5298|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Ugh..."[pcms]
 
 *5299|

@@ -60,7 +60,7 @@ famous places and those from not-so-famous places."[pcms]
 
 *6983|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Please stop. Just listening to this is making me feel[r]
 sick..."[pcms]
 
@@ -124,7 +124,7 @@ eyes were closed.[pcms]
 
 *6993|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "How long was I asleep...?"[pcms]
 
 [ChrSetEx layer=2 chbase="koba_n02"][ChrSetXY layer=2 x=0 y=0][trans_c cross time=150]
@@ -156,7 +156,7 @@ yet...?[pcms]
 
 *6998|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Hey, weren't we supposed to leave at 18:00? Why haven't we[r]
 left yet?"[pcms]
 
@@ -171,7 +171,7 @@ time and that was it."[pcms]
 
 *7000|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Hmm... I wonder what it is..."[pcms]
 
 *7001|
@@ -224,7 +224,7 @@ right?"[pcms]
 
 *7008|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Heh! What can someone who lost to me in rock-paper-scissors[r]
 say..."[pcms]
 
@@ -255,7 +255,7 @@ radio he was holding.[pcms]
 
 *7011|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Eh...?"[pcms]
 
 ;//ÅÙÅFstop
@@ -316,7 +316,7 @@ switched inside the bus.[pcms]
 
 *7016|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Ugh!! Guahh!!"[pcms]
 
 *7017|

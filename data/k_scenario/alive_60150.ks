@@ -24,7 +24,7 @@
 
 *1328|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Hah... Haa..."[pcms]
 
 *1329|
@@ -41,7 +41,7 @@ feminine softness and stirring my excitement.[pcms]
 *1331|
 [fc]
 [vo_hay s="hayami1074"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "...? Hiroshi? What's wrong?"[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_c03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -62,7 +62,7 @@ sight of Maya-chan's shy demeanor, I was at my limit.[pcms]
 
 *1334|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "White... so white... Ahhh..."[pcms]
 
 [ChrSetEx layer=5 chbase="koba_m01"][ChrSetXY layer=5 x=0 y=0]
@@ -97,7 +97,7 @@ swimsuit, and the dog she had brought with her.[pcms]
 
 *1339|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "..."[pcms]
 
 *1340|
@@ -120,7 +120,7 @@ breathing and our heartbeats were deafeningly loud.[pcms]
 
 *1343|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Oh... ooooh..."[pcms]
 
 ;//------------------------------------------------
@@ -178,7 +178,7 @@ white-swathed crotch, forcing my hard flesh inside her.[pcms]
 
 *1348|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Ah... aaaaah... it's so tight! Uwah... ah..."[pcms]
 
 *1349|
@@ -189,7 +189,7 @@ in pleasure.[pcms]
 
 *1350|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "It's too tight... Maya-chan's pussy... it's amazing!"[pcms]
 
 *1351|
@@ -205,7 +205,7 @@ pain, and the area where we were joined was stained red.[pcms]
 
 *1353|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Uwah... ah... aah? Maya-chan... there's blood... from your[r]
 pussy... blood!? Could it be... it was your first time...?"[pcms]
 
@@ -222,7 +222,7 @@ I'm the first for such a cute girl. It was me...[pcms]
 
 *1356|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Maya-chan... I'm so happy!! To be the first for such a cute[r]
 girl, I'm so..."[pcms]
 
@@ -267,7 +267,7 @@ it's rattling inside my head...!?"[pcms]
 
 *1364|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "...!?"[pcms]
 
 *1365|
@@ -286,7 +286,7 @@ and... auuuh...!?"[pcms]
 
 *1367|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Uwahh... if you shake your head like that..., your pussy[r]
 rubs against me... uwah!"[pcms]
 
@@ -327,7 +327,7 @@ Could it be that she's starting to feel pleasure from me?[pcms]
 
 *1374|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "...?"[pcms]
 
 *1375|
@@ -371,7 +371,7 @@ expression, shook the depths of my heart intensely.[pcms]
 
 *1381|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Uah... ah... inside... it feels even better than before...[r]
 so warm..."[pcms]
 
@@ -429,7 +429,7 @@ John is watching, faaah... hiaahh!? John?!"[pcms]
 
 *1390|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Uaah! What's... what's happening?!"[pcms]
 
 *1391|
@@ -466,7 +466,7 @@ my lower half and mind burn hot as if set on fire.[pcms]
 
 *1397|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Aguh... it feels so good!! Huff... huff... ahh!! Haha!! It[r]
 feels good!! Maya-chan! It's amazing!"[pcms]
 
@@ -512,7 +512,7 @@ ecstasy with a slack face, drooling and crying.[pcms]
 
 *1405|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Uahh... amazing... uhh..."[pcms]
 
 *1406|
@@ -544,7 +544,7 @@ stars! Uwahh... aahhh!!"[pcms]
 
 *1410|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Ooh, I also... can't hold back anymore... ahh! It's coming[r]
 out!!"[pcms]
 
@@ -568,7 +568,7 @@ uwaaahhh!"[pcms]
 
 *1413|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Uwahh... can't stop it...!! Ahh!"[pcms]
 
 *1414|
@@ -600,7 +600,7 @@ closed her eyes and began to breathe softly in sleep.[pcms]
 
 *1418|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Maya-chan..."[pcms]
 
 *1419|

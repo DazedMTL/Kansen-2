@@ -40,7 +40,7 @@ star-filled sky above.[pcms]
 
 *11144|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Wow, this is something..."[pcms]
 
 ;èÍèä<ImageFade 6,60,OFF,OFF>
@@ -59,7 +59,7 @@ owners, barely retaining their original shape.[pcms]
 
 *11147|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Hey, those are pretty expensive cars..."[pcms]
 
 [ChrSetEx layer=4 chbase="nanasi_n05"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -113,7 +113,7 @@ the edge of the rooftop, looking far into the distance.[pcms]
 
 *11155|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Did you see something?"[pcms]
 
 *11156|
@@ -124,7 +124,7 @@ the edge of the rooftop, looking far into the distance.[pcms]
 
 *11157|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "...?"[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
@@ -146,7 +146,7 @@ Perhaps from higher up, it might even form a large circle.[pcms]
 
 *11161|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "What's happened over there...?"[pcms]
 
 *11162|
@@ -162,7 +162,7 @@ might call a sense of life.[pcms]
 
 *11164|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "A ghost town, huh."[pcms]
 
 [ChrSetEx layer=4 chbase="koba_n01"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -176,7 +176,7 @@ somewhere?"[pcms]
 
 *11166|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Where could they have gone? Even our classmates are[r]
 missing. There were only three of us in the bus."[pcms]
 
@@ -257,7 +257,7 @@ The slope of that building over there...?[pcms]
 
 *11181|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Ah..."[pcms]
 
 *11182|
@@ -284,7 +284,7 @@ that building...![pcms]
 
 *11186|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Hey Yuu! We can get to that building over there! With this,[r]
 we can save Hayami!"[pcms]
 
@@ -314,7 +314,7 @@ all around the building were many people wandering about.[pcms]
 
 *11191|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Those people, could they possibly be..."[pcms]
 
 *11192|
@@ -334,7 +334,7 @@ get to the other building...!![pcms]
 
 *11195|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Damn it!!"[pcms]
 
 [ChrSetEx layer=4 chbase="koba_n12"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -379,7 +379,7 @@ hurriedly ran towards the stairs.[pcms]
 
 *11201|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "!!"[pcms]
 
 [ChrSetEx layer=4 chbase="nanasi_n07"][ChrSetXY layer=4 x=160 y=0][trans_c cross time=150]
@@ -430,7 +430,7 @@ bared teeth almost reaching the woman's neck.[pcms]
 
 *11209|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Stop it!!"[pcms]
 
 *11210|
@@ -461,7 +461,7 @@ with her arms as if to shield herself.[pcms]
 
 *11214|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Are you okay?"[pcms]
 
 [ChrSetEx layer=4 chbase="anza_n09"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -483,7 +483,7 @@ me, and I consciously approached her slowly.[pcms]
 
 *11217|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "It's okay, calm down. I won't do anything."[pcms]
 
 [ChrSetEx layer=4 chbase="nanasi_n06"][ChrSetXY layer=4 x=160 y=0][trans_c cross time=150]
@@ -509,7 +509,7 @@ that seemed like a group chanting prayers from somewhere.[pcms]
 
 *11221|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "What's that sound? This..."[pcms]
 
 *11222|
@@ -527,7 +527,7 @@ ran in with Husky.[pcms]
 
 *11224|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Here, as in...?"[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
@@ -541,7 +541,7 @@ from the car slope.[pcms]
 
 *11226|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Damn... Please escape downstairs first!!"[pcms]
 
 ;[chara_int_ layer=4][trans_c cross time=150]
@@ -553,7 +553,7 @@ walls and found what I was looking for.[pcms]
 
 *11228|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Alright...!"[pcms]
 
 *11229|

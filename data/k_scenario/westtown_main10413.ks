@@ -32,7 +32,7 @@
 
 *12313|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Just do it! Hurry, before they notice us!!"[pcms]
 
 ;êŠ<ImageFade 6,60,OFF,OFF>
@@ -44,7 +44,7 @@ people, only that girl seemed to notice us.[pcms]
 
 *12315|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Go ahead!! Yuu, hurry up!!"[pcms]
 
 [chara_int][trans_c cross time=150]
@@ -119,7 +119,7 @@ and when I answered, I heard Arisu's anxious voice.[pcms]
 
 *12325|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Hayami!? What's wrong!"[pcms]
 
 *12326|
@@ -131,13 +131,13 @@ arcade too..."[pcms]
 
 *12327|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Strange... What do you mean by strange?"[pcms]
 
 *12328|
 [fc]
 [vo_hay s="hayami0162"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Please, Hiroshi... come help me quickly..."[pcms]
 ;//‚Í‚â‚­‚½‚·‚¯‚É‚«‚Äcc—Üº
 
@@ -150,13 +150,13 @@ then I'll come right away!"[pcms]
 *12330|
 [fc]
 [vo_hay s="hayami0163"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "I'll be waiting. Bye then."[pcms]
 ;//Q‚Ä‚½’²q‚Å
 
 *12331|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Hey, wait! Hayami!!"[pcms]
 
 *12332|

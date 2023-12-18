@@ -41,7 +41,7 @@ quickly came to a halt.[pcms]
 
 *9478|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "..."[pcms]
 
 *9479|
@@ -68,7 +68,7 @@ approached the old man again.[pcms]
 
 *9483|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Hey, I'll take that off for you."[pcms]
 
 [bgm storage="BGM009"]
@@ -81,7 +81,7 @@ approached the old man again.[pcms]
 
 *9484|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "In exchange, tell me where Hayami is."[pcms]
 
 [ChrSetEx layer=4 chbase="sugo_n09"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -94,7 +94,7 @@ approached the old man again.[pcms]
 
 *9485|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "!!"[pcms]
 
 *9486|
@@ -105,7 +105,7 @@ into my arm.[pcms]
 
 *9487|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Guaaahhhhh!!!"[pcms]
 
 *9488|
@@ -126,7 +126,7 @@ the old man's head wouldn't budge at all.[pcms]
 
 *9490|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "You bastard...!!"[pcms]
 
 ;//[]SEÅFë≈åÇâπ
@@ -148,7 +148,7 @@ over and over with my free hand.[pcms]
 
 *9492|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Let go!! You piece of shit!! You should just die!![r]
 Asshole!!"[pcms]
 ;//Å¶àÍåæÇ≤Ç∆Ç…ë≈åÇâπ
@@ -169,7 +169,7 @@ my bitten arm. By then, my fist was skinned and bleeding.[pcms]
 
 *9494|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Haa...! Haa...! Shit...!!"[pcms]
 
 [ChrSetEx layer=4 chbase="sugo_n09"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -180,7 +180,7 @@ my bitten arm. By then, my fist was skinned and bleeding.[pcms]
 
 *9495|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "...?"[pcms]
 
 [ChrSetEx layer=4 chbase="sugo_n09"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -204,7 +204,7 @@ HII-HAAHAHAHAAHAHA!!"[pcms]
 
 *9498|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "..."[pcms]
 
 *9499|
@@ -246,7 +246,7 @@ for Hayami.[pcms]
 
 *9505|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "ÅIÅH"[pcms]
 
 *9506|

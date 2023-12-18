@@ -27,7 +27,7 @@
 
 *5300|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "!!"[pcms]
 
 *5301|
@@ -58,7 +58,7 @@ butt.[pcms]
 
 *5305|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Where have you been? You said you wouldn't go far."[pcms]
 
 *5306|
@@ -81,7 +81,7 @@ that had moved from above to in front of me.[pcms]
 
 *5309|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Food and ice... Don't tell me, you went inside the building[r]
 again!?"[pcms]
 
@@ -93,7 +93,7 @@ again!?"[pcms]
 
 *5311|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Duty room...?"[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_n01"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -125,7 +125,7 @@ safe to drink..."[pcms]
 
 *5316|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Mm, thank you."[pcms]
 
 *5317|
@@ -164,7 +164,7 @@ all that trouble...[pcms]
 
 *5323|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "I'm sorry, for making you do this for me..."[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_n02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -186,7 +186,7 @@ Wait...? Where have I heard that before...?[pcms]
 
 *5327|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "..."[pcms]
 
 *5328|
@@ -203,7 +203,7 @@ I heard Maya-chan's soft laughter.[pcms]
 
 *5330|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Ah, ah-, right, was it something I said...?"[pcms]
 
 *5331|
@@ -214,7 +214,7 @@ me.[pcms]
 
 *5332|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Surely, helping each other out in times of trouble is what[r]
 friends do, but still..."[pcms]
 
@@ -239,7 +239,7 @@ what I believe..."[pcms]
 
 *5336|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "..."[pcms]
 
 *5337|
@@ -260,7 +260,7 @@ were starting to well up for some reason.[pcms]
 
 *5340|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "It's not just Maya-chan. I also think of you as an[r]
 important friend."[pcms]
 

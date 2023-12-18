@@ -91,7 +91,7 @@ once? Then we can go together."[pcms]
 
 *6630|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Ah, I'm fine with that."[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
@@ -110,7 +110,7 @@ without you."[pcms]
 
 *6632|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "I know. I'd rather die than do assignments instead of going[r]
 on the trip."[pcms]
 
@@ -124,7 +124,7 @@ on the trip."[pcms]
 
 *6634|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "How little trust do you have in me..."[pcms]
 
 *6635|
@@ -148,12 +148,12 @@ house?"[pcms]
 [ns]Arisu & Kobayashi[nse]
 ;mm ボイス合成がうまくいかないのでここは速水のみのボイス＆名前にしておく
 [vo_hay s="hayami_koba0000_hayami"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "You're asking now?"[pcms]
 
 *6638|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "..."[pcms]
 
 [fadeoutbgm time=502]

@@ -32,7 +32,7 @@ to slow down our pace.[pcms]
 
 *7438|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Did you forget something?"[pcms]
 
 ;èÍèä<ImageFade 6,60,OFF,OFF>
@@ -45,7 +45,7 @@ to slow down our pace.[pcms]
 
 *7440|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Your grandfather?"[pcms]
 
 *7441|
@@ -56,7 +56,7 @@ to slow down our pace.[pcms]
 
 *7442|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "What!? Why didn't you say that sooner!!"[pcms]
 
 *7443|
@@ -68,7 +68,7 @@ we came from, she pulled on my hand to stop me.[pcms]
 
 *7444|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "What are you doing, we have to go help!!"[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_n08"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -81,7 +81,7 @@ we came from, she pulled on my hand to stop me.[pcms]
 
 *7446|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Dead...?"[pcms]
 
 *7447|
@@ -92,7 +92,7 @@ we came from, she pulled on my hand to stop me.[pcms]
 
 *7448|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "By those guys..."[pcms]
 
 *7449|
@@ -110,7 +110,7 @@ body... his stomach... his... organs..."[pcms]
 
 *7451|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "..."[pcms]
 
 *7452|
@@ -132,7 +132,7 @@ their... mouths...!!"[pcms]
 
 *7455|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Enough!! You don't have to remember anymore..."[pcms]
 
 *7456|
@@ -159,7 +159,7 @@ back.[pcms]
 
 *7460|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "I'm sorry... Let's go."[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]

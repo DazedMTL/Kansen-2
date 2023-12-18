@@ -28,7 +28,7 @@
 
 *10652|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Ugh..."[pcms]
 
 *10653|
@@ -65,7 +65,7 @@ Or should I go to the other escalator instead...?[pcms]
 
 *10659|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "...?"[pcms]
 
 *10660|
@@ -88,7 +88,7 @@ had just lit up on the elevator floor indicator.[pcms]
 
 *10663|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Perfect timing, let's get on..."[pcms]
 
 *10664|
@@ -534,7 +534,7 @@ maid caf girl came to mind, and I hesitated to help her.[pcms]
 
 *10733|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "..."[pcms]
 
 *10734|
@@ -581,7 +581,7 @@ into the elevator so that the door could close.[pcms]
 
 *10740|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Raaah!!"[pcms]
 
 ;//ÅÙÅFm05 fadeout
@@ -607,7 +607,7 @@ lit up with "3", "4" as we moved up.[pcms]
 
 *10742|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Let's take the escalator..."[pcms]
 
 *10743|
@@ -625,7 +625,7 @@ out on the second floor, I urged everyone.[pcms]
 
 *10745|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Yuuki, what's wrong? Let's go!"[pcms]
 
 *10746|
@@ -636,7 +636,7 @@ with a vacant look on her face.[pcms]
 
 *10747|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Yuuki?"[pcms]
 
 *10748|

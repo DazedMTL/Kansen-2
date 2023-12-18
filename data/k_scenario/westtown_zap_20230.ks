@@ -402,7 +402,7 @@ get caught without a fight...![pcms]
 
 *14261|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "!!"[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
@@ -517,7 +517,7 @@ by men like that woman was!"[pcms]
 
 *14284|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "..."[pcms]
 
 *14285|

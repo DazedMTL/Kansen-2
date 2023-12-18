@@ -82,7 +82,7 @@ I am... going home...[pcms]
 
 *1830|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "I'm going home... I'll take Hayami and the others with[r]
 me... We'll all go home together..."[pcms]
 
@@ -103,7 +103,7 @@ still be a chance to save you!"[pcms]
 
 *1833|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Make it? More than that... I'm going home... I'm going[r]
 back..."[pcms]
 
@@ -128,7 +128,7 @@ That we might be able to make it... That's what it means.[pcms]
 
 *1838|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Understood... I'm going home... Let's all go back[r]
 together..."[pcms]
 
@@ -212,7 +212,7 @@ shouting, and began looking around cautiously.[pcms]
 *1846|
 [fc]
 [vo_hay s="hayami1216"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "I hate that old man kiraa...ng..."[pcms]
 
 [ChrSetEx layer=4 chbase="turuta_a02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]

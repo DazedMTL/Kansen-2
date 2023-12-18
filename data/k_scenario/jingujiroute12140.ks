@@ -43,7 +43,7 @@ was loitering.[pcms]
 
 *5057|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "This...!!"[pcms]
 
 [se0 storage="se20"]
@@ -64,7 +64,7 @@ another of the crazed bastards blocking my path.[pcms]
 
 *5060|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Get out of the way!!"[pcms]
 
 [se0 storage="se20"]
@@ -93,7 +93,7 @@ chan hadn't been caught by them.[pcms]
 
 *5064|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "..."[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
@@ -118,7 +118,7 @@ Maya-chan... I will absolutely protect Maya-chan...!![pcms]
 
 *5068|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Eh...owah!!"[pcms]
 
 *5069|
@@ -139,7 +139,7 @@ back onto the ground.[pcms]
 
 *5071|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Guh...!!"[pcms]
 
 *5072|
@@ -161,7 +161,7 @@ that I had let go of my shovel.[pcms]
 
 *5075|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Let go, you bastard!!"[pcms]
 
 [se0 storage="se20"][赤フラ]
@@ -191,7 +191,7 @@ smile.[pcms]
 
 *5078|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Damn it...!!"[pcms]
 
 *5079|
@@ -210,7 +210,7 @@ the man's head wobbled with a dull sound.[pcms]
 
 *5081|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Maya-chan!!"[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_n01"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -257,7 +257,7 @@ around noticed our voices and started approaching us.[pcms]
 
 *5086|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Maya-chan, they're coming from behind!!"[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_n08"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -282,7 +282,7 @@ protect her, but I can't let Maya-chan be put in danger...!![pcms]
 
 *5090|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Let go!!"[pcms]
 
 [se0 storage="se20"][赤フラ]
@@ -296,7 +296,7 @@ protect her, but I can't let Maya-chan be put in danger...!![pcms]
 
 *5092|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Damn it...!!"[pcms]
 
 *5093|
@@ -347,7 +347,7 @@ at all that she was standing in the center of that circle.[pcms]
 
 *5099|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Maya-chan, you're being surrounded!!"[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_n04"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -406,7 +406,7 @@ bite into my thigh.[pcms]
 
 *5108|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Guh...!!"[pcms]
 
 [se0 storage="se20"]
@@ -434,7 +434,7 @@ chan's face.[pcms]
 
 *5112|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Raaah!!"[pcms]
 
 [se0 storage="se20"][赤フラ]
@@ -454,7 +454,7 @@ nearby.[pcms]
 
 *5115|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Seah!!"[pcms]
 
 [se0 storage="se20"][赤フラ]
@@ -479,7 +479,7 @@ chin.[pcms]
 
 *5118|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Darahh!!"[pcms]
 
 [se0 storage="se20"][赤フラ]
@@ -499,7 +499,7 @@ he fell on his back, and slammed him into the ground.[pcms]
 
 *5121|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Haa... Haa... Maya-chan!!"[pcms]
 
 *5122|
@@ -509,7 +509,7 @@ and supported her.[pcms]
 
 *5123|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Are you okay!? Are you hurt anywhere!?"[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_f02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -528,7 +528,7 @@ fallen nearby.[pcms]
 
 *5126|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "I'll handle them, so take the chance to head to the slope[r]
 first!!"[pcms]
 
@@ -573,7 +573,7 @@ the debris I was holding.[pcms]
 
 *5132|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Maya-chan!?"[pcms]
 
 *5133|
@@ -591,7 +591,7 @@ man's head with the shovel.[pcms]
 
 *5135|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "But it's dangerous..."[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_f05"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -613,7 +613,7 @@ should stop, Maya-chan shook her head.[pcms]
 
 *5138|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "!!"[pcms]
 
 [se0 storage="se20"][赤フラ]
@@ -627,7 +627,7 @@ crazed bastard approaching from behind with the shovel.[pcms]
 
 *5140|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Uraahh!!"[pcms]
 
 [se0 storage="se20"][赤フラ]
@@ -655,7 +655,7 @@ car and skillfully took him down.[pcms]
 
 *5144|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Maya-chan, get out of the way!!"[pcms]
 
 [se0 storage="se20"][赤フラ]
@@ -680,7 +680,7 @@ and we managed to scatter the surrounding crazed bastards.[pcms]
 
 *5148|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Haa... Don't do anything crazy, it's not a joke..."[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_n07"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -692,7 +692,7 @@ and we managed to scatter the surrounding crazed bastards.[pcms]
 
 *5150|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "But you saved us. If Maya-chan hadn't dealt with them, we[r]
 both would have been done for by now."[pcms]
 
@@ -705,7 +705,7 @@ faint smile that somehow seemed satisfied.[pcms]
 
 *5152|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Alright, let's go before any others come close."[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
@@ -737,7 +737,7 @@ running down the spiraling road.[pcms]
 
 *5154|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Ugh... what's this smell..."[pcms]
 
 *5155|
@@ -780,7 +780,7 @@ Damn it... I won't let them become like those guys...![pcms]
 
 *5161|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Let's go."[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_f02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -795,7 +795,7 @@ ran towards the car gate that we could see beyond them.[pcms]
 
 *5163|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "...?"[pcms]
 
 ;//演出上、ここでの感染者表示を止めます
@@ -820,7 +820,7 @@ What's that? What's he holding...?[pcms]
 
 *5167|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "No, it's just that guy... he's holding something..."[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
@@ -847,7 +847,7 @@ would be a grenade here...[pcms]
 
 *5171|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "..."[pcms]
 
 *5172|

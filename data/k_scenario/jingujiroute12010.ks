@@ -37,13 +37,13 @@ our favor.[pcms]
 
 *4315|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "We're going to trap those wandering outside in that movie[r]
 theater with the door left wide open."[pcms]
 
 *4316|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "That way, even if they get up later, we won't be attacked[r]
 like before."[pcms]
 
@@ -108,7 +108,7 @@ handle on the back.[pcms]
 
 *4323|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "This won't do... Yuu, can you use this?"[pcms]
 
 ;èÍèä<ImageFade 6,60,OFF,OFF>
@@ -142,7 +142,7 @@ entered cinema "No. 3" and each found a spot to sit down.[pcms]
 
 *4326|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Phew, I'm exhausted..."[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_f02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -160,7 +160,7 @@ apologetic look.[pcms]
 
 *4329|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "That's not true. You helped me out just now, didn't you?"[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_f04"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -172,7 +172,7 @@ apologetic look.[pcms]
 
 *4331|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Even when I was getting heated and ranting, Maya-chan, you[r]
 were there to calmly point out what was wrong."[pcms]
 
@@ -185,7 +185,7 @@ were there to calmly point out what was wrong."[pcms]
 
 *4333|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Don't worry about it. It's okay."[pcms]
 
 ;//ÅÙÅFm02 stop
@@ -201,7 +201,7 @@ unconvinced, all the lights inside the cinema went out.[pcms]
 
 *4335|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "A blackout!?"[pcms]
 
 *4336|
@@ -221,7 +221,7 @@ and peeked outside through a slightly opened door.[pcms]
 
 *4337|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "It's out outside too..."[pcms]
 
 *4338|
@@ -248,7 +248,7 @@ But it's not something I can do anything about...[pcms]
 
 *4342|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "It might be faster to think about getting over there from a[r]
 different place..."[pcms]
 

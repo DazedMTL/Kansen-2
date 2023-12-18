@@ -58,7 +58,7 @@ vision turned completely white.[pcms]
 
 *10034|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "ÅIÅH"[pcms]
 
 *10035|
@@ -68,7 +68,7 @@ ringing in my ears, all other sounds disappeared.[pcms]
 
 *10036|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Ugh, kuh..."[pcms]
 
 *10037|
@@ -103,7 +103,7 @@ What is this...!? My head feels so dizzy...[pcms]
 
 *10041|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Ugh..."[pcms]
 
 ;//[]BGï\é¶
@@ -116,7 +116,7 @@ my eyes that had been shut tight.[pcms]
 
 *10043|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Huh..."[pcms]
 
 *10044|
@@ -144,7 +144,7 @@ unharmed? Me...[pcms]
 
 *10048|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Maya-chan!?"[pcms]
 
 *10049|
@@ -156,7 +156,7 @@ clothes.[pcms]
 
 *10050|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Stop it you bastards!!"[pcms]
 
 *10051|
@@ -182,7 +182,7 @@ couldn't see anything.[pcms]
 
 *10055|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Mmph!"[pcms]
 
 ;//------------------------------------------------
@@ -209,18 +209,18 @@ couldn't see anything.[pcms]
 *10056|
 [fc]
 [vo_hay s="hayami0964"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Why are you looking at such a woman...?"[pcms]
 
 *10057|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Hayami...!?"[pcms]
 
 *10058|
 [fc]
 [vo_hay s="hayami0965"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "If you're going to look, look at me instead...!"[pcms]
 
 *10059|
@@ -249,13 +249,13 @@ voice.[pcms]
 *10063|
 [fc]
 [vo_hay s="hayami0967"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Look, Hiroshi, you like this don't you...? My breasts...[r]
 You always looked at them, I know...?"[pcms]
 
 *10064|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "No, mmmph...! Stop it, Hayami!! Mmmuuuhh!!"[pcms]
 
 *10065|
@@ -266,7 +266,7 @@ You always looked at them, I know...?"[pcms]
 
 *10066|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Mmm!! Fwahh, mmmph...!!"[pcms]
 
 *10067|
@@ -277,19 +277,19 @@ You always looked at them, I know...?"[pcms]
 
 *10068|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Pwahh... Hayami, please...!! If you understand me... let[r]
 go!!"[pcms]
 
 *10069|
 [fc]
 [vo_hay s="hayami0970"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Nfu~...ÅÙ"[pcms]
 
 *10070|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Stop it, Hayami!!"[pcms]
 
 *10071|
@@ -331,7 +331,7 @@ girl..."[pcms]
 
 *10078|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Stop it...!! Get off me!!"[pcms]
 
 *10079|
@@ -350,19 +350,19 @@ you like..."[pcms]
 
 *10081|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Stop it, Hayami... Please, just stop...!!"[pcms]
 
 *10082|
 [fc]
 [vo_hay s="hayami0973"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "My pussy feels so much better than that little girl's ugly[r]
 one..."[pcms]
 
 *10083|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Stop it, Hayami...!!"[pcms]
 
 *10084|
@@ -388,7 +388,7 @@ senses, even for a moment.[pcms]
 
 *10088|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Please...!! Hayami... I'm begging you...!! Stop it...!!"[pcms]
 
 *10089|
@@ -408,7 +408,7 @@ body, my panties were yanked and torn off multiple times.[pcms]
 
 *10092|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Guh...!! Fugh...!!"[pcms]
 
 *10093|
@@ -419,7 +419,7 @@ dick and slowly began to stroke it.[pcms]
 *10094|
 [fc]
 [vo_hay s="hayami0974"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Ahaa... Hiroshi's cock is twitching...ÅÙ"[pcms]
 
 *10095|
@@ -443,7 +443,7 @@ it had ever been before.[pcms]
 
 *10098|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Stop it... Stop it!! STOP IT!!"[pcms]
 
 *10099|
@@ -459,12 +459,12 @@ And then my dick was guided by Hayami's hand into her pussy.[pcms]
 *10101|
 [fc]
 [vo_hay s="hayami0976"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Fah, ahh... Hiroshi's cock is coming in...!"[pcms]
 
 *10102|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Kuh, aah...!!"[pcms]
 
 *10103|
@@ -475,19 +475,19 @@ breath away.[pcms]
 
 *10104|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Hah... Guh...!!"[pcms]
 
 *10105|
 [fc]
 [vo_hay s="hayami0977"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Ah, kuhn...!! This is Hiroshi's... Ahh...!! It's so[r]
 hard..."[pcms]
 
 *10106|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Ugh, guh...!! Stop it... Hayami...!!"[pcms]
 
 *10107|
@@ -532,7 +532,7 @@ die...!![pcms]
 
 *10114|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Kuh, aah...!! Move... Get off me, Hayami...!!"[pcms]
 
 *10115|
@@ -544,13 +544,13 @@ good, Hiroshi...!!"[pcms]
 
 *10116|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Enough... Guh, hah...!! Stop it...!!"[pcms]
 
 *10117|
 [fc]
 [vo_hay s="hayami0980"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Ukuh, nunnh!! Fahh, hauh...!! I love it... I love Hiroshi's[r]
 cock so much...!!"[pcms]
 
@@ -578,13 +578,13 @@ that I'm going to... Nkuuhh...!!"[pcms]
 
 *10122|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Kuahh...!! Fuhh, hahh, ugh...!!"[pcms]
 
 *10123|
 [fc]
 [vo_hay s="hayami0982"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Hahh, aunnh!! So, Hiroshi... which pussy do you like more?[r]
 Mine or that ugly girl's? Tell me..."[pcms]
 
@@ -608,7 +608,7 @@ so mean... Nnnh, nnuhh!!"[pcms]
 
 *10127|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Fuhh, ugh, kuh...!! Hahh, ugh...!!"[pcms]
 
 *10128|
@@ -633,13 +633,13 @@ and we would die.[pcms]
 *10131|
 [fc]
 [vo_hay s="hayami0985"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Hah, ahh, nghh!! ...Hah, ngh... Hiroshi, do you prefer a[r]
 tiny, ugly girl's pussy...? Tell me~~...!"[pcms]
 
 *10132|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Hayami... please, stop...!! Let's go to the hospital[r]
 together...!!"[pcms]
 
@@ -651,7 +651,7 @@ together...!!"[pcms]
 
 *10134|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "!!"[pcms]
 
 *10135|
@@ -672,7 +672,7 @@ her neck, freeing my face from her deep cleavage.[pcms]
 
 *10138|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Fuhahh...! Maya-chan!!"[pcms]
 
 *10139|
@@ -732,7 +732,7 @@ that, is he...!? That's insane...!![pcms]
 
 *10148|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Stop it you bastards!!"[pcms]
 
 *10149|
@@ -756,13 +756,13 @@ her hips and clung to my head that was now far away.[pcms]
 *10152|
 [fc]
 [vo_hay s="hayami0987"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "If it's my pussy, you can cum inside as much as you[r]
 want~~...?"[pcms]
 
 *10153|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Kuh...!! Let go, Hayami!!"[pcms]
 
 *10154|
@@ -845,7 +845,7 @@ from where I was.[pcms]
 
 *10168|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Maya-chan!! Maya-chan!!!!"[pcms]
 
 *10169|
@@ -862,13 +862,13 @@ Maya-chan, but I couldn't escape from Hayami either.[pcms]
 
 *10171|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Damn it...!! Let go of me...!!!!"[pcms]
 
 *10172|
 [fc]
 [vo_hay s="hayami0988"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Hey~~ Hiroshi... want me to tell you something nice~~...ÅÙ"[pcms]
 
 *10173|
@@ -907,13 +907,13 @@ man's hand and dripped onto the floor.[pcms]
 
 *10179|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Maya-chan!! Hang in there!!"[pcms]
 
 *10180|
 [fc]
 [vo_hay s="hayami0989"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "You know... I've masturbated thinking about Hiroshi so many[r]
 times...ÅÙ"[pcms]
 
@@ -948,7 +948,7 @@ open.[pcms]
 
 *10186|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Maya-chan!!!"[pcms]
 
 *10187|
@@ -988,13 +988,13 @@ fucked~~~...!! She won't last long~~~...!!"[pcms]
 *10193|
 [fc]
 [vo_hay s="hayami0990"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Even though I've done it with Yuuki before... thinking[r]
 about Hiroshi made it feel so much better~~~...ehehe...ÅÙ"[pcms]
 
 *10194|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Maya-chan!!! Maya-chan!!!"[pcms]
 
 *10195|
@@ -1067,7 +1067,7 @@ audible.[pcms]
 
 *10207|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Maya-chan..."[pcms]
 
 *10208|
@@ -1087,7 +1087,7 @@ again.[pcms]
 
 *10210|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "..."[pcms]
 
 *10211|
@@ -1126,19 +1126,19 @@ everything and stopped thinking.[pcms]
 *10217|
 [fc]
 [vo_hay s="hayami0993"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Nahh, ha, uuh...!! Your dick is twitching... are you about[r]
 to cum, Hiroshi? Nnn, kuhn!!"[pcms]
 
 *10218|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Hayami, I'm sorry..."[pcms]
 
 *10219|
 [fc]
 [vo_hay s="hayami0994"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Ah, fuaahh!! Cum inside my pussy, it's okay... hauu...!![r]
 We're true friends, right?"[pcms]
 
@@ -1158,7 +1158,7 @@ out and sprayed my semen deep inside Hayami's pussy.[pcms]
 *10221|
 [fc]
 [vo_hay s="hayami0995"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Nkuuh!! Yelling!!"[pcms]
 
 *10222|
@@ -1169,7 +1169,7 @@ and deeper into her pussy.[pcms]
 *10223|
 [fc]
 [vo_hay s="hayami0996"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Uwaah, fuaah~~... Hiroshi's semen is hitting deep inside my[r]
 pussy~~..."[pcms]
 
@@ -1194,7 +1194,7 @@ pregnant~~...ÅÙ"[pcms]
 
 *10227|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Maya-chan, I'm sorry..."[pcms]
 
 *10228|

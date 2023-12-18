@@ -90,7 +90,7 @@ than John and my grandfather.[pcms]
 *7786|
 [fc]
 [vo_hay s="hayami0046"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "It's a husky, how cute~♪"[pcms]
 ;//◎録る必要なし（ブロック００５０のものを流用）
 

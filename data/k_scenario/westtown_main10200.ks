@@ -40,7 +40,7 @@ back wall.[pcms]
 
 *10823|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "What's wrong?"[pcms]
 
 
@@ -113,7 +113,7 @@ troubled expression as if seeking help.[pcms]
 
 *10833|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "...Uh, so keep a respectful distance, is that right?"[pcms]
 
 [ChrSetEx layer=5 chbase="anza_n02"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
@@ -134,7 +134,7 @@ I tried to follow her, Yuu glared at me.[pcms]
 
 *10836|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "? What is it?"[pcms]
 
 *10837|
@@ -152,7 +152,7 @@ left the bookstore, leaving me behind.[pcms]
 
 *10839|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "..."[pcms]
 
 *10840|

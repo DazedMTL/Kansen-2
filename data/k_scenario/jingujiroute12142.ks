@@ -24,7 +24,7 @@
 
 *5179|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Stay here until I call for you, Maya-chan!"[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_n08"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -48,7 +48,7 @@ man.[pcms]
 
 *5182|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Take this!!"[pcms]
 
 [se0 storage="se20"][ê‘ÉtÉâ]
@@ -62,7 +62,7 @@ crazed guy holding the grenade.[pcms]
 
 *5184|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "...?"[pcms]
 
 *5185|

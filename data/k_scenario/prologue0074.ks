@@ -38,7 +38,7 @@ flung open with tremendous force.[pcms]
 
 *6654|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Uboaaahhh!!!!!"[pcms]
 
 *6655|
@@ -49,7 +49,7 @@ writhed in agony as I tumbled off the bed.[pcms]
 
 *6656|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Guah...!"[pcms]
 
 *6657|
@@ -61,7 +61,7 @@ either!!"[pcms]
 
 *6658|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Yes..."[pcms]
 
 *6659|

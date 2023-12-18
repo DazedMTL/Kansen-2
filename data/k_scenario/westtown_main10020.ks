@@ -49,7 +49,7 @@ nearest staircase or escalator,'"[pcms]
 
 *10298|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "...Yuuki, try pressing that button over there."[pcms]
 
 ;//SE：エレベーターのボタンを押す音（？）
@@ -107,7 +107,7 @@ shouldn't use it as an evacuation spot..."[pcms]
 
 *10306|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Enough, let's go that way."[pcms]
 
 [chara_int_ layer=2][chara_int_ layer=3][trans_c cross time=150]
@@ -121,7 +121,7 @@ move, I headed towards the escalator on the opposite side."[pcms]
 
 *10308|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Ugh..."[pcms]
 
 *10309|
@@ -147,7 +147,7 @@ this stench."[pcms]
 
 *10312|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "That's what it is. It's starting to rot."[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
@@ -183,7 +183,7 @@ heat."[pcms]
 
 *10318|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Yeah, me too..."[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]

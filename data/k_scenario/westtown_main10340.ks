@@ -38,7 +38,7 @@ filled with cheerful music and the sound of TV static.[pcms]
 
 *11761|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "What's this music...?"[pcms]
 
 ;èÍèä<ImageFade 6,60,OFF,OFF>
@@ -84,7 +84,7 @@ the distorted screen of noise.[pcms]
 
 *11768|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Can't see it well from here... I'll go down and take a[r]
 look."[pcms]
 
@@ -146,7 +146,7 @@ the nearby escalator.[pcms]
 
 *11774|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "!"[pcms]
 
 *11775|
@@ -172,7 +172,7 @@ went back up the escalator.[pcms]
 
 *11778|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Stop it!!"[pcms]
 
 *11779|
@@ -195,7 +195,7 @@ at my face.[pcms]
 
 *11781|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Hey!"[pcms]
 
 ;//ÅÙÅFbgm009 stop
@@ -216,7 +216,7 @@ the girl and began to tend to her.[pcms]
 
 *11784|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Is she okay...?"[pcms]
 
 [ChrSetEx layer=4 chbase="anza_n17"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -233,7 +233,7 @@ the girl and began to tend to her.[pcms]
 
 *11787|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "...?"[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
@@ -282,7 +282,7 @@ filled with people and low groaning sounds.[pcms]
 
 *11794|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Did they come in from somewhere? Or were they inside from[r]
 the start...?"[pcms]
 
@@ -421,7 +421,7 @@ causes are underway."[pcms]
 
 *11812|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Explosion accident..."[pcms]
 
 *11813|
@@ -458,7 +458,7 @@ around 7 PM last night."[pcms]
 
 *11818|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "The entire Tohoku region..."[pcms]
 
 *11819|
@@ -560,7 +560,7 @@ in a room that can be locked."[pcms]
 
 *11832|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Virus..."[pcms]
 
 *11833|
@@ -607,7 +607,7 @@ being transported to a hospital."[pcms]
 
 *11839|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "..."[pcms]
 
 *11840|
@@ -637,7 +637,7 @@ should I do..."[pcms]
 
 *11845|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Damn it...!"[pcms]
 
 *11846|
@@ -690,7 +690,7 @@ terrorist groups."[pcms]
 
 *11853|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Things are getting pretty serious..."[pcms]
 
 *11854|
@@ -759,7 +759,7 @@ we had seen several times before.[pcms]
 
 *11863|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Ah..."[pcms]
 
 *11864|
@@ -844,7 +844,7 @@ with the female announcer's voice.[pcms]
 
 *11875|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "What's that...?"[pcms]
 
 ;//BGï\é¶
@@ -899,7 +899,7 @@ the female announcer's screams.[pcms]
 
 *11882|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Hey, this... don't tell me..."[pcms]
 
 *11883|

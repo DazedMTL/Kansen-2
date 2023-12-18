@@ -85,7 +85,7 @@ Yuu, ran back to where the young lady was.[pcms]
 
 *10491|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Yuu! Go ahead to the second floor and check if there are[r]
 any crazies there!!"[pcms]
 
@@ -139,7 +139,7 @@ lady and slipped my hands under her arms from behind.[pcms]
 
 *10498|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Sorry about this!!"[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_f03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -163,7 +163,7 @@ worried look on her face, and then I helped her stand up.[pcms]
 
 *10501|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Are you okay?"[pcms]
 
 [ChrSetEx layer=3 chbase="jinguji_n02"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
@@ -185,7 +185,7 @@ worried look on her face, and then I helped her stand up.[pcms]
 
 *10504|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Yuu!?"[pcms]
 
 *10505|
@@ -195,7 +195,7 @@ the direction of the stairs.[pcms]
 
 *10506|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Please take care of her!"[pcms]
 
 ;//ÅÙÅFbgm005 stop
@@ -238,7 +238,7 @@ see several people lying down at the top.[pcms]
 
 *10511|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "...Don't scare me like that. I thought you got caught by[r]
 them."[pcms]
 
@@ -272,7 +272,7 @@ to the second floor now.[pcms]
 
 *10516|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Before they come back to life, we have no choice but to[r]
 dash past them..."[pcms]
 
@@ -292,7 +292,7 @@ familiar.[pcms]
 
 *10519|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "That is..."[pcms]
 
 *10520|
@@ -310,7 +310,7 @@ one at the entrance of this building.[pcms]
 
 *10522|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Please go up to the second floor first!"[pcms]
 
 [chara_int]

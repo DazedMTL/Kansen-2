@@ -41,7 +41,7 @@ We're going to go home... We're going to return home!![pcms]
 
 *1860|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Uooooh!! Damn old man!! Hand over the keys to your truck to[r]
 us!"[pcms]
 
@@ -65,7 +65,7 @@ us!"[pcms]
 
 *1861|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Hey... hand over the keys!! The keys to the truck! I want[r]
 to go home!!"[pcms]
 
@@ -195,7 +195,7 @@ killed!![pcms]
 
 *1877|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Those guys... damn it!! This is bad... really bad! ...! The[r]
 truck, the keys, aren't they supposed to move without them?"[pcms]
 
@@ -215,7 +215,7 @@ won't be able to go home![pcms]
 
 *1881|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Uwaaahh!? Hayami... we might not be able to go home...[r]
 huh!?"[pcms]
 
@@ -246,7 +246,7 @@ Keys...? The keys for the truck too...?[pcms]
 
 *1886|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Could it be... we can go home!?"[pcms]
 
 [ChrSetEx layer=2 chbase="turuta_n01"][ChrSetXY layer=2 x=0 y=0][trans_c cross time=150]
@@ -268,7 +268,7 @@ Yes...! With this, we can... go back home![pcms]
 
 *1889|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "We can go back... we can really go back!! We're going to go[r]
 home, everyone get on the truck before they come!"[pcms]
 
@@ -304,7 +304,7 @@ us."[pcms]
 
 *1894|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Yeah! I'll always be with you!! So come with us!! Come on![r]
 Let's go back together!!"[pcms]
 
@@ -331,7 +331,7 @@ Let's go back together!!"[pcms]
 
 *1898|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Got it!!"[pcms]
 
 [chara_int][trans_c cross time=150]

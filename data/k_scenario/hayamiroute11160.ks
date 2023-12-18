@@ -16,7 +16,7 @@
 
 *3784|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Mmm..."[pcms]
 
 ;//[]BG表示
@@ -33,7 +33,7 @@
 
 *3785|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Fah... Ah~..."[pcms]
 
 
@@ -73,7 +73,7 @@ up, was smiling brightly at me.[pcms]
 
 *3791|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Hey, good morning."[pcms]
 
 *3792|
@@ -83,7 +83,7 @@ again.[pcms]
 
 *3793|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "So... are you feeling okay?"[pcms]
 
 [ChrSetEx layer=4 chbase="hayami_t01"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -109,7 +109,7 @@ softening as well.[pcms]
 
 *3797|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Oh..."[pcms]
 
 *3798|
@@ -132,7 +132,7 @@ Who was it...? Who was I supposed to meet again...?[pcms]
 
 *3802|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "..."[pcms]
 
 *3803|
@@ -142,7 +142,7 @@ that building over there...[pcms]
 
 *3804|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Let's go, Hayami."[pcms]
 
 [ChrSetEx layer=4 chbase="hayami_t05"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -155,7 +155,7 @@ that building over there...[pcms]
 
 *3806|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "I have to meet someone. I made a promise."[pcms]
 
 [ChrSetEx layer=4 chbase="hayami_t04"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -217,14 +217,14 @@ perhaps cloth, fluttered past us.[pcms]
 *3813|
 [fc]
 [vo_hay s="hayami0858"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "What's this smell...?"[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
 *3814|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "What is it...?"[pcms]
 
 [chara_int][trans_c cross time=150]
@@ -265,7 +265,7 @@ laughter started to escape from my mouth involuntarily.[pcms]
 
 *3821|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Heh... kuku..."[pcms]
 
 [ChrSetEx layer=4 chbase="hayami_t09"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -281,7 +281,7 @@ laughter started to escape from my mouth involuntarily.[pcms]
 
 *3823|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "No, it's just... pffft, kuhaha...! Hahaha!"[pcms]
 
 [ChrSetEx layer=4 chbase="hayami_t04"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -295,7 +295,7 @@ stop it~"[pcms]
 
 *3825|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "But... kkk... isn't it funny? Bwahaha! Hahahahaha!!"[pcms]
 
 [ChrSetEx layer=4 chbase="hayami_t04"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -312,7 +312,7 @@ Stop it already~!"[pcms]
 
 *3827|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Hahahahahaha!! Hahah, buhaha!! Ha, my stomach hurts!![r]
 Hahahahahahaha!!"[pcms]
 
@@ -321,7 +321,7 @@ Hahahahahahaha!!"[pcms]
 *3828|
 [fc]
 [vo_hay s="hayami0862"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Ahaha, ahhahaha!! Fufu, kufufu... pffft![r]
 Puhahahahahahahaha!!"[pcms]
 
@@ -365,7 +365,7 @@ recall their name at all.[pcms]
 
 *3833|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Hmm...?"[pcms]
 
 *3834|
@@ -393,7 +393,7 @@ dry sound like something bursting from somewhere.[pcms]
 
 *3837|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "What's that sound...? It's coming from below, right?"[pcms]
 
 [ChrSetEx layer=4 chbase="hayami_t01"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -427,7 +427,7 @@ back down to the third floor.[pcms]
 
 *3841|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Huh...?"[pcms]
 
 *3842|
@@ -440,7 +440,7 @@ to the walkway.[pcms]
 
 *3843|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Hey, isn't that our school uniform...?"[pcms]
 
 [ChrSetEx layer=4 chbase="hayami_t05"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -471,7 +471,7 @@ corridor, glaring at us with an angry face.[pcms]
 
 *3848|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "...?"[pcms]
 
 *3849|
@@ -504,7 +504,7 @@ attached to his arm and then started running towards us.[pcms]
 
 *3854|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Exit...?"[pcms]
 
 *3855|
@@ -529,7 +529,7 @@ follow me."[pcms]
 *3858|
 [fc]
 [vo_hay s="hayami0867"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Yeah..."[pcms]
 
 *3859|
@@ -547,7 +547,7 @@ camouflage, swinging our linked hands as we went.[pcms]
 
 *3860|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Mmm, uhh..."[pcms]
 
 *3861|
@@ -576,7 +576,7 @@ struggle against sleepiness.[pcms]
 
 *3865|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Ugh..."[pcms]
 
 ;//[]SE：発砲音・断続的・遠くから（？）
@@ -627,7 +627,7 @@ soft breathing.[pcms]
 
 *3872|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "..."[pcms]
 
 *3873|
@@ -713,7 +713,7 @@ granule, was pushed into my mouth.[pcms]
 
 *3884|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Ngh...!"[pcms]
 
 *3885|
@@ -723,7 +723,7 @@ needle around my shoulder.[pcms]
 
 *3886|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Damn it...!"[pcms]
 
 *3887|
@@ -742,7 +742,7 @@ tighter.[pcms]
 
 *3889|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Hayami..."[pcms]
 
 ;//whiteEOUT

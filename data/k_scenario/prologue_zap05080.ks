@@ -73,7 +73,7 @@ And then, my pussy reacted...[pcms]
 
 *8270|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Huh...? It was here, right...?"[pcms]
 
 [ChrSetEx layer=3 chbase="hayami_t01"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
@@ -97,7 +97,7 @@ me...![pcms]
 
 *8274|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "With such an injury, where could that person have gone?"[pcms]
 
 [ChrSetEx layer=3 chbase="hayami_t05"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
@@ -121,7 +121,7 @@ Could it be... Am I feeling jealous...?[pcms]
 
 *8278|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Otherwise, maybe someone decent came by and took him to a[r]
 different hospital."[pcms]
 
@@ -174,13 +174,13 @@ around just like me.[pcms]
 
 *8287|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Yeah... What is this...?"[pcms]
 
 *8288|
 [fc]
 [vo_hay s="hayami0121"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "What? What is it...?"[pcms]
 ;//˜^‚é•K—v‚È‚µiƒuƒƒbƒN‚O‚Q‚O‚U‚O‚Ì‚à‚Ì‚ğ—¬—pj
 

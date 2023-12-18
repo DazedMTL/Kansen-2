@@ -39,7 +39,7 @@ after the war, with everything in ruins.[pcms]
 
 *7056|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "There's no one around..."[pcms]
 
 *7057|
@@ -78,7 +78,7 @@ But where did they all go...? No, more importantly...[pcms]
 
 *7063|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "What on earth happened...?"[pcms]
 
 *7064|
@@ -98,7 +98,7 @@ around me, I found myself calling out for someone.[pcms]
 
 *7067|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Excuse me---!! Is anyone there---!!"[pcms]
 
 *7068|
@@ -111,12 +111,12 @@ with no one appearing in response.[pcms]
 *7069|
 [fc]
 [vo_hay s="hayami0111"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Hiroshi, look over there..."[pcms]
 
 *7070|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "...?"[pcms]
 
 [ChrSetEx layer=2 chbase="koba_n07"][ChrSetXY layer=2 x=0 y=0][trans_c cross time=150]
@@ -128,7 +128,7 @@ small figure staggering into a store in the distance.[pcms]
 
 *7072|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Let's go check it out."[pcms]
 
 [chara_int_ layer=2][chara_int_ layer=3][trans_c cross time=150]

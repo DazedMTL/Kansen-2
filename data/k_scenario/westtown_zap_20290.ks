@@ -51,7 +51,7 @@ embarrassed..."[pcms]
 *15029|
 [fc]
 [vo_hay s="hayami0575"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Nfufu... no... that's not it... listen to me... ahh..."[pcms]
 
 *15030|
@@ -69,7 +69,7 @@ drenched insides.[pcms]
 *15032|
 [fc]
 [vo_hay s="hayami0576"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Hauh... no... no, nooo... stop, stop it... ahh...!"[pcms]
 
 *15033|
@@ -98,7 +98,7 @@ arousal.[pcms]
 *15037|
 [fc]
 [vo_hay s="hayami0577"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "No, ah... not there... higher up... uhh... More...[r]
 higher..."[pcms]
 
@@ -202,7 +202,7 @@ creatures, stirring noisily.[pcms]
 *15055|
 [fc]
 [vo_hay s="hayami0582"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "What... two fingers at once!? I'm scared... ahh! I'm[r]
 scared!"[pcms]
 
@@ -216,7 +216,7 @@ nice... come on!"[pcms]
 *15057|
 [fc]
 [vo_hay s="hayami0583"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Ah!! Yes... no! It feels good... it feels good inside...[r]
 inside is... uhh..."[pcms]
 
@@ -292,7 +292,7 @@ In Nagasaki-san's hand was a small pink toy.[pcms]
 *15069|
 [fc]
 [vo_hay s="hayami0587"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Where did you get that from!?"[pcms]
 
 ;//[ChrSetEx layer=4 chbase="naga_n02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -416,7 +416,7 @@ on... hehe..."[pcms]
 *15088|
 [fc]
 [vo_hay s="hayami0592"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Ah... ahh...!? Why...!? Ahh... why did you stop...!"[pcms]
 
 *15089|
@@ -460,7 +460,7 @@ crazy...[pcms]
 *15095|
 [fc]
 [vo_hay s="hayami0594"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Ah... please..."[pcms]
 
 *15096|
@@ -473,7 +473,7 @@ crazy...[pcms]
 *15097|
 [fc]
 [vo_hay s="hayami0595"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Let me come... Please let me come!! Please... If it[r]
 continues like this, I'll go crazy!! I'll really go crazy!!"[pcms]
 
@@ -520,7 +520,7 @@ light was attacking me again.[pcms]
 *15105|
 [fc]
 [vo_hay s="hayami0596"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Ah! Ah!! Aaahh!! Uwaaaah! I'm coming!! Stop!! I'm coming!![r]
 I'm cooomiiing!!"[pcms]
 
@@ -542,7 +542,7 @@ You even squirted... I'm so happy... so happy! Ahaha!"[pcms]
 *15107|
 [fc]
 [vo_hay s="hayami0597"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Ahhh... ah, aahh... mmm..."[pcms]
 
 *15108|
@@ -564,7 +564,7 @@ still there, making me involuntarily squirm.[pcms]
 *15111|
 [fc]
 [vo_hay s="hayami0598"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Ah... fuahh... no more..."[pcms]
 
 *15112|

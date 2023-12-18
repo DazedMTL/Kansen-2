@@ -54,7 +54,7 @@ dizzy.[pcms]
 
 *9155|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Haaaah..."[pcms]
 
 *9156|
@@ -65,7 +65,7 @@ this long corridor where I was.[pcms]
 
 *9157|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Ughh..."[pcms]
 
 *9158|
@@ -97,7 +97,7 @@ just to hear started to sound.[pcms]
 
 *9163|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Shut up...!"[pcms]
 
 *9164|
@@ -108,7 +108,7 @@ found something in my pants pocket.[pcms]
 
 *9165|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "What the hell is this...?"[pcms]
 
 *9166|
@@ -141,7 +141,7 @@ illuminated my face.[pcms]
 
 *9170|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Get lost...! Go away, damn it...!"[pcms]
 
 *9171|
@@ -156,7 +156,7 @@ diminished.[pcms]
 
 *9173|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Heh, serves you right..."[pcms]
 
 *9174|
@@ -171,7 +171,7 @@ walking in the same direction.[pcms]
 
 *9176|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Maybe I'll go check it out too..."[pcms]
 
 *9177|
@@ -185,7 +185,7 @@ everyone else.[pcms]
 
 *9178|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Ah...?"[pcms]
 
 *9179|

@@ -28,7 +28,7 @@
 
 *10993|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Stop it already!! What's going on!!"[pcms]
 
 *10994|
@@ -144,7 +144,7 @@ I held her back by wrapping my arms around her from behind.[pcms]
 
 *11007|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Stop it!!"[pcms]
 
 [ChrSetEx layer=3 chbase="nanasi_n07"][ChrSetXY layer=3 x=320 y=0][trans_c cross time=150]
@@ -177,7 +177,7 @@ she couldn't reach because I was holding her back.[pcms]
 
 *11011|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Ouch...! Hey, stop it already!!"[pcms]
 
 *11012|
@@ -200,7 +200,7 @@ clearly looked frightened and stared at the girl.[pcms]
 
 *11015|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Enough already!!"[pcms]
 
 [chara_int_ layer=2][chara_int_ layer=3][trans_c cross time=150]
@@ -231,7 +231,7 @@ lose all strength in her body and stopped moving altogether.[pcms]
 
 *11020|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Hey, hey..."[pcms]
 
 ;//ÅÙÅFbgm005 fadeout
@@ -263,7 +263,7 @@ do was watch anxiously while wiping away my cold sweat.[pcms]
 
 *11024|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Haah... I thought I had killed her..."[pcms]
 
 [ChrSetEx layer=2 chbase="anza_n05"][ChrSetXY layer=2 x=0 y=0][trans_c cross time=150]
@@ -335,7 +335,7 @@ unconscious girl.[pcms]
 
 *11035|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "One of them?"[pcms]
 
 *11036|
@@ -347,7 +347,7 @@ starting to rage like that."[pcms]
 
 *11037|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Well, yeah..."[pcms]
 
 *11038|
@@ -385,7 +385,7 @@ normal girl...[pcms]
 
 *11044|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Don't be stupid. How can we leave a girl alone in a place[r]
 like this?"[pcms]
 
@@ -398,7 +398,7 @@ tries to bite us?"[pcms]
 
 *11046|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "If that happens, then there's no helping it..."[pcms]
 
 [ChrSetEx layer=4 chbase="koba_n05"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -411,7 +411,7 @@ tries to bite us?"[pcms]
 
 *11048|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "...What are you talking about?"[pcms]
 
 *11049|
@@ -423,7 +423,7 @@ transmitted..."[pcms]
 
 *11050|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Oi, oi..."[pcms]
 
 *11051|
@@ -457,7 +457,7 @@ right, Hiro?"[pcms]
 
 *11055|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "You know... could it be that you want to leave her because[r]
 she's avoiding you?"[pcms]
 
@@ -471,13 +471,13 @@ she's avoiding you?"[pcms]
 
 *11057|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Your ridiculous occult fantasies are even more irrelevant![r]
 What the hell are 'worm-shaped radio waves' anyway?"[pcms]
 
 *11058|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Besides, I think it's the girl who's suspicious of us. She[r]
 probably thinks we're the crazy ones."[pcms]
 
@@ -491,14 +491,14 @@ probably thinks we're the crazy ones."[pcms]
 
 *11060|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "That girl, she's probably been running away from them all[r]
 by herself. Everyone around her was a madman. It's no wonder[r]
 she's become so distrustful."[pcms]
 
 *11061|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "She might look somewhat sane, but suddenly she got scared[r]
 thinking maybe we're the same as them."[pcms]
 
@@ -513,7 +513,7 @@ people!!"[pcms]
 
 *11063|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Yeah, I get that, but..."[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
@@ -701,7 +701,7 @@ I lose it too...[pcms]
 
 *11091|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "*sigh*..."[pcms]
 
 *11092|
@@ -711,7 +711,7 @@ and tried calling Hayami, but I couldn't get through to her.[pcms]
 
 *11093|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "No good, huh..."[pcms]
 
 *11094|
@@ -756,7 +756,7 @@ the woman asked me, and I shook my head in response.[pcms]
 
 *11101|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "The rooftop?"[pcms]
 
 [ChrSetEx layer=4 chbase="anza_n01"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -777,7 +777,7 @@ building... though I'm just being hopeful."[pcms]
 
 *11104|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Hopeful, huh..."[pcms]
 
 *11105|
@@ -801,7 +801,7 @@ building, and she gave a wry smile.[pcms]
 
 *11108|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Eh...?"[pcms]
 
 *11109|
@@ -823,7 +823,7 @@ men are like that..."[pcms]
 
 *11111|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Huh..."[pcms]
 
 *11112|

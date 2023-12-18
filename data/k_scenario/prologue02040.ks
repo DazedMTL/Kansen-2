@@ -23,7 +23,7 @@
 
 *7232|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "What's this...?"[pcms]
 
 ;//ÅóÅFçLèÍ
@@ -84,7 +84,7 @@ with anxious faces.[pcms]
 
 *7239|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "What happened to that person?"[pcms]
 
 [ChrSetEx layer=2 chbase="koba_n12"][ChrSetXY layer=2 x=0 y=0][trans_c cross time=150]
@@ -122,7 +122,7 @@ don't think about it...[pcms]
 
 *7245|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "...Anyway, let's go report to a doctor immediately. From[r]
 what you've said, it seems like the injury is getting[r]
 worse."[pcms]
@@ -600,7 +600,7 @@ completely motionless.[pcms]
 
 *7318|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "..."[pcms]
 
 *7319|
@@ -677,7 +677,7 @@ go in that direction in this situation.[pcms]
 
 *7328|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "No... anyway, let's get out of here quickly. It's pointless[r]
 to stay here any longer."[pcms]
 
@@ -692,12 +692,12 @@ back.[pcms]
 *7330|
 [fc]
 [vo_hay s="hayami0119"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Hey, is it okay? Not helping that woman..."[pcms]
 
 *7331|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Didn't you see the woman at the cafe? She tried to attack[r]
 us when we tried to help her... Besides,"[pcms]
 
@@ -726,7 +726,7 @@ who was continuously blamed by the men.[pcms]
 
 *7335|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "There's no way we can deal with that many people. We'd end[r]
 up with the same fate."[pcms]
 

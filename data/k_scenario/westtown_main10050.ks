@@ -39,7 +39,7 @@ the crazy guys around the corner.[pcms]
 
 *10388|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "!!"[pcms]
 
 ;èÍèä<ImageFade 6,60,OFF,OFF>
@@ -52,7 +52,7 @@ a shop selling children's underwear.[pcms]
 
 *10390|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "..."[pcms]
 
 *10391|
@@ -97,7 +97,7 @@ my back and spoke in a silly voice.[pcms]
 
 *10397|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Yeah... what about it?"[pcms]
 
 [ChrSetEx layer=4 chbase="koba_n02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -120,7 +120,7 @@ really lacks a sense of urgency...[pcms]
 
 *10401|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "...You got a fetish for kids' panties or something?"[pcms]
 
 [ChrSetEx layer=4 chbase="koba_n09"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -134,7 +134,7 @@ panties."[pcms]
 
 *10403|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "...Seriously, don't say such stupid things at a time like[r]
 this... Come on, let's go."[pcms]
 

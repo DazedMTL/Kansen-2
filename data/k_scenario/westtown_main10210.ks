@@ -39,7 +39,7 @@ turned her body away in a huff.[pcms]
 
 *10845|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "...Well, let's go. Even if I say don't rush, it doesn't[r]
 change the fact that we don't have much time."[pcms]
 

@@ -26,7 +26,7 @@ minutes past the 7:10 limit I had set in my mind.[pcms]
 
 *6649|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Ugh! Crap!!"[pcms]
 
 *6650|

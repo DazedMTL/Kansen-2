@@ -23,7 +23,7 @@
 
 *12302|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Tch..."[pcms]
 
 *12303|
@@ -58,7 +58,7 @@ on the floor and moved forward.[pcms]
 
 *12308|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Please don't notice me..."[pcms]
 
 *12309|
@@ -69,7 +69,7 @@ of sight from the third floor.[pcms]
 
 *12310|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Would it have been better to do a head slide or something?[r]
 This..."[pcms]
 

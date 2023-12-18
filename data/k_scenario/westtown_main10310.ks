@@ -23,7 +23,7 @@
 
 *11359|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "For now, let's do it here..."[pcms]
 
 *11360|
@@ -62,7 +62,7 @@ already too late.[pcms]
 
 *11363|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Uwaaah!!!!!"[pcms]
 
 *11364|
@@ -108,7 +108,7 @@ I turned around and shouted towards the women.[pcms]
 
 *11371|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Bring something... a mop or anything, and help us push them[r]
 back in!!"[pcms]
 
@@ -131,7 +131,7 @@ Come on, show me that pussy...!!"[pcms]
 
 *11375|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Damn...!!"[pcms]
 
 [quake_bg 元time=1000 xy m]
@@ -161,7 +161,7 @@ heheh..."[pcms]
 
 *11380|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Please hold on just a bit longer!!"[pcms]
 
 [quake_bg 元time=1000 xy m]
@@ -184,7 +184,7 @@ was any other place we could hide that we had seen so far.[pcms]
 
 *11384|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "!?"[pcms]
 
 ;//SE：打撃音（？）
@@ -247,7 +247,7 @@ body.[pcms]
 
 *11394|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "RAAAAAHHHHH!!!!!"[pcms]
 
 *11395|
@@ -294,7 +294,7 @@ I collapsed on the floor, exhausted.[pcms]
 
 *11400|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "I didn't expect them to come out so suddenly..."[pcms]
 
 *11401|
@@ -333,7 +333,7 @@ down at me with a bitter face.[pcms]
 
 *11406|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "..."[pcms]
 
 [chara_int_ layer=2][chara_int_ layer=3][trans_c cross time=150]
@@ -356,7 +356,7 @@ heading towards the rest of the cinemas.[pcms]
 
 *11410|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "..."[pcms]
 
 *11411|
@@ -393,7 +393,7 @@ there was no one there and no signs of anyone hiding.[pcms]
 
 *11417|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Phew..."[pcms]
 
 *11418|
@@ -404,7 +404,7 @@ outside...[pcms]
 
 *11419|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "There's no one here, so please go ahead and enter. I'll go[r]
 check the other two."[pcms]
 
@@ -447,7 +447,7 @@ my spine and hurried back.[pcms]
 
 *11426|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "That's right..."[pcms]
 
 *11427|

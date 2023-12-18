@@ -82,7 +82,7 @@ think about it, the more my body shakes.[pcms]
 *14024|
 [fc]
 [vo_hay s="hayami0382"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "..."[pcms]
 
 *14025|
@@ -126,7 +126,7 @@ I'm really sorry for being so concerned about me...[pcms]
 *14031|
 [fc]
 [vo_hay s="hayami0384"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "..."[pcms]
 
 *14032|
@@ -219,7 +219,7 @@ spine.[pcms]
 *14051|
 [fc]
 [vo_hay s="hayami0385"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "No... I don't want that..."[pcms]
 ;//Åùì∆ÇËåæÇôÍÇ≠
 
@@ -239,7 +239,7 @@ possible.[pcms]
 *14055|
 [fc]
 [vo_hay s="hayami0386"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Ah..."[pcms]
 
 *14056|
@@ -290,7 +290,7 @@ covering myself with the sheets again.[pcms]
 *14064|
 [fc]
 [vo_hay s="hayami0387"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "I'm sorry... just a little longer... please, leave me alone[r]
 a bit more..."[pcms]
 
@@ -311,7 +311,7 @@ And so, once again, there was no one in my field of vision.[pcms]
 *14067|
 [fc]
 [vo_hay s="hayami0388"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "..."[pcms]
 
 *14068|
@@ -402,7 +402,7 @@ to me, suddenly spoke up.[pcms]
 *14084|
 [fc]
 [vo_hay s="hayami0390"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Eh...!?"[pcms]
 
 *14085|
@@ -449,7 +449,7 @@ Do I actually have feelings for Hiroshi...!?[pcms]
 *14093|
 [fc]
 [vo_hay s="hayami0393"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "What does Hiroshi think of me, I wonder..."[pcms]
 
 *14094|

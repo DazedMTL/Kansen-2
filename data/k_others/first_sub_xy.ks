@@ -640,7 +640,7 @@
 
 ;テキスト表示位置 全角40文字対応用
 [eval exp="sf.text_x = 100"]
-[eval exp="sf.text_y = 35"]
+[eval exp="sf.text_y = 25"]
 [eval exp="sf.text_r = 0"]
 
 ;デフォルトのフォントサイズ
@@ -659,7 +659,7 @@
 ;ネームチップ表示位置 全角40文字対応用
 ;[eval exp="sf.namechip_x = 220"]
 [eval exp="sf.namechip_x = 100"]
-[eval exp="sf.namechip_y = 420"]
+[eval exp="sf.namechip_y = 410"]
 
 ;ネームチップサイズ
 [eval exp="sf.namechip_w = 500"]

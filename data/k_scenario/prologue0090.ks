@@ -60,7 +60,7 @@ trip, Ahaha!"[pcms]
 
 *6734|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "You're always so energetic..."[pcms]
 
 *6735|

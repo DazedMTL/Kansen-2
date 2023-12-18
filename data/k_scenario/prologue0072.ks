@@ -23,7 +23,7 @@
 
 *6645|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "I'm getting up now! Geez, so noisy..."[pcms]
 
 *6646|

@@ -28,7 +28,7 @@
 
 *1660|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Ngh..."[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
@@ -55,7 +55,7 @@ short-statured girl watching the animals inside cages.[pcms]
 
 *1664|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "That one, I know... We were together..."[pcms]
 
 [ChrSetEx layer=4 chbase="turuta_n03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -76,7 +76,7 @@ But her clothes are different from before...[pcms]
 
 *1667|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Right... Ma, Maya? Yeah... Maya..."[pcms]
 
 ;//＠とりあえず「寝巻き神宮寺」使用
@@ -207,7 +207,7 @@ hurry... we'll be in danger too..."[pcms]
 
 *1686|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "...?"[pcms]
 
 *1687|
@@ -222,7 +222,7 @@ John... Who is that?[pcms]
 
 *1689|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "...?"[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -242,7 +242,7 @@ woman's voice..."[pcms]
 
 *1691|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Ah~...? I don't hear anything..."[pcms]
 
 *1692|
@@ -253,7 +253,7 @@ woman's voice..."[pcms]
 
 *1693|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "...What a pain..."[pcms]
 
 ;//＠貼らない
@@ -294,7 +294,7 @@ it![pcms]
 
 *1697|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "That's a friend! My friend!! Hey!! Ha... Hayami? Hayami!!"[pcms]
 
 ;//＠ありすの服装は…　体操服にしておくことに
@@ -304,7 +304,7 @@ it![pcms]
 *1698|
 [fc]
 [vo_hay s="hayami1206"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "...? Ah~..., ah? Erm... Hiro, shi? Hiroshi!!"[pcms]
 
 [ChrSetEx layer=2 chbase="koba_t03"][ChrSetXY layer=2 x=0 y=0][trans_c cross time=150]
@@ -340,7 +340,7 @@ The noisy woman and the one with big breasts...[pcms]
 
 *1703|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Feels like there were two more... Where did they go...?"[pcms]
 
 *1704|
@@ -358,7 +358,7 @@ I feel like someone's missing... The noisy one...[pcms]
 
 *1706|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "...? Hmm... who could it be..."[pcms]
 
 [ChrSetEx layer=2 chbase="sugo_n07"][ChrSetXY layer=2 x=0 y=0][trans_c cross time=150]

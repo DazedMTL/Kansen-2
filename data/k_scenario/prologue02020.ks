@@ -202,7 +202,7 @@ bitch...show me~~"[pcms]
 
 *7100|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "..."[pcms]
 
 *7101|
@@ -462,7 +462,7 @@ help them no matter what.[pcms]
 
 *7144|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Ha, Hayami! Call the police! I'll distract them, you get[r]
 those girls outside!"[pcms]
 
@@ -474,7 +474,7 @@ those girls outside!"[pcms]
 
 *7146|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "We have to do it even if it's impossible!"[pcms]
 
 *7147|
@@ -485,7 +485,7 @@ rape the girls.[pcms]
 
 *7148|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Take this!!"[pcms]
 
 *7149|
@@ -535,7 +535,7 @@ kneeling down, using the glass part.[pcms]
 
 *7154|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Take this!!"[pcms]
 
 *7155|
@@ -556,7 +556,7 @@ head down, I gave instructions to Yuu.[pcms]
 
 *7157|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Yuu! Take care of this girl!!"[pcms]
 
 *7158|
@@ -579,7 +579,7 @@ I looked around for another weapon.[pcms]
 
 *7161|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "!?"[pcms]
 
 ;//♪：００2_感染 Extreme　Ver. フェードイン
@@ -628,7 +628,7 @@ inside too..."[pcms]
 
 *7168|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Anyway, get her outside!!"[pcms]
 
 *7169|
@@ -643,12 +643,12 @@ while backing away and lifted up the table.[pcms]
 *7170|
 [fc]
 [vo_hay s="hayami0112"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "No, nooooo!!!"[pcms]
 
 *7171|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "!?"[pcms]
 
 *7172|
@@ -660,12 +660,12 @@ grab Hayami and failing, falling to the floor.[pcms]
 *7173|
 [fc]
 [vo_hay s="hayami0113"]
-[ns]Alice[nse]
+[ns]Arisu[nse]
 "Kyaa!"[pcms]
 
 *7174|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Lie down quietly, you... idiot!!"[pcms]
 
 *7175|
@@ -686,7 +686,7 @@ kick at his groin.[pcms]
 
 *7177|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Are you okay!?"[pcms]
 
 *7178|
@@ -696,7 +696,7 @@ clung to my arm, nodding silently several times.[pcms]
 
 *7179|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Yuu! Hurry up..."[pcms]
 
 *7180|
@@ -763,7 +763,7 @@ closer to Yuu.[pcms]
 
 *7190|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "..."[pcms]
 
 *7191|

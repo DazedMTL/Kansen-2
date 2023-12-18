@@ -43,7 +43,7 @@ woman down...[pcms]
 
 *2313|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 Hey... Yuu... don't you want to have sex with Naomi? I[r]
 really want to violate that strong-looking woman, me...[pcms]
 
@@ -57,7 +57,7 @@ Eh~...? Are you serious? She looks so strong though~?[pcms]
 
 *2315|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 If it's the two of us, we can probably manage something,[r]
 right? Plus, we can get that old man to help us...[pcms]
 
@@ -76,7 +76,7 @@ Yuu blushed and nodded. It seemed he agreed to my request.[pcms]
 
 *2318|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 Alright... now seems like we can do it... Let's go, Yuu![pcms]
 
 [ChrSetEx layer=4 chbase="koba_t01"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -105,7 +105,7 @@ Wha... What's going on with you guys?[pcms]
 
 *2322|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 Yuu! Hold Naomi down!! Hey old man! You help violate Naomi[r]
 too!![pcms]
 
@@ -180,7 +180,7 @@ was three men.[pcms]
 
 *2332|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 Heheh!! Hahaha!! I'll be the first! I'll be the first to[r]
 enter Naomi's pussy!![pcms]
 
@@ -240,7 +240,7 @@ Oraa! Lick my dick now!![pcms]
 
 *2338|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 Hah... hahah...!! I'm going to put it in Naomi's... Naomi's[r]
 pussy now!![pcms]
 
@@ -277,7 +277,7 @@ Nbuahh! Ngyiih![pcms]
 
 *2344|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 Ah... huh? What's that...? Why isn't it going in...?[pcms]
 
 *2345|
@@ -307,7 +307,7 @@ in! You're holding up the line!![pcms]
 
 *2350|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 Even if you say that... it's not wet!! It won't go in!![pcms]
 
 *2351|
@@ -344,7 +344,7 @@ against her.[pcms]
 
 *2356|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 Ah... this feels good too... Hahaha... watching Naomi[r]
 masturbate with mine.[pcms]
 
@@ -429,7 +429,7 @@ pussy sticky.[pcms]
 
 *2370|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Uaah... this is so exciting... Naomi's body is so[r]
 erotic..."[pcms]
 
@@ -451,7 +451,7 @@ What is it...? What's it catching on...[pcms]
 
 *2374|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Naomi's pussy... there's something hard inside..., it feels[r]
 good when it catches... what is this?"[pcms]
 
@@ -472,7 +472,7 @@ What happens if I pinch this? ...Sounds interesting!![pcms]
 
 *2378|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "...This... right here...? Found it...! It's slippery...[r]
 hard to pinch... Oh, got it..."[pcms]
 
@@ -503,7 +503,7 @@ happen...[pcms]
 
 *2383|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Ah, it twitched just now. It's kind of hard! This!"[pcms]
 
 *2384|
@@ -525,7 +525,7 @@ stop! No! Buahhh!"[pcms]
 
 *2387|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Wow... she's soaking wet! With this much wetness, I could[r]
 probably enter her now..."[pcms]
 
@@ -546,7 +546,7 @@ I can't hold back anymore!![pcms]
 
 *2391|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "This is the spot, right? This time I'll enter! Orahh...[r]
 ah... it's in... uaaahhh!"[pcms]
 
@@ -584,7 +584,7 @@ good, you..."[pcms]
 
 *2397|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Uaaahh... this feels amazing~... her pussy is[r]
 incredible~~..."[pcms]
 
@@ -603,7 +603,7 @@ this..., my whole body, uaaahh... nahhh! Stop it... uahh!"[pcms]
 
 *2400|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Ah.. it tightens inside..., it's so slippery..., uahh..."[pcms]
 
 *2401|
@@ -613,7 +613,7 @@ nipples...[pcms]
 
 *2402|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Hey, Yuuki, try biting Naomi's nipples harder?"[pcms]
 
 *2403|
@@ -644,7 +644,7 @@ licked, mine tightens up![pcms]
 
 *2407|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Hey Naomi, are your nipples sensitive? Your pussy tightens[r]
 up so much!? Uohh!?"[pcms]
 
@@ -664,7 +664,7 @@ guhh..."[pcms]
 
 *2410|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Uaaahhh.. Naomi's... kuh..."[pcms]
 
 *2411|
@@ -695,7 +695,7 @@ reaching its limit.[pcms]
 
 *2416|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Na, Naomi... let me cum inside! Let me release inside you[r]
 like this! Ohh... oohhh!! Ooohhh!!"[pcms]
 
@@ -774,7 +774,7 @@ pregnant! Noooo!! It's infecting me! Uaaahh!"[pcms]
 
 *2428|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Uaaahh!!"[pcms]
 
 *2429|
@@ -789,7 +789,7 @@ Wow... it won't stop... cumming inside raw is so amazing...[pcms]
 
 *2431|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Ahahaha... haa... that's crazy! It's so funny! Ahahaha!![r]
 Ahahahaha!!"[pcms]
 
@@ -885,7 +885,7 @@ ahh... nnh..., yes... it's in... nn..."[pcms]
 
 *2446|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Uah...!? Yuu!?"[pcms]
 
 *2447|
@@ -901,7 +901,7 @@ Nnaaahhh!!"[pcms]
 
 *2449|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Hey... oi, Yuu! What are you doing!? Uaaah..."[pcms]
 
 *2450|
@@ -920,7 +920,7 @@ Yuu's ass?[pcms]
 
 *2453|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Yuu... Yuu! Uah! You're..."[pcms]
 
 *2454|
@@ -937,7 +937,7 @@ a guy![pcms]
 
 *2456|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Stop it, Yuu! I can't do this with a guy... uah! Get off[r]
 me!"[pcms]
 
@@ -961,7 +961,7 @@ to whisper.[pcms]
 
 *2460|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "...eh?"[pcms]
 
 *2461|
@@ -992,7 +992,7 @@ wanted to feel good too... with you... together!!"[pcms]
 
 *2465|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Yuu... ugh..."[pcms]
 
 *2466|
@@ -1004,7 +1004,7 @@ going to feel good!! Fuaah! My cock... it's tingling!!"[pcms]
 
 *2467|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Uaah... it's tight... Yuu! No, this is wrong... get off[r]
 me!! Yuu!!"[pcms]
 
@@ -1033,7 +1033,7 @@ voice that sounded like she was about to cry.[pcms]
 
 *2472|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Yuu..."[pcms]
 
 *2473|
@@ -1059,7 +1059,7 @@ such a cute face...[pcms]
 
 *2477|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Uah... uuh!"[pcms]
 
 *2478|
@@ -1153,7 +1153,7 @@ nnaahh! Ahh, ah, ahhhh, I'm going to cummm!"[pcms]
 
 *2494|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Uahh... Yuu... like that..., ahh! ...uahh... something's[r]
 hitting me... uahh!"[pcms]
 
@@ -1189,7 +1189,7 @@ auuhh... nnaahh!! No, no! I'm going to cum! Auuuhhh!!"[pcms]
 
 *2500|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Uaahh... don't clench so hard..., amazing..., haha, ahaha![r]
 Uaahh!! Yuuh! Uaahh!!"[pcms]
 
@@ -1201,7 +1201,7 @@ Uaahh!! Yuuh! Uaahh!!"[pcms]
 
 *2502|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "I'm also going to cumm!!"[pcms]
 
 ;[éÀê∏ÉtÉâA]
@@ -1217,7 +1217,7 @@ Uaahh!! Yuuh! Uaahh!!"[pcms]
 
 *2504|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Uaah..."[pcms]
 
 *2505|
@@ -1256,7 +1256,7 @@ hahaha! I'm so happy..., ahaha!"[pcms]
 
 *2509|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Yuu... it felt good.... I'm sleepy..."[pcms]
 
 *2510|
@@ -1282,7 +1282,7 @@ closed my eyes right there.[pcms]
 
 *2513|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 "Uwahh! Hiro! Wake up! Something weird is coming!! Can you[r]
 hear me!? Hiroo!"[pcms]
 
@@ -1331,7 +1331,7 @@ So noisy... Enough already...[pcms]
 
 *2522|
 [fc]
-[ns]Ookura Hiroshi[nse]
+[ns]Ookura[nse]
 [pcms]
 
 ;//------------------------------------------------
