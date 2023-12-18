@@ -43,7 +43,7 @@
 ;	;border	1à»è„Ç…Ç∑ÇÈÇ∆âÊñ Ç…è\éöê¸Ç™Ç≈ÇÈ
 ;	[link target=*prologue01311_SEL1 single=true left="&sf.aspect2_x" top="&sf.aspect4_y" width=320 height=64 layer=7 border=0][endlink]
 ;	[link target=*prologue01311_SEL2 single=true left="&sf.aspect3_x" top="&sf.aspect5_y" width=128 height=32 layer=8 border=0][endlink]
-;	[s]
+;[pcms]
 
 
 ;BGMí‚é~
@@ -104,4 +104,4 @@
 [jump storage="prologue01320.ks" target=*prologue01320_TOP]
 
 
-;//Å|Å|Å|Å|Å|Å|Å|Å|Å|Å|Å|Å|Å|Å|Å|Å|Å|Å|Å|Å|Å|Å|Å|Å|Å|Å|Å|Å|Å|Å|Å|Å|Å|Å|Å|Å|Å|Å|Å|Å|
+;//

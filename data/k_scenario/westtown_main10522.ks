@@ -31,8 +31,8 @@
 
 *12377|
 [fc]
-[ns]‘å‘q[nse]
-uƒ}ƒ„‚¿‚á‚ñAƒRƒŒ‚Á‚ÄI@s‚±‚¤IIv[pcms]
+[ns]Ookura Hiroshi[nse]
+"Maya-chan, take this! Let's go!!"[pcms]
 
 [cutin_int]
 ;[trans_c cross time=500]
@@ -41,34 +41,34 @@
 
 *12378|
 [fc]
-“d’r®‚Ìƒ‰ƒ“ƒ^ƒ“‚ğƒ}ƒ„‚¿‚á‚ñ‚Éè“n‚µA‰´‚Ío“ü‚è[r]
-Œû‚Ö‚Æ‘–‚Á‚½B[pcms]
+I handed the battery-operated lantern to Maya-chan and ran[r]
+towards the entrance.[pcms]
 
 ;êŠ<ImageFade 6,60,OFF,OFF>
 
 *12379|
 [fc]
-[ns]‘å‘q[nse]
-u‚¨‚Á‚Æccv[pcms]
+[ns]Ookura Hiroshi[nse]
+"Oops..."[pcms]
 
 *12380|
 [fc]
-‚Â‚¢‚Å‚ÉƒRƒŒ‚à–á‚Á‚Æ‚¯ccI[pcms]
+And while I'm at it, take this too...![pcms]
 
 *12381|
 [fc]
-‰´‚ÍŒğŠ·—p‚É‚ÆAo“ü‚èŒû‰¡‚ÌƒŒƒWƒJƒEƒ“ƒ^[‚É’u‚¢[r]
-‚Ä‚ ‚éA’P‚S“d’r‚Ì‚S–{ƒpƒbƒN‚ğ‚P‚Â‚ğæ‚Á‚½B[pcms]
+I grabbed a four-pack of AAA batteries from beside the cash[r]
+register at the entrance for a replacement.[pcms]
 
 *12382|
 [fc]
-[ns]‘å‘q[nse]
-uƒSƒƒ“A‚ ‚Æ‚Åƒ|ƒPƒbƒg‚É‚Å‚à“ü‚ê‚Æ‚¢‚ÄIv[pcms]
+[ns]Ookura Hiroshi[nse]
+"Sorry, just put it in your pocket later!"[pcms]
 
 *12383|
 [fc]
-‰´‚Íƒ}ƒ„‚¿‚á‚ñ‚Ìè‚É“d’r‚ğˆ¬‚ç‚¹‚ÄA”Ş—‚Ì˜r‚ğˆø[r]
-‚¢‚ÄA˜L‰º‚Ö”ò‚Ño‚µ‚½B[pcms]
+I pressed the batteries into Maya-chan's hand, pulled her[r]
+arm, and dashed into the hallway.[pcms]
 
 ;//[fadeoutbgm time=502]
 ;//[stop_se0]
@@ -81,4 +81,4 @@
 ;//ƒuƒƒbƒN‚P‚O‚T‚R‚O‚Ö
 [jump storage="westtown_main10530.ks" target=*westtown_main10530_TOP]
 
-;//||||||||||||||||||||||||||||||||||||||||
+;//

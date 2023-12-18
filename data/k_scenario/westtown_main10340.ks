@@ -33,13 +33,13 @@
 
 *11760|
 [fc]
-映画館から外に出ると、ビルの中が楽しげな音楽と、[r]
-テレビの砂嵐の音で満たされていた。[pcms]
+When we stepped out of the movie theater, the building was[r]
+filled with cheerful music and the sound of TV static.[pcms]
 
 *11761|
 [fc]
-[ns]大倉[nse]
-「なんだ？　この音楽……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"What's this music...?"[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
@@ -48,47 +48,45 @@
 
 *11762|
 [fc]
-そのうち、砂嵐の音が唐突に消えて、代わりに聞いた[r]
-ことのあるような音楽が流れ始めた。[pcms]
+Before long, the static noise abruptly stopped, and instead,[r]
+music that sounded familiar began to play.[pcms]
 
 *11763|
 [fc]
-コレ……。[r]
-たまに夜中まで起きてる時に聞くヤツじゃねーか……？[r]
-テレビの放送が終わる時に流れる……。[pcms]
+This... Isn't this what I hear sometimes when I'm up late at[r]
+night...? The music that plays when TV broadcasts end...[pcms]
 
 [ChrSetEx layer=4 chbase="koba_n03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *11764|
 [fc]
 [vo_kob s="koba0243"]
-[ns]小林[nse]
-「ヒロ、こっち！」[pcms]
+[ns]Kobayashi[nse]
+"Hiro, over here!"[pcms]
 
 *11765|
 [fc]
-吹き抜けの所で手招きしているユウの所へ、俺は駆け[r]
-寄った。[pcms]
+I ran over to Yuu, who was beckoning me from the atrium.[pcms]
 
 [ChrSetEx layer=4 chbase="koba_n04"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *11766|
 [fc]
 [vo_kob s="koba0244"]
-[ns]小林[nse]
-「ほら、あそこのテレビ」[pcms]
+[ns]Kobayashi[nse]
+"Look, that TV over there."[pcms]
 
 *11767|
 [fc]
-ユウが指さした、２階の吹き抜け部分にかけられた大[r]
-型モニターが、ノイズで乱れている画面の向こうに、[r]
-何かを映し出そうとしていた。[pcms]
+Yuu pointed to a large monitor hanging in the atrium on the[r]
+second floor, which was trying to display something beyond[r]
+the distorted screen of noise.[pcms]
 
 *11768|
 [fc]
-[ns]大倉[nse]
-「こっからじゃよく見えねーな……俺、ちょっと下に[r]
-　行って見てきます」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Can't see it well from here... I'll go down and take a[r]
+look."[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 [ChrSetEx layer=2 chbase="anza_n06"][ChrSetXY layer=2 x=0 y=0]
@@ -97,22 +95,22 @@
 *11769|
 [fc]
 [vo_anz s="anzai0185"]
-[ns]みき[nse]
-「待って、わたしも行くわ。何か情報が聞けるかもし[r]
-　れないし」[pcms]
+[ns]Mikki[nse]
+"Wait, I'll go too. We might be able to get some[r]
+information."[pcms]
 
 *11770|
 [fc]
 [vo_may s="maya0126"]
-[ns]摩耶[nse]
-「私も行く……」[pcms]
+[ns]Maya[nse]
+"I'm going too..."[pcms]
 
 [chara_int_ layer=2][chara_int_ layer=3][trans_c cross time=150]
 
 *11771|
 [fc]
-アンザイさんとマヤちゃんにうなずいて返して、俺は[r]
-すぐ近くのエスカレーターへと向かった。[pcms]
+I nodded back to Anzai-san and Maya-chan and headed towards[r]
+the nearby escalator.[pcms]
 
 ;//♪：bgm007 stop
 [fadeoutbgm time=1][wb]
@@ -135,54 +133,53 @@
 *11772|
 [fc]
 [vo_mob s="girl0045"]
-[ns]少女[nse]
-「いやあぁ～～っ！！　やぁっ！！　やめっ、いやあ[r]
-　ああぁぁっ！！！！」[pcms]
+[ns]Girl[nse]
+"Nooo~!! Stop it, nooo!!"[pcms]
 
 *11773|
 [fc]
 [vo_anz s="anzai0186"]
-[ns]みき[nse]
-「きゃぁっ！！」[pcms]
+[ns]Mikki[nse]
+"Kyaa!!"[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
 *11774|
 [fc]
-[ns]大倉[nse]
-「！？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"!"[pcms]
 
 *11775|
 [fc]
-３階へ降り、さらに２階へ行こうとエスカレーターを[r]
-下り始めてすぐに、アンザイさんが連れていた女の子[r]
-が喚く声が、後ろから聞こえてきた。[pcms]
+Just as I started descending the escalator to the third[r]
+floor and then to the second, I heard the voice of a girl[r]
+screaming from behind, who Anzai-san had been accompanying.[pcms]
 
 [ChrSetEx layer=2 chbase="anza_n12"][ChrSetXY layer=2 x=0 y=0]
 [ChrSetEx layer=3 chbase="nanasi_n07"][ChrSetXY layer=3 x=320 y=0][trans_c cross time=150]
 
 *11776|
 [fc]
-暴れる彼女の力が物凄いことを知っている俺は、アン[r]
-ザイさんに女の子を抑えるのはムリだと考えて、すぐ[r]
-にエスカレーターを上って戻った。[pcms]
+Knowing the girl's strength was tremendous, I thought it[r]
+impossible for Anzai-san to restrain her, so I immediately[r]
+went back up the escalator.[pcms]
 
 *11777|
 [fc]
 [vo_anz s="anzai0187"]
-[ns]みき[nse]
-「ど、どうしたの！？　落ち着いて！！」[pcms]
+[ns]Mikki[nse]
+"What's wrong?! Calm down!!"[pcms]
 
 *11778|
 [fc]
-[ns]大倉[nse]
-「よせッ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Stop it!!"[pcms]
 
 *11779|
 [fc]
-女の子に駆け寄り、アンザイさんをメチャクチャに叩[r]
-いている両腕を後ろから掴んで止めると、彼女は途端[r]
-に大人しくなって、俺の顔を見上げた。[pcms]
+I rushed over to the girl and grabbed her flailing arms from[r]
+behind to stop her. She suddenly became docile and looked up[r]
+at my face.[pcms]
 
 [ChrSetEx layer=2 chbase="anza_n15"][ChrSetXY layer=2 x=0 y=0]
 [ChrSetEx layer=3 chbase="nanasi_n05"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
@@ -190,89 +187,89 @@
 *11780|
 [fc]
 [vo_mob s="girl0046"]
-[ns]少女[nse]
-「ぅ……」[pcms]
+[ns]Girl[nse]
+"Uh..."[pcms]
 
 [chara_int_ layer=3][trans_c cross time=150]
 [se0 storage="SE23"]
 
 *11781|
 [fc]
-[ns]大倉[nse]
-「オ、オイ！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Hey!"[pcms]
 
 ;//♪：bgm009 stop
 [fadeoutbgm time=1][wb]
 
 *11782|
 [fc]
-突然、女の子の全身から力が抜け、後ろへ倒れ込んで[r]
-くるのを、俺は慌てて支え、床に寝かせた。[pcms]
+All of a sudden, the girl's strength left her body, and she[r]
+fell backwards. I quickly caught her and laid her down on[r]
+the floor.[pcms]
 
 [chara_int_ layer=2][trans_c cross time=150]
 
 *11783|
 [fc]
-自分を落ち着かせるように大きく息を吐いてから、ア[r]
-ンザイさんは女の子に近づいて、介抱を始めた。[pcms]
+Taking a deep breath to calm herself, Anzai-san approached[r]
+the girl and began to tend to her.[pcms]
 
 *11784|
 [fc]
-[ns]大倉[nse]
-「大丈夫なんですか……？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Is she okay...?"[pcms]
 
 [ChrSetEx layer=4 chbase="anza_n17"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *11785|
 [fc]
 [vo_anz s="anzai0188"]
-[ns]みき[nse]
-「この子の場合は、ストレスからくる失神だと思うの[r]
-　だけれど……」[pcms]
+[ns]Mikki[nse]
+"In her case, I think it's fainting due to stress..."[pcms]
 
 *11786|
 [fc]
-『……いけま…………がりそ…………』[pcms]
-;//◎いけますか？　つながりそう？[pcms]
+"...Can you connect... is it coming through?"[pcms]
 
 *11787|
 [fc]
-[ns]大倉[nse]
-「……？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"...?"[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *11788|
 [fc]
-スピーカーから聞こえだした人の声に、吹き抜けの方[r]
-を見ると、ユウが下を指さしながら俺を見ていた。[pcms]
+A voice started coming from the speaker. When I looked[r]
+towards the atrium, Yuu was pointing down while looking at[r]
+me.[pcms]
 
 [ChrSetEx layer=4 chbase="koba_n07"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *11789|
 [fc]
 [vo_kob s="koba0245"]
-[ns]小林[nse]
-「ヒロ、ここからでも、けっこうみえるよ！」[pcms]
+[ns]Kobayashi[nse]
+"Hiro, you can see quite well from here!"[pcms]
 
 *11790|
 [fc]
-女の子がまた暴れ出した時のことを考えて、俺は２階[r]
-へ降りずここから見ることにして、ユウのいる吹き抜[r]
-けに近づいた。[pcms]
+Considering what happened when the girl started thrashing[r]
+about again, I decided not to go down to the second floor[r]
+and instead approached Yuu at the atrium.[pcms]
 
 [ChrSetEx layer=4 chbase="koba_n01"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *11791|
 [fc]
 [vo_kob s="koba0246"]
-[ns]小林[nse]
-「ねえ、あれみて」[pcms]
+[ns]Kobayashi[nse]
+"Hey, look at that."[pcms]
 
 *11792|
 [fc]
-[ns]大倉[nse]
-「なんだ？　アレ……」[pcms]
+[ns]Ookura[nse]
+"What is that...?"[pcms]
 
 [se0 storage="SE48"]
 
@@ -280,58 +277,55 @@
 
 *11793|
 [fc]
-吹き抜けから見える１階部分が全部、人間と低い呻き[r]
-声で埋め尽くされていた。[pcms]
+The first-floor area visible from the atrium was completely[r]
+filled with people and low groaning sounds.[pcms]
 
 *11794|
 [fc]
-[ns]大倉[nse]
-「どっかから入ってきてんのか？　それとも、最初っ[r]
-　からこの中にいたのか……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Did they come in from somewhere? Or were they inside from[r]
+the start...?"[pcms]
 
 [ChrSetEx layer=4 chbase="koba_n05"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *11795|
 [fc]
 [vo_kob s="koba0247"]
-[ns]小林[nse]
-「どうして、あんなひとたちが、あんなにたくさん[r]
-　でてきたんだろう……。しんだひとがいきかえった[r]
-　り……どうして……」[pcms]
+[ns]Kobayashi[nse]
+"Why are there so many people like that...? People who were[r]
+dead coming back to life... why...?"[pcms]
 
 *11796|
 [fc]
-[ns]大倉[nse]
-「わかんねーよ、そんなの……。こっちが教えてもら[r]
-　いたいぜ」[pcms]
+[ns]Ookura[nse]
+"I don't know... I'd like someone to explain that to me."[pcms]
 
 [cutin_int][trans_c cross time=300]
 
 *11797|
 [fc]
-『…………ながり…………だ…………』[pcms]
-;//◎繋がりませんか？　駄目？[pcms]
+"...Can't you connect... is it no good?"[pcms]
 
 *11798|
 [fc]
-大型モニターからは、途切れ途切れに人の声が聞こえ[r]
-てくるだけで、ノイズが舞う画面にハッキリと何かが[r]
-映ることはなかった。[pcms]
+The large monitor only let through intermittent voices of[r]
+people, and nothing clear could be seen on the screen[r]
+dancing with noise.[pcms]
 
 *11799|
 [fc]
-[ns]大倉[nse]
-「チッ！　映すんなら早く映せよ……」[pcms]
+[ns]Ookura[nse]
+"Tch! If you're going to show something, do it quickly..."[pcms]
 
 *11800|
 [fc]
-『……はい……繋がった？　はい、じゃあいきます』[pcms]
+"...Yes... are we connected? Okay, let's start."[pcms]
 
 *11801|
 [fc]
-俺の文句に応えるかのように、ノイズが一瞬大きくな[r]
-ると、突然、大型モニターにハーフっぽい美人が映し[r]
-出された。[pcms]
+As if responding to my complaint, the noise suddenly[r]
+intensified and then a beautiful woman with a half-smile[r]
+appeared on the large monitor.[pcms]
 
 [fadeoutbgm time=502]
 [stop_se0]
@@ -352,385 +346,388 @@
 *11802|
 [fc]
 [vo_mob s="0000"]
-[ns]女子アナ[nse]
-「ただいまより、緊急放送をお送りいたします。[r]
-　現在ご覧になっている方は、ご家族、ご友人などに、[r]
-　この放送をご覧になるよう、ご連絡ください」[pcms]
+[ns]Female Announcer[nse]
+"We will now begin an emergency broadcast. If you are[r]
+currently watching this, please contact your family and[r]
+friends and ask them to watch this broadcast."[pcms]
 
 *11803|
 [fc]
 [vo_mob s="0001"]
-[ns]女子アナ[nse]
-「繰り返します」[pcms]
+[ns]Female Announcer[nse]
+"I repeat"[pcms]
 
 *11804|
 [fc]
 [vo_mob s="0000"]
-[ns]女子アナ[nse]
-「ただいまより、緊急放送をお送りいたします。[r]
-　現在ご覧になっている方は、ご家族、ご友人などに、[r]
-　この放送をご覧になるよう、ご連絡ください」[pcms]
+[ns]Female Announcer[nse]
+"We will now begin an emergency broadcast. If you are[r]
+currently watching this, please contact your family and[r]
+friends and ask them to watch this broadcast."[pcms]
 ;//◎録る必要なし（上のものを流用）
 
 *11805|
 [fc]
-女子アナらしい美人の声に混じって、人が喋る声や慌[r]
-ただしく走り回る音、機材が出す音が聞こえてくる。[pcms]
+Mixed with the beautiful voice of a female announcer were[r]
+sounds of people talking, running around in haste, and[r]
+equipment noises.[pcms]
 
 *11806|
 [fc]
-大きな事件が起きた時に、突然始まる臨時ニュースと[r]
-同じ雰囲気が、画面の向こうに感じられる。[pcms]
+The atmosphere was like that of an emergency news broadcast[r]
+that starts suddenly when a major incident occurs.[pcms]
 
 *11807|
 [fc]
 [vo_mob s="0003"]
-[ns]女子アナ[nse]
-「８月６日、午後６時１５分頃から、東北地方の全て[r]
-　の放送局で、放送設備が故障するというトラブルが[r]
-　ありました」[pcms]
+[ns]Female Announcer[nse]
+"On August 6th, around 6:15 PM, all broadcasting stations in[r]
+the Tohoku region experienced equipment failures."[pcms]
 
 *11808|
 [fc]
 [vo_mob s="0004"]
-[ns]女子アナ[nse]
-「その機材トラブルの影響で、現在まで視聴者の皆様[r]
-　に情報をお伝えすることができませんでした。申し[r]
-　訳ありませんでした」[pcms]
+[ns]Female Announcer[nse]
+"Due to these equipment issues, we have been unable to[r]
+provide information to our viewers until now. We apologize[r]
+for any inconvenience."[pcms]
 
 *11809|
 [fc]
 [vo_mob s="0005"]
-[ns]女子アナ[nse]
-「現在、放送設備が回復しましたので千台テレビを[r]
-　キー局として、各地の放送局の協力を得て、この放[r]
-　送を全国にお伝えしています」[pcms]
+[ns]Female Announcer[nse]
+"Now that broadcasting equipment has been restored, using[r]
+Sendai TV as our key station and with the cooperation of[r]
+various local stations, we are able to bring this broadcast[r]
+nationwide."[pcms]
 
 *11810|
 [fc]
 [vo_mob s="0006"]
-[ns]女子アナ[nse]
-「昨夜、午後６時１５分頃に起きた爆発事故の影響で、[r]
-　千台市では多数の死者や重軽傷者が出ており、家屋、[r]
-　建造物の倒壊などの被害も大きいようです」[pcms]
+[ns]Female Announcer[nse]
+"Due to the explosion accident that occurred last night[r]
+around 6:15 PM, there have been numerous fatalities and[r]
+injuries in Chihiro City, and significant damage to houses[r]
+and buildings."[pcms]
 
 *11811|
 [fc]
 [vo_mob s="0007"]
-[ns]女子アナ[nse]
-「また、同時刻に自衛隊の戦闘機が墜落する事故も起[r]
-　きており、爆発事故と併せて、原因の調査を進めて[r]
-　いるとのことです」[pcms]
+[ns]Female Announcer[nse]
+"Additionally, at the same time, there was an accident[r]
+involving the crash of a Self-Defense Force fighter jet.[r]
+Along with the explosion accident, investigations into the[r]
+causes are underway."[pcms]
 
 *11812|
 [fc]
-[ns]大倉[nse]
-「爆発事故……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Explosion accident..."[pcms]
 
 *11813|
 [fc]
-俺らが乗ってたバスがひっくり返ったのは、もしかし[r]
-て、それが原因だったのか……？[pcms]
+"Could it be that the reason our bus flipped over was[r]
+because of that...?"[pcms]
 
 *11814|
 [fc]
-てコトは、爆発事故はあの近くで起きたのか……。[r]
-なら、俺らがたまたま無事だっただけで、クラスのヤ[r]
-ツらは大ケガしてたのかもな……。[pcms]
+"So, did the explosion accident happen near us...? That[r]
+means it's just by chance we're safe, and our classmates[r]
+might have been seriously injured..."[pcms]
 
 *11815|
 [fc]
-じゃぁやっぱり、アイツらみんな、病院に連れてかれ[r]
-たのか……。[pcms]
+"Then, after all, everyone was taken to the hospital..."[pcms]
 
 *11816|
 [fc]
 [vo_mob s="0008"]
-[ns]女子アナ[nse]
-「現在、東北地方の広い範囲でライフラインが止まっ[r]
-　ており、それらの復旧と被害者の救助の為、自衛隊[r]
-　が出動しているという情報が入ってきています」[pcms]
+[ns]Female Announcer[nse]
+"Currently, there is a widespread disruption of lifelines[r]
+throughout the Tohoku region, and the Self-Defense Forces[r]
+have been deployed to assist in restoration efforts and[r]
+rescue of victims."[pcms]
 
 *11817|
 [fc]
 [vo_mob s="0009"]
-[ns]女子アナ[nse]
-「続いて、昨夜、午後７時頃から、東北地方全域で発[r]
-　生している暴動に関する情報をお伝えします」[pcms]
+[ns]Female Announcer[nse]
+"Next, we will provide information regarding the riots that[r]
+have been occurring throughout the Tohoku region since[r]
+around 7 PM last night."[pcms]
 
 *11818|
 [fc]
-[ns]大倉[nse]
-「東北地方全域……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"The entire Tohoku region..."[pcms]
 
 *11819|
 [fc]
-そういえば、母さんもメールで言ってたな……。[r]
-坂田の街にも、おかしなヤツらがいっぱいいるとかっ[r]
-て……。[pcms]
+"Come to think of it, my mother mentioned in an email...[r]
+There are a lot of strange people in the streets of[r]
+Sakata..."[pcms]
 
 *11820|
 [fc]
 [vo_mob s="0010"]
-[ns]女子アナ[nse]
-「現在、暴動に巻き込まれた被害者が、その後、自ら[r]
-　暴動に加わるという現象が確認されており、暴徒の[r]
-　数は次第に増加しているとのことです」[pcms]
+[ns]Female Announcer[nse]
+"It has been confirmed that victims caught up in the riots[r]
+are subsequently joining the rioters themselves, and the[r]
+number of rioters is gradually increasing."[pcms]
 
 *11821|
 [fc]
 [vo_mob s="0011"]
-[ns]女子アナ[nse]
-「機動隊が出動し、暴徒の鎮圧にあたっていますが、[r]
-　状況は依然として膠着状態のままです」[pcms]
+[ns]Female Announcer[nse]
+"Riot police have been deployed to suppress the rioters, but[r]
+the situation remains at a stalemate."[pcms]
 
 *11822|
 [fc]
-言葉が止まったのを見計らって、横から伸びてきた手[r]
-から原稿らしい紙を受け取り、女子アナはその上に素[r]
-早く目を走らせた。[pcms]
+Seizing the moment when her words stopped, a hand reached[r]
+out from the side and handed her what seemed like a script,[r]
+which the female announcer quickly scanned."[pcms]
 
 *11823|
 [fc]
 [vo_mob s="0012"]
-[ns]女子アナ[nse]
-「えー、続報が入りました。逮捕された暴徒全員から、[r]
-　同じタイプのウイルスが検出されたとの情報が入り[r]
-　ました」[pcms]
+[ns]Female Announcer[nse]
+"Ah, we have just received a follow-up report. The same type[r]
+of virus has been detected in all of the arrested rioters."[pcms]
 
 *11824|
 [fc]
 [vo_mob s="0013"]
-[ns]女子アナ[nse]
-「このウイルスは非常に高い感染力を持っており、暴[r]
-　動を起こしている暴徒は、このウイルスによる未知[r]
-　の伝染病にかかっている可能性が高いとのことです」[pcms]
+[ns]Female Announcer[nse]
+"This virus is highly infectious, and it is likely that the[r]
+rioters causing the disturbances are suffering from an[r]
+unknown contagious disease caused by this virus."[pcms]
 
 *11825|
 [fc]
 [vo_mob s="0014"]
-[ns]女子アナ[nse]
-「また、これまでの調査の結果、暴徒によって次の様[r]
-　な被害に遭われた方に、ウイルスが伝染しているこ[r]
-　とが確認されています」[pcms]
+[ns]Female Announcer[nse]
+"Furthermore, based on investigations so far, it has been[r]
+confirmed that the virus has been transmitted to those who[r]
+have suffered the following types of harm from the rioters"[pcms]
 
 *11826|
 [fc]
 [vo_mob s="0015"]
-[ns]女子アナ[nse]
-「暴徒に引っ掻かれた方、または噛みつかれた方、[r]
-　暴徒から暴行を受けた方、血液、唾液など、暴徒の[r]
-　体液を浴びた方、または体に付着した方」[pcms]
+[ns]Female Announcer[nse]
+"Those who were scratched or bitten by rioters, those who[r]
+were assaulted by rioters, those who were exposed to or had[r]
+contact with bodily fluids such as blood or saliva from[r]
+rioters"[pcms]
 
 *11827|
 [fc]
 [vo_mob s="0016"]
-[ns]女子アナ[nse]
-「この様な被害に遭われた方は、ほぼ確実に、ウィル[r]
-　スに感染しているとのことです」[pcms]
+[ns]Female Announcer[nse]
+"It is almost certain that those who have suffered such harm[r]
+are infected with the virus."[pcms]
 
 *11828|
 [fc]
 [vo_mob s="0017"]
-[ns]女子アナ[nse]
-「このウイルスに感染すると、暴徒と同じ様に、周り[r]
-　の人間に対して暴力を振るったり、暴行を働くこと[r]
-　が、現在までの調査でわかっています」[pcms]
+[ns]Female Announcer[nse]
+"Those infected with this virus are known to become violent[r]
+towards others and commit assaults, similar to the rioters,[r]
+according to current investigations."[pcms]
 
 *11829|
 [fc]
 [vo_mob s="0018"]
-[ns]女子アナ[nse]
-「今、この番組をご覧の皆様の中で、ウイルスに感染[r]
-　している、またはその可能性がある方は、そういう[r]
-　人が近くにいらっしゃるという方」[pcms]
+[ns]Female Announcer[nse]
+"If you are watching this program and you are infected with[r]
+the virus or suspect you might be, or if you know someone[r]
+nearby who might be,"[pcms]
 
 *11830|
 [fc]
 [vo_mob s="0019"]
-[ns]女子アナ[nse]
-「これらに該当する方は、すぐに最寄りの病院へ行く、[r]
-　または連れて行く、ドアに鍵のかけられる部屋に隔[r]
-　離するなどの対処をしてください」[pcms]
+[ns]Female Announcer[nse]
+"Those who fall into these categories should immediately go[r]
+to or take someone to the nearest hospital, or isolate them[r]
+in a room that can be locked."[pcms]
 
 *11831|
 [fc]
 [vo_mob s="0001"]
-[ns]女子アナ[nse]
-「繰り返します……」[pcms]
+[ns]Female Announcer[nse]
+"I repeat..."[pcms]
 ;//◎録る必要なし（上のものを流用）
 
 *11832|
 [fc]
-[ns]大倉[nse]
-「ウイルス……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Virus..."[pcms]
 
 *11833|
 [fc]
-女をレイプすんのも、他のひとを食うのも……？[r]
-それが全部ウイルスのせいだってのか……？[r]
-そんなことあんのかよ……。[pcms]
+"Raping women and eating other people...? Is all of that[r]
+really because of this virus...? Can such things really[r]
+happen...?"[pcms]
 
 *11834|
 [fc]
-すぐには信じられないようなことを、淡々と語り続け[r]
-る彼女に、また原稿を持った手が横から伸びてきた。[pcms]
+As she continued to speak in a calm manner about things that[r]
+were hard to believe, another hand reached out from the side[r]
+with more script for her."[pcms]
 
 *11835|
 [fc]
 [vo_mob s="0021"]
-[ns]女子アナ[nse]
-「えー……ここで、さらに続報です。ウイルスに関す[r]
-　る続報が入りました」[pcms]
+[ns]Female Announcer[nse]
+"Ah... here is another update. We have received further[r]
+information about the virus."[pcms]
 
 *11836|
 [fc]
 [vo_mob s="0022"]
-[ns]女子アナ[nse]
-「このウイルスに感染すると、突発的に高熱を出すよ[r]
-　うになり、また、喋り方や声がおかしくなるという[r]
-　情報が入ってきました」[pcms]
+[ns]Female Announcer[nse]
+"Those infected with this virus may suddenly develop a high[r]
+fever and exhibit strange speech patterns or voices."[pcms]
 
 *11837|
 [fc]
 [vo_mob s="0023"]
-[ns]女子アナ[nse]
-「明田県内で発生した暴動を目撃した人からは、暴徒[r]
-　が泥酔した人のような喋り方をしていた、[r]
-　という情報が寄せられています」[pcms]
+[ns]Female Announcer[nse]
+"Witnesses to the riots that occurred in Akita Prefecture[r]
+report that the rioters spoke like people who were heavily[r]
+intoxicated,"[pcms]
 
 *11838|
 [fc]
 [vo_mob s="0024"]
-[ns]女子アナ[nse]
-「また、このウイルスに感染した可能性のある人の３[r]
-　分の２が、病院に搬送されてから、７時間以内に亡[r]
-　くなっているとの報告もされています」[pcms]
+[ns]Female Announcer[nse]
+"Furthermore, two-thirds of those who are suspected to be[r]
+infected with this virus have died within seven hours after[r]
+being transported to a hospital."[pcms]
 
 *11839|
 [fc]
-[ns]大倉[nse]
-「……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"..."[pcms]
 
 *11840|
 [fc]
-高熱……？[r]
-あの子もスゴイ熱出してたよな……。[pcms]
+"High fever...? That girl also had a terrible fever..."[pcms]
 
 *11841|
 [fc]
-俺は後ろを振り返って、上半身を起こして、アンザイ[r]
-さんとなにかを喋っている女の子を見た。[pcms]
+"I turned around and looked at the girl who was sitting up[r]
+and talking to Anzai-san."[pcms]
 
 *11842|
 [fc]
-もし、あの子かウイルスに感染してるんだとしたら、[r]
-病院に連れてくか、鍵が閉められる部屋に閉じこめな[r]
-きゃならない……。[pcms]
+"If that girl is infected with the virus, I need to take her[r]
+to a hospital or lock her up in a room that can be[r]
+secured..."[pcms]
 
 *11843|
 [fc]
-けど、簡単には外に出られないし……。[r]
-だからって、あの子をどこかに閉じこめるのは、見殺[r]
-しにするのと一緒だ……。[pcms]
+"But it's not easy to get outside... And locking her up[r]
+somewhere would be like leaving her to die..."[pcms]
 
 *11844|
 [fc]
-どっちを選んでも、あの子を助けらんねー……。[r]
-どうすりゃいいんだ……。[pcms]
+"No matter which option I choose, I can't save her... What[r]
+should I do..."[pcms]
 
 *11845|
 [fc]
-[ns]大倉[nse]
-「クソ……！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Damn it...!"[pcms]
 
 *11846|
 [fc]
 [vo_mob s="0025"]
-[ns]女子アナ[nse]
-「また、ウイルスに感染している可能性のある人が、[r]
-　重傷を負っているにも係わらず平然と動き回ってい[r]
-　る、という例も報告もされています」[pcms]
+[ns]Female Announcer[nse]
+"Additionally, there have been reports of individuals who[r]
+are likely infected with the virus moving around calmly[r]
+despite having serious injuries."[pcms]
 
 *11847|
 [fc]
-女子アナが言うのを聞いて、俺は隣にいるマヤちゃん[r]
-の横顔に目を向けた。[pcms]
+Hearing what the female announcer said, I turned my gaze to[r]
+Maya-chan's profile next to me."[pcms]
 
 *11848|
 [fc]
-マヤちゃんのお祖父さん、腕が取れてんのに、痛がり[r]
-もしなかったよな……。[pcms]
+"Maya-chan's grandfather didn't even flinch when his arm was[r]
+torn off..."[pcms]
 
 *11849|
 [fc]
-もしかして……。[r]
-今言ってるウイルスのせいだったのか……？[pcms]
+"Could it be... because of this virus they're talking[r]
+about...?"[pcms]
 
 *11850|
 [fc]
 [vo_mob s="0026"]
-[ns]女子アナ[nse]
-「このウイルスに感染している可能性のある人は、東[r]
-　北地方全域、さらに隣接している県内で、現在も増[r]
-　加しているとみられています」[pcms]
+[ns]Female Announcer[nse]
+"It is believed that the number of people potentially[r]
+infected with this virus is still increasing throughout the[r]
+Tohoku region and in neighboring prefectures."[pcms]
 
 *11851|
 [fc]
 [vo_mob s="0027"]
-[ns]女子アナ[nse]
-「感染源や、ウイルスのが広まった原因について、政[r]
-　府が組織した調査委員会が調査を続けていますが、[r]
-　事態の解明には繋がっていません」[pcms]
+[ns]Female Announcer[nse]
+"The government-formed investigative committee continues its[r]
+investigation into the source of infection and how the virus[r]
+spread, but has yet to clarify the situation."[pcms]
 
 *11852|
 [fc]
 [vo_mob s="0028"]
-[ns]女子アナ[nse]
-「調査委員会は、海外のテログループによる、細菌兵[r]
-　器を使用した大規模なテロの可能性もあるとして、[r]
-　その線からも調査を進めていく方針を示しました」[pcms]
+[ns]Female Announcer[nse]
+"The investigative committee has indicated that they will[r]
+also pursue investigations on the possibility of a large-[r]
+scale terrorist attack using bacterial weapons by foreign[r]
+terrorist groups."[pcms]
 
 *11853|
 [fc]
-[ns]大倉[nse]
-「なんか、話がデカくなってきたな……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Things are getting pretty serious..."[pcms]
 
 *11854|
 [fc]
 [vo_kob s="koba0248"]
-[ns]小林[nse]
-「うん……」[pcms]
+[ns]Kobayashi[nse]
+"Yeah..."[pcms]
 
 *11855|
 [fc]
 [vo_mob s="0029"]
-[ns]女子アナ[nse]
-「現在、千台市一帯に電波障害が発生している為、携[r]
-　帯電話、ＰＨＳなど、電波による通信が利用できな[r]
-　くなっています」[pcms]
+[ns]Female Announcer[nse]
+"Currently, due to radio interference in Chihiro City area,[r]
+communication devices such as mobile phones and PHS are not[r]
+functioning."[pcms]
 
 *11856|
 [fc]
 [vo_mob s="0030"]
-[ns]女子アナ[nse]
-「ケーブルテレビなどのネットワークは、一部を除い[r]
-　て回復している模様です」[pcms]
+[ns]Female Announcer[nse]
+"Networks such as cable TV have been restored in some[r]
+areas."[pcms]
 
 *11857|
 [fc]
 [vo_mob s="0031"]
-[ns]女子アナ[nse]
-「国道４００号線、４８０号線などと主な幹線道路で[r]
-　は、県外への避難を急ぐ車や、そういった車同士の[r]
-　事故の為、激しい渋滞を起こしています」[pcms]
+[ns]Female Announcer[nse]
+"On major arterial roads such as National Route 400 and 480,[r]
+there is severe congestion due to cars rushing to evacuate[r]
+out of the prefecture and accidents between such vehicles."[pcms]
 
 *11858|
 [fc]
 [vo_mob s="0032"]
-[ns]女子アナ[nse]
-「えー……ここで、現在の街の様子を撮影したＶＴＲ[r]
-　が入ってきましたので、ご覧ください」[pcms]
+[ns]Female Announcer[nse]
+"Ah... now we have received VTR footage showing the current[r]
+state of the city. Please take a look."[pcms]
 
 ;//イベントCG表示
 ;//井：該当ファイル無しにつき、代用貼付け
@@ -739,110 +736,116 @@
 *11859|
 [fc]
 [vo_mob s="0033"]
-[ns]女子アナ[nse]
-「ご覧頂いているのは、現在の街の様子です」[pcms]
+[ns]Female Announcer[nse]
+"What you are seeing now is the current state of the city."[pcms]
 
 *11860|
 [fc]
-女子アナから切り替わって映し出されたのは、崩壊し[r]
-た街のあちこちに死体が横たわっているという、地球[r]
-が滅亡した時のイメージのような映像だった。[pcms]
+The scene switched from the female announcer to a video[r]
+image reminiscent of the end of the world, with dead bodies[r]
+lying all over the collapsed city.[pcms]
 
 *11861|
 [fc]
-カットする余裕が無かったのか、死体以外にも、俺ら[r]
-が何回か見たような、男が集団で女をレイプしている[r]
-場面まで、モザイク無しで映し出していた。[pcms]
+Perhaps due to the lack of time to cut, the footage showed[r]
+uncensored scenes of groups of men raping women, something[r]
+we had seen several times before.[pcms]
 
 *11862|
 [fc]
 [vo_kob s="koba0249"]
-[ns]小林[nse]
-「すごいね……」[pcms]
+[ns]Kobayashi[nse]
+"It's terrible..."[pcms]
 
 *11863|
 [fc]
-[ns]大倉[nse]
-「あぁ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Ah..."[pcms]
 
 *11864|
 [fc]
-いくら緊急放送つったって、大丈夫なのか……？[r]
-確か全国放送って言ってたよな……。[pcms]
+I wonder if it's really okay to broadcast this, even if it's[r]
+an emergency broadcast... Didn't they say it was a national[r]
+broadcast?[pcms]
 
 *11865|
 [fc]
-現実を映したはずの映像に、俺は逆に現実感が感じら[r]
-れなくて、冷静にそんなことを考えていた。[pcms]
+Despite the footage supposedly reflecting reality, I[r]
+couldn't feel any sense of reality and calmly thought about[r]
+such things.[pcms]
 
 *11866|
 [fc]
-今は映っていない女子アナは、多少、動揺しているよ[r]
-うな口ぶりで、見てるはずの人間に注意を呼びかける。[pcms]
+The female announcer, not currently on screen, seemed[r]
+slightly flustered as she called for attention from the[r]
+viewers who were supposed to be watching.[pcms]
 
 *11867|
 [fc]
 [vo_mob s="0034"]
-[ns]女子アナ[nse]
-「え……はい……えー、東北地方全域に拡がっている[r]
-　とみられているウイルスは、非常に感染力が高いも[r]
-　のですが、空気感染の例はまだ確認されていません」[pcms]
+[ns]Female Announcer[nse]
+"Eh... yes... ehm, the virus that is believed to be[r]
+spreading throughout the Tohoku region is highly infectious,[r]
+but there have been no confirmed cases of airborne[r]
+transmission."[pcms]
 
 *11868|
 [fc]
 [vo_mob s="0035"]
-[ns]女子アナ[nse]
-「この放送をご覧の皆様、えー、ウイルスに感染した[r]
-　可能性のある人が近くにいたら、すぐにドアに鍵の[r]
-　かけられる部屋へ隔離してください」[pcms]
+[ns]Female Announcer[nse]
+"To all viewers watching this broadcast, ehm, if you suspect[r]
+someone nearby may be infected with the virus, please[r]
+immediately isolate them in a room where you can lock the[r]
+door."[pcms]
 
 *11869|
 [fc]
 [vo_mob s="0036"]
-[ns]女子アナ[nse]
-「えー、暴動を起こしている暴徒は、全てウイルスに[r]
-　感染している可能性がありますので、絶対に近寄ら[r]
-　ないようにしてください」[pcms]
+[ns]Female Announcer[nse]
+"Ehm, the rioters causing disturbances are all potentially[r]
+infected with the virus, so please do not approach them[r]
+under any circumstances."[pcms]
 
 *11870|
 [fc]
 [vo_mob s="0037"]
-[ns]女子アナ[nse]
-「軽い引っ掻き傷からでも、えー、ウイルスに感染す[r]
-　る場合があるということなので、暴徒を見た方は、[r]
-　すぐに避難してください」[pcms]
+[ns]Female Announcer[nse]
+"Even a minor scratch can lead to infection, ehm, so if you[r]
+see any rioters, please evacuate immediately."[pcms]
 
 *11871|
 [fc]
 [vo_mob s="0038"]
-[ns]女子アナ[nse]
-「えー、暴動は各地で起きており、暴徒が持つウィル[r]
-　ス、また暴徒そのものも非常に危険です」[pcms]
+[ns]Female Announcer[nse]
+"Ehm, riots are occurring in various places, and both the[r]
+virus carried by the rioters and the rioters themselves are[r]
+extremely dangerous."[pcms]
 
 *11872|
 [fc]
 [vo_mob s="0039"]
-[ns]女子アナ[nse]
-「ご覧の皆様は、慌てて県外へ避難したりせず、えー、[r]
-　厳重に戸締まりをし、暴徒が入ってこないようにし[r]
-　てください」[pcms]
+[ns]Female Announcer[nse]
+"Please do not panic and flee out of the prefecture;[r]
+instead, ehm, secure your doors tightly and ensure that no[r]
+rioters can enter."[pcms]
 
 *11873|
 [fc]
 [vo_mob s="0001"]
-[ns]女子アナ[nse]
-「繰り返します……」[pcms]
+[ns]Female Announcer[nse]
+"I repeat..."[pcms]
 ;//◎録る必要なし（上のものを流用）
 
 *11874|
 [fc]
-もう一回、注意事項を読み上げようとしたその時、女[r]
-子アナの声に、スタッフのものらしい悲鳴が重なった。[pcms]
+Just as she was about to read the cautionary notes again, a[r]
+scream that seemed to come from a staff member overlapped[r]
+with the female announcer's voice.[pcms]
 
 *11875|
 [fc]
-[ns]大倉[nse]
-「なんだ……？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"What's that...?"[pcms]
 
 ;//BG表示
 [bg storage="bg11a"][trans_c cross time=1000]
@@ -863,56 +866,57 @@
 
 *11876|
 [fc]
-連続する悲鳴や、突然ガクンと揺れて女子アナを映さ[r]
-なくなったカメラに、意味が分からなくてキョトンと[r]
-していると、今度は女子アナの悲鳴が聞こえてきた。[pcms]
+As screams continued and the camera suddenly shook and[r]
+stopped showing the female announcer, I was confused and[r]
+then heard the female announcer's scream.[pcms]
 
 *11877|
 [fc]
 [vo_mob s="0041"]
-[ns]女子アナ[nse]
-「ちょっ、いやあぁっ！！」[pcms]
+[ns]Female Announcer[nse]
+"Wait, nooo!!"[pcms]
 
 *11878|
 [fc]
 [ns]？？？[nse]
-「そのまま台に乗せて、顔と体、固定しろ！！」[pcms]
+"Keep her on the desk like that, fix her face and body!!"[pcms]
 
 *11879|
 [fc]
 [ns]？？？[nse]
-「りょうかーい！！」[pcms]
+"Understood!!"[pcms]
 
 *11880|
 [fc]
 [vo_mob s="0042"]
-[ns]女子アナ[nse]
-「やぁっ！！　放しっ……いやあぁっ！！」[pcms]
+[ns]Female Announcer[nse]
+"Nooo!! Let go...nooo!!"[pcms]
 
 *11881|
 [fc]
-女子アナの悲鳴と、聞こえてくる男の声に、俺はイヤ[r]
-な予感がしていた。[pcms]
+I had a bad feeling about the male voices I heard along with[r]
+the female announcer's screams.[pcms]
 
 *11882|
 [fc]
-[ns]大倉[nse]
-「オイ、これ……まさか……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Hey, this... don't tell me..."[pcms]
 
 *11883|
 [fc]
 [ns]？？？[nse]
-「カメラいいか！？」[pcms]
+"Is the camera okay!?"[pcms]
 
 *11884|
 [fc]
 [ns]？？？[nse]
-「オッケーて゛ーす！！」[pcms]
+"All good!!"[pcms]
 
 *11885|
 [fc]
-男の声と共に、天井らしい部分に向いていたカメラが、[r]
-さっきまで女子アナが座っていた所を映し出した。[pcms]
+The camera, which had been pointed at what seemed to be the[r]
+ceiling, now showed where the female announcer had been[r]
+sitting until just a moment ago.[pcms]
 
 ;//♪：bgm011 stop
 [fadeoutbgm time=1][wb]
@@ -934,109 +938,105 @@
 *11886|
 [fc]
 [vo_mob s="0043"]
-[ns]女子アナ[nse]
-「やっ、いやぁっ！！　映さないでっ！！　いやっ、[r]
-　やめてえぇっ！！」[pcms]
+[ns]Female Announcer[nse]
+"No, don't show this!! Stop it, nooo!!"[pcms]
 
 *11887|
 [fc]
-カメラを向けられて、丸見えになっている自分のアソ[r]
-コを映されているのがわかったのか、女子アナは手を[r]
-バタつかせて、必死に隠そうとしている。[pcms]
+The female announcer flailed her hands desperately trying to[r]
+cover herself up as she realized that her exposed crotch was[r]
+being broadcasted on camera.[pcms]
 
 *11888|
 [fc]
-さっきまではいなかった、アナウンサーらしいイケメ[r]
-ンが、場違いな調子で女子アナの様子をリポートし始[r]
-めた。[pcms]
+A handsome male announcer who wasn't there before began[r]
+reporting on the female announcer's situation in an out-of-[r]
+place tone.[pcms]
 
 *11889|
 [fc]
-[ns]イケメンのアナウンサー[nse]
-「はい！　ＳＢＣアナウンサーの[ruby text="ひは゛ら"][ch text="檜原"][ruby text="まさき"][ch text="昌紀"]です！　男[r]
-　性アナウンサー一番人気です！　ふ゛はははっ！！[r]
-　さぁ今週の突撃リホ゜ートはぁ～……こちら！！」[pcms]
+[ns]Handsome Announcer[nse]
+"Yes! I'm Masaki from SBC! The most popular male announcer![r]
+Bwahaha!! Now for this week's daring report... over here!!"[pcms]
 
 *11890|
 [fc]
-[ns]イケメンのアナウンサー[nse]
-「ＳＢＣの女子アナ一番人気！　瀧澤クレアアナのお[r]
-　まんこに、今日は突撃したいと思いまぁ～～す！！」[pcms]
+[ns]Handsome Announcer[nse]
+"SBC's most popular female announcer! Today we want to storm[r]
+into Takizawa Claire's pussy!!"[pcms]
 
 *11891|
 [fc]
 [vo_mob s="0044"]
-[ns]女子アナ[nse]
-「やぁっ、ちょっ、何これぇ！？　やめてよぉっ！！」[pcms]
+[ns]Female Announcer[nse]
+"No, wait, what is this!? Stop it!!"[pcms]
 
 *11892|
 [fc]
-女子アナに近寄っていく男アナを追って、画面が彼女[r]
-と彼に寄っていく。[pcms]
+The camera followed the male announcer as he approached the[r]
+female announcer.[pcms]
 
 *11893|
 [fc]
-カメラに向けられた、男アナの血走って赤く濁った目[r]
-は、明らかに普通じゃない。[pcms]
+The bloodshot and cloudy eyes of the male announcer directed[r]
+at the camera were clearly not normal.[pcms]
 
 *11894|
 [fc]
-彼と彼女の周りに集まってきた、同じ様に目のイッて[r]
-る男連中の１人に、男アナは持っているマイクを突き[r]
-つけた。[pcms]
+As men with similarly crazed eyes gathered around him and[r]
+her, the male announcer thrust his microphone towards one of[r]
+them.[pcms]
 
 *11895|
 [fc]
-[ns]イケメンのアナウンサー[nse]
-「こちらが瀧澤アナのおまんこですが！　ご感想を！」[pcms]
+[ns]Handsome Announcer[nse]
+"Here we have Takizawa's pussy! Your thoughts?"[pcms]
 
 *11896|
 [fc]
 [vo_mob s="0045"]
-[ns]女子アナ[nse]
-「いやぁっ！！　もうやめてえぇっ！！！！」[pcms]
+[ns]Female Announcer[nse]
+"No, stop it please!!"[pcms]
 
 *11897|
 [fc]
-[ns]ＡＤ[nse]
-「憧れてた瀧澤さんのおまんこに挿れられるなんて！[r]
-　感激て゛すっ！！」[pcms]
+[ns]AD[nse]
+"I'm thrilled to be able to insert into Takizawa-san's pussy[r]
+that I've always admired! It's an honor!!"[pcms]
 
 *11898|
 [fc]
 [vo_mob s="0046"]
-[ns]女子アナ[nse]
-「何！？　やだあぁっ！！　いれるって何よ！？　い[r]
-　やあぁっ！！」[pcms]
+[ns]Female Announcer[nse]
+"What!? Nooo!! What do you mean insert!? Nooo!!"[pcms]
 
 *11899|
 [fc]
-[ns]イケメンのアナウンサー[nse]
-「良かったて゛すね！　是非、憧れの瀧澤アナに、た[r]
-　くさんおまんこしてあけ゛てくた゛さい！」[pcms]
+[ns]Handsome Announcer[nse]
+"That's great! Please give Takizawa-san lots of pussy love!"[pcms]
 
 *11900|
 [fc]
-[ns]ＡＤ[nse]
-「はいっ！！」[pcms]
+[ns]AD[nse]
+"Yes!!"[pcms]
 
 *11901|
 [fc]
-[ns]イケメンのアナウンサー[nse]
-「さぁそれて゛は、瀧澤アナとおまんこしていたた゛[r]
-　きましょう！　と゛うそ゛っ！！」[pcms]
+[ns]Handsome Announcer[nse]
+"Well then, let's give Takizawa-san some pussy love! Here we[r]
+go!!"[pcms]
 
 *11902|
 [fc]
 [vo_mob s="0047"]
-[ns]女子アナ[nse]
-「いやああぁぁっ！！　やめてええぇぇぇっ！！！！」[pcms]
+[ns]Female Announcer[nse]
+"Nooooo!! Stop it please!!!"[pcms]
 
 *11903|
 [fc]
-女子アナは目を剥いて必死になったが、スタッフらし[r]
-い男数人にガッチリと押さえられた体が、近づいてく[r]
-る反り返ったナニから逃げることはできなかった。[pcms]
+The female announcer's eyes widened in desperation as she[r]
+was firmly held down by several men who looked like staff[r]
+members, unable to escape from the approaching erect member.[pcms]
 
 ;//★レッドフラッシュ
 [赤フラ]
@@ -1052,176 +1052,170 @@
 
 *11904|
 [fc]
-[ns]ＡＤ[nse]
-「う、はああぁぁ～～～……」[pcms]
+[ns]AD[nse]
+"Ugh, haaaah~~~..."[pcms]
 
 *11905|
 [fc]
 [vo_mob s="0048"]
-[ns]女子アナ[nse]
-「いやああああああぁぁぁぁぁっ！！！！！！！！」[pcms]
+[ns]Female Announcer[nse]
+"Noooooo!! Stop it please!!!!!"[pcms]
 
 *11906|
 [fc]
-カメラに映るようにムリヤリ固定された彼女の顔は、[r]
-ナニを拒むために全身に入れられた力で、みるみるう[r]
-ちに真っ赤になっていく。[pcms]
+Her face fixed towards the camera by force, her complexion[r]
+turned bright red from all the strength she put into her[r]
+body trying to reject what was happening.[pcms]
 
 *11907|
 [fc]
-見ていられなくなったらしく、隣にいたマヤちゃんは、[r]
-隠れるように俺の後ろへと移動した。[pcms]
+Apparently unable to watch anymore, Maya-chan moved behind[r]
+me as if hiding.[pcms]
 
 *11908|
 [fc]
 [vo_mob s="0049"]
-[ns]女子アナ[nse]
-「ひっ、ぎいぃっ！！　痛ぁあい！！　いやぁっ、抜[r]
-　いてえぇっ！！」[pcms]
+[ns]Female Announcer[nse]
+"Hic, biku! It hurts!! Noo, pull it out please!!"[pcms]
 
 *11909|
 [fc]
-[ns]イケメンのアナウンサー[nse]
-「おっとぉ、濡らさす゛にいきなり挿入した為、瀧澤[r]
-　アナ、非常に痛か゛っております！！　なかなか極[r]
-　悪非道て゛すねっ！！」[pcms]
+[ns]Handsome Announcer[nse]
+"Oops, because we inserted without lubrication first,[r]
+Takizawa-san is in a lot of pain! Quite villainous indeed!!"[pcms]
 
 *11910|
 [fc]
-[ns]ＡＤ[nse]
-「て゛も気持ちいいて゛すうぅ～～～っ！！　瀧澤さ[r]
-　んのおまんこ気持ちいいよおぉ～～～！！」[pcms]
+[ns]AD[nse]
+"But it feels so good~~~!! Takizawa-san's pussy feels[r]
+amazing~~~!!"[pcms]
 
 *11911|
 [fc]
 [vo_mob s="0050"]
-[ns]女子アナ[nse]
-「ぎぃっ！！　あああぁぁっ！！　抜いてえぇ！！[r]
-　お願いぃぃっ！！」[pcms]
+[ns]Female Announcer[nse]
+"Gyah!! Ahhhhh!! Pull it out, please!!"[pcms]
 
 *11912|
 [fc]
-苦痛に涙を流して悲鳴をあげる彼女を、周りにいる男[r]
-連中はニヤニヤといやらしい笑いを浮かべて見下ろし[r]
-ている。[pcms]
+The men surrounding her, who looked like staff members,[r]
+watched her scream in agony with lecherous grins on their[r]
+faces.[pcms]
 
 *11913|
 [fc]
-彼女にナニを突っ込んでいる男も、ヘラヘラと笑いな[r]
-がら、激しく腰を動かし続けた。[pcms]
+The man thrusting into her also continued to move his hips[r]
+vigorously while laughing carelessly.[pcms]
 
 *11914|
 [fc]
-[ns]ＡＤ[nse]
-「瀧澤さあぁん！！　瀧澤さんも、マンコ気持ちいい[r]
-　て゛すかあぁ～！！　俺……俺は、チンコ気持ち良[r]
-　すき゛て爆発しそうて゛すうぅ～～～！！！！」[pcms]
+[ns]AD[nse]
+"Takizawa-saaan!! Does your pussy feel good too~~? I... I[r]
+feel like my cock is going to explode from the[r]
+pleasure~~~!!!!"[pcms]
 
 *11915|
 [fc]
-[ns]イケメンのアナウンサー[nse]
-「そう言ってますか゛、彼のチンポの具合はいかか゛[r]
-　て゛すか？　瀧澤アナ！！」[pcms]
+[ns]Handsome Announcer[nse]
+"He says that, but how does his cock feel to you? Takizawa-[r]
+san!!"[pcms]
 
 *11916|
 [fc]
 [vo_mob s="0051"]
-[ns]女子アナ[nse]
-「いっ！　うぐ、うぅっ……！！　ひ、やぁ……映さ、[r]
-　ないでぇ……っ！！」[pcms]
+[ns]Female Announcer[nse]
+"Eek! Ugh, uhh...!! No, don't film this...!!"[pcms]
 
 *11917|
 [fc]
-[ns]ＡＤ[nse]
-「あっ……なんか、瀧澤さんのマンコ……ヌルヌルし[r]
-　てきたあぁ～～っ！　スゲェッ！　スゲェ気持ちい[r]
-　いぃ～～～っ！！！」[pcms]
+[ns]AD[nse]
+"Ah... Takizawa-san's pussy... it's getting all slippery~~~![r]
+Amazing! It feels so good~~~!!!"[pcms]
 
 *11918|
 [fc]
-[ns]イケメンのアナウンサー[nse]
-「おぉ～っとぉ！？　瀧澤アナ、おまんこをチンポで[r]
-　抉られて、感し゛始めたようて゛す！！」[pcms]
+[ns]Handsome Announcer[nse]
+"Whoa!? Takizawa-san, it seems like you're starting to feel[r]
+it as your pussy is being ravaged by the cock!!"[pcms]
 
 *11919|
 [fc]
 [vo_mob s="0052"]
-[ns]女子アナ[nse]
-「ち、違っ……！！　うぅっ、は、んぐっ……！！」[pcms]
+[ns]Female Announcer[nse]
+"That's not...!! Uhh, hah, ngh...!!"[pcms]
 
 *11920|
 [fc]
-[ns]イケメンのアナウンサー[nse]
-「音声さん、マイクを！　こ゛覧のみなさん、聞こえ[r]
-　ますて゛しょうか！？　瀧澤アナのおまんこから、[r]
-　スケへ゛な音か゛聞こえてきます！！」[pcms]
+[ns]Handsome Announcer[nse]
+"Sound guy, the mic! Can everyone see this? You can hear the[r]
+lewd sounds coming from Takizawa-san's pussy as it's being[r]
+penetrated!!"[pcms]
 
 *11921|
 [fc]
 [vo_mob s="0053"]
-[ns]女子アナ[nse]
-「いやあぁっ！！　マイク離してえぇっ！！　カメラ[r]
-　止めてえぇっ！！」[pcms]
+[ns]Female Announcer[nse]
+"No, nooo!! Keep the mic away!! Stop the camera!!"[pcms]
 
 *11922|
 [fc]
-女子アナの悲鳴に混じって、男アナの実況通り、男の[r]
-ナニが出し入れされているアソコから、湿っていて粘[r]
-り気のある音が聞こえてくる。[pcms]
+Mixed with the female announcer's screams, just as the male[r]
+announcer narrated, wet and sticky sounds could be heard[r]
+from where the man's thing was moving in and out.[pcms]
 
 *11923|
 [fc]
-よっぽど気持ちいいのか、ナニを突っ込んでいる男は[r]
-だらしなく口を開き、ヨダレを垂れ流しながら、夢中[r]
-で腰を振り続けている。[pcms]
+Seemingly feeling too good, the man thrusting into her[r]
+opened his mouth sloppily, drooling as he continued to[r]
+thrust his hips in a daze.[pcms]
 
 *11924|
 [fc]
-[ns]ＡＤ[nse]
-「あ～っ……あぁ～～っ……ああぁぁ～～～っ！！！」[pcms]
+[ns]AD[nse]
+"Ahh... ahhh~~~... ahhhh~~~!!!"[pcms]
 
 *11925|
 [fc]
 [vo_mob s="0054"]
-[ns]女子アナ[nse]
-「いっ、やぁっ……！！　抜い、てえぇっ……！！」[pcms]
+[ns]Female Announcer[nse]
+"Stop, please...!! Pull it out...!!"[pcms]
 
 *11926|
 [fc]
-[ns]ＡＤ[nse]
-「あぁ～～出すよぉ瀧澤さぁん！！　オレの子供、妊[r]
-　娠してくた゛さあぁぁい！！！！」[pcms]
+[ns]AD[nse]
+"Ahhh~~~ I'm going to cum, Takizawa-san!! Please get[r]
+pregnant with my child!!!!"[pcms]
 
 *11927|
 [fc]
 [vo_mob s="0055"]
-[ns]女子アナ[nse]
-「いやああぁっ！！　お願い！　出さないで！！　お[r]
-　願いぃ！！　いやっ！！　いやあぁっ！！」[pcms]
+[ns]Female Announcer[nse]
+"No, noooo!! Please don't cum inside! Please!! No!! Noooo!!"[pcms]
 
 *11928|
 [fc]
-涙と鼻水を垂れ流し、絶叫しながら、女子アナは男の[r]
-ナニから逃がれるために体を動かそうとするが、ムダ[r]
-な努力にしかならなかった。[pcms]
+Streaming tears and snot, screaming at the top of her lungs,[r]
+the female announcer tried to move her body to escape from[r]
+the man's thing, but it was all in vain.[pcms]
 
 *11929|
 [fc]
-[ns]イケメンのアナウンサー[nse]
-「イくか！？　イッてしまうのかあぁ！？」[pcms]
+[ns]Handsome Announcer[nse]
+"Is he going to cum!? Is he cumming now!?"[pcms]
 
 *11930|
 [fc]
-男は頭を後ろへ反らし、大口を開けて喘いで、激しく[r]
-振っていた腰を突然止め、体を何度も震わせた。[pcms]
+The man arched his head back, gasping with his mouth wide[r]
+open, suddenly stopped his vigorous hip movements, and shook[r]
+his body several times.[pcms]
 
 ;//★ホワイトフラッシュ
 [白フラ]
 
 *11931|
 [fc]
-[ns]ＡＤ[nse]
-「んん～～～ふうぅ～～～……っ！！！！」[pcms]
+[ns]AD[nse]
+"Nnn~~~ fuu~~~...!!!!"[pcms]
 
 ;//★ホワイトフラッシュ
 ;//★ホワイトフラッシュ
@@ -1234,41 +1228,40 @@
 *11932|
 [fc]
 [vo_mob s="0056"]
-[ns]女子アナ[nse]
-「いやああああああああああぁぁぁぁぁっ！！！！！」[pcms]
+[ns]Female Announcer[nse]
+"Nooooooaaaaaaaaaaaaahhhhhhh!!!!!"[pcms]
 
 *11933|
 [fc]
-[ns]イケメンのアナウンサー[nse]
-「イッた！！　イッたようて゛す！！　今まさに、瀧[r]
-　澤アナのおまんこに、新鮮なサ゛ーメンが流しこま[r]
-　れていきます！！」[pcms]
+[ns]Handsome Announcer[nse]
+"He came!! It looks like he came!! Right now, fresh semen is[r]
+being poured into Takizawa-san's pussy!!"[pcms]
 
 *11934|
 [fc]
-まだ男のナニから逃れようとして、押さえられている[r]
-体をモゾモゾと動かして、女子アナは半狂乱になって[r]
-喚き立てる。[pcms]
+Still trying to escape from the man's thing, the female[r]
+announcer writhed under the restraint, screaming[r]
+hysterically.[pcms]
 
 *11935|
 [fc]
 [vo_mob s="0057"]
-[ns]女子アナ[nse]
-「抜いて！！　いやぁ入ってくるうぅっ！！　早く抜[r]
-　いてえぇっ！！　本当に妊娠しちゃう！！　早くっ、[r]
-　早く抜いてえぇっ！！　いやあぁっ！！」[pcms]
+[ns]Female Announcer[nse]
+"Pull it out!! Nooo, it's coming in uhhhh!! Hurry up and[r]
+pull it out!! I'm really going to get pregnant!! Hurry up,[r]
+pull it out nowww!! Noooo!!"[pcms]
 
 *11936|
 [fc]
-[ns]ＡＤ[nse]
-「うはああぁぁ～～～……」[pcms]
+[ns]AD[nse]
+"Uhaaaa~~~..."[pcms]
 
 *11937|
 [fc]
 [vo_mob s="0058"]
-[ns]女子アナ[nse]
-「早くうぅっ！！　早くしてよっ！！　妊娠しちゃう[r]
-　からぁ！！　いやっ、いやよ！！　妊娠いやぁ！！」[pcms]
+[ns]Female Announcer[nse]
+"Hurry up uhhh!! Do it quickly!! I'm going to get pregnant!![r]
+No, I don't want this!! I don't want to get pregnant nooo!!"[pcms]
 
 ;//★HEV102e
 [evcg storage="HEV102e"][trans_c cross time=301]
@@ -1277,71 +1270,71 @@
 
 *11938|
 [fc]
-ウットリとした顔で余韻を楽しんでいた男は、別の男[r]
-に押しのけられて、画面の外で何かの機材をひっくり[r]
-返していた。[pcms]
+The man who had been enjoying the afterglow with a blissful[r]
+expression was pushed aside by another man who was flipping[r]
+over some equipment off-screen.[pcms]
 
 *11939|
 [fc]
-塞いでいたナニが引き抜かれて、女子アナのアソコか[r]
-ら男の出した精液が大量に流れ出し、尻の穴を濡らし[r]
-ながら床に垂れ落ちる。[pcms]
+As the thing that had been plugging her was pulled out, a[r]
+large amount of semen that the man had released flowed out[r]
+of the female announcer's pussy, wetting her butt hole and[r]
+dripping onto the floor.[pcms]
 
 *11940|
 [fc]
 [vo_mob s="0059"]
-[ns]女子アナ[nse]
-「誰か出してぇ！！　中の精子、全部出してっ！！[r]
-　妊娠する前に出してえぇっ！！」[pcms]
+[ns]Female Announcer[nse]
+"Someone get it out!! Get all the sperm out of me!! Before I[r]
+get pregnant pleaseee!!"[pcms]
 
 *11941|
 [fc]
-彼女のその願いに応えるように、最初の男を押しのけ[r]
-たヤツが、硬くなって脈打っているナニを、アソコに[r]
-近づけていく。[pcms]
+As if answering her plea, the guy who pushed away the first[r]
+man brought his hard, throbbing thing close to her place.[pcms]
 
 *11942|
 [fc]
-[ns]チーフＡＤ[nse]
-「し゛ゃあ俺のチンホ゜て゛掻き出してやるよぉ！！」[pcms]
+[ns]Chief AD[nse]
+"Then I'll scrape it out with my dick!!"[pcms]
 
 *11943|
 [fc]
 [vo_mob s="0060"]
-[ns]女子アナ[nse]
-「早く！！　早くうぅっ！！」[pcms]
+[ns]Female Announcer[nse]
+"Quickly!! Do it quickly uhhh!!"[pcms]
 
 *11944|
 [fc]
 [vo_kob s="koba0250"]
-[ns]小林[nse]
-「ふーっ…………ふーっ…………」[pcms]
+[ns]Kobayashi[nse]
+"Fu-... fu-..."[pcms]
 
 *11945|
 [fc]
-隣から聞こえてくる荒い呼吸にユウを見ると、顔を赤[r]
-くして、股間の部分を膨らませながら、ボンヤリとし[r]
-た目で女子アナがレイプされる様子を見つめていた。[pcms]
+Looking over at Yuu who was next to me with heavy breathing,[r]
+her face flushed red as she swelled up around her crotch[r]
+area, staring blankly at the female announcer being raped.[pcms]
 
 *11946|
 [fc]
-[ns]イケメンのアナウンサー[nse]
-「驚きて゛す！　瀧澤アナは中出しか゛大好きなよう[r]
-　て゛す！！　おまんこをハ゜クハ゜クさせなか゛ら、[r]
-　スタッフに中出しを求めています！！」[pcms]
+[ns]Handsome Announcer[nse]
+"It's surprising! Takizawa-san seems to love creampie! She's[r]
+begging for it from the staff while her pussy clenches[r]
+tightly around them!!"[pcms]
 
 *11947|
 [fc]
-[ns]チーフＡＤ[nse]
-「なんた゛よ、出して欲しいってそっちかよぉ！　俺、[r]
-　クレアちゃんのこと好きた゛ったのに、こんなイン[r]
-　ランた゛ったなんてカ゛ッカリた゛よ！！」[pcms]
+[ns]Chief AD[nse]
+"What's this? You want it out? That's what you're saying?! I[r]
+liked you, Claire-chan, but I'm disappointed to find out[r]
+you're such a slut!!"[pcms]
 
 *11948|
 [fc]
-ちっともガッカリしてないようなニヤけ顔で、男は腰[r]
-を突き出し、ナニを根元まで、女子アナのアソコへ挿[r]
-し込んだ。[pcms]
+With a grin that didn't look disappointed at all, the man[r]
+thrust his hips forward and inserted his thing all the way[r]
+into the female announcer's place.[pcms]
 
 ;//★ホワイトフラッシュ
 ;//★HEV102d
@@ -1358,190 +1351,180 @@
 *11949|
 [fc]
 [vo_mob s="0061"]
-[ns]女子アナ[nse]
-「んぐうぅっ！！」[pcms]
+[ns]Female Announcer[nse]
+"Nguuhh!!"[pcms]
 
 *11950|
 [fc]
-[ns]チーフＡＤ[nse]
-「サ゛ーメンとマンコ汁て゛、クレアちゃんの膣内、[r]
-　ヌルヌルて゛スケ゛ェ気持ちいい！！」[pcms]
+[ns]Chief AD[nse]
+"With semen and pussy juice mixed together, Claire-chan's[r]
+vagina is so slippery and incredibly pleasurable!!"[pcms]
 
 *11951|
 [fc]
-最初のヤツと同じように、男が激しくナニを出し入れ[r]
-すると、女子アナのアソコから、膣内に残っていた精[r]
-液が掻き出されて、彼女の腹や尻を汚していく。[pcms]
+Just like the first guy, as the man thrust his thing in and[r]
+out vigorously, semen remaining inside her was scraped out,[r]
+dirtying her stomach and butt.[pcms]
 
 *11952|
 [fc]
 [vo_mob s="0062"]
-[ns]女子アナ[nse]
-「んっ、うっ！　はぐっ……！　ぅぐ……精子、そん[r]
-　なに、中に擦りつけられたらぁ……ぁうっ！」[pcms]
+[ns]Female Announcer[nse]
+"Nnhh, ugh! Haguh...! Ugh... if you rub sperm inside me like[r]
+that... ahh!"[pcms]
 
 *11953|
 [fc]
-[ns]チーフＡＤ[nse]
-「クレアちゃんのマンコ、スケ゛ェ締め付けてきてる[r]
-　よ！！　そんなにサ゛ーメン欲しいの！？　クレア[r]
-　ちゃんっ！！」[pcms]
+[ns]Chief AD[nse]
+"Claire-chan's pussy is clenching so tight! Do you want that[r]
+much semen? Claire-chan!!"[pcms]
 
 *11954|
 [fc]
 [vo_mob s="0063"]
-[ns]女子アナ[nse]
-「いっ、や……んぅっ！！　く、あっ……ふぐぅっ！！[r]
-　お願い……くはっ！　んぐぅっ……もう……もう、[r]
-　出さないでぇ……！」[pcms]
+[ns]Female Announcer[nse]
+"Eek, ah... nghh! Fuguuhh! Please... kuhah! Nguuhh... don't[r]
+cum anymore...!"[pcms]
 
 *11955|
 [fc]
-[ns]イケメンのアナウンサー[nse]
-「瀧澤アナはこう言ってますか゛、中出ししたいて゛[r]
-　すよね！？」[pcms]
+[ns]Handsome Announcer[nse]
+"Takizawa-san is saying she wants to be creampied, right?!"[pcms]
 
 *11956|
 [fc]
-男アナにマイクを突きつけられて、女子アナを犯して[r]
-いる男は、締まりのない笑顔を浮かべた。[pcms]
+The man raping the female announcer showed a slack smile[r]
+when confronted with the microphone by the male announcer.[pcms]
 
 *11957|
 [fc]
-[ns]チーフＡＤ[nse]
-「マンコにもケツの穴にも、たっふ゜りた゛してやる[r]
-　からな！！　クレアちゃんっ！！」[pcms]
+[ns]Chief AD[nse]
+"I'll give you plenty inside both your pussy and your ass[r]
+hole! Claire-chan!!"[pcms]
 
 *11958|
 [fc]
 [vo_mob s="0064"]
-[ns]女子アナ[nse]
-「うぐぅっ！！　……っは、ぁぐっ……！！　奥、突[r]
-　かないでぇ……っ！！」[pcms]
+[ns]Female Announcer[nse]
+"Uguuhh!! ...hah, aguh...!! Don't poke me deep inside...!"[pcms]
 
 *11959|
 [fc]
-[ns]チーフＡＤ[nse]
-「奥？　奥にた゛して欲しいのか！？　奥ってここ！？[r]
-　もっと奥！？」[pcms]
+[ns]Chief AD[nse]
+"Deep inside? You want it deep inside? Here? Even deeper?!"[pcms]
 
 *11960|
 [fc]
-男は腰を振る速度を緩くして、代わりに一回一回、強[r]
-く女子アナのアソコを突いた。[pcms]
+The man slowed down the pace of his thrusting, and instead,[r]
+thrust strongly into the female announcer's pussy with each[r]
+movement.[pcms]
 
 *11961|
 [fc]
 [vo_mob s="0065"]
-[ns]女子アナ[nse]
-「ぅぐっ！　うっ、うぁっ！　いっ、やぁっ……！！[r]
-　響くのっ……いやぁっ……！！」[pcms]
+[ns]Female Announcer[nse]
+"Ugh! Ah, ugh! It's... echoing inside... no...!!"[pcms]
 
 *11962|
 [fc]
-[ns]チーフＡＤ[nse]
-「クレアちゃん、マンコ締まってるそ゛！！　この辺[r]
-　か゛気持ちいいのか！？」[pcms]
+[ns]Chief AD[nse]
+"Claire-chan, your pussy is clenching so tight! Does it feel[r]
+good right here?!"[pcms]
 
 *11963|
 [fc]
 [vo_mob s="0066"]
-[ns]女子アナ[nse]
-「違っ……ぁぐっ！！　ぐっ、んぐぅっ！！　も……[r]
-　やめ、てぇっ……！！」[pcms]
+[ns]Female Announcer[nse]
+"Not... ugh!! Gah, nguh!! Stop... please...!!"[pcms]
 
 *11964|
 [fc]
-[ns]チーフＡＤ[nse]
-「やめていいのか！？　し゛ゃもういくそ゛！？　ク[r]
-　レアちゃんのマンコの奥に、死ぬほと゛ふ゛っかけ[r]
-　てやるからな！！」[pcms]
+[ns]Chief AD[nse]
+"You want me to stop?! Then I'm going to cum now! I'll shoot[r]
+so much inside Claire-chan's pussy that you'll think you're[r]
+going to die!!"[pcms]
 
 *11965|
 [fc]
 [vo_mob s="0067"]
-[ns]女子アナ[nse]
-「だっ、めぇっ！！　もう中に出しちゃだめぇっ！！[r]
-　本当にやめてえぇっ！！」[pcms]
+[ns]Female Announcer[nse]
+"No, don't!! You can't cum inside anymore!! Please really[r]
+stop!!"[pcms]
 
 *11966|
 [fc]
-緩めていた速度をまた速くして、男は女子アナのアソ[r]
-コを激しく抉り始めた。[pcms]
+The man increased his speed again and began to furiously[r]
+ravage the female announcer's pussy.[pcms]
 
 *11967|
 [fc]
-２人の局部がたてる、ナニがアソコを掻き回す音と、[r]
-体液で濡れた体がぶつかり合う音が、近づけられた細[r]
-長いマイクに拾われて、大音量で流される。[pcms]
+The sounds of their genitals mixing and the wet slapping of[r]
+their fluids-covered bodies were picked up by the slender[r]
+microphone and broadcasted at high volume.[pcms]
 
 *11968|
 [fc]
 [vo_mob s="girl0047"]
-[ns]少女[nse]
-「ぷふっ、きゃははははっはははははっは！！！！[r]
-　なにあれー！　おかしー！　ぷぁははははは！！！」[pcms]
+[ns]Girl[nse]
+"Pfft, kyahaha! What's that?! It's so funny! Pwahaha!!"[pcms]
 
 *11969|
 [fc]
-突然し始めた笑い声に隣を見ると、大型モニターに映[r]
-し出されている光景を指さして、いつの間にかそこに[r]
-いた女の子が、大きな声でおかしそうに笑っていた。[pcms]
+Looking to the side at the sudden laughter, a girl who had[r]
+appeared out of nowhere was pointing at the scene displayed[r]
+on the large monitor and laughing loudly as if she found it[r]
+amusing.[pcms]
 
 *11970|
 [fc]
 [vo_mob s="girl0048"]
-[ns]少女[nse]
-「ふふふふあははあははあはは！！！！　おしりのあ[r]
-　な、まるみえー！　くふぁああはあふぁあはは！！！[r]
-　へんなおとー！　ふぁははくくはははは！！！！」[pcms]
+[ns]Girl[nse]
+"Fufufu... ahahaha! You can see her butt hole, it's so[r]
+clear! Kufahahaha! Such a weird noise! Fwahahahaha!!"[pcms]
 
 *11971|
 [fc]
-[ns]イケメンのアナウンサー[nse]
-「さぁ、ラストスハ゜ートて゛す！！　瀧澤アナのお[r]
-　まんこに、今回はと゛れた゛けの精液を中出して゛[r]
-　きるて゛しょうかっ！！」[pcms]
+[ns]Handsome Announcer[nse]
+"Now, for the last part! Will we be able to creampie all the[r]
+semen we've gathered today inside Takizawa-san's pussy?!"[pcms]
 
 *11972|
 [fc]
-[ns]チーフＡＤ[nse]
-「クレアちゃぁん！！　下っ端のじゃなくて、オレの[r]
-　子供産んて゛くれえぇっ！！！！」[pcms]
+[ns]Chief AD[nse]
+"Claire-chan!! Not from those lowly guys, but have my baby[r]
+instead!!"[pcms]
 
 *11973|
 [fc]
 [vo_mob s="0068"]
-[ns]女子アナ[nse]
-「ぁひっ！！　っぐぅ、うあぁっ！！　……おね、が[r]
-　いぃ……お願い、だからぁ……っ！！　中には、出[r]
-　さないでえぇっ……！！」[pcms]
+[ns]Female Announcer[nse]
+"Ah! Ugh, ughh!! ...please, I'm begging... please don't cum[r]
+inside...!!"[pcms]
 
 *11974|
 [fc]
-[ns]チーフＡＤ[nse]
-「あぁ～～～イク！！　イク～～～ああぁ～～！！[r]
-　マンコの中でイッちゃうよクレアちゃん！！」[pcms]
+[ns]Chief AD[nse]
+"Ahh~~~ I'm cumming!! I'm cumming~~~ ahhh~~~! I'm going to[r]
+cum inside your pussy, Claire-chan!!"[pcms]
 
 *11975|
 [fc]
 [vo_mob s="0069"]
-[ns]女子アナ[nse]
-「やぁっ……はふっ、うぐぅっ！！　妊、娠っ……い[r]
-　やあぁっ……！！　ぁぐっ、んぐうぅっ……！！」[pcms]
+[ns]Female Announcer[nse]
+"No... huff, ugh!! Pregnancy... no...!! Ahh, nguhh...!!"[pcms]
 
 *11976|
 [fc]
-男はナニを根元まで押し込んでから動きを止め、体を[r]
-ビクンと大きく振るわせた。[pcms]
+The man pushed his dick all the way to the base and then[r]
+stopped moving, his body shaking violently.[pcms]
 
 ;//★ホワイトフラッシュ
 [白フラ]
 
 *11977|
 [fc]
-[ns]チーフＡＤ[nse]
-「おおああぁぁ～～～っ！！！！」[pcms]
+[ns]Chief AD[nse]
+"Ohhh~~~!!!"[pcms]
 
 ;//★ホワイトフラッシュ
 [白フラ]
@@ -1549,8 +1532,8 @@
 *11978|
 [fc]
 [vo_mob s="0070"]
-[ns]女子アナ[nse]
-「んふぐうううぅぅっ……！！」[pcms]
+[ns]Female Announcer[nse]
+"Nfuguuuu...!!"[pcms]
 
 ;//★ホワイトフラッシュ　ゆっくりめに
 ;//★HEV102e
@@ -1562,118 +1545,118 @@
 
 *11979|
 [fc]
-男の射精は凄まじかったらしく、動かしたワケでもな[r]
-いのに、ナニとアソコの隙間から精液が漏れだしてき[r]
-ていた。[pcms]
+The man's ejaculation was apparently tremendous, and even[r]
+without moving, semen started leaking out from the gap[r]
+between his dick and her pussy.[pcms]
 
 *11980|
 [fc]
 [vo_mob s="0071"]
-[ns]女子アナ[nse]
-「ふ、ぅぐ……いやぁ……こんなに、いっぱい……中[r]
-　に出されたらぁ……」[pcms]
+[ns]Female Announcer[nse]
+"Huh, ugh... no... if you cum so much inside me..."[pcms]
 
 *11981|
 [fc]
-[ns]チーフＡＤ[nse]
-「大丈夫た゛って、クレアちゃん！　ケツの穴にも死[r]
-　ぬほと゛出してやるからさぁ！」[pcms]
+[ns]Chief AD[nse]
+"Don't worry about it, Claire-chan! I'll also give you[r]
+plenty inside your ass until you think you're going to die!"[pcms]
 
 *11982|
 [fc]
 [vo_mob s="0072"]
-[ns]女子アナ[nse]
-「ご、め……うぁ、ぐ、んぅ……ゆる、して……」[pcms]
+[ns]Female Announcer[nse]
+"Sorry... ugh, nguh... forgive me..."[pcms]
 
 *11983|
 [fc]
-精液を出し切ったらしい男がナニを引き抜き、女子ア[r]
-ナから離れると、黒くて細長いマイクを持った男が、[r]
-すかさず空いたアソコへそれを突っ込んだ。[pcms]
+After apparently finishing ejaculating, the man pulled out[r]
+his dick and stepped away from the female announcer. Then a[r]
+man holding a black, slender microphone immediately thrust[r]
+it into her now vacant pussy.[pcms]
 
 *11984|
 [fc]
-[ns]音声担当[nse]
-「へへ……ふへへへへ……これか゛クレアちゃんの、[r]
-　おまんこの中の音……スケヘ゛な音た゛ぁ……うぇ[r]
-　へへへへ……」[pcms]
+[ns]Voice Actor[nse]
+"Hehe... hehehehe... this is the sound of Claire-chan's[r]
+pussy... such a lewd noise... uwehehehe..."[pcms]
 
 *11985|
 [fc]
-[ns]フロアディレクター[nse]
-「カメラ寄れっ！！　瀧澤のマンコをアップ！！」[pcms]
+[ns]Floor Director[nse]
+"Get the camera closer!! Zoom in on Takizawa's pussy!!"[pcms]
 
 *11986|
 [fc]
-マイクを通して、女子アナの膣内の音が聞こえてくる[r]
-のと同時に、画面の外から聞こえてきた指示で、修正[r]
-のかかってない彼女のアソコがアップになった。[pcms]
+Through the microphone, the sound from inside the female[r]
+announcer's vagina could be heard, and at the same time, an[r]
+unedited close-up of her pussy appeared on screen following[r]
+instructions from off-camera.[pcms]
 
 ;//★HEV102b
 [evcg storage="HEV102b"][trans_c cross time=301]
 
 *11987|
 [fc]
-[ns]イケメンのアナウンサー[nse]
-「それて゛は、ここからは瀧澤アナの膣内の音を、生[r]
-　中継でお送りします！！　お茶の間のみなさんも、[r]
-　こ゛一緒にお楽しみくた゛さい！！」[pcms]
+[ns]Handsome Announcer[nse]
+"And now, we will broadcast live the sounds from inside[r]
+Takizawa-san's vagina! Everyone at home, please enjoy this[r]
+moment with us!!"[pcms]
 
 *11988|
 [fc]
-[ns]フロアディレクター[nse]
-「おい！　マイク動かしてもっと音出せ！！」[pcms]
+[ns]Floor Director[nse]
+"Hey! Move the microphone to make more noise!!"[pcms]
 
 *11989|
 [fc]
-[ns]音声担当[nse]
-「ふへっ……うぇへへ……」[pcms]
+[ns]Voice Actor[nse]
+"Fuh... uwehehe..."[pcms]
 
 *11990|
 [fc]
-女子アナのアソコへ突っ込んだマイクを男が動かすと、[r]
-膣内に出された精液が溢れ、女が体を痙攣させる。[pcms]
+As the man moved the microphone inserted into the female[r]
+announcer's pussy, semen spilled out from her vagina and she[r]
+convulsed.[pcms]
 
 *11991|
 [fc]
 [vo_mob s="0073"]
-[ns]女子アナ[nse]
-「ぅぐっ……んく、ぁ……はぁっ、ひぐっ……」[pcms]
+[ns]Female Announcer[nse]
+"Ugh... nkuh, ah... hahh, higu..."[pcms]
 
 *11992|
 [fc]
-[ns]イケメンのアナウンサー[nse]
-「そしてこの時間から、ＳＢＣ第２スタシ゛オにて、[r]
-　こ゛覧のみなさんに瀧澤アナのおまんこを開放いた[r]
-　します！！」[pcms]
+[ns]Handsome Announcer[nse]
+"And starting from this moment at SBC Studio 2, we are[r]
+opening up Takizawa-san's pussy to all of you watching!!"[pcms]
 
 *11993|
 [fc]
-[ns]イケメンのアナウンサー[nse]
-「お時間のある方は是非！　こ゛参加くた゛さい！！[r]
-　ＳＢＣアナウンサー、檜原昌紀て゛したー！！[r]
-　僕も中出しするぞー！！　ふ゛はははははっ！！！」[pcms]
+[ns]Handsome Announcer[nse]
+"If you have time, please join us!! This is SBC announcer[r]
+Masaki Hihara speaking!! I'm going to creampie her too!![r]
+Bwahahaha!!"[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
 *11994|
 [fc]
-女子アナの体に群がる男連中に、イケメンのアナウン[r]
-サーが加わったところで、レイプの実況中継は終わっ[r]
-た。[pcms]
+The live rape broadcast ended with the addition of the[r]
+handsome announcer to the group of men crowding around the[r]
+female announcer.[pcms]
 
 *11995|
 [fc]
-けど、レイプそのものが終わったワケじゃなく、画面[r]
-の中では今も女子アナが、大勢の男によってレイプさ[r]
-れ続けていた。[pcms]
+But that didn't mean the rape itself had ended; on screen,[r]
+the female announcer was still being raped by a large group[r]
+of men.[pcms]
 
 ;//------------------------------------------------
 [if exp="tf.scene_mode==1"]
 	[jump storage="b_scene.ks" target=*back_from_SR]
 ;	[link storage=sceneAgain]もう一度見る[endlink]
 ;	[link storage=sceneList]一覧に戻る[endlink]
-;	[s]
+[pcms]
 [endif]
 
 *KAISOU_PASS
@@ -1687,4 +1670,4 @@
 
 [jump storage="westtown_main10350.ks" target=*westtown_main10350_TOP]
 
-;//－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+;//

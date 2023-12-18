@@ -21,38 +21,35 @@
 
 *1856|
 [fc]
-くそ……、おれいがいだれもきがついてない……。[r]
-なおみもまだきがついてない……。[pcms]
+Damn... no one else has noticed except for me... Naomi[r]
+hasn't realized it yet either...[pcms]
 
 *1857|
 [fc]
-このままじゃ、だれかあいつにおそわれちまう……。[pcms]
+At this rate, someone will get attacked by that guy...[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
 *1858|
 [fc]
-どうせアイツ、いうこときかねーだろうし……。[r]
-……ぶんなぐってでも……。[r]
-アイツのトラック、うばって……。[pcms]
+Anyway, that guy won't listen to reason... Even if I have to[r]
+punch him... I'll steal his truck...[pcms]
 
 *1859|
 [fc]
-おれたちは、いえに……。[r]
-いえにかえるっ！！[pcms]
+We're going to go home... We're going to return home!![pcms]
 
 *1860|
 [fc]
-[ns]大倉[nse]
-「うぉぉぉおっ！！　くそオヤジ！！[r]
-　てめーのトラックのかぎ、おれたちによこせぇっ！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Uooooh!! Damn old man!! Hand over the keys to your truck to[r]
+us!"[pcms]
 
 [ChrSetEx layer=4 chbase="sugo_n06"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *tuia13|
 [fc]
-[ns]菅生[nse]
-「うぉあ！？　なっ……なんだてめっ！[r]
-　ぐあっ……！！」[pcms]
+[ns]Sugou[nse]
+"Whoa!? Wha... what the hell! Guah...!!"[pcms]
 
 [ChrSetEx layer=4 chbase="sugo_n07"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
@@ -68,15 +65,15 @@
 
 *1861|
 [fc]
-[ns]大倉[nse]
-「おら……かぎ、だせよ！！　トラックのかぎだよ！[r]
-　おれはいえにかえるんだよ！！[pcms]
+[ns]Ookura Hiroshi[nse]
+"Hey... hand over the keys!! The keys to the truck! I want[r]
+to go home!!"[pcms]
 
 [ChrSetEx layer=4 chbase="sugo_n04"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *tuia14|
 [fc]
-[ns]菅生[nse]
-「イテェっ！　こんの……クソガキがっ！！」[pcms]
+[ns]Sugou[nse]
+"Ouch! You little... brat!!"[pcms]
 
 ;//★ＳＥ：人を殴る
 [se0 storage="SE20"]
@@ -91,8 +88,8 @@
 *1862|
 [fc]
 [vo_nao s="naomi0152"]
-[ns]直美[nse]
-「その子に手を出すな！　このっ……バカオヤジが！」[pcms]
+[ns]Naomi[nse]
+"Don't lay a hand on that kid! You... stupid old man!"[pcms]
 
 ;//★ＳＥ：人を殴る
 [se0 storage="SE20"]
@@ -106,73 +103,66 @@
 [ChrSetEx layer=4 chbase="sugo_n07"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *tuia15|
 [fc]
-[ns]菅生[nse]
-「うがっ……ンだよテメェらよ！　みんなしてよっ！[r]
-　くそぉっ……トラックはぜってェわたさねぇっ！[r]
-　ありゃ、おれさまのモンだっ！」[pcms]
+[ns]Sugou[nse]
+"Ugh... What do you want from me! All of you! Damn it... I'm[r]
+not giving up the truck! That's mine!"[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *1863|
 [fc]
-途中から加勢した直美にまで殴られ、[r]
-オヤジは捨てぜりふを残してトラックへと[r]
-逃げていった。[pcms]
+Beaten up by Naomi who joined in midway, the old man left[r]
+some parting words and fled to his truck.[pcms]
 
 [ChrSetEx layer=4 chbase="sugo_n06"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *tuia16|
 [fc]
-[ns]菅生[nse]
-「くそっ……クソがよっ……おれさまのトラックぁ、[r]
-　だれにもさわらせねえっ……うぉっ！？　だっ……[r]
-　だれだテメッ！？」[pcms]
+[ns]Sugou[nse]
+"Damn it... Damn you all... No one's touching my truck...[r]
+Woah!? Wha... Who the hell are you!?"[pcms]
 
 *1864|
 [fc]
-[ns]チェック柄のシャツの男[nse]
-「お゛か゛ぁあぁぁぁ゛ぁあぁ！！[r]
-　て゛めぇ……うるせ゛ぇぇぇぇぇ！！」[pcms]
+[ns]Man in a plaid shirt[nse]
+"Gaaaaahhh!! You... shut uppppp!!"[pcms]
 
 *1865|
 [fc]
-[ns]大倉[nse]
-「あ……」[pcms]
+[ns]Ookura[nse]
+"Ah..."[pcms]
 
 *1866|
 [fc]
-トラックに乗り込もうとしていたオヤジを、[r]
-すぐそばに隠れていた何人かの男達が取り囲んでいた。[pcms]
+The old man, who was about to get into the truck, was[r]
+surrounded by several men who had been hiding nearby.[pcms]
 
 ;//★イベントCG　菅生の最後
 [evcg storage="NEV601"][trans_c cross time=301]
 
 *1867|
 [fc]
-[ns]菅生[nse]
-「ぎぁぁあぁあぁっぁぁぁぁぁぁぁぁああぁぁぁぁ！？[r]
-　ンだテメえらっ！？　うぉおおおぉぉお！？」[pcms]
+[ns]Sugou[nse]
+"Gyaaaaaaaahhhhh!? What do you want from me!? Woahhhhh!?"[pcms]
 
 *1868|
 [fc]
-[ns]チェック柄のシャツの男[nse]
-「うる゛せっていってんた゛ぁぁぁぁぁ！！」[pcms]
+[ns]Man in a plaid shirt[nse]
+"I said shut uuuuuup!!"[pcms]
 
 *1869|
 [fc]
-[ns]民族衣装をまとった男[nse]
-「はら゛へった゛ぁぁああああぁぁ！！」[pcms]
+[ns]A man dressed in ethnic clothing[nse]
+"I'm so hungryyyyyy!!"[pcms]
 
 *1870|
 [fc]
-[ns]頭が妙に長い男[nse]
-「ます゛そぉた゛けと゛おめぇて゛いい～～……、[r]
-　うおぉおぉ゛あぁ！」[pcms]
+[ns]A man with an unusually long head[nse]
+"You're just a nuisance... Uoooohhh!"[pcms]
 
 *1871|
 [fc]
-[ns]菅生[nse]
-「うぉぉぉあぁぁぁぁあぉぉあぁぁぁぁぉぁ！？[r]
-　ぎぃやぁぁあぁあぁぁぁぁあっっぁぁあぁぁ！！！」[pcms]
+[ns]Sugou[nse]
+"Woooooahhhhhhh!? Gyaaahhhhhhhh!!!"[pcms]
 
 ;//★地下搬入口
 ;消し
@@ -180,97 +170,92 @@
 
 *1872|
 [fc]
-オヤジの叫び声に、他にも何人もの奴らが飛び出して、[r]
-声のする方へ向かっていった。[pcms]
+At the old man's screams, several others emerged and headed[r]
+towards the source of the noise.[pcms]
 
 *1873|
 [fc]
-俺達は、うかつにトラックに近づかなかった為に、[r]
-命拾いをしたのだった。[pcms]
+Because we didn't carelessly approach the truck, we managed[r]
+to save our lives.[pcms]
 
 *1874|
 [fc]
-何人もの男達に捕まったオヤジの叫び声は、[r]
-だんだん高く細くなって、最後は息をする音だけが[r]
-聞こえてきた。[pcms]
+The screams of the old man caught by the men became higher[r]
+and thinner, and in the end, only the sound of breathing[r]
+could be heard.[pcms]
 
 *1875|
 [fc]
-なおみのいっていた『おそわれる』って、[r]
-こういうことだったのか！[pcms]
+So this is what Naomi meant by "getting attacked"![pcms]
 
 *1876|
 [fc]
-アイツらにおそわれたら、きっと……、きっと、[r]
-ころされるんだ！！[pcms]
+If we're attacked by them, we'll surely... surely be[r]
+killed!![pcms]
 
 *1877|
 [fc]
-[ns]大倉[nse]
-「あいつら……くそっ！！　やべぇ……やべぇよ！[r]
-　……！　トラックって、かぎ、ねーとうごかねぇん[r]
-　じゃねえのか？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Those guys... damn it!! This is bad... really bad! ...! The[r]
+truck, the keys, aren't they supposed to move without them?"[pcms]
 
 *1878|
 [fc]
-かぎ……そうだよな、たしか、かぎひねって、[r]
-うるせーおとがしてから、うごくんだよな……。[pcms]
+The keys... right, I remember, you turn the key and then[r]
+after some loud noise, it moves...[pcms]
 
 *1879|
 [fc]
-あのオヤジのってことは、アイツがいねーと、[r]
-かぎがない……。[pcms]
+That means if the old man's not here, there are no keys...[pcms]
 
 *1880|
 [fc]
-ここにこのままいたら……アイツらにおそわれる！[r]
-それに……おれ、いえに、かえれなくなっちまう！[pcms]
+If we stay here... we'll get attacked by them! And then... I[r]
+won't be able to go home![pcms]
 
 *1881|
 [fc]
-[ns]大倉[nse]
-「うああぁぁっ！？　はやみ……おれたち、いえ……、[r]
-　かえれねーかも……ん！？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Uwaaahh!? Hayami... we might not be able to go home...[r]
+huh!?"[pcms]
 
 [ChrSetEx layer=3 chbase="hayami_a12"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
 *1882|
 [fc]
 [vo_hay s="hayami1217"]
-[ns]ありす[nse]
-「……あれ？　あそこ、なんかひかってるよ？[r]
-　きらっ、きらっ、てしてる～♪」[pcms]
+[ns]Arisu[nse]
+"...Huh? Over there, something's shining? Sparkle,[r]
+sparkle~♪"[pcms]
 
 *1883|
 [fc]
-家に帰る術を失ったと思い落胆していた俺を尻目に、[r]
-速水が嬉しそうな声を上げて喜んでいた。[pcms]
+While I was feeling down thinking we had lost our way home,[r]
+Hayami cheerfully raised her voice in joy.[pcms]
 
 [ChrSetEx layer=2 chbase="turuta_n03"][ChrSetXY layer=2 x=0 y=0][trans_c cross time=150]
 *1884|
 [fc]
 [vo_nao s="naomi0153"]
-[ns]直美[nse]
-「……！？　あれは……鍵の束……。[r]
-　もしかして……あのトラックのも！？」[pcms]
+[ns]Naomi[nse]
+"...!? That's... a bunch of keys. Could it be... for that[r]
+truck too!?"[pcms]
 
 *1885|
 [fc]
-かぎ……？[r]
-トラックのかぎも……？[pcms]
+Keys...? The keys for the truck too...?[pcms]
 
 *1886|
 [fc]
-[ns]大倉[nse]
-「もしかして……いえ、かえれんのか！？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Could it be... we can go home!?"[pcms]
 
 [ChrSetEx layer=2 chbase="turuta_n01"][ChrSetXY layer=2 x=0 y=0][trans_c cross time=150]
 *1887|
 [fc]
 [vo_nao s="naomi0154"]
-[ns]直美[nse]
-「……やっぱり！　コレさえあれば！！[r]
-　みんな！　トラックに乗りなさい！！　これで……、[r]
-　これで、逃げるわ！！　急いで……っ」[pcms]
+[ns]Naomi[nse]
+"...Exactly! With these!! Everyone! Get on the truck!! With[r]
+this..., with this, we'll escape!! Hurry up...!"[pcms]
 
 ;//◎最後の「……っ」は、腹部の痛みに堪えている。
 ;//　以降の鶴田の台詞は、全て痛みを堪えている。
@@ -279,90 +264,83 @@
 
 *1888|
 [fc]
-やった……！[r]
-これで、おれたち……いえにかえれるんだ！[pcms]
+Yes...! With this, we can... go back home![pcms]
 
 *1889|
 [fc]
-[ns]大倉[nse]
-「かえる……かえれるんだ！！　おれたち……いえに、[r]
-　いえにかえるんだ！！　みんな、トラックにのるん[r]
-　だ！！　アイツらがくるまえに！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"We can go back... we can really go back!! We're going to go[r]
+home, everyone get on the truck before they come!"[pcms]
 
 [ChrSetEx layer=4 chbase="koba_t01"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *1890|
 [fc]
 [vo_kob s="koba0581"]
-[ns]小林[nse]
-「は～い♪　キミも、いっしょにいこう？」[pcms]
+[ns]Kobayashi[nse]
+"Yes~♪ Shall you join us too?"[pcms]
 
 ;消し
 [ChrSetEx layer=2 chbase="jinguji_h02"][ChrSetXY layer=2 x=0 y=0][trans_c cross time=150]
 *1891|
 [fc]
 [vo_may s="maya0844"]
-[ns]摩耶[nse]
-「わたしは……ひとりでいい……」[pcms]
+[ns]Maya[nse]
+"I'm fine on my own..."[pcms]
 
 [ChrSetEx layer=3 chbase="hayami_a06"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
 *1892|
 [fc]
 [vo_hay s="hayami1218"]
-[ns]ありす[nse]
-「え～！？　みんなでかえろ～？　あたしたちといっ[r]
-　しょに、いっしょにかえろうよ」[pcms]
+[ns]Arisu[nse]
+"Eh~!? Let's go back together~? Let's go back together with[r]
+us."[pcms]
 
 [ChrSetEx layer=2 chbase="jinguji_h04"][ChrSetXY layer=2 x=0 y=0][trans_c cross time=150]
 *1893|
 [fc]
 [vo_may s="maya0845"]
-[ns]摩耶[nse]
-「……ずっと……ずっといっしょにいてくれるか？[r]
-　わたしと……ずっと……」[pcms]
+[ns]Maya[nse]
+"...Will you always be with me? With me... always..."[pcms]
 
 *1894|
 [fc]
-[ns]大倉[nse]
-「ああ！　ずっといっしょにいてやるよ！！[r]
-　だから、おれたちといっしょにいこう！！[r]
-　さあ！　いっしょにかえろう！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Yeah! I'll always be with you!! So come with us!! Come on![r]
+Let's go back together!!"[pcms]
 
 [ChrSetEx layer=3 chbase="hayami_a04"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
 *1895|
 [fc]
 [vo_hay s="hayami1219"]
-[ns]ありす[nse]
-「そうだよ！　あたしたちと、ずっといっしょに……、[r]
-　ずっと、いっしょにいよう！」[pcms]
+[ns]Arisu[nse]
+"That's right! Stay with us forever..., forever together!"[pcms]
 
 [ChrSetEx layer=2 chbase="jinguji_b_01"][ChrSetXY layer=2 x=0 y=0][trans_c cross time=150]
 *1896|
 [fc]
 [vo_may s="maya0846"]
-[ns]摩耶[nse]
-「……わかった……わたしも、おまえたちに……、[r]
-　ついていく……いこう……いっしょに……」[pcms]
+[ns]Maya[nse]
+"...Okay... I'll follow you guys..., let's go together..."[pcms]
 
 [ChrSetEx layer=4 chbase="turuta_a01"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *1897|
 [fc]
 [vo_nao s="naomi0155"]
-[ns]直美[nse]
-「早く……っ！　みんな、乗り込め！！　出発するぞ！[r]
-　急いでっ！！」[pcms]
+[ns]Naomi[nse]
+"Quickly...! Everyone, get in!! We're departing! Hurry up!!"[pcms]
 
 *1898|
 [fc]
-[ns]大倉[nse]
-「わかった！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Got it!!"[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *1899|
 [fc]
-こうして俺達は、トラックに乗り込み、家へ……。[r]
-浮かんでは消える、懐かしいその場所へと帰る為、[r]
-トラックは動き出した。[pcms]
+And so, we got into the truck and headed home... To that[r]
+nostalgic place that appeared and disappeared in our minds,[r]
+the truck started moving.[pcms]
 
 ;//BLACKOUT
 [black_toplayer][trans_c cross time=1000][hide_chara_int]

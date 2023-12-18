@@ -17,29 +17,28 @@
 
 *16520|
 [fc]
-エレベーターに乗って、あたしはここから逃げる。[r]
-屋上でも一階でも、どこでもいい。[pcms]
+"Riding the elevator, I'm going to escape from here. Whether[r]
+it's the rooftop or the first floor, anywhere is fine."[pcms]
 
 *16521|
 [fc]
-この地獄から。[pcms]
+"From this hell."[pcms]
 
 *16522|
 [fc]
-外へ、一刻も早く。[pcms]
+"Outside, as quickly as possible."[pcms]
 
 *16523|
 [fc]
-エレベーターの扉が閉じる。[pcms]
+"The elevator doors close."[pcms]
 
 *16524|
 [fc]
-このエレベーターで、どこかに逃げるんだ……。[pcms]
+"With this elevator, I'll escape somewhere..."[pcms]
 
 *16525|
 [fc]
-でも……それは、妄想……。[r]
-今のあたしは……。[pcms]
+"But... that's just a delusion... The current me is..."[pcms]
 
 ;//♪：bgm009 stop
 [fadeoutbgm time=1][wb]
@@ -70,132 +69,120 @@
 *16526|
 [fc]
 [vo_hay s="hayami0652"]
-[ns]ありす[nse]
-「うわっ！　やっ！　こんなのいやだぁ！！[r]
-　降ろしてよ！！　うあわぁぁあぁあん！」[pcms]
+[ns]Arisu[nse]
+"Uwah! No! I don't want this!! Let me off!! Uwaaaahhh!"[pcms]
 
 *16527|
 [fc]
-今のあたしは、まるで子供がおしっこをさせられる[r]
-様な格好をさせられている。[pcms]
+"Right now, I'm being made to pose like a child being forced[r]
+to pee."[pcms]
 
 *16528|
 [fc]
-今日一日、死にたいと何度思っただろう。[r]
-屈辱と、恥辱にまみれた今日。[pcms]
+"How many times today did I wish to die? Today was filled[r]
+with humiliation and disgrace."[pcms]
 
 *16529|
 [fc]
-初めて訪れた土地で。[r]
-初めて出逢った人達に。[pcms]
+"In a land I visited for the first time. By people I met for[r]
+the first time."[pcms]
 
 *16530|
 [fc]
-普通であれば、とても出来ないことをしてのける、[r]
-イカレた人達に。[pcms]
+"By crazy people who could do things that normally, one[r]
+could never do."[pcms]
 
 *16531|
 [fc]
-初めてを奪われ、惨めな格好をさせられて、[r]
-蹂躙された。[pcms]
+"My first time was taken, and I was made to look miserable[r]
+and was trampled upon."[pcms]
 
 *16532|
 [fc]
-そして、今また、あたしは……。[pcms]
+"And now, once again, I am..."[pcms]
 
 *16533|
 [fc]
-こんな……。[pcms]
+"Like this..."[pcms]
 
 *16534|
 [fc]
-[ns]全裸で抱え上げる男[nse]
-「ふ゛は゛あ゛ぁぁ！！[r]
-　か゛るい゛ぃ、な゛あ゛あ゛ぁ！！[r]
-　め、し、ちゃんとくって゛んのか゛あ゛あ゛！？」[pcms]
+[ns]A man who lifts up while naked[nse]
+"Buhahaaa!! It's so heavy, naaah!! Are you, eating[r]
+properly?!"[pcms]
 
 *16535|
 [fc]
-[ns]スーツ姿で自慰をする男[nse]
-「せーふく！　せーふく！！　いや゛ぁほ゛ぉ゛～！」[pcms]
+[ns]A man masturbating in a suit[nse]
+"School uniform! School uniform!! Yaaah, boooh~!"[pcms]
 
 *16536|
 [fc]
-[ns]ただ呆然と立つ男[nse]
-「く゛つ゛し゛た゛、ま、まにあっく゛～！[r]
-　かわ、いいな゛あ゛～～！！」[pcms]
+[ns]A man standing dumbfounded[nse]
+"Ruined shoes, ma-maniac~! Cute, naaah~~!!"[pcms]
 
 *16537|
 [fc]
-[ns]全裸で自慰をする男[nse]
-「て゛け゛え゛～～……おっは゛い゛ぃ゛～～！[r]
-　は゛り゛か゛ぁ゛って゛ぇ～～……おい゛しそ゛～」[pcms]
+[ns]A man masturbating naked[nse]
+"So big~~...boobs~~! Getting hard~~...delicious~~"[pcms]
 
 *16538|
 [fc]
 [vo_hay s="hayami0653"]
-[ns]ありす[nse]
-「酷いよ！！　酷すぎるよ！　こんなの無いよ！！[r]
-　降ろしてよ！！　恥ずかしいよぉ！！[r]
-　うわあぁぁああん！　あああぁぁぁあぁん！」[pcms]
+[ns]Arisu[nse]
+"It's terrible!! Too terrible! This shouldn't be happening!![r]
+Let me off!! I'm embarrassed!! Uwaaaahhh! Aaaahhhhh!"[pcms]
 
 *16539|
 [fc]
-あたしを見て笑う人。[r]
-あたしを見てオナニーしているヘンタイ。[r]
-あたしを抱え上げて、喜んでいるヘンタイ。[pcms]
+"People laughing at me. Perverts masturbating while looking[r]
+at me. Perverts lifting me up and rejoicing."[pcms]
 
 *16540|
 [fc]
-あたしの周りを、長崎さんの言うような[r]
-『汚らしいクズ』が取り囲み、あたしを見て[r]
-喜んでいる。[pcms]
+"Around me are the 'filthy trash' that Nagasaki-san talks[r]
+about, surrounding me and taking pleasure in it."[pcms]
 
 *16541|
 [fc]
-[ns]全裸で寝そべる男[nse]
-「い゛い゛なか゛めえ～～……むね゛ぇ～～！！[r]
-　お゛ま゛んこ゛ぉお゛お゛～～！[r]
-　なんか゛た゛れ゛て゛る゛～～……！！」[pcms]
+[ns]A man lying down naked[nse]
+"Such a nice view~~...boobs~~!! Pussy~~! It's getting[r]
+wet~~...!!"[pcms]
 
 *16542|
 [fc]
-[ns]スーツ姿で自慰をする男[nse]
-「ほ゛んと゛た゛あ゛～～……おまんこ゛、[r]
-　ひ゛しょひ゛しょぉ～～……」[pcms]
+[ns]A man masturbating in a suit[nse]
+"Really now~~...pussy, soaking wet~~..."[pcms]
 
 *16543|
 [fc]
-[ns]全裸で抱きかかえる男[nse]
-「お、お゛れも゛たって゛き゛た゛あ゛～～！[r]
-　せ゛な゛か゛あ゛～～す゛へ゛す゛へ゛～～……、[r]
-　き゛も゛ち゛い゛い゛～～！！」[pcms]
+[ns]A man who embraces in the nude[nse]
+"Oh, I'm getting hard~~! Your back~~ smooth smooth~~...feels[r]
+so good~~!!"[pcms]
 
 *16544|
 [fc]
 [vo_hay s="hayami0654"]
-[ns]ありす[nse]
-「やあぁぁあ！！　いやだ！　気持ち悪いっ！！[r]
-　やあぁあああ！！　やめてぇ！！」[pcms]
+[ns]Alice[nse]
+"Nooo!! I don't want this! It's disgusting!! Nooo!! Stop[r]
+it!!"[pcms]
 
 *16545|
 [fc]
-[ns]全裸で寝そべる男[nse]
-「お゛お～……お゛れ゛～～……い゛れ゛た゛い゛ぃ！[r]
-　か゛ま゛ん゛て゛き゛な゛い゛ぃぃぃぃ～～！！」[pcms]
+[ns]A man lying down naked[nse]
+"Oooh...I'm gonna come~~...I can't hold it any longer~~!!"[pcms]
 
 *16546|
 [fc]
-[ns]全裸で抱きかかえる男[nse]
-「あは゛あ゛～！　こ゛れ゛か゛らぁ～～……、[r]
-　おもし゛ろ゛い゛……し゛っけ゛んを～～……、[r]
-　は゛し゛めま、す゛～～……」[pcms]
+[ns]A man who embraces in the nude[nse]
+"Ahaha~! From now on~...it's going to be an[r]
+interesting...event~..."[pcms]
 
 *16547|
 [fc]
-あたしを抱えている人は、喉を押し潰した様な声で[r]
-笑った後、大きく息を吸い込んで、下にそそり立つ[r]
-ガチガチのアレ目がけて、一気に体を降ろした。[pcms]
+"The person holding me laughed with a voice like a crushed[r]
+throat, took a deep breath, and then dropped my body down[r]
+onto his rock-hard dick in one swift move."[pcms]
 
 ;//★レッドフラッシュ
 [赤フラ]
@@ -206,61 +193,56 @@
 *16548|
 [fc]
 [vo_hay s="hayami0655"]
-[ns]ありす[nse]
-「ひっ……ひぎっ！？　うああぁあぁあっ！？[r]
-　いっ……いやあぁあぁ！！　痛いッ！！[r]
-　痛いっ！」[pcms]
+[ns]Arisu[nse]
+"Hik...higii!? Uwaaaahhh!? No...noooo!! It hurts!! It[r]
+hurts!"[pcms]
 
 *16549|
 [fc]
-[ns]全裸で寝そべる男[nse]
-「お゛お゛お゛ぉ～～……！？[r]
-　ぬ゛るっ゛と゛す゛るう゛～～……？？」[pcms]
+[ns]A man lying down naked[nse]
+"Ooooh...!? Slipping in smoothly...??"[pcms]
 
 *16550|
 [fc]
-[ns]全裸で抱きかかえる男[nse]
-「ふ゛はあ゛ぁ～～！！　こ゛れ゛か゛ら゛～～……、[r]
-　も゛っと゛ぉ～～……おもし゛ろ゛く゛～……なり[r]
-　ます゛～～……」[pcms]
+[ns]A man who embraces in the nude[nse]
+"Buhahaaa~!! From now on~...it's going to be even[r]
+more...fun~..."[pcms]
 
 *16551|
 [fc]
 [vo_hay s="hayami0656"]
-[ns]ありす[nse]
-「わあっ！！　あうぅっ！！　奥にっ……くうっ……、[r]
-　刺さるっ！　んあぁぁあっ……！？」[pcms]
+[ns]Arisu[nse]
+"Waaah!! Auuuhh!! It's hitting deep inside...kuuhh..., it's[r]
+piercing! Naaahhh...!?"[pcms]
 
 *16552|
 [fc]
-……！？[r]
-何……これ……？　あたし、おかしくなったの……？[r]
-どうして……？[pcms]
+"...!? What...is this...? Have I gone crazy? Why...?"[pcms]
 
 *16553|
 [fc]
-どうして、こんな事されているのに、気持ちいい？[pcms]
+"Why does it feel good even though I'm being treated like[r]
+this?"[pcms]
 
 *16554|
 [fc]
-あたし……どうしちゃったのかな！？[pcms]
+"What's happening to me!?"[pcms]
 
 *16555|
 [fc]
-少し前から、あたしの頭、ヘンだ！！[pcms]
+"Since a little while ago, my head has been strange!!"[pcms]
 
 *16556|
 [fc]
 [vo_hay s="hayami0657"]
-[ns]ありす[nse]
-「くうっ……ふ、深いよ……ヘン……ヘンだよぉ！[r]
-　やっ……やああぁぁ、んあっ……」[pcms]
+[ns]Arisu[nse]
+"Kuuhh...it's deep...weird...it's strange! Noo...nooo,[r]
+naaahh..."[pcms]
 
 *16557|
 [fc]
-[ns]全裸で抱きかかえる男[nse]
-「へあ゛あ゛～～……か゛ん゛し゛て゛る～～……！[r]
-　い゛く゛そ゛ぉ゛～～……」[pcms]
+[ns]A man who embraces in the nude[nse]
+"Heeaaah~~...I'm going to come~~...so good~~..."[pcms]
 
 ;//★イベントＣＧ＿Ａ
 [evcg storage="HEV216a"][trans_c cross time=301]
@@ -268,52 +250,47 @@
 *16558|
 [fc]
 [vo_hay s="hayami0658"]
-[ns]ありす[nse]
-「ああぁぁっ……あっ……ううんっ……、[r]
-　や……やめてぇ………あうっ……、な、中がっ……[r]
-　こす……れ……あぁぁあっう！！」[pcms]
+[ns]Arisu[nse]
+"Aaahhh...ahh...uh-uhn..., stop...stop it...auuhh..., inside[r]
+is being...rubbed...aaahhhhh!"[pcms]
 
 ;//★イベントＣＧ＿Ｂ
 [evcg storage="HEV216b"][trans_c cross time=301]
 
 *16559|
 [fc]
-[ns]全裸で寝そべる男[nse]
-「お゛あ゛あ゛～～、い゛い゛～～……、[r]
-　お゛ま゛ん゛こ゛ぉ～～ぬ゛る゛ぬ゛る゛うぅ～！」[pcms]
+[ns]A man lying down naked[nse]
+"Ooohh~~, feels good~~..., pussy is so slippery~~!"[pcms]
 
 *16560|
 [fc]
 [vo_hay s="hayami0659"]
-[ns]ありす[nse]
-「んっ……くぁあぁっ……、いっ……いやっ、いやあ！[r]
-　ヘンだよぉ！　こんなの……あっ、あっ……、[r]
-　お腹の、お、く……がっ……、うあぁあっぁっっ！」[pcms]
+[ns]Alice[nse]
+"Nnhh...quaaahh..., noo, nooo! It's strange! Like[r]
+this...ahh, ahh..., my stomach, oh, inside is[r]
+being...uaaahhhhhh!"[pcms]
 
 *16561|
 [fc]
-あたしの体は軽々と上下させられて、その結果、[r]
-下に寝そべる人のおちんちんを擦り上げる事になって[r]
-しまっていた。[pcms]
+"My body was easily moved up and down, and as a result, I[r]
+ended up rubbing against the dick of the person lying[r]
+below."[pcms]
 
 *16562|
 [fc]
-[ns]全裸で抱きかかえる男[nse]
-「な゛ん゛た゛あ～～……よか゛っ、て゛る～～……[r]
-　こ゛れか゛ぁ゛、い゛い゛のか゛あ～～！？[r]
-　き゛も゛ち゛いいのか゛あ゛～～！？」[pcms]
+[ns]A man who embraces in the nude[nse]
+"What's this~~...feels good~~...is this what feels good?! It[r]
+feels so good~~!"[pcms]
 
 *16563|
 [fc]
-[ns]スーツ姿で自慰する男[nse]
-「お゛っは゛い゛ゆさ゛ゆさ゛あ゛～～……、[r]
-　やわ゛ら゛か゛そ゛ぉ゛～～……！」[pcms]
+[ns]A man masturbating in a suit[nse]
+"Ohh, soft and squishy~~..."[pcms]
 
 *16564|
 [fc]
-[ns]呆然と立つ男[nse]
-「お……たって、き……たあ～～……、[r]
-　いい、な、がめ～……」[pcms]
+[ns]A man standing in a daze[nse]
+"Oh...it's standing up now~~..., such a nice view~..."[pcms]
 
 ;//★イベントＣＧ＿Ａ
 [evcg storage="HEV216a"][trans_c cross time=301]
@@ -321,30 +298,29 @@
 *16565|
 [fc]
 [vo_hay s="hayami0660"]
-[ns]ありす[nse]
-「うあっ……いりぐち……ひっかかって……、[r]
-　あうっ……んあっ……こ、こすれるっ！[r]
-　おちんちん……こすれて……あっ！」[pcms]
+[ns]Arisu[nse]
+"Ughh...the entrance is catching..., auuhh...naaahh..., it's[r]
+rubbing! The dick is rubbing against it...ahh!"[pcms]
 
 *16566|
 [fc]
-あたしの意思とは関係なく上下させられて、[r]
-そのたびに、アソコの入り口とクリに、おちんちんが[r]
-当たって、背筋と頭の中を電気が走る。[pcms]
+"Without my control, I was moved up and down, and each time,[r]
+the dick would hit the entrance of my pussy and my clit,[r]
+sending electric shocks through my spine and head."[pcms]
 
 *16567|
 [fc]
-体中をおかしな感覚が襲う。[pcms]
+"Strange sensations are attacking my whole body."[pcms]
 
 *16568|
 [fc]
-最初に感じた恐怖や、恥ずかしさは、もうどうでも[r]
-良くなってきていた。[pcms]
+"The fear and embarrassment I first felt were becoming[r]
+irrelevant."[pcms]
 
 *16569|
 [fc]
-むしろ、この人達から与えられる刺激が、[r]
-だんだん心地いいモノに変わってきていた。[pcms]
+"Rather, the stimulation given by these people was gradually[r]
+turning into something comfortable."[pcms]
 
 ;//★イベントＣＧ＿Ｂ
 [evcg storage="HEV216b"][trans_c cross time=301]
@@ -352,98 +328,90 @@
 *16570|
 [fc]
 [vo_hay s="hayami0661"]
-[ns]ありす[nse]
-「うあうっ……あっ……あうっ！[r]
-　ふかいっ……おなかの、おくに、ささるっ！！[r]
-　ふあっ……はっ、はっ……うあうっ……」[pcms]
+[ns]Arisu[nse]
+"Ugh...ah...auh! It's deep...inside my stomach, it's[r]
+piercing!! Ahh...hah, hah...ugh..."[pcms]
 
 *16571|
 [fc]
-こんな事されているのに……。[r]
-あたし……どうしちゃったんだろう……。[pcms]
+Even though this is happening to me... What's happening to[r]
+me...?[pcms]
 
 *16572|
 [fc]
-こんなのが気持ちいいはずなんて、無いのに！[pcms]
+There's no way something like this should feel good![pcms]
 
 *16573|
 [fc]
 [vo_hay s="hayami0662"]
-[ns]ありす[nse]
-「んああっ……もう……こんなの……んっ……、[r]
-　や、やめて……おろしてくださいっ……」[pcms]
+[ns]Arisu[nse]
+"Nnahh...no more...like this...nnh..., stop, please let me[r]
+down..."[pcms]
 
 ;//★イベントＣＧ＿Ａ
 [evcg storage="HEV216a"][trans_c cross time=301]
 
 *16574|
 [fc]
-[ns]全裸で寝そべる男[nse]
-「さ゛き゛っち゛ょい゛い゛～～……、[r]
-　し゛ま゛る゛う～～！！」[pcms]
+[ns]A man lying down naked[nse]
+"This feels so good~~... I'm gonna cum~~!!"[pcms]
 
 *16575|
 [fc]
-[ns]スーツ姿で自慰をする男[nse]
-「おと゛す゛る～～！　い゛やら゛し゛いお゛と゛～[r]
-　にち゛ゃっ゛にち゛ゃっ゛って゛え～～！」[pcms]
+[ns]A man masturbating in a suit[nse]
+"It's dripping~~! Such a naughty sound~ squishy squishy, so[r]
+good~~!"[pcms]
 
 *16576|
 [fc]
 [vo_hay s="hayami0663"]
-[ns]ありす[nse]
-「やああっ！？　そ、んなあっ……おと……なんて、[r]
-　くうっ……、しないっ……あうっ……」[pcms]
+[ns]Arisu[nse]
+"Yaaah!? Su-such a sound...I won't make...ugh..., don't do[r]
+it...auh..."[pcms]
 
 *16577|
 [fc]
-[ns]全裸で抱きかかえる男[nse]
-「せ゛な゛か゛あ゛～～……こ゛す゛れ゛て゛え～！[r]
-　い゛い゛～～！」[pcms]
+[ns]A man who embraces in the nude[nse]
+"Your back~~...it feels so good to rub it~~! So good~~!"[pcms]
 
 *16578|
 [fc]
 [vo_hay s="hayami0664"]
-[ns]ありす[nse]
-「あついっ……せ、なかもっ……アソコも……、[r]
-　あうっ……いやあぁあっ……クリ……こすらないで、[r]
-　いやぁああ！！」[pcms]
+[ns]Arisu[nse]
+"It's hot...my back and also my pussy..., ahh...noo, don't[r]
+rub the clit, nooo!!"[pcms]
 
 *16579|
 [fc]
-あたしの下の人のおちんちんが、ぴくんってする[r]
-たびに、アソコとクリを擦る。[pcms]
+Every time the dick of the person below me twitches, it rubs[r]
+against my pussy and clit.[pcms]
 
 *16580|
 [fc]
-き……きもちいいよ……、[r]
-頭の中……あついよ……、ヘンだよ……あたし……。[pcms]
+It feels good...my head is hot..., it's strange...I'm...[pcms]
 
 *16581|
 [fc]
 [vo_hay s="hayami0665"]
-[ns]ありす[nse]
-「あううっ……もっと……もっとぉッ！[r]
-　なか……、もっとえぐってえっ！　もっと、[r]
-　めちゃくちゃについてっ！　あうっ……ああっ……」[pcms]
+[ns]Arisu[nse]
+"Ahh...more...more! Inside..., dig deeper! Mess me up more,[r]
+ahh...ahh..."[pcms]
 
 *16582|
 [fc]
-[ns]全裸で寝そべる男[nse]
-「ああ゛～～……あ゛っつ゛い゛い゛～～……。[r]
-　おま゛んこ゛～……あつ゛い゛～～……」[pcms]
+[ns]A man lying down naked[nse]
+"Aah~~...it's so hot~~... Your pussy~ is hot~~..."[pcms]
 
 *16583|
 [fc]
-[ns]スーツ姿で自慰をする男[nse]
-「えき゛た゛れてる～……い゛いなあ゛～～……、[r]
-　お゛れも゛……い゛れて゛え～～！」[pcms]
+[ns]A man masturbating in a suit[nse]
+"It's drenched...so nice~~..., I'm gonna put it in too~~!"[pcms]
 
 *16584|
 [fc]
-[ns]呆然と立つ男[nse]
-「おんなの、こ、よ、ろこん、で……る……、[r]
-　か、わいい、い、こえ～……」[pcms]
+[ns]A man standing in a daze[nse]
+"The woman's, co, moaning..., so cute, such a cute[r]
+voice~~..."[pcms]
 
 ;//★ホワイトフラッシュ
 [白フラ]
@@ -454,77 +422,74 @@
 *16585|
 [fc]
 [vo_hay s="hayami0666"]
-[ns]ありす[nse]
-「んっ……あうう――ッ！！　ぐっ……、[r]
-　うあっ……、あっ、ああっ……、いいっ……、[r]
-　いいよぉ……、あたし、ヘンになるっ……」[pcms]
+[ns]Alice[nse]
+"Nnh...ahhh--!! Ghh..., ugh..., ah, ahh..., good..., it's[r]
+good..., I'm going crazy..."[pcms]
 
 *16586|
 [fc]
-[ns]全裸で寝そべる男[nse]
-「うあ～～……あた゛る～……さき゛か゛あ～～、[r]
-　あた゛って゛ぇ～～……」[pcms]
+[ns]A man lying down naked[nse]
+"Uwah~~...it's throbbing~...the tip is~, it's[r]
+throbbing~~..."[pcms]
 
 *16587|
 [fc]
-おちんちんが、お腹の奥に突き刺さる。[pcms]
+The dick pierces deep into my stomach.[pcms]
 
 *16588|
 [fc]
-それはまるで、あたしの脳天まで一気に突き刺さった[r]
-ように快感に代わり、突き抜ける。[pcms]
+It felt as if it pierced straight through to my brain,[r]
+turning into pleasure and breaking through.[pcms]
 
 *16589|
 [fc]
 [vo_hay s="hayami0667"]
-[ns]ありす[nse]
-「ああっ……うあっ……くるしっ……おなか、く、[r]
-　くるしいっ……ううっ……おなか、がっ！」[pcms]
+[ns]Alice[nse]
+"Ahh...ugh...it hurts...my stomach, it hurts..., ugh...my[r]
+stomach!"[pcms]
 
 ;//★イベントＣＧ＿Ａ
 [evcg storage="HEV216a"][trans_c cross time=301]
 
 *16590|
 [fc]
-アソコを出たり入ったりする音が、周りの人の罵声に[r]
-紛れて聞こえてくる。[pcms]
+The sound of the dick going in and out is mixed with the[r]
+jeers of the people around.[pcms]
 
 *16591|
 [fc]
-粘りけを帯びた水音が、あたしの耳の中に[r]
-入ってくる。[pcms]
+The sticky sound of wetness enters my ears.[pcms]
 
 *16592|
 [fc]
-やだ……、あたし、今沢山溢れてる……。[r]
-こんなになるなんて……。[pcms]
+No..., I'm overflowing so much right now. I didn't expect to[r]
+become like this...[pcms]
 
 *16593|
 [fc]
-でも、どうして……？[pcms]
+But why...?[pcms]
 
 *16594|
 [fc]
-イヤなのに。[r]
-こんなヘンな事されてるのに……！？[r]
-なんか、頭の中がほわほわしてきた……。[pcms]
+Even though I hate this. Even though I'm being subjected to[r]
+such weird things...! Something is making my head feel[r]
+fuzzy...[pcms]
 
 *16595|
 [fc]
-クリも、入り口の所もビリビリして、[r]
-お腹の中が、ぎゅうってし始めた。[pcms]
+My clit and the entrance are tingling, and my insides are[r]
+starting to clench.[pcms]
 
 *16596|
 [fc]
-また、あの感じ……、頭の中がふわって……。[r]
-イッちゃうの……？[r]
-あたし、こんなので、また……！？[pcms]
+That feeling again..., my head is getting light.... Am I[r]
+going to cum? Am I going to cum again from this...!?[pcms]
 
 *16597|
 [fc]
-頭の中が真っ白になりかけたとき、あたしを[r]
-持ち上げていた力がスッと抜けて、[r]
-勢いよくおちんちんが、お腹の奥に突き刺さった。[pcms]
+Just as my head was about to go blank, the force lifting me[r]
+up suddenly released, and the dick forcefully pierced deep[r]
+into my stomach.[pcms]
 
 ;//★ホワイトフラッシュ
 [白フラ]
@@ -535,58 +500,54 @@
 *16598|
 [fc]
 [vo_hay s="hayami0668"]
-[ns]ありす[nse]
-「あ――ッ！　あああ――ッ！！　あた、あたまっ！[r]
-　きゅうにッ！？　ヘン……、イッ……イッちゃう！！[r]
-　あうっ！　あああぁぁっ！？」[pcms]
+[ns]Alice[nse]
+"Ah--! Aaah--!! My head! Suddenly!? It's strange..., I'm[r]
+cumming...I'm cumming!! Ahh! Aaahhh?!"[pcms]
 
 *16599|
 [fc]
-[ns]全裸で寝そべる男[nse]
-「あ～～、あ～～……、お゛れえ゛～～、もう゛～、[r]
-　も゛う～～……！」[pcms]
+[ns]A man lying down naked[nse]
+"Aah~, aah~..., I'm gonna~, I'm gonna cum~...!"[pcms]
 
 *16600|
 [fc]
-[ns]全裸で抱きかかえる男[nse]
-「よ゛お゛～～し……と゛と゛め゛え……く゛れ゛て[r]
-　やる～～……！」[pcms]
+[ns]A man who embraces in the nude[nse]
+"Alright~...I'm gonna do it thoroughly and make you feel[r]
+good~...!"[pcms]
 
 *16601|
 [fc]
-[ns]スーツ姿で自慰する男[nse]
-「おっ……お゛おおっ……す゛け゛っ……、お゛れ、[r]
-　お゛れも……て゛るっ……」[pcms]
+[ns]A man masturbating in a suit[nse]
+"Ohh...ohhh...it's amazing..., I'm gonna do it too..."[pcms]
 
 *16602|
 [fc]
-[ns]呆然と立つ男[nse]
-「ああうっ……、で、でる、でる、でる……」[pcms]
+[ns]A man standing in a daze[nse]
+"Aaahh..., I'm gonna cum, cum, cum..."[pcms]
 
 *16603|
 [fc]
-[ns]全裸で自慰をする男[nse]
-「ああ～～～……、あああ～～……！！」[pcms]
+[ns]A man masturbating naked[nse]
+"Aaah~~~..., aaah~~~...!!"[pcms]
 
 *16604|
 [fc]
-周りでオナニーをしている男の人達の手の動きが[r]
-速まるのと一緒に、あたしの体は勢いよく宙に[r]
-浮かされた。[pcms]
+The hand movements of the men masturbating around me sped up[r]
+in unison with my body being vigorously lifted into the air.[pcms]
 
 ;//★イベントＣＧ＿Ａ
 [evcg storage="HEV216a"][trans_c cross time=301]
 
 *16605|
 [fc]
-[ns]全裸で抱きかかえる男[nse]
-「せ゛え、の゛……うは゛あ～～……！」[pcms]
+[ns]A man who embraces in the nude[nse]
+"Your voice~...uhwah~~..."[pcms]
 
 *16606|
 [fc]
 [vo_hay s="hayami0669"]
-[ns]ありす[nse]
-「あうっ……ひっ……、あ、あああっ！」[pcms]
+[ns]Alice[nse]
+"Ahh...hic..., ah, ahhh!"[pcms]
 
 ;//★ホワイトフラッシュ
 [白フラ]
@@ -597,9 +558,9 @@
 *16607|
 [fc]
 [vo_hay s="hayami0670"]
-[ns]ありす[nse]
-「いやあっ！！　あああっ！！　うああっ！！[r]
-　イッ……イクッ！！　イクうぅぅぅぅっ！！」[pcms]
+[ns]Alice[nse]
+"No! Aaah!! Uwahh!! Cumming...I'm cumming!! I'm[r]
+cummingggg!!"[pcms]
 
 ;//★ホワイトフラッシュ
 [白フラ]
@@ -609,32 +570,30 @@
 
 *16608|
 [fc]
-[ns]全裸で自慰する男[nse]
-「うあ゛～～！！！！」[pcms]
+[ns]A man masturbating naked[nse]
+"Uwah~~!!!!!"[pcms]
 
 *16609|
 [fc]
-[ns]スーツ姿で自慰する男[nse]
-「うはああっ！」[pcms]
+[ns]A man masturbating in a suit[nse]
+"Uwahhh!"[pcms]
 
 *16610|
 [fc]
-[ns]呆然と立つ男[nse]
-「うああぅっ！」[pcms]
+[ns]A man standing in a daze[nse]
+"Uwahh!"[pcms]
 
 *16611|
 [fc]
-[ns]全裸で寝そべる男[nse]
-「お゛あ゛～……き゛も゛ち゛い～～～！！[r]
-　て゛るううぅぅ～～！！　お゛あ゛あ゛～～！」[pcms]
+[ns]A man lying down naked[nse]
+"Owah~...it feels so good~~~!! Cumming uuuu~~!! Owah~~!"[pcms]
 
 *16612|
 [fc]
 [vo_hay s="hayami0671"]
-[ns]ありす[nse]
-「いやあああっ！？　なかっ……なかぁっ！！[r]
-　だめぇっ……それは……だめえっ！！[r]
-　いやあぁぁあっ！　イク――ッ！！」[pcms]
+[ns]Arisu[nse]
+"No wayyy!? Inside...insidee!! Noo...that's bad...nooo!! I'm[r]
+cumming--!!"[pcms]
 
 ;[射精フラA]
 ;イベントCG射精差分
@@ -646,19 +605,18 @@
 *16613|
 [fc]
 [vo_hay s="hayami0672"]
-[ns]ありす[nse]
-「あう――ッ！！　なかあっ！？　イヤあっ！！[r]
-　せーし！！　あついっ！！　いやあぁあぁあ！！」[pcms]
+[ns]Arisu[nse]
+"Ahh--!! Inside!? Noo!! Stop it!! It's hot!! Noooo!!"[pcms]
 
 *16614|
 [fc]
-[ns]全裸で寝そべる男[nse]
-「うあぁあ゛～～！　て゛た゛あ゛～～！！」[pcms]
+[ns]A man lying down naked[nse]
+"Uwahh~~! I came~~!!"[pcms]
 
 *16615|
 [fc]
-[ns]スーツ姿で自慰する男[nse]
-「あ゛～～！！」[pcms]
+[ns]A man masturbating in a suit[nse]
+"Aah~~!!"[pcms]
 
 ;//★ホワイトフラッシュ
 [白フラ]
@@ -669,60 +627,56 @@
 *16616|
 [fc]
 [vo_hay s="hayami0673"]
-[ns]ありす[nse]
-「あ……はあっ……はっ……、[r]
-　あ、あうぅ……、はっ……はあっ……」[pcms]
+[ns]Arisu[nse]
+"Ah...haah...hah..., ah, auhh..., hah...haah..."[pcms]
 
 *16617|
 [fc]
-イッちゃった……。[r]
-あああ……。[pcms]
+I came.... Aaah...[pcms]
 
 *16618|
 [fc]
 [vo_hay s="hayami0674"]
-[ns]ありす[nse]
-「もう……だめ……、あたし……、あたま……、[r]
-　へんになっちゃった……、あはっ……あははっ！[r]
-　はあっ……あははっ！！」[pcms]
+[ns]Arisu[nse]
+"No more...I can't..., my head..., I've gone crazy...,[r]
+ahaha! Haa...ahaha!!"[pcms]
 
 ;//★イベントＣＧ＿Ｅ
 [evcg storage="HEV216e"][trans_c cross time=301]
 
 *16619|
 [fc]
-全身に生ぬるい精液を浴びて、[r]
-あたしの頭の中は真っ白になった。[pcms]
+Covered in lukewarm semen all over my body, my mind went[r]
+blank.[pcms]
 
 *16620|
 [fc]
-[ns]スーツ姿で自慰する男[nse]
-「つ゛き゛は゛あ～～、お゛れ～～！」[pcms]
+[ns]A man masturbating in a suit[nse]
+"Tsu...ki...ha...ah~~, ore~~!"[pcms]
 
 *16621|
 [fc]
-[ns]全裸で寝そべる男[nse]
-「あ゛あ゛～～……、お゛れ、もう゛、て゛ねえ～～、[r]
-　なか゛た゛しぃ～～さ゛い゛こ゛ぉ゛～～！」[pcms]
+[ns]A man lying down naked[nse]
+"Aaah~~... I, I can't anymore~~, it's too much~~, cumming[r]
+inside~~!"[pcms]
 
 *16622|
 [fc]
 [vo_hay s="hayami0675"]
-[ns]ありす[nse]
-「はっ……はっ……はあっ……、あははっ！？[r]
-　う……うあ……、あ、ああ……、ヘン……ヘンだよ[r]
-　あたし、おかしいよ！？」[pcms]
+[ns]Alice[nse]
+"Hah...hah...haah..., ahaha!? U...ua..., ah, aah..., it's[r]
+strange... I'm going crazy!?"[pcms]
 
 *16623|
 [fc]
-[ns]全裸で抱きかかえる男[nse]
-「あ゛あ゛……お゛も゛し゛れ～～……、[r]
-　へ゛つの゛おんな゛にも……や゛って゛……みよ゛」[pcms]
+[ns]A man who embraces in the nude[nse]
+"Aaah...it's unbearable~~... even with a woman like this...[r]
+I'll do it..."[pcms]
 
 *16624|
 [fc]
-[ns]ただ呆然と立つ男[nse]
-「は゛らへっ……た゛あ゛～……」[pcms]
+[ns]A man standing dumbfounded[nse]
+"I'm so hungry~~..."[pcms]
 
 ;//♪：bgm005 fadeout
 [fadeoutbgm time=1000]
@@ -732,7 +686,7 @@
 	[jump storage="b_scene.ks" target=*back_from_SR]
 ;	[link storage=sceneAgain]もう一度見る[endlink]
 ;	[link storage=sceneList]一覧に戻る[endlink]
-;	[s]
+;[pcms]
 [endif]
 
 *KAISOU_PASS
@@ -749,35 +703,31 @@
 
 *16625|
 [fc]
-周りを取り囲んでいた男達は、あたしをオモチャに[r]
-することに飽きてしまったのか、一人、また一人と[r]
-エレベーターから降りていく。[pcms]
+The men surrounding me seemed to have gotten tired of using[r]
+me as a toy, as one by one they left the elevator.[pcms]
 
 *16626|
 [fc]
-最後には、あたしとスーツを着た人だけが、[r]
-エレベーターの中に残された。[pcms]
+In the end, only I and the man in the suit were left inside[r]
+the elevator.[pcms]
 
 *16627|
 [fc]
-[ns]スーツ姿の男[nse]
-「ね゛えええ゛～～……つき゛は゛～～……おれ゛と[r]
-　あそ゛ほ゛お゛～～……」[pcms]
+[ns]Man in a suit[nse]
+"Nee~~... Tsuki~~... play with me~~..."[pcms]
 
 *16628|
 [fc]
-スーツを着た人は、おちんちんを出したまま、[r]
-あたしに近づいてくる。[pcms]
+The man in the suit, with his cock still out, approached me.[pcms]
 
 *16629|
 [fc]
-あたしのアソコは疼いていたけど、[r]
-この人とは、エッチしたくなかった。[pcms]
+My pussy was throbbing, but I didn't want to have sex with[r]
+this man.[pcms]
 
 *16630|
 [fc]
-そう……。[r]
-あたしは……。[pcms]
+That's right... I...[pcms]
 
 ;//♪：bgm009
 [bgm storage="bgm009"]
@@ -785,14 +735,13 @@
 *16631|
 [fc]
 [vo_hay s="hayami0676"]
-[ns]ありす[nse]
-「ふっ……あははっ……あはははははっ……、[r]
-　あはははっ……あんた……なんかと……、[r]
-　た゛れか゛あああっ！！　て゛て゛いって！」[pcms]
+[ns]Arisu[nse]
+"Fuu...ahaha! Ahahahaha! Ahaha... you're kind of... someone[r]
+help me!! Get away from me!"[pcms]
 
 *16632|
 [fc]
-あたしは……。[pcms]
+I...[pcms]
 
 ;//SE:人を殴る
 [se0 storage="SE20"]
@@ -802,60 +751,59 @@
 
 *16633|
 [fc]
-[ns]スーツ姿の男[nse]
-「う゛あ゛～～……あ゛そ゛ん゛て゛え～～……」[pcms]
+[ns]Man in a suit[nse]
+"Uva~~... that ass~~..."[pcms]
 
 *16634|
 [fc]
-スーツを着た人をエレベーターから追い出して、[r]
-やっとの事で、あたしは一人になる事が出来た。[pcms]
+After pushing the man in the suit out of the elevator, I[r]
+finally managed to be alone.[pcms]
 
 *16635|
 [fc]
-エレベーターの扉が閉まり、屋上へと登り始めたのを[r]
-確認して、あたしは隅の方にしゃがみこんだ。[pcms]
+As the elevator doors closed and it began to ascend to the[r]
+rooftop, I crouched down in a corner.[pcms]
 
 *16636|
 [fc]
 [vo_hay s="hayami0677"]
-[ns]ありす[nse]
-「た゛れか……あたしを゛……」[pcms]
+[ns]Arisu[nse]
+"Someone... please..."[pcms]
 
 *16637|
 [fc]
-ううん……、だれか、じゃない。[pcms]
+No, not someone...[pcms]
 
 *16638|
 [fc]
-あたしは……。[r]
-ヒロシに……。[pcms]
+I... want Hiroshi...[pcms]
 
 *16639|
 [fc]
-ヒロシに、抱いて欲しい……。[pcms]
+I want Hiroshi to hold me...[pcms]
 
 *16640|
 [fc]
-こんなになったあたしでも、[r]
-ヒロシは抱いてくれるかな……。[pcms]
+Even after becoming like this, would Hiroshi still hold[r]
+me...?[pcms]
 
 *16641|
 [fc]
-ヒロシ……。[pcms]
+Hiroshi...[pcms]
 
 *16642|
 [fc]
-足を抱えた腕に頭を乗せると、あたしの視界は、[r]
-真っ暗になっていく。[pcms]
+As I rested my head on my arms that were hugging my legs, my[r]
+field of vision went dark.[pcms]
 
 *16643|
 [fc]
-頭の中を、何かが這いずり回る。[r]
-耳の中に騒音が聞こえる。[pcms]
+Something was crawling around in my head. Noise was ringing[r]
+in my ears.[pcms]
 
 *16644|
 [fc]
-あたし……、ヒロシに……抱かれたい……。[pcms]
+I... want to be held by Hiroshi...[pcms]
 
 
 ;//♪：bgm009 fadeout

@@ -23,99 +23,97 @@
 
 *15201|
 [fc]
-深夜。[r]
-若い男女が、間接照明の柔らかい光に包まれ、ベッド[r]
-に腰掛けている。[pcms]
+It's late at night. A young man and woman are enveloped in[r]
+the soft light of indirect lighting, sitting on a bed.[pcms]
 
 *15202|
 [fc]
-窓の外に見える、美しくライトアップされた高い塔。[pcms]
+A tall tower, beautifully lit up, is visible outside the[r]
+window.[pcms]
 
 *15203|
 [fc]
-若い女は、ただ高い塔を見つめている。[pcms]
+The young woman is simply staring at the tall tower.[pcms]
 
 *15204|
 [fc]
-若い男は押し黙り、女から距離を置いて座っている。[pcms]
+The young man sits in silence, keeping a distance from the[r]
+woman.[pcms]
 
 *15205|
 [fc]
-男は、緊張していた。[r]
-男は、今日、この場で女に『結婚』を申し込む[r]
-つもりでいた。[pcms]
+The man was nervous. He had intended to propose marriage to[r]
+the woman in this place today.[pcms]
 
 *15206|
 [fc]
-[ns]若い男[nse]
-「あ、あの……さ、俺達……付き合ってもう２年に[r]
-　なるんだよ……な」[pcms]
+[ns]Young man[nse]
+"Uh, you know... we've been together for two years now..."[pcms]
 
 *15207|
 [fc]
-緊張からか、男の口は震えている。[pcms]
+Perhaps due to nervousness, the man's voice was trembling.[pcms]
 
 *15208|
 [fc]
 [vo_mob s="w0000"]
-[ns]若い女[nse]
-「……うん」[pcms]
+[ns]Young woman[nse]
+"...Yeah."[pcms]
 ;//◎力無く答える
 
 *15209|
 [fc]
-女は、高い塔を見つめたまま、[r]
-男の顔も見ずに答える。[pcms]
+The woman answers without looking at the man's face, still[r]
+gazing at the tall tower.[pcms]
 
 *15210|
 [fc]
-[ns]若い男[nse]
-「そろそろ、さ……お、俺と……」[pcms]
+[ns]Young man[nse]
+"Maybe it's about time... that you and I..."[pcms]
 
 *15211|
 [fc]
-震え、掠れた声はとぎれてしまった。[r]
-男は、女の横顔を見つめたまま、押し黙る。[pcms]
+His voice trembled and broke off. The man fell silent,[r]
+continuing to stare at the woman's profile.[pcms]
 
 *15212|
 [fc]
 [vo_mob s="w0001"]
-[ns]若い女[nse]
-「…………」[pcms]
+[ns]Young woman[nse]
+"..."[pcms]
 
 *15213|
 [fc]
-男は、言葉を続ける事が[r]
-出来なくなってしまっていた。[pcms]
+The man had become unable to continue his words.[pcms]
 
 *15214|
 [fc]
-女は、男の言葉を待っているのか、ただじっと、窓の[r]
-外の高い塔を見つめている。[pcms]
+The woman seemed to be waiting for the man to speak, or just[r]
+silently staring at the tall tower outside the window.[pcms]
 
 *15215|
 [fc]
-男は、女が相手にしてくれない事への苛立ちと、[r]
-肝心な言葉を口に出せないもどかしさをごまかす為、[r]
-落ち着き無く、当たりを見回す。[pcms]
+The man, frustrated that the woman wasn't engaging with him[r]
+and unable to voice his crucial words, looked around[r]
+restlessly to hide his agitation.[pcms]
 
 *15216|
 [fc]
-男の視線の先には、テレビのリモコンがあった。[pcms]
+At the end of the man's gaze was the TV remote control.[pcms]
 
 *15217|
 [fc]
-[ns]若い男[nse]
-「し、静かだな……。て、て、て、テレビでも、[r]
-　付けようか……」[pcms]
+[ns]Young man[nse]
+"It's, it's quiet, isn't it... Shall we, shall we turn on[r]
+the TV...?"[pcms]
 
 
 
 *15218|
 [fc]
-男がテレビのリモコンを操作すると、柔らかい光と[r]
-静寂は、テレビから飛び出す刺激的な光と、[r]
-淡々とした会話によってかき消された。[pcms]
+When the man operated the TV remote, the soft light and[r]
+silence were replaced by the stimulating light from the TV[r]
+and monotonous conversation.[pcms]
 
 ;BGM停止
 [fadeoutbgm time=500][wb]
@@ -131,559 +129,544 @@
 
 *15219|
 [fc]
-テレビの画面の隅には、緊急ニュースを伝える[r]
-テロップが流れ続けている。[pcms]
+In the corner of the TV screen, a news ticker continued to[r]
+scroll.[pcms]
 
 *15220|
 [fc]
-流れ続けるテロップは、日本各地で暴動が発生して[r]
-いる事を伝えている。[pcms]
+The ongoing ticker reported that riots were breaking out[r]
+across Japan.[pcms]
 
 *15221|
 [fc]
-[ns]若い男[nse]
-「は？　暴動……？　この国で……？[r]
-　そんな馬鹿な……」[pcms]
+[ns]Young man[nse]
+"Huh? Riots...? In this country...? That's ridiculous..."[pcms]
 
 *15222|
 [fc]
-男は自分の人生の決断をよそに、テレビの画面に[r]
-釘付けになってしまった。[pcms]
+The man became fixated on the TV screen, putting aside his[r]
+life-changing decision.[pcms]
 
 *15223|
 [fc]
-テレビの中では、非現実的な話題が交わされている。[pcms]
+In the TV, an unreal topic was being discussed.[pcms]
 
 [evcg storage="NEV207b"][trans_c cross time=301]
 
 *15224|
 [fc]
-[ns]大学教授[nse]
-「我々は、このウイルスを……、[r]
-　ＵＮＫＮＯＷ－ＬＶ４と名付け、[r]
-　調査を続行している最中になります」[pcms]
+[ns]University Professor[nse]
+"We have named this virus UNKNOW-LV4 and are continuing our[r]
+investigation."[pcms]
 
 *15225|
 [fc]
-[ns]大学教授[nse]
-「ウイルスの感染力、増殖力は非常に[r]
-　高く、その患者は今後も爆発的に増えていくと[r]
-　考えられます」[pcms]
+[ns]University Professor[nse]
+"The virus is highly infectious and proliferative, and we[r]
+expect the number of patients to explode in the future."[pcms]
 
 *15226|
 [fc]
-[ns]大学教授[nse]
-「また、このウイルスの発生原因や、[r]
-　その性質が全く掴めておらず、対処法、[r]
-　ワクチンの開発も難航しておりまして……」[pcms]
+[ns]University Professor[nse]
+"Furthermore, we have not yet grasped the cause of this[r]
+virus or its nature, making it difficult to develop[r]
+treatment methods and vaccines..."[pcms]
 
 *15227|
 [fc]
-[ns]大学教授[nse]
-「収容先の病院などでも、適切な治療を行う事すら[r]
-　ままならない状況で……患者さん達には、[r]
-　大変にご迷惑をおかけしている所です」[pcms]
+[ns]University Professor[nse]
+"Even in hospitals designated for containment, it has become[r]
+difficult to administer proper treatment... We are causing[r]
+great inconvenience to the patients."[pcms]
 
 *15228|
 [fc]
-[ns]大学教授[nse]
-「さらに、一部の病院で、患者さんを収容しきれず、[r]
-　ご自宅に帰してしまった為に、その家族全員が、[r]
-　感染してしまった等の報告もあります」[pcms]
+[ns]University Professor[nse]
+"Additionally, there have been reports of hospitals that[r]
+could not accommodate all patients, sending them home where[r]
+entire families became infected."[pcms]
 
 *15229|
 [fc]
-[ns]大学教授[nse]
-「また、旅行中やお仕事の関係で、東北を訪れていた[r]
-　別地方の方が、感染したことに気が付かないまま、[r]
-　ご自宅に戻った可能性もあります」[pcms]
+[ns]University Professor[nse]
+"There is also a possibility that people who were traveling[r]
+or working in Tohoku returned home without realizing they[r]
+were infected."[pcms]
 
 ;//ＮＥＶ●●●（対談Ａ）
 [evcg storage="NEV207a"][trans_c cross time=301]
 
 *15230|
 [fc]
-[ns]男性コメンテーター[nse]
-「……では、今、東北で発生している事件は[r]
-　ほんの一部に過ぎないと？」[pcms]
+[ns]Male Commentator[nse]
+"...So, are you saying that what's happening in Tohoku is[r]
+just the tip of the iceberg?"[pcms]
 
 ;//ＮＥＶ●●●（対談Ｂ）
 [evcg storage="NEV207b"][trans_c cross time=301]
 
 *15231|
 [fc]
-[ns]大学教授[nse]
-「ええ。ウイルスに感染し、発症するまでの期間がま[r]
-　だはっきりと分かっていないものですから、それが[r]
-　年単位なのか、それとも日単位なのかすら……」[pcms]
+[ns]University Professor[nse]
+"Yes. Since we do not yet clearly understand the incubation[r]
+period before symptoms appear, whether it spans years or[r]
+days..."[pcms]
 
 *15232|
 [fc]
-[ns]大学教授[nse]
-「現に、ここ東京でも数件、東北地方で発生したウィ[r]
-　ルス感染者に酷似した症例が数件、確認されていま[r]
-　す」[pcms]
+[ns]University Professor[nse]
+"In fact, here in Tokyo, we have confirmed several cases[r]
+with symptoms strikingly similar to those of the virus[r]
+infections in Tohoku."[pcms]
 
 *15233|
 [fc]
-[ns]大学教授[nse]
-「正直に申し上げますと、現時点で、どのくらいの方[r]
-　がそのウイルスに感染しているか、把握出来ていま[r]
-　せん」[pcms]
+[ns]University Professor[nse]
+"To be honest, at this point, we do not know how many people[r]
+are infected with this virus."[pcms]
 
 ;//ＮＥＶ●●●（対談Ａ）
 [evcg storage="NEV207a"][trans_c cross time=301]
 
 *15234|
 [fc]
-[ns]男性コメンテーター[nse]
-「では、東北地方だけの被害では収まらない可能性が[r]
-　非常に高い、という事でしょうか……」[pcms]
+[ns]Male Commentator[nse]
+"So there's a very high possibility that it won't be[r]
+contained just to Tohoku region...?"[pcms]
 
 *15235|
 [fc]
-[ns]男性コメンテーター[nse]
-「……万一東北地方以外で発生してしまった場合の[r]
-　防衛策としてお聞きします」[pcms]
+[ns]Male Commentator[nse]
+"...In case it occurs outside of Tohoku region, what are the[r]
+defense measures?"[pcms]
 
 *15236|
 [fc]
-[ns]男性コメンテーター[nse]
-「ウイルス感染者を見分ける方法、そうですね、何か[r]
-　感染した方特有の症状など、ありませんか？[r]
-　たとえば、高熱が出るとか……」[pcms]
+[ns]Male Commentator[nse]
+"Is there a way to distinguish virus-infected individuals?[r]
+For example, do they exhibit any specific symptoms like a[r]
+high fever...?"[pcms]
 
 ;//ＮＥＶ●●●（対談Ｂ）
 [evcg storage="NEV207b"][trans_c cross time=301]
 
 *15237|
 [fc]
-[ns]大学教授[nse]
-「男性に関してのみ、ではありますが、夏風邪に似た[r]
-　症状で入院していた患者が突如発症した、等の報告[r]
-　がありましたが……」[pcms]
+[ns]University Professor[nse]
+"There have been reports of patients who were hospitalized[r]
+with symptoms similar to a summer cold and then suddenly[r]
+developed the disease, but only in males..."[pcms]
 
 *15238|
 [fc]
-[ns]大学教授[nse]
-「他のある地域では嘔吐だったりと、特定の兆候は、[r]
-　まだ確認出来ていません」[pcms]
+[ns]University Professor[nse]
+"In other regions, symptoms have included vomiting and so[r]
+on; we have not yet identified any specific signs."[pcms]
 
 *15239|
 [fc]
-発言者を追いかけ、あわただしく切り替わる[r]
-テレビの画像。[pcms]
+The TV images switch hurriedly following each statement.[pcms]
 
 ;//ＮＥＶ●●●（対談Ａ）
 [evcg storage="NEV207a"][trans_c cross time=301]
 
 *15240|
 [fc]
-[ns]男性コメンテーター[nse]
-「地域によって差がある？　何故ですか？」[pcms]
+[ns]Male Commentator[nse]
+"There are regional differences? Why is that?"[pcms]
 
 ;//ＮＥＶ●●●（対談Ｂ）
 [evcg storage="NEV207b"][trans_c cross time=301]
 
 *15241|
 [fc]
-[ns]大学教授[nse]
-「まだはっきりとは分かりません」[pcms]
+[ns]University Professor[nse]
+"We don't know for sure yet."[pcms]
 
 ;//ＮＥＶ●●●（対談Ａ）
 [evcg storage="NEV207a"][trans_c cross time=301]
 
 *15242|
 [fc]
-[ns]男性コメンテーター[nse]
-「……なるほど……、では事前に見分ける方法は、[r]
-　今のところ無い、と。」[pcms]
+[ns]Male Commentator[nse]
+"...I see... So there's currently no way to identify it[r]
+beforehand."[pcms]
 
 ;//ＮＥＶ●●●（対談Ｂ）
 [evcg storage="NEV207b"][trans_c cross time=301]
 
 *15243|
 [fc]
-[ns]大学教授[nse]
-「はい。しかし、発症してしまった方に関しては[r]
-　ほぼ同一の症状が見受けられますので、[r]
-　自衛策としてお知りおき頂きたい事があります」[pcms]
+[ns]University Professor[nse]
+"Yes. However, for those who have developed symptoms, almost[r]
+identical symptoms can be observed, so there is something I[r]
+would like you to be aware of as a self-defense measure."[pcms]
 
 *15244|
 [fc]
-[ns]大学教授[nse]
-「それは、ニュースなどで報じられている通り、[r]
-　ウイルスに感染し、発症した方は異常な行動を[r]
-　取るようになる、といったものですが……」[pcms]
+[ns]University Professor[nse]
+"As reported in the news, those who are infected with the[r]
+virus and develop symptoms tend to exhibit abnormal[r]
+behavior..."[pcms]
 
 *15245|
 [fc]
-[ns]大学教授[nse]
-「その異常な行動ですが、最新の情報では、[r]
-　攻撃的な性格になる、婦女暴行……や、[r]
-　言語障害……」[pcms]
+[ns]University Professor[nse]
+"This abnormal behavior includes becoming aggressive in[r]
+nature, sexual assault... and speech impediments..."[pcms]
 
 *15246|
 [fc]
-[ns]大学教授[nse]
-「ＬＳＤの様な幻覚剤、ＭＤＭＡ等の覚醒剤を[r]
-　使用した際の症状に酷似した行動を取る、等が[r]
-　上げられます」[pcms]
+[ns]University Professor[nse]
+"It resembles behavior seen with hallucinogens like LSD or[r]
+stimulants like MDMA."[pcms]
 
 *15247|
 [fc]
-[ns]大学教授[nse]
-「ですが、ウイルスに感染したと見られる方からは、[r]
-　そのような薬物を使用した形跡や、反応は[r]
-　有りませんでした」[pcms]
+[ns]University Professor[nse]
+"However, there were no traces or reactions indicating that[r]
+such drugs had been used by those presumed to be infected[r]
+with the virus."[pcms]
 
 *15248|
 [fc]
-[ns]大学教授[nse]
-　「繰り返しになってしまいますが」[pcms]
+[ns]University Professor[nse]
+"I repeat"[pcms]
 
 *15249|
 [fc]
-[ns]大学教授[nse]
-「……今の所、発症するまで、見分ける方法は[r]
-　ありません。検査体勢もまだ確立されておりません[r]
-　ので……」[pcms]
+[ns]University Professor[nse]
+"...As of now, there is no way to identify before symptoms[r]
+develop. Testing infrastructure is also not yet[r]
+established..."[pcms]
 
 *15250|
 [fc]
-[ns]大学教授[nse]
-「なので、先ほど私が申し上げたような症状の方が、[r]
-　身近にいらっしゃる様でしたら……」[pcms]
+[ns]University Professor[nse]
+"So if you encounter someone with symptoms like those I've[r]
+mentioned earlier nearby..."[pcms]
 
 *15251|
 [fc]
-[ns]大学教授[nse]
-「その方はウイルスに冒されている可能性が、[r]
-　非常に高いと思われます」[pcms]
+[ns]University Professor[nse]
+"It is highly likely that the person is infected with the[r]
+virus."[pcms]
 
 *15252|
 [fc]
-[ns]大学教授[nse]
-「飛沫感染、体液からの感染が主感染経路と考えられ[r]
-　ていますから、感染・発症された方には、絶対に[r]
-　近寄らない・触らない、等の注意が必要になります」[pcms]
+[ns]University Professor[nse]
+"Since the main routes of infection are believed to be[r]
+through droplets and bodily fluids, it is crucial to avoid[r]
+getting close to or touching anyone who has been infected or[r]
+is showing symptoms."[pcms]
 
 ;//ＮＥＶ●●●（対談Ａ）
 [evcg storage="NEV207a"][trans_c cross time=301]
 
 *15253|
 [fc]
-[ns]男性コメンテーター[nse]
-「あっ！　少々お待ちください。緊急ニュースが[r]
-　入りました！　感染者と思われる集団と乱闘、[r]
-　数名を負傷させた男性が逮捕されたとの事です」[pcms]
+[ns]Male Commentator[nse]
+"Ah! Please wait a moment. We have breaking news! A man has[r]
+been arrested after injuring several people in a brawl with[r]
+a group thought to be infected."[pcms]
 
 *15254|
 [fc]
-[ns]男性コメンテーター[nse]
-「容疑者は、自らの経営する店舗に押し入ろうとした[r]
-　暴徒を排除するためと語り、[r]
-　正当防衛を主張している、との事です」[pcms]
+[ns]Male Commentator[nse]
+"The suspect claims he was defending his own store from a[r]
+mob trying to break in and is asserting self-defense."[pcms]
 
 *15255|
 [fc]
-[ns]男性コメンテーター[nse]
-「ここで続報です。先ほどお伝えした事件の他、[r]
-　数カ所で同様の傷害事件が発生している模様です」[pcms]
+[ns]Male Commentator[nse]
+"Here's an update. In addition to the incident we just[r]
+reported, similar assault cases seem to be occurring in[r]
+several places."[pcms]
 
 *15256|
 [fc]
-[ns]男性コメンテーター[nse]
-「……どうなんでしょうか？　このニュースの様に、[r]
-　感染者に立ち向かう人が増えて来るのではないで[r]
-　しょうか？」[pcms]
+[ns]Male Commentator[nse]
+"...What do you think? With news like this, won't more[r]
+people start confronting those who are infected?"[pcms]
 
 ;//ＮＥＶ●●●（対談Ｂ）
 [evcg storage="NEV207b"][trans_c cross time=301]
 
 *15257|
 [fc]
-[ns]大学教授[nse]
-「この番組をご覧の皆様に、これだけは言いたい。[r]
-　そういった行為は、絶対に避けてください」[pcms]
+[ns]University Professor[nse]
+"To all viewers watching this program, I must say this:[r]
+please absolutely avoid such actions."[pcms]
 
 *15258|
 [fc]
-[ns]大学教授[nse]
-「原因追及が出来ていないウイルス、[r]
-　それに感染した患者さんが相手ですから、[r]
-　先ほど申し上げた通り……」[pcms]
+[ns]University Professor[nse]
+"We're dealing with a virus whose cause has not been[r]
+identified, and patients infected with it, so as I mentioned[r]
+earlier..."[pcms]
 
 ;//ＮＥＶ●●●（対談Ａ）
 [evcg storage="NEV207a"][trans_c cross time=301]
 
 *15259|
 [fc]
-[ns]男性コメンテーター[nse]
-「ならば、感染した方におそわれてしまった場合、[r]
-　にげる、または隔離しろと？」[pcms]
+[ns]Male Commentator[nse]
+"So if you're attacked by someone who's infected, you're[r]
+saying we should run away or isolate them?"[pcms]
 
 ;//ＮＥＶ●●●（対談Ｂ）
 [evcg storage="NEV207b"][trans_c cross time=301]
 
 *15260|
 [fc]
-[ns]大学教授[nse]
-「それが、最も適切な判断かと思います」[pcms]
+[ns]University Professor[nse]
+"That would be the most appropriate decision, I believe."[pcms]
 
 ;//ＮＥＶ●●●（対談Ａ）
 [evcg storage="NEV207a"][trans_c cross time=301]
 
 *15261|
 [fc]
-[ns]男性コメンテーター[nse]
-「では仮に、先ほどのニュースのように、[r]
-　自分の大切なもの、例えば……」[pcms]
+[ns]Male Commentator[nse]
+"But what if, like in the news earlier, something precious[r]
+to you, for example..."[pcms]
 
 *15262|
 [fc]
-[ns]男性コメンテーター[nse]
-「自分の息子さん、娘さんや或いは奥さん、[r]
-　旦那さん等が襲われているのを、[r]
-　目の当たりにした時……」[pcms]
+[ns]Male Commentator[nse]
+"Your son, your daughter, or perhaps your wife, your[r]
+husband, is being attacked right before your eyes..."[pcms]
 
 *15263|
 [fc]
-[ns]男性コメンテーター[nse]
-「……それを見捨てて逃げろ、[r]
-　そう、おっしゃる？」[pcms]
+[ns]Male Commentator[nse]
+"...Are you saying we should abandon them and run away?"[pcms]
 
 ;//ＮＥＶ●●●（対談Ｂ）
 [evcg storage="NEV207b"][trans_c cross time=301]
 
 *15264|
 [fc]
-[ns]大学教授[nse]
-「……私は、見捨てろとは言っていません。[r]
-　詳しいことが全くわかっていない状態ですから、[r]
-　出来るだけ……」[pcms]
+[ns]University Professor[nse]
+"...I'm not saying to abandon them. Since we don't know the[r]
+details yet, as much as possible..."[pcms]
 
 *15265|
 [fc]
-大学教授の声を遮るように、男性コメンテーターが[r]
-声を上げる。[pcms]
+The male commentator interrupts the university professor's[r]
+voice.[pcms]
 
 *15266|
 [fc]
-突然の事に、カメラは彼に切り替わるタイミングが[r]
-ずれてしまった。[pcms]
+The camera switches to him belatedly due to the sudden[r]
+interruption.[pcms]
 
 *15267|
 [fc]
-[ns]男性コメンテーター[nse]
-「ははっ……！　あなたは何の為にここに[r]
-　呼ばれたとおかんがえです？」[pcms]
+[ns]Male Commentator[nse]
+"Haha...! What do you think you were brought here for?"[pcms]
 
 ;//ＮＥＶ●●●（対談Ａ）
 [evcg storage="NEV207a"][trans_c cross time=301]
 
 *15268|
 [fc]
-画面が切り替わると、男性コメンテーターは、[r]
-怒りも露わ、といった表情で捲し立てている。[pcms]
+The screen switches, and the male commentator is seen[r]
+speaking with an angry expression.[pcms]
 
 *15269|
 [fc]
-[ns]男性コメンテーター[nse]
-「何をきいても『まだ分からない』の一点張り！[r]
-　それじゃあせっかく来ていただいた意味が無い！」[pcms]
+[ns]Male Commentator[nse]
+"All I hear from you is 'I don't know' over and over! If[r]
+that's the case, there's no point in having you here!"[pcms]
 
 *15270|
 [fc]
-[ns]男性コメンテーター[nse]
-「私達は、せめて何かの対処方が無いかと、貴方達[r]
-　学者の考えや、対策をお聞きしたかったんですよ？[r]
-　それが、きてみれば『わからない』ばかり！」[pcms]
+[ns]Male Commentator[nse]
+"We wanted to hear from scholars like you about any possible[r]
+measures or strategies. But all we get when we come here is[r]
+'I don't know'!"[pcms]
 
 *15271|
 [fc]
-[ns]男性コメンテーター[nse]
-「それでは、あなたがここにいるいみがない！」[pcms]
+[ns]Male Commentator[nse]
+"If that's the case, there's no point in you being here!"[pcms]
 
 *15272|
 [fc]
-それまで淡々と冷静に進行役を果たしていた男性は、[r]
-いつしか興奮し、強い口調で大学教授を詰り始めた。[pcms]
+The male host, who had been calmly progressing the show[r]
+until now, suddenly became excited and began to speak in a[r]
+strong tone to the university professor.[pcms]
 
 *15273|
 [fc]
-[ns]男性コメンテーター[nse]
-「貴方は、自分のお子さんや、おくさんが襲われて[r]
-　いたら、み捨てて逃げる事は出来るんですか？」[pcms]
+[ns]Male Commentator[nse]
+"If your own child or wife was being attacked, could you[r]
+just abandon them and run away?"[pcms]
 
 *15274|
 [fc]
-[ns]男性コメンテーター[nse]
-「私なら……私だったら、先ほどのニュースの[r]
-　男性の様に、感染者達をぶん殴ってでも、[r]
-　自分の周りの人だけでも助ける！」[pcms]
+[ns]Male Commentator[nse]
+"If it were me... If I were in that situation, like the man[r]
+in the news earlier, I would punch the infected ones to save[r]
+at least the people around me!"[pcms]
 
 *15275|
 [fc]
-[ns]男性コメンテーター[nse]
-「しかし、貴方達はそれはさけろ、という。[r]
-　それが出来ないのならば……何かしらべつの対策を[r]
-　お聞きしたいのですよ！」[pcms]
+[ns]Male Commentator[nse]
+"But you scholars say to avoid that. If we can't do that...[r]
+then we want to hear some other strategy!"[pcms]
 
 ;//ＮＥＶ●●●（対談Ｂ）
 [evcg storage="NEV207b"][trans_c cross time=301]
 
 *15276|
 [fc]
-[ns]大学教授[nse]
-「そんな……私は、ただの……」[pcms]
+[ns]University Professor[nse]
+"That's... I'm just a..."[pcms]
 
 ;//ＮＥＶ●●●（対談Ａ）
 [evcg storage="NEV207a"][trans_c cross time=301]
 
 *15277|
 [fc]
-大学教授が何かを言おうとした矢先、又しても[r]
-男性コメンテーターの声が、割り込んでくる。[pcms]
+Just as the university professor tries to say something, the[r]
+male commentator's voice cuts in again.[pcms]
 
 *15278|
 [fc]
-[ns]男性コメンテーター[nse]
-「あなたもウイルスにかんせんしてるんじゃないか？[r]
-　あなたの考え方は、おかしい！」[pcms]
+[ns]Male Commentator[nse]
+"Aren't you infected with the virus too? Your way of[r]
+thinking is strange!"[pcms]
 
 ;//ＮＥＶ●●●（対談Ｂ）
 [evcg storage="NEV207b"][trans_c cross time=301]
 
 *15279|
 [fc]
-[ns]大学教授[nse]
-「ハァ……？[r]
-　一体、どうしたんですか？　少し落ち着いて……」[pcms]
+[ns]University Professor[nse]
+"Huh...? What's gotten into you? Please calm down a bit..."[pcms]
 
 *15280|
 [fc]
-男性コメンテーターの様子は、明らかにおかしい。[pcms]
+The male commentator's behavior is clearly odd.[pcms]
 
 *15281|
 [fc]
-それは、テレビ画面に釘付けになっている若い男も[r]
-感じていた。[pcms]
+The young man watching the TV screen also senses something[r]
+is wrong.[pcms]
 
 ;//ＮＥＶ●●●
 [evcg storage="NEV208"][trans_c cross time=301]
 
 *15282|
 [fc]
-[ns]若い男[nse]
-「どうしたんだ？　コイツ……。なあ、一緒に[r]
-　見ようぜ……」[pcms]
+[ns]Young man[nse]
+"What's wrong with him? Hey, let's watch together..."[pcms]
 
 *15283|
 [fc]
-男は、未だ呆然と外を見つめる自分の恋人にも[r]
-テレビを見せようと、声を掛けた。[pcms]
+The man tries to show his lover, who is still staring[r]
+outside in a daze, the TV.[pcms]
 
 *15284|
 [fc]
-女は、男の声に気が付かないのか、[r]
-高い塔を見つめたまま、[r]
-ゆっくりと体を左右に揺らしている。[pcms]
+The woman doesn't seem to notice the man's voice and[r]
+continues to sway her body slowly from side to side while[r]
+staring at a tall tower.[pcms]
 
 *15285|
 [fc]
-[ns]若い男[nse]
-「……？」[pcms]
+[ns]Young man[nse]
+"...?"[pcms]
 
 *15286|
 [fc]
-男は、自分の声を聞かず、ただ外を眺めている恋人に[r]
-対する苛立ちが増していくのを感じた。[pcms]
+The man feels his irritation growing towards his lover who[r]
+doesn't respond to his voice and just gazes outside.[pcms]
 
 *15287|
 [fc]
-しかし今は、テレビの内容が苛立ちを上回っていた。[pcms]
+However, the content on TV was more pressing than his[r]
+irritation at that moment.[pcms]
 
 *15288|
 [fc]
-男は、再びテレビの画面に目を移す。[pcms]
+The man turns his attention back to the TV screen.[pcms]
 
 ;//ＮＥＶ●●●（対談Ａ）
 [evcg storage="NEV207a"][trans_c cross time=301]
 
 *15289|
 [fc]
-[ns]男性コメンテーター[nse]
-「ニュースはごらんになられました？[r]
-　感染者とやらは、みさかいなしに人を襲っている[r]
-　そうじゃないですか！」[pcms]
+[ns]Male Commentator[nse]
+"Did you see the news? The so-called infected are attacking[r]
+people indiscriminately, aren't they?"[pcms]
 
 *15290|
 [fc]
-[ns]男性コメンテーター[nse]
-「しかも、その数はふえる一方、とききました！」[pcms]
+[ns]Male Commentator[nse]
+"Moreover, their numbers are only increasing, I've heard!"[pcms]
 
 *15291|
 [fc]
-[ns]男性コメンテーター[nse]
-「今はとうほくだけの事件かも知れませんが、[r]
-　貴方もごしてきされた通り、いつ他のちいきで[r]
-　発生するか分からないのですよ？」[pcms]
+[ns]Male Commentator[nse]
+"It may only be an incident in Tohoku for now, but as you[r]
+yourself have said, we don't know when it might happen in[r]
+other regions, right?"[pcms]
 
 *15292|
 [fc]
-[ns]男性コメンテーター[nse]
-「ならば、今のうちに……。[r]
-　今のうちに……被害が拡大する前に」[pcms]
+[ns]Male Commentator[nse]
+"Then, while we still can... Before the damage spreads[r]
+further..."[pcms]
 
 *15293|
 [fc]
-[ns]男性コメンテーター[nse]
-「様子のおかしいヤツらを、皆殺しにしてしまえば[r]
-　良いんですよ！」[pcms]
+[ns]Male Commentator[nse]
+"We should just kill all those acting strangely!"[pcms]
 
 ;//ＮＥＶ●●●（対談Ｂ）
 [evcg storage="NEV207b"][trans_c cross time=301]
 
 *15294|
 [fc]
-[ns]大学教授[nse]
-「なっ……何を馬鹿な事を……。[r]
-　ウイルスに冒されているだけの人々を、殺すなんて[r]
-　出来る訳がないでしょう！」[pcms]
+[ns]University Professor[nse]
+"What... What nonsense... You can't just kill people who are[r]
+simply infected with a virus!"[pcms]
 
 *15295|
 [fc]
-[ns]大学教授[nse]
-「映画や漫画の世界じゃあるまいし！[r]
-　簡単に人殺しが出来る訳無いじゃないですか！[r]
-　だから逃げろ、と言っているんです！」[pcms]
+[ns]University Professor[nse]
+"This isn't a movie or a comic book world! You can't just[r]
+easily commit murder! That's why I'm telling you to run[r]
+away!"[pcms]
 
 *15296|
 [fc]
-[ns]大学教授[nse]
-「第一！　例えば、ついさっきまで隣にいた人を、[r]
-　昨日まで仲良く会話していたであろう人達を……。[r]
-　見ず知らずの人を殺す事なんか、出来ますか！？」[pcms]
+[ns]University Professor[nse]
+"First of all! Could you kill someone who was just beside[r]
+you until recently, someone you were probably having[r]
+friendly conversations with just yesterday... Could you kill[r]
+a stranger?"[pcms]
 
 *15297|
 [fc]
-[ns]大学教授[nse]
-「発症してしまった方々から離れる、[r]
-　または隔離する。[r]
-　それが現状では、最善の判断だと」[pcms]
+[ns]University Professor[nse]
+"Staying away from those who have shown symptoms or[r]
+isolating them. That is currently the best judgment."[pcms]
 
 *15298|
 [fc]
-[ns]男性コメンテーター[nse]
-「うるさいうるさいうるさい！　だまれだまれ！」[pcms]
+[ns]Male Commentator[nse]
+"Shut up shut up shut up! Be quiet!"[pcms]
 
 *15299|
 [fc]
-[ns]大学教授[nse]
-「私の話を聞け！　患者には絶対に触るなと言って[r]
-　いるんだ！！　下手したら、ねずみ算式に増えて[r]
-　いってしまうんだぞ！？」[pcms]
+[ns]University Professor[nse]
+"Listen to me! Don't touch the patients at all costs! If[r]
+we're not careful, their numbers could multiply[r]
+exponentially!"[pcms]
 
 ;//♪：bgm011 stop
 [fadeoutbgm time=1][wb]
@@ -695,156 +678,149 @@
 
 *15300|
 [fc]
-[ns]男性コメンテーター[nse]
-「だまれ！　だまれといっているんだ！[r]
-　おまえのいっていることはでたらめだ！[r]
-　このテレビをみているみなさん！！」[pcms]
+[ns]Male Commentator[nse]
+"Be quiet! I'm telling you to shut up! What you're saying is[r]
+nonsense! Everyone watching this TV!!"[pcms]
 
 *15301|
 [fc]
-[ns]男性コメンテーター[nse]
-「みなさんのまわりで、イカれたことをしている[r]
-　やつらがいたら、ころしてしまいなさい！[r]
-　みんな、みんなころしてしまいなさい！」[pcms]
+[ns]Male Commentator[nse]
+"If there are people around you acting crazy, kill them![r]
+Kill everyone!"[pcms]
 
 *15302|
 [fc]
-[ns]男性コメンテーター[nse]
-「じぶんがやられてしまうまえに、はやく！[r]
-　はははは！　あははははは！　ころせ！[r]
-　やくなり、たたくなりして、ころしてしまえ！」[pcms]
+[ns]Male Commentator[nse]
+"Before you get killed yourself, quickly! Hahaha! Ahahahaha![r]
+Kill them! Beat them, hit them, just kill them!"[pcms]
 
 *15303|
 [fc]
-男性コメンテーターは、けたたましく笑い始めた。[pcms]
+The male commentator began to laugh hysterically.[pcms]
 
 *15304|
 [fc]
-彼を止める為、テレビ画面の中を何人もの男達が[r]
-走り回る。[pcms]
+In an attempt to stop him, several men ran around inside the[r]
+TV screen.[pcms]
 
 *15305|
 [fc]
-男性コメンテーターの笑い声が小さくなり、[r]
-代わりに別の男性が、椅子に座った。[pcms]
+The laughter of the male commentator faded, and instead,[r]
+another man took a seat.[pcms]
 
 *15306|
 [fc]
-[ns]男性コメンテーターＢ[nse]
-「えー、視聴者の皆様には大変お見苦しい所を……。[r]
-　申し訳ございません。急遽、私が進行を務めさせ[r]
-　て頂きます……」[pcms]
+[ns]Male Commentator B[nse]
+"Eh, we apologize to our viewers for the unpleasant scene...[r]
+I will be taking over the broadcast on short notice..."[pcms]
 
 ;//ＮＥＶ●●●（対談Ｂ）
 [evcg storage="NEV207b"][trans_c cross time=301]
 
 *15307|
 [fc]
-[ns]大学教授[nse]
-「あの……。彼はもしかしたら……」[pcms]
+[ns]University Professor[nse]
+"Um... Perhaps he might have..."[pcms]
 
 *15308|
 [fc]
-[ns]男性の声[nse]
-「やめろ！　おい！！　そいつを捕まえろ！！」[pcms]
+[ns]Male Voice[nse]
+"Stop it! Hey!! Catch that guy!!"[pcms]
 
 *15309|
 [fc]
-[ns]大学教授[nse]
-「……！？」[pcms]
+[ns]University Professor[nse]
+"...!?"[pcms]
 
 *15310|
 [fc]
-[ns]男性コメンテーターＢ[nse]
-「うわぁあっっ！！」[pcms]
+[ns]Male Commentator B[nse]
+"Uwaaaahhh!!"[pcms]
 
 *15311|
 [fc]
-[ns]男性の声Ｃ[nse]
-「うわっ！　大丈夫ですかッ！？　ぎゃあぁあ！！」[pcms]
+[ns]Male Voice C[nse]
+"Whoa! Are you okay!? Gyaaaah!!"[pcms]
 
 *15312|
 [fc]
-[ns]大学教授[nse]
-「うわぁああッ！　おい！　止めろ！」[pcms]
+[ns]University Professor[nse]
+"Uwaaaahh! Hey! Stop it!"[pcms]
 
 *15313|
 [fc]
-カメラは大学教授を映し続け、叫び声のする方では[r]
-何が起きているのかは、分からなかった。[pcms]
+The camera continued to show the university professor, and[r]
+it was unclear what was happening amidst the screams.[pcms]
 
 *15314|
 [fc]
-が、次の瞬間……。[pcms]
+But the next moment...[pcms]
 
 *15315|
 [fc]
-血にまみれた男性コメンテーターの横顔が、[r]
-画面を埋め尽くした。[pcms]
+The side profile of the blood-covered male commentator[r]
+filled the screen.[pcms]
 
 *15316|
 [fc]
-怒りでゆがんだ顔のまま、大学教授を指さして怒鳴る、[r]
-男性コメンテーター。[pcms]
+With a face distorted by anger, the male commentator pointed[r]
+at the university professor and yelled,[pcms]
 
 ;//ＮＥＶ●●●（対談Ｂ’）
 [evcg storage="NEV207c"][trans_c cross time=301]
 
 *15317|
 [fc]
-[ns]男性コメンテーター[nse]
-「おまえうぜえんだよおれのいうことをきけよおれの[r]
-　いっていることのほうがただしいんだぜったい[r]
-　おれのほうがあってるんだ！！！」[pcms]
+[ns]Male Commentator[nse]
+"You're annoying, listen to me! What I'm saying is right,[r]
+absolutely right! I'm the one who's correct!!"[pcms]
 
 *15318|
 [fc]
-[ns]男性コメンテーター[nse]
-「おれはまちがってないぜったいにまちがってない[r]
-　みなさんおれのいうことをよくきいてください[r]
-　まわりのおかしなやつらをいますぐ」[pcms]
+[ns]Male Commentator[nse]
+"I'm not wrong, absolutely not wrong. Everyone, please[r]
+listen to me carefully. Right now, those around you who are[r]
+acting strange..."[pcms]
 
 *15319|
 [fc]
-[ns]男性コメンテーター[nse]
-「みんなころしてしまいなさい！！[r]
-　まちがったことをいっているこいつを！！[r]
-　きっとうぃるすにかんせんしたこのおとこを」[pcms]
+[ns]Male Commentator[nse]
+"Kill them all!! This guy who's talking nonsense!! Surely[r]
+he's infected with the virus, this man..."[pcms]
 
 *15320|
 [fc]
-[ns]男性コメンテーター[nse]
-「いまからおれがころしてせるからみなさんおれに[r]
-　つずいて！！　ほらはやくはやく！！」[pcms]
+[ns]Male Commentator[nse]
+"I'm going to kill him now, so everyone follow me!! Hurry,[r]
+hurry!!"[pcms]
 
 *15321|
 [fc]
-[ns]大学教授[nse]
-「ま、まさか……アンタ……！！」[pcms]
+[ns]University Professor[nse]
+"No way... You...!!"[pcms]
 
 *15322|
 [fc]
-男性コメンテーターは、大学教授に駆け寄ると、[r]
-首筋に顔を埋めた。[pcms]
+The male commentator rushed at the university professor and[r]
+buried his face in his neck.[pcms]
 
 *15323|
 [fc]
-[ns]大学教授[nse]
-「ぐあぁあぁああっ！！」[pcms]
+[ns]University Professor[nse]
+"Guwaaaahhhhh!!"[pcms]
 
 [bg storage="red"][trans_c cross time=1000]
 
 *15324|
 [fc]
-大学教授の悲鳴を覆い隠すように、、[r]
-テレビ画面は真っ赤なしぶきで覆い隠された。[pcms]
+The TV screen was covered with a red splash as if to drown[r]
+out the university professor's screams.[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
 *15325|
 [fc]
-テレビ画面には、『しばらくお待ち下さい』の文字が[r]
-映し出される。[pcms]
+"Please wait for a moment" appeared on the TV screen.[pcms]
 
 ;//♪：bgm009 fadeout
 [fadeoutbgm time=1000]
@@ -854,50 +830,49 @@
 
 *15326|
 [fc]
-砂嵐のちらつく光は、外を眺め続けている若い女と、[r]
-テレビの映像に釘付けになっていた若い男を照らす。[pcms]
+The flickering light of static illuminated a young woman[r]
+looking outside and a young man fixated on the TV screen.[pcms]
 
 ;//ＮＥＶ●●●
 [evcg storage="NEV208"][trans_c cross time=1000]
 
 *15327|
 [fc]
-[ns]若い男[nse]
-「な、なあ、これ、ヤバくないか？[r]
-　このテレビ局って、ここのすぐそばだろ……？」[pcms]
+[ns]Young man[nse]
+"Hey, isn't this bad? This TV station is right near here,[r]
+isn't it...?"[pcms]
 
 *15328|
 [fc]
 [vo_mob s="w0002"]
-[ns]若い女[nse]
-「……そう、だね～……」[pcms]
+[ns]Young woman[nse]
+"...Yeah, that's right~..."[pcms]
 
 *15329|
 [fc]
-[ns]若い男[nse]
-「どうしたんだ？　何かヘンだぞ……お前……？？」[pcms]
+[ns]Young man[nse]
+"What's wrong? You seem strange... you...??"[pcms]
 
 *15330|
 [fc]
 [vo_mob s="w0003"]
-[ns]若い女[nse]
-「ヘンじゃないよ～……、だって、あなたの事、[r]
-　だい好きだもん……。えへへっ……ふふっ！[r]
-　あははははははははははははは！！！！！」[pcms]
+[ns]Young woman[nse]
+"I'm not strange~... because I really love you... Ehehe...[r]
+Fufu! Ahahahahahahaha!!"[pcms]
 
 *15331|
 [fc]
-若い男に対して、ゆっくりと振り返る若い女。[r]
-若い女は、勢いよく男に覆い被さった。[pcms]
+The young woman slowly turned towards the young man and then[r]
+quickly pounced on him.[pcms]
 
 *15332|
 [fc]
-[ns]若い男[nse]
-「なっ……！？　うぐッ！？」[pcms]
+[ns]Young man[nse]
+"Wha...!? Ugh!?"[pcms]
 
 *15333|
 [fc]
-若い男の手から、小さく光る輪が滑り落ちた。[pcms]
+A small, shining ring slipped from the young man's hand.[pcms]
 
 [bg storage="red"][trans_c cross time=500]
 
@@ -913,5 +888,5 @@
 
 
 ;//BKACKOUT
-;//－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+;//
 

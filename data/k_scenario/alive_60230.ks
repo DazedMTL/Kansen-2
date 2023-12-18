@@ -24,7 +24,7 @@
 ;[link storage="alive_60240.ks"     target=*alive_60240_TOP    ]このひとつよそうだし、オヤジはなんかきにくわない[endlink]
 ;[link storage="alive_bad_80050.ks" target=*alive_bad_80050_TOP]オヤジと、ヒロといっしょならなんとかなるかな[endlink]
 ;;[link storage="alive_bad_80050.ks" target=*alive_bad_80050_TOP]選べない！[endlink]
-;[s]
+;[pcms]
 
 
 
@@ -45,8 +45,8 @@
 [fc]
 [pcms_sel]
 
-[eval exp="f.seltext02 = 'このひとつよそうだし、オヤジはなんかきにくわない'"]
-[eval exp="f.seltext04 = 'オヤジと、ヒロといっしょならなんとかなるかな'"]
+[eval exp="f.seltext02 = 'This one looks strong, and there\'s something about the old man I don\'t like'"]
+[eval exp="f.seltext04 = 'If I\'m with Dad and Hiro, maybe we can manage somehow'"]
 
 [if exp="tf.sys_sub == 0 || tf.選択肢ログ表示してね == 1"]
 	;選択肢内容をバックログに表記。改行コード必須。

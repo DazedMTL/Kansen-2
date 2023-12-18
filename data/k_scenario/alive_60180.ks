@@ -22,8 +22,8 @@
 
 *1573|
 [fc]
-[ns]大倉[nse]
-「んっ……？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Hn...?"[pcms]
 
 ;//＠：東棟・四階
 
@@ -40,290 +40,278 @@
 
 *1574|
 [fc]
-[ns]大倉[nse]
-「なんだ……？　今の……、あれ？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"What...? What was that just now... huh?"[pcms]
 
 *1575|
 [fc]
-一緒に寝てたのが、どこかに行ったのか？[pcms]
+Did the one sleeping next to me go somewhere?[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
 *1576|
 [fc]
-[ns]大倉[nse]
-「ん……？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Hm...?"[pcms]
 
 ;//♪：bgm012 fadein
 [bgm storage="bgm012"]
 
 *1577|
 [fc]
-俺の隣に、誰かいたはず……。[r]
-一緒に寝てた筈なのに……？[r]
-俺だけ置いて、どこへ……？[pcms]
+Someone should have been next to me... We were supposed to[r]
+be sleeping together... Why am I the only one left here...?[pcms]
 
 *1578|
 [fc]
 [vo_nao s="naomi0087"]
 [ns]？？？[nse]
-「お前……何故ここにいる！？」[pcms]
+"You... why are you here!?"[pcms]
 
 *1579|
 [fc]
-暗闇から、気丈な声が聞こえてくる。[pcms]
+A strong voice echoes from the darkness.[pcms]
 
 *1580|
 [fc]
-[ns]大倉[nse]
-「……だれだ？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"...Who's there?"[pcms]
 
 [ChrSetEx layer=4 chbase="turuta_d05"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *1581|
 [fc]
 [vo_nao s="naomi0088"]
-[ns]大柄な女[nse]
-「お前……感染していないのか？」[pcms]
+[ns]Large woman[nse]
+"You... are you not infected?"[pcms]
 
 *1582|
 [fc]
-[ns]大倉[nse]
-「……？　なんだ？　かんせんって……？[r]
-　おまえこそ、だれだよ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"...? What do you mean? Infected with what...? And who are[r]
+you...?"[pcms]
 
 *1583|
 [fc]
-突然現れた大柄な女は、身構えながら、[r]
-いぶかしげな顔をして俺を見つめている。[pcms]
+The tall woman who suddenly appeared is eyeing me[r]
+suspiciously while standing guard.[pcms]
 
 [ChrSetEx layer=4 chbase="turuta_d01"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *1584|
 [fc]
 [vo_nao s="naomi0089"]
-[ns]大柄な女[nse]
-「……何だっ……て……。[r]
-　では、お前はどうしてここにいる？」[pcms]
+[ns]Large woman[nse]
+"...What the... Then, why are you here?"[pcms]
 
 *1584a|
 [fc]
-[ns]大倉[nse]
-「はぁ？　どうしてって……わかんねぇんだよ……。[r]
-　きがついたら、ここでねてた」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Huh? Why I'm here...? I don't know... I just found myself[r]
+sleeping here."[pcms]
 
 [ChrSetEx layer=4 chbase="turuta_d05"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *1585|
 [fc]
 [vo_nao s="naomi0090"]
-[ns]大柄な女[nse]
-「……」[pcms]
+[ns]Large woman[nse]
+"..."[pcms]
 ;//◎疑っている
 
 *1586|
 [fc]
-なんで、こっちジロジロみてんだ……。[r]
-俺、なんか変なカッコしてんのかな……。[pcms]
+Why is she staring at me like that...? Am I wearing[r]
+something strange or what...?[pcms]
 
 *1587|
 [fc]
-[ns]大倉[nse]
-「なんだよ……おれがなにしたってんだよ！！[r]
-　ただここで、ねてただけだろ！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"What's the deal... What did I do to you!! I was just[r]
+sleeping here, that's all!"[pcms]
 
 [ChrSetEx layer=4 chbase="turuta_n04"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *1588|
 [fc]
 [vo_nao s="naomi0091"]
-[ns]大柄な女[nse]
-「……では、もう一つ質問する。[r]
-　お前、誰かに襲われたりしなかったか？[r]
-　うなり声をあげる、イカレたヤツらに……」[pcms]
+[ns]Large woman[nse]
+"...Then, another question. Were you attacked by anyone? By[r]
+those crazed ones who growl and scream..."[pcms]
 
 *1589|
 [fc]
-[ns]大倉[nse]
-「……なんだってんだよ！　あんたのいってること、[r]
-　なんだかぜんぜんわかんねーよ！！[r]
-　おれは、ずっとここにいたんだ！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"...What are you talking about! I don't understand a thing[r]
+you're saying!! I've been here the whole time!"[pcms]
 
 [ChrSetEx layer=4 chbase="turuta_a02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *1590|
 [fc]
 [vo_nao s="naomi0092"]
-[ns]大柄な女[nse]
-「……」[pcms]
+[ns]Large woman[nse]
+"..."[pcms]
 
 *1591|
 [fc]
-訳わかんねー……。[r]
-何が言いたいんだ、コイツ……。[pcms]
+I don't get it... What is she trying to say...?[pcms]
 
 [ChrSetEx layer=4 chbase="turuta_a04"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *1592|
 [fc]
 [vo_nao s="naomi0093"]
-[ns]大柄な女[nse]
-「では、最後にもう一つ質問する。[r]
-　私をみて、どう思う？」[pcms]
+[ns]Large woman[nse]
+"Then, one last question. What do you think when you look at[r]
+me?"[pcms]
 
 *1593|
 [fc]
-[ns]大倉[nse]
-「は？　どうって……デケェおんなだなって……。[r]
-　それだけだ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Huh? What do I think...? Just that you're a huge woman...[r]
+That's it..."[pcms]
 
 [ChrSetEx layer=4 chbase="turuta_n01"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *1594|
 [fc]
 [vo_nao s="naomi0094"]
-[ns]大柄な女[nse]
-「……そうか……。お前、他に仲間はいないのか？」[pcms]
+[ns]Large woman[nse]
+"...I see... Do you have any companions?"[pcms]
 
 *1595|
 [fc]
-俺の事を睨みながら何か考えていた女は、[r]
-警戒することをやめたのか、少し穏やかな顔になって、[r]
-また別の質問をし始めた。[pcms]
+The woman who was glaring at me seems to have relaxed her[r]
+guard a bit and now has a calmer expression as she starts[r]
+asking another question.[pcms]
 
 *1596|
 [fc]
-なんだよコイツ……めんどくせぇな……。[r]
-そんなこと……。[pcms]
+What's with this woman... such a hassle... That sort of[r]
+thing...[pcms]
 
 *1597|
 [fc]
-……仲間……？[pcms]
+...Companions...?[pcms]
 
 *1598|
 [fc]
-そうだ、俺の隣にいたはずの……。[r]
-誰かと一緒にいた……。[pcms]
+Right, there was supposed to be someone next to me... I was[r]
+with someone...[pcms]
 
 *1599|
 [fc]
-だれだ……？[pcms]
+Who was it...?[pcms]
 
 *1600|
 [fc]
-[ns]大倉[nse]
-「うぅ……なかま……いる……、[r]
-　おれのともだちが……このちかくに……いる……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Ugh... companions... there are... my friends are nearby..."[pcms]
 
 [ChrSetEx layer=4 chbase="turuta_n03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *1601|
 [fc]
 [vo_nao s="naomi0095"]
-[ns]大柄な女[nse]
-「……！　分かった……。では、その友達を捜しに[r]
-　いくぞ！」[pcms]
+[ns]Large woman[nse]
+"...! Understood... Then, let's go find your friend!"[pcms]
 
 *1602|
 [fc]
-なんだコイツ……偉そうに……。[r]
-でも、一緒にいたの探さないと……。[pcms]
+What's with her... acting all high and mighty... But I need[r]
+to find the one I was with...[pcms]
 
 *1603|
 [fc]
-[ns]大倉[nse]
-「わかった……。ってか、あんた……だれ？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Understood... But who are you, anyway?"[pcms]
 
 [ChrSetEx layer=4 chbase="turuta_a04"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *1604|
 [fc]
 [vo_nao s="naomi0096"]
-[ns]大柄な女[nse]
-「私は……鶴田。鶴田直美だ……。[r]
-　お前達のように、生き残った人……、[r]
-　生存者を助ける為に来た……」[pcms]
+[ns]Large woman[nse]
+"I am... Tsuruta. Tsuruta Naomi... Like you, a survivor...[r]
+here to help others who have survived..."[pcms]
 
 *1605|
 [fc]
-生存者？[r]
-なにそれ……。[pcms]
+Survivors? What's that about...?[pcms]
 
 *1606|
 [fc]
-コイツ……大丈夫か？[r]
-うーん……。[pcms]
+Is she alright in the head? Hmm...[pcms]
 
 *1607|
 [fc]
-まあ、いいか……。[pcms]
+Well, whatever...[pcms]
 
 ;//♪：bgm007
 [bgm storage="bgm007"]
 
 *1608|
 [fc]
-[ns]大倉[nse]
-「ふーん……。おれは、おおくらひろし」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Huh... My name is Ookura Hiroshi."[pcms]
 
 [ChrSetEx layer=4 chbase="turuta_n01"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *1609|
 [fc]
 [vo_nao s="naomi0097"]
-[ns]直美[nse]
-「ヒロシか。じゃあ、早速案内してくれ」[pcms]
+[ns]Naomi[nse]
+"Hiroshi, huh. Then lead the way quickly."[pcms]
 
 *1610|
 [fc]
-[ns]大倉[nse]
-「わかった……でも、おれ、はしれねぇんだよ……。[r]
-　ゆっくりあるいてくれ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Understood... but I can't run, you know... Walk slowly for[r]
+me..."[pcms]
 
 [ChrSetEx layer=4 chbase="turuta_n05"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *1611|
 [fc]
 [vo_nao s="naomi0098"]
-[ns]直美[nse]
-「怪我でもしたのか？[r]
-　そうか……お前、あの爆撃のショックで……」[pcms]
+[ns]Naomi[nse]
+"Did you get hurt? I see... You must have been shocked by[r]
+that bombing..."[pcms]
 
 *1612|
 [fc]
-爆撃？[r]
-なに言ってんだよ、マジで……。[pcms]
+Bombing? What is she talking about, seriously...[pcms]
 
 *1613|
 [fc]
-[ns]大倉[nse]
-「なにいってんだよ……。わかんねえってば……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"What are you saying... I don't understand what you mean..."[pcms]
 
 *1614|
 [fc]
 [vo_nao s="naomi0099"]
-[ns]直美[nse]
-「かわいそうに……。もう少し辛抱してくれ。[r]
-　手当してもらえるようにするから……。[r]
-　さあ、お前の友達も一緒に、ここから逃げ出すぞ！」[pcms]
+[ns]Naomi[nse]
+"Poor thing... Just hang in there a little longer. I'll make[r]
+sure you get treated... Now, let's escape from here with[r]
+your friend!"[pcms]
 
 *1615|
 [fc]
-逃げ出す？[r]
-そんな必要ねーのに……。[pcms]
+Escape? There's no need for that...[pcms]
 
 [ChrSetEx layer=4 chbase="turuta_n01"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *1616|
 [fc]
 [vo_nao s="naomi0100"]
-[ns]直美[nse]
-「手を貸してやる、行くぞ！」[pcms]
+[ns]Naomi[nse]
+"I'll lend you a hand, let's go!"[pcms]
 
 *1617|
 [fc]
-[ns]大倉[nse]
-「あ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Ah..."[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *1618|
 [fc]
-直美、と名乗った大柄な女は、[r]
-俺の腕を抱えて、引きずるように歩き出した。[pcms]
+The large woman named Naomi grabs my arm and starts walking,[r]
+dragging me along.[pcms]
 
 *1619|
 [fc]
-歩くのが少し速いと感じたが、楽なのでそのまま、[r]
-引っ張られる事にした。[pcms]
+I felt she was walking a bit fast, but it was easier to just[r]
+be pulled along.[pcms]
 
 ;//BLACKOUT
 [black_toplayer][trans_c cross time=1000][hide_chara_int]

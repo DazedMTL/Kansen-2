@@ -28,24 +28,23 @@
 *16461|
 [fc]
 [vo_hay s="hayami0639"]
-[ns]ありす[nse]
-「長崎さん！？」[pcms]
+[ns]Arisu[nse]
+"Nagasaki-san!?"[pcms]
 
 [ChrSetEx layer=4 chbase="naga_n15"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *16462|
 [fc]
-[ns]千尋[nse]
-「！！」[pcms]
+[ns]Chihiro[nse]
+"!!"[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *16463|
 [fc]
-長崎さんは、あたしの顔を見るなり、まるで幽霊でも[r]
-見たかのように、怯えきった表情をして、[r]
-走り去った。[pcms]
-;この部屋を出て行った。[pcms]
+Upon seeing my face, Nagasaki-san looked as if she had seen[r]
+a ghost, her expression filled with fear, and she ran away;[r]
+she left the room.[pcms]
 ;//（↑部屋じゃない、要修正）
 ;mm 修正されてなかったのでしておく
 
@@ -56,22 +55,20 @@
 
 *16464|
 [fc]
-[ns]背の高い男[nse]
-「なんだ、あいつ……、かのじょおいて、[r]
-　でてっちまったぜ？」[pcms]
+[ns]Tall man[nse]
+"What's with her... leaving her behind, she just took off?"[pcms]
 
 *16465|
 [fc]
-[ns]目つきの悪い男[nse]
-「ははっ！　みすてられたな……おまえ！！[r]
-　しかたねーから、あとはおれたちが、おまえを[r]
-　かわいがってやるから、あんしんしろよ！」[pcms]
+[ns]A man with a bad look in his eyes[nse]
+"Haha! You've been abandoned... you!! No helping it, we'll[r]
+take good care of you from now on, so rest easy!"[pcms]
 
 *16466|
 [fc]
 [vo_hay s="hayami0640"]
-[ns]ありす[nse]
-「いやああああぁあぁあ！」[pcms]
+[ns]Alice[nse]
+"Noooooo!"[pcms]
 
 ;//★レッドフラッシュ
 [赤フラ]
@@ -81,92 +78,89 @@
 
 *16467|
 [fc]
-[ns]背の高い男[nse]
-「おっ……ぐあっ！」[pcms]
+[ns]Tall man[nse]
+"Oh... guh!"[pcms]
 
 *16468|
 [fc]
-[ns]目つきの悪い男[nse]
-「おい……まてよ！！」[pcms]
+[ns]A man with a bad look in his eyes[nse]
+"Hey... wait!!"[pcms]
 
 [chara_int_ layer=2][chara_int_ layer=3][trans_c cross time=150]
 
 *16469|
 [fc]
-あたしを取り囲んでいた男達を突き飛ばし、脇に散乱[r]
-していた制服を握りしめ、その場から逃げ出した。[pcms]
+I pushed away the men that had surrounded me, grabbed the[r]
+scattered uniform at my side, and fled from the spot.[pcms]
 
 *16470|
 [fc]
-もう誰にも会いたくない。[r]
-あたしは、さんざんに犯されてしまった。[r]
-酷い目に遭った。[pcms]
+I don't want to see anyone anymore. I've been horribly[r]
+violated. I've suffered terribly.[pcms]
 
 *16471|
 [fc]
-今のあたしを、お父さんやお母さん、[r]
-それに、ヒロシ達が見たら、なんて言うんだろう。[pcms]
+What would my father and mother think if they saw me now,[r]
+not to mention Hiroshi and the others?[pcms]
 
 *16472|
 [fc]
-軽蔑するだろうな……。[r]
-みんなに嫌われちゃう……。[pcms]
+They would despise me... I'll be hated by everyone...[pcms]
 
 *16473|
 [fc]
-見知らぬ土地で独りぼっちになって、[r]
-訳の分からない事に巻き込まれて、[r]
-さらには、初体験まで、こんな形で……。[pcms]
+Alone in an unfamiliar place, caught up in something[r]
+incomprehensible, and furthermore, my first experience was[r]
+like this...[pcms]
 
 *16474|
 [fc]
-あたしは、これからどうしたらいいの？[pcms]
+What should I do from now on?[pcms]
 
 *16475|
 [fc]
-[ns]目つきの悪い男[nse]
-「にげんなよ～！　まってくれよお～！！[r]
-　またおれたちとあそぼうぜぇ～！！　ぎゃはは！」[pcms]
+[ns]A man with a bad look in his eyes[nse]
+"Don't run away~! Wait for me~!! Let's play with us again~!![r]
+Gyahaha!"[pcms]
 
 *16476|
 [fc]
 [vo_hay s="hayami0641"]
-[ns]ありす[nse]
-「ひっ……こ……来ないで！！」[pcms]
+[ns]Alice[nse]
+"Hii... do... don't come near me!!"[pcms]
 
 *16477|
 [fc]
-さっきの男の人達は、起きあがってあたしのほうに[r]
-歩いてきていた。[pcms]
+The men from before were getting up and walking towards me.[pcms]
 
 *16478|
 [fc]
-でも、よく見ると彼らは、怪我をした人みたいに、[r]
-足を引きずって歩いていて、とても走ったり出来る様[r]
-には見えなかった。[pcms]
+But upon closer inspection, they were walking with a limp[r]
+like injured people, and it didn't seem like they could run[r]
+at all.[pcms]
 
 *16479|
 [fc]
-走れば、何とか逃げられるかも……。[pcms]
+If I run, maybe I can escape...[pcms]
 
 *16480|
 [fc]
-あたしの考えは、正解だった。[pcms]
+My thought was correct.[pcms]
 
 *16481|
 [fc]
-目の前に立ちふさがるヘンな人達を突き飛ばして、[r]
-全力で駆け抜け振り返ると、追いついて来ている人は、[r]
-誰もいなかった。[pcms]
+I pushed aside the strange people blocking my way and ran[r]
+with all my might. When I looked back, no one was following[r]
+me.[pcms]
 
 ;//♪：bgm009 fadeout
 [fadeoutbgm time=1000]
 
 *16482|
 [fc]
-ヘンな人達が追いついて来れない事を確認してから、[r]
-慌てて制服を着て肌を隠し、どこかへ逃げ込もうと、[r]
-また走り出した。[pcms]
+After confirming that the strange people couldn't follow me,[r]
+I hurriedly put on my uniform to cover my skin and started[r]
+running again to escape somewhere.[pcms]
 
 ;//★ＢＧ：フキヌケ付近東４Ｆ
 
@@ -175,31 +169,29 @@
 *16483|
 [fc]
 [vo_hay s="hayami0642"]
-[ns]ありす[nse]
-「あっ！！」[pcms]
+[ns]Arisu[nse]
+"Ah!!"[pcms]
 
 *16484|
 [fc]
-エスカレーターの前までたどり着くと、[r]
-さっきあたしの前から逃げ出した長崎さんが、[r]
-フラフラと歩いているのが見えた。[pcms]
+When I reached the front of the escalator, I saw Nagasaki-[r]
+san, who had run away from me earlier, walking unsteadily.[pcms]
 
 *16485|
 [fc]
 [vo_hay s="hayami0643"]
-[ns]ありす[nse]
-「なが……」[pcms]
+[ns]Alice[nse]
+"Naga..."[pcms]
 ;//◎長崎と言いかけて、止める
 
 *16486|
 [fc]
-あたしが声をかけようとした瞬間、[r]
-長崎さんは足を踏み外したのか、エスカレーターから[r]
-転がり落ちてしまった。[pcms]
+Just as I was about to call out to her, Nagasaki-san seemed[r]
+to miss her step and tumbled down the escalator.[pcms]
 
 *16487|
 [fc]
-広いホールに、鈍い音が響き渡る。[pcms]
+A dull sound echoed through the spacious hall.[pcms]
 
 ;//♪：m04
 [bgm storage="m04"]
@@ -207,16 +199,16 @@
 *16488|
 [fc]
 [vo_hay s="hayami0644"]
-[ns]ありす[nse]
-「……！！　なっ！　な……長崎さん……！？[r]
-　長崎さん！！　きゃあぁぁあああああ！？」[pcms]
+[ns]Alice[nse]
+"...!! Na! Na... Nagasaki-san...!? Nagasaki-san!![r]
+Kyaaaahhhhh!"[pcms]
 
 [evcg storage="NEV300"][trans_c cross time=301]
 
 *16489|
 [fc]
-エスカレーターまで駆け寄って、下を覗くと、[r]
-そこにはうつぶせに倒れた長崎さんの姿があった。[pcms]
+I rushed to the escalator and peered down to see Nagasaki-[r]
+san lying face down.[pcms]
 
 ;//SE:雄叫び
 
@@ -224,42 +216,40 @@
 
 *16490|
 [fc]
-足や首をヘンな方に向けて横たわる長崎さんの周りに、[r]
-下の階に残っていたヘンな人達が、集まりだした。[pcms]
+The strange people who had remained on the lower floor began[r]
+to gather around the prone Nagasaki-san.[pcms]
 
 *16491|
 [fc]
 [vo_hay s="hayami0645"]
-[ns]ありす[nse]
-「……！」[pcms]
+[ns]Arisu[nse]
+"..."[pcms]
 
 *16492|
 [fc]
-横たわったままぴくりとも動かない長崎さんと、その[r]
-周りに集まった沢山のヘンな人を見て、恐怖で足が[r]
-すくんだあたしは、ただ下の様子を呆然と眺めていた。[pcms]
+Seeing Nagasaki-san lying motionless and the many strange[r]
+people gathering around her, my legs froze in fear, and I[r]
+could only stare blankly at the scene below.[pcms]
 
 *16493|
 [fc]
 [vo_hay s="hayami0646"]
-[ns]ありす[nse]
-「な、なんてこと……」[pcms]
+[ns]Arisu[nse]
+"What a terrible thing..."[pcms]
 
 *16494|
 [fc]
-長崎さんが倒れている周りに集まった人達は、[r]
-しゃがみ込んで何かしようとしていた。[pcms]
+The people who had gathered around the fallen Nagasaki-san[r]
+were crouching down as if trying to do something.[pcms]
 
 *16495|
 [fc]
-でも、一人、また一人と、ヘンな人は離れていって、[r]
-最後にはうつぶせのままの長崎さんだけが、[r]
-残されていた。[pcms]
+But one by one, the strange people left, and in the end,[r]
+only Nagasaki-san remained lying face down.[pcms]
 
 *16496|
 [fc]
-きっと、長崎さんは……。[r]
-もう……。[pcms]
+Surely, Nagasaki-san is... no longer...[pcms]
 
 [bg storage="bg11c"][trans_c cross time=1000]
 
@@ -271,80 +261,79 @@
 *16497|
 [fc]
 [vo_hay s="hayami0647"]
-[ns]ありす[nse]
-「……！　あっ！」[pcms]
+[ns]Arisu[nse]
+"...! Ah!"[pcms]
 
 *16498|
 [fc]
-呆然としていたあたしは、[r]
-目の前の光景を見て我に返った。[pcms]
+Snapping out of my daze at the sight before me, I came back[r]
+to my senses.[pcms]
 
 *16499|
 [fc]
-長崎さんの横にいたヘンな人達の一部が、[r]
-あたしを目指して、エスカレーターを登ってきていた。[pcms]
+Some of the strange people who had been beside Nagasaki-san[r]
+were now climbing up the escalator towards me.[pcms]
 
 *16500|
 [fc]
-[ns]半袖シャツの男[nse]
-「お゛ぁ゛あ゛あ゛あ゛～～！」[pcms]
+[ns]Man in a Short-Sleeved Shirt[nse]
+"Gaaaaahhhhh~!"[pcms]
 
 *16501|
 [fc]
-[ns]ロン毛の中年[nse]
-「あは゛あ゛～～！　お゛んな゛あ゛～～！」[pcms]
+[ns]Long-haired middle-aged man[nse]
+"Ahahaaa~! Womaaaaan~!"[pcms]
 
 *16502|
 [fc]
 [vo_hay s="hayami0648"]
-[ns]ありす[nse]
-「やあっ！！　何でこんな！！　いやぁぁあ！」[pcms]
+[ns]Alice[nse]
+"Yaaah!! Why is this happening!! Noooo!"[pcms]
 
 *16503|
 [fc]
-長崎さんに駆け寄る事も忘れ、あたしはまた、[r]
-ヘンな人達から逃げなければならなくなってしまった。[pcms]
+Forgetting to rush to Nagasaki-san's side, I once again had[r]
+to flee from the strange people.[pcms]
 
 *16504|
 [fc]
 [vo_hay s="hayami0649"]
-[ns]ありす[nse]
-「あれ……！？」[pcms]
+[ns]Arisu[nse]
+"That...!?"[pcms]
 
 *16505|
 [fc]
-さっきまで動いていなかったエレベーターの、[r]
-階数表示ランプが、三階から、四階へと[r]
-変わるのが見えた。[pcms]
+The floor indicator lamp of the elevator that hadn't been[r]
+moving until now changed from the third floor to the fourth[r]
+floor.[pcms]
 
 *16506|
 [fc]
-エレベーターが動き出したんだ！[r]
-あの中に逃げ込めば……！[pcms]
+The elevator started moving! If I can get inside it...[pcms]
 
 *16507|
 [fc]
-エレベーターホールまで走り、昇降ボタンを[r]
-メチャクチャに押しまくった。[pcms]
+I ran to the elevator hall and frantically pressed the call[r]
+button over and over.[pcms]
 
 *16508|
 [fc]
 [vo_hay s="hayami0650"]
-[ns]ありす[nse]
-「はっ……はあっ……！　早く！　早く！！」[pcms]
+[ns]Alice[nse]
+"Hah... haaah...! Quickly! Quickly!!"[pcms]
 
 *16509|
 [fc]
-ようやく、あたしの前のエレベーターの扉が開く。[pcms]
+Finally, the doors of the elevator in front of me opened.[pcms]
 
 *16510|
 [fc]
-でもそれは開けてはならない、地獄の扉だった。[pcms]
+But it was a door to hell that should not have been opened.[pcms]
 
 *16511|
 [fc]
-扉が開ききると、中からは沢山のヘンな人が、[r]
-あたし目がけて飛びかかってきた。[pcms]
+As the doors fully opened, many strange people leaped out at[r]
+me.[pcms]
 
 ;//♪：bgm011 stop
 [fadeoutbgm time=1][wb]
@@ -357,41 +346,39 @@
 
 *16512|
 [fc]
-[ns]破れたジーンズの男[nse]
-「く゛お゛お゛ぉぉ！」[pcms]
+[ns]Man in Torn Jeans[nse]
+"Gwooohhh!"[pcms]
 
 *16513|
 [fc]
-[ns]ヒゲの親父[nse]
-「き゛ゃあぁぁぁあぁあ！！」[pcms]
+[ns]Bearded Old Man[nse]
+"Gyaaaahhhhh!!"[pcms]
 
 *16514|
 [fc]
-[ns]若い男[nse]
-「おんなだぁ！！　おんな！　しんせんなおんなぁ！」[pcms]
+[ns]Young man[nse]
+"A woman!! A woman! A fresh woman!"[pcms]
 
 *16515|
 [fc]
-[ns]柄シャツの男[nse]
-「う゛ぉ゛ぉ゛ぉ゛お゛！！」[pcms]
+[ns]Man in a Patterned Shirt[nse]
+"Uwooooh!!"[pcms]
 
 *16516|
 [fc]
-[ns]丸顔の男[nse]
-「て゛てきたあ゛ぁ～～～……ま゛ん゛こか゛て゛て[r]
-　きてる゛そ゛お゛ぉ～～～……っ！！」[pcms]
+[ns]Round-faced man[nse]
+"She's hereee~... That pussy has come to us~...!!"[pcms]
 
 *16517|
 [fc]
-[ns]背の低い男[nse]
-「と゛けえ゛ぇ～～～……っ！！　その゛ま゛んこは、[r]
-　おれ゛の゛た゛あぁ～～～……っ！！」[pcms]
+[ns]Short man[nse]
+"Get out of the way~...!! That pussy is mine~...!!"[pcms]
 
 *16518|
 [fc]
 [vo_hay s="hayami0651"]
-[ns]ありす[nse]
-「そ……そんな！！　きゃあぁぁぁぁああぁ！！」[pcms]
+[ns]Arisu[nse]
+"No... No way!! Kyaaahhhhh!!"[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 

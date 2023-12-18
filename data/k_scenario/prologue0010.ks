@@ -19,38 +19,37 @@
 
 *6358|
 [fc]
-………………。[pcms]
+...[pcms]
 
 *6359|
 [fc]
-……あれ？　この曲……。[r]
-プレイリストが一周してるな……。[pcms]
+...Huh? This song... The playlist has looped around...[pcms]
 
 *6360|
 [fc]
-てことは、６時間目は……。[pcms]
+That means, it's already the sixth period...[pcms]
 
 *6361|
 [fc]
 [vo_hay s="hayami_A0000"]
 [ns]？？？[nse]
-「お客さん！　もう閉店なんですけどー！」[pcms]
+"Excuse me! We're closed now-!"[pcms]
 
 *6362|
 [fc]
-いきなりイヤホンがはずされて、聞き慣れた声が耳元[r]
-でするのと同時に、俺の体はガクガクと強く揺さぶら[r]
-れた。[pcms]
+Suddenly, my earphones were yanked off, and a familiar voice[r]
+rang in my ears. At the same time, my body was shaken[r]
+violently.[pcms]
 
 *6363|
 [fc]
-[ns]大倉[nse]
-「ん～……」[pcms]
+[ns]Ookura[nse]
+"Mmm..."[pcms]
 
 *6364|
 [fc]
-それ以上、目をつぶっていることもできなくなって、[r]
-俺は渋々、声の主の方へ顔を向けた。[pcms]
+Unable to keep my eyes shut any longer, I reluctantly turned[r]
+my face towards the owner of the voice.[pcms]
 
 [sysbt_meswin clear]
 
@@ -71,65 +70,63 @@
 
 *6365|
 [fc]
-[ns]大倉[nse]
-「……あと１杯だけ」[pcms]
+[ns]Ookura[nse]
+"...Just one more drink"[pcms]
 
 [ChrSetEx layer=4 chbase="hayami_n04"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *6366|
 [fc]
 [vo_hay s="hayami0000"]
-[ns]ありす[nse]
-「奥さん待ってるんでしょ？　もう帰った方がいいで[r]
-　すよ」[pcms]
+[ns]Arisu[nse]
+"Your wife is waiting, isn't she? You should go home now."[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
 *6367|
 [fc]
-[ns]大倉[nse]
-「わかれたよ……」[pcms]
+[ns]Ookura[nse]
+"We split up..."[pcms]
 
 [ChrSetEx layer=4 chbase="hayami_n05"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *6368|
 [fc]
 [vo_hay s="hayami0001"]
-[ns]ありす[nse]
-「え……ホントに？」[pcms]
+[ns]Arisu[nse]
+"Eh... Really?"[pcms]
 
 *6369|
 [fc]
-[ns]大倉[nse]
-「俺にはもう、ママしかいないんだ……」[pcms]
+[ns]Ookura[nse]
+"All I have now is Mama..."[pcms]
 
 *6370|
 [fc]
 [vo_hay s="hayami0002"]
-[ns]ありす[nse]
-「大倉さん……」[pcms]
+[ns]Arisu[nse]
+"Ookura-san..."[pcms]
 
 [ChrSetEx layer=4 chbase="koba_n12"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *6371|
 [fc]
 [vo_kob s="koba0000"]
-[ns]小林[nse]
-「……ねぇ、いつ終わるの？　そのお昼にやってそう[r]
-　なドラマ」[pcms]
+[ns]Kobayashi[nse]
+"...Hey, when is this daytime drama going to end?"[pcms]
 
 *6372|
 [fc]
-[ns]大倉[nse]
-「次回、『ヒロシとありすの湯けむり探訪』、お楽し[r]
-　みに！！」[pcms]
+[ns]Ookura[nse]
+"Next time, on 'Hiroshi and Arisu's Steamy Journey', stay[r]
+tuned!!"[pcms]
 
 *6373|
 [fc]
 [vo_kob s="koba0001"]
-[ns]小林[nse]
-「番組変わってるじゃん……。てゆーか、起きたばっ[r]
-　かりなのによくそうやってボケ続けられるよね」[pcms]
+[ns]Kobayashi[nse]
+"The show has changed, hasn't it... And to think, you just[r]
+woke up and you can still keep making jokes like that."[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 [ChrSetEx layer=2 chbase="koba_n12"][ChrSetXY layer=2 x=0 y=0]
@@ -138,157 +135,153 @@
 *6374|
 [fc]
 [vo_hay s="hayami0003"]
-[ns]ありす[nse]
-「ねー。６時間目が終わったら起きるかなーと思って[r]
-　たら、結局ホームルームも終わっちゃったもんね」[pcms]
+[ns]Arisu[nse]
+"Right? I thought he'd wake up after the sixth period, but[r]
+he ended up sleeping through homeroom too."[pcms]
 
 *6375|
 [fc]
-[ns]大倉[nse]
-「え……ホームルームまで終わってんの？　ケータイ[r]
-　に入れてる音楽が一周してたから、６時間目はもう[r]
-　終わってるんだろうなとは思ってたけど」[pcms]
+[ns]Ookura[nse]
+"Eh... Homeroom is over too? I thought the sixth period must[r]
+have ended because the music on my phone had looped around."[pcms]
 
 [ChrSetEx layer=3 chbase="hayami_n01"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
 
 *6376|
 [fc]
 [vo_hay s="hayami0004"]
-[ns]ありす[nse]
-「あ、そういえばすっごい漏れてたよ、音。[ruby text="さかた"][ch text="盛田"]先生[r]
-　にもゼッタイ聞こえてたよね、あれ」[pcms]
+[ns]Arisu[nse]
+"Ah, by the way, your music was leaking really loud. Morita-[r]
+sensei must have definitely heard it."[pcms]
 
 [ChrSetEx layer=2 chbase="koba_n04"][ChrSetXY layer=2 x=0 y=0][trans_c cross time=150]
 
 *6377|
 [fc]
 [vo_kob s="koba0002"]
-[ns]小林[nse]
-「もうヒヤヒヤだったよ。今にも黒板叩いて怒鳴りだ[r]
-　しそうな目、してたし」[pcms]
+[ns]Kobayashi[nse]
+"I was so nervous. She had that look in her eyes like she[r]
+was about to slam the chalkboard and start yelling."[pcms]
 
 *6378|
 [fc]
-[ns]大倉[nse]
-「だってクソつまんねーんだもん、アイツの授業。アレ[r]
-　で起きてられるってヤツの方が不思議だよ」[pcms]
+[ns]Ookura[nse]
+"Because her class is so damn boring. It's a mystery how[r]
+anyone can stay awake through that."[pcms]
 
 [ChrSetEx layer=2 chbase="koba_n01"][ChrSetXY layer=2 x=0 y=0][trans_c cross time=150]
 
 *6379|
 [fc]
 [vo_kob s="koba0003"]
-[ns]小林[nse]
-「まぁ、６時間目にあの先生の授業はツライよね」[pcms]
+[ns]Kobayashi[nse]
+"Well, having her class during the sixth period is tough."[pcms]
 
 *6380|
 [fc]
-[ns]大倉[nse]
-「ツライなんてもんじゃねーよ。拷問だ、拷問」[pcms]
+[ns]Ookura[nse]
+"Tough is an understatement. It's torture, torture."[pcms]
 
 [ChrSetEx layer=3 chbase="hayami_n04"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
 
 *6381|
 [fc]
 [vo_hay s="hayami0005"]
-[ns]ありす[nse]
-「あたし、眠らないようにシャーペンで自分の手ぇ刺[r]
-　したりしてる～♪」[pcms]
+[ns]Arisu[nse]
+"I try not to fall asleep by stabbing my hand with a[r]
+mechanical pencil~♪"[pcms]
 
 [ChrSetEx layer=3 chbase="hayami_n03"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
 
 *6382|
 [fc]
-[ns]大倉[nse]
-「……なにプレイだ？　それ。オマエどんだけＭなん[r]
-　だよ」[pcms]
+[ns]Ookura[nse]
+"...What kind of play is that? How masochistic are you?"[pcms]
 
 [ChrSetEx layer=3 chbase="hayami_n07"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
 
 *6383|
 [fc]
 [vo_hay s="hayami0006"]
-[ns]ありす[nse]
-「えぇ～、あたしのカラダをこんな風にしたの、ヒロ[r]
-　シじゃん」[pcms]
+[ns]Arisu[nse]
+"Eeh~, it's Hiroshi who made my body like this."[pcms]
 
 [ChrSetEx layer=2 chbase="koba_n12"][ChrSetXY layer=2 x=0 y=0][trans_c cross time=150]
 
 *6384|
 [fc]
-[ns]大倉[nse]
-「そりゃプロの調教師だからな」[pcms]
+[ns]Ookura[nse]
+"That's because I'm a professional trainer."[pcms]
 
 *6385|
 [fc]
 [vo_hay s="hayami0007"]
-[ns]ありす[nse]
-「責任取ってね♪」[pcms]
+[ns]Arisu[nse]
+"You better take responsibility♪"[pcms]
 
 *6386|
 [fc]
-[ns]大倉[nse]
-「えー、メンドくせーからヤダー」[pcms]
+[ns]Ookura[nse]
+"Eh-, that's too much trouble, I don't wanna."[pcms]
 
 [ChrSetEx layer=3 chbase="hayami_n09"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
 
 *6387|
 [fc]
 [vo_hay s="hayami0008"]
-[ns]ありす[nse]
-「……裕樹、聞いた？　今の。責任も取らないで、あ[r]
-　たしのこと捨てようとしてるよこの男！　ありえな[r]
-　いんですけど！」[pcms]
+[ns]Arisu[nse]
+"...Yuuki, did you hear that? He's trying to dump me without[r]
+taking any responsibility! Can you believe this guy!?"[pcms]
 
 [ChrSetEx layer=2 chbase="koba_n12"][ChrSetXY layer=2 x=0 y=0][trans_c cross time=150]
 
 *6388|
 [fc]
-[ns]大倉[nse]
-「オマエが誘ってきたんじゃねーか」[pcms]
+[ns]Ookura[nse]
+"You're the one who came onto me."[pcms]
 
 [ChrSetEx layer=3 chbase="hayami_n07"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
 
 *6389|
 [fc]
 [vo_hay s="hayami0009"]
-[ns]ありす[nse]
-「そっか。じゃあしょうがないよね」[pcms]
+[ns]Arisu[nse]
+"Is that so. Then I guess it can't be helped."[pcms]
 
 [ChrSetEx layer=2 chbase="koba_n06"][ChrSetXY layer=2 x=0 y=0][trans_c cross time=150]
 
 *6390|
 [fc]
 [vo_kob s="koba0004"]
-[ns]小林[nse]
-「え、許しちゃうの！？」[pcms]
+[ns]Kobayashi[nse]
+"Eh, you're forgiving him!?"[pcms]
 
 *6391|
 [fc]
-[ns]大倉[nse]
-「そういう物わかりのいいトコ、好きだぜ俺」[pcms]
+[ns]Ookura[nse]
+"I like that about you, how understanding you are."[pcms]
 
 [ChrSetEx layer=3 chbase="hayami_n04"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
 
 *6392|
 [fc]
 [vo_hay s="hayami0010"]
-[ns]ありす[nse]
-「えー、あたしヒロシきらーい」[pcms]
+[ns]Arisu[nse]
+"Eeh-, I hate Hiroshi."[pcms]
 
 *6393|
 [fc]
-[ns]大倉[nse]
-「……ユウ、聞いたか？　今の。フッた！　みんなの[r]
-　前で告白したのにフッたぞ、この女！」[pcms]
+[ns]Ookura[nse]
+"...Yuuki, did you hear that? Just now. She dumped me! After[r]
+confessing in front of everyone, she dumped me, this girl!"[pcms]
 
 [ChrSetEx layer=2 chbase="koba_n12"][ChrSetXY layer=2 x=0 y=0][trans_c cross time=150]
 
 *6394|
 [fc]
 [vo_kob s="koba0005"]
-[ns]小林[nse]
-「……ねぇ、ボクもう帰っていいかな」[pcms]
+[ns]Kobayashi[nse]
+"...Hey, can I go home now?"[pcms]
 
 [fadeoutbgm time=502]
 [stop_se0]
@@ -299,4 +292,4 @@
 
 [jump storage="prologue0020.ks" target=*prologue0020_TOP]
 
-;//－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+;//

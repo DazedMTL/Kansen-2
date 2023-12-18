@@ -42,20 +42,20 @@
 
 *8226|
 [fc]
-[ns]菅生[nse]
-「ンだよ、もう１８時かよ、チッ……」[pcms]
+[ns]Sugou[nse]
+"Damn, it's already 6 PM, tch..."[pcms]
 
 *8227|
 [fc]
-えらい手間取っちまったなァ……。[r]
-とっとと終わらせねェと、女探す時間が無くなっちま[r]
-うじゃねェか……。[pcms]
+"Took a hell of a time... If I don't finish this quickly, I[r]
+won't have time to look for girls..."[pcms]
 
 *8228|
 [fc]
-[ns]菅生[nse]
-「手伝う人間１人ぐらいよこせよバカ野郎がァ……。[r]
-　これだから田舎のスーパーの仕事はイヤだぜ……」[pcms]
+[ns]Sugou[nse]
+"Give me at least one person to help out, you idiots... This[r]
+is why I hate working at a supermarket in the[r]
+countryside..."[pcms]
 
 ;//＠：広場
 ;//BG：ショッピングモール全景・夕方
@@ -67,68 +67,67 @@
 
 *8229|
 [fc]
-[ns]菅生[nse]
-「え～とォ……コイツはどこ持ってくんだァ？」[pcms]
+[ns]Sugou[nse]
+"Let's see... Where do I take this thing?"[pcms]
 
 *8230|
 [fc]
-なんだよこのリストよォ……。[r]
-もうちょっと見やすく作れよバァカ……。[pcms]
+"What's with this list... Make it a bit more readable, you[r]
+idiot..."[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
 *8231|
 [fc]
-[ns]菅生[nse]
-「品名はァ……女性用アダルトグッズ、と……なんだ、[r]
-　隣町かァ」[pcms]
+[ns]Sugou[nse]
+"The item name is... female adult toys, and... what, the[r]
+next town over?"[pcms]
 
 *8232|
 [fc]
-しっかし……。[r]
-こんなにローター仕入れて、全部売れんのかァ……？[pcms]
+"But seriously... Ordering so many vibrators, can they all[r]
+even sell?"[pcms]
 
 *8233|
 [fc]
-[ns]菅生[nse]
-「ま、俺様の知ったこっちゃねェけどよ」[pcms]
+[ns]Sugou[nse]
+"Well, it's not my problem anyway."[pcms]
 
 *8234|
 [fc]
-カートンじゃなくて、パレット積みかァ……。[r]
-巻いてあるラップずらせば取れるよな……。[pcms]
+"Not in cartons, but pallet loading, huh... If I slide off[r]
+the wrap, I can get them out..."[pcms]
 
 *8235|
 [fc]
-[ns]菅生[nse]
-「……」[pcms]
+[ns]Sugou[nse]
+"..."[pcms]
 
 *8236|
 [fc]
-ハナっからこの数だった、つってゴネれば、[r]
-仕入れしなおすだろ……。[pcms]
+"If I complain that the count was off from the beginning,[r]
+they'll probably reorder..."[pcms]
 
 *8237|
 [fc]
-だいたい、こんな恥ずかしいモン運んでやってんだか[r]
-ら、１個ぐらいもらっても問題ねェよな……？[pcms]
+"Anyway, since I'm carrying such embarrassing stuff, it[r]
+wouldn't be a problem to take one, right...?"[pcms]
 
 *8238|
 [fc]
-[ns]菅生[nse]
-「危険手当だ、危険手当……よっ、とォ」[pcms]
+[ns]Sugou[nse]
+"Call it a hazard pay, hazard pay... Yoink."[pcms]
 
 *8239|
 [fc]
-捕まえた女に使ってやったらオモシロそうだァ……。[r]
-でもなァ、テキトーなのが捕まんなかったらどうすっ[r]
-かなァ……。[pcms]
+"It'd be funny to use it on a girl I catch... But what if I[r]
+don't catch the right one..."[pcms]
 
 *8240|
 [fc]
-[ns]菅生[nse]
-「１８時、１５分かァ……ま、イイのが捕まんなかっ[r]
-　たらソープ行って、そこで使えばいいかァ」[pcms]
+[ns]Sugou[nse]
+"6:15 PM, huh... Well, if I don't catch a good one, I guess[r]
+I'll just go to a soapland and use it there."[pcms]
 
 [sysbt_meswin clear]
 [fadeoutbgm time=502]
@@ -138,4 +137,4 @@
 
 [jump storage="prologue02000.ks" target=*prologue02000_TOP]
 
-;//－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+;//

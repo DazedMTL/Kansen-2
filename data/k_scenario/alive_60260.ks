@@ -22,146 +22,136 @@
 
 *1818|
 [fc]
-オヤジを追いかけ外に出た俺達を、[r]
-中に群がっていた奴らが、追いかけ飛び出してきてい[r]
-たが、俺達同様に、歩くのはあまり早くはなかった。[pcms]
+We chased after the old man and went outside, and the guys[r]
+who had been swarming inside followed us out. Like us, they[r]
+weren't walking very fast.[pcms]
 
 *1819|
 [fc]
-その様子を見て安心したのか、直美は俺に顔を見せて、[r]
-力強く励ましてくれた。[pcms]
+Seeing that, Naomi seemed relieved and showed me her face,[r]
+encouraging me strongly.[pcms]
 
 [ChrSetEx layer=4 chbase="turuta_n05"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *1820|
 [fc]
 [vo_nao s="naomi0145"]
-[ns]直美[nse]
-「もう少し……もう少しだから……。[r]
-　もう少しで、必ず君達を助けてあげる……。[r]
-　それまで辛抱して！」[pcms]
+[ns]Naomi[nse]
+"Just a little more... just a bit longer... I will[r]
+definitely save you all... Just hang in there!"[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *1821|
 [fc]
-たすける……。[r]
-しんぼう……？[pcms]
+Save... Hang in there...?[pcms]
 
 *1822|
 [fc]
-おれたち……どこかわるいのかな……。[r]
-このままでもいいようなきもするんだけどな。[pcms]
+Are we... doing something wrong...? I feel like it might be[r]
+okay to stay like this.[pcms]
 
 *1823|
 [fc]
-でも、こんなにまぶしいのも、はらがへるのも……。[r]
-なんだかあたまがくらくらするのからたすけてくれる[r]
-のなら……。[pcms]
+But, if she's going to save us from this blinding light and[r]
+our growling stomachs... and our heads spinning...[pcms]
 
 *1824|
 [fc]
-ん……。[r]
-そうだ……。[pcms]
+Hmm... That's right...[pcms]
 
 *1825|
 [fc]
-おれは、いえにかえらなきゃならないんだ……。[pcms]
+I have to go back home...[pcms]
 
 *1826|
 [fc]
-あの……うるさい……アイツ……。[r]
-やさしい……としくったおんなと……。[r]
-タバコくせぇおとこと……。[pcms]
+To that... noisy... guy... With the kind... old woman... And[r]
+the man who reeks of tobacco...[pcms]
 
 *1827|
 [fc]
-……あいつらにあいに……。[pcms]
+...to see them...[pcms]
 
 *1828|
 [fc]
-かえらなきゃ。[r]
-そうだ……。[pcms]
+I have to go back. That's right...[pcms]
 
 *1829|
 [fc]
-おれは……いえに……。[pcms]
+I am... going home...[pcms]
 
 *1830|
 [fc]
-[ns]大倉[nse]
-「おれは……いえにかえる……。[r]
-　はやみたちもつれて……いえに……みんないっしょ、[r]
-　みんなで……いえにかえるんだ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"I'm going home... I'll take Hayami and the others with[r]
+me... We'll all go home together..."[pcms]
 
 [ChrSetEx layer=4 chbase="turuta_n05"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *1831|
 [fc]
 [vo_nao s="naomi0146"]
-[ns]直美[nse]
-「そうよ！　その調子よ！！　君たちはまだ、[r]
-　あんな風になってないから……完全におかしく[r]
-　なってないから！　まだ助かるかもしれないから！」[pcms]
+[ns]Naomi[nse]
+"That's right! Keep it up!! You guys haven't become like[r]
+that yet... You're not completely messed up! There might[r]
+still be a chance to save you!"[pcms]
 
 *1832|
 [fc]
 [vo_nao s="naomi0147"]
-[ns]直美[nse]
-「まだ……君達は……何とかなるかもしれない！[r]
-　さあ！　一緒に……私と一緒にきて！」[pcms]
+[ns]Naomi[nse]
+"You still might be able to make it! Come on! Come with me!"[pcms]
 
 *1833|
 [fc]
-[ns]大倉[nse]
-「なんとかなる？　それよりも……。[r]
-　おれは、いえにかえる……かえるんだ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Make it? More than that... I'm going home... I'm going[r]
+back..."[pcms]
 
 *1834|
 [fc]
-そうだよ。[r]
-なおみについていけば、いえにかえれるんだ。[pcms]
+That's right. If we follow Naomi, we can go home.[pcms]
 
 *1835|
 [fc]
-きっと、そうだ……。[pcms]
+Surely, that's right...[pcms]
 
 *1836|
 [fc]
-なんとかなるかもしれないって……、[r]
-そういうことなんだ。[pcms]
+That we might be able to make it... That's what it means.[pcms]
 
 [ChrSetEx layer=4 chbase="turuta_n03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *1837|
 [fc]
 [vo_nao s="naomi0148"]
-[ns]直美[nse]
-「あの男……あんな所に！　地下ね……行くわよ！」[pcms]
+[ns]Naomi[nse]
+"That man... down there! The basement... Let's go!"[pcms]
 
 *1838|
 [fc]
-[ns]大倉[nse]
-「わかった……おれは、いえにかえるんだ……[r]
-　みんなも、いっしょにかえろうぜ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Understood... I'm going home... Let's all go back[r]
+together..."[pcms]
 
 [ChrSetEx layer=4 chbase="hayami_a04"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *1839|
 [fc]
 [vo_hay s="hayami1215"]
-[ns]ありす[nse]
-「うん！　かえるかえる～！」[pcms]
+[ns]Arisu[nse]
+"Yeah! Let's go home~!"[pcms]
 
 [ChrSetEx layer=4 chbase="koba_t03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *1840|
 [fc]
 [vo_kob s="koba0580"]
-[ns]小林[nse]
-「かえる……？」[pcms]
+[ns]Kobayashi[nse]
+"Go home...?"[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_h02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *1841|
 [fc]
 [vo_may s="maya0843"]
-[ns]摩耶[nse]
-「ねむい……」[pcms]
+[ns]Maya[nse]
+"I'm sleepy..."[pcms]
 
 ;//★黒画面
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -169,9 +159,9 @@
 *1842|
 [fc]
 [vo_nao s="naomi0149"]
-[ns]直美[nse]
-「この先に向かっていたはず……あれね……。[r]
-　あのトラックなら、みんなを連れて本部まで……！」[pcms]
+[ns]Naomi[nse]
+"He was heading this way before... That truck over there...[r]
+If we use it, we can take everyone back to headquarters...!"[pcms]
 
 ;//＠：地下搬入口
 
@@ -185,17 +175,16 @@
 [ChrSetEx layer=4 chbase="sugo_n02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *tuia10|
 [fc]
-[ns]菅生[nse]
-「おぉ～……おれさまのトラックちゃん～～！[r]
-　あいしてるぜェ～……！」[pcms]
+[ns]Sugou[nse]
+"Ohh~... My beloved truck-chan~~! I love you~~...!"[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *1843|
 [fc]
-ようやく追いついたオヤジは、自分の物なのか、[r]
-大きなトラックに頬ずりし、ブツブツと独り言を[r]
-呟いていた。[pcms]
+Finally catching up, the old man was rubbing his cheek[r]
+against the big truck as if it were his own, muttering to[r]
+himself.[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
@@ -203,84 +192,80 @@
 *1844|
 [fc]
 [vo_nao s="naomi0150"]
-[ns]直美[nse]
-「あの男を連れて逃げるか……それとも……」[pcms]
+[ns]Naomi[nse]
+"Should we take that man and run away... or..."[pcms]
 
 [ChrSetEx layer=4 chbase="sugo_n04"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *tuia11|
 [fc]
-[ns]菅生[nse]
-「だれだァ？　そこにいんのはよォ！！」[pcms]
+[ns]Sugou[nse]
+"Who's there? Who's out there?!"[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *1845|
 [fc]
-オヤジは俺達の存在に気が付いたのか、[r]
-急に叫びだし、辺りを警戒し始めた。[pcms]
+The old man seemed to notice our presence, suddenly started[r]
+shouting, and began looking around cautiously.[pcms]
 
 [ChrSetEx layer=4 chbase="hayami_a09"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *1846|
 [fc]
 [vo_hay s="hayami1216"]
-[ns]ありす[nse]
-「あたし、あのオジサンきら……んぐっ……」[pcms]
+[ns]Alice[nse]
+"I hate that old man kiraa...ng..."[pcms]
 
 [ChrSetEx layer=4 chbase="turuta_a02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *1847|
 [fc]
 [vo_nao s="naomi0151"]
-[ns]直美[nse]
-「しっ……静かにしてっ……」[pcms]
+[ns]Naomi[nse]
+"Shh... Keep quiet..."[pcms]
 
 [ChrSetEx layer=4 chbase="sugo_n03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *tuia12|
 [fc]
-[ns]菅生[nse]
-「おぁ～？　おんなのこえがすんぞォ！？[r]
-　そっちかぁ……ひゃはははぁ！」[pcms]
+[ns]Sugou[nse]
+"Oh~? Is that a girl's voice I hear!? Over there...[r]
+hyahaha!"[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *1848|
 [fc]
-オヤジは俺達の方にどんどん近寄ってきていたけど、[r]
-直美は、暴れる速水に気を取られ、オヤジに気が付い[r]
-ていないみたいだった。[pcms]
+The old man was getting closer to us, but Naomi was[r]
+distracted by the rampaging Hayami and didn't seem to notice[r]
+him.[pcms]
 
 *1849|
 [fc]
-ユウも、摩耶ちゃんも、天井を見つめてフラフラと[r]
-揺れているだけで、俺以外にあのオヤジに気が付いて[r]
-いるのはいなかった。[pcms]
+Yuuki and Maya-chan were just staring at the ceiling,[r]
+swaying, and no one but me seemed to notice that old man.[pcms]
 
 *1850|
 [fc]
-あのトラック、オヤジのだよな……。[r]
-ってことは、あのオヤジやっつければ、[r]
-トラックうばえる……。[pcms]
+That truck belongs to the old man, right? So if we take him[r]
+down, we can steal the truck...[pcms]
 
 *1851|
 [fc]
-トラックうばって、おれたちは、なおみに[r]
-いえまでつれてってもらって……。[pcms]
+If we steal the truck, Naomi can take us home...[pcms]
 
 ;//バッドエンド救済ポイント8
 ;AutoSave 8
 
 *1852|
 [fc]
-いや……。[r]
-あのオヤジもいっしょのほうがいいのか……？[pcms]
+No... Maybe it's better to take the old man with us...?[pcms]
 
 *1853|
 [fc]
-でもあいつはなんかムカつくし……。[r]
-はやみもきらってるみたいだし……。[pcms]
+But he's kind of annoying... And Hayami seems to hate him[r]
+too...[pcms]
 
 *1854|
 [fc]
-どうすれば……。[pcms]
+What should we do...[pcms]
 
 ;[sysbt_meswin clear]
 
@@ -293,7 +278,7 @@
 ;[link storage="alive_bad_80060.ks" target=*alive_bad_80060_TOP]オヤジをせっとくしてかぎをかしてもらう[endlink]
 ;[link storage="alive_60270.ks"     target=*alive_60270_TOP    ]オヤジをぶんなぐってかぎをうばいとる[endlink]
 ;[link storage="alive_bad_80060.ks" target=*alive_bad_80060_TOP]とらっく、トラック……車？　鍵[endlink]
-;[s]
+;[pcms]
 
 
 ;	*60260_1
@@ -314,9 +299,9 @@
 [fc]
 [pcms_sel]
 
-[eval exp="f.seltext02 = 'オヤジをせっとくしてかぎをかしてもらう'"]
-[eval exp="f.seltext04 = 'オヤジをぶんなぐってかぎをうばいとる'"]
-[eval exp="f.seltext06 = 'とらっく、トラック……車？　鍵'"]
+[eval exp="f.seltext02 = 'Persuade the old man to lend us the key'"]
+[eval exp="f.seltext04 = 'Punch the old man and steal the keys'"]
+[eval exp="f.seltext06 = 'Truck, truck car? Key'"]
 
 [if exp="tf.sys_sub == 0 || tf.選択肢ログ表示してね == 1"]
 	;選択肢内容をバックログに表記。改行コード必須。

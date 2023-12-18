@@ -32,116 +32,115 @@
 *16647|
 [fc]
 [vo_may s="maya0216"]
-[ns]摩耶[nse]
-「……」[pcms]
+[ns]Maya[nse]
+"..."[pcms]
 ;//◎録る必要なし
 
 *16648|
 [fc]
-まさか、自分から男の人に、キスするなんて……。[r]
-そんな人間だったかな……。[pcms]
+"I never thought I'd be the one to kiss a man... Am I really[r]
+that kind of person?"[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
 *16649|
 [fc]
-膝の上で寝息を立てるヒロシの顔を見て、さっき自分[r]
-がしたことや、言ったことを思い出し、私は頬が熱く[r]
-なるのを感じた。[pcms]
+Looking at Hiroshi's face as he breathes softly in his sleep[r]
+on my lap, I remember what I did and said earlier, and I can[r]
+feel my cheeks getting hot.[pcms]
 
 *16650|
 [fc]
-後悔をしているわけではない。[r]
-むしろ、嬉しいと感じている。[pcms]
+I'm not regretting it. Rather, I'm feeling happy.[pcms]
 
 *16651|
 [fc]
-ちゃんと自分のことを見てくれる。[r]
-ちゃんと自分のことを考えてくれる。[pcms]
+He really sees me. He truly thinks about me.[pcms]
 
 *16652|
 [fc]
-そして、自分のことを必要としてくれる。[pcms]
+And he needs me.[pcms]
 
 *16653|
 [fc]
-ずっと、そんな人を求めていた。[r]
-そんな人と出会えたら、と何度も想像した。[pcms]
+I've always been looking for someone like that. I've[r]
+imagined countless times what it would be like to meet such[r]
+a person.[pcms]
 
 *16654|
 [fc]
-そして、出会えたそんなひとに、自分の初めてのキス[r]
-をあげられたことで、私の心は浮き立っていた。[pcms]
+And now that I've met him, I'm elated that I could give my[r]
+first kiss to him.[pcms]
 
 *16655|
 [fc]
-このひとになら、全てをあげられる。[r]
-このひとになら、なんでもしてあげられる。[pcms]
+I could give him everything. I could do anything for him.[pcms]
 
 *16656|
 [fc]
 [vo_may s="maya0217"]
-[ns]摩耶[nse]
-「……」[pcms]
+[ns]Maya[nse]
+"..."[pcms]
 ;//◎録る必要なし
 
 *16657|
 [fc]
-でも、目が治っても、今と同じ様に、私を必要としてく[r]
-れるだろうか。[pcms]
+"But even if his eyes heal, will he still need me the same[r]
+way as now?"[pcms]
 
 *16658|
 [fc]
-彼のことだから、目が治った途端、私以外の人間にも[r]
-目を向ける筈。[pcms]
+Knowing him, once his sight returns, he'll surely start[r]
+paying attention to others besides me.[pcms]
 
 *16659|
 [fc]
-それなら、このまま治らなくても……。[pcms]
+If that's the case, maybe it's better if he doesn't[r]
+recover...[pcms]
 
 *16660|
 [fc]
 [vo_may s="maya0218"]
-[ns]摩耶[nse]
-「……っ！」[pcms]
+[ns]Maya[nse]
+"...!"[pcms]
 ;//◎首を横に振る（今自分が考えたことを否定）
 
 *16661|
 [fc]
-彼は目が治ることを望んでいる。[r]
-それなら私は、彼の為にできることをするだけ。[pcms]
+He wishes for his sight to return. So all I can do is what's[r]
+best for him.[pcms]
 
 *16662|
 [fc]
 [vo_may s="maya0219"]
-[ns]摩耶[nse]
-「……やっぱり、氷取ってこよう」[pcms]
+[ns]Maya[nse]
+"...I should really go get that ice."[pcms]
 
 *16663|
 [fc]
-さっき取りに行った時には、おかしな人達は１人も[r]
-いなかった。[pcms]
+When I went to get it earlier, there wasn't a single strange[r]
+person around.[pcms]
 
 *16664|
 [fc]
-もしいたとしても、あの人達は動きが遅い。[r]
-大勢いるのでなければ、慎重に行動することで、[r]
-自分にも避けながら移動することができる筈。[pcms]
+Even if there were, those people move slowly. Unless there's[r]
+a large group of them, I should be able to move carefully[r]
+and avoid them while I make my way.[pcms]
 
 *16665|
 [fc]
-私は自分の考えにうなずき、起こさないように、彼の[r]
-頭を床にそっと降ろして立ち上がった。[pcms]
+I nod at my own thoughts and carefully lower his head to the[r]
+floor without waking him up, then stand up.[pcms]
 
 *16666|
 [fc]
 [vo_may s="maya0220"]
-[ns]摩耶[nse]
-「行ってきます……」[pcms]
+[ns]Maya[nse]
+"I'll be back..."[pcms]
 
 *16667|
 [fc]
-小声で彼に声をかけ、私は荷台の外へ向かった。[pcms]
+In a whisper to him, I head outside the cargo area.[pcms]
 
 ;//♪：bgm004 fadeout
 [fadeoutbgm time=1000]
@@ -165,49 +164,48 @@
 *16668|
 [fc]
 [vo_may s="maya0221"]
-[ns]摩耶[nse]
-「……？」[pcms]
+[ns]Maya[nse]
+"…?"[pcms]
 
 *16669|
 [fc]
-トラックの荷台を下り、警備員の宿直室らしい部屋に[r]
-向かい始めてすぐ、物音が聞こえたような[r]
-気がして、後ろを振り返る。[pcms]
+Just after climbing down from the truck's cargo area and[r]
+starting towards what seems to be the security guard's room,[r]
+I thought I heard a noise and turned around.[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
 *16670|
 [fc]
 [vo_may s="maya0222"]
-[ns]摩耶[nse]
-「……」[pcms]
+[ns]Maya[nse]
+"..."[pcms]
 
 *16671|
 [fc]
-もしかして、頭のおかしい人達……？[r]
-中に戻った方がいいかな……。[pcms]
+Could it be those deranged people...? Maybe I should go back[r]
+inside...[pcms]
 
 *16672|
 [fc]
-その場から動かずに、耳を澄まして様子を探っても、[r]
-人の気配は無く、誰かがトラックの陰から姿を現すこ[r]
-とも無かった。[pcms]
+Standing still and listening intently, I detect no sign of[r]
+anyone, nor does anyone appear from behind the truck.[pcms]
 
 *16673|
 [fc]
-早く済ませて戻ろう。[r]
-物音を立てたのは、頭のおかしい人達かもしれない。[pcms]
+I need to finish this quickly and return. The noise might[r]
+have been made by those deranged people.[pcms]
 
 *16674|
 [fc]
-もしあの人達が近くにいて、自分がここから出てきた[r]
-のを見ていたら、荷台に上がって、彼を襲うかもしれ[r]
-ない。[pcms]
+If they are nearby and saw me come out, they might climb[r]
+into the cargo area and attack him.[pcms]
 
 *16675|
 [fc]
-宿直室らしい部屋へ向かおうと振り返ると、私のすぐ[r]
-目の前に、どこから現れたのか、男が１人立っていた。[pcms]
+As I turn back towards the room that seems to be the[r]
+security office, a man suddenly appears right in front of me[r]
+out of nowhere.[pcms]
 
 ;//♪：bgm012 stop
 [fadeoutbgm time=1][wb]
@@ -215,130 +213,125 @@
 *16676|
 [fc]
 [vo_may s="maya0223"]
-[ns]摩耶[nse]
-「っ……！！」[pcms]
+[ns]Maya[nse]
+"…!!"[pcms]
 ;//◎驚いて息を飲む
 
 [ChrSetEx layer=4 chbase="etc04"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *16677|
 [fc]
-[ns]警備員の男[nse]
-「……」[pcms]
+[ns]Male security guard[nse]
+"..."[pcms]
 
 *16678|
 [fc]
-警備員であるらしいその男は無言で、ただ私を見つめ[r]
-ている。[pcms]
+The man, who appears to be a security guard, is silent, just[r]
+staring at me.[pcms]
 
 *16679|
 [fc]
-この建物に詳しい筈の警備員なら、安全な場所や、外[r]
-と連絡を取る方法を知っているに違いない。[pcms]
+If he's familiar with this building, he must know safe[r]
+places or how to contact the outside.[pcms]
 
 *16680|
 [fc]
-男の様子を不審に思ったが、私は事情を説明して、[r]
-助けてもらおうとようと声をかけた。[pcms]
+Though suspicious of the man's behavior, I decide to explain[r]
+the situation and ask for his help.[pcms]
 
 *16681|
 [fc]
 [vo_may s="maya0224"]
-[ns]摩耶[nse]
-「すみません、怪我人がいるんです……」[pcms]
+[ns]Maya[nse]
+"Excuse me, there's someone injured..."[pcms]
 
 *16682|
 [fc]
-[ns]警備員の男[nse]
-「く゛ふ……」[pcms]
+[ns]Male Security Guard[nse]
+"Gufu..."[pcms]
 
 ;//♪：bgm009
 [bgm storage="bgm009"]
 
 *16683|
 [fc]
-私の言葉に、男が気味の悪い笑みを浮かべたのを見て、[r]
-やっと相手が頭のおかしい人間だということを認識し、[r]
-その場から離れようと走り出そうとした。[pcms]
+Seeing the man's creepy smile in response to my words, I[r]
+finally realize he's one of those deranged people and start[r]
+to run away.[pcms]
 
 *16684|
 [fc]
 [vo_may s="maya0225"]
-[ns]摩耶[nse]
-「っ……！！」[pcms]
+[ns]Maya[nse]
+"…!!"[pcms]
 ;//◎驚き、息を飲む
 
 *16685|
 [fc]
-でも、私は走り出すことはできなかった。[pcms]
+But I couldn't start running.[pcms]
 
 *16686|
 [fc]
-走りだそうとしたその時、突然、後ろから誰かに抱き[r]
-つかれ、身動きをできなくされてしまったからだった。[pcms]
+The moment I tried to run, someone suddenly grabbed me from[r]
+behind, immobilizing me.[pcms]
 
 [ChrSetEx layer=4 chbase="etc03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *16687|
 [fc]
-[ns]作業服の男Ａ[nse]
-「う゛へへはふぁはあ゛ぁ～～……[r]
-　ま゛んこ、み゛つけたそ゛お゛ぉ～～……っ！」[pcms]
+[ns]Work Clothes Man A[nse]
+"Uvhehehafahaa~... Found a pussy~...!"[pcms]
 
 *16688|
 [fc]
 [vo_may s="maya0226"]
-[ns]摩耶[nse]
-「ひっ……！！」[pcms]
+[ns]Maya[nse]
+"Hii...!!"[pcms]
 
 *16689|
 [fc]
-耳元で、低く、ざらざらした男の声で囁かれ、身を強[r]
-ばらせる私の目に、駐車場のあちこちから、近づいて[r]
-くる人影が映る。[pcms]
+A low, rough male voice whispers in my ear, and as I stiffen[r]
+up, I see shadows approaching from all over the parking lot.[pcms]
 
 [ChrSetEx layer=4 chbase="etc02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *16690|
 [fc]
-[ns]コック服の中年[nse]
-「おし゛ょう゛ちゃあ゛ぁ～～ん゛……っ！[r]
-　お゛し゛さんの゛くさいちんほ゜、[r]
-　しゃふ゛ってえ゛ぇ～～～……っ！！」[pcms]
+[ns]Middle-aged man in a cook's outfit[nse]
+"Young lady~...! Let me suck on your stinky cock~...!!"[pcms]
 
 [ChrSetEx layer=4 chbase="etc01"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *16691|
 [fc]
-[ns]作業服の男Ｂ[nse]
-「ふひぃひはふぁあ゛ぁ～～……っ！[r]
-　かわ゛い゛いま゛んこた゛あ゛ぁ～～～……っ！」[pcms]
+[ns]Work Clothes Man B[nse]
+"Fuhiihihafaa~...! Such a cute pussy~...!"[pcms]
 
 *16692|
 [fc]
 [vo_may s="maya0227"]
-[ns]摩耶[nse]
-「ひ、や……いやぁ……っ！」[pcms]
+[ns]Maya[nse]
+"No, stop...nooo...!"[pcms]
 
 *16693|
 [fc]
-近づいてくる男達の手が、次々と伸ばされ、私の体を[r]
-まさぐりだす。[pcms]
+The hands of the approaching men reach out one after[r]
+another, groping my body.[pcms]
 
 *16694|
 [fc]
-そしてその手は、服を掴んで乱暴に引っ張り、[r]
-引き裂いた。[pcms]
+And then those hands grab my clothes and tear them off[r]
+violently.[pcms]
 
 *16695|
 [fc]
 [vo_may s="maya0228"]
-[ns]摩耶[nse]
-「いやああぁぁぁあっ！！！！」[pcms]
+[ns]Maya[nse]
+"Nooooo!!!"[pcms]
 
 ;//ブロック２０５２０へ
 
 [jump storage="westtown_zap_20520.ks" target=*westtown_zap_20520_TOP]
 
-;//－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+;//
 

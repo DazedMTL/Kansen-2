@@ -29,48 +29,46 @@
 
 *3485|
 [fc]
-だいぶ高くなってきたらしく、格子状になっている[r]
-シャッターを通して、太陽の光が射し込んでくるよう[r]
-になった。[pcms]
+It seems we've gotten quite high up, and through the[r]
+lattice-like shutters, sunlight began to stream in.[pcms]
 
 *3486|
 [fc]
-俺も速水も何も喋らないまま、その場から動かないで、[r]
-時間が過ぎるのを、助かるチャンスが来るのを、じっ[r]
-と待ち続けていた。[pcms]
+Neither Hayami nor I spoke a word, we just stayed put,[r]
+quietly waiting for time to pass, for a chance to be saved.[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
 *3487|
 [fc]
-[ns]大倉[nse]
-「……？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"...?"[pcms]
 
 *3488|
 [fc]
-外は暑いだろうけど、このエレベーターホールはクー[r]
-ラーからの涼しい風で満たされている。[pcms]
+It might be hot outside, but this elevator hall is filled[r]
+with cool air from the cooler.[pcms]
 
 *3489|
 [fc]
-それなのに、肩に回したままの腕に、速水の体がずい[r]
-ぶん熱くなってるのが伝わってくる。[pcms]
+Despite that, I can feel Hayami's body, which I'm holding by[r]
+the shoulder, getting considerably hot.[pcms]
 
 *3490|
 [fc]
-『このウイルスに感染すると、突発的に高熱を出すよ[r]
-　うになり……』[pcms]
+"When infected with this virus, it seems to cause sudden[r]
+high fevers..."[pcms]
 
 *3491|
 [fc]
-ニュースでそんなコト言ってたよな……。[r]
-あの女の子も、すごい熱があったみたいだし……。[pcms]
+That's what they said on the news... That girl also seemed[r]
+to have a terrible fever...[pcms]
 
 *3492|
 [fc]
-速水も、もうすぐあの子みたいになっちまうのか……。[r]
-そうなる前に、ココを出て、病院に連れてければ[r]
-いいけどな……。[pcms]
+Hayami might soon end up like that girl... Before that[r]
+happens, we should get out of here and take her to a[r]
+hospital...[pcms]
 
 
 ;mm なんで急にバッグ有り？無しに修正しておく 03 04が無かったので作成
@@ -79,220 +77,221 @@
 *3493|
 [fc]
 [vo_hay s="hayami0753"]
-[ns]ありす[nse]
-「ヒロシ……」[pcms]
+[ns]Alice[nse]
+"Hiroshi..."[pcms]
 
 *3494|
 [fc]
-ずっと肩に乗せていた頭を放して、速水が俺に顔を見[r]
-せた。[pcms]
+Letting go of the head that had been resting on my shoulder,[r]
+Hayami turned to face me.[pcms]
 
 *3495|
 [fc]
-その顔色は青く、少しやつれたように見えて、速水が[r]
-だいぶ弱ってきてるのを、俺は実感した。[pcms]
+Her complexion was pale, she looked a bit haggard, and I[r]
+realized that Hayami was getting quite weak.[pcms]
 
 *3496|
 [fc]
-[ns]大倉[nse]
-「ん？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Hm?"[pcms]
 
 *3497|
 [fc]
 [vo_hay s="hayami0754"]
-[ns]ありす[nse]
-「あたしが、そとにいるへんなひとたちみたいに、[r]
-　おかしくなっちゃったら……[r]
-　すぐに、そとにおいだしていいからね……」[pcms]
+[ns]Alice[nse]
+"If I become like those weird people outside... you can[r]
+throw me out right away... don't worry about it..."[pcms]
 
 *3498|
 [fc]
-[ns]大倉[nse]
-「なんだよ、急に……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"What's with that all of a sudden..."[pcms]
 
 [ChrSetEx layer=4 chbase="hayami_d04"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *3499|
 [fc]
 [vo_hay s="hayami0755"]
-[ns]ありす[nse]
-「びょういんに、つれてってくれるって、いってた[r]
-　けど……あたし、たぶん、むり……」[pcms]
+[ns]Arisu[nse]
+"You said you'd take me to the hospital... but I probably[r]
+can't..."[pcms]
 
 *3500|
 [fc]
-[ns]大倉[nse]
-「ムリって何がだよ」[pcms]
+[ns]Ookura Hiroshi[nse]
+"What do you mean you can't?"[pcms]
 
 *3501|
 [fc]
 [vo_hay s="hayami0756"]
-[ns]ありす[nse]
-「たぶん……あたしは、いっしょにいけないから……[r]
-　だから、そとにおいだしていいよ……[r]
-　きにしないでいいから……」[pcms]
+[ns]Alice[nse]
+"Probably... because I won't be able to go with you... so[r]
+it's okay to throw me out... don't worry about it..."[pcms]
 
 *3502|
 [fc]
-力無く笑い、気弱なコトを言う速水に、俺はおどけた[r]
-調子で返した。[pcms]
+With a weak smile and speaking timidly, I responded to[r]
+Hayami in a joking manner.[pcms]
 
 *3503|
 [fc]
-[ns]大倉[nse]
-「そりゃームリだ、諦めろ」[pcms]
+[ns]Ookura Hiroshi[nse]
+"That's impossible, give up on that idea."[pcms]
 
 [ChrSetEx layer=4 chbase="hayami_d03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *3504|
 [fc]
 [vo_hay s="hayami0757"]
-[ns]ありす[nse]
-「え……」[pcms]
+[ns]Arisu[nse]
+"Eh..."[pcms]
 
 *3505|
 [fc]
-[ns]大倉[nse]
-「そこのシャッターな、１回閉めたら簡単に開けらん[r]
-　ねーんだ」[pcms]
+[ns]Ookura Hiroshi[nse]
+"That shutter over there, once it's closed, it's not easy to[r]
+open again."[pcms]
 
 *3506|
 [fc]
-[ns]大倉[nse]
-「だから、オマエがイカレちまったからって、すぐに[r]
-　追い出そうと思ってもムリなんだよ」[pcms]
+[ns]Ookura Hiroshi[nse]
+"So even if you go crazy, thinking of throwing you out right[r]
+away is impossible."[pcms]
 
 [ChrSetEx layer=4 chbase="hayami_d01"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *3507|
 [fc]
 [vo_hay s="hayami0758"]
-[ns]ありす[nse]
-「そんな……」[pcms]
+[ns]Arisu[nse]
+"But..."[pcms]
 
 *3508|
 [fc]
-[ns]大倉[nse]
-「それに、もしシャッターが開けられたとしても、[r]
-　オマエを追い出したりしねーよ」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Besides, even if the shutter could be opened, I wouldn't[r]
+throw you out."[pcms]
 
 *3509|
 [fc]
 [vo_hay s="hayami0759"]
-[ns]ありす[nse]
-「……でも、それじゃヒロシが……」[pcms]
+[ns]Arisu[nse]
+"...But then you'll be..."[pcms]
 
 *3510|
 [fc]
-[ns]大倉[nse]
-「言っただろ？　俺ら友達じゃねーか。オマエがイカ[r]
-　レちまったって、見捨てたりするかよ」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Didn't I say? We're friends, aren't we? Even if you lose[r]
+it, I won't abandon you."[pcms]
 
 *3511|
 [fc]
 [vo_hay s="hayami0760"]
-[ns]ありす[nse]
-「……」[pcms]
+[ns]Alice[nse]
+"..."[pcms]
 
 *3512|
 [fc]
-速水は何かを考えるようにうつむいて、しばらくして[r]
-から、地面を見つめたまま話しだした。[pcms]
+Hayami looked down as if thinking about something and after[r]
+a while, still staring at the ground, she began to speak.[pcms]
 
 [ChrSetEx layer=4 chbase="hayami_d04"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *3513|
 [fc]
 [vo_hay s="hayami0761"]
-[ns]ありす[nse]
-「……ずっと、ともだちで、いてくれる……？」[pcms]
+[ns]Arisu[nse]
+"...will you always be my friend...?"[pcms]
 
 *3514|
 [fc]
-[ns]大倉[nse]
-「ん……？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Hm...?"[pcms]
 
 [ChrSetEx layer=4 chbase="hayami_d01"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *3515|
 [fc]
 [vo_hay s="hayami0762"]
-[ns]ありす[nse]
-「あたしが、どんなふうになっても……[r]
-　ともだちで、いてくれる……？」[pcms]
+[ns]Arisu[nse]
+"No matter what happens to me... will you stay my[r]
+friend...?"[pcms]
 
 *3516|
 [fc]
-[ns]大倉[nse]
-「あぁ、当たり前ぇだろ」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Ah, of course."[pcms]
 
 [ChrSetEx layer=4 chbase="hayami_d04"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *3517|
 [fc]
 [vo_hay s="hayami0763"]
-[ns]ありす[nse]
-「ほんとに……？　じゃあ、あたしがなにいっても、[r]
-　ひかない……？」[pcms]
+[ns]Alice[nse]
+"Really...? Then no matter what I say, you won't be[r]
+disgusted...?"[pcms]
 
 *3518|
 [fc]
-[ns]大倉[nse]
-「……？　あぁ、ヒかねーよ」[pcms]
+[ns]Ookura Hiroshi[nse]
+"...? Ah, I won't be disgusted."[pcms]
 
 [ChrSetEx layer=4 chbase="hayami_d01"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *3519|
 [fc]
 [vo_hay s="hayami0764"]
-[ns]ありす[nse]
-「ほんと……？　ほんとに、ぜったいひかない……？」[pcms]
+[ns]Arisu[nse]
+"Really...? You really won't be disgusted no matter[r]
+what...?"[pcms]
 
 *3520|
 [fc]
-[ns]大倉[nse]
-「なんだよ、言えって。ヒかねーから」[pcms]
+[ns]Ookura Hiroshi[nse]
+"What is it? Just say it. I won't be disgusted."[pcms]
 
 *3521|
 [fc]
 [vo_hay s="hayami0765"]
-[ns]ありす[nse]
-「……」[pcms]
+[ns]Arisu[nse]
+"..."[pcms]
 ;//◎迷っている
 
 *3522|
 [fc]
-速水はそこで、言いにくそうに口ごもったまま、[r]
-中々先を言おうとしない。[pcms]
+Hayami hesitated as if she found it difficult to speak and[r]
+didn't continue.[pcms]
 
 *3523|
 [fc]
-体を離し、顔を覗き込んで待つ俺をチラッと見て、[r]
-すぐ目を戻してから、速水はやっとまた話し出した。[pcms]
+I stepped back and peered into her face as she waited,[r]
+glancing at me briefly before returning her gaze away and[r]
+finally continued speaking.[pcms]
 
 *3524|
 [fc]
 [vo_hay s="hayami0766"]
-[ns]ありす[nse]
-「じゃあ……ひかないで、きいて……」[pcms]
+[ns]Alice[nse]
+"Then... listen without being disgusted..."[pcms]
 
 *3525|
 [fc]
-[ns]大倉[nse]
-「あぁ、ちゃんと聞いてるから言えって、早く」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Ah, I'm listening properly so just say it already,[r]
+quickly."[pcms]
 
 [ChrSetEx layer=4 chbase="hayami_d04"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *3526|
 [fc]
 [vo_hay s="hayami0767"]
-[ns]ありす[nse]
-「あのね……」[pcms]
+[ns]Alice[nse]
+"You know..."[pcms]
 
 *3527|
 [fc]
-[ns]大倉[nse]
-「あぁ」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Ah"[pcms]
 
 ;//♪：bgm004 stop
 [fadeoutbgm time=1000]
@@ -300,24 +299,24 @@
 *3528|
 [fc]
 [vo_hay s="hayami0768"]
-[ns]ありす[nse]
-「…………ヒロシが…………」[pcms]
+[ns]Arisu[nse]
+"...Hiroshi..."[pcms]
 
 *3529|
 [fc]
-[ns]大倉[nse]
-「俺が？」[pcms]
+[ns]Ookura[nse]
+"Me?"[pcms]
 
 *3530|
 [fc]
 [vo_hay s="hayami0769"]
-[ns]ありす[nse]
-「…………すき…………」[pcms]
+[ns]Alice[nse]
+"...likes..."[pcms]
 
 *3531|
 [fc]
-[ns]大倉[nse]
-「は……？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Huh...?"[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
@@ -326,340 +325,331 @@
 
 *3532|
 [fc]
-速水が言った言葉は、誰でも知ってる簡単なものだっ[r]
-たけど、俺の頭は、それがどういう意味なのか、全然[r]
-理解できなかった。[pcms]
+The words Hayami said were simple and known to everyone, but[r]
+my mind couldn't comprehend what they meant at all.[pcms]
 
 *3533|
 [fc]
-理解しようとしては失敗し、を何回も繰り返すうちに[r]
-頭が混乱してきて、俺は無言で固まってしまっていた。[pcms]
+Trying and failing to understand repeatedly, my head became[r]
+confused and I ended up frozen in silence.[pcms]
 
 [ChrSetEx layer=4 chbase="hayami_d03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *3534|
 [fc]
 [vo_hay s="hayami0770"]
-[ns]ありす[nse]
-「……ほら……やっぱりひいたじゃん……」[pcms]
+[ns]Alice[nse]
+"...see... you are disgusted after all..."[pcms]
 
 *3535|
 [fc]
-[ns]大倉[nse]
-「え……？　あぁ、いや、ヒいたんじゃなくて、[r]
-　なんつーか……え、マジで……？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Eh...? Ah, no, it's not that I'm grossed out, it's just...[r]
+what, for real...?"[pcms]
 
 *3536|
 [fc]
 [vo_hay s="hayami0771"]
-[ns]ありす[nse]
-「……」[pcms]
+[ns]Arisu[nse]
+"..."[pcms]
 
 *3537|
 [fc]
-速水は顔を隠すようにしてうつむいて、何も言わない[r]
-で、ただうなずいた。[pcms]
+Hayami hung her head as if to hide her face and just nodded[r]
+without saying anything.[pcms]
 
 *3538|
 [fc]
-[ns]大倉[nse]
-「……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"..."[pcms]
 
 *3539|
 [fc]
-今までずっとツルんできて、考えたコトも、予想した[r]
-コトも、想像したコトも無いコトを言われて、俺は自[r]
-分がどうすればいいのか、全然思いつかなかった。[pcms]
+Having always been smooth sailing, I was told something I[r]
+had never thought about, expected, or imagined, and I[r]
+couldn't think of what to do at all.[pcms]
 
 *3540|
 [fc]
-いや、まさか……。[r]
-速水が俺を……？[pcms]
+No way... Hayami likes me...?[pcms]
 
 *3541|
 [fc]
-だって、今まで、１回でもそんなカンジになったコト[r]
-あったか……？[pcms]
+After all, has there ever been a time when it felt like[r]
+that...?[pcms]
 
 *3542|
 [fc]
-それでイキナリ好きって……。[r]
-いや……。[r]
-コレ、マジなのか……？[pcms]
+And suddenly she likes me... No... Is this for real...?[pcms]
 
 *3543|
 [fc]
-そこのエレベーターからユウが出てきて、[r]
-“ドッキリ大成功～♪”とか言い出すオチが待ってん[r]
-じゃねーのか？　コレ……。[pcms]
+I'm expecting Yuu to come out of that elevator and say[r]
+something like "The prank was a huge success~♪". Is that[r]
+what's waiting for me here...?[pcms]
 
 *3544|
 [fc]
 [vo_hay s="hayami0772"]
-[ns]ありす[nse]
-「あたまがへんになって、いってるんじゃないよ……[r]
-　ほんとに……ヒロシがすきなの……」[pcms]
+[ns]Arisu[nse]
+"I'm not going crazy or anything... I really do like[r]
+Hiroshi..."[pcms]
 
 *3545|
 [fc]
 [vo_hay s="hayami0773"]
-[ns]ありす[nse]
-「じぶんだって、あぶないのに……ヒロシはやくそく[r]
-　どおり、たすけにきてくれた……あたし、すっごい[r]
-　うれしかった……」[pcms]
+[ns]Alice[nse]
+"Even though it was dangerous for you too... Hiroshi, you[r]
+came to save me just like you promised... I was so happy..."[pcms]
 
 *3546|
 [fc]
-[ns]大倉[nse]
-「あ、あー……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Ah, ah-..."[pcms]
 
 [ChrSetEx layer=4 chbase="hayami_d01"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *3547|
 [fc]
 [vo_hay s="hayami0774"]
-[ns]ありす[nse]
-「ケータイがつながってから、ずっと、ヒロシのこと[r]
-　かんがえてた……。はやく、ヒロシのこえ、ききた[r]
-　かったし、かおもみたかった……」[pcms]
+[ns]Arisu[nse]
+"Ever since my phone got through, I've been thinking about[r]
+Hiroshi all the time... I wanted to hear your voice and see[r]
+your face soon..."[pcms]
 
 *3548|
 [fc]
 [vo_hay s="hayami0775"]
-[ns]ありす[nse]
-「それで、ほんとにたすけにきてくれて……[r]
-　あのときのヒロシ、おうじさまみたいだった……[r]
-　って、あはっ、なにいってんだろ、あたし……」[pcms]
+[ns]Arisu[nse]
+"And then you really did come to save me... At that moment,[r]
+Hiroshi, you were like a prince... Ahaha, what am I[r]
+saying..."[pcms]
 
 *3549|
 [fc]
-[ns]大倉[nse]
-「そ、そうかー……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Is that so-..."[pcms]
 
 *3550|
 [fc]
-俺の頭はまだ、さっき速水に言われた言葉が理解でき[r]
-てなくて、いい加減な返ししかできないでいた。[pcms]
+My mind still couldn't understand the words Hayami had said[r]
+to me earlier, and I could only manage a vague response.[pcms]
 
 [ChrSetEx layer=4 chbase="hayami_d04"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *3551|
 [fc]
 [vo_hay s="hayami0776"]
-[ns]ありす[nse]
-「やっぱり、やだよね……へんなびょうきになって、[r]
-　しんじゃうおんななんて……すきになれるわけない[r]
-　もんね……」[pcms]
+[ns]Arisu[nse]
+"You must hate it after all... A girl who might die from a[r]
+strange illness... You couldn't possibly like someone like[r]
+that..."[pcms]
 
 *3552|
 [fc]
-いい加減に返されて、嫌がってるとでも思ったのか、[r]
-寂しそうに笑って、後ろ向きなコトを言う速水に、[r]
-俺は慌てて言い訳した。[pcms]
+Thinking she was being rejected and disliked, Hayami said[r]
+something sad with a forced smile, and I hurriedly made[r]
+excuses.[pcms]
 
 *3553|
 [fc]
-[ns]大倉[nse]
-「いや、違う、そうじゃない。そうじゃないけど、[r]
-　速水は友達で……俺は、親友だと思ってて……[r]
-　そういう風には見てなかったから、なんつーか……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"No, it's not that. It's not like that, but Hayami is a[r]
+friend... I thought of you as a best friend... I never saw[r]
+you in that way, so it's kind of..."[pcms]
 
 [ChrSetEx layer=4 chbase="hayami_d04"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *3554|
 [fc]
 [vo_hay s="hayami0777"]
-[ns]ありす[nse]
-「むりしなくていいよ……へんになっちゃうまえに、[r]
-　いっておきたかっただけだから……」[pcms]
+[ns]Alice[nse]
+"You don't have to force yourself... I just wanted to tell[r]
+you before things got weird..."[pcms]
 
 *3555|
 [fc]
-速水の寂しそうな笑顔が、段々暗くなっていって、[r]
-声と肩が震え始める。[pcms]
+Hayami's sad smile gradually darkened, and her voice and[r]
+shoulders began to tremble.[pcms]
 
 [ChrSetEx layer=4 chbase="hayami_d01"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *3556|
 [fc]
 [vo_hay s="hayami0778"]
-[ns]ありす[nse]
-「どうせなら、もうちょっとおしゃれして、こくはく[r]
-　したかったな……。おんなのこには、だいじな、[r]
-　いべんとなのに……」[pcms]
+[ns]Arisu[nse]
+"If only I could have dressed up a bit more for my[r]
+confession... It's an important event for a girl..."[pcms]
 
 *3557|
 [fc]
-俺は離していた体をまた速水に寄せて、肩に手を回し、[r]
-強く抱き寄せた。[pcms]
+I moved closer to Hayami again and put my hand on her[r]
+shoulder, pulling her into a strong embrace.[pcms]
 
 *3558|
 [fc]
-[ns]大倉[nse]
-「だから諦めんなって！　この世に治せねー病気が[r]
-　あるワケねーんだ。この病気だって絶対治るって！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"So don't give up! There's no such thing as an incurable[r]
+disease in this world. This illness will definitely be[r]
+cured!"[pcms]
 
 *3559|
 [fc]
 [vo_hay s="hayami0779"]
-[ns]ありす[nse]
-「うん……」[pcms]
+[ns]Arisu[nse]
+"Yeah..."[pcms]
 
 *3560|
 [fc]
-消えそうな声で返して、速水は俺の肩に頭を乗せた。[pcms]
+Hayami replied with a faint voice and rested her head on my[r]
+shoulder.[pcms]
 
 *3561|
 [fc]
-不安げな顔をして、ボンヤリとどこかを見つめている[r]
-速水は、突然、目の前から消えてしまうんじゃないか[r]
-と思えるぐらい、もろく、弱々しく見える。[pcms]
+Hayami looked so fragile and weak as she gazed vacantly[r]
+somewhere with an anxious face, as if she might disappear[r]
+right before my eyes.[pcms]
 
 *3562|
 [fc]
-なんとか元気づけてやりたい、と考えた俺は、告白の[r]
-返事も一緒にするつもりで、深呼吸してから、速水に[r]
-声をかけた。[pcms]
+Wanting to cheer her up somehow, I took a deep breath before[r]
+speaking to Hayami, intending to give my answer to her[r]
+confession at the same time.[pcms]
 
 *3563|
 [fc]
-[ns]大倉[nse]
-「……俺が、治してやるよ」[pcms]
+[ns]Ookura Hiroshi[nse]
+"...I'll cure you."[pcms]
 
 [ChrSetEx layer=4 chbase="hayami_d03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *3564|
 [fc]
 [vo_hay s="hayami0780"]
-[ns]ありす[nse]
-「……？」[pcms]
+[ns]Arisu[nse]
+"...?"[pcms]
 
 *3565|
 [fc]
-[ns]大倉[nse]
-「速水の病気は、俺が治してやる。そんで、オマエが[r]
-　元気になるまで、ずっと傍にいてやる」[pcms]
+[ns]Ookura Hiroshi[nse]
+"I'll cure Hayami's illness. And until you're healthy again,[r]
+I'll stay by your side."[pcms]
 
 *3566|
 [fc]
-[ns]大倉[nse]
-「それに、もし速水からウイルスがうつっちまっても、[r]
-　それはそれで構わねー。オマエの傍にいるってのは、[r]
-　俺が自分で決めたコトだからな」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Besides, even if I catch the virus from Hayami, that's[r]
+okay. Staying by your side is something I decided for[r]
+myself."[pcms]
 
 *3567|
 [fc]
 [vo_hay s="hayami0781"]
-[ns]ありす[nse]
-「……」[pcms]
+[ns]Arisu[nse]
+"..."[pcms]
 
 *3568|
 [fc]
-自分の顔が赤くなっていくのを感じた俺は、なるべく[r]
-速水を見ないようにして、なんとか全部言い切った。[pcms]
+Feeling my face turn red, I tried not to look at Hayami and[r]
+somehow managed to say everything.[pcms]
 
 *3569|
 [fc]
 [vo_hay s="hayami0782"]
-[ns]ありす[nse]
-「……ヒロシ、いしゃになるの……？　べんきょう[r]
-　できないのに……」[pcms]
+[ns]Arisu[nse]
+"...Hiroshi, are you going to become a doctor? Even though[r]
+you're not good at studying..."[pcms]
 
 *3570|
 [fc]
-[ns]大倉[nse]
-「いや、まぁ……それ言うなよ、オマエ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"No, well... don't say that, you..."[pcms]
 
 [ChrSetEx layer=4 chbase="hayami_d04"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *3571|
 [fc]
 [vo_hay s="hayami0783"]
-[ns]ありす[nse]
-「ふふ……でも、ヒロシがいうと、ほんとになおして[r]
-　くれそうだね……。あたしのこと、ほんとにたすけ[r]
-　にきてくれたし……」[pcms]
+[ns]Arisu[nse]
+"Hehe... But when Hiroshi says it, it feels like you really[r]
+could cure me... You really did come to save me after[r]
+all..."[pcms]
 
 *3572|
 [fc]
-寂しそうな笑顔が、クシャクシャになっていって、[r]
-速水はまた、涙を流し始めた。[pcms]
+Hayami's sad smile crumbled as she began to cry again.[pcms]
 
 [ChrSetEx layer=4 chbase="hayami_d02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *3573|
 [fc]
 [vo_hay s="hayami0784"]
-[ns]ありす[nse]
-「ヒロシって、じつは、すごいやさしんだね……[r]
-　それだけでも、ヒロシのこと、すきになってよかっ[r]
-　たっておもうよ……」[pcms]
+[ns]Arisu[nse]
+"Hiroshi is actually really kind... Just knowing that makes[r]
+me glad I fell in love with you..."[pcms]
 ;//◎泣きながら
 
 *3574|
 [fc]
-[ns]大倉[nse]
-「オ、オイ、それじゃ、いつもは優しくねーみてー[r]
-　じゃねーか」[pcms]
+[ns]Ookura[nse]
+"Hey, hey, that makes it sound like I'm usually not kind at[r]
+all."[pcms]
 
 *3575|
 [fc]
-速水の気持ちのストレートさに、驚き、戸惑い、照れ[r]
-て恥ずかしくなった俺は、ついいつものように、ふざ[r]
-けた調子で返してしまった。[pcms]
+Surprised and embarrassed by Hayami's straightforward[r]
+feelings, I ended up responding in my usual joking manner.[pcms]
 
 *3576|
 [fc]
-けど速水は、いつものようには返してこなかった。[pcms]
+But Hayami didn't respond as she usually would.[pcms]
 
 *3577|
 [fc]
 [vo_hay s="hayami0785"]
-[ns]ありす[nse]
-「そうだよ……やさしくないよ……あたしが、もうす[r]
-　ぐしんじゃうから……だから、やさしいんだよ……」[pcms]
+[ns]Arisu[nse]
+"That's right... You're not kind... It's because I might die[r]
+soon... That's why you're being kind..."[pcms]
 ;//◎泣きながら
 
 *3578|
 [fc]
-[ns]大倉[nse]
-「速水……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Hayami..."[pcms]
 
 *3579|
 [fc]
-口でどんだけ言っても、[r]
-今の速水には信じらんねーか……。[pcms]
+No matter what I say with my mouth, Hayami won't believe it[r]
+now...[pcms]
 
 *3580|
 [fc]
-俺だって、せっかく勇気出して告白したのに、もうす[r]
-ぐ死ぬかもしれないってコトになったら、相手がなに[r]
-言っても、気ぃ使ってるって思うだろうし……。[pcms]
+I too would think the other person is just being considerate[r]
+if they confessed their love and then found out they might[r]
+die soon...[pcms]
 
 *3581|
 [fc]
-速水は、無くしたくない、大事な友達……。[r]
-親友だ……。[pcms]
+Hayami is a friend I don't want to lose... A best friend...[pcms]
 
 *3582|
 [fc]
-今は、ちょっとその枠からハミ出してきてるけど……。[pcms]
+Right now, she's just stepping a little out of that[r]
+boundary...[pcms]
 
 *3583|
 [fc]
-速水はもちろん、ユウも、今までコイツらのために、[r]
-俺はできるコトはなんでもやってきたし、これからも[r]
-そうするつもりだ……。[pcms]
+For Hayami and Yuu, I've done everything I could for them[r]
+until now and plan to keep doing so...[pcms]
 
 *3584|
 [fc]
-じゃぁ今、俺になにができる……。[r]
-俺が、速水にしてやれるコトは……。[pcms]
+So what can I do now? What can I do for Hayami?[pcms]
 
 *3585|
 [fc]
-[ns]大倉[nse]
-「速水……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Hayami..."[pcms]
 
 ;//＠イベントが挟まるので立ち絵コメントアウト
 ;//[evcg storage="HEV114"][trans_c cross time=301]
@@ -669,19 +659,18 @@
 *3586|
 [fc]
 [vo_hay s="hayami0786"]
-[ns]ありす[nse]
-「……」[pcms]
+[ns]Alice[nse]
+"..."[pcms]
 
 *3587|
 [fc]
-涙で濡れた速水のホッペタに両手を添えて、こっちに[r]
-顔を向けさせてから、俺はヤツの唇に、自分の口を押[r]
-しつけた。[pcms]
+With both hands on Hayami's tear-stained cheeks, I made her[r]
+face me before pressing my lips against hers.[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
 ;//------------------------------------------------
-;//HEV114～116
+;//HEV114116
 ;//井：ここからイベントシーン
 ;//井：指示を元に再構成
 ;//------------------------------------------------
@@ -707,18 +696,18 @@
 *3588|
 [fc]
 [vo_hay s="hayami0787"]
-[ns]ありす[nse]
-「っ……！」[pcms]
+[ns]Alice[nse]
+"Ah...!"[pcms]
 
 *3589|
 [fc]
-唇が重なった瞬間、速水の体が固まったのがわかった。[pcms]
+The moment our lips met, I could feel Hayami's body stiffen.[pcms]
 
 *3590|
 [fc]
-口から心臓が出てきそうだったけど、ウイルスがちゃ[r]
-んとうつるように、しばらく口をつけたままにして、[r]
-それから離した。[pcms]
+It felt like my heart was going to leap out of my mouth, but[r]
+to make sure the virus transferred properly, I kept our lips[r]
+together for a while before pulling away.[pcms]
 
 ;//[chara_int_ layer=3][trans_c cross time=150]
 ;//[ChrSetEx layer=4 chbase="hayami_d04"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -726,463 +715,456 @@
 *3591|
 [fc]
 [vo_hay s="hayami0788"]
-[ns]ありす[nse]
-「はぁ……はぁ……」[pcms]
+[ns]Alice[nse]
+"Haah... Haah..."[pcms]
 ;//◎苦しかった
 
 *3592|
 [fc]
-[ns]大倉[nse]
-「コレでどうだ。俺が本気だってわかったろ？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"How about that? You understand now that I'm serious?"[pcms]
 
 *3593|
 [fc]
-ニヤッと笑って見せると、速水はボロボロと大量の涙[r]
-を流し始めて、俺の体をメチャクチャに叩いてきた。[pcms]
+When I showed her a wry smile, Hayami began to cry[r]
+profusely, hitting me all over in a frenzy.[pcms]
 
 [evcg storage="HEV114e"][trans_c cross time=301]
 
 *3594|
 [fc]
 [vo_hay s="hayami0789"]
-[ns]ありす[nse]
-「……ふぇ……なにしてんのぉ……！？　ばかぁ……！[r]
-　うぇぇ……ヒロシにも……うつっちゃうじゃん……！[r]
-　もぉばかぁっ……！！　ばかヒロシ……！！」[pcms]
+[ns]Alice[nse]
+"...feh... what are you doing...!? Idiot...! Wehh... Now you[r]
+might get infected too, Hiroshi...! You're such an[r]
+idiot...!! Stupid Hiroshi...!!"[pcms]
 ;//◎大泣き
 
 *3595|
 [fc]
-[ns]大倉[nse]
-「イタタ……！　叩くな叩くな、落ち着けっつーの！」[pcms]
+[ns]Ookura[nse]
+"Ouch...! Stop hitting me, calm down, will you!"[pcms]
 
 *3596|
 [fc]
 [vo_hay s="hayami0790"]
-[ns]ありす[nse]
-「うぐ……なんで、キスなのぉ……！？　うぅっ……[r]
-　それでほんきとか、いみわかんない……！！[r]
-　ぐすっ……うえぇっ……！」[pcms]
+[ns]Alice[nse]
+"Ugh... why a kiss...!? Uhh... That doesn't prove you're[r]
+serious at all...!! Sniffle... Wehh...!"[pcms]
 ;//◎大泣き
 
 *3597|
 [fc]
-胸にしがみついて大泣きする、速水の背中をさすって[r]
-やりながら、俺は笑って言った。[pcms]
+As Hayami clung to my chest and sobbed, I stroked her back[r]
+and said with a laugh.[pcms]
 
 *3598|
 [fc]
-[ns]大倉[nse]
-「コレで、俺もオマエと一緒に、病院に行かなきゃな[r]
-　らなくなった。ずっと傍にいるってのが、ウソじゃ[r]
-　ねーって証明されたワケだな」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Now, I have to go to the hospital with you too. It's proof[r]
+that I wasn't lying about always being by your side."[pcms]
 
 [evcg storage="HEV114d"][trans_c cross time=301]
 
 *3599|
 [fc]
 [vo_hay s="hayami0791"]
-[ns]ありす[nse]
-「うぅ～っ……ぐすっ……うあぁあっ……！」[pcms]
+[ns]Arisu[nse]
+"Uuu~h... sniffle... waaah...!"[pcms]
 
 *3600|
 [fc]
-[ns]大倉[nse]
-「あ……けど、コレじゃ医者にはなれねーな……。[r]
-　ヤベェ、ちょっとやりすぎたか、ハハハ」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Ah... but this means I can't become a doctor now... Damn,[r]
+maybe I went a bit too far, haha."[pcms]
 
 [evcg storage="HEV114e"][trans_c cross time=301]
 
 *3601|
 [fc]
 [vo_hay s="hayami0792"]
-[ns]ありす[nse]
-「ばかぁ……ぐす、うぅっ……ばかぁ～っ……！！[r]
-　ふぇぇっ……！」[pcms]
+[ns]Alice[nse]
+"Idiot... sniffle, uhh... idiot~...!! Fehh...!"[pcms]
 
 *3602|
 [fc]
-しばらく泣き続けて、胸の辺りが涙でだいぶ濡らされ[r]
-たところで、速水は顔を上げて、俺を見つめた。[pcms]
+After crying for a while and soaking my chest area with[r]
+tears, Hayami looked up and gazed at me.[pcms]
 
 *3603|
 [fc]
-[ns]大倉[nse]
-「あーあー、カワイイ顔が台無しじゃねーか」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Ah-ah-, your cute face is all ruined now."[pcms]
 
 *3604|
 [fc]
-涙で濡れた顔を拭いてやってると、速水は俺の首に腕[r]
-を回し、押し倒しながら、唇を押しつけてきた。[pcms]
+As I wiped her tear-stained face, Hayami wrapped her arms[r]
+around my neck and pushed me down, pressing her lips against[r]
+mine.[pcms]
 
 ;//＠イベントが挟まるので立ち絵コメントアウト
 [evcg storage="HEV115b"][trans_c cross time=301]
 
 *3605|
 [fc]
-[ns]大倉[nse]
-「んんっ……！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Mmm...!"[pcms]
 
 *3606|
 [fc]
-さっきした時と違って、今度は速水の舌が、俺の口の[r]
-中に滑り込んできた。[pcms]
+This time, unlike before, Hayami's tongue slid into my[r]
+mouth.[pcms]
 
 *3607|
 [fc]
-速水に促されるようにして、俺も自分の舌を、ヤツの[r]
-に絡ませ、撫で回した。[pcms]
+Encouraged by Hayami, I also entwined my tongue with hers,[r]
+caressing it.[pcms]
 
 *3608|
 [fc]
 [vo_hay s="hayami0793"]
-[ns]ありす[nse]
-「は……ん……」[pcms]
+[ns]Arisu[nse]
+"Ha... n..."[pcms]
 
 *3609|
 [fc]
-ピッタリとくっついた速水の体から、大きくなった震[r]
-えが伝わってくる。[pcms]
+I could feel the large tremors coming from Hayami's body[r]
+pressed against mine.[pcms]
 
 [evcg storage="HEV115a"][trans_c cross time=301]
 
 *3610|
 [fc]
-その震えを止めてやりたくて、俺は速水の体を強く、[r]
-シッカリと抱きしめてやった。[pcms]
+Wanting to stop her trembling, I hugged Hayami's body[r]
+tightly and firmly.[pcms]
 
 *3611|
 [fc]
 [vo_hay s="hayami0794"]
-[ns]ありす[nse]
-「はふ……ヒロシ……おねがい……」[pcms]
+[ns]Arisu[nse]
+"Hafu... Hiroshi... please..."[pcms]
 
 *3612|
 [fc]
-唇を離し、濡れた目で俺を見つめる速水の甘い声に、[r]
-自分の心臓が速くなっていくのがわかった。[pcms]
+After we parted our lips, Hayami looked at me with wet eyes[r]
+and in her sweet voice, I could feel my own heartbeat[r]
+quickening.[pcms]
 
 *3613|
 [fc]
 [vo_hay s="hayami0795"]
-[ns]ありす[nse]
-「あたしと……えっちして……？　あたしをちゃんと、[r]
-　ヒロシのかのじょにして……」[pcms]
+[ns]Arisu[nse]
+"Will you make love with me? Please make me truly yours,[r]
+Hiroshi..."[pcms]
 
 *3614|
 [fc]
-速水を愛しいと感じ始めてた俺は、コイツが望むコト[r]
-は、それが例え他人の命を奪うようなコトでも、全部[r]
-叶えてやりたいと考えていた。[pcms]
+I had begun to feel love for Hayami and wanted to grant her[r]
+every wish, even if it meant taking someone else's life.[pcms]
 
 *3615|
 [fc]
-だから、エッチしたい、という速水の希望を拒否する[r]
-理由は、俺の中のどこにも無かった。[pcms]
+So there was no reason for me to refuse Hayami's desire to[r]
+make love.[pcms]
 
 *3616|
 [fc]
 [vo_hay s="hayami0796"]
-[ns]ありす[nse]
-「あ……ん、む……」[pcms]
+[ns]Alice[nse]
+"Ah... nm, mmm..."[pcms]
 
 *3617|
 [fc]
-俺は体を反転させ、上にのしかかっていた速水を床に[r]
-寝かせて、また唇を重ね合わせた。[pcms]
+I flipped our positions and laid Hayami down on the floor[r]
+before pressing my lips against hers again.[pcms]
 
 [evcg storage="HEV115b"][trans_c cross time=301]
 
 *3618|
 [fc]
-[ns]大倉[nse]
-「ん、む……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Mm, mmm..."[pcms]
 
 *3619|
 [fc]
 [vo_hay s="hayami0797"]
-[ns]ありす[nse]
-「は、んふ……ちゅ……」[pcms]
+[ns]Arisu[nse]
+"Ha, nfu... chu..."[pcms]
 
 *3620|
 [fc]
-お互いの唾液が混ざり合う口の中で、舌を撫で合う内[r]
-に、頭の中が熱くなってきて、ナニが硬くなり始めた。[pcms]
+As our tongues caressed each other in the mix of saliva in[r]
+our mouths, my head started to heat up and my dick began to[r]
+harden.[pcms]
 
 *3621|
 [fc]
-それが速水の足に触れると、痛く感じるぐらい、俺の[r]
-ナニはガチガチに固まった。[pcms]
+When it touched Hayami's leg, it felt so hard it was almost[r]
+painful.[pcms]
 
 *3622|
 [fc]
 [vo_hay s="hayami0798"]
-[ns]ありす[nse]
-「ん、はぁ……ヒロシの、おっきくなってる……[r]
-　こうふん、してくれてる……？」[pcms]
+[ns]Arisu[nse]
+"Nn, haa... Hiroshi, you're getting so big... Are you[r]
+excited for me...?"[pcms]
 
 *3623|
 [fc]
-[ns]大倉[nse]
-「あぁ……なんか、ブッ倒れそう……」[pcms]
+[ns]Ookura[nse]
+"Yeah... I feel like I'm about to pass out..."[pcms]
 
 *3624|
 [fc]
 [vo_hay s="hayami0799"]
-[ns]ありす[nse]
-「ふふ……うれしい……」[pcms]
+[ns]Arisu[nse]
+"Hehe... I'm happy..."[pcms]
 
 *3625|
 [fc]
-俺は速水のシャツのリボンに手をかけ、ゆっくりと[r]
-引いていく。[pcms]
+I reached for the ribbon on Hayami's shirt and slowly began[r]
+to untie it.[pcms]
 
 *3626|
 [fc]
-ほどけて取れたリボンを置き、シャツのボタンに手を[r]
-かけたところで、俺の手は小刻みに震え始めた。[pcms]
+After removing the untied ribbon and placing it aside, I[r]
+started to unbutton her shirt, but my hands began to tremble[r]
+slightly.[pcms]
 
 *3627|
 [fc]
-[ns]大倉[nse]
-「ん……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Mm..."[pcms]
 
 *3628|
 [fc]
-手、手が……。[r]
-うまく外せねー……。[pcms]
+My hands are shaking... I can't undo them properly...[pcms]
 
 *3629|
 [fc]
-数回、握ったり開いたりを繰り返し、震えをムリヤリ[r]
-抑えて、俺はまた、シャツのボタンに手をかけた。[pcms]
+After several attempts of gripping and releasing to suppress[r]
+the shaking, I reached for the shirt buttons again.[pcms]
 
 *3630|
 [fc]
 [vo_hay s="hayami0800"]
-[ns]ありす[nse]
-「あ……」[pcms]
+[ns]Alice[nse]
+"Ah..."[pcms]
 
 [evcg storage="HEV116a"][trans_c cross time=301]
 
 *3631|
 [fc]
-なんとか全部のボタンを外すと、シャツの下から丸く、[r]
-大きな胸が現れた。[pcms]
+Once all the buttons were undone, her round, large breasts[r]
+were revealed from under the shirt.[pcms]
 
 *3632|
 [fc]
-当たり前のコトではあるけど、今まで直接見たコト[r]
-無かった速水の胸を目の前にして、俺は見とれて[r]
-しまっていた。[pcms]
+It was something obvious, but having never seen Hayami's[r]
+breasts directly before, I found myself staring in awe.[pcms]
 
 *3633|
 [fc]
-[ns]大倉[nse]
-「……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"..."[pcms]
 
 *3634|
 [fc]
 [vo_hay s="hayami0801"]
-[ns]ありす[nse]
-「やだぁ……みつめないでよぅ……」[pcms]
+[ns]Alice[nse]
+"No way... don't stare at me like that..."[pcms]
 
 *3635|
 [fc]
-[ns]大倉[nse]
-「あ、あぁ……えっと、触っても、いいか……？」[pcms]
+[ns]Ookura[nse]
+"Ah, ahh... um, is it okay if I touch them...?"[pcms]
 
 *3636|
 [fc]
 [vo_hay s="hayami0802"]
-[ns]ありす[nse]
-「ん……いいよ……」[pcms]
+[ns]Arisu[nse]
+"Mm... it's okay..."[pcms]
 
 *3637|
 [fc]
-速水は照れながらうなずいて、ソロソロと胸に伸びて[r]
-いく俺の手に目をやった。[pcms]
+Hayami nodded shyly while watching my hand slowly reach[r]
+towards her breasts.[pcms]
 
 *3638|
 [fc]
 [vo_hay s="hayami0803"]
-[ns]ありす[nse]
-「んっ……！」[pcms]
+[ns]Alice[nse]
+"Mm...!"[pcms]
 
 *3639|
 [fc]
-[ns]大倉[nse]
-「やらけー……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"So soft..."[pcms]
 
 *3640|
 [fc]
-速水の胸の重みと弾力を、俺は信じられない気持ちで[r]
-感じていた。[pcms]
+I felt the weight and elasticity of Hayami's breasts with an[r]
+unbelievable sensation.[pcms]
 
 *3641|
 [fc]
-昨日まで、ただの友達だと思ってたヤツなのに……。[r]
-なんか、フシギだな……。[r]
-なんでこんなコトになってんだろ……。[pcms]
+Even though until yesterday, I thought of her just as a[r]
+friend... It's strange... How did it come to this...[pcms]
 
 *3642|
 [fc]
-夢なら醒めて欲しくないと思いながらも、夢なら速水[r]
-が病気じゃなくなるコトを考えると、俺の想いは複雑[r]
-だった。[pcms]
+While I hoped this wasn't a dream, the thought that Hayami[r]
+wouldn't be sick if it were made my feelings complicated.[pcms]
 
 *3643|
 [fc]
 [vo_hay s="hayami0804"]
-[ns]ありす[nse]
-「は、ぁ……ヒロシ、むねがおおきいこ……んっ……！[r]
-　きらい……？」[pcms]
+[ns]Arisu[nse]
+"Ha, ah... Hiroshi, my breasts are big... nn...! Do you[r]
+dislike them...?"[pcms]
 
 *3644|
 [fc]
-[ns]大倉[nse]
-「いや……なんでだ？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"No... why would I?"[pcms]
 
 *3645|
 [fc]
 [vo_hay s="hayami0805"]
-[ns]ありす[nse]
-「だって、んんっ……なんか、こわいかお……は、ぅ[r]
-　……してるから……」[pcms]
+[ns]Alice[nse]
+"Because, mmm... you're making a scary face... ha, u..."[pcms]
 
 *3646|
 [fc]
-[ns]大倉[nse]
-「あぁ、ゴメン……。[r]
-　コレ、取ってみてもいいか……？」[pcms]
+[ns]Ookura[nse]
+"Ah, sorry... Can I take this off...?"[pcms]
 
 *3647|
 [fc]
 [vo_hay s="hayami0806"]
-[ns]ありす[nse]
-「……うん……」[pcms]
+[ns]Arisu[nse]
+"...Yeah..."[pcms]
 
 ;//＠ここで　HEV116　の差分なし？？
 [evcg storage="HEV116b"][trans_c cross time=301]
 
 *3648|
 [fc]
-胸を隠しているブラをずり上げると、速水の白い肌が[r]
-露わになった。[pcms]
+When I slid her bra up, Hayami's white skin was exposed.[pcms]
 
 *3649|
 [fc]
-柔らかく震える胸の先に指を這わせると、速水はくす[r]
-ぐったそうに身を縮めた。[pcms]
+As I traced my fingers over her softly trembling breasts,[r]
+Hayami seemed ticklish and shrank back.[pcms]
 
 *3650|
 [fc]
 [vo_hay s="hayami0807"]
-[ns]ありす[nse]
-「やぅっ……！　ん、や……はぅ……！」[pcms]
+[ns]Alice[nse]
+"Yah...! Mm, ya... ha, u...!"[pcms]
 
 *3651|
 [fc]
-[ns]大倉[nse]
-「……ぁむ……」[pcms]
+[ns]Ookura[nse]
+"...am..."[pcms]
 
 [evcg storage="HEV116c"][trans_c cross time=301]
 
 *3652|
 [fc]
 [vo_hay s="hayami0808"]
-[ns]ありす[nse]
-「やぁっ……！」[pcms]
+[ns]Arisu[nse]
+"Yah...!"[pcms]
 
 *3653|
 [fc]
-誘われるように顔を近づけ、もう片方の胸の先を口に[r]
-含むと、速水の体が小さく跳ねた。[pcms]
+Drawn in, I brought my face closer and took the tip of her[r]
+other breast into my mouth, causing Hayami's body to jerk[r]
+slightly.[pcms]
 
 *3654|
 [fc]
-[ns]大倉[nse]
-「ちゅ……ちゅぷ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Chu... chup..."[pcms]
 
 *3655|
 [fc]
 [vo_hay s="hayami0809"]
-[ns]ありす[nse]
-「あぅっ、んくぅっ……！　だ、め……ヒ、ロシ……[r]
-　はぅんっ……！　すっちゃ、だめぇ……」[pcms]
+[ns]Arisu[nse]
+"Ah, ngh...! No... Hiroshi... haun...! Don't do that, it's[r]
+bad..."[pcms]
 
 *3656|
 [fc]
-速水の胸の先は、口の中で硬くなっていって、[r]
-俺はさらに、それを舌先で撫で回す。[pcms]
+The tip of Hayami's breast hardened in my mouth, and I[r]
+teased it even more with the tip of my tongue.[pcms]
 
 *3657|
 [fc]
 [vo_hay s="hayami0810"]
-[ns]ありす[nse]
-「やっ、ひうぅっ……！　んふ、んぅっ……！[r]
-　は、ぅ……くふぅっ……！」[pcms]
+[ns]Arisu[nse]
+"No, hiu...! Nf, ngh...! Ha, u... kufu...!"[pcms]
 
 *3658|
 [fc]
-[ns]大倉[nse]
-「んん……ちゃぷっ……ん、ちゅぅっ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Mmm... chap... n, chu..."[pcms]
 
 *3659|
 [fc]
 [vo_hay s="hayami0811"]
-[ns]ありす[nse]
-「ん、くっ……！　そ、んな……つよく、すったらぁ[r]
-　……あっ、ひぁっ……！」[pcms]
+[ns]Arisu[nse]
+"Ngh, kuh...! If you suck so hard... ah, hia...!"[pcms]
 
 *3660|
 [fc]
-俺は胸の先を弄んでいた手を、パンツを脱がそうと、[r]
-速水のスカートの中に滑り込ませた。[pcms]
+While playing with her nipples, I slid my hand under her[r]
+skirt to take off her panties.[pcms]
 
 [evcg storage="HEV116b"][trans_c cross time=301]
 
 *3661|
 [fc]
 [vo_hay s="hayami0812"]
-[ns]ありす[nse]
-「あ、や……」[pcms]
+[ns]Alice[nse]
+"Ah, no..."[pcms]
 
 *3662|
 [fc]
-[ns]大倉[nse]
-「……？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"...?"[pcms]
 
 *3663|
 [fc]
-けど、そこに予想していた感触が無かったコトに、[r]
-俺はキョトンとなった顔をそこに向けた。[pcms]
+But when I didn't feel the sensation I was expecting there,[r]
+I looked down in confusion.[pcms]
 
 *3664|
 [fc]
-あれ……？[r]
-いつ脱いだんだ……？[r]
-けど、どこにも……。[pcms]
+Huh...? When did she take them off...? But they're nowhere[r]
+to be found...[pcms]
 
 *3665|
 [fc]
-速水の足とか、周りに目を走らせてみても、もう脱い[r]
-だらしいパンツはどこにも無い。[pcms]
+Even as I glanced around Hayami's legs and the surroundings,[r]
+the panties she seemed to have taken off were nowhere to be[r]
+seen.[pcms]
 
 *3666|
 [fc]
 [vo_hay s="hayami0813"]
-[ns]ありす[nse]
-「……」[pcms]
+[ns]Arisu[nse]
+"..."[pcms]
 
 *3667|
 [fc]
-思わず見た速水の顔は、理由を聞かれたくなさそう[r]
-な様子で、俺はそれ以上、考えないコトにした。[pcms]
+Hayami's face, which I inadvertently looked at, seemed like[r]
+she didn't want to be asked why, so I decided not to think[r]
+about it any further.[pcms]
 
 *3668|
 [fc]
-今は、速水の願いを叶えてやんなきゃな……。[pcms]
+Now, I have to fulfill Hayami's wish...[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
@@ -1191,18 +1173,19 @@
 
 *3669|
 [fc]
-震える手を押さえながら、速水の体を覆っている服を[r]
-そっと脱がし、俺も速水と同じように裸になった。[pcms]
+While suppressing my trembling hands, I gently removed the[r]
+clothes covering Hayami's body and became naked just like[r]
+her.[pcms]
 
 *3670|
 [fc]
 [vo_hay s="hayami0814"]
-[ns]ありす[nse]
-「は、ぁ……っ！」[pcms]
+[ns]Alice[nse]
+"Ha, ah...!"[pcms]
 
 *3671|
 [fc]
-俺はすぐ近くにあった緊急避難用の袋に、速水の[r]
+I quickly reached for the emergency evacuation bag near us,[pcms]
 頭を乗せて、そのまま抱きかかえた。
 
 ;//※★HEV108a (下半身見えない様トリミング）
@@ -1211,158 +1194,156 @@
 *3672|
 [fc]
 [vo_hay s="hayami0800"]
-[ns]ありす[nse]
-「あ……」[pcms]
+[ns]Alice[nse]
+"Ah..."[pcms]
 
 *3673|
 [fc]
-速水のアソコに触れると、指先にぬめった熱い液体で[r]
-濡れているのを感じた。[pcms]
+When I touched Hayami's pussy, I felt a slimy hot liquid on[r]
+my fingertips.[pcms]
 
 *3674|
 [fc]
-カタチを探るように、指先を這わせていると、ぬめっ[r]
-た液体で滑り、俺の指は偶然、速水の中へと入り込ん[r]
-でいった。[pcms]
+As I explored the shape with my fingertips, they slipped in[r]
+the slimy liquid, and accidentally entered inside Hayami.[pcms]
 
 *3675|
 [fc]
 [vo_hay s="hayami0815"]
-[ns]ありす[nse]
-「ふぁ、あっ……！　んくっ、や、はぁうっ……！」[pcms]
+[ns]Arisu[nse]
+"Fah, ah...! Ngh, ya, hau..."[pcms]
 
 *3676|
 [fc]
-指先に伝わってくる感触で、自分の体の中を流れる血[r]
-が全部頭に集まり、腫れて脈打つように感じる。[pcms]
+The sensation transmitted to my fingertips made all the[r]
+blood in my body rush to my head, feeling swollen and[r]
+throbbing.[pcms]
 
 *3677|
 [fc]
-同時に、ナニがズボンの中で脈打ち、ズキズキと痛む[r]
-のをガマンしながら、俺は夢中で指を動かした。[pcms]
+At the same time, my dick pulsed inside my pants with a[r]
+throbbing pain as I resisted while frantically moving my[r]
+fingers.[pcms]
 
 *3678|
 [fc]
 [vo_hay s="hayami0816"]
-[ns]ありす[nse]
-「いぅっ……！　ヒロ、シ……っ！　うごか、した[r]
-　ら……あっ、んぅ……！」[pcms]
+[ns]Arisu[nse]
+"Iu...! Hiroshi...! If you move it... ah, ngh..."[pcms]
 
 *3679|
 [fc]
-[ns]大倉[nse]
-「あ、あぁ、悪ぃ、痛かったか……？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Ah, ahh, sorry, did that hurt...?"[pcms]
 
 *3680|
 [fc]
-慌てて指を動かすの止めた俺に、速水は首を小さく、[r]
-横に振った。[pcms]
+In a panic, I stopped moving my fingers and Hayami shook her[r]
+head slightly from side to side.[pcms]
 
 *3681|
 [fc]
 [vo_hay s="hayami0817"]
-[ns]ありす[nse]
-「でも……も、ちょっと……やさしく、して……？」[pcms]
+[ns]Alice[nse]
+"But... please be a little gentler..."[pcms]
 
 *3682|
 [fc]
-[ns]大倉[nse]
-「ん、わかった……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Mm, understood..."[pcms]
 
 *3683|
 [fc]
-俺はまだ速水に入れたままの指を、今度はゆっくりと、[r]
-中の壁をこすった。[pcms]
+I moved the finger still inside Hayami slowly this time,[r]
+caressing the inner walls gently.[pcms]
 
 *3684|
 [fc]
 [vo_hay s="hayami0818"]
-[ns]ありす[nse]
-「は、ぅ……ぁう、うんっ……！　あふ……ヒロシの、[r]
-　ゆび、ぃ……っ！　うぁんっ……！！」[pcms]
+[ns]Arisu[nse]
+"Ha, u... ah, umm...! Ahf... Hiroshi's finger is...[r]
+ahwan...!!"[pcms]
 
 *3685|
 [fc]
-[ns]大倉[nse]
-「なんかエロい、速水……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"This is kinda erotic, Hayami..."[pcms]
 
 *3686|
 [fc]
 [vo_hay s="hayami0819"]
-[ns]ありす[nse]
-「や、だぁ……っ！　ばかぁ……っ！　ひぁ、っく、[r]
-　うぅんっ……！」[pcms]
+[ns]Alice[nse]
+"No, ah...! Idiot...! Hya, hnn, uunn...!"[pcms]
 
 *3687|
 [fc]
-２人とも呼吸を荒くしながら、中で生まれる感触に、[r]
-俺も速水も夢中になった。[pcms]
+Both of us were breathing heavily, becoming engrossed in the[r]
+sensation that was born inside.[pcms]
 
 *3688|
 [fc]
 [vo_hay s="hayami0820"]
-[ns]ありす[nse]
-「ふっ、く……ぅあっ……あぁっ……！　っは……[r]
-　んぅっ……ふあぁっ……！」[pcms]
+[ns]Arisu[nse]
+"Fuh, kuh...ahh...! Hah... nnuh...fuaah...!"[pcms]
 
 *3689|
 [fc]
-[ns]大倉[nse]
-「手が全部ビショ濡れだ……ふやけそう……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"My hand is all wet... it's going to get pruney..."[pcms]
 
 *3690|
 [fc]
 [vo_hay s="hayami0821"]
-[ns]ありす[nse]
-「ふぁっ、あ……ヒロ、シ……んぁ、ひ、ぁ……」[pcms]
+[ns]Arisu[nse]
+"Fah, ah... Hiro, shi...nha, hi, ah..."[pcms]
 
 *3691|
 [fc]
-[ns]大倉[nse]
-「……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"..."[pcms]
 
 ;//※HEV108b.bmp (Ａのトリミングしなかった大きい絵）
 [evcg storage="HEV108b"][trans_c cross time=301]
 
 *3692|
 [fc]
-濡れた、切なげな目で見つめられて、俺は堪らなくな[r]
-り、剥き出しになったたナニを、速水の奥への[r]
-入り口に押しつけた。[pcms]
+Being stared at with those wet, yearning eyes, I couldn't[r]
+help myself and pressed my exposed dick against the entrance[r]
+of Hayami's depths.[pcms]
 
 *3693|
 [fc]
-けど、ナニはそこで止まってしまって、中々先へ進ま[r]
-ずに、俺は焦って亀裂の上を、何回も行ったり来たり[r]
-していた。[pcms]
+But my dick stopped there and wouldn't move forward easily,[r]
+so in my impatience, I rubbed it back and forth over the[r]
+slit several times.[pcms]
 
 *3694|
 [fc]
 [vo_hay s="hayami0822"]
-[ns]ありす[nse]
-「やぁ、ん……あそばないでよぅ……」[pcms]
+[ns]Arisu[nse]
+"Yah, nh... don't play with it..."[pcms]
 
 *3695|
 [fc]
-[ns]大倉[nse]
-「い、いや、そういうワケじゃ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"No, it's not like that..."[pcms]
 
 *3696|
 [fc]
 [vo_hay s="hayami0823"]
-[ns]ありす[nse]
-「ん……も、ちょっと……しただよ……」[pcms]
+[ns]Arisu[nse]
+"Nh... just a little more... down there..."[pcms]
 
 *3697|
 [fc]
-[ns]大倉[nse]
-「この辺、か……？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Around here, huh...?"[pcms]
 
 *3698|
 [fc]
 [vo_hay s="hayami0824"]
-[ns]ありす[nse]
-「んっ……そのまま、きて……」[pcms]
+[ns]Arisu[nse]
+"Nnh... just like that, come..."[pcms]
 
 ;//[]HCG表示
 ;//井：差分点数不明につき仮張り
@@ -1373,29 +1354,29 @@
 *3699|
 [fc]
 [vo_hay s="hayami0825"]
-[ns]ありす[nse]
-「は、く……っ！」[pcms]
+[ns]Arisu[nse]
+"Hah, kuh...!"[pcms]
 
 *3700|
 [fc]
-腰を突き出し、押し込んでいくと、想像していたよう[r]
-な抵抗も無く、俺のナニは根元まで、自然に速水の奥[r]
-へと飲み込まれていった。[pcms]
+As I thrust my hips forward, without the resistance I had[r]
+imagined, my dick was naturally swallowed up to the base by[r]
+Hayami's depths.[pcms]
 
 *3701|
 [fc]
-速水の中の熱い壁が、“もっと奥へ”と誘うように[r]
-蠢いているのが、ナニに伝わってくる。[pcms]
+The hot walls inside Hayami seemed to wriggle as if inviting[r]
+me deeper, and I could feel it through my dick.[pcms]
 
 *3702|
 [fc]
-[ns]大倉[nse]
-「えっと、大丈夫、か……？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Uh, are you okay...?"[pcms]
 
 *3703|
 [fc]
-むずかるような顔でいるのを見て、体を気遣う俺に、[r]
-速水は微笑んで、首を横に振った。[pcms]
+Seeing her troubled face, I asked with concern for her body,[r]
+and Hayami smiled faintly and shook her head.[pcms]
 
 ;//※HEV108d.bmp (笑顔のカットインのもの）
 [evcg storage="HEV108d"][trans_c cross time=301]
@@ -1403,43 +1384,43 @@
 *3704|
 [fc]
 [vo_hay s="hayami0826"]
-[ns]ありす[nse]
-「ううん、へーき……ヒロシの、だから……[r]
-　いたくないよ……」[pcms]
+[ns]Arisu[nse]
+"No, I'm fine... It's because it's Hiroshi's, it doesn't[r]
+hurt..."[pcms]
 
 *3705|
 [fc]
-[ns]大倉[nse]
-「ムリしなくていいぞ……？[r]
-　オマエ、調子良くないんだし……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"You don't have to force yourself...? You're not feeling[r]
+well..."[pcms]
 
 *3706|
 [fc]
 [vo_hay s="hayami0827"]
-[ns]ありす[nse]
-「うれしいってきもちのほうが、おっきいの……[r]
-　だから、ぜんぜん、へーきだよ……」[pcms]
+[ns]Alice[nse]
+"The feeling of happiness is bigger... so I'm totally[r]
+fine..."[pcms]
 
 *3707|
 [fc]
-[ns]大倉[nse]
-「けど……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"But..."[pcms]
 
 *3708|
 [fc]
 [vo_hay s="hayami0828"]
-[ns]ありす[nse]
-「ほんとに、へーきだから……さいごまで、して……」[pcms]
+[ns]Arisu[nse]
+"I'm really fine... so please do it until the end..."[pcms]
 
 *3709|
 [fc]
-[ns]大倉[nse]
-「……わかった」[pcms]
+[ns]Ookura Hiroshi[nse]
+"...understood"[pcms]
 
 *3710|
 [fc]
-速水が小さくうなずいて返したのを見て、俺はゆっく[r]
-りと腰を往復させ始めた。[pcms]
+Seeing Hayami nod slightly in return, I began to slowly move[r]
+my hips back and forth.[pcms]
 
 ;//※HEV108e.bmp （速水が少しアヘった顔）
 [evcg storage="HEV108e"][trans_c cross time=301]
@@ -1447,46 +1428,45 @@
 *3711|
 [fc]
 [vo_hay s="hayami0829"]
-[ns]ありす[nse]
-「は、ぅ……んんっ……」[pcms]
+[ns]Arisu[nse]
+"Ha, uh...nnnh..."[pcms]
 
 *3712|
 [fc]
-[ns]大倉[nse]
-「く、ぁ……っ！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Ku, ah...!"[pcms]
 
 *3713|
 [fc]
-なんか、コレ……。[r]
-俺、ヤベェかも……。[pcms]
+This is something... I might be in trouble...[pcms]
 
 *3714|
 [fc]
-挿れるだけじゃわからなかった、速水の中の、熱い壁[r]
-のぬめりに、俺は脳そのものがグラグラと揺れるよう[r]
-な感覚を味わった。[pcms]
+I felt a sensation as if my brain itself was shaking from[r]
+the slippery heat of Hayami's inner walls that I couldn't[r]
+understand just by inserting it.[pcms]
 
 *3715|
 [fc]
-[ns]大倉[nse]
-「ハァッ……う、くっ……！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Haa...uh, kuh...!"[pcms]
 
 *3716|
 [fc]
 [vo_hay s="hayami0830"]
-[ns]ありす[nse]
-「ふぁっ、あぅっ……！　はっ、ひろ、し……っ！[r]
-　ん、くうぅっ……！」[pcms]
+[ns]Arisu[nse]
+"Fah, auh...! Hah, Hiroshi...! Nnh, kuuuh...!"[pcms]
 
 *3717|
 [fc]
-ナニに伝わる刺激がもっと欲しくなって、俺の腰の動[r]
-きは、段々速くなってきてしまっていた。[pcms]
+Wanting more stimulation transmitted to my dick, my hips[r]
+started moving faster and faster.[pcms]
 
 *3718|
 [fc]
-速水がツラそうだから抑えようと思いながらも、俺は[r]
-中々、自分の腰の動きを制御できないでいた。[pcms]
+Even though I thought to restrain myself because Hayami[r]
+seemed to be in pain, I couldn't control my own hip[r]
+movements.[pcms]
 
 ;//※HEV108f.bmp (顔に手を当てているカットイン）
 [evcg storage="HEV108f"][trans_c cross time=301]
@@ -1494,138 +1474,131 @@
 *3719|
 [fc]
 [vo_hay s="hayami0831"]
-[ns]ありす[nse]
-「んっ、はぅ……！　あたしので、ちゃんと、きもち[r]
-　いい……？　ヒロシの……あっ、んぅっ……！[r]
-　おちんちん……」[pcms]
+[ns]Arisu[nse]
+"Nnh, hau...! Does it feel good with mine...?[r]
+Hiroshi's...ahh, nnuh...! Your cock..."[pcms]
 
 *3720|
 [fc]
-[ns]大倉[nse]
-「あぁ、スゲー気持ちいいよ……！　けど、ゴメンな、[r]
-　俺だけ……速水、ツライのに……っ！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Yeah, it feels amazing...! But sorry, it's just me...[r]
+Hayami must be in pain..."[pcms]
 
 *3721|
 [fc]
 [vo_hay s="hayami0832"]
-[ns]ありす[nse]
-「いい、の……びょうきのせいで、あぅんっ……！[r]
-　……すきなひとのこと、きもちよくできなかったら[r]
-　……どうしようって、んんっ、んうぅっ……！」[pcms]
+[ns]Arisu[nse]
+"It's okay... because of my illness, ahhnn...! If I couldn't[r]
+make the person I love feel good... what would I do... nnnh,[r]
+nnuuhh...!"[pcms]
 
 *3722|
 [fc]
 [vo_hay s="hayami0833"]
-[ns]ありす[nse]
-「だから、んあっ、はぅんっ……！　ヒロシがきもち[r]
-　いいって、いってくれて……んくっ、んぅんっ……！[r]
-　うれし、いの……」[pcms]
+[ns]Arisu[nse]
+"So when you say it feels good, Hiroshi... nkuh, nnuh...![r]
+I'm happy..."[pcms]
 
 ;//※HEV108e.bmp 
 [evcg storage="HEV108e"][trans_c cross time=301]
 
 *3723|
 [fc]
-そう言って微笑む速水に、俺は息が苦しくなって、[r]
-それと同時に、ナニに伝わる刺激が、なんでかさらに[r]
-強くなった。[pcms]
+Smiling at Hayami's words made me feel breathless and at the[r]
+same time the stimulation transmitted to my dick became even[r]
+stronger for some reason.[pcms]
 
 *3724|
 [fc]
-[ns]大倉[nse]
-「俺……ダメかも……気持ち良すぎて、ガマンできな[r]
-　そうだ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"I might not be able to hold back... it feels too good..."[pcms]
 
 *3725|
 [fc]
 [vo_hay s="hayami0834"]
-[ns]ありす[nse]
-「ふふ……ん、ふぁ……きにしないで、いって……？[r]
-　は、んぅ、あっ……！　ヒロシが、いってくれたら、[r]
-　あたし……んくぅっ……！　うれし、から……」[pcms]
+[ns]Arisu[nse]
+"Hehe...nh, fah... don't worry about it, go ahead and[r]
+come...? Ha, nnuh, ah...! If Hiroshi comes for me,[r]
+nkuuhh...! I'll be happy..."[pcms]
 
 *3726|
 [fc]
-速水のその言葉を聞いて、俺は我に返ったようになり、[r]
-ピタッと動くのをやめた。[pcms]
+Hearing those words from Hayami brought me back to my senses[r]
+and I stopped moving abruptly.[pcms]
 
 *3727|
 [fc]
 [vo_hay s="hayami0835"]
-[ns]ありす[nse]
-「あ……やめちゃうの……？」[pcms]
+[ns]Arisu[nse]
+"Ah... are you stopping?"[pcms]
 
 *3728|
 [fc]
-[ns]大倉[nse]
-「速水も一緒に気持ち良くなれねーならやめる……。[r]
-　俺だけ気持ち良くなったってしょうがねーし、[r]
-　オマエの体が……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"If Hayami can't feel good too then I'll stop... It doesn't[r]
+matter if only I feel good and your body is..."[pcms]
 
 *3729|
 [fc]
-最後まで言い終わる前に、速水は俺の首を引き寄せて[r]
-キスをし、恥ずかしそうに微笑んだ。[pcms]
+Before I could finish speaking, Hayami pulled me in for a[r]
+kiss and smiled shyly.[pcms]
 
 *3730|
 [fc]
 [vo_hay s="hayami0836"]
-[ns]ありす[nse]
-「あたし、いま……すきなひととするのって、こんな[r]
-　にきもちいいんだ、っておもってたよ……」[pcms]
+[ns]Arisu[nse]
+"Right now with the person I love... I never thought it[r]
+could feel this good..."[pcms]
 
 *3731|
 [fc]
-[ns]大倉[nse]
-「……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"..."[pcms]
 
 *3732|
 [fc]
 [vo_hay s="hayami0837"]
-[ns]ありす[nse]
-「あたしも、ちゃんときもちいいから……だから、[r]
-　さいごまでして……？」[pcms]
+[ns]Arisu[nse]
+"I'm feeling good too... so please do it until the end...?"[pcms]
 
 *3733|
 [fc]
-[ns]大倉[nse]
-「あぁ、わかった……ゴメンな……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Yeah, understood... sorry..."[pcms]
 
 *3734|
 [fc]
-病気が悪化してきてるはずの速水に、気を遣わせた[r]
-自分がすごく情けなくなって、俺は謝らずにはいられ[r]
-なかった。[pcms]
+I felt incredibly pathetic for making Hayami who is supposed[r]
+to be getting worse worry about me and couldn't help but[r]
+apologize.[pcms]
 
 *3735|
 [fc]
-そうだ……。[r]
-コイツが望むコトは全部、叶えてやろうって[r]
-決めたんだ……。[pcms]
+That's right... I decided to grant her every wish...[pcms]
 
 *3736|
 [fc]
-最後までするコトで、速水の心が少しでも救われるん[r]
-なら、途中でやめる理由は無い……。[pcms]
+If going all the way can save Hayami's heart even a little,[r]
+then there's no reason to stop halfway...[pcms]
 
 ;//※HEV108g.bmp (キスしてるカットイン）
 [evcg storage="HEV108g"][trans_c cross time=301]
 
 *3737|
 [fc]
-そして俺は、今度は自分から顔を近づけ、速水にキス[r]
-をして、また腰を動かし始めた。[pcms]
+Then, I leaned in to kiss Hayami again and started moving my[r]
+hips once more.[pcms]
 
 *3738|
 [fc]
-[ns]大倉[nse]
-「ふ……ぅ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Fu...uh..."[pcms]
 
 *3739|
 [fc]
-速水の存在が、親友という枠を完全に越えると、さっ[r]
-きみたいにナニの刺激にじゃなく、一つに繋がってい[r]
-るコトに、俺は気持ち良さを感じるようになった。[pcms]
+Hayami's presence completely transcended the boundary of[r]
+just being friends, and I began to feel pleasure not just[r]
+from the physical stimulation but from our connection.[pcms]
 
 ;//※HEV108e.bmp
 [evcg storage="HEV108e"][trans_c cross time=301]
@@ -1633,99 +1606,96 @@
 *3740|
 [fc]
 [vo_hay s="hayami0838"]
-[ns]ありす[nse]
-「ふ、んぅ……ヒロシ、の……は、ぁ……また、[r]
-　おっきくなって、き……んっ……！」[pcms]
+[ns]Arisu[nse]
+"Fu, nnu... Hiroshi's... ah, it's getting bigger again...[r]
+nnn...!"[pcms]
 
 *3741|
 [fc]
-動いてるせいだけじゃなく、一つに繋がってる気持ち[r]
-良さもあって、俺の心臓は激しく脈打ち、目の前が[r]
-チカチカし始めた。[pcms]
+It wasn't just because of the movement, but also the[r]
+pleasure of being connected that made my heart race and my[r]
+vision start to flicker.[pcms]
 
 *3742|
 [fc]
-[ns]大倉[nse]
-「はーっ……はーっ……！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Ha-... Ha-...!"[pcms]
 
 *3743|
 [fc]
 [vo_hay s="hayami0839"]
-[ns]ありす[nse]
-「はっ、ぅんっ……！　あ、く……いきたくなったら、[r]
-　そのまま……んくっ……！　いって、いいから……[r]
-　ヒロシ、の……んっ、すき、に……んぅっ……！」[pcms]
+[ns]Arisu[nse]
+"Ha, unn...! Ah, ku... when you want to come, just...[r]
+nkuh...! Go ahead... Hiroshi, do as you... nnuh...[r]
+please...!"[pcms]
 
 *3744|
 [fc]
-[ns]大倉[nse]
-「あぁ……死ぬほど出たらゴメンな……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Ah... sorry if I come to death..."[pcms]
 
 *3745|
 [fc]
 [vo_hay s="hayami0840"]
-[ns]ありす[nse]
-「んは、く……も、ばか、ぁ……あぅっ……！」[pcms]
+[ns]Arisu[nse]
+"Nha, ku... you're such a fool, ah... auh...!"[pcms]
 
 *3746|
 [fc]
-実際、初めて感じる色々な感覚に、自分の脳がブッ壊[r]
-れて、普段じゃあり得ないような量を出してしまうよ[r]
-うな気がしていた。[pcms]
+In fact, with all these new sensations I was feeling for the[r]
+first time, I felt like my brain was breaking and I might[r]
+release an unimaginable amount.[pcms]
 
 *3747|
 [fc]
 [vo_hay s="hayami0841"]
-[ns]ありす[nse]
-「ん、はぁっ……！　は、ふぁ、ぅ……ヒロ、シ……[r]
-　くぅ、んっ……！　すき、ぃ……！」[pcms]
+[ns]Arisu[nse]
+"Nn, haa...! Ha, fah, uhh... Hiro, shi... kuu, nnn...! I[r]
+love you...!"[pcms]
 
 *3748|
 [fc]
-[ns]大倉[nse]
-「あぁ……俺も……好きだ……！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Ah... I love you too...!"[pcms]
 
 *3749|
 [fc]
 [vo_hay s="hayami0842"]
-[ns]ありす[nse]
-「んくうぅっ……！　っは、ふぁ……ヒロシ、も、と[r]
-　……はっ、ぅ……もっと、すきって……あぅっ……！[r]
-　いって……！」[pcms]
+[ns]Arisu[nse]
+"Nkuuhh...! Hah, fah... Hiroshi too, and... ha, uh... say[r]
+you love me more... ahh...! Come on...!"[pcms]
 
 *3750|
 [fc]
-[ns]大倉[nse]
-「好きだ、速水……っ！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"I love you, Hayami...!"[pcms]
 
 *3751|
 [fc]
 [vo_hay s="hayami0843"]
-[ns]ありす[nse]
-「は、ひぁ……っ！　あ、たし、うれし、よ……[r]
-　ヒロシ……っ！」[pcms]
+[ns]Arisu[nse]
+"Nha, hia...! Ah, I'm so happy... Hiroshi...!"[pcms]
 
 *3752|
 [fc]
-腹の底に溜まっているモノを抑えておくコトが、これ[r]
-以上できそうもなくなって、俺は速水に覆い被さった。[pcms]
+I couldn't hold back what was building up inside me any[r]
+longer, and I covered Hayami with my body.[pcms]
 
 *3753|
 [fc]
-[ns]大倉[nse]
-「ハァッ……！　ハァッ……！[r]
-　速水……俺、もう……っ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Haa...! Haa...! Hayami... I'm about to...!!"[pcms]
 
 *3754|
 [fc]
 [vo_hay s="hayami0844"]
-[ns]ありす[nse]
-「ヒ、ロシ……キス、して……っ！」[pcms]
+[ns]Arisu[nse]
+"Hi, Hiroshi... kiss me...!"[pcms]
 
 *3755|
 [fc]
-俺は求められるまま、速水の唇に自分の口を重ね、[r]
-舌を滑り込ませる。[pcms]
+As she requested, I pressed my lips against Hayami's and let[r]
+my tongue slip in.[pcms]
 
 ;//※HEVAA108g.bmp (キスしてるカットイン）
 [evcg storage="HEV108g"][trans_c cross time=301]
@@ -1733,70 +1703,67 @@
 *3756|
 [fc]
 [vo_hay s="hayami0845"]
-[ns]ありす[nse]
-「んぅっ……！！」[pcms]
+[ns]Alice[nse]
+"Nnuh...!!"[pcms]
 
 *3757|
 [fc]
-[ns]大倉[nse]
-「んんっ……！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Nnnh...!"[pcms]
 
 *3758|
 [fc]
-お互いの舌が触れ合った途端、速水の中が急に狭くな[r]
-り、俺のナニを締め付けてきた。[pcms]
+The moment our tongues touched, Hayami's insides suddenly[r]
+tightened around me.[pcms]
 
 *3759|
 [fc]
-自分が求められてるような感じとか、興奮とかが一気[r]
-に高まり、俺は腰の動きを思わず激しくしてしまう。[pcms]
+The feeling of being wanted and the excitement surged all at[r]
+once, and I involuntarily intensified my movements.[pcms]
 
 *3760|
 [fc]
-[ns]大倉[nse]
-「ん、ふぅっ……！　ちゅ、んむ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Nn, fuuh...! Chu, nmu..."[pcms]
 
 *3761|
 [fc]
 [vo_hay s="hayami0846"]
-[ns]ありす[nse]
-「んんっ……！　ふっ、ふむ……！　はっ、はふ……[r]
-　ちゅ、んうぅっ……！」[pcms]
+[ns]Arisu[nse]
+"Nnnh...! Fuh, fumu...! Ha, hafu... Chu, nuuhh...!"[pcms]
 
 *3762|
 [fc]
-全部が混ざって一つになったような感覚は、今までの[r]
-ものよりもさらに上の、強烈な快感となって俺を襲い、[r]
-限界はすぐに目の前にやってきた。[pcms]
+The sensation of everything mixing together into one was[r]
+even more intense than before, assaulting me with a powerful[r]
+pleasure that quickly brought me to my limit.[pcms]
 
 *3763|
 [fc]
 [vo_hay s="hayami0847"]
-[ns]ありす[nse]
-「んはっ、はっ、ぁむ……ちゅうっ、ちゃぷっ……[r]
-　んっ、んむうぅっ……！！」[pcms]
+[ns]Alice[nse]
+"Nhaa, ha, amu... chuuu, chapu... nnn, nmuuhh...!!"[pcms]
 
 *3764|
 [fc]
-[ns]大倉[nse]
-「んっ……！　ふぅっ……！　んうぅっ……！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Nnnh...! Fuuh...! Nuuuhh...!!"[pcms]
 
 *3765|
 [fc]
 [vo_hay s="hayami0848"]
-[ns]ありす[nse]
-「んんっ……！！　はぁっ、はっ、ん、ちゅ……[r]
-　んっ、んぅっ……！　んん～～っ……！！」[pcms]
+[ns]Alice[nse]
+"Nnnh...!! Haa, ha, nnn, chu... nnnh, nuhh...! Nnn~~~!!"[pcms]
 
 *3766|
 [fc]
-手を強く握り、唇を重ねたまま、俺は速水の中に、[r]
-こみ上げてきたモノを注ぎ込んだ。[pcms]
+With our hands tightly clasped and lips still joined, I[r]
+released everything that had welled up inside into Hayami.[pcms]
 
 *3767|
 [fc]
-[ns]大倉[nse]
-「んん……っ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Nnnh...!!"[pcms]
 
 ;[射精フラA]
 ;イベントCG射精差分
@@ -1811,97 +1778,97 @@
 *3768|
 [fc]
 [vo_hay s="hayami0849"]
-[ns]ありす[nse]
-「んふうぅ……っ！」[pcms]
+[ns]Alice[nse]
+"Nfuuhh...!"[pcms]
 
 *3769|
 [fc]
-俺のナニを包み込む、速水の中の肉が蠢いて、精液を[r]
-残らず搾り取っていく。[pcms]
+The flesh inside Hayami that enveloped me writhed and[r]
+squeezed out every last drop of semen.[pcms]
 
 *3770|
 [fc]
-背筋に震えがくるほどの快感に、俺は思わずのけ反り、[r]
-重ねていた唇を速水から離してしまった。[pcms]
+With a pleasure so intense it sent shivers up my spine, I[r]
+involuntarily arched back and separated our lips.[pcms]
 
 *3771|
 [fc]
-[ns]大倉[nse]
-「ん、は……っ！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Nn, ha...!"[pcms]
 
 *3772|
 [fc]
 [vo_hay s="hayami0850"]
-[ns]ありす[nse]
-「ふぁ……は、あ゛ぅ……」[pcms]
+[ns]Arisu[nse]
+"Fah... ha, agh..."[pcms]
 
 *3773|
 [fc]
-速水の奥に全部注ぎ込んで、[pcms]
+After pouring everything into Hayami's depths,[pcms]
 
 *3774|
 [fc]
-[ns]大倉[nse]
-「ハァ……ハァ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Haa... Haa..."[pcms]
 
 *3775|
 [fc]
 [vo_hay s="hayami0851"]
-[ns]ありす[nse]
-「…………」[pcms]
+[ns]Arisu[nse]
+"..."[pcms]
 ;//◎少し荒くなった呼吸
 
 *3776|
 [fc]
-隣に倒れ込み、荒く息を吐いている俺のホッペタを[r]
-撫でながら、速水が見つめてくる。[pcms]
+Collapsing beside her and breathing heavily, Hayami stroked[r]
+my cheek while gazing at me.[pcms]
 
 ;//※黒画面へ
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
 *3777|
 [fc]
-俺も、涙で濡れたホッペタを掌で拭いてやりながら、[r]
-速水の濡れて光る目を見つめた。[pcms]
+I too wiped her tear-stained cheeks with my palm while[r]
+gazing into her moist and shining eyes.[pcms]
 
 *3778|
 [fc]
-[ns]大倉[nse]
-「……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"..."[pcms]
 
 *3779|
 [fc]
 [vo_hay s="hayami0852"]
-[ns]ありす[nse]
-「……」[pcms]
+[ns]Arisu[nse]
+"..."[pcms]
 
 *3780|
 [fc]
-そして、お互いに引き寄せられるように、顔を相手に[r]
-近づけていって、俺と速水は、また唇を重ね合わせた。[pcms]
+Then, as if drawn to each other, we moved our faces closer[r]
+and once again pressed our lips together.[pcms]
 
 *3781|
 [fc]
 [vo_hay s="hayami0853"]
-[ns]ありす[nse]
-「んふ、ん……」[pcms]
+[ns]Arisu[nse]
+"Nnfu, nn..."[pcms]
 
 *3782|
 [fc]
-[ns]大倉[nse]
-「は……んむ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Ha... nmu..."[pcms]
 
 *3783|
 [fc]
-心地よさとなって体に残る痺れと疲労感に、[r]
-俺のまぶたは重くなってきて、自然と閉じていった。[pcms]
+The lingering numbness and fatigue turned into a comfortable[r]
+sensation, and my eyelids grew heavy and naturally closed.[pcms]
 
 ;//------------------------------------------------
 [if exp="tf.scene_mode==1"]
 	[jump storage="b_scene.ks" target=*back_from_SR]
 ;	[link storage=sceneAgain]もう一度見る[endlink]
 ;	[link storage=sceneList]一覧に戻る[endlink]
-;	[s]
+;[pcms]
 [endif]
 
 *KAISOU_PASS
@@ -1915,4 +1882,4 @@
 
 [jump storage="hayamiroute11160.ks" target=*hayamiroute11160_TOP]
 
-;//－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+;//

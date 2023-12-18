@@ -22,87 +22,86 @@
 
 *7196|
 [fc]
-呻くように喋る声を背中に受けながら店を飛び出し、[r]
-走りながら振り向いたが、アイツらが追ってくる様子[r]
-はなかった。[pcms]
+While feeling a groaning voice at my back, I dashed out of[r]
+the store and looked back while running, but there was no[r]
+sign of them following.[pcms]
 
 *7197|
 [fc]
-周りには、相変わらず誰一人いない。[r]
-不気味なほど静かなのも変わっていない。[pcms]
+As usual, there wasn't a single person around. The eerie[r]
+silence hadn't changed either.[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
 *7198|
 [fc]
-もしかして……。[r]
-この商店街の建物の中は、全部あんなことになってる[r]
-のか……？[pcms]
+Could it be...? Are all the buildings in this shopping[r]
+district like that...?[pcms]
 
 *7199|
 [fc]
-あり得ないとは思いながらも、そいつらが全員、俺ら[r]
-を次の獲物として追ってきたらと考えると、俺はゾッ[r]
-として顔をしかめた。[pcms]
+Even though I thought it was impossible, the idea that they[r]
+were all coming after us as their next prey made me shudder[r]
+and grimace.[pcms]
 
 *7200|
 [fc]
-[ns]大倉[nse]
-「……速水、ケガしなかったか？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"...Hayami, are you hurt?"[pcms]
 
 *7201|
 [fc]
-小さく首を横に振った速水は、俺のシャツを強く掴ん[r]
-だまま、離れようとはしなかった。[pcms]
+Hayami shook her head slightly and continued to cling to my[r]
+shirt without letting go.[pcms]
 
 [ChrSetEx layer=4 chbase="hayami_t06"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *7202|
 [fc]
 [vo_hay s="hayami0114"]
-[ns]ありす[nse]
-「なんなの……？　あの人たち……」[pcms]
+[ns]Arisu[nse]
+"What's with... those people...?"[pcms]
 
 *7203|
 [fc]
-[ns]大倉[nse]
-「わかんねぇ……頭がおかしいことだけは確かだけど[r]
-　な……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"I don't know... but one thing's for sure, they're out of[r]
+their minds..."[pcms]
 
 *7204|
 [fc]
-俺は自分が“警察に電話してくれ”と速水に頼んでい[r]
-たことを、そこでやっと思い出した。[pcms]
+I finally remembered that I had asked Hayami to call the[r]
+police.[pcms]
 
 *7205|
 [fc]
-[ns]大倉[nse]
-「そうだ速水、警察、何だって？」[pcms]
+[ns]Ookura[nse]
+"That's right, Hayami, the police, what happened?"[pcms]
 
 *7206|
 [fc]
-俺の顔を見て、速水はまた、小さく首を横に振った。[pcms]
+Looking at my face, Hayami shook her head again.[pcms]
 
 *7207|
 [fc]
 [vo_hay s="hayami0115"]
-[ns]ありす[nse]
-「繋がらなかった……。ずっと話し中で……」[pcms]
+[ns]Arisu[nse]
+"I couldn't get through... It was busy the whole time..."[pcms]
 
 *7208|
 [fc]
-[ns]大倉[nse]
-「そうか……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"I see..."[pcms]
 
 *7209|
 [fc]
-俺らと同じような目に遭ったヤツが、警察に電話して[r]
-んのかもな……。[pcms]
+Maybe someone else who had the same experience as us was[r]
+calling the police...[pcms]
 
 *7210|
 [fc]
-でも、それなら１人ぐらい、この辺を警察が歩いてて[r]
-も良さそうなもんだけど……。[pcms]
+But if that were the case, you'd think at least one police[r]
+officer would be walking around here...[pcms]
 
 ;[chara_int][trans_c cross time=150]
 
@@ -111,96 +110,95 @@
 *7211|
 [fc]
 [vo_kob s="koba0099"]
-[ns]小林[nse]
-「ヒロ、あれ……」[pcms]
+[ns]Kobayashi[nse]
+"Hiro, look over there..."[pcms]
 
 *7212|
 [fc]
-横で周りを見回していたユウが、俺の肩を叩いて、商[r]
-店街の一角を指さした。[pcms]
+Yuuki, who had been looking around, tapped my shoulder and[r]
+pointed to a corner of the shopping district.[pcms]
 
 *7213|
 [fc]
 [vo_kob s="koba0100"]
-[ns]小林[nse]
-「人が倒れてる……」[pcms]
+[ns]Kobayashi[nse]
+"There's someone collapsed..."[pcms]
 
 *7214|
 [fc]
-ユウの指先を追って振り返ると、公園の中でうつ伏せ[r]
-に倒れている人がいた。[pcms]
+Following Yuuki's finger, I turned around to see someone[r]
+lying face down in the park.[pcms]
 
 ;//♪：００2_感染 Extreme　Ver.　フェードアウト
 [fadeoutbgm time=1000]
 
 *7215|
 [fc]
-[ns]大倉[nse]
-「……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"..."[pcms]
 
 *7216|
 [fc]
-あれ、ちゃんとした人間か……？[r]
-近づいた瞬間、さっきのヤツらみたいに襲ってくるん[r]
-じゃないのか……？[pcms]
+Is that a real person...? What if they attack us like those[r]
+others did the moment we get close...?[pcms]
 
 *7217|
 [fc]
-でも、もしケガか病気で倒れているんなら、早く病院[r]
-に連れて行かないと大変なことになる。[r]
-それを考えると、放っておくワケにはいかない。[pcms]
+But if they've collapsed due to an injury or illness, we[r]
+need to get them to a hospital quickly or it could be[r]
+serious. With that in mind, I couldn't just leave them[r]
+there.[pcms]
 
 ;//♪：００９_Unhappy desire.
 [bgm storage="bgm009"]
 
 *7218|
 [fc]
-[ns]大倉[nse]
-「あの人が襲ってきた時のために、すぐに逃げられる[r]
-　ようにしとけ」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Be ready to run in case that person attacks."[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *7219|
 [fc]
-速水をユウに任せ、俺は慎重に、様子を窺いながら、[r]
-倒れてる人に近づいた。[pcms]
+Leaving Hayami with Yuuki, I cautiously approached the[r]
+collapsed person, watching carefully.[pcms]
 
 *7220|
 [fc]
-[ns]大倉[nse]
-「あの、大丈夫ですか？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Hey, are you okay?"[pcms]
 
 *7221|
 [fc]
-すぐに逃げられるような体勢を取りながら、倒れてる[r]
-人の肩を強めに叩くと、苦しそうに呻きながら、少し[r]
-顔をあげた。[pcms]
+While maintaining a posture ready to flee, I tapped the[r]
+shoulder of the collapsed person a bit forcefully, and they[r]
+raised their face slightly with a pained groan.[pcms]
 
 *7222|
 [fc]
-[ns]青年[nse]
-「う、うぅ……」[pcms]
+[ns]Youth[nse]
+"Ugh, uhh..."[pcms]
 
 *7223|
 [fc]
-その男の人は頭をケガしていたようで、顔は頭から流[r]
-れてきた血でベットリと濡れていた。[pcms]
+The man seemed to have injured his head, as his face was wet[r]
+with blood that had flowed from his head.[pcms]
 
 *7224|
 [fc]
-[ns]青年[nse]
-「助け、て……」[pcms]
+[ns]Youth[nse]
+"Help, please..."[pcms]
 
 *7225|
 [fc]
-[ns]大倉[nse]
-「どうしたんですか？　ここで何があったんですか？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"What happened to you? What happened here?"[pcms]
 
 *7226|
 [fc]
-俺の様子を見て、危険は無いと考えたのか、速水とユ[r]
-ウが近くへやってきていた。[pcms]
+Seeing that I wasn't in danger, Hayami and Yuuki came[r]
+closer.[pcms]
 
 [ChrSetEx layer=2 chbase="koba_n12"][ChrSetXY layer=2 x=0 y=0]
 [ChrSetEx layer=3 chbase="hayami_t06"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
@@ -208,35 +206,35 @@
 *7227|
 [fc]
 [vo_kob s="koba0101"]
-[ns]小林[nse]
-「酷い怪我……。早く病院に連れて行かないと……」[pcms]
+[ns]Kobayashi[nse]
+"That's a terrible injury... We need to get them to a[r]
+hospital quickly..."[pcms]
 
 *7228|
 [fc]
 [vo_hay s="hayami0116"]
-[ns]ありす[nse]
-「すぐ近くに大きい病院があるんだし、あそこまで[r]
-　つれていってあげようよ」[pcms]
+[ns]Alice[nse]
+"There's a big hospital nearby, let's take them there."[pcms]
 
 *7229|
 [fc]
 [vo_kob s="koba0102"]
-[ns]小林[nse]
-「いや、頭の怪我だし、あまり動かさない方がいいと[r]
-　思うよ」[pcms]
+[ns]Kobayashi[nse]
+"No, it's a head injury, I think it's better not to move[r]
+them too much."[pcms]
 
 *7230|
 [fc]
-[ns]大倉[nse]
-「……俺、ちょっと行って、医者に来てもらえるよう[r]
-　に頼んでくるわ。２人はこの人を見ててくれ」[pcms]
+[ns]Ookura Hiroshi[nse]
+"...I'll go and ask a doctor to come. You two watch over[r]
+this person."[pcms]
 
 [chara_int_ layer=2][chara_int_ layer=3][trans_c cross time=150]
 
 *7231|
 [fc]
-ユウと速水にそう言い残して、俺はあのデカイ病院が[r]
-ある方へ走った。[pcms]
+Leaving those words with Yuuki and Hayami, I ran towards[r]
+where the big hospital was located.[pcms]
 
 [sysbt_meswin clear]
 
@@ -245,4 +243,4 @@
 
 [jump storage="prologue02040.ks" target=*prologue02040_TOP]
 
-;//－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+;//

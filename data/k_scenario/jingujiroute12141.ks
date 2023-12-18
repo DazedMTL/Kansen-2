@@ -25,15 +25,16 @@
 
 *5175|
 [fc]
-[ns]‘å‘q[nse]
-uƒ}ƒ„‚¿‚á‚ñA‘–‚êƒbIIv[pcms]
+[ns]Ookura Hiroshi[nse]
+"Maya-chan, run!!"[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_n04"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *5176|
 [fc]
-‰´‚Íƒ}ƒ„‚¿‚á‚ñ‚Ì˜r‚ğˆø‚¢‚Ä‘–‚èo‚µAƒCƒJƒŒ–ì˜Y‚©[r]
-‚ç—£‚ê‚½Š‚ğ’Ê‚Á‚ÄAƒQ[ƒg‚ÌŠO‚Ö‚Æ‘–‚è”²‚¯‚½B[pcms]
+I grabbed Maya-chan's arm and started running, making our[r]
+way through a spot away from the crazed guy and out of the[r]
+gate.[pcms]
 
 ;êŠ<ImageFade 6,60,OFF,OFF>
 
@@ -41,17 +42,17 @@
 
 *5177|
 [fc]
-‚±‚Á‚¿‚ÉŒü‚©‚Á‚Ä“Š‚°‚Ä‚­‚é‚©‚à‚µ‚ê‚È‚¢A‚Æ‚¢‚¤[r]
-•sˆÀ‚ÉAƒQ[ƒg‚ğo‚Ä‚·‚®‚ÌŠ‚ÅA‰´‚ÍƒCƒJƒŒ–ì˜Y‚ğ[r]
-U‚è•Ô‚Á‚½B[pcms]
+Feeling anxious that he might throw something at us, I[r]
+turned back to look at the crazed guy just as we got out of[r]
+the gate.[pcms]
 
 *5178|
 [fc]
-‚»‚ÌuŠÔccB[pcms]
+That moment...[pcms]
 
 ;//ƒuƒƒbƒN‚P‚Q‚P‚T‚O‚Ö
 [eval exp="f.l_scoop = 1"]
 
 [jump storage="jingujiroute12150.ks" target=*jingujiroute12150_TOP]
 
-;//||||||||||||||||||||||||||||||||||||||||
+;//

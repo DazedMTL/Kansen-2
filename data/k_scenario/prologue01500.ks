@@ -29,15 +29,16 @@
 *6932|
 [fc]
 [vo_hay s="hayami0097"]
-[ns]ありす[nse]
-「すご～い、学校のプールより広いよ、このエントラ[r]
-　ンス……」[pcms]
+[ns]Arisu[nse]
+"Wow, it's even bigger than the school pool, this[r]
+entrance..."[pcms]
 
 *6933|
 [fc]
-ガラス張りの入り口を抜けると、広々としたエントラ[r]
-ンスホールには、照明の白い光と、人のざわめきと、[r]
-落ち着いた音楽が漂っていた。[pcms]
+Passing through the glass entrance, the spacious entrance[r]
+hall was filled with the white light of the illumination,[r]
+the murmur of people, and the soothing music drifting[r]
+through the air.[pcms]
 
 ;//＠：エントランス
 ;//BG:ショッピングモールエントランス・夕方
@@ -51,17 +52,17 @@
 
 *6934|
 [fc]
-[ns]大倉[nse]
-「エントランスって玄関だよな。どんだけデカイんだ[r]
-　よ、この家……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Entrance means the front door, right? How huge is this[r]
+house..."[pcms]
 
 [ChrSetEx layer=2 chbase="koba_n12"][ChrSetXY layer=2 x=0 y=0][trans_c cross time=150]
 
 *6935|
 [fc]
 [vo_kob s="koba0079"]
-[ns]小林[nse]
-「まだ続いてたの？　それ……」[pcms]
+[ns]Kobayashi[nse]
+"Is it still going on? That..."[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
@@ -70,32 +71,32 @@
 *6936|
 [fc]
 [vo_hay s="hayami0098"]
-[ns]ありす[nse]
-「んじゃ、どの部屋から攻める～？」[pcms]
+[ns]Arisu[nse]
+"So, which room shall we attack first~?"[pcms]
 
 [ChrSetEx layer=2 chbase="koba_n07"][ChrSetXY layer=2 x=0 y=0][trans_c cross time=150]
 
 *6937|
 [fc]
 [vo_kob s="koba0080"]
-[ns]小林[nse]
-「……あっ、ちょっと待ってて」[pcms]
+[ns]Kobayashi[nse]
+"...Ah, wait a minute."[pcms]
 
 [chara_int_ layer=2][trans_c cross time=150]
 
 *6938|
 [fc]
-ユウは正面の壁の前に置かれているチラシ立てに走っ[r]
-て、幾つかのパンフレットを吟味し、その中の１つを[r]
-持って戻ってきた。[pcms]
+Yuuki ran to a brochure stand placed in front of the main[r]
+wall, carefully selected several pamphlets, and came back[r]
+holding one of them.[pcms]
 
 [ChrSetEx layer=2 chbase="koba_n02"][ChrSetXY layer=2 x=0 y=0][trans_c cross time=150]
 
 *6939|
 [fc]
 [vo_kob s="koba0081"]
-[ns]小林[nse]
-「これにフロアマップが載ってたよ」[pcms]
+[ns]Kobayashi[nse]
+"This one has the floor map."[pcms]
 
 [chara_int_ layer=2][chara_int_ layer=3][trans_c cross time=150]
 
@@ -104,63 +105,64 @@
 
 *6940|
 [fc]
-手前の広場から見たように、このショッピングモール[r]
-はイーストタウンとウエストタウンの、２つのビルか[r]
-らできている。[pcms]
+East Town and West Town.[pcms]
 
 *6941|
 [fc]
-どっちのビルも地上４階建てで、それぞれのビルを行[r]
-き来するには、このエントランスを通るか、３階にあ[r]
-る連絡通路を通らなければならないようだ。[pcms]
+Both buildings are four stories high, and to move between[r]
+them, one must pass through this entrance or use the[r]
+connecting corridor on the third floor.[pcms]
 
 *6942|
 [fc]
-東側のビル、『イーストタウン』の１階にはデパ地下[r]
-的な名店街、２階にはＤＩＹ用品専門のフロアが。[pcms]
+In the East Town building on the first floor, there is a[r]
+department store-like famous shopping street, and on the[r]
+second floor, there is a DIY goods specialty floor.[pcms]
 
 *6943|
 [fc]
-３階には小物と寝具のフロアがあり、４階はレストラ[r]
-ンや食堂専門のフロアになっている。[pcms]
+The third floor has accessories and bedding floors, and the[r]
+fourth floor is dedicated to restaurants and dining halls.[pcms]
 
 *6944|
 [fc]
-反対の、西側のビル『ウエストタウン』には、１階に[r]
-洋服やアクセサリーを、２階にオモチャや趣味の物を[r]
-専門に扱うフロアがある。[pcms]
+In the opposite West Town building, the first floor has[r]
+clothes and accessories, and the second floor specializes in[r]
+toys and hobby items.[pcms]
 
 *6945|
 [fc]
-３階はペットやペットに関する物が売られていて、[r]
-４階は最近ハヤリの[ruby text="シネマコンプレックス"][ch text="複合映画館"]となっている。[pcms]
+The third floor sells pets and related items, and the fourth[r]
+floor has recently become a popular multiplex cinema.[pcms]
 
 *6946|
 [fc]
 [vo_hay s="hayami0099"]
-[ns]ありす[nse]
-「へ～！　ここって避難場所になってるんだって。ホ[r]
-　ラ、ここ」[pcms]
+[ns]Arisu[nse]
+"Wow! I heard this place is designated as an evacuation[r]
+area. Look, here."[pcms]
 
 *6947|
 [fc]
-速水の指はフロアマップじゃなく、このショッピング[r]
-モールの設備を説明している文章を指していた。[pcms]
+Hayami's finger was not pointing at the floor map but at a[r]
+text explaining the facilities of this shopping mall.[pcms]
 
 *6948|
 [fc]
-書かれている文章によると、かなりの金をかけてそう[r]
-な最新設備が、ココには使われているらしい。[pcms]
+According to the written text, it seems that quite a bit of[r]
+money has been spent on state-of-the-art facilities here.[pcms]
 
 *6949|
 [fc]
-震度７クラスの大地震にも耐える工法。[r]
-全て自動で、人の手に頼らずに動作する防火施設。[pcms]
+Construction methods that can withstand a magnitude 7[r]
+earthquake. All automatic fire prevention facilities that[r]
+operate without human intervention.[pcms]
 
 *6950|
 [fc]
-大規模病院並みの自家発電施設に、外部、内部の防犯[r]
-能力を高める集中監視システム。[pcms]
+A large hospital-grade power generation facility, with a[r]
+centralized surveillance system that enhances security both[r]
+externally and internally.[pcms]
 
 [cutin_int][trans_c cross time=300]
 
@@ -169,9 +171,9 @@
 
 *6951|
 [fc]
-[ns]大倉[nse]
-「手前にある広場がやたら広いのも、ココが避難場所[r]
-　になってるからなのか？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Is the reason why the plaza in front is so spacious because[r]
+this place is an evacuation area?"[pcms]
 
 [ChrSetEx layer=2 chbase="koba_n02"][ChrSetXY layer=2 x=0 y=0]
 [ChrSetEx layer=3 chbase="hayami_b03"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
@@ -179,14 +181,14 @@
 *6952|
 [fc]
 [vo_kob s="koba0082"]
-[ns]小林[nse]
-「ああ、そうかもしれない。凄い！　ヒロ、今日は珍[r]
-　しく冴えてるね」[pcms]
+[ns]Kobayashi[nse]
+"Ah, that might be true. Amazing! Hiro, you're unusually[r]
+sharp today."[pcms]
 
 *6953|
 [fc]
-[ns]大倉[nse]
-「……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"..."[pcms]
 
 [ChrSetEx layer=2 chbase="koba_n11"][ChrSetXY layer=2 x=0 y=0]
 [ChrSetEx layer=3 chbase="hayami_b11"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
@@ -194,13 +196,13 @@
 *6954|
 [fc]
 [vo_kob s="koba0083"]
-[ns]小林[nse]
-「痛い痛い痛い痛い！！」[pcms]
+[ns]Kobayashi[nse]
+"Ouch ouch ouch ouch!!"[pcms]
 
 *6955|
 [fc]
-ユウの両方のホッペタをつねっていると、速水がパン[r]
-フレットから目を離さないまま、俺の肩を叩いてきた。[pcms]
+While pinching Yuuki's cheeks, Hayami tapped my shoulder[r]
+without taking her eyes off the pamphlet.[pcms]
 
 [ChrSetEx layer=2 chbase="koba_n12"][ChrSetXY layer=2 x=0 y=0]
 [ChrSetEx layer=3 chbase="hayami_b04"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
@@ -208,82 +210,81 @@
 *6956|
 [fc]
 [vo_hay s="hayami0100"]
-[ns]ありす[nse]
-「ねねねね、せっかくだから展望台行ってみない？」[pcms]
+[ns]Alice[nse]
+"Hey hey hey, since we're here, why don't we go to the[r]
+observation deck?"[pcms]
 
 *6957|
 [fc]
-ユウのホッペタから手を放して、速水の指先を目で追[r]
-うと、イーストタウン、ウエストタウン、それぞれの[r]
-屋上に『駐車場＆展望台』と表記されていた。[pcms]
+Releasing Yuuki's cheeks and following Hayami's fingertip[r]
+with her eyes, both East Town and West Town had "Parking &[r]
+Observation Deck" marked on their rooftops.[pcms]
 
 *6958|
 [fc]
-[ns]大倉[nse]
-「どっちにもあるってのは、よっぽど景色がいいって[r]
-　ことなか？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Does having one on both sides mean that the view must be[r]
+really good?"[pcms]
 
 [ChrSetEx layer=3 chbase="hayami_b07"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
 
 *6959|
 [fc]
 [vo_hay s="hayami0101"]
-[ns]ありす[nse]
-「スコープあるかな～♪　久しぶりにあれで、景色見[r]
-　てみた～い！」[pcms]
+[ns]Arisu[nse]
+"I wonder if there's a scope~♪ I want to see the scenery[r]
+through that after such a long time!"[pcms]
 
 *6960|
 [fc]
-[ns]大倉[nse]
-「展望台か……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Observation deck, huh..."[pcms]
 
 *6961|
 [fc]
-規模は確かにデカイが敷地が広いだけで、中に入って[r]
-いる店は特に珍しいものではないということが、ユウ[r]
-の持っているパンフレットから分かった。[pcms]
+The pamphlet Yuuki held made it clear that although the[r]
+scale was certainly large, the stores inside were not[r]
+particularly unusual.[pcms]
 
 *6962|
 [fc]
-簡単に言えば、たいして面白い所ではなかった、とい[r]
-うことだ。[pcms]
+In other words, it wasn't all that interesting a place.[pcms]
 
 *6963|
 [fc]
-速水が“せっかくだから”と言ったのも、多分、俺と[r]
-同じような感想を、このショッピングモールに持った[r]
-からだろう。[pcms]
+Hayami probably had a similar impression of this shopping[r]
+mall as I did when she said "since we're here."[pcms]
 
 *6964|
 [fc]
-[ns]大倉[nse]
-「どっか見たいトコないのか？　ユウ。あんなに来た[r]
-　がってじゃねーか」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Don't you want to see something? Yuuki. You were so eager[r]
+to come here."[pcms]
 
 [ChrSetEx layer=2 chbase="koba_n09"][ChrSetXY layer=2 x=0 y=0][trans_c cross time=150]
 
 *6965|
 [fc]
 [vo_kob s="koba0084"]
-[ns]小林[nse]
-「うん……でもいいよ、展望台に行こう」[pcms]
+[ns]Kobayashi[nse]
+"Yeah... but it's okay, let's go to the observation deck."[pcms]
 
 *6966|
 [fc]
-ちょっとガッカリした顔でそう言うのを見て、ユウも[r]
-俺と同じことを思っていたのがわかった。[pcms]
+Seeing her slightly disappointed face, I could tell that[r]
+Yuuki was thinking the same thing as me.[pcms]
 
 *6967|
 [fc]
-[ns]大倉[nse]
-「じゃぁ行ってみるか、展望台」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Then let's go check out the observation deck."[pcms]
 
 [chara_int_ layer=2][chara_int_ layer=3][trans_c cross time=150]
 
 *6968|
 [fc]
-速水とユウを促して、俺は屋上へ通じているエレベー[r]
-ターへ向かった。[pcms]
+Encouraging Hayami and Yuuki, I headed for the elevator that[r]
+leads to the rooftop.[pcms]
 
 [sysbt_meswin clear]
 [fadeoutbgm time=502]
@@ -294,4 +295,4 @@
 
 [jump storage="prologue01600.ks" target=*prologue01600_TOP]
 
-;//－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+;//

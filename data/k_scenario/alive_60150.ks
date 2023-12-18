@@ -24,38 +24,37 @@
 
 *1328|
 [fc]
-[ns]大倉[nse]
-「はっ……はあっ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Hah... Haa..."[pcms]
 
 *1329|
 [fc]
-初めて見た、真っ白いスクール水着に身を包んだ、[r]
-背の低い少女が、俺の前に立っている。[pcms]
+For the first time, I saw a short girl wrapped in a pure[r]
+white school swimsuit standing in front of me.[pcms]
 
 *1330|
 [fc]
-無駄のない身体に張り付き、かえって女らしい[r]
-柔らかな肉を強調しているソレは、[r]
-俺の興奮をかき立てた。[pcms]
+The swimsuit clung to her slender body, emphasizing her[r]
+feminine softness and stirring my excitement.[pcms]
 
 [ChrSetEx layer=4 chbase="hayami_q11"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *1331|
 [fc]
 [vo_hay s="hayami1074"]
-[ns]ありす[nse]
-「……？　ヒロシ？　どうしたの？」[pcms]
+[ns]Alice[nse]
+"...? Hiroshi? What's wrong?"[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_c03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *1332|
 [fc]
 [vo_may s="maya0772"]
-[ns]摩耶[nse]
-「そんなに……見ないで……」[pcms]
+[ns]Maya[nse]
+"Don't look at me like that..."[pcms]
 
 *1333|
 [fc]
-かわいらしく恥じらう摩耶ちゃんの姿に、[r]
-わき上がる欲望を抑えるのは、もう限界だった。[pcms]
+Unable to contain the desire welling up inside me at the[r]
+sight of Maya-chan's shy demeanor, I was at my limit.[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
@@ -63,68 +62,66 @@
 
 *1334|
 [fc]
-[ns]大倉[nse]
-「白い……白い……あぁぁ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"White... so white... Ahhh..."[pcms]
 
 [ChrSetEx layer=5 chbase="koba_m01"][ChrSetXY layer=5 x=0 y=0]
 [ChrSetEx layer=3 chbase="hayami_q02"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
 *1335|
 [fc]
 [vo_hay s="hayami1075"]
-[ns]ありす[nse]
-「ねえ……どうしたのヒロシ……！？[r]
-　もう……鼻の下伸ばしちゃって……バカ！[r]
-　ヒロシなんてほっといて、あっちいこ？　裕樹！」[pcms]
+[ns]Arisu[nse]
+"Hey... what's wrong, Hiroshi...!? You're drooling like an[r]
+idiot! Forget about Hiroshi, let's go over there, Yuuki!"[pcms]
 
 [ChrSetEx layer=5 chbase="koba_m04"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 *1336|
 [fc]
 [vo_kob s="koba0549"]
-[ns]小林[nse]
-「あ……いたたた……そんなに引っ張らないでよ、[r]
-　ありす……！」[pcms]
+[ns]Kobayashi[nse]
+"Ah... ouch ouch... don't pull so hard, Arisu...!"[pcms]
 
 [chara_int_ layer=5][chara_int_ layer=3][trans_c cross time=150]
 
 *1337|
 [fc]
-摩耶ちゃんの姿に見とれていた俺に呆れた速水は、[r]
-ユウの手を引き、奥の部屋へと歩いていった。[pcms]
+Hayami, exasperated with me for being captivated by Maya-[r]
+chan, took Yuu's hand and walked towards the back room.[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_c01"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *1338|
 [fc]
-俺とスクール水着を着た摩耶ちゃんと、連れていた[r]
-犬を残して、他には誰もいなくなってしまった。[pcms]
+Everyone else had left, leaving me, Maya-chan in her school[r]
+swimsuit, and the dog she had brought with her.[pcms]
 
 *1339|
 [fc]
-[ns]大倉[nse]
-「……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"..."[pcms]
 
 *1340|
 [fc]
 [vo_may s="maya0773"]
-[ns]摩耶[nse]
-「……」[pcms]
+[ns]Maya[nse]
+"..."[pcms]
 
 *1341|
 [fc]
-静まりかえった部屋に、俺と摩耶ちゃんの息と、[r]
-心臓の音だけが、うるさい程に響き渡る。[pcms]
+In the silent room, only the sound of mine and Maya-chan's[r]
+breathing and our heartbeats were deafeningly loud.[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_c03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *1342|
 [fc]
 [vo_may s="maya0774"]
-[ns]摩耶[nse]
-「どうした……私に何か付いているのか……？」[pcms]
+[ns]Maya[nse]
+"What's wrong... Is there something on me...?"[pcms]
 
 *1343|
 [fc]
-[ns]大倉[nse]
-「お……おおおおっ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Oh... ooooh..."[pcms]
 
 ;//------------------------------------------------
 *KAISOU_INT
@@ -146,9 +143,9 @@
 
 *1344|
 [fc]
-顔を真っ赤にして、ちらちらと目だけを動かすその[r]
-仕草に、切ない程のかわいらしさを覚えて、俺は、[r]
-いつの間にか摩耶ちゃんに向かい、飛びかかっていた。[pcms]
+Her face flushed red, she glanced around with just her eyes,[r]
+and I found her fidgeting unbearably cute. Before I knew it,[r]
+I had pounced towards Maya-chan.[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 [quake_bg 元time=200 xy m]
@@ -156,13 +153,13 @@
 *1345|
 [fc]
 [vo_may s="maya0775"]
-[ns]摩耶[nse]
-「あっ……なっ……何をする……！　あぐっ！」[pcms]
+[ns]Maya[nse]
+"Ah... wha... what are you doing...! Aguh!"[pcms]
 
 *1346|
 [fc]
-小さな身体を抱き上げて、白い布に隠された股間に、[r]
-チンコを押し当て、硬い肉を割って中にねじ込んだ。[pcms]
+I lifted her small body and pressed my cock against her[r]
+white-swathed crotch, forcing my hard flesh inside her.[pcms]
 
 *KAISOU_START
 
@@ -176,401 +173,386 @@
 *1347|
 [fc]
 [vo_may s="maya0776"]
-[ns]摩耶[nse]
-「ぎっ……あがぁッ……！！[r]
-　いっ……ぎいいぃっ！！」[pcms]
+[ns]Maya[nse]
+"Gih... agaaah...!! Ih... giiiih!!"[pcms]
 
 *1348|
 [fc]
-[ns]大倉[nse]
-「あ……あぁぁぁ……き、きついぃっ！[r]
-　うあっ……あっ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Ah... aaaaah... it's so tight! Uwah... ah..."[pcms]
 
 *1349|
 [fc]
-摩耶ちゃんの小さな身体に埋まったチンコは、[r]
-やはり小さいオマンコに痛い程締め上げられ、[r]
-その快楽に俺は、思わず叫んでしまっていた。[pcms]
+My cock buried inside Maya-chan's small body was painfully[r]
+squeezed by her tight pussy, and I couldn't help but cry out[r]
+in pleasure.[pcms]
 
 *1350|
 [fc]
-[ns]大倉[nse]
-「きっ……きつすぎる……摩耶ちゃんのオマンコ……、[r]
-　すっ……すげぇ！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"It's too tight... Maya-chan's pussy... it's amazing!"[pcms]
 
 *1351|
 [fc]
 [vo_may s="maya0777"]
-[ns]摩耶[nse]
-「あっ……が……っ！　いたっ……痛いっ！！[r]
-　痛いぃっ！！　助けて！　ジョン！！」[pcms]
+[ns]Maya[nse]
+"Ah... ga...! It hurts... it hurts!! Help me! John!!"[pcms]
 
 *1352|
 [fc]
-苦しそうに喘ぐ摩耶ちゃんの目からは、涙が溢れ、[r]
-結合部分は赤く染まっていた。[pcms]
+Tears overflowed from Maya-chan's eyes as she gasped in[r]
+pain, and the area where we were joined was stained red.[pcms]
 
 *1353|
 [fc]
-[ns]大倉[nse]
-「うぁっ……あ……あぁ？[r]
-　摩耶ちゃん……血が……オマンコから……血が！？[r]
-　もしかして……初めてだった……？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Uwah... ah... aah? Maya-chan... there's blood... from your[r]
+pussy... blood!? Could it be... it was your first time...?"[pcms]
 
 *1354|
 [fc]
 [vo_may s="maya0778"]
-[ns]摩耶[nse]
-「あぎっ……はっ……はじ……め……て……。[r]
-　お前が……初めての……相手……」[pcms]
+[ns]Maya[nse]
+"Agi... hah... first... time... You're my first...[r]
+partner..."[pcms]
 
 *1355|
 [fc]
-俺……こんな可愛い子の初めての相手……。[r]
-俺が……。[pcms]
+I'm the first for such a cute girl. It was me...[pcms]
 
 *1356|
 [fc]
-[ns]大倉[nse]
-「摩耶ちゃん……俺……嬉しいよ！！[r]
-　俺……こんな可愛い子の初めてをもらえるなんて、[r]
-　くっ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Maya-chan... I'm so happy!! To be the first for such a cute[r]
+girl, I'm so..."[pcms]
 
 *1357|
 [fc]
 [vo_may s="maya0779"]
-[ns]摩耶[nse]
-「お前……はっ……くっ……、嫌いじゃない……、[r]
-　前に……どこかで見た時から……あぐっ……」[pcms]
+[ns]Maya[nse]
+"You... hah... kuh..., I don't hate you..., ever since I saw[r]
+you before... aguh..."[pcms]
 
 *1358|
 [fc]
-前にどこかで……？[r]
-どこで……？[pcms]
+Where have we met before...? Where was it...?[pcms]
 
 *1359|
 [fc]
-俺は、この子とどこかで会っていたのか？[pcms]
+Have I met this girl somewhere before?[pcms]
 
 *1360|
 [fc]
-でも……一体、どこで？[pcms]
+But where exactly?[pcms]
 
 *1361|
 [fc]
-歯を食いしばり、痛みに耐えている摩耶ちゃんの顔を、[r]
-いくら見つめても、それがどこだったのか、[r]
-まるで思い出せなかった。[pcms]
+Gritting her teeth and enduring the pain, I couldn't[r]
+remember where I had seen Maya-chan's face before as much as[r]
+I stared at it.[pcms]
 
 *1362|
 [fc]
-でも、そのことはもうどうでもよくなっていた俺は、[r]
-痛がる摩耶ちゃんを庇う事も無く、腰を突き上げた。[pcms]
+But that didn't matter to me anymore, and without shielding[r]
+the pained Maya-chan, I thrust my hips upward.[pcms]
 
 [evcg storage="HEV610a"][trans_c cross time=301]
 
 *1363|
 [fc]
 [vo_may s="maya0780"]
-[ns]摩耶[nse]
-「うぁっ……あぁ……ふぁぁっ……！？[r]
-　どうして……私……どうして！？　頭が……、[r]
-　頭の中がガサガサ言ってるっ……！？」[pcms]
+[ns]Maya[nse]
+"Uwah... ah... faaah...!? Why am I... why!? My head is...,[r]
+it's rattling inside my head...!?"[pcms]
 
 *1364|
 [fc]
-[ns]大倉[nse]
-「……！？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"...!?"[pcms]
 
 *1365|
 [fc]
-それまで眉をしかめ、痛みに堪えていた摩耶ちゃんは、[r]
-首を振って、俺ではない何かに抵抗し始めた。[pcms]
+Until now, Maya-chan had been grimacing and enduring the[r]
+pain, but then she started shaking her head as if resisting[r]
+something other than me.[pcms]
 
 *1366|
 [fc]
 [vo_may s="maya0781"]
-[ns]摩耶[nse]
-「あぁぁ……！？　私っ……ヘンだ……！！[r]
-　頭がフラフラして……目の前が……チカチカする！[r]
-　お腹も……熱くて……あぅぅ……！？」[pcms]
+[ns]Maya[nse]
+"Aaaah...!? Something's wrong with me...!! My head is[r]
+spinning and my vision is flickering! My stomach is also hot[r]
+and... auuuh...!?"[pcms]
 
 *1367|
 [fc]
-[ns]大倉[nse]
-「うあぁっ……そんなに頭振ったら……、[r]
-　オマンコ擦れてっ……うあっ！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Uwahh... if you shake your head like that..., your pussy[r]
+rubs against me... uwah!"[pcms]
 
 *1368|
 [fc]
 [vo_may s="maya0782"]
-[ns]摩耶[nse]
-「あっ、ふふっ……あはぁっ！　私……私……！！[r]
-　はっ……はっ……うあぁっ……！　お腹の奥に……、[r]
-　お前のが当たって……あぐっ！」[pcms]
+[ns]Maya[nse]
+"Ah, huhu... ahaha! Me... I'm...!! Hah... hah... uwaaahh...![r]
+Something inside my stomach..., your thing is hitting it...[r]
+aguh!"[pcms]
 
 *1369|
 [fc]
-摩耶ちゃんのオマンコからは、血以外の液が垂れ始め、[r]
-俺のチンコと、結合部分を濡らしていった。[pcms]
+Liquid other than blood began to drip from Maya-chan's[r]
+pussy, wetting both my cock and our joined parts.[pcms]
 
 *1370|
 [fc]
-声も、さっきまでの苦しそうなものから、[r]
-熱く喘ぐ声にかわりつつあった。[pcms]
+Her voice was changing from one of pain to one of heated[r]
+moans.[pcms]
 
 *1371|
 [fc]
-どうしたんだ……？　急に……。[r]
-さっきまであんなに苦しそうにしていたのに……。[pcms]
+What happened all of a sudden? She was in so much pain just[r]
+a moment ago...[pcms]
 
 *1372|
 [fc]
-もしかして、俺ので感じて来てくれてるのかな？[pcms]
+Could it be that she's starting to feel pleasure from me?[pcms]
 
 [evcg storage="HEV610b"][trans_c cross time=301]
 
 *1373|
 [fc]
 [vo_may s="maya0783"]
-[ns]摩耶[nse]
-「……ち……いい……」[pcms]
+[ns]Maya[nse]
+"...it feels good..."[pcms]
 
 *1374|
 [fc]
-[ns]大倉[nse]
-「……？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"...?"[pcms]
 
 *1375|
 [fc]
-摩耶ちゃんは、小さな口を、小さく動かして、[r]
-微かに空気を震わせ、熱い吐息を漏らし、[r]
-俺に何かを伝えようとしていた。[pcms]
+Maya-chan moved her small mouth slightly, trembling the air[r]
+faintly with her hot breaths as she tried to convey[r]
+something to me.[pcms]
 
 [evcg storage="HEV610a"][trans_c cross time=301]
 
 *1376|
 [fc]
 [vo_may s="maya0784"]
-[ns]摩耶[nse]
-「気持ち……いい……、お前の……、[r]
-　私の中で……感じて……うぁ……はぁっ……」[pcms]
+[ns]Maya[nse]
+"It feels good..., your thing..., feeling it inside me...,[r]
+uwaahh... hah..."[pcms]
 
 *1377|
 [fc]
 [vo_may s="maya0785"]
-[ns]摩耶[nse]
-「お前の……熱いのが……私のお腹の中に……、[r]
-　感じる……あうっ……」[pcms]
+[ns]Maya[nse]
+"Your hot thing..., I can feel it inside my stomach...,[r]
+feeling it..., auh..."[pcms]
 
 *1378|
 [fc]
-やっぱり、俺の思った通り感じ始めていた摩耶ちゃん[r]
-は、きつく擦り立てるオマンコを、いっそうきつく[r]
-締め上げたが、さっきとは少し感じが違っていた。[pcms]
+As I suspected, Maya-chan, who had begun to feel pleasure,[r]
+tightened her pussy even more, but it felt a bit different[r]
+from before.[pcms]
 
 *1379|
 [fc]
-最初に感じた、引っ張られるような感じは、血と、[r]
-溢れ始めた愛液によって心地よい刺激に変わり、[r]
-俺のチンコを柔らかく包みこんだ。[pcms]
+The initial sensation of being pulled was now replaced by a[r]
+comfortable stimulation due to the blood and the love juices[r]
+that had started to overflow, softly enveloping my cock.[pcms]
 
 *1380|
 [fc]
-その刺激と、かわいらしくて淫靡な表情を見せる摩耶[r]
-ちゃんの顔に、俺の心の奥は激しく揺さぶられた。[pcms]
+The stimulation, along with Maya-chan's cute and lewd[r]
+expression, shook the depths of my heart intensely.[pcms]
 
 *1381|
 [fc]
-[ns]大倉[nse]
-「うあっ……あっ……中……さっきより……、[r]
-　いい……あったけぇ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Uah... ah... inside... it feels even better than before...[r]
+so warm..."[pcms]
 
 *1382|
 [fc]
 [vo_may s="maya0786"]
-[ns]摩耶[nse]
-「ふあっ……んうぅうっ……お前のが……出入りする[r]
-　たびに……頭が痺れて……あうぅ……！」[pcms]
+[ns]Maya[nse]
+"Fuaah... nuuuh... every time you go in and out... my head[r]
+goes numb... auuh...!"[pcms]
 
 *1383|
 [fc]
-[ns]ジョン[nse]
-「グルルウゥ……」[pcms]
+[ns]John[nse]
+"Grrrwoo..."[pcms]
 
 *1384|
 [fc]
-摩耶ちゃんの連れていた犬は、俺の方を睨みながら、[r]
-唸り、近寄ってきていた。[pcms]
+The dog that Maya-chan had brought with her was growling and[r]
+approaching me with a glare.[pcms]
 
 *1385|
 [fc]
 [vo_may s="maya0787"]
-[ns]摩耶[nse]
-「じ……ジョン……私は……大丈夫……、[r]
-　それに……この人は、悪い人じゃないから……、[r]
+[ns]Maya[nse]
+"Jo... John... I'm okay... and... this person isn't a bad[r]
+guy...,"[pcms]
 　大人しくして……」
 
 *1386|
 [fc]
-[ns]ジョン[nse]
-「クゥ～ン……」[pcms]
+[ns]John[nse]
+"Whine..."[pcms]
 
 *1387|
 [fc]
-今にも俺に襲い掛かろうとしていた犬は、[r]
-摩耶ちゃんに諭された直後に、お尻の所に顔を埋め、[r]
-息を荒くしていた。[pcms]
+The dog, which had seemed ready to pounce on me, buried its[r]
+face near her butt and was panting heavily after being[r]
+soothed by Maya-chan.[pcms]
 
 [evcg storage="HEV610b"][trans_c cross time=301]
 
 *1388|
 [fc]
 [vo_may s="maya0788"]
-[ns]摩耶[nse]
-「ふぁぁ……私……ジョンに見られてる……、[r]
-　私……ジョンに見られながら……こんな事してる、[r]
-　ふあぁ……ひあぁっ！？　ジョン！？」[pcms]
+[ns]Maya[nse]
+"Faaah... I'm being watched by John... I'm doing this while[r]
+John is watching, faaah... hiaahh!? John?!"[pcms]
 
 [evcg storage="HEV610c"][trans_c cross time=301]
 
 *1389|
 [fc]
-[ns]ジョン[nse]
-「ジュルッ……ハッ……ハッ……」[pcms]
+[ns]John[nse]
+"Slurp... Huff... Huff..."[pcms]
 
 *1390|
 [fc]
-[ns]大倉[nse]
-「うあぁっ！　なっ……なんだ！？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Uaah! What's... what's happening?!"[pcms]
 
 *1391|
 [fc]
-摩耶ちゃんの叫び声と共に、俺のチンコには、[r]
-断続的な締め付けが襲ってきた。[pcms]
+Along with Maya-chan's scream, my cock was assaulted by[r]
+intermittent tightening.[pcms]
 
 *1392|
 [fc]
-摩耶ちゃんの身体に何かあったのかと思い、心配して[r]
-いると、犬が摩耶ちゃんのお尻をなめ回しているのが[r]
-見えた。[pcms]
+As I worried that something might have happened to Maya-[r]
+chan's body, I saw the dog licking her ass.[pcms]
 
 *1393|
 [fc]
 [vo_may s="maya0789"]
-[ns]摩耶[nse]
-「ふあっ！　あぅぅぅ～……！　お尻ぃっ……、[r]
-　じ、ジョン……あふぁぁ……！[r]
-　あっ……うんんぅぅ～……！」[pcms]
+[ns]Maya[nse]
+"Fuaah! Auuu~...! My butt... Jo, John... afahh...! Ah...[r]
+unnnuu~...!"[pcms]
 
 *1394|
 [fc]
-犬のその行為に、驚き、戸惑ったが、その驚きは、[r]
-すぐに快楽のためにかき消された。[pcms]
+Surprised and bewildered by the dog's actions, that surprise[r]
+was soon drowned out by pleasure.[pcms]
 
 *1395|
 [fc]
-ジョンと呼ばれる犬がお尻をなめ回すと、摩耶ちゃん[r]
-は、甘く切ない喘ぎ声をだしてよがり、[r]
-オマンコをより強く締め付ける。[pcms]
+As the dog called John licked her ass, Maya-chan let out[r]
+sweet, agonizing moans and tightened her pussy even more.[pcms]
 
 *1396|
 [fc]
-その声と、チンコに与えられる刺激に、[r]
-俺の下半身と頭の中は、まるで火を付けられた様に[r]
-熱く燃え上がった。[pcms]
+The sounds of her voice and the stimulation on my cock made[r]
+my lower half and mind burn hot as if set on fire.[pcms]
 
 *1397|
 [fc]
-[ns]大倉[nse]
-「あぐっ……きっ……気持ちいいっ！！[r]
-　はっ……はっ……、ああっ……！！　ははっ！！[r]
-　気持ちいいっ！！　摩耶ちゃん！　すげえよ！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Aguh... it feels so good!! Huff... huff... ahh!! Haha!! It[r]
+feels good!! Maya-chan! It's amazing!"[pcms]
 
 *1398|
 [fc]
-頭の中が沸騰しそうな程に熱くなり、俺は抱きかかえ[r]
-ている摩耶ちゃんを労る事を忘れ、[r]
-ただひたすらに快楽を求めることを選択した。[pcms]
+My head felt like it was boiling with heat, and I forgot to[r]
+care for Maya-chan in my arms, choosing instead to seek[r]
+pleasure relentlessly.[pcms]
 
 *1399|
 [fc]
 [vo_may s="maya0790"]
-[ns]摩耶[nse]
-「あ、あ、あ、ああっ！　んううッ！！[r]
-　変……だよ……ジョン……ダメ！！[r]
-　ふあぁぁあぁっ！」[pcms]
+[ns]Maya[nse]
+"Ah, ah, ah, aahh! Nuuuh!! It's strange... John... No!![r]
+Faaahhh!"[pcms]
 
 *1400|
 [fc]
-[ns]ジョン[nse]
-「ハッ……レロッ……レロッ……」[pcms]
+[ns]John[nse]
+"Huff... Lick... Lick..."[pcms]
 
 *1401|
 [fc]
 [vo_may s="maya0791"]
-[ns]摩耶[nse]
-「うぁああっ！！　いやぁあ！！　ふぁああっ！！」[pcms]
+[ns]Maya[nse]
+"Uwaaahh!! Nooo!! Faaahhh!!"[pcms]
 
 *1402|
 [fc]
-俺のチンコと、犬の舌に責め立てられた摩耶ちゃんは、[r]
-緩みきった顔で、涎や涙を垂れ流して悦んでいた。[pcms]
+Maya-chan, tormented by my cock and the dog's tongue, was in[r]
+ecstasy with a slack face, drooling and crying.[pcms]
 
 *1403|
 [fc]
 [vo_may s="maya0792"]
-[ns]摩耶[nse]
-「ヘンっ……ふぁっ……あ……あ…………んあっ！　[r]
-　……ああっ……」[pcms]
+[ns]Maya[nse]
+"Weird... fahh... ah... ah... nahh! ...Aahh..."[pcms]
 
 *1404|
 [fc]
-[ns]ジョン[nse]
-「ハッ……ハッ……」[pcms]
+[ns]John[nse]
+"Huff... Huff..."[pcms]
 
 *1405|
 [fc]
-[ns]大倉[nse]
-「うあっ……すげっ……うっ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Uahh... amazing... uhh..."[pcms]
 
 *1406|
 [fc]
-乱れた摩耶ちゃんの表情と、ヌルヌルになった[r]
-オマンコからの刺激で、俺は限界を感じていた。[pcms]
+The disheveled expression of Maya-chan and the stimulation[r]
+from her slippery pussy made me feel like I was reaching my[r]
+limit.[pcms]
 
 *1407|
 [fc]
-熱いモノが身体の奥からわき上がって来た事を感じ、[r]
-ソレを吐き出したくて仕方なくなった俺は、[r]
-摩耶ちゃんを突き上げる腰の動きを、さらに強めた。[pcms]
+I felt something hot welling up from deep inside me, and[r]
+desperate to release it, I intensified the thrusting[r]
+movements of my hips into Maya-chan.[pcms]
 
 *1408|
 [fc]
 [vo_may s="maya0793"]
-[ns]摩耶[nse]
-「う……うあぁぁあっ……あっ、あっ……んあぁっ！[r]
-　強いっ……強すぎるっ……あぐっ……、[r]
-　当たるっ……お腹の奥が……うあぁあぁあぁ！！」[pcms]
+[ns]Maya[nse]
+"Uu... uwaahh... ah, ah... nuuahh! Too strong... too much...[r]
+aguh..., it's hitting... deep inside my stomach...[r]
+uwaahhh!!"[pcms]
 
 *1409|
 [fc]
 [vo_may s="maya0794"]
-[ns]摩耶[nse]
-「お尻も、あぅぅっ！　あっ、あっ……頭がっ！[r]
-　ヘン……チカチカする！　うあっ……あああぁあっ！[r]
-　うわぁぁぁああぁあぁ！！」[pcms]
+[ns]Maya[nse]
+"My butt too, auuh! Ah, ah... my head! It's weird... seeing[r]
+stars! Uwahh... aahhh!!"[pcms]
 
 *1410|
 [fc]
-[ns]大倉[nse]
-「お、俺も……もう……あぁぁっ！　で、出るっ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Ooh, I also... can't hold back anymore... ahh! It's coming[r]
+out!!"[pcms]
 
 *1411|
 [fc]
 [vo_may s="maya0795"]
-[ns]摩耶[nse]
-「あぁぁぁぁぁぁぁぁあ～っ！！」[pcms]
+[ns]Maya[nse]
+"Aaaaahhhhhhh~!!"[pcms]
 
 ;[射精フラA]
 ;イベントCG射精差分
@@ -580,67 +562,67 @@
 *1412|
 [fc]
 [vo_may s="maya0796"]
-[ns]摩耶[nse]
-「うあぁぁっ！　中っ……中で……出されてる！！[r]
-　あぁぁっ……うぁぁぁぁっ！」[pcms]
+[ns]Maya[nse]
+"Uwaahh! Inside... you're cumming inside!! Ahhh...[r]
+uwaaahhh!"[pcms]
 
 *1413|
 [fc]
-[ns]大倉[nse]
-「うあぁっ……と……止まんねえ……！！　あぁあ！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Uwahh... can't stop it...!! Ahh!"[pcms]
 
 *1414|
 [fc]
-[ns]ジョン[nse]
-「クゥゥ～ン……」[pcms]
+[ns]John[nse]
+"Whine..."[pcms]
 
 *1415|
 [fc]
-治まること無く摩耶ちゃんの中に注ぎ込まれる精液は、[r]
-狭いその中に収まり切らず、結合部分から溢れ、[r]
-床に垂れ落ちていった。[pcms]
+The semen that kept pouring into Maya-chan without stopping[r]
+overflowed from the tight space inside her and spilled out[r]
+from our joined parts onto the floor.[pcms]
 
 *1416|
 [fc]
 [vo_may s="maya0797"]
-[ns]摩耶[nse]
-「はぁっ……はっ……う……うぁぁ……、[r]
-　私……もう……あぁ……」[pcms]
+[ns]Maya[nse]
+"Hahh... hahh... ugh... uwaaah..., I can't take anymore...[r]
+ahh..."[pcms]
 
 *1417|
 [fc]
-俺と犬に責められ、絶頂に達した摩耶ちゃんは、[r]
-背中にきつく抱きつき震えたあと、静かに目を閉じ、[r]
-寝息を立て始めた。[pcms]
+After being pleasured by me and the dog and reaching climax,[r]
+Maya-chan clung tightly to my back, shivered, then quietly[r]
+closed her eyes and began to breathe softly in sleep.[pcms]
 
 ;//★黒画面
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
 *1418|
 [fc]
-[ns]大倉[nse]
-「摩耶ちゃん……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Maya-chan..."[pcms]
 
 *1419|
 [fc]
-涙と涎まみれの寝顔を見せる摩耶ちゃんを、床に[r]
-そっと寝かせ、隣にしゃがみ込んで、目を閉じると、[r]
-疲れているのか、猛烈な睡魔が襲ってきた。[pcms]
+Gently laying the tearful and drooling Maya-chan on the[r]
+floor and crouching beside her, I closed my eyes and felt an[r]
+overwhelming wave of sleepiness due to exhaustion.[pcms]
 
 *1420|
 [fc]
-摩耶ちゃんとのセックス、気持ちよかったな……。[pcms]
+The sex with Maya-chan felt so good...[pcms]
 
 *1421|
 [fc]
-またしたいな……。[pcms]
+I want to do it again...[pcms]
 
 ;//------------------------------------------------
 [if exp="tf.scene_mode==1"]
 	[jump storage="b_scene.ks" target=*back_from_SR]
 ;	[link storage=sceneAgain]もう一度見る[endlink]
 ;	[link storage=sceneList]一覧に戻る[endlink]
-;	[s]
+[pcms]
 [endif]
 
 *KAISOU_PASS

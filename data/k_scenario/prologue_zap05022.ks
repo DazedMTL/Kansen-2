@@ -43,14 +43,14 @@
 *7888|
 [fc]
 [vo_mob s="madeA0021"]
-[ns]メイドＡ[nse]
-「アタシ、ちょっと呼び込み行ってくるね」[pcms]
+[ns]Maid A[nse]
+"I'm going to do some soliciting for a bit."[pcms]
 
 *7889|
 [fc]
 [vo_mob s="madeB0009"]
-[ns]メイドＢ[nse]
-「うん、よろしく～」[pcms]
+[ns]Maid B[nse]
+"Yeah, good luck~"[pcms]
 
 ;//＠：商店街
 ;//BG：商店街・夕方
@@ -61,89 +61,89 @@
 
 *7890|
 [fc]
-あー、なんか外があったかく感じる……。[r]
-クーラーで体冷えちゃったから、ちょうどいいや……。[pcms]
+Ah, it feels kind of warm outside... Perfect since I got[r]
+chilled in the cooler...[pcms]
 
 *7891|
 [fc]
 [vo_mob s="madeA0022"]
-[ns]メイドＡ[nse]
-「メイドカフェ、イングランドでぇ～す♪」[pcms]
+[ns]Maid A[nse]
+"Maid Cafe, England style~♪"[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
 *7892|
 [fc]
-なんか、今日は見たことない制服多いなー……。[r]
-修業旅行かな……。[pcms]
+There are a lot of unfamiliar uniforms today... Maybe[r]
+they're on a training trip...[pcms]
 
 *7893|
 [fc]
 [vo_mob s="madeA0023"]
-[ns]メイドＡ[nse]
-「おいしいケーキと紅茶はいかがですかぁ～♪」[pcms]
+[ns]Maid A[nse]
+"How about some delicious cake and tea~♪"[pcms]
 
 *7894|
 [fc]
-そっかー、七夕祭りだ……。[r]
-最近は観光客だけじゃなくて、修業旅行生も見に来る[r]
-んだねー……。[pcms]
+That's right, it's the Tanabata festival... Nowadays, not[r]
+just tourists but also students on training trips come to[r]
+see it...[pcms]
 
 *7895|
 [fc]
 [vo_mob s="madeA0024"]
-[ns]メイドＡ[nse]
-「疲れた心をメイドの笑顔で癒しまぁ～す♪」[pcms]
+[ns]Maid A[nse]
+"We'll heal your tired heart with a maid's smile~♪"[pcms]
 
 *7896|
 [fc]
-そうだ、さっき来た３人組の子、かわいかったな……。[pcms]
+Oh yeah, that group of three who came earlier was cute...[pcms]
 
 *7897|
 [fc]
-女の子も似合いそうだったけど、あの小っちゃい男の[r]
-子に着せてみたいなー、ウチのメイド服……。[r]
-すっごい似合いそう……。[pcms]
+The girls looked like they'd suit it too, but I'd love to[r]
+see our maid outfit on that small boy... It would look so[r]
+good on him...[pcms]
 
 *7898|
 [fc]
 [vo_mob s="madeA0025"]
-[ns]メイドＡ[nse]
-「メイドカフェ、イングランドでぇ～す♪」[pcms]
+[ns]Maid A[nse]
+"Maid Cafe, England style~♪"[pcms]
 ;//◎録る必要なし（上のものを流用）
 
 *7899|
 [fc]
-あの男の子にメイド服着せてエッチしたら、カワイイ[r]
-だろうなー……。[pcms]
+If I dressed that boy in a maid outfit and did naughty[r]
+things, he'd be so cute...[pcms]
 
 *7900|
 [fc]
-あの子にケー番渡しとけば良かったー……。[pcms]
+I should have given that kid my number...[pcms]
 
 *7901|
 [fc]
 [vo_mob s="madeA0026"]
-[ns]メイドＡ[nse]
-「おいしいケーキと紅茶はいかがですかぁ～♪」[pcms]
+[ns]Maid A[nse]
+"How about some delicious cake and tea~♪"[pcms]
 ;//◎録る必要なし（上のものを流用）
 
 *7902|
 [fc]
-明日もカワイイ子が来るといいなー……。[r]
-タイプの子が来たら、誘ってみよっかな……。[pcms]
+I hope more cute kids come tomorrow... If someone my type[r]
+shows up, maybe I'll try hitting on them...[pcms]
 
 *7903|
 [fc]
 [vo_mob s="madeA0027"]
-[ns]メイドＡ[nse]
-「疲れた心をメイドの笑顔で癒しまぁ～す♪」[pcms]
+[ns]Maid A[nse]
+"We'll heal your tired heart with a maid's smile~♪"[pcms]
 ;//◎録る必要なし（上のものを流用）
 
 *7904|
 [fc]
-あー、もう陽が暮れそう……。[r]
-早いなー、そろそろ上がる時間だー……。[pcms]
+Ah, the sun is about to set... That was quick, it's almost[r]
+time to close up...[pcms]
 
 [sysbt_meswin clear]
 [fadeoutbgm time=502]
@@ -155,4 +155,4 @@
 
 [jump storage="prologue01320.ks" target=*prologue01320_TOP]
 
-;//－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+;//

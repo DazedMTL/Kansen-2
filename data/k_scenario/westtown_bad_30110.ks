@@ -29,106 +29,105 @@
 
 *9476|
 [fc]
-構やしねー……。[r]
-あんなヤツ、あのイカレ野郎に食われるなり、[r]
-ヤられるなりすりゃいーんだ……。[pcms]
+I don't care... Let that guy get eaten or fucked by that[r]
+lunatic...[pcms]
 
 *9477|
 [fc]
-そう考えて、速水を捜すために歩き始めた俺だったが、[r]
-足の動きはすぐに止まった。[pcms]
+Thinking that, I started to look for Hayami, but my steps[r]
+quickly came to a halt.[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
 *9478|
 [fc]
-[ns]大倉[nse]
-「……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"..."[pcms]
 
 *9479|
 [fc]
-やっぱ、助けてやった方がいいか……。[pcms]
+Maybe I should help her after all...[pcms]
 
 *9480|
 [fc]
-いま見殺しにしたら、俺が直接、あのオッサンを刺す[r]
-かなんかして殺したのと変わらねー……。[pcms]
+If I leave her to die now, it's no different than if I[r]
+stabbed that old man myself and killed him...[pcms]
 
 *9481|
 [fc]
-それじゃ、あのオッサンと同じだ……。[r]
-俺もクズ野郎になっちまう……。[pcms]
+Then I'd be no different from that old man... I'd become a[r]
+piece of shit too...[pcms]
 
 *9482|
 [fc]
-速水を脅して拉致したのは絶対に許せないが、今だけ[r]
-ガマンして、アイツを助けてやろうと、俺はまた、[r]
-オッサンに近づいた。[pcms]
+I can't forgive the bastard who threatened and kidnapped[r]
+Hayami, but I'll endure it for now and go save her, so I[r]
+approached the old man again.[pcms]
 
 [fadeoutbgm time=1][wb]
 
 *9483|
 [fc]
-[ns]大倉[nse]
-「オイ、それ外してやるよ」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Hey, I'll take that off for you."[pcms]
 
 [bgm storage="BGM009"]
 
 [ChrSetEx layer=4 chbase="sugo_n08"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *tuia28|
 [fc]
-[ns]作業服の男[nse]
-「あァ～～？」[pcms]
+[ns]Work Clothes Man[nse]
+"Huh~~?"[pcms]
 
 *9484|
 [fc]
-[ns]大倉[nse]
-「その代わり、速水がいる場所、教えろよな」[pcms]
+[ns]Ookura Hiroshi[nse]
+"In exchange, tell me where Hayami is."[pcms]
 
 [ChrSetEx layer=4 chbase="sugo_n09"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *tuia29|
 [fc]
-[ns]作業服の男[nse]
-「ハッハァ～～……ルアァッ！！！」[pcms]
+[ns]Work Clothes Man[nse]
+"Hahhaa~~...LUAHH!!!"[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *9485|
 [fc]
-[ns]大倉[nse]
-「！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"!!"[pcms]
 
 *9486|
 [fc]
-拘束具を外してやるため、オッサンの横にしゃがみ[r]
-こんだ瞬間、ヤツは大口を開けて飛びかかってきて、[r]
-俺の腕に食いついた。[pcms]
+The moment I squatted down next to the old man to remove the[r]
+restraints, he lunged at me with his mouth wide open and bit[r]
+into my arm.[pcms]
 
 *9487|
 [fc]
-[ns]大倉[nse]
-「ぐああぁぁぁああッ！！！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Guaaahhhhh!!!"[pcms]
 
 *9488|
 [fc]
-オッサンの歯が、皮膚を突き破るんじゃないかって[r]
-ぐらいに、俺の腕に深く食い込んでくる。[pcms]
+The old man's teeth sank so deep into my arm, it felt like[r]
+they were going to pierce through my skin.[pcms]
 
 *9489|
 [fc]
-口を開けさせようとアゴを掴み、腕を引いてみても、[r]
-オッサンの頭は、まるで離れようとしなかった。[pcms]
+Even when I tried to pry his jaw open and pull my arm away,[r]
+the old man's head wouldn't budge at all.[pcms]
 
 [ChrSetEx layer=4 chbase="sugo_n09"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *tuia30|
 [fc]
-[ns]作業服の男[nse]
-「ウァガアァアァッ！！！」[pcms]
+[ns]Work Clothes Man[nse]
+"UAGAAAH!!!"[pcms]
 
 *9490|
 [fc]
-[ns]大倉[nse]
-「テメェ……ッ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"You bastard...!!"[pcms]
 
 ;//[]SE：打撃音
 [se0 storage="SE20"]
@@ -136,138 +135,133 @@
 [ChrSetEx layer=4 chbase="sugo_n08"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *tuia31|
 [fc]
-[ns]作業服の男[nse]
-「ハグゥッ！！」[pcms]
+[ns]Work Clothes Man[nse]
+"HAGUH!!"[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *9491|
 [fc]
-恩を仇で返されたように感じ、カッとなった俺は、[r]
-噛まれてない方の手で作った拳を、オッサンの顔に[r]
-何回も何回も叩きつけた。[pcms]
+Feeling like my kindness was repaid with betrayal, I got[r]
+furious and kept pounding my fist into the old man's face[r]
+over and over with my free hand.[pcms]
 
 *9492|
 [fc]
-[ns]大倉[nse]
-「放せっ！！　このっ！！　クズ野郎ッ！！[r]
-　お前っ！！　なんかっ！！　死ねよっ！！[r]
-　クソがッ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Let go!! You piece of shit!! You should just die!![r]
+Asshole!!"[pcms]
 ;//※一言ごとに打撃音
 
 *9493|
 [fc]
-噛みついた口を離すまで、ずっとオッサンの顔を殴り[r]
-続けて、ようやく腕が解放された時には、俺の拳は[r]
-皮膚がめくれてしまって、血がにじんでいた。[pcms]
+I kept hitting the old man's face until he finally let go of[r]
+my bitten arm. By then, my fist was skinned and bleeding.[pcms]
 
 [ChrSetEx layer=4 chbase="sugo_n08"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *tuia32|
 [fc]
-[ns]作業服の男[nse]
-「ぶぐぅっ……」[pcms]
+[ns]Work clothes man[nse]
+"Buguh..."[pcms]
 
 ;//[]SE：倒れる音（？）
 [se0 storage="SE23"]
 
 *9494|
 [fc]
-[ns]大倉[nse]
-「ハァ……ッ！　ハァ……ッ！　クソ……ッ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Haa...! Haa...! Shit...!!"[pcms]
 
 [ChrSetEx layer=4 chbase="sugo_n09"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *tuia33|
 [fc]
-[ns]作業服の男[nse]
-「グフッ……フフハ……ハッハハァ～～……ッ！」[pcms]
+[ns]Work clothes man[nse]
+"Gufu...Huhaha...HAHAHA~~...!"[pcms]
 
 *9495|
 [fc]
-[ns]大倉[nse]
-「……？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"...?"[pcms]
 
 [ChrSetEx layer=4 chbase="sugo_n09"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *tuia34|
 [fc]
-[ns]作業服の男[nse]
-「ブァハッハッハハッハハハハハハ！！[r]
-　ハァ～ッハハハッハァハッウハハハハ！！[r]
-　ブフッ、ブハハハッ！！　ブフハッ！！」[pcms]
+[ns]Work Clothes Man[nse]
+"BUAHAHAHAHAHAHA!! HAA~~HAHAHAHAHA!! BUH, BUHAHAHA!![r]
+BUHHAH!!"[pcms]
 
 *9496|
 [fc]
-口を離し、脱力したように床に頭を寝かせていた[r]
-オッサンは、大きく見開いた目を俺に向けて、[r]
-大笑いをし始めた。[pcms]
+The old man, who had been lying on the floor as if drained[r]
+of strength, started laughing loudly with his eyes wide[r]
+open, looking at me.[pcms]
 
 *9497|
 [fc]
-[ns]作業服の男[nse]
-「ヒァハッハハハハハハアアハハッハッハハ！！！！[r]
-　ヒハッ、ヒヒッ、ヒャァッハッハハッハハハ！！！！[r]
-　ヒィーッハァハハァハッハハハ！！！！」[pcms]
+[ns]Work clothes man[nse]
+"HYAHAHAHAHAHAHAHAAHAHAHAHA!! HYAH, HIHIH, HYAAHAHAHAHAHA!![r]
+HII-HAAHAHAHAAHAHA!!"[pcms]
 
 *9498|
 [fc]
-[ns]大倉[nse]
-「……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"..."[pcms]
 
 *9499|
 [fc]
-大笑いしながら俺に向けてる、バカにするような顔に、[r]
-俺は何か意味があるように思えた。[pcms]
+As he laughed at me with a mocking face, it seemed like[r]
+there was some meaning behind it.[pcms]
 
 *9500|
 [fc]
-“お前に女は助けられない”[r]
-“女を捜してもムダ”[pcms]
+"You can't save a woman" "It's useless to search for her"[pcms]
 
 *9501|
 [fc]
-このオッサンのしたコトを考えると、自然とそういう[r]
-意味がこめられてるように思えてくる。[pcms]
+Thinking about what this old man did, it naturally seemed[r]
+like there was that kind of meaning behind it.[pcms]
 
 *9502|
 [fc]
-このオッサン、確かナイフ持ってたよな……。[r]
-もしかしたら、コイツにケガさせられて、どっかで[r]
-倒れてんのかもしれねー……。[pcms]
+This old man, he had a knife, didn't he... Maybe she's been[r]
+hurt by this guy and has collapsed somewhere...[pcms]
 
 *9503|
 [fc]
-なんか、ヤな予感がする……。[r]
-急いでアイツを捜さねーと……！[pcms]
+I have a bad feeling about this... I need to hurry up and[r]
+find her...![pcms]
 
 [ChrSetEx layer=4 chbase="sugo_n08"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *tuia35|
 [fc]
-[ns]作業服の男[nse]
-「ヒャァハハッハァハハぐぶぉっ！！」[pcms]
+[ns]Work clothes man[nse]
+"HYAAHAHAHAAHAHAHAGUBOH!!"[pcms]
 ;//※呻きの前に打撃音
 
 *9504|
 [fc]
-オッサンのミゾオチに、思いっきり爪先をめり込ませ[r]
-て、俺は速水を捜しに走りだそうとした。[pcms]
+I kicked the old man in the solar plexus as hard as I could[r]
+with the tip of my shoe and was about to run off to search[r]
+for Hayami.[pcms]
 
 *9505|
 [fc]
-[ns]大倉[nse]
-「！？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"！？"[pcms]
 
 *9506|
 [fc]
-けど俺は、その場から一歩も動くことができなかった。[pcms]
+But I couldn't move a single step from where I was.[pcms]
 
 *9507|
 [fc]
-オッサンに噛みつかれて、ココでモタモタやってる[r]
-うちに、頭のイカレた女が２人、近づいてきていた[r]
-コトに、全然気づいてなかったせいだった。[pcms]
+While being bitten by the old man and wasting time here, I[r]
+hadn't noticed at all that two crazy women had approached[r]
+us.[pcms]
 
 [fadeoutbgm time=1][wb]
 
 ;//ブロック３０１００へJump
 [jump storage="westtown_bad_30100.ks" target=*westtown_bad_30100_TOP]
 
-;//－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+;//

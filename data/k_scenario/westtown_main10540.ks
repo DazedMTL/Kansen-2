@@ -22,41 +22,40 @@
 
 *12413|
 [fc]
-なんとか渡り廊下の入り口まで辿り着いて、その向こ[r]
-うの、前はシャッターで見えなかった部分の光景に、[r]
-俺らは言葉を失った。[pcms]
+Somehow we managed to reach the entrance of the corridor,[r]
+and were left speechless by the sight beyond it, a part[r]
+previously hidden by shutters.[pcms]
 
 *12414|
 [fc]
-[ns]大倉[nse]
-「クソッ、まだこんなにいやがんのかよ……！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Damn it, there are still so many of them...!!"[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
 *12415|
 [fc]
-渡り廊下には、いま通ってきた通路よりも、さらに多[r]
-くのイカレ野郎がウロついていた。[pcms]
+In the corridor, there were even more crazed bastards[r]
+wandering around than in the passage we just came through.[pcms]
 
 *12416|
 [fc]
-出口はかなり遠い……。[r]
-コレじゃ、無傷で向こうのビルまで行けるかどうか、[r]
-わかったもんじゃねー……。[pcms]
+The exit is quite far... With this, it's uncertain whether[r]
+we can get to the building across without any injuries...[pcms]
 
 *12417|
 [fc]
-右手に伸びる長い通路にも、イカレ野郎が腐るほどウ[r]
-ロついている。[pcms]
+The long corridor to our right is also swarming with a[r]
+rotten number of crazed bastards.[pcms]
 
 *12418|
 [fc]
-グズグズしてたら、あっという間に囲まれちまう……。[r]
-行くか、戻るか……！[pcms]
+If we dawdle, we'll be surrounded in no time... Do we go, or[r]
+do we go back...![pcms]
 
 ;//状況継続
 
 [jump storage="westtown_main10550.ks" target=*westtown_main10550_TOP]
 
-;//－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+;//
 

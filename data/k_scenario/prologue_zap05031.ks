@@ -24,41 +24,41 @@
 
 *7938|
 [fc]
-[ns]ジョン[nse]
-「クゥン……」[pcms]
+[ns]John[nse]
+"Woof..."[pcms]
 
 *7939|
 [fc]
 [vo_may s="maya0043"]
-[ns]摩耶[nse]
-「んん……」[pcms]
+[ns]Maya[nse]
+"Mmm..."[pcms]
 
 *7940|
 [fc]
-ジョンに顔を舐められるのを感じて、狭い隙間の中で、[r]
-私は目を覚ました。[pcms]
+Feeling my face being licked by John, I woke up in a narrow[r]
+space.[pcms]
 
 *7941|
 [fc]
 [vo_may s="maya0044"]
-[ns]摩耶[nse]
-「うぅ……」[pcms]
+[ns]Maya[nse]
+"Ugh..."[pcms]
 
 *7942|
 [fc]
-体を起こして周りを見回すと、辺りはもう暗くなって[r]
-いた。[pcms]
+As I sat up and looked around, it had already become dark.[pcms]
 
 *7943|
 [fc]
 [vo_may s="maya0045"]
-[ns]摩耶[nse]
-「私……寝てたの……？　でも、どうして……」[pcms]
+[ns]Maya[nse]
+"Was I... asleep? But why...?"[pcms]
 
 *7944|
 [fc]
-立ち上がり、服についた汚れを払いながら、ふらふら[r]
-する体を壁で支えて、私は通りへと出た。[pcms]
+Standing up and brushing the dirt off my clothes, I[r]
+supported my wobbly body against the wall and stepped out[r]
+onto the street.[pcms]
 
 ;//♪：００８_Catastrophe
 ;//♪：bgm005に変更します
@@ -74,86 +74,86 @@
 *7945|
 [fc]
 [vo_may s="maya0046"]
-[ns]摩耶[nse]
-「…………」[pcms]
+[ns]Maya[nse]
+"..."[pcms]
 
 *7946|
 [fc]
-商店街の様子は、私が見た時とはまるで違っていた。[pcms]
+The shopping district looked completely different from when[r]
+I had last seen it.[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
 *7947|
 [fc]
-多くの建物が崩壊、もしくは倒壊していて、全くの無[r]
-傷で形を留めている建物は無い。[pcms]
+Many buildings had collapsed or were destroyed, and not a[r]
+single one remained intact.[pcms]
 
 *7948|
 [fc]
 [vo_may s="maya0047"]
-[ns]摩耶[nse]
-「どうしてこんな……」[pcms]
+[ns]Maya[nse]
+"Why is it like this...?"[pcms]
 
 *7949|
 [fc]
-あんなにたくさんいた買い物客も、一人残らずいなく[r]
-なっている。[pcms]
+All the shoppers that were here before had vanished without[r]
+a trace.[pcms]
 
 *7950|
 [fc]
-夜遅いから誰もいないのか、そう思って時計塔の方に[r]
-目を向けてみても、意味は無かった。[pcms]
+It was late at night, so maybe that's why no one was around,[r]
+but looking towards the clock tower, that thought was[r]
+meaningless.[pcms]
 
 *7951|
 [fc]
-塔は横倒しになっていて、針は６時１５分を指したま[r]
-まになっていたから。[pcms]
+The tower had fallen over, and the hands were stuck at 6:15.[pcms]
 
 *7952|
 [fc]
 [vo_may s="maya0048"]
-[ns]摩耶[nse]
-「あ……もしかして……」[pcms]
+[ns]Maya[nse]
+"Ah... could it be...?"[pcms]
 
 *7953|
 [fc]
-崩壊した街並みを眺めていて、私は強烈な白い光のこ[r]
-とを思い出した。[pcms]
+As I gazed at the ruined streetscape, I remembered the[r]
+intense white light.[pcms]
 
 *7954|
 [fc]
-爆弾とかかな……。[r]
-でも、そういう音はしなかった……。[pcms]
+A bomb, maybe... But there was no sound like that...[pcms]
 
 *7955|
 [fc]
-私……寝てたんじゃなくて、気絶してたの……？[pcms]
+I wasn't just asleep, I had fainted, hadn't I?[pcms]
 
 *7956|
 [fc]
 [vo_may s="maya0049"]
-[ns]摩耶[nse]
-「……お祖父様……」[pcms]
+[ns]Maya[nse]
+"...Grandfather..."[pcms]
 
 *7957|
 [fc]
-そうだ……お祖父様は……。[r]
-お祖父様もこの商店街にいたはず……。[pcms]
+That's right... Grandfather was... He should have been in[r]
+this shopping district too...[pcms]
 
 *7958|
 [fc]
 [vo_may s="maya0050"]
-[ns]摩耶[nse]
-「無事だといいけど……」[pcms]
+[ns]Maya[nse]
+"I hope he's safe..."[pcms]
 
 *7959|
 [fc]
-既に買い物をし終わって、ここを離れていた。[pcms]
+He had already finished shopping and left this place.[pcms]
 
 *7960|
 [fc]
-そうだったらいいと願いながら、私はお祖父様が行っ[r]
-たという、日本茶屋を探して歩き始めた。[pcms]
+Hoping that was the case, I started walking to find the[r]
+Japanese tea house where my grandfather said he was going.[pcms]
 
 [sysbt_meswin clear]
 [fadeoutbgm time=502]
@@ -173,59 +173,59 @@
 *7961|
 [fc]
 [vo_may s="maya0051"]
-[ns]摩耶[nse]
-「ここ、かな……」[pcms]
+[ns]Maya[nse]
+"Is this the place...?"[pcms]
 
 *7962|
 [fc]
-建物が崩れかけて、はずれかかかっている木の看板に、[r]
-お手伝いさんから聞いた店名が彫られているのが、か[r]
-ろうじて読めて、私は入り口に足を踏み入れた。[pcms]
+The building was nearly collapsed, and on the barely hanging[r]
+wooden sign, I could just make out the name of the shop I[r]
+had heard from the maid, so I stepped through the entrance.[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
 *7963|
 [fc]
 [ns]？？？[nse]
-「う゛ぁ……ぐう゛ぅぁ～～っ……！！」[pcms]
+"Ugh... guuuh~...!!"[pcms]
 
 *7964|
 [fc]
-店の奥、カウンターの向こう側から、聞き覚えのある[r]
-低い声で、呻いているのが聞こえてくる。[pcms]
+From the back of the shop, beyond the counter, I could hear[r]
+a familiar low groaning.[pcms]
 
 *7965|
 [fc]
 [vo_may s="maya0052"]
-[ns]摩耶[nse]
-「お祖父様……？　お祖父様ですか？」[pcms]
+[ns]Maya[nse]
+"Grandfather...? Is that you, Grandfather?"[pcms]
 
 *7966|
 [fc]
-カウンターの向こうの暗がりを、盗み見るようにしな[r]
-がら近寄っていくと、何か塊が蠢いているのが見えて[r]
-きた。[pcms]
+As I approached the darkness beyond the counter as if[r]
+sneaking a peek, I could see something writhing.[pcms]
 
 *7967|
 [fc]
-[ns]摩耶の祖父[nse]
-「ま゛や……っ！！　ちかよる゛な゛……っ！！！！」[pcms]
+[ns]Maya's grandfather[nse]
+"Maya...!! Don't come closer...!!!"[pcms]
 
 *7968|
 [fc]
 [vo_may s="maya0053"]
-[ns]摩耶[nse]
-「お祖父……様……」[pcms]
+[ns]Maya[nse]
+"Grandfather..."[pcms]
 
 *7969|
 [fc]
-カウンターの向こう側で蠢いていた塊は、しゃがみ込[r]
-んで何かをしている、人間の群れだった。[pcms]
+The mass writhing behind the counter was a group of people[r]
+crouching and doing something.[pcms]
 
 *7970|
 [fc]
-その人間たちは、床に仰向けに倒れているお祖父様の[r]
-周りに群がって、食べ物を咀嚼する音を発していた。[pcms]
+The people were gathered around my grandfather, who was[r]
+lying on his back on the floor, making chewing noises as[r]
+they ate.[pcms]
 
 ;//♪：００2_感染 Extreme　Ver.　フェードイン
 ;//♪：bgm018に変更
@@ -234,152 +234,150 @@
 *7971|
 [fc]
 [vo_may s="maya0054"]
-[ns]摩耶[nse]
-「…………」[pcms]
+[ns]Maya[nse]
+"..."[pcms]
 
 *7972|
 [fc]
-人間の群れは、お祖父様の体に手を伸ばし、何かを掴[r]
-んで、口に運び続けている。[pcms]
+The group of people reached into my grandfather's body,[r]
+grabbed something, and continued to bring it to their[r]
+mouths.[pcms]
 
 *7973|
 [fc]
-それまで意識していなかった、辺りに漂っている鉄錆[r]
-の様な匂いに、人間たちが何を口に運んでいるか、私[r]
-は気がついた。[pcms]
+Until now, I hadn't been conscious of the iron-rust smell[r]
+drifting in the air, but then I realized what the people[r]
+were bringing to their mouths.[pcms]
 
 *7974|
 [fc]
 [vo_may s="maya0055"]
-[ns]摩耶[nse]
-「い……や……」[pcms]
+[ns]Maya[nse]
+"No..."[pcms]
 
 *7975|
 [fc]
-[ns]摩耶の祖父[nse]
-「ま、や゛っ……！！　に゛け゛るんた゛……っ！！[r]
-　はや……く……っ！！」[pcms]
+[ns]Maya's grandfather[nse]
+"Ma-ya...!! Get away...!! Hurry...!!"[pcms]
 
 *7976|
 [fc]
-[ns]ジョン[nse]
-「ウゥ～ッ！！　グルルルルルッ！！」[pcms]
+[ns]John[nse]
+"Woof~!! Grrrrrrr!!"[pcms]
 
 *7977|
 [fc]
 [vo_may s="maya0056"]
-[ns]摩耶[nse]
-「！！」[pcms]
+[ns]Maya[nse]
+"!!"[pcms]
 ;//◎驚いて息を飲む
 
 *7978|
 [fc]
-ジョンの唸る声に後ろを振り返ると、男が２人、私に[r]
-向かってにじり寄ってきていた。[pcms]
+At John's growling voice, I turned around to see two men[r]
+creeping towards me.[pcms]
 
 *7979|
 [fc]
-灯りが点いてない、暗い店の中でも、男たちの目がぎ[r]
-らぎらと輝いているのがわかる。[pcms]
+In the unlit, dark shop, I could see their eyes gleaming[r]
+fiercely.[pcms]
 
 *7980|
 [fc]
 [vo_may s="maya0057"]
-[ns]摩耶[nse]
-「ひっ……！」[pcms]
+[ns]Maya[nse]
+"Eek...!"[pcms]
 
 *7981|
 [fc]
-[ns]ジョン[nse]
-「グルルルルルッ……ウォンウォンッ！！」[pcms]
+[ns]John[nse]
+"Grrrrrrr... Woof woof!!"[pcms]
 
 *7982|
 [fc]
-後ずさって、カウンターに体がぶつけながら、私はそ[r]
-の場に座り込んでしまった。[pcms]
+Backing away and bumping into the counter, I ended up[r]
+sitting down on the spot.[pcms]
 
 *7983|
 [fc]
-立てない……。[r]
-足に……力が……！[pcms]
+I can't stand up... My legs... have no strength...![pcms]
 
 *7984|
 [fc]
-[ns]摩耶の祖父[nse]
-「う゛く゛うぅ～～っ……く゛ふひっ！　ふひひゃは[r]
-　はっ……あ゛ぁう゛～～……お゛う゛は゛ははっ！」[pcms]
+[ns]Maya's grandfather[nse]
+"Ughuuu~... kufhih! Fuhhyaha ha... ahh uhh~... ohh hahaha!"[pcms]
 
 *7985|
 [fc]
 [vo_may s="maya0058"]
-[ns]摩耶[nse]
-「お祖父様……」[pcms]
+[ns]Maya[nse]
+"Grandfather..."[pcms]
 
 *7986|
 [fc]
-呻き声なのか、笑い声なのか、はっきりしない声を、[r]
-お祖父様がカウンターの向こうであげている。[pcms]
+The voice coming from beyond the counter was unclear whether[r]
+it was a groan or laughter from my grandfather.[pcms]
 
 *7987|
 [fc]
-[ns]男１[nse]
-「あな゛ぁ～～……あ゛なか゛ある゛ぅ～～……」[pcms]
+[ns]Male 1[nse]
+"Ahhhh~... there's a pussy~..."[pcms]
 
 *7988|
 [fc]
-[ns]男２[nse]
-「と゛けぇ……お゛れか゛さい゛しょた゛ぁ～～……」[pcms]
+[ns]Hiroshi Ookura[nse]
+"Move it... I'm the first one here~..."[pcms]
 
 *7989|
 [fc]
-[ns]ジョン[nse]
-「グルルルルルッ！！　ウォンウォンウォンッ！！！」[pcms]
+[ns]John[nse]
+"Grrrrrrr... Woof woof woof!!"[pcms]
 
 *7990|
 [fc]
 [vo_may s="maya0059"]
-[ns]摩耶[nse]
-「お祖父様……助け、て……っ！」[pcms]
+[ns]Maya[nse]
+"Grandfather... help...!"[pcms]
 
 *7991|
 [fc]
-私の呼ぶ声に応えるかのように、カウンターの上から[r]
-人間がずり落ちてきた。[pcms]
+As if responding to my call, a human figure slid down from[r]
+above the counter.[pcms]
 
 *7992|
 [fc]
 [vo_may s="maya0060"]
-[ns]摩耶[nse]
-「きゃぁっ！！」[pcms]
+[ns]Maya[nse]
+"Kyaa!!"[pcms]
 
 *7993|
 [fc]
-手足がおかしな方へねじ曲がり、全身を血まみれにし[r]
-たその人間は、見る影もなく変わり果てた、お祖父様[r]
-の姿だった。[pcms]
+The human, whose limbs were twisted in strange directions[r]
+and covered in blood, was a completely changed figure from[r]
+my beloved grandfather.[pcms]
 
 *7994|
 [fc]
-私を見るお祖父様の目は、大好きだったいつもの優し[r]
-い眼差しと違って、外から入ってきた男たちと同じ、[r]
-異様にぎらついたものに変わっていた。[pcms]
+The eyes of my grandfather looking at me were different from[r]
+the always kind gaze I loved, they had changed into the same[r]
+eerily gleaming ones as the men who had entered from[r]
+outside.[pcms]
 
 *7995|
 [fc]
 [vo_may s="maya0061"]
-[ns]摩耶[nse]
-「お……じい……」[pcms]
+[ns]Maya[nse]
+"Gr...and...father..."[pcms]
 
 *7996|
 [fc]
-[ns]摩耶の祖父[nse]
-「あ゛ぁはは゛は゛はははは゛う゛ぁはは゛っはあ゛[r]
-　ははは！！！！！！！」[pcms]
+[ns]Maya's grandfather[nse]
+"Ahahaha... ahahahahaha... uahahahahahaha!!!!!!"[pcms]
 
 *7997|
 [fc]
-ぎらつく目を大きく開いて、気味の悪い笑い声をあげ[r]
-るお祖父様を見て、私の視界は白く染まっていった。[pcms]
+Looking at my grandfather with his eyes wide open and[r]
+emitting a creepy laugh, my vision started to fade to white.[pcms]
 
 [sysbt_meswin clear]
 
@@ -398,4 +396,4 @@
 
 [jump storage="prologue02000.ks" target=*prologue02000_TOP]
 
-;//－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+;//

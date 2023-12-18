@@ -47,29 +47,28 @@
 *8029|
 [fc]
 [vo_anz s="anzai0019"]
-[ns]みき[nse]
-「１８時か……ちょっと早かったかしら……」[pcms]
+[ns]Mikki[nse]
+"18:00, huh... Maybe I'm a bit early..."[pcms]
 ;//◎１８時＝ろくじ
 
 *8030|
 [fc]
-約束の時間は１８時３０分。[r]
-その時間にグランドシティのレストランを予約してい[r]
-ると、克也は言っていた。[pcms]
+The appointment time is 18:30. I had reserved a restaurant[r]
+in Grand City for that time, as Katsuya had said.[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
 *8031|
 [fc]
-このまま行けば、１５分前ぐらいにグランドシティに[r]
-着いてしまうけれど、遅れるよりはましだろうと、わ[r]
-たしはそのまま商店街を歩き続けた。[pcms]
+If I go now, I'll arrive at Grand City about 15 minutes[r]
+early, but that's better than being late, so I continued[r]
+walking through the shopping district.[pcms]
 
 *8032|
 [fc]
-克也、残業が無いといいけど……。[r]
-研究のことになると、幾らでもサービス残業するよう[r]
-な人だからな……。[pcms]
+I hope Katsuya doesn't have to work overtime... He's the[r]
+type to do as much unpaid overtime as it takes when it comes[r]
+to his research...[pcms]
 
 [sysbt_meswin clear]
 
@@ -98,26 +97,26 @@
 
 *8033|
 [fc]
-ゆっくり歩いたつもりだったけれど、久しぶりに外で[r]
-克也と逢う嬉しさで早足になったのか、１０分程度で、[r]
-私はグランドシティの前までやってきていた。[pcms]
+Although I intended to walk slowly, perhaps the joy of[r]
+meeting Katsuya outside after so long made me quicken my[r]
+pace, and in about 10 minutes, I had arrived in front of[r]
+Grand City.[pcms]
 
 *8034|
 [fc]
-相変わらず、カップル多いわね……。[r]
-あの人達も、グランドシティで食事するのかしら……。[pcms]
+As usual, there are so many couples... I wonder if those[r]
+people are also going to dine in Grand City...[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
 *8035|
 [fc]
-すぐ近くを歩く、楽しそうに笑い合うカップルが、と[r]
-ても幸せそうに見える。[pcms]
+The couples walking nearby, laughing happily together, seem[r]
+very content.[pcms]
 
 *8036|
 [fc]
-自分も克也と一緒にいる時は、あんな風に見えている[r]
-のだろうか。[pcms]
+When I'm with Katsuya, do we look like that to others?[pcms]
 
 ;//♪：０１０_Paradise.　フェードアウト
 [fadeoutbgm time=1000]
@@ -127,43 +126,41 @@
 
 *8037|
 [fc]
-間違いなく、自分はそう見えていると思う。[r]
-克也と一緒にいるだけで、幸せを感じられるから。[pcms]
+I'm sure we do. Just being with Katsuya makes me feel happy.[pcms]
 
 *8038|
 [fc]
-でも、克也はどうだろう。[r]
-周りの人から見て、自分と一緒にいる克也は、幸せそ[r]
-うに見えているのだろうか。[pcms]
+But what about Katsuya? From other people's perspective,[r]
+does he look happy when he's with me?[pcms]
 
 *8039|
 [fc]
-一緒にいるだけで克也が幸せを感じられる、そういう[r]
-女で自分はいられているだろうか。[pcms]
+Am I the kind of woman who can make Katsuya feel happy just[r]
+by being together?[pcms]
 
 *8040|
 [fc]
 [vo_anz s="anzai0020"]
-[ns]みき[nse]
-「…………」[pcms]
+[ns]Mikki[nse]
+"..."[pcms]
 ;//◎小さい溜息
 
 *8041|
 [fc]
-どうしたのかしら、わたし……。[r]
-今日はなんだか、考え方が後ろ向きね……。[pcms]
+What's wrong with me... Today, my thoughts seem to be so[r]
+negative...[pcms]
 
 *8042|
 [fc]
 [vo_anz s="anzai0021"]
-[ns]みき[nse]
-「１８時１５分……着くのは２０分過ぎかしらね……」[pcms]
+[ns]Mikki[nse]
+"18:15... I guess I'll arrive around 20 minutes past."[pcms]
 
 *8043|
 [fc]
-腕時計から目を離して、駅がある方に向けた瞬間、空[r]
-が一面、強い光で覆われ、わたしは物凄い力で突き上[r]
-げられる様な衝撃を足下に感じた。[pcms]
+The moment I took my eyes off my wristwatch and turned[r]
+towards the station, the sky was covered in a strong light,[r]
+and I felt an incredible force pushing me up from below.[pcms]
 
 [sysbt_meswin clear]
 
@@ -192,4 +189,4 @@
 
 [jump storage="prologue_zap05051.ks" target=*prologue_zap05051_TOP]
 
-;//－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+;//

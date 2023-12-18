@@ -28,304 +28,293 @@
 
 *12680|
 [fc]
-あのヘンな声は、それっきり聞こえてこなかった。[pcms]
+That weird voice, I haven't heard it since then.[pcms]
 
 *12681|
 [fc]
-ヒロは、通路の角から顔を出して、向かう先の様子を[r]
-伺っている。[pcms]
+Hiro peeks around the corner of the corridor, checking out[r]
+what lies ahead.[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
 *12682|
 [fc]
-ヒロは、やっぱり頼りになるな……。[pcms]
+Hiro really is reliable...[pcms]
 
 *12683|
 [fc]
-[ns]大倉[nse]
-「ユウ、地図見せてくれ」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Yuuki, show me the map."[pcms]
 
 *12684|
 [fc]
-ボクはショルダーバッグから地図を取り出して、[r]
-ヒロに手渡した。[pcms]
+I took out the map from my shoulder bag and handed it over[r]
+to Hiro.[pcms]
 
 *12685|
 [fc]
-ヒロの温かい手が、ボクの手に軽く触れる。[pcms]
+Hiro's warm hand lightly touched mine.[pcms]
 
 *12686|
 [fc]
-それがちょっと嬉しくて、ヒロの手が離れていくのが[r]
-残念に感じた。[pcms]
+I was a little happy about that touch, and felt disappointed[r]
+when his hand left mine.[pcms]
 
 *12687|
 [fc]
-またあの手で、ボクに触って欲しい。[r]
-あの温かい手で、頭を撫でてくれないかな……。[pcms]
+I want that hand to touch me again. I wonder if he would[r]
+stroke my head with that warm hand...[pcms]
 
 *12688|
 [fc]
-ヒロは、ボクの事をどう思っているんだろう。[r]
-その事が気になって、ヒロの顔に目を移した。[pcms]
+What does Hiro think of me? I was curious about that and[r]
+shifted my gaze to his face.[pcms]
 
 *12689|
 [fc]
-ヒロは真剣な顔で、地図を見つめている。[r]
-ボクは頼りがいのあるその顔に見とれていた。[pcms]
+Hiro was staring at the map with a serious expression. I was[r]
+captivated by his dependable face.[pcms]
 
 *12690|
 [fc]
-やっぱり、ボクの事なんか、[r]
-何とも思ってないんだろうな……。[r]
-ボクは、男だもんな……。[pcms]
+After all, he probably doesn't think anything special of[r]
+me... I am a guy, after all...[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *12691|
 [fc]
-無言のまま、地図をボクに返したヒロは、[r]
-目だけで合図をして、先へと進んで行った。[pcms]
+Without a word, Hiro returned the map to me and signaled[r]
+with his eyes before moving on ahead.[pcms]
 
 *12692|
 [fc]
-ヘンな奴等に注意しながら、[r]
-ゆっくりと進むヒロの後ろを付いて歩く。[pcms]
+I followed behind Hiro, who was moving slowly while being[r]
+cautious of those weird guys.[pcms]
 
 *12693|
 [fc]
-あのヘンな奴等が襲ってきたら、ヒロは……。[r]
-ボクの事も護ってくれるかな？[r]
-それとも、他の女の人達を護るのかな。[pcms]
+If those weird guys attack, I wonder if Hiro will... protect[r]
+me too? Or will he protect the other girls instead?[pcms]
 
 *12694|
 [fc]
-ボクが、男だから。[pcms]
+Because I'm a guy.[pcms]
 
 *12695|
 [fc]
-ヒロは、男。[r]
-ボクも、男。[pcms]
+Hiro is a man. And so am I.[pcms]
 
 *12696|
 [fc]
-ヒロは、女の子が好きだからな……。[pcms]
+Hiro likes girls, after all...[pcms]
 
 *12697|
 [fc]
-ボクが女の子だったら、ヒロは真っ先にボクを[r]
-護ってくれるかな？[pcms]
+If I were a girl, would Hiro protect me first?[pcms]
 
 *12698|
 [fc]
-…………。[r]
-ボクは一体、何を考えているんだろう。[pcms]
+... What am I even thinking about?[pcms]
 
 *12699|
 [fc]
-こんな時に、考え事なんかしてたら、[r]
-ヘンなヤツに捕まっちゃうよ。[pcms]
+If I get lost in thought like this, I'll be caught by those[r]
+weird guys.[pcms]
 
 *12700|
 [fc]
-ボクは、男なんだ。[r]
-ヒロに頼らなくても、自分の事は自分で護る。[r]
-そうしないと、ヒロに嫌われちゃう。[pcms]
+I'm a guy. I shouldn't rely on Hiro; I should protect[r]
+myself. Otherwise, Hiro might dislike me.[pcms]
 
 *12701|
 [fc]
-ヘンな奴等が飛び出して来ないか、気を付けよう。[pcms]
+I need to be careful not to let those weird guys jump out at[r]
+us.[pcms]
 
 *12702|
 [fc]
-それにしてもこのショッピングモール、[r]
-色々な物が売ってるなあ……。[pcms]
+Even so, this shopping mall has all sorts of things for[r]
+sale...[pcms]
 
 *12703|
 [fc]
-コスチュームショップ……？[r]
-こんなのまであるんだ、凄いな……。[pcms]
+A costume shop...? They even have something like this,[r]
+amazing...[pcms]
 
 *12704|
 [fc]
-そのお店の中には、見覚えのある、[r]
-綺麗な服が飾られているのが見えた。[pcms]
+Inside that store, I could see beautiful clothes on display[r]
+that looked familiar.[pcms]
 
 *12705|
 [fc]
-商店街で見た、メイドさんが着ていたのにそっくりな、[r]
-メイド服。[pcms]
+Maid outfits that looked just like the ones worn by the[r]
+maids we saw in the shopping district.[pcms]
 
 *12706|
 [fc]
-可愛い服だな……。[pcms]
+Such cute clothes...[pcms]
 
 *12707|
 [fc]
 [vo_kob s="koba0263"]
-[ns]小林[nse]
-「メイドふく、か……」[pcms]
+[ns]Kobayashi[nse]
+"Maid outfits, huh..."[pcms]
 
 *12708|
 [fc]
-商店街で見たメイドさん、かわいかったな……。[r]
-あのメイドさん達、どうなっちゃったのかな……。[pcms]
+The maids we saw in the shopping district were cute... I[r]
+wonder what happened to them...[pcms]
 
 *12709|
 [fc]
-あのメイドさん達、最後の方は嬉しそうだったな。[r]
-気持ち良いのかな？[pcms]
+Those maids seemed happy towards the end. Were they feeling[r]
+good?[pcms]
 
 *12710|
 [fc]
-ボクもあんな風にされたら、[r]
-どうなっちゃうんだろう？[pcms]
+What would happen to me if I were treated like that?[pcms]
 
 *12711|
 [fc]
-……あんなヘンな奴等が相手……。[r]
-それだけは、絶対にイヤだ。[r]
-可愛い女の子とか……あとは……。[pcms]
+...By such weird guys. That's absolutely something I don't[r]
+want. Maybe by a cute girl or... well...[pcms]
 
 *12712|
 [fc]
-ボクもこんな可愛い服着たら……。[pcms]
+If I wore such cute clothes...[pcms]
 
 [ChrSetEx layer=4 chbase="ookura_n02a"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *12713|
 [fc]
-[ns]大倉[nse]
-「オイ、ユウ……！　なにしてんだ……！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Hey, Yuuki...! What are you doing...!"[pcms]
 
 *12714|
 [fc]
 [vo_kob s="koba0264"]
-[ns]小林[nse]
-「え……？」[pcms]
+[ns]Kobayashi[nse]
+"Eh...?"[pcms]
 
 *12715|
 [fc]
-メイド服に見とれていたせいか、[r]
-ボクはボーっとしてしまった。[pcms]
+Perhaps because I was mesmerized by the maid outfit, I had[r]
+spaced out.[pcms]
 
 *12716|
 [fc]
-ヒロは少し怒ったような顔で、ボクの方を見ている。[r]
-ボクは何も悪い事してないのに、ボクを怒っている。[pcms]
+Hiro looked at me with a slightly angry face. Even though I[r]
+hadn't done anything wrong, he was angry at me.[pcms]
 
 [ChrSetEx layer=4 chbase="ookura_n02b"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *12717|
 [fc]
-[ns]大倉[nse]
-「そんなモンに見とれてる場合じゃねーだろ……！[r]
-　行くぞ……！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"This is no time to be captivated by such things...! Let's[r]
+go...!"[pcms]
 
 *12718|
 [fc]
-ああ……。[r]
-ボクが、ボーっとしていたから怒ってるんだ。[r]
-しっかりしなきゃ、って思ったばっかりなのに……。[pcms]
+Ah... He's angry because I was spacing out. Just when I[r]
+thought I needed to be more alert...[pcms]
 
 *12719|
 [fc]
 [vo_kob s="koba0265"]
-[ns]小林[nse]
-「うん……」[pcms]
+[ns]Kobayashi[nse]
+"Yeah..."[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *12720|
 [fc]
-どうしたんだろう、ボク。[r]
-体が妙に軽い。[r]
-熱でもあるのかな……？[pcms]
+What's wrong with me? My body feels strangely light. Do I[r]
+have a fever or something...?[pcms]
 
 *12721|
 [fc]
-あの地震のあと、みんなヘンになった。[r]
-ボクもなんだか、ヘンになったみたい。[pcms]
+After that earthquake, everyone became strange. It seems[r]
+like I've become strange too.[pcms]
 
 *12722|
 [fc]
-ヒロの後を追いかけようとした瞬間、もの凄い大きな[r]
-叫び声が聞こえてきた。[pcms]
+The moment I tried to follow Hiro, an incredibly loud scream[r]
+could be heard.[pcms]
 
 *12723|
 [fc]
 [ns]？？？[nse]
-「お゛おぉあ゛あ゛ぁ～～～……っ！！！！」[pcms]
+"Aaaaahhhhhhhhh...!!!!!"[pcms]
 
 [ChrSetEx layer=4 chbase="ookura_n02a"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *12724|
 [fc]
-[ns]大倉[nse]
-「隠れろッ……！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Hide...!!"[pcms]
 
 *12725|
 [fc]
-ヒロはそう叫びながら、ボク達を店の中に押し込んだ。[r]
-その拍子に、足を何かに引っかけて、躓いてしまった。[pcms]
+As he shouted that, Hiro pushed us into the store. In the[r]
+process, I tripped over something and stumbled.[pcms]
 
 *12726|
 [fc]
-体をかばおうとして手を伸ばすと、[r]
-そこには堅い床ではなくて、柔らかい膨らみがあった。[pcms]
+When I reached out to brace myself, instead of the hard[r]
+floor, there was a soft bulge.[pcms]
 
 [ChrSetEx layer=4 chbase="anza_n13"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *12727|
 [fc]
 [vo_anz s="anzai0217"]
-[ns]女[nse]
-「あっ……！」[pcms]
+[ns]Female[nse]
+"Ah...!"[pcms]
 
 *12728|
 [fc]
-勢い余ってつんのめった先は、床じゃなくて、[r]
-女の人の『おっぱい』だった。[pcms]
+The place where I had stumbled forward wasn't the floor but[r]
+a woman's "breasts."[pcms]
 
 *12729|
 [fc]
-大きくて、柔らかいおっぱい。[r]
-温かい……。[pcms]
+Large and soft breasts. Warm...[pcms]
 
 [ChrSetEx layer=4 chbase="anza_n09"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *12730|
 [fc]
 [vo_anz s="anzai0218"]
-[ns]女[nse]
-「キミ、大丈夫？」[pcms]
+[ns]Female[nse]
+"Are you okay?"[pcms]
 ;//◎ささやくように
 
 *12731|
 [fc]
-柔らかい……。[r]
-なんだか、さっきまでヘンな奴等に怯えていたのを[r]
-全部忘れられそう。[pcms]
+Soft... Somehow, it feels like I can forget all about the[r]
+weird people that scared me just a moment ago.[pcms]
 
 *12732|
 [fc]
-このままずっと、おっぱいに顔を埋めていたい。[pcms]
+I just want to bury my face in these breasts forever.[pcms]
 
 [ChrSetEx layer=4 chbase="anza_n07"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *12733|
 [fc]
 [vo_anz s="anzai0219"]
-[ns]女[nse]
-「ねえ、キミ……？　どうしたの？」[pcms]
+[ns]Female[nse]
+"Hey, you...? What's wrong?"[pcms]
 ;//◎すこし怒ったように。
 
 *12734|
 [fc]
 [vo_kob s="koba0266"]
-[ns]小林[nse]
-「え……？　あ、ああっ……、ご、ごめんなさい！！」[pcms]
+[ns]Kobayashi[nse]
+"Eh...? Oh, ahh... I-I'm sorry!!"[pcms]
 ;//◎小声で慌てたように。
 
 [ChrSetEx layer=4 chbase="anza_n09"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -333,108 +322,104 @@
 *12735|
 [fc]
 [vo_anz s="anzai0220"]
-[ns]女[nse]
-「ボーっとしてちゃダメでしょ！　しっかりして！」[pcms]
+[ns]Female[nse]
+"You can't space out like that! Pull yourself together!"[pcms]
 ;//◎ささやくように、強い口調で
 
 *12736|
 [fc]
-おっぱいの大きい女の人は、怖い顔で睨んでいる。[r]
-ヒロにも、この人にも怒られた。[pcms]
+The woman with the large breasts is glaring at me with a[r]
+scary face. I've been scolded by Hiro and now by this woman.[pcms]
 
 *12737|
 [fc]
-本当、どうしたんだろう……ボク。[pcms]
+Really, what's wrong with me...[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *12738|
 [fc]
 [vo_kob s="koba0267"]
-[ns]小林[nse]
-「ごめんなさい……」[pcms]
+[ns]Kobayashi[nse]
+"I'm sorry..."[pcms]
 
 *12739|
 [fc]
-こんな状況で、ボクはヘンな事ばっかり考えている。[r]
-エッチな事ばっかり考えてる。[pcms]
+In this situation, all I can think about are weird things.[r]
+Only perverted things.[pcms]
 
 *12740|
 [fc]
-こんなんじゃ、あのヘンな奴等に捕まっちゃう。[r]
-そうなったら、あのメイドさん達みたいに……。[r]
-大勢の男の人達に犯されちゃう……。[pcms]
+If I keep this up, I'll get caught by those weird guys. And[r]
+then, just like those maid girls... I'll be violated by a[r]
+bunch of men...[pcms]
 
 *12741|
 [fc]
-……。[r]
-またヘンな事考えてる。[r]
-なんだかこの女の人と顔を合わせるのが気まずいな……。[pcms]
+... I'm thinking about weird things again. It feels awkward[r]
+to face this woman now...[pcms]
 
 *12742|
 [fc]
 [vo_kob s="koba0268"]
-[ns]小林[nse]
-「…………」[pcms]
+[ns]Kobayashi[nse]
+"..."[pcms]
 ;//◎ため息
 
 *12743|
 [fc]
-もうあの叫び声は聞こえなくなっているのに、[r]
-ヒロはまだ外の様子を伺っている。[pcms]
+Even though the screaming has stopped, Hiro is still[r]
+checking outside.[pcms]
 
 *12744|
 [fc]
-女の人はもうボクを見ていないけど……。[r]
-……早くここから出たいな。[pcms]
+The woman isn't looking at me anymore... I really want to[r]
+get out of here quickly.[pcms]
 
 [ChrSetEx layer=4 chbase="ookura_n02a"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *12745|
 [fc]
-せめてこの女の人から離れようと、這うようにして[r]
-ヒロの隣まで進んだ。ヒロはボクに全然気が付かない[r]
-で、外の様子を眺めている。[pcms]
+Crawling away from the woman, I moved next to Hiro. He[r]
+doesn't seem to notice me at all and continues to look[r]
+outside.[pcms]
 
 *12746|
 [fc]
 [vo_kob s="koba0269"]
-[ns]小林[nse]
-「だれもいないね」[pcms]
+[ns]Kobayashi[nse]
+"There's no one there."[pcms]
 ;//◎録る必要無し
 
 *12747|
 [fc]
-ヒロはびっくりした顔で、ボクの顔を見つめている。[r]
-でもボクはその目をまともに見返す事が出来なくて、[r]
-思わず顔を背けてしまう。[pcms]
+Hiro looks at me with a surprised expression. But I can't[r]
+meet his eyes directly and end up turning my face away.[pcms]
 
 *12748|
 [fc]
-今ボクの顔は、きっと熱があるみたいに[r]
-真っ赤になっているだろうから。[pcms]
+Right now, my face must be as red as if I had a fever.[pcms]
 
 *12749|
 [fc]
-[ns]大倉[nse]
-「ああ……」[pcms]
+[ns]Ookura[nse]
+"Yeah..."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *12750|
 [fc]
-ヒロはボクを見るのをやめて、また外の様子を[r]
-確かめたあと、一人先に通路に出て行った。[pcms]
+After checking outside again, Hiro stopped looking at me and[r]
+went ahead into the corridor by himself.[pcms]
 
 *12751|
 [fc]
-ヒロはボクを見てうなずいている。[r]
-きっと、大丈夫って事だ。[pcms]
+Hiro is nodding at me. It must mean that everything is okay.[pcms]
 
 *12752|
 [fc]
-ヒロは、頼りになる。[r]
-彼に付いていけば、絶対大丈夫だ。[pcms]
+Hiro is reliable. If I follow him, everything will[r]
+definitely be okay.[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]
@@ -445,7 +430,7 @@
 ;[zapend_random]
 [zapfade]
 ;//BKACKOUT
-;//－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+;//
 
 [jump storage="westtown_main10080.ks" target=*westtown_main10080_TOP]
 

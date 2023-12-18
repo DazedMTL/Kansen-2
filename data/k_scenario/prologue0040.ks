@@ -18,207 +18,209 @@
 
 *6563|
 [fc]
-[ns]睦茂先生[nse]
-「三角形ＡＢＣにおいて、右の図のように……」[pcms]
+[ns]Professor Mutsumo[nse]
+"In triangle ABC, as shown in the right figure..."[pcms]
 
 *6564|
 [fc]
-ん……？[r]
-なんだこれ……。[pcms]
+Hmm...? What's this...?[pcms]
 
 *6565|
 [fc]
-[ruby text="むつしげ"][ch text="睦茂"]先生の眠らせる呪文をボーッと聞いていると、俺[r]
-の目の前に小さく折りたたまれた紙が投げ込まれた。[pcms]
+As I was blankly listening to Professor Mutsumo's sleep-[r]
+inducing spell, a small folded piece of paper was thrown in[r]
+front of me.[pcms]
 
 *6566|
 [fc]
-それが飛んできた方を見ると、左斜め前に座っている[r]
-速水が、肩越しに俺を見ながらパクパクと口を動かし[r]
-ている。[pcms]
+Looking towards where it came from, Hayami, who was sitting[r]
+diagonally in front of me to the left, was moving her mouth[r]
+silently while looking over her shoulder at me.[pcms]
 
 *6567|
 [fc]
-“よ・め”[pcms]
+"Yo. me"[pcms]
 
 *6568|
 [fc]
-よめ……読め、か？[pcms]
+Yo me... Read it, huh?[pcms]
 
 *6569|
 [fc]
-投げ込まれたのはメモ帳が小さく小さく折りたたまれ[r]
-たもので、先生の目を気にしながら開いてみると、そ[r]
-れは速水からの手紙だった。[pcms]
+The thrown object was a note folded up small, and as I[r]
+carefully opened it while mindful of the teacher's gaze, it[r]
+turned out to be a letter from Hayami.[pcms]
 
 *6570|
 [fc]
-〔修業旅行の自由時間にずんだモチ食べにいこーよ！！[r]
-なんか有名なお店があるんだって！　たのしみー♪〕[pcms]
+"[Let's go eat Zunda Mochi during the free time of our[r]
+training trip!! I heard there's a famous shop! Looking[r]
+forward to it♪]"[pcms]
 
 *6571|
 [fc]
-たのしみー♪　って、もうその店に行くこと決まって[r]
-んじゃねーか……。[pcms]
+Looking forward to it♪, as if we've already decided to go to[r]
+that shop...[pcms]
 
 *6572|
 [fc]
-最初の、いこーよ！！　って提案は、いったいどこに[r]
-行ったんだ……？[pcms]
+Where did the initial suggestion, "Let's go!!" disappear[r]
+to...?[pcms]
 
 *6573|
 [fc]
-［ずんだモチってなんだ？[r]
-　ムツシゲちゃんのこと？］[pcms]
+"[What's Zunda Mochi? Something about Mutsumo-chan?]"[pcms]
 
 *6574|
 [fc]
-俺は手紙の空いている部分にそう書き、早く返事をよ[r]
-こせ、という顔でこっちを見ていた速水に投げてやっ[r]
-た。[pcms]
+I wrote that on the empty part of the letter and threw it[r]
+back to Hayami, who was looking at me with a face that said[r]
+hurry up and reply.[pcms]
 
 *6575|
 [fc]
-俺の返事を見て、速水はしばらく考え込んでいたが、[r]
-そのうちまた何かを書きだして、こっちに投げてよこ[r]
-した。[pcms]
+After reading my response, Hayami thought for a while but[r]
+then started writing something again and threw it back to[r]
+me.[pcms]
 
 *6576|
 [fc]
-〔ゴメン、わからない……答えは？〕[pcms]
+"[Sorry, I don't know... What's the answer?]"[pcms]
 
 *6577|
 [fc]
-速水の返答にガッカリした俺は、すかさず空いている[r]
-部分に返事を書き、投げ渡した。[pcms]
+Disappointed with Hayami's response, I quickly wrote back in[r]
+the empty space and tossed it over.[pcms]
 
 *6578|
 [fc]
-［オマエ、何年俺の相方やってんだよ。そこは、それ[r]
-は妻子持ちでしょ！　ってツッコまな[r]
-きゃダメだろ］[pcms]
+"[How many years have you been my partner? You're supposed[r]
+to retort with 'That's a married man with kids!' right[r]
+there!]"[pcms]
 
 *6579|
 [fc]
-俺の返事に顔をしかめた速水は、すごいイキオイで返[r]
-事を書き、俺に投げつけてきた。[pcms]
+Hayami frowned at my response and with great force wrote[r]
+back and threw it at me.[pcms]
 
 *6580|
 [fc]
-〔フリがわかりづらすぎるよ！！　それにムツシゲ先[r]
-生に奥さんと子供がいたなんて知らなかったもん！！[r]
-ひとりよがりのネタって最悪！！　この三流芸人！！〕[pcms]
+"[Your setup is too hard to understand!! Plus, I didn't know[r]
+that Professor Mutsumo had a wife and kids!! Self-centered[r]
+jokes are the worst!! You third-rate comedian!!]"[pcms]
 
 *6581|
 [fc]
-[ns]大倉[nse]
-「さ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Sa..."[pcms]
 
 *6582|
 [fc]
-三流芸人！？[r]
-しかも、ネタがひとりよがりだと！？[pcms]
+Third-rate comedian!? And she says my jokes are self-[r]
+centered!?[pcms]
 
 *6583|
 [fc]
-［オマエでもわかりやすいネタ選んでやったのに、三[r]
-流芸人たぁどういうことだ！！　わからないのをオレ[r]
-のせいにすんなよ！！］[pcms]
+"[I chose an easy-to-understand joke for you, and you call[r]
+me a third-rate comedian!? Don't blame me for your not[r]
+getting it!!]"[pcms]
 
 *6584|
 [fc]
-〔選んでやった？　なんで上から目線なの？　あたし[r]
-とユウキのフォローがなかったら、ヒロシなんて一生[r]
-売れない芸人だってことわかってないでしょ〕[pcms]
+"[Chose for me? Why are you so condescending? You don't[r]
+realize that without Yuuki and my support, Hiroshi would[r]
+never make it as a comedian.]"[pcms]
 
 *6585|
 [fc]
-［テメー！！　三流グラビアアイドルみたいな女に言[r]
-われたかねーよ！！］[pcms]
+"[You bitch!! Don't talk like you're some third-rate gravure[r]
+idol!!]"[pcms]
 
 *6586|
 [fc]
-〔ズボシつかれて怒ってやんの　Ψ(￣￣)Ψケケケ〕[pcms]
+"[You got hit with a zuboshi and now you're angry[r]
+Ψ(￣￣)Ψkekeke]"[pcms]
 
 *6587|
 [fc]
-[ns]大倉[nse]
-「ク……！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Ku...!!"[pcms]
 
 *6588|
 [fc]
-こ、このアマァ……！！[pcms]
+This damn woman...!![pcms]
 
 *6589|
 [fc]
 [vo_kob s="koba0034"]
-[ns]小林[nse]
-「怒られるから、やめときなよ」[pcms]
+[ns]Kobayashi[nse]
+"You'll get scolded, so better stop."[pcms]
 
 *6590|
 [fc]
-手紙上で繰り広げられる速水とのバトルが佳境に入る[r]
-と、俺の後ろに座っているユウが背中をつつき、小声[r]
-で警告してきた。[pcms]
+As the battle with Hayami on paper was reaching its climax,[r]
+Yuuki, who was sitting behind me, poked my back and warned[r]
+me in a low voice.[pcms]
 
 *6591|
 [fc]
-[ns]大倉[nse]
-「負けるワケにゃいかねーんだよ！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"I can't afford to lose!"[pcms]
 
 *6592|
 [fc]
 [vo_kob s="koba0035"]
-[ns]小林[nse]
-「ちょ、ちょっとヒロ、声大きい……」[pcms]
+[ns]Kobayashi[nse]
+"Hey, Hiro, your voice is too loud..."[pcms]
 
 *6593|
 [fc]
-[ns]大倉[nse]
-「オマエも男なら、負けられない闘いがあるってこと、[r]
-わかるだろ！？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"If you're a man, you understand there are battles you can't[r]
+afford to lose, right!?"[pcms]
 
 *6594|
 [fc]
 [vo_kob s="koba0036"]
-[ns]小林[nse]
-「ヒロ、前……！」[pcms]
+[ns]Kobayashi[nse]
+"Hiro, in front...!"[pcms]
 
 *6595|
 [fc]
-[ns]大倉[nse]
-「前！？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"In front!?"[pcms]
 
 *6596|
 [fc]
-後ろのユウに向けていた顔を黒板の方へ戻すと、ムツ[r]
-シゲちゃんが腕を組んで、俺のことを睨みつけていた。[pcms]
+Turning my face from Yuuki at the back towards the[r]
+blackboard, I saw Professor Mutsumo crossing his arms and[r]
+glaring at me.[pcms]
 
 *6597|
 [fc]
-[ns]大倉[nse]
-「あ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Ah..."[pcms]
 
 *6598|
 [fc]
-[ns]睦茂[nse]
-「……大倉君、君は期末テストの結果が良くなかった[r]
-　んだから、しっかり！　静かに！！　真面目に！！！[r]
-　授業を受けなさい」[pcms]
+[ns]Mutsushige[nse]
+"...Ookura-kun, since your results on the final test weren't[r]
+good, make sure to be quiet! And take the class[r]
+seriously!!!"[pcms]
 
 *6599|
 [fc]
-[ns]大倉[nse]
-「ハイ、すんません……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Yes, I'm sorry..."[pcms]
 
 *6600|
 [fc]
-クソ……元はといえば速水のせいなのに……。[pcms]
+Dammit... It's all Hayami's fault in the end...[pcms]
 
 *6601|
 [fc]
-周りと一緒になってクスクス笑っているのを見て、俺[r]
-は手紙を握りつぶし、速水の顔を目がけて投げつけた。[pcms]
+Seeing her laughing along with everyone else around us, I[r]
+crumpled up the letter and threw it at Hayami's face.[pcms]
 
 [fadeoutbgm time=502]
 [stop_se0]
@@ -229,4 +231,4 @@
 
 [jump storage="prologue0050.ks" target=*prologue0050_TOP]
 
-;//－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+;//

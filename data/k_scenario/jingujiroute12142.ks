@@ -24,15 +24,15 @@
 
 *5179|
 [fc]
-[ns]‘å‘q[nse]
-u‰´‚ªŒÄ‚Ô‚Ü‚ÅAƒ}ƒ„‚¿‚á‚ñ‚ÍƒRƒR‚É‚¢‚Ä‚­‚êIv[pcms]
+[ns]Ookura Hiroshi[nse]
+"Stay here until I call for you, Maya-chan!"[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_n08"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *5180|
 [fc]
 [vo_may s="maya0383"]
-[ns]–€–ë[nse]
-u‚ ‚Áccv[pcms]
+[ns]Maya[nse]
+"Ah..."[pcms]
 
 ;êŠ<ImageFade 6,60,OFF,OFF>
 
@@ -40,41 +40,42 @@
 
 *5181|
 [fc]
-ƒ}ƒ„‚¿‚á‚ñ‚ª‰½‚©Œ¾‚¨‚¤‚Æ‚µ‚Ä‚¢‚½‚¯‚ÇA‰´‚Í‹C‚É‚µ[r]
-‚È‚¢‚ÅA‰´‚Í’j‚ÉŒü‚©‚Á‚Ä‘S‘¬—Í‚Å‘–‚Á‚½B[pcms]
+Maya-chan seemed like she was about to say something, but I[r]
+didn't pay any attention and ran at full speed towards the[r]
+man.[pcms]
 
 [ChrSetEx layer=4 chbase="etc01"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *5182|
 [fc]
-[ns]‘å‘q[nse]
-u‚¨‚ç‚ ‚ŸƒbIIv[pcms]
+[ns]Ookura Hiroshi[nse]
+"Take this!!"[pcms]
 
 [se0 storage="se20"][Ôƒtƒ‰]
 [quake_bg Œ³time=200 xy m]
 
 *5183|
 [fc]
-Î‚ß‰º‚É\‚¦‚½ƒVƒƒƒxƒ‹‚ğA‰´‚ÍƒSƒ‹ƒt‚ÌƒXƒCƒ“ƒO‚Ì[r]
-‚æ‚¤‚ÉU‚èã‚°AƒCƒJƒŒ–ì˜Y‚ÌAèÖ’e‚ğ‚Á‚Ä‚¢‚é[r]
-•û‚Ìè‚É’@‚«‚Â‚¯‚½B[pcms]
+I swung the shovel I had positioned diagonally downwards[r]
+like a golf swing, striking it against the hand of the[r]
+crazed guy holding the grenade.[pcms]
 
 *5184|
 [fc]
-[ns]‘å‘q[nse]
-uccHv[pcms]
+[ns]Ookura Hiroshi[nse]
+"...?"[pcms]
 
 *5185|
 [fc]
-’j‚Ìè‚©‚ç—£‚ê‚½uŠÔAèÖ’e‚©‚ç©“]Ô‚ÌƒuƒŒ[ƒL[r]
-ƒŒƒo[‚İ‚½‚¢‚Èƒ‚ƒm‚ªŠO‚ê‚½‚Ì‚ÉA‰´‚Í‹C‚Ã‚¢‚½B[pcms]
+The moment it left the man's hand, I noticed something like[r]
+a bicycle brake lever coming off the grenade.[pcms]
 
 *5186|
 [fc]
-‚»‚ÌuŠÔccB[pcms]
+That instant...[pcms]
 
 ;//ƒuƒƒbƒN‚P‚Q‚P‚T‚O‚Ö
 
 [jump storage="jingujiroute12150.ks" target=*jingujiroute12150_TOP]
 
-;//||||||||||||||||||||||||||||||||||||||||
+;//

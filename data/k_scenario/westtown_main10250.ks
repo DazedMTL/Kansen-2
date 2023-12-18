@@ -28,14 +28,14 @@
 
 *10993|
 [fc]
-[ns]大倉[nse]
-「もうやめろ！！　どうしたんだよ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Stop it already!! What's going on!!"[pcms]
 
 *10994|
 [fc]
 [vo_kob s="koba0195"]
-[ns]小林[nse]
-「すごいちから……！！」[pcms]
+[ns]Kobayashi[nse]
+"Such incredible strength...!!"[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
@@ -48,9 +48,9 @@
 
 *10995|
 [fc]
-男２人で抑え込もうとしてるのに、線の細い女の子と[r]
-は思えないような力で、俺とユウを振り切り、突き飛[r]
-ばして、彼女は暴れ続ける。[pcms]
+Despite the two of us trying to hold her down, the slender[r]
+girl shook us off with a strength that seemed impossible for[r]
+her, pushing me and Yuu away as she continued to rampage.[pcms]
 
 [quake_bg 元time=1000 xy m]
 ;mm 複数できない
@@ -62,8 +62,8 @@
 *10996|
 [fc]
 [vo_mob s="girl0008"]
-[ns]少女[nse]
-「うふふっ、うふふふぁはあはははははっ！！」[pcms]
+[ns]Girl[nse]
+"Ufufu, ufufufahahahahaha!!"[pcms]
 
 [chara_int_ layer=2][chara_int_ layer=4][trans_c cross time=150]
 [ChrSetEx layer=2 chbase="anza_n06"][ChrSetXY layer=2 x=0 y=0]
@@ -72,19 +72,19 @@
 *10997|
 [fc]
 [vo_anz s="anzai0114"]
-[ns]女[nse]
-「大丈夫！？」[pcms]
+[ns]Female[nse]
+"Are you okay!?"[pcms]
 
 *10998|
 [fc]
-彼女を追って女の人とお嬢様も、俺らに加勢しに走り[r]
-寄ってきた。[pcms]
+Chasing after her, a woman and a young lady also ran over to[r]
+help us.[pcms]
 
 *10999|
 [fc]
 [vo_kob s="koba0196"]
-[ns]小林[nse]
-「うわっ！」[pcms]
+[ns]Kobayashi[nse]
+"Whoa!"[pcms]
 
 [quake_bg 元time=1000 xy m]
 [se0 storage="SE28"]
@@ -92,8 +92,8 @@
 *11000|
 [fc]
 [vo_anz s="anzai0115"]
-[ns]女[nse]
-「お願いだから落ち着いて！！」[pcms]
+[ns]Female[nse]
+"Please calm down!!"[pcms]
 
 [chara_int_ layer=2][chara_int_ layer=3][trans_c cross time=150]
 [ChrSetEx layer=4 chbase="nanasi_n06"][ChrSetXY layer=4 x=160 y=0]
@@ -101,9 +101,9 @@
 
 *11001|
 [fc]
-ユウの手から逃れた彼女を、女の人が抑え込もうと近[r]
-づくが、また凄い勢いで突き飛ばされて、背中から近[r]
-くの棚に激突する。[pcms]
+As the woman tried to restrain her after she escaped from[r]
+Yuu's grasp, she was again violently pushed away and crashed[r]
+into a nearby shelf with her back.[pcms]
 
 [chara_int_ layer=2][chara_int_ layer=4][trans_c cross time=150]
 [quake_bg 元time=1000 xy m]
@@ -112,8 +112,8 @@
 *11002|
 [fc]
 [vo_anz s="anzai0116"]
-[ns]女[nse]
-「ぐぅっ……！！」[pcms]
+[ns]Female[nse]
+"Guuh...!!"[pcms]
 
 ;[chara_int_ layer=2][chara_int_ layer=3][trans_c cross time=150]
 [ChrSetEx layer=2 chbase="jinguji_n08"][ChrSetXY layer=2 x=0 y=0]
@@ -121,41 +121,40 @@
 
 *11003|
 [fc]
-痛みに顔を歪める女の人を気にもしないで、彼女は相[r]
-変わらず高笑いをしながら、フラフラとお嬢様の方へ[r]
-近づいていく。[pcms]
+Without any concern for the woman grimacing in pain, she[r]
+continued to approach the young lady with a loud laugh,[r]
+staggering.[pcms]
 
 *11004|
 [fc]
 [vo_mob s="girl0009"]
-[ns]少女[nse]
-「あーーーははぁははははっはははあははっはは！！」[pcms]
+[ns]Girl[nse]
+"Ah---hahahahahahahahaha!!"[pcms]
 
 *11005|
 [fc]
-[ns]ジョン[nse]
-「グルルルルルッ！！」[pcms]
+[ns]John[nse]
+"Grrrrrrrr!!"[pcms]
 
 *11006|
 [fc]
-姿勢を低くして、今にも飛びかかろうとしているハス[r]
-キーに、女の子が振り回す手が届く距離まで近づいた[r]
-ところで、俺は後ろから体に手を回して引き留めた。[pcms]
+Crouching low and ready to pounce at any moment, the husky[r]
+got close enough for the girl's flailing hands to reach, and[r]
+I held her back by wrapping my arms around her from behind.[pcms]
 
 *11007|
 [fc]
-[ns]大倉[nse]
-「やめるんだ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Stop it!!"[pcms]
 
 [ChrSetEx layer=3 chbase="nanasi_n07"][ChrSetXY layer=3 x=320 y=0][trans_c cross time=150]
 
 *11008|
 [fc]
 [vo_mob s="girl0010"]
-[ns]少女[nse]
-「あはっははっははは！！　アンタ……くふふっ……[r]
-　アンタだけ、なんでそんなカオしてんのぉ～！？[r]
-　くふふぁはははっ！！　ねぇ～なんでよぉ～～！？」[pcms]
+[ns]Girl[nse]
+"Ahahhahahahaha!! You... kufufu... Why do you have such a[r]
+face, huh~? Kufufahahahaha!! Hey~ why is that~!?"[pcms]
 ;//◎泣き笑い
 
 [ChrSetEx layer=2 chbase="jinguji_n07"][ChrSetXY layer=2 x=0 y=0][trans_c cross time=150]
@@ -163,8 +162,8 @@
 *11009|
 [fc]
 [vo_may s="maya0086"]
-[ns]お嬢様[nse]
-「……？」[pcms]
+[ns]Young Lady[nse]
+"...?"[pcms]
 
 [eval exp="f.chara_x = 200,f.chara_y = 0"]
 [quake_chara layer=3 元time=1000 xy m]
@@ -172,39 +171,37 @@
 
 *11010|
 [fc]
-彼女は意味のわからないことを叫びながら、俺に抑え[r]
-られて届かないのもお構いなしに、お嬢様をブッ叩こ[r]
-うと腕をメチャクチャに振り回す。[pcms]
+While screaming nonsensical things, she continued to wildly[r]
+swing her arms trying to hit the young lady, not caring that[r]
+she couldn't reach because I was holding her back.[pcms]
 
 *11011|
 [fc]
-[ns]大倉[nse]
-「痛ッ……！　オイ、もうよせって！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Ouch...! Hey, stop it already!!"[pcms]
 
 *11012|
 [fc]
-なんなんだよ、この子……！！[r]
-これが女の力か……！？[r]
-俺だって、パワーが無いワケじゃねーのに……！！[pcms]
+What's with this girl...!! Is this the strength of a[r]
+woman...!? It's not like I'm powerless either...!![pcms]
 
 *11013|
 [fc]
 [vo_mob s="girl0011"]
-[ns]少女[nse]
-「くはっ、くぁははははっ！！　アタシと、おなじク[r]
-　セにぃ～！！　あははひゃぁははっはっはっ！！[r]
-　アンタだってぇ、そうおもってんでしょぉ～！？」[pcms]
+[ns]Girl[nse]
+"Kuhah, qwahahahaha!! You're just like me~!![r]
+Ahhahyahhahhahhahh!! You think so too, don't you~!?"[pcms]
 ;//◎泣き笑い
 
 *11014|
 [fc]
-意味不明の叫びをぶつけられて、お嬢様は明らかに怯[r]
-えた顔になって、女の子を見つめている。[pcms]
+Faced with her incomprehensible screams, the young lady[r]
+clearly looked frightened and stared at the girl.[pcms]
 
 *11015|
 [fc]
-[ns]大倉[nse]
-「いい加減にしろッ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Enough already!!"[pcms]
 
 [chara_int_ layer=2][chara_int_ layer=3][trans_c cross time=150]
 [se0 storage="SE23"]
@@ -212,31 +209,30 @@
 
 *11016|
 [fc]
-上に乗っかれば完全に抑えることができるだろうと考[r]
-えて、俺は抱えていた彼女を引き倒しながら、彼女が[r]
-真横になるぐらいの勢いで足を払った。[pcms]
+Thinking that if I got on top of her I could completely[r]
+restrain her, I pulled the girl I was holding down and swept[r]
+her legs with enough force to make her fall sideways.[pcms]
 
 *11017|
 [fc]
-そしてそのまま、自分も床に倒れ込みながら、彼女の[r]
-上にのしかかる。[pcms]
+And then, as I fell to the floor myself, I landed on top of[r]
+her.[pcms]
 
 *11018|
 [fc]
 [vo_mob s="girl0012"]
-[ns]少女[nse]
-「ぁぐっ……！！」[pcms]
+[ns]Girl[nse]
+"Aguh...!!"[pcms]
 
 *11019|
 [fc]
-鈍い音を立てて頭を床に打ち付け、彼女は全身の力が[r]
-抜けたようになって、それっきりピクリとも動かなく[r]
-なってしまった。[pcms]
+With a dull thud as her head hit the floor, she seemed to[r]
+lose all strength in her body and stopped moving altogether.[pcms]
 
 *11020|
 [fc]
-[ns]大倉[nse]
-「オ、オイ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Hey, hey..."[pcms]
 
 ;//♪：bgm005 fadeout
 [fadeoutbgm time=1000][wb]
@@ -246,15 +242,15 @@
 
 *11021|
 [fc]
-肩を揺らしても、ほっぺたを軽く叩いても反応しない[r]
-女の子に、自分が大変なことをしてしまったんじゃな[r]
-いかと、俺は青くなった。[pcms]
+Shaking her shoulders and lightly tapping her cheeks with no[r]
+response, I turned pale thinking I might have done something[r]
+terrible.[pcms]
 
 *11022|
 [fc]
-体の痛みに顔をしかめながら、彼女の横に膝をついて[r]
-脈や呼吸を調べた女の人を、冷や汗を拭いながら見守[r]
-るしかなかった。[pcms]
+While grimacing from the pain in her body, the woman kneeled[r]
+beside her to check her pulse and breathing, and all I could[r]
+do was watch anxiously while wiping away my cold sweat.[pcms]
 
 [ChrSetEx layer=2 chbase="anza_n08"][ChrSetXY layer=2 x=0 y=0]
 [ChrSetEx layer=3 chbase="koba_n12"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
@@ -262,266 +258,263 @@
 *11023|
 [fc]
 [vo_anz s="anzai0117"]
-[ns]女[nse]
-「気絶してるわね。多分、脳震盪だと思うけれど……」[pcms]
+[ns]Female[nse]
+"She's fainted. Probably a concussion, I think..."[pcms]
 
 *11024|
 [fc]
-[ns]大倉[nse]
-「ハァ～ッ……殺しちまったかと思った……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Haah... I thought I had killed her..."[pcms]
 
 [ChrSetEx layer=2 chbase="anza_n05"][ChrSetXY layer=2 x=0 y=0][trans_c cross time=150]
 
 *11025|
 [fc]
 [vo_anz s="anzai0118"]
-[ns]女[nse]
-「安心はできないわ。気絶してるってことは、軽いも[r]
-　のではないと思うし。すぐに医師に診せるのが一番[r]
-　いいのだけれど、この状況ではね……」[pcms]
+[ns]Female[nse]
+"We can't be sure she's safe. Fainting means it's not[r]
+something minor. The best thing would be to see a doctor[r]
+immediately, but given the situation..."[pcms]
 
 *11026|
 [fc]
-そう言って、しばらく暗い顔をしていた女の人は、何[r]
-かを思い出したように、俺とユウを交互に見た。[pcms]
+Saying that, the woman who had been looking gloomy for a[r]
+while glanced back and forth between me and Yuu.[pcms]
 
 *11027|
 [fc]
 [vo_anz s="anzai0119"]
-[ns]女[nse]
-「貴方達、ケガは無いの？」[pcms]
+[ns]Female[nse]
+"Are you guys hurt?"[pcms]
 
 *11028|
 [fc]
-[ns]大倉[nse]
-「はい、俺は。ユウは？」[pcms]
+[ns]Ookura[nse]
+"I'm fine. How about Yuu?"[pcms]
 
 [ChrSetEx layer=3 chbase="koba_n01"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
 
 *11029|
 [fc]
 [vo_kob s="koba0197"]
-[ns]小林[nse]
-「ボクもだいじょうぶ」[pcms]
+[ns]Kobayashi[nse]
+"I'm okay too."[pcms]
 
 *11030|
 [fc]
 [vo_anz s="anzai0120"]
-[ns]女[nse]
-「そう。貴女は？」[pcms]
+[ns]Female[nse]
+"I see. And you?"[pcms]
 
 [ChrSetEx layer=3 chbase="jinguji_n03"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
 
 *11031|
 [fc]
-顔を向けた女の人に、お嬢様は無言で横に首を振った。[pcms]
+The young lady silently shook her head sideways in response[r]
+to the woman's question.[pcms]
 
 [chara_int_ layer=2][chara_int_ layer=3][trans_c cross time=150]
 
 *11032|
 [fc]
-それを見て女の人は頷き、グッタリと横たわっている[r]
-女の子に顔を戻した。[pcms]
+Seeing that, the woman nodded and turned her gaze back to[r]
+the girl lying limp.[pcms]
 
 [ChrSetEx layer=4 chbase="koba_n12"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *11033|
 [fc]
 [vo_kob s="koba0198"]
-[ns]小林[nse]
-「このこ、じつはなかまなんじゃないの？」[pcms]
+[ns]Kobayashi[nse]
+"Could this girl actually be one of them?"[pcms]
 
 *11034|
 [fc]
-ユウがまだ気絶したままの女の子を、無表情で見下ろ[r]
-して、ボソッと呟いた。[pcms]
+Yuu muttered emotionlessly as he looked down at the still[r]
+unconscious girl.[pcms]
 
 *11035|
 [fc]
-[ns]大倉[nse]
-「仲間？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"One of them?"[pcms]
 
 *11036|
 [fc]
 [vo_kob s="koba0199"]
-[ns]小林[nse]
-「あの、あたまのおかしいひとたちの、だよ。だって[r]
-　へんでしょ？　きゅうにあばれだしたりしてさ」[pcms]
+[ns]Kobayashi[nse]
+"Yeah, those crazy people. It's strange, isn't it? Suddenly[r]
+starting to rage like that."[pcms]
 
 *11037|
 [fc]
-[ns]大倉[nse]
-「まぁ、な……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Well, yeah..."[pcms]
 
 *11038|
 [fc]
-確かに俺も、もしかしたら、とは思ってたけど……。[pcms]
+I had thought maybe that was the case too...[pcms]
 
 *11039|
 [fc]
-けど、今までに見たイカレ野郎は、この子みたいにメ[r]
-チャクチャに暴れたりしてなかったし、ハッキリ喋っ[r]
-たりもしなかった……。[pcms]
+But none of the crazies we've seen before acted wildly like[r]
+this girl or spoke clearly...[pcms]
 
 *11040|
 [fc]
-ヤツらがやってたことと言えば、レイプか……思い出[r]
-したくねーけど、食うかしかなかった気がする……。[pcms]
+All they did was rape... I don't want to remember it, but it[r]
+seems like that's all they were interested in...[pcms]
 
 *11041|
 [fc]
-第一、アイツらはどいつもこいつも、見た目がもうヤ[r]
-バかった……。[pcms]
+First of all, every single one of them looked obviously[r]
+deranged...[pcms]
 
 *11042|
 [fc]
-この子は違う……。[r]
-見た目は別におかしくないし、暴れ出すまでは大人し[r]
-い、普通の女の子だったしな……。[pcms]
+This girl is different... She doesn't look odd on the[r]
+outside, and until she started raging, she was a quiet,[r]
+normal girl...[pcms]
 
 [ChrSetEx layer=4 chbase="koba_n04"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *11043|
 [fc]
 [vo_kob s="koba0200"]
-[ns]小林[nse]
-「おいていったほうがいいよ、このこ」[pcms]
+[ns]Kobayashi[nse]
+"We should leave this girl behind."[pcms]
 
 *11044|
 [fc]
-[ns]大倉[nse]
-「バカ言ってんじゃねーよ。こんなトコに女の子１人、[r]
-　置いてけるかよ」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Don't be stupid. How can we leave a girl alone in a place[r]
+like this?"[pcms]
 
 *11045|
 [fc]
 [vo_kob s="koba0201"]
-[ns]小林[nse]
-「あたまのおかしいひとみたいに、ボクたちをおそっ[r]
-　てきたらどうするの？　かみつこうとしてきたら？」[pcms]
+[ns]Kobayashi[nse]
+"What if she attacks us like those crazy people? What if she[r]
+tries to bite us?"[pcms]
 
 *11046|
 [fc]
-[ns]大倉[nse]
-「そうなったらしょーがねーけど……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"If that happens, then there's no helping it..."[pcms]
 
 [ChrSetEx layer=4 chbase="koba_n05"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *11047|
 [fc]
 [vo_kob s="koba0202"]
-[ns]小林[nse]
-「ノロイだよ……なにかのノロイなんだよ、これ……」[pcms]
+[ns]Kobayashi[nse]
+"It's a curse... This has to be some kind of curse..."[pcms]
 
 *11048|
 [fc]
-[ns]大倉[nse]
-「……何だって？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"...What are you talking about?"[pcms]
 
 *11049|
 [fc]
 [vo_kob s="koba0203"]
-[ns]小林[nse]
-「あのひとたちにさわられたり、かまれたりすると、[r]
-　なにかがのりうつるんだ……」[pcms]
+[ns]Kobayashi[nse]
+"If you're touched or bitten by those people, something gets[r]
+transmitted..."[pcms]
 
 *11050|
 [fc]
-[ns]大倉[nse]
-「オイオイ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Oi, oi..."[pcms]
 
 *11051|
 [fc]
 [vo_kob s="koba0204"]
-[ns]小林[nse]
-「そうだよ……あのひとたち、なにかにしはいされて[r]
-　るんだよ……うちゅうからとんでくる、ミミズみた[r]
-　いなかたちしたでんぱとか……」[pcms]
+[ns]Kobayashi[nse]
+"That's right... Those people are being controlled by[r]
+something... like radio waves shaped like worms flying in[r]
+from space..."[pcms]
 
 *11052|
 [fc]
-いよいよトンデモないことになってきたユウの話に、[r]
-俺はゲンナリして、途中で話を止めさせた。[pcms]
+Feeling utterly disheartened by Yuu's increasingly absurd[r]
+story, I cut him off mid-sentence.[pcms]
 
 *11053|
 [fc]
-[ns]大倉[nse]
-「ユウ……頼むからシッカリしてくれ。んなこと言っ[r]
-　てる場合じゃねーだろ？　どうせするんなら、もう[r]
-　ちょっとマシな想像してくれよ」[pcms]
+[ns]Ookura[nse]
+"Yuu... please get a grip. Now's not the time for such talk.[r]
+If you're going to imagine something, at least make it[r]
+somewhat believable."[pcms]
 
 [ChrSetEx layer=4 chbase="koba_n04"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *11054|
 [fc]
 [vo_kob s="koba0205"]
-[ns]小林[nse]
-「ボクがまちがってるって、どうしていえるの？　ヒ[r]
-　ロがただしいって、だれがほしょうしてくれるの？」[pcms]
+[ns]Kobayashi[nse]
+"How can you say I'm wrong? Who can guarantee that you're[r]
+right, Hiro?"[pcms]
 
 *11055|
 [fc]
-[ns]大倉[nse]
-「オマエな……もしかして、あの子が自分のこと避け[r]
-　てるから、それで置いてこうとか言ってんじゃねー[r]
-　のか？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"You know... could it be that you want to leave her because[r]
+she's avoiding you?"[pcms]
 
 [ChrSetEx layer=4 chbase="koba_n03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *11056|
 [fc]
 [vo_kob s="koba0206"]
-[ns]小林[nse]
-「いまかんけいないじゃん、そんなこと！」[pcms]
+[ns]Kobayashi[nse]
+"That's irrelevant right now!"[pcms]
 
 *11057|
 [fc]
-[ns]大倉[nse]
-「オマエのくだらねーオカルト妄想の方が、もっと関[r]
-　係無ぇっつーの！　なんなんだよ、ミミズの形した[r]
-　電波ってよ」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Your ridiculous occult fantasies are even more irrelevant![r]
+What the hell are 'worm-shaped radio waves' anyway?"[pcms]
 
 *11058|
 [fc]
-[ns]大倉[nse]
-「だいたい、疑ってんのはあの子の方だと思うぜ？[r]
-　俺らが頭のイカレた野郎じゃねーかってな」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Besides, I think it's the girl who's suspicious of us. She[r]
+probably thinks we're the crazy ones."[pcms]
 
 [ChrSetEx layer=4 chbase="koba_n04"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *11059|
 [fc]
 [vo_kob s="koba0207"]
-[ns]小林[nse]
-「なんでボクらが、あんなのといっしょなの！？」[pcms]
+[ns]Kobayashi[nse]
+"Why are we being lumped in with those things!?"[pcms]
 
 *11060|
 [fc]
-[ns]大倉[nse]
-「あの子、多分、ずっと１人でアイツらから逃げてた[r]
-　んだよ。周りにいるヤツが全員、頭のイカレた野郎[r]
-　だったんだ。疑い深くなってもしょーがねーよ」[pcms]
+[ns]Ookura Hiroshi[nse]
+"That girl, she's probably been running away from them all[r]
+by herself. Everyone around her was a madman. It's no wonder[r]
+she's become so distrustful."[pcms]
 
 *11061|
 [fc]
-[ns]大倉[nse]
-「多少マトモに見えるけど、もしかしたらコイツらも[r]
-　同じかもしれないって、急に怖くなったんじゃねー[r]
-　のかな」[pcms]
+[ns]Ookura Hiroshi[nse]
+"She might look somewhat sane, but suddenly she got scared[r]
+thinking maybe we're the same as them."[pcms]
 
 [ChrSetEx layer=4 chbase="koba_n03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *11062|
 [fc]
 [vo_kob s="koba0208"]
-[ns]小林[nse]
-「だからってあばれたり、ひとをなぐったりしていい[r]
-　ことにはならないじゃん！！」[pcms]
+[ns]Kobayashi[nse]
+"But that doesn't give her the right to go berserk and hit[r]
+people!!"[pcms]
 
 *11063|
 [fc]
-[ns]大倉[nse]
-「いや、そりゃそーだけどさ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Yeah, I get that, but..."[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 [ChrSetEx layer=2 chbase="anza_n06"][ChrSetXY layer=2 x=0 y=0]
@@ -530,88 +523,88 @@
 *11064|
 [fc]
 [vo_anz s="anzai0121"]
-[ns]女[nse]
-「いい加減にして。今はつまらないことで言い争いを[r]
-　している時ではないでしょう？」[pcms]
+[ns]Female[nse]
+"Enough already. Now is not the time for pointless[r]
+arguments."[pcms]
 
 [ChrSetEx layer=2 chbase="anza_n05"][ChrSetXY layer=2 x=0 y=0][trans_c cross time=150]
 
 *11065|
 [fc]
 [vo_anz s="anzai0122"]
-[ns]女[nse]
-「それに、どっちにしろ、医師に診せなければならな[r]
-　いから、この子は連れて行きます。いいわね？」[pcms]
+[ns]Female[nse]
+"Besides, we need to get her to a doctor regardless, so I'm[r]
+taking this child with us. Okay?"[pcms]
 
 [chara_int_ layer=2][chara_int_ layer=3][trans_c cross time=150]
 
 *11066|
 [fc]
-有無を言わせない調子で女の人にそう言い切られて、[r]
-ユウは思いっきり不機嫌そうな顔を見せて、そっぽを[r]
-向いた。[pcms]
+With an authoritative tone, the woman declared this and Yuu,[r]
+looking extremely displeased, turned away.[pcms]
 
 [ChrSetEx layer=3 chbase="nanasi_n05"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
 
 *11067|
 [fc]
 [vo_mob s="girl0013"]
-[ns]少女[nse]
-「ぅ……」[pcms]
+[ns]Girl[nse]
+"Ugh..."[pcms]
 
 *11068|
 [fc]
-俺とユウが喚いている間に、気絶から目を覚ましてい[r]
-たらしく、女の子が頭を持ち上げようとしていた。[pcms]
+While Yuu and I were arguing, the girl seemed to have woken[r]
+up from her faint and was trying to lift her head.[pcms]
 
 [ChrSetEx layer=2 chbase="anza_n08"][ChrSetXY layer=2 x=0 y=0][trans_c cross time=150]
 
 *11069|
 [fc]
 [vo_anz s="anzai0123"]
-[ns]女[nse]
-「駄目よ、まだ動いては」[pcms]
+[ns]Female[nse]
+"No, you shouldn't move yet."[pcms]
 
 *11070|
 [fc]
-もう一度横にさせようと、両肩に手をかけた女の人に、[r]
-彼女は大きく目を見開いた。[pcms]
+The woman tried to lay her down again by placing her hands[r]
+on her shoulders, and the girl's eyes widened in alarm.[pcms]
 
 [ChrSetEx layer=3 chbase="nanasi_n03"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
 
 *11071|
 [fc]
 [vo_mob s="girl0014"]
-[ns]少女[nse]
-「ひっ……！！」[pcms]
+[ns]Girl[nse]
+"Hii...!!"[pcms]
 
 [chara_int_ layer=2][chara_int_ layer=3][trans_c cross time=150]
 
 *11072|
 [fc]
-彼女は女の人を突き飛ばして、床を這うようにして、[r]
-俺らから必死に遠ざかろうとし始めた。[pcms]
+The girl pushed the woman away and started crawling on the[r]
+floor, desperately trying to get away from us.[pcms]
 
 [ChrSetEx layer=4 chbase="anza_n08"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *11073|
 [fc]
 [vo_anz s="anzai0124"]
-[ns]女[nse]
-「駄目よ、安静にしていなきゃ！」[pcms]
+[ns]Female[nse]
+"No good, you need to stay calm!"[pcms]
 
 *11074|
 [fc]
 [vo_mob s="girl0015"]
-[ns]少女[nse]
-「ハッ……ハッ……」[pcms]
+[ns]Girl[nse]
+"Hah... Hah..."[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *11075|
 [fc]
-呼吸を荒くして、怯えた顔で俺らを見回し、小刻みに[r]
-震えている彼女に、女の人がゆっくりと近づいていく。[pcms]
+Breathing heavily and looking around at us with a frightened[r]
+face, the girl was trembling as the woman slowly approached[r]
+her.[pcms]
 
 [ChrSetEx layer=2 chbase="anza_n08"][ChrSetXY layer=2 x=0 y=0]
 [ChrSetEx layer=3 chbase="nanasi_n05"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
@@ -619,15 +612,15 @@
 *11076|
 [fc]
 [vo_anz s="anzai0125"]
-[ns]女[nse]
-「大丈夫よ、もう乱暴なことはしないわ。気分はどう？[r]
-　吐き気とか、頭痛はする？」[pcms]
+[ns]Female[nse]
+"It's okay, no one will hurt you anymore. How do you feel?[r]
+Do you feel nauseous or have a headache?"[pcms]
 
 *11077|
 [fc]
 [vo_mob s="girl0016"]
-[ns]少女[nse]
-「……ごめんなさい……アタシ……」[pcms]
+[ns]Girl[nse]
+"...I'm sorry... I..."[pcms]
 ;//◎泣きながら
 
 [ChrSetEx layer=2 chbase="anza_n02"][ChrSetXY layer=2 x=0 y=0][trans_c cross time=150]
@@ -635,226 +628,223 @@
 *11078|
 [fc]
 [vo_anz s="anzai0126"]
-[ns]女[nse]
-「いいのよ、大丈夫」[pcms]
+[ns]Female[nse]
+"It's alright, you're safe."[pcms]
 
 *11079|
 [fc]
 [vo_mob s="girl0017"]
-[ns]少女[nse]
-「アタシ……からだが……どうして……？　じぶんの[r]
-　じゃないみたいに……」[pcms]
+[ns]Girl[nse]
+"My body... why...? It doesn't feel like mine..."[pcms]
 ;//◎泣きながら
 
 *11080|
 [fc]
 [vo_mob s="girl0018"]
-[ns]少女[nse]
-「ほんとにごめんなさい……アタシ……たたくつもり[r]
-　なんかなかったの……おねがい、しんじて……」[pcms]
+[ns]Girl[nse]
+"I'm really sorry... I didn't mean to hit... please believe[r]
+me..."[pcms]
 
 *11081|
 [fc]
 [vo_may s="maya0087"]
-[ns]お嬢様[nse]
-「別に気にしてないから……」[pcms]
+[ns]Young Lady[nse]
+"I'm not worried about it..."[pcms]
 
 *11082|
 [fc]
 [vo_mob s="girl0019"]
-[ns]少女[nse]
-「ごめ……ごめんなさい……」[pcms]
+[ns]Girl[nse]
+"I'm sorry... I'm so sorry..."[pcms]
 
 [chara_int_ layer=2][chara_int_ layer=3][trans_c cross time=150]
 
 *11083|
 [fc]
-女の子は涙を流して、喉を詰まらせながら、よくわか[r]
-らないことを言い出した。[pcms]
+The girl started babbling incomprehensibly through her tears[r]
+and choked up voice.[pcms]
 
 *11084|
 [fc]
-頭打ったせいかな……。[r]
-けど、体が自分のものじゃないみたいって……。[pcms]
+I wondered if it was because she hit her head... But feeling[r]
+like her body wasn't her own...[pcms]
 
 *11085|
 [fc]
-俺は彼女の言葉に、さっきユウが言ってたことを思い[r]
-出していた。[pcms]
+Her words reminded me of what Yuu had said earlier.[pcms]
 
 *11086|
 [fc]
-まさかとは思うけど……。[r]
-ホントに、何かの呪いなのか……？[r]
-いや、そんなワケねーよな……。[pcms]
+It was a stretch but... could it really be some kind of[r]
+curse? No, that can't be right...[pcms]
 
 *11087|
 [fc]
-盗み見るようにユウに目を向けると、恨みがましい目[r]
-つきをして、泣き続けている女の子を睨んでいた。[pcms]
+I glanced at Yuu as if stealing a look; he was glaring at[r]
+the crying girl with a resentful expression.[pcms]
 
 *11088|
 [fc]
-こんな状況だし、体も心も疲れてるし……。[r]
-だからユウもあの子も、ちょっと不安定になってるん[r]
-だろ……。[pcms]
+We're all tired, both physically and mentally in this[r]
+situation... That must be why Yuu and the girl are both a[r]
+bit unstable...[pcms]
 
 *11089|
 [fc]
-そりゃイキナリこんな状況に放り出されたら、誰だっ[r]
-て不安定になるよな……。[pcms]
+Anyone would become unstable if suddenly thrown into a[r]
+situation like this...[pcms]
 
 *11090|
 [fc]
-とっとと速水を助けてココを出ねーと、俺もどうにか[r]
-なりそうだ……。[pcms]
+We need to rescue Hayami quickly and get out of here before[r]
+I lose it too...[pcms]
 
 *11091|
 [fc]
-[ns]大倉[nse]
-「ふーっ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"*sigh*..."[pcms]
 
 *11092|
 [fc]
-気分を変えたくて、ポケットからケータイを取り出し、[r]
-速水にかけてみるが、アイツに繋がることはなかった。[pcms]
+I took out my phone from my pocket wanting a change of pace[r]
+and tried calling Hayami, but I couldn't get through to her.[pcms]
 
 *11093|
 [fc]
-[ns]大倉[nse]
-「ダメか……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"No good, huh..."[pcms]
 
 *11094|
 [fc]
-早く助けてやるために、自分１人で行きたかったが、[r]
-まだ泣いている女の子を見て、やっぱりダメだと俺は[r]
-考えを変えた。[pcms]
+I wanted to go alone to save her quickly, but seeing the[r]
+girl still crying, I changed my mind and decided it was no[r]
+good.[pcms]
 
 *11095|
 [fc]
-あそこまでやって、やっと止められたんだ……。[r]
-あの子がまた暴れ出した時、他のみんなじゃ止[r]
-めるのはムリだ……。[pcms]
+After all that effort to stop her... If she starts rampaging[r]
+again, the others won't be able to stop her...[pcms]
 
 *11096|
 [fc]
-女の人やお嬢様はもちろんムリだろうし、ユウもなん[r]
-か頼りねーし……。[pcms]
+Ladies and young misses are out of the question, and Yuu[r]
+doesn't seem reliable either...[pcms]
 
 *11097|
 [fc]
-やっぱり、全員一緒に動いた方がいいな……。[pcms]
+It's best if we all move together after all...[pcms]
 
 [ChrSetEx layer=4 chbase="anza_n08"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *11098|
 [fc]
 [vo_anz s="anzai0127"]
-[ns]女[nse]
-「ねえ、まだ１人で助けに行こうと思ってるの？」[pcms]
+[ns]Female[nse]
+"Hey, are you still thinking of going to save her by[r]
+yourself?"[pcms]
 
 *11099|
 [fc]
-泣きやんだ女の子の背中をさすりながら、女の人が聞[r]
-いてくるのに、俺は首を横に振って返した。[pcms]
+While rubbing the back of the girl who had stopped crying,[r]
+the woman asked me, and I shook my head in response.[pcms]
 
 *11100|
 [fc]
 [vo_anz s="anzai0128"]
-[ns]女[nse]
-「そう……だったら、屋上に行ってみない？」[pcms]
+[ns]Female[nse]
+"I see... Then, shall we go up to the rooftop?"[pcms]
 
 *11101|
 [fc]
-[ns]大倉[nse]
-「屋上、ですか？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"The rooftop?"[pcms]
 
 [ChrSetEx layer=4 chbase="anza_n01"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *11102|
 [fc]
 [vo_anz s="anzai0129"]
-[ns]女[nse]
-「街の様子を見てみたいの。もしかしたら、救助が始[r]
-　まってるかもしれないし」[pcms]
+[ns]Female[nse]
+"I want to see what the city looks like. Maybe rescue[r]
+operations have started."[pcms]
 
 *11103|
 [fc]
 [vo_anz s="anzai0130"]
-[ns]女[nse]
-「それに、向こうの建物に行く方法も、何か思いつく[r]
-　かもしれないわ。……と言っても、希望的観測だけ[r]
-　れど」[pcms]
+[ns]Female[nse]
+"Besides, we might come up with a way to get to the other[r]
+building... though I'm just being hopeful."[pcms]
 
 *11104|
 [fc]
-[ns]大倉[nse]
-「希望的観測、か……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Hopeful, huh..."[pcms]
 
 *11105|
 [fc]
-１人で行って速水を助けるってのも、俺の勝手な希望[r]
-的観測だよな……。[pcms]
+Going alone to save Hayami is also just my wishful[r]
+thinking...[pcms]
 
 *11106|
 [fc]
-さっきは１階から向こうのビルに行くって思わず言っ[r]
-たけど、よく考えてみりゃ、向こうのシャッターも閉[r]
-まってるんだよな……。[pcms]
+I blurted out earlier about going to the building across[r]
+from the first floor, but on second thought, the shutters[r]
+over there are closed too...[pcms]
 
 [ChrSetEx layer=4 chbase="anza_n03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *11107|
 [fc]
-向こうのビルのシャッターを開けられず、イカレ集団[r]
-に囲まれる自分を想像して顔をしかめる俺を、女の人[r]
-は苦笑いしながら見ていた。[pcms]
+The woman watched me grimace as I imagined myself surrounded[r]
+by a crazy group, unable to open the shutters of the other[r]
+building, and she gave a wry smile.[pcms]
 
 *11108|
 [fc]
-[ns]大倉[nse]
-「え……？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Eh...?"[pcms]
 
 *11109|
 [fc]
 [vo_anz s="anzai0131"]
-[ns]女[nse]
-「わたしの彼と一緒ね。あのひとも考え事しながら、[r]
-　こんなの希望的観測だな、って言うの。そうなった[r]
-　らもう、飽きるまで考え事をして黙ってしまうの」[pcms]
+[ns]Female[nse]
+"You're just like my boyfriend. He also ponders and says[r]
+things like 'this is just wishful thinking.' Then he'll just[r]
+keep thinking until he gets tired and goes silent."[pcms]
 
 [ChrSetEx layer=4 chbase="anza_n01"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *11110|
 [fc]
 [vo_anz s="anzai0132"]
-[ns]女[nse]
-「２人で食事をしている時もやるのよ。男の人って、[r]
-　みんなそうなのかしら……」[pcms]
+[ns]Female[nse]
+"He does it even when we're eating together. I wonder if all[r]
+men are like that..."[pcms]
 
 *11111|
 [fc]
-[ns]大倉[nse]
-「へぇ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Huh..."[pcms]
 
 *11112|
 [fc]
-いつも冷静な感じの女の人が、思わずこぼしたグチが[r]
-なんでか微笑ましくて、俺は小さく笑ってしまった。[pcms]
+The usually calm woman let out a complaint unexpectedly, and[r]
+for some reason, it felt endearing, making me chuckle[r]
+softly.[pcms]
 
 *11113|
 [fc]
 [vo_anz s="anzai0133"]
-[ns]女[nse]
-「ごめんなさい。さあ、もう行きましょう」[pcms]
+[ns]Female[nse]
+"Sorry about that. Now, let's get going."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *11114|
 [fc]
-言うつもりのなかったグチに恥ずかしくなったのか、[r]
-ごまかすように笑って立ち上がった女の人に、俺はう[r]
-なずいて返した。[pcms]
+Feeling embarrassed about the complaint she hadn't intended[r]
+to make, the woman laughed it off and stood up, and I nodded[r]
+back at her.[pcms]
 
 [fadeoutbgm time=1000]
 [stop_se0]
@@ -864,4 +854,4 @@
 
 [jump storage="westtown_main10251.ks" target=*westtown_main10251_TOP]
 
-;//－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+;//

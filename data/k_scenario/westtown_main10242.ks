@@ -26,45 +26,44 @@
 
 *10971|
 [fc]
-何がおかしいのか、女の子は高笑いしながら、メチャ[r]
-クチャに手を振り、動物たちが暴れて音を立ててる檻[r]
-の方へ、フラフラと歩いていく。[pcms]
+Laughing loudly, the girl waved her hands wildly and[r]
+staggered towards the cages where the animals were making a[r]
+ruckus.[pcms]
 
 *10972|
 [fc]
-あの子、どうしちまったんだ……？[r]
-急に笑い出して、お嬢様ブッ叩いたりして……。[r]
-面倒見てくれてた女の人まで突き飛ばすし……。[pcms]
+What happened to that girl...? She suddenly started laughing[r]
+and even hit the young lady... She even pushed away the[r]
+woman who was taking care of her...[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
 *10973|
 [fc]
-ケータイの着信音は、まだ鳴らされ続けている。[r]
-途中で切れないということは、多分、普通に使えるよ[r]
-うになったんだろう。[pcms]
+The ringtone of the cell phone is still going off. Since it[r]
+hasn't stopped, it probably means it's working normally now.[pcms]
 
 *10974|
 [fc]
-ケータイ使えるようになったんなら、速水にはあとで[r]
-かけ直そう……。[pcms]
+If the cell phone is working now, I'll call Hayami back[r]
+later...[pcms]
 
 *10975|
 [fc]
-今はとりあえず、あの子をなんとかしないと……。[pcms]
+For now, I have to do something about that girl...[pcms]
 
 *10976|
 [fc]
-[ns]大倉[nse]
-「ユウも来い！　あの子を止める！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Yuuki, come too! We need to stop her!"[pcms]
 
 [ChrSetEx layer=4 chbase="koba_n03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *10977|
 [fc]
 [vo_kob s="koba0194"]
-[ns]小林[nse]
-「う、うん……」[pcms]
+[ns]Kobayashi[nse]
+"Y-Yeah..."[pcms]
 
 [stop_se0]
 [chara_int_ layer=4][trans_c cross time=150]
@@ -72,41 +71,41 @@
 
 *10978|
 [fc]
-彼女を追って短い通路を走り、エスカレーターの所を[r]
-左に曲がると、女の子が動物たちが入った檻や、売り[r]
-物が置いてある棚をブッ叩きながら歩いていた。[pcms]
+Chasing after her through a short corridor and turning left[r]
+at the escalator, I saw the girl hitting cages with animals[r]
+in them and shelves with merchandise as she walked.[pcms]
 
 *10979|
 [fc]
-[ns]大倉[nse]
-「オイ！！　やめ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Hey!! Stop..."[pcms]
 
 *10980|
 [fc]
-[ns]犬[nse]
-「ウ゛ァア゛ウク゛ァッ！！」[pcms]
+[ns]Dog[nse]
+"Woof! Grrr!!"[pcms]
 
 *10981|
 [fc]
-[ns]大倉[nse]
-「おわっ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Whoa!!"[pcms]
 
 *10982|
 [fc]
-彼女に声をかけようとした瞬間、檻の中から突然伸び[r]
-てきた犬の前足を、俺は飛び退いて避け、左手にあっ[r]
-た棚に激突して止まった。[pcms]
+Just as I was about to call out to her, I dodged a dog's paw[r]
+that suddenly reached out from a cage, and stopped by[r]
+crashing into a shelf with my left hand.[pcms]
 
 *10983|
 [fc]
-[ns]大倉[nse]
-「イッテェ～……！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Ouch...!!"[pcms]
 
 *10984|
 [fc]
-ぶつかって赤くなった腕をさすり、吠え続ける犬を恨[r]
-みがましい目で睨んでから、俺は彼女を止めにかかっ[r]
-ているユウに加勢するために走った。[pcms]
+Rubbing my arm that turned red from the collision and[r]
+glaring resentfully at the barking dog, I ran to help Yuuki[r]
+who was trying to stop her.[pcms]
 
 ;//♪：bgm011 fadeout
 [fadeoutbgm time=1000]
@@ -138,4 +137,4 @@
 
 [jump storage="westtown_main10244.ks" target=*westtown_main10244_TOP]
 
-;//－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+;//

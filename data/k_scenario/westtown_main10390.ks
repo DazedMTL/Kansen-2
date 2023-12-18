@@ -15,8 +15,8 @@
 
 *12168|
 [fc]
-ウロつくイカレ野郎の間をすり抜けて、俺らは無事に[r]
-エスカレーターに辿り着き、３階へと駆け下りた。[pcms]
+We slipped through the crowd of crazed guys and safely made[r]
+it to the escalator, rushing down to the third floor.[pcms]
 
 ;//♪：bgm011 stop
 [fadeoutbgm time=1][wb]
@@ -34,41 +34,41 @@
 
 *12169|
 [fc]
-[ns]大倉[nse]
-「……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"..."[pcms]
 
 *12170|
 [fc]
-そこに拡がっていた光景に、俺は言葉を失った。[pcms]
+The scene that unfolded before me left me at a loss for[r]
+words.[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
 *12171|
 [fc]
-多分、渡り廊下から出てきたヤツらだろう。[r]
-まるで休日のデパートのように、３階は頭のイカレた[r]
-ヤツらで混雑していた。[pcms]
+They were probably the ones who came out of the corridor.[r]
+The third floor was as crowded with deranged people as a[r]
+department store on a holiday.[pcms]
 
 *12172|
 [fc]
-こんな数、相手にすんのか……？[r]
-武器持ったからって、なんとかなんのかよコレ……。[pcms]
+Can we really take on this many...? Even with weapons, can[r]
+we really handle this...?[pcms]
 
 *12173|
 [fc]
-いや……。[r]
-速水を助けるには、嫌でもあの渡り廊下を通らなきゃ[r]
-ならねーんだ……。[pcms]
+No... To save Hayami, I have no choice but to go through[r]
+that corridor...[pcms]
 
 *12174|
 [fc]
-やるしかねー……！！[pcms]
+I have to do it...!![pcms]
 
 *12175|
 [fc]
-一瞬、萎えそうになった心を、速水を助けるって使命[r]
-感で立ち直らせて、俺はエスカレーターを２階へと駆[r]
-け下りた。[pcms]
+For a moment, my spirit nearly wilted, but I revived it with[r]
+a sense of mission to save Hayami and rushed down the[r]
+escalator to the second floor.[pcms]
 
 ;//[fadeoutbgm time=502]
 ;//[stop_se0]
@@ -79,4 +79,4 @@
 
 [jump storage="westtown_main10400.ks" target=*westtown_main10400_TOP]
 
-;//－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+;//

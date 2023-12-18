@@ -24,218 +24,219 @@
 
 *5019|
 [fc]
-『４』、『３』と、階数表示を順番に点灯させながら、[r]
-エレベーターは下へ降りていく。[pcms]
+"The elevator lights up the floor numbers '4', '3' in[r]
+sequence as it descends."[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_n03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *5020|
 [fc]
 [vo_may s="maya0363"]
-[ns]摩耶[nse]
-「良かったの……恋人、だったんでしょう……」[pcms]
+[ns]Maya[nse]
+"Thank goodness... You were lovers, weren't you...?"[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
 *5021|
 [fc]
-突然、マヤちゃんに聞かれ、俺は意味がわからなくて、[r]
-彼女にキョトンとした顔を向けた。[pcms]
+Suddenly asked by Maya-chan, I was confused and turned to[r]
+her with a puzzled look.[pcms]
 
 *5022|
 [fc]
-[ns]大倉[nse]
-「恋人……？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Lovers...?"[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_f04"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *5023|
 [fc]
 [vo_may s="maya0364"]
-[ns]摩耶[nse]
-「だって、あの人……ヒロシと……する、って……」[pcms]
+[ns]Maya[nse]
+"Because that person... said she wanted to... do it with[r]
+Hiroshi..."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *5024|
 [fc]
-言いにくそうに言って、マヤちゃんは少し赤くなって[r]
-うつむき、俺から顔を逸らした。[pcms]
+Maya-chan said hesitantly, her face turning a bit red as she[r]
+looked down and away from me.[pcms]
 
 *5025|
 [fc]
-そう言えばアイツ、俺とエッチするとかなんとか[r]
-言ってたな……。[pcms]
+Now that I think about it, she did say something about[r]
+wanting to have sex with me...[pcms]
 
 *5026|
 [fc]
-似たようなコトは、普段から言ってたけどな……。[r]
-マヤちゃんはそれ知らないから……。[pcms]
+She would often say similar things normally... But Maya-chan[r]
+doesn't know that...[pcms]
 
 *5027|
 [fc]
-みんな無事に助かって、坂田に帰るコトができてたら、[r]
-マヤちゃんもきっと、アイツがそういうヤツだって、[r]
-知るコトができたはずだ……。[pcms]
+If everyone had been saved and we could have returned to[r]
+Sakata, Maya-chan would surely have realized that's just how[r]
+she was...[pcms]
 
 *5028|
 [fc]
-アイツが無事な内に、俺が助けてやれてたら……。[pcms]
+If only I could have saved her while she was still safe...[pcms]
 
 *5029|
 [fc]
-[ns]大倉[nse]
-「……いや、カノジョじゃないよ。親友だとは思って[r]
-　るけどね」[pcms]
+[ns]Ookura Hiroshi[nse]
+"...No, she wasn't my girlfriend. I thought of her as a[r]
+close friend, though."[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_f04"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *5030|
 [fc]
 [vo_may s="maya0365"]
-[ns]摩耶[nse]
-「そう、なの……」[pcms]
+[ns]Maya[nse]
+"Is that so...?"[pcms]
 
 *5031|
 [fc]
-[ns]大倉[nse]
-「親友でも、カノジョでも、ああなっちまったら、[r]
-　俺らじゃどうするコトもできない」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Even if she was a close friend or a girlfriend, once it[r]
+came to this, there was nothing we could do."[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_f02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *5032|
 [fc]
-[ns]大倉[nse]
-「病院に連れてくのもムリだ。こっちの体にまで、[r]
-　ウイルスがうつるからな……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"It's impossible to take her to the hospital. The virus[r]
+could spread to our bodies too..."[pcms]
 
 *5033|
 [fc]
-[ns]大倉[nse]
-「まだ無事でいるマヤちゃんだけは、絶対に助けたい[r]
-　んだ。最後に残った友達だから、さ」[pcms]
+[ns]Ookura[nse]
+"I definitely want to save Maya-chan, who is still safe.[r]
+She's the last friend I have left, after all."[pcms]
 
 *5034|
 [fc]
 [vo_may s="maya0366"]
-[ns]摩耶[nse]
-「……」[pcms]
+[ns]Maya[nse]
+"..."[pcms]
 
 *5035|
 [fc]
-[ns]大倉[nse]
-「だから、ああするしかなかった、と思う」[pcms]
+[ns]Ookura Hiroshi[nse]
+"That's why I think there was no other choice but to do[r]
+that."[pcms]
 
 *5036|
 [fc]
-エレベーターの階数表示は、『１』を点灯させたまま[r]
-動かないでいる。[pcms]
+The elevator's floor indicator stays lit on '1' without[r]
+moving.[pcms]
 
 *5037|
 [fc]
-そのまま、エレベーターの中にいてくれ……。[r]
-ビルの中をウロついてるよりも、イカレ野郎に狙われ[r]
-る確率は低いだろ……。[pcms]
+Please stay in the elevator... It's less likely to be[r]
+targeted by crazies than wandering around the building.[pcms]
 
 *5038|
 [fc]
-酷い目に遭う確率も、多分、低いはずだ……。[pcms]
+The chances of encountering something terrible are probably[r]
+lower too...[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_f05"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *5039|
 [fc]
 [vo_may s="maya0367"]
-[ns]摩耶[nse]
-「ごめんなさい……私のために……」[pcms]
+[ns]Maya[nse]
+"I'm sorry... for your sake..."[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_n03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *5040|
 [fc]
-悲しそうな顔をして、見上げてくるマヤちゃんに、[r]
-俺は首を横に振り、笑ってみせた。[pcms]
+Maya-chan looked up at me with a sad face, and I shook my[r]
+head and smiled at her.[pcms]
 
 *5041|
 [fc]
-[ns]大倉[nse]
-「アイツら助けんの、まだ諦めたワケじゃないよ。[r]
-　ココを出て、救助隊を探して、一緒に来てもらおう[r]
-　と思ってんだ」[pcms]
+[ns]Ookura Hiroshi[nse]
+"I haven't given up on saving them yet. Once we get out of[r]
+here, I plan to look for a rescue team and bring them back[r]
+with us."[pcms]
 
 *5042|
 [fc]
 [vo_may s="maya0368"]
-[ns]摩耶[nse]
-「そう……」[pcms]
+[ns]Maya[nse]
+"Really..."[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *5043|
 [fc]
-[ns]大倉[nse]
-「ただ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"But..."[pcms]
 
 *5044|
 [fc]
-出入り口から見える、屋上をウロついてる何人もの[r]
-イカレ野郎に、俺は目を向けた。[pcms]
+I looked at the crazies roaming the rooftop visible from the[r]
+entrance.[pcms]
 
 *5045|
 [fc]
-[ns]大倉[nse]
-「それをやろうと思ったら、あの中を通ってかなきゃ[r]
-　なんねー」[pcms]
+[ns]Ookura Hiroshi[nse]
+"To do that, we'll have to go through them..."[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_n07"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *5046|
 [fc]
-マヤちゃんに顔を戻すと、彼女は真面目な顔で、俺を[r]
-見つめ返してくる。[pcms]
+When I turned back to Maya-chan, she was looking at me[r]
+seriously and intently.[pcms]
 
 *5047|
 [fc]
-[ns]大倉[nse]
-「アイツら動きは遅ぇけど、とにかく数が多いから、[r]
-　気をつけてないと、すぐに囲まれちまう。[r]
-　ヘタすりゃ、俺らまでイカレ野郎の仲間入りだ」[pcms]
+[ns]Ookura Hiroshi[nse]
+"They move slow, but there are so many of them that if we're[r]
+not careful, we'll be surrounded in no time. We might end up[r]
+joining those crazies."[pcms]
 
 *5048|
 [fc]
-[ns]大倉[nse]
-「そうならないためには、動くのをやめないで、[r]
-　ずーーーっと走り続けなきゃなんない。[r]
-　正直、マヤちゃんにはキツイと思うんだ」[pcms]
+[ns]Ookura Hiroshi[nse]
+"To avoid that, we can't stop moving; we have to keep[r]
+running continuously. Honestly, I think it will be tough for[r]
+Maya-chan."[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_n03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *5049|
 [fc]
-[ns]大倉[nse]
-「だから、もしムリっぽいなら……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"So if it seems impossible..."[pcms]
 
 *5050|
 [fc]
-それまで、ずっと無言でいたマヤちゃんは、そこで首[r]
-を大きく横に振って、俺の話を遮った。[pcms]
+Maya-chan, who had been silent until then, shook her head[r]
+vigorously at this point, cutting off my words.[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_n02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *5051|
 [fc]
 [vo_may s="maya0369"]
-[ns]摩耶[nse]
-「ジョンの散歩で、たくさん走るのは慣れてる……。[r]
-　ちゃんとついてくから……」[pcms]
+[ns]Maya[nse]
+"I'm used to running a lot when walking John... I'll keep up[r]
+just fine..."[pcms]
 
 *5052|
 [fc]
-真っ直ぐな目で見つめて、ハッキリとした口調で言っ[r]
-たマヤちゃんに、俺も同じように、そして自分に言い[r]
-聞かせるように、強い調子で返した。[pcms]
+Looking straight into my eyes and speaking clearly, Maya-[r]
+chan made me respond in kind, as if reassuring myself with a[r]
+firm tone.[pcms]
 
 *5053|
 [fc]
-[ns]大倉[nse]
-「……なら、俺はマヤちゃんを守る。[r]
-　絶対、無事のまま坂田に帰ろう」[pcms]
+[ns]Ookura Hiroshi[nse]
+"...Then, I will protect Maya-chan. We'll definitely return[r]
+to Sakata safely."[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_n03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 [wait_c time=500]
@@ -243,8 +244,8 @@
 
 *5054|
 [fc]
-うなずき合って覚悟を決めて、俺らはエレベーター[r]
-ホールを出た。[pcms]
+Nodding in agreement and resolving ourselves, we left the[r]
+elevator hall.[pcms]
 
 ;//♪：bgm004 fadeout
 [fadeoutbgm time=1000]
@@ -255,4 +256,4 @@
 
 [jump storage="jingujiroute12140.ks" target=*jingujiroute12140_TOP]
 
-;//－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+;//

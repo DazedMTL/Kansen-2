@@ -22,227 +22,216 @@
 *14718|
 [fc]
 [vo_nag s="nagasaki0211"]
-[ns]千尋[nse]
-「ありす……さん……」[pcms]
+[ns]Chihiro[nse]
+"Arisu-san..."[pcms]
 ;//◎以降長崎発症。
 
 *14719|
 [fc]
 [vo_hay s="hayami0505"]
-[ns]ありす[nse]
-「…………」[pcms]
+[ns]Arisu[nse]
+"..."[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
 *14720|
 [fc]
-あたしを見つめる長崎さんの目は、まるで石ころでも[r]
-見ているようで、まるで感情がこもっていない。[pcms]
+Nagasaki-san's eyes, as she gazes at me, are like those[r]
+looking at a pebble, devoid of any emotion.[pcms]
 
 *14721|
 [fc]
-オジサンに立ち向かって行った時のような気丈さや、[r]
-あたしを優しく励ましてくれていた雰囲気は、[r]
-全く感じられなかった。[pcms]
+The fortitude she showed when confronting that man, and the[r]
+atmosphere of gently encouraging me, I couldn't feel any of[r]
+it now.[pcms]
 
 *14722|
 [fc]
-あたしが、オジサンに犯されている時も、[r]
-あんなに叫んだりしていたのに、ずっと横で眠った[r]
-ままだった。[pcms]
+Even when I was being violated by that man, despite all the[r]
+screaming, she remained asleep beside me the whole time.[pcms]
 
 *14723|
 [fc]
-それが、突然目を覚ましてあたしを助けた。[pcms]
+Then suddenly, she woke up and saved me.[pcms]
 
 *14724|
 [fc]
-目を覚ましたのは、[r]
-おそらくオジサンがイッちゃった後。[pcms]
+She probably woke up after that man had climaxed.[pcms]
 
 *14725|
 [fc]
-……。[r]
-もしかして……。[pcms]
+...Could it be...?[pcms]
 
 *14726|
 [fc]
-オジサンが無防備になるのを待っていた……？[r]
-だとしたら、あたしは囮に使われたの……？[pcms]
+Was she waiting for the man to become defenseless? If so,[r]
+was I used as bait...?[pcms]
 
 *14727|
 [fc]
-この人……あたしを利用した……！？[pcms]
+This person... did she use me...!?[pcms]
 
 *14728|
 [fc]
-……ううん……。[r]
-この人はきっと、そんな考えはしていない。[pcms]
+...No... Surely, she wouldn't think of doing such a thing.[pcms]
 
 *14729|
 [fc]
-じゃあなんで、ずっと寝ていたの……？[r]
-やっぱり何か病気にかかったの？？[pcms]
+Then why was she asleep the whole time...? Could she have[r]
+fallen ill with something??[pcms]
 
 *14730|
 [fc]
-もしかして……。[r]
-街で見た人達みたいに、突然変わっちゃうの？[pcms]
+Could it be...? Like those people we saw in town, did she[r]
+suddenly change?[pcms]
 
 *14731|
 [fc]
-でも、今の長崎さんからは、あの人達みたいな[r]
-雰囲気はなかった。[pcms]
+But from Nagasaki-san now, I didn't feel the same kind of[r]
+aura as those people.[pcms]
 
 *14732|
 [fc]
-むしろあたしを心配し、気遣ってくれているように、[r]
-落ち着いた声で話しかけてきた。[pcms]
+Rather, she spoke to me in a calm voice that seemed[r]
+concerned and caring for me.[pcms]
 
 [ChrSetEx layer=4 chbase="naga_n05"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *14733|
 [fc]
 [vo_nag s="nagasaki0212"]
-[ns]千尋[nse]
-「貴女……汚されてしまったのね……、[r]
-　この、クズに……」[pcms]
+[ns]Chihiro[nse]
+"You've been defiled... by this scum..."[pcms]
 
 *14734|
 [fc]
-つばを吐きかけるような勢いで、[r]
-倒れているオジサンにぶつけるその言葉は、[r]
-あたしの胸に深く突き刺さる。[pcms]
+The words she hurled at the fallen man with the force of[r]
+spitting were deeply piercing my heart.[pcms]
 
 *14735|
 [fc]
 [vo_hay s="hayami0506"]
-[ns]ありす[nse]
-「……！！」[pcms]
+[ns]Alice[nse]
+"...!!"[pcms]
 
 *14736|
 [fc]
-あたしは、オジサンに犯されてしまった。[r]
-汚されてしまった。[pcms]
+I was violated by that man. I was defiled.[pcms]
 
 *14737|
 [fc]
-オジサンにされた事が、まるで早送りの映像のように[r]
-頭の中を駆けめぐる。[pcms]
+The things done to me by that man raced through my mind like[r]
+fast-forwarded footage.[pcms]
 
 *14738|
 [fc]
 [vo_hay s="hayami0507"]
-[ns]ありす[nse]
-「……いやぁぁぁあぁぁあぁ！！[r]
-　あたし！　あたし……！！　オジサンに……！！[r]
-　いやぁぁあぁぁぁぁぁぁぁ！」[pcms]
+[ns]Arisu[nse]
+"...noooooo!! Me! I...!! By that man...!! Nooooooo!!"[pcms]
 
 *14739|
 [fc]
-全裸のままで、長崎さんに見つめられ、叫ぶあたし。[pcms]
+Naked and screaming, I am being stared at by Nagasaki-san.[pcms]
 
 *14740|
 [fc]
-長崎さんはあたしを見下している。[r]
-こんなところで、こんな格好で犯されたあたしを、[r]
-汚いモノを見るような目で、見下している。[pcms]
+Nagasaki-san is looking down on me. She's looking down on me[r]
+with eyes like I'm something filthy, for being violated in[r]
+such a place, in such a state.[pcms]
 
 *14741|
 [fc]
 [vo_hay s="hayami0508"]
-[ns]ありす[nse]
-「やめて！！　そんな目で……あたしを見ないで！！[r]
-　この事は……誰にも言わないで！　お願い！！[r]
-　あたし……あたし、どうしよう！！」[pcms]
+[ns]Alice[nse]
+"Stop it!! Don't look at me with those eyes!! Don't tell[r]
+anyone about this! Please!! What should I do!!"[pcms]
 
 *14742|
 [fc]
 [vo_hay s="hayami0509"]
-[ns]ありす[nse]
-「うわぁぁぁぁぁぁああん！！　もう、終わりだよ！[r]
-　あたし、もうダメ！！　いやぁぁぁぁあぁぁぁあ！」[pcms]
+[ns]Arisu[nse]
+"Uwaaaaaaah!! It's all over! I'm done for!! Nooooooo!!"[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *14743|
 [fc]
-あたしは、オジサンに犯されてしまった。[r]
-アソコは大丈夫だったけど、[r]
-初めてのセックスは、こんな酷い形だった。[pcms]
+I was violated by that man. My pussy was okay, but my first[r]
+time having sex was in such a terrible way.[pcms]
 
 *14744|
 [fc]
-最低！　最低！！　最低！！！！[pcms]
+The worst! The worst!! The worst!!![pcms]
 
 *14745|
 [fc]
-世の中の人全てが、あたしをあざ笑っている。[pcms]
+It feels like everyone in the world is laughing at me.[pcms]
 
 *14746|
 [fc]
-そんな風に思うと視界が歪み、目の前が真っ暗に[r]
-なっていく。[pcms]
+Thinking this way makes my vision warp, and everything[r]
+before me turns dark.[pcms]
 
 *14747|
 [fc]
-今のあたしの思考は悪い方ばかりに向かっている。[pcms]
+All my thoughts are currently heading in a negative[r]
+direction.[pcms]
 
 *14748|
 [fc]
-何か考えると、それは全て、[r]
-自分自身を追いつめてしまう。[pcms]
+Thinking about anything at all just ends up cornering myself[r]
+further.[pcms]
 
 *14749|
 [fc]
-もう何も考えたくない。[pcms]
+I don't want to think about anything anymore.[pcms]
 
 *14750|
 [fc]
-ただこうして泣いて、何もかも忘れるほど泣いて、[r]
-全て無かった事にしたい。[pcms]
+I just want to cry like this, cry enough to forget[r]
+everything, and pretend none of it ever happened.[pcms]
 
 [ChrSetEx layer=4 chbase="naga_n05"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *14751|
 [fc]
 [vo_nag s="nagasaki0213"]
-[ns]千尋[nse]
-「かわいそう……、手が、こんなになって……」[pcms]
+[ns]Chihiro[nse]
+"Poor thing... your hands, they're all..."[pcms]
 
 *14752|
 [fc]
 [vo_hay s="hayami0510"]
-[ns]ありす[nse]
-「……あ……」[pcms]
+[ns]Alice[nse]
+"...ah..."[pcms]
 
 *14753|
 [fc]
-長崎さんは、泣きじゃくるあたしに近寄って、[r]
-拘束されていた手を開放して、そのまま力強く、[r]
-あたしの体をソファーから引き起こした。[pcms]
+Nagasaki-san approached me as I sobbed uncontrollably,[r]
+released my restrained hands, and then strongly pulled me up[r]
+from the sofa.[pcms]
 
 [ChrSetEx layer=4 chbase="naga_n04"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *14754|
 [fc]
 [vo_nag s="nagasaki0214"]
-[ns]千尋[nse]
-「……さあ、綺麗にしましょう……」[pcms]
+[ns]Chihiro[nse]
+"...Let's get you cleaned up..."[pcms]
 
 *14755|
 [fc]
-起きあがったあたしに、制服を手渡してくれた。[pcms]
+She handed me my uniform as I got up.[pcms]
 
 *14756|
 [fc]
-あたしは催眠術に掛けられたように、[r]
-渡された服を着て、手を引く長崎さんに付いて歩く。[pcms]
+Like under a spell, I put on the clothes handed to me and[r]
+followed Nagasaki-san who was leading me by the hand.[pcms]
 
 *14757|
 [fc]
-あたしの手を引く長崎さんの目は虚ろだった。[r]
-でも、口元だけは少し笑ったように歪んでいた。[pcms]
+Nagasaki-san's eyes were vacant as she pulled my hand. But[r]
+her mouth was slightly twisted as if smiling.[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 

@@ -19,194 +19,189 @@
 *1969|
 [fc]
 [vo_nao s="naomi_2tuika0001"]
-[ns]直美[nse]
-「はっ……くうっ……はっ……」[pcms]
+[ns]Naomi[nse]
+"Hah...kuu...hah..."[pcms]
 
 ;[chara_int][trans_c cross time=150]
 
 *1970|
 [fc]
-なおみ……。[r]
-こんなにちがでてるのに……。[r]
-でも、おれはうんてんなんてできない……。[pcms]
+Naomi... Even though you're bleeding so much... But I can't[r]
+drive...[pcms]
 
 *1971|
 [fc]
-それに、へたにさわったら……、[r]
-たいへんなことになりそうだ……。[pcms]
+Besides, if I touch her carelessly... it might lead to[r]
+something terrible...[pcms]
 
 *1972|
 [fc]
-おれにできるのは、なおみをはげますことくらい……。[pcms]
+All I can do is encourage Naomi...[pcms]
 
 *1973|
 [fc]
-[ns]大倉[nse]
-「なおみ……しっかりしてくれっ！！[r]
-　おれは……おれたちをたすけてくれるんだろ！？[r]
-　いまは、なおみだけが……たよりなんだ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Naomi... hold on tight!! Aren't you... aren't you going to[r]
+save us!? Right now, you're the only one we can rely on!!"[pcms]
 
 *1974|
 [fc]
-[ns]大倉[nse]
-「みんなで……、みんなでにげようって……。[r]
-　みんなでにげようっていってくれたじゃないか！！」[pcms]
+[ns]Ookura[nse]
+"Together... we said we'd escape together... Didn't you say[r]
+that!!"[pcms]
 
 *1975|
 [fc]
-[ns]大倉[nse]
-「もうすこしでたすかるって……。[r]
-　だから……！　しぬな！！　おれたちも、おかしく[r]
-　ならないようにがんばるから！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"We're almost safe... So...! Don't die!! We'll also try our[r]
+best not to lose it!!"[pcms]
 
 *1976|
 [fc]
-大きく揺れるトラックの中で、身体のあちこちを激し[r]
-くぶつけながら、必死で励ました。[pcms]
+Inside the violently shaking truck, I desperately encouraged[r]
+her while being battered all over my body.[pcms]
 
 *1977|
 [fc]
-今の俺には、このくらいしか出来ない。[r]
-他人任せだけど、今は、直美を信じるしかない！[pcms]
+Right now, this is all I can do. It's leaving it to someone[r]
+else, but I have no choice but to believe in Naomi![pcms]
 
 [evcg storage="NEV500a"][trans_c cross time=301]
 
 *1978|
 [fc]
 [vo_nao s="naomi_2tuika0002"]
-[ns]直美[nse]
-「少し……休ませてくれ……」[pcms]
+[ns]Naomi[nse]
+"Let me rest... a little..."[pcms]
 
 *1979|
 [fc]
-[ns]大倉[nse]
-「…………」[pcms]
+[ns]Ookura Hiroshi[nse]
+"..."[pcms]
 
 *1980|
 [fc]
 [vo_nao s="naomi_2tuika0003"]
-[ns]直美[nse]
-「……」[pcms]
+[ns]Naomi[nse]
+"..."[pcms]
 
 *1981|
 [fc]
-それまで突っ走っていたトラックを止め、[r]
-ハンドルから手を離し、俺を少しの間無言で見つめて[r]
-いた直美の口が動き、小さな声で話し始めた。[pcms]
+After stopping the truck that had been speeding along, Naomi[r]
+let go of the steering wheel and silently stared at me for a[r]
+moment before her lips moved and she began to speak in a[r]
+faint voice.[pcms]
 
 [evcg storage="NEV500f"][trans_c cross time=301]
 
 *1982|
 [fc]
 [vo_nao s="naomi_2tuika0004"]
-[ns]直美[nse]
-「そう……だな……！　お前の言うとおりだ！[r]
-　わ、私は……お前達を助けるって……、[r]
-　約束したんだよな……！」[pcms]
+[ns]Naomi[nse]
+"That's right...! You're correct! I... I promised to save[r]
+you guys...!"[pcms]
 
 [evcg storage="NEV500d"][trans_c cross time=301]
 
 *1983|
 [fc]
 [vo_nao s="naomi_2tuika0005"]
-[ns]直美[nse]
-「約束は……守る為にあるんだ！[r]
-　私は……私はどうなってもいい！！[r]
-　お前達だけは……っ、必ず……」[pcms]
+[ns]Naomi[nse]
+"Promises are there to be kept! I don't care what happens to[r]
+me!! Just you guys... must be saved..."[pcms]
 
 *1984|
 [fc]
 [vo_nao s="naomi_2tuika0006"]
-[ns]直美[nse]
-「私は……この街にきてすぐ……あのイカレた奴らに[r]
-　襲われて……仲間を全部殺された……」[pcms]
+[ns]Naomi[nse]
+"Right after coming to this town... I was attacked by those[r]
+crazies and... all my companions were killed..."[pcms]
 
 [evcg storage="NEV500a"][trans_c cross time=301]
 
 *1985|
 [fc]
 [vo_nao s="naomi_2tuika0007"]
-[ns]直美[nse]
-「偶然かもしれないけど……その中の一人は、私を、[r]
-　私を守って、死んでいった……」[pcms]
+[ns]Naomi[nse]
+"It might have been by chance, but one of them died[r]
+protecting me..."[pcms]
 
 *1986|
 [fc]
-[ns]大倉[nse]
-「なおみ……？　！？　ひっ……ひとがたくさん！！[r]
-　なおみ！！　まえっ！！　あいつらだ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Naomi...?! What the... there are so many people!! Naomi!![r]
+Look ahead!! It's them!!"[pcms]
 
 *1987|
 [fc]
-一人で喋り続ける直美は、俺達を乗せたトラックに、[r]
-沢山の人が集まってきているのに気が付いていない[r]
-様だった。[pcms]
+Naomi, who kept talking by herself, seemed unaware that a[r]
+lot of people were gathering around the truck we were in.[pcms]
 
 *1988|
 [fc]
-まぶしさと、視界が白く濁り、見えづらいのを堪えて、[r]
-その人達に目を向けると、さっきオヤジを襲った奴ら[r]
-と同じようなのばかりだった。[pcms]
+Despite the glare and the blurring white in my vision making[r]
+it hard to see, when I looked at those people, they all[r]
+seemed like the same kind that attacked the old man earlier.[pcms]
 
 *1989|
 [fc]
-[ns]大倉[nse]
-「このままじゃ……あいつらにかこまれるぞ！[r]
-　なおみ！！　なおみっ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"At this rate... we'll be surrounded by them! Naomi!![r]
+Naomi!!"[pcms]
 
 *1990|
 [fc]
-このままアイツらがふえていったら……。[r]
-あのオヤジみたいに、おれたちも……。[pcms]
+If these guys keep increasing in number... We'll end up like[r]
+that old man...[pcms]
 
 *1991|
 [fc]
-しかし、直美はその人達をみて、急に笑い出した。[pcms]
+However, upon seeing those people, Naomi suddenly started[r]
+laughing.[pcms]
 
 [evcg storage="NEV500b"][trans_c cross time=301]
 
 *1992|
 [fc]
 [vo_nao s="naomi_2tuika0008"]
-[ns]直美[nse]
-「ふっ……ははっ……ははははっ！！[r]
-　あれは、全部……感染者だ！！　もう……、[r]
-　助からない……私達とは違う生き物だっ！」[pcms]
+[ns]Naomi[nse]
+"Huh...haha...hahahaha!! They are all... infected! There's[r]
+no saving them... They're different creatures from us now!"[pcms]
 
 *1993|
 [fc]
-苦しそうに喋る直美から、それまでの弱々しい表情は[r]
-消えて、目の前に立ちふさがる感染者達を睨み付けて[r]
-いた。[pcms]
+The weak expression had vanished from Naomi's face as she[r]
+struggled to speak, staring down the infected blocking our[r]
+path.[pcms]
 
 *1994|
 [fc]
-[ns]大倉[nse]
-「……！？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"...!?"[pcms]
 
 *1995|
 [fc]
 [vo_nao s="naomi_2tuika0009"]
-[ns]直美[nse]
-「必ず、助けてみせるっ！　お前達だけでも……！[r]
-　しっかり捕まっていろ！！　うぉぉおおぉぉ！！」[pcms]
+[ns]Naomi[nse]
+"I will definitely save you! Even if it's just you guys...![r]
+Hold on tight!! Uoooohhh!!"[pcms]
 
 *1996|
 [fc]
-直美が叫んだ直後、タイヤの軋む音と共に、[r]
-トラックは感染者の群れに向かって、加速を始めた。[pcms]
+Right after Naomi shouted, the truck began to accelerate[r]
+towards the crowd of infected with the screeching of tires.[pcms]
 
 *1997|
 [fc]
-[ns]大倉[nse]
-「ぐっ……うぐあぁっ！！　なっ、なおみっ！！[r]
-　あぶねぇっ！！　うぁぁぁぁぁぁぁっ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Guh...ughaaah!! Na-Naomi!! That's dangerous!![r]
+Uwaaaaahhhhh!!"[pcms]
 
 *1998|
 [fc]
-次々と宙に跳ねとばされる感染者たちはみな、[r]
-口を開け何かを叫んでいたが、それは全てトラックの[r]
-エンジンの音と、揺れでかき消された。[pcms]
+The infected being flung into the air one after another were[r]
+all opening their mouths as if shouting something, but it[r]
+was all drowned out by the engine's roar and the shaking.[pcms]
 
 [se0 storage="se20"]
 ;//★画面揺らし
@@ -217,13 +212,13 @@
 *1999|
 [fc]
 [vo_nao s="naomi_2tuika0010"]
-[ns]直美[nse]
-「うあぁぁぁあぁぁぁぁあぁぁ！！！！！！！！」[pcms]
+[ns]Naomi[nse]
+"Uwaaaahhhhhhhhhhhhhhhhh!!!"[pcms]
 
 *2000|
 [fc]
-[ns]大倉[nse]
-「うがっ……うあぁぁあっ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Ughh...uwaaaahhh!!"[pcms]
 
 ;//★ホワイトアウト
 ;[bg storage="white"][trans_c cross time=1000]
@@ -232,28 +227,26 @@
 *2001|
 [fc]
 [ns]？？？[nse]
-「しろ゛いおな゛か……お゛いしそう゛～……たへ゛[r]
-　てい゛い……？　い゛いよね゛……？　あ゛～～～[r]
-　んむ……」[pcms]
+"White pussy... looks delicious~... can I eat it...? It's[r]
+okay, right...? Ah~~~ mmm..."[pcms]
 
 *2002|
 [fc]
 [ns]？？？[nse]
-「あぁ～……な゛んか、はら゛へった゛なぁ……あ゛[r]
-　いつ゛、い゛ろか゛しろく゛て、う゛まそう゛……」[pcms]
+"Ahh~... kinda hungry now... that white, it looks tasty..."[pcms]
 
 *2003|
 [fc]
 [ns]？？？[nse]
-「あ゛ぁ～～……あ゛ぁ～～……お゛あぁ～～！！」[pcms]
+"Ahhh~~~... Ahhhh~~~... Oooh~~~!!"[pcms]
 
 ;//★特殊素材　感染者が襲ってくる
 [cutin storage="cut004"][trans_c cross time=500]
 
 *2004|
 [fc]
-[ns]大倉[nse]
-「あっ！！」[pcms]
+[ns]Ookura[nse]
+"Ah!!"[pcms]
 
 [fadeoutbgm time=502]
 
@@ -272,13 +265,11 @@
 
 *2005|
 [fc]
-なんだ……いまの……？[r]
-ゆめか……？[r]
-そっか……。[pcms]
+What was that just now...? A dream...? I see...[pcms]
 
 *2006|
 [fc]
-ゆめだよな……。[pcms]
+It's a dream...[pcms]
 
 ;//♪：bgm001
 [bgm storage="bgm001"]
@@ -286,113 +277,109 @@
 *2007|
 [fc]
 [vo_hay s="hayami1233"]
-[ns]ありす[nse]
-「はぁっ……面白い……あはぁ～……」[pcms]
+[ns]Alice[nse]
+"Hah...interesting...ahaha~..."[pcms]
 
 *2008|
 [fc]
 [vo_may s="maya0847"]
-[ns]摩耶[nse]
-「ねむい……」[pcms]
+[ns]Maya[nse]
+"I'm sleepy..."[pcms]
 
 *2009|
 [fc]
-なんだ……？[r]
-このこえ……。[pcms]
+What's that...? This voice...[pcms]
 
 ;//★砂浜
 
 *2010|
 [fc]
-なんだ……これ？[pcms]
+What is this?[pcms]
 
-;//★カットイン：流木で作った墓「つるた」「こばやし」[pcms]
+Graves made of driftwood 'Tsuruta' 'Kobayashi'[pcms]
 
 *2011|
 [fc]
-きったねーじ……。[r]
-つるた……？[r]
-こばやし……。[pcms]
+Filthy water... Tsuruta? Kobayashi...[pcms]
 
 *2012|
 [fc]
-こばやしは、しんゆう。[r]
-いつのまにかいなくなってた。[pcms]
+Kobayashi was a close friend. She disappeared before I knew[r]
+it.[pcms]
 
 *2013|
 [fc]
-でも、つるた……。[r]
-つるた。[pcms]
+But Tsuruta... Tsuruta.[pcms]
 
 *2014|
 [fc]
-なんだこれ。[pcms]
+What is this?[pcms]
 
 ;//★カットイン：木の板に正の字
 
 *2015|
 [fc]
-なんだよこれ。さっぱりわかんねぇよ……。[pcms]
+What the hell is this? I don't understand at all...[pcms]
 
 *2016|
 [fc]
-つるた……か。[pcms]
+Tsuruta, huh?[pcms]
 
 *2017|
 [fc]
-あぁ、そうか……。[pcms]
+Ah, I see...[pcms]
 
 *2018|
 [fc]
-たしか、おまえたちをまもる、とか……。[r]
-やくそくだ、とかいってたな……。[pcms]
+You promised to protect us, didn't you? You said it was a[r]
+promise...[pcms]
 
 *2019|
 [fc]
-きゅうにうごかなくなったんだよな……。[r]
-おれのいえにつくまえに……。[pcms]
+Suddenly, you stopped moving... Before we even reached my[r]
+house...[pcms]
 
 *2020|
 [fc]
-あれからどのくらいたったかな……。[pcms]
+How long has it been since then...?[pcms]
 
 *2021|
 [fc]
-はらへったな……。[pcms]
+I'm hungry...[pcms]
 
 *2022|
 [fc]
 [vo_hay s="hayami1234"]
-[ns]ありす[nse]
-「……あれ？　あそこ、なんかひかってるよ？[r]
-　きらっ、きらっ、てしてる～♪」[pcms]
+[ns]Arisu[nse]
+`...Huh? What's that over there, shining? It's twinkling,[r]
+twinkling~♪[pcms]
 
 *2023|
 [fc]
 [vo_may s="maya0848"]
-[ns]摩耶[nse]
-「ねむい……」[pcms]
+[ns]Maya[nse]
+`I'm sleepy...[pcms]
 
 *2024|
 [fc]
-はやみと、まやちゃん。[pcms]
+Hayami and Maya-chan.[pcms]
 
 *2025|
 [fc]
-おれのともだち。[pcms]
+My friends.[pcms]
 
 *2026|
 [fc]
-ともだち。[pcms]
+Friends.[pcms]
 
 *2027|
 [fc]
-ずっといっしょ。[pcms]
+Always together.[pcms]
 
 *2028|
 [fc]
-おれたちいがいに、だれもいないこのばしょで、[r]
-これからもずっと、さんにんで。[pcms]
+In this place where there's no one else but us, we'll always[r]
+be together, just the three of us.[pcms]
 
 [fadeoutbgm time=502]
 [stop_se0]

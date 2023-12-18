@@ -25,14 +25,14 @@
 
 *8096|
 [fc]
-‹Ç•”‚ğŠÛo‚µ‚É‚µ‚Ä‚¢‚é‚æ‚¤‚È’j‚É•ß‚Ü‚Á‚½‚çA‰½‚ğ[r]
-‚³‚ê‚é‚©‚í‚©‚ç‚È‚¢B[pcms]
+"If I get caught by a man who's exposing his genitals, I[r]
+have no idea what he might do to me."[pcms]
 
 *8097|
 [fc]
 [vo_anz s="anzai0036"]
-[ns]‚İ‚«[nse]
-u‚²‚ß‚ñ‚È‚³‚¢IIv[pcms]
+[ns]Mikki[nse]
+'I'm sorry!!'"[pcms]
 
 ;êŠ<ImageFade 6,60,OFF,OFF>
 
@@ -44,8 +44,8 @@
 
 *8098|
 [fc]
-[ns]šX‚éÂ”N[nse]
-u‚­J‚£‚ÁccIv[pcms]
+[ns]Roaring Young Man[nse]
+'Guh...!'"[pcms]
 
 [chara_int][trans_c cross time=150]
 
@@ -54,9 +54,9 @@
 
 *8099|
 [fc]
-‚í‚½‚µ‚Í‚·‚®‚»‚±‚É”—‚Á‚½Šë‹@‚©‚ç“¦‚°‚æ‚¤‚ÆAŒ¨‚É[r]
-è‚ğ’u‚¢‚Ä‚¢‚é’j«‚ğv‚¢Ø‚è“Ë‚«”ò‚Î‚µA‹}‚¢‚Å’j[r]
-«’B‚©‚ç—£‚ê‚½B[pcms]
+"I pushed the man who had his hand on my shoulder with all[r]
+my might, trying to escape the imminent danger, and quickly[r]
+moved away from the men."[pcms]
 
 [sysbt_meswin clear]
 
@@ -67,4 +67,4 @@
 
 [jump storage="prologue_zap05057.ks" target=*prologue_zap05057_TOP]
 
-;//||||||||||||||||||||||||||||||||||||||||
+;//

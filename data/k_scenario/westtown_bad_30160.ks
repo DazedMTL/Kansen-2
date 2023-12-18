@@ -26,9 +26,9 @@
 
 *9881|
 [fc]
-３階に下りるため、俺はマヤちゃんとハスキーと[r]
-一緒に、自分らがいた映画館に一番近いエスカレー[r]
-ターへと向かった。[pcms]
+To go down to the third floor, Maya-chan, Husky, and I[r]
+headed for the nearest escalator to the movie theater we[r]
+were in.[pcms]
 
 ;//♪：bgm012
 [bgm storage="bgm012"]
@@ -43,100 +43,101 @@
 
 *9882|
 [fc]
-頭のイカレたヤツらがいた時のために、俺は３階の[r]
-様子を窺いながら、エスカレーターの段を下りていく。[pcms]
+In case there were some crazy people around, I cautiously[r]
+descended the escalator steps, keeping an eye on the third[r]
+floor.[pcms]
 
 *9883|
 [fc]
-誰もいねーな……。[r]
-それとも、隠れてるだけか……？[pcms]
+Nobody's here... Or are they just hiding...?[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
 *9884|
 [fc]
-ひとの姿が一切見えない３階は、不気味なほどの[r]
-静けさで満たされている。[pcms]
+The third floor, devoid of any human presence, was filled[r]
+with an eerie silence.[pcms]
 
 *9885|
 [fc]
-俺らがこの階にいた時、確かペットショップのオリに[r]
-入ってる犬が、やたら騒いでたんだよな……。[pcms]
+When we were on this floor, I remember the dogs in the pet[r]
+shop cages were making a lot of noise...[pcms]
 
 *9886|
 [fc]
-全部、死んじまったのか……？[pcms]
+Did they all die...?[pcms]
 
 *9887|
 [fc]
-そりゃそうだよな……。[r]
-水とかエサをやる人間は、このビルの中には一人も[r]
-いねーもんな……。[pcms]
+That would make sense... There's no one inside this building[r]
+to give them water or food...[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_n07"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *9888|
 [fc]
-[ns]大倉[nse]
-「リードってのは、どの辺に置いてあるんだ？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Where are the leads kept?"[pcms]
 
 *9889|
 [fc]
-段を下りきって、３階に着いた俺らは、すぐ近くの壁[r]
-に取り付けられた案内図で、リードを売ってそうな[r]
-コーナーを探した。[pcms]
+Having reached the third floor, we looked for the corner[r]
+that seemed to sell leads on the nearby wall-mounted[r]
+directory.[pcms]
 
 *9890|
 [fc]
-[ns]ジョン[nse]
-「グルルルルルルッ！！」[pcms]
+[ns]John[nse]
+"Grrrrrrrrrr!!"[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_n02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *9891|
 [fc]
 [vo_may s="maya0694"]
-[ns]摩耶[nse]
-「ジョン、どうしたの……」[pcms]
+[ns]Maya[nse]
+"John, what's wrong...?"[pcms]
 
 *9892|
 [fc]
-案内板を見てる最中、傍にいたハスキーが、[r]
-エスカレーターの右手、吹き抜けの前を通る、短い[r]
-通路の方に目を向けて、姿勢を低くし、唸り始めた。[pcms]
+While looking at the directory, Husky by my side turned his[r]
+gaze towards the short passage in front of the open space to[r]
+the right of the escalator, lowered his stance, and started[r]
+growling.[pcms]
 
 *9893|
 [fc]
-少ししてから、硬いもので床を叩くような音が、どこ[r]
-からか聞こえてくるのに、俺は気づいた。[pcms]
+After a while, I noticed a sound like something hard hitting[r]
+the floor coming from somewhere.[pcms]
 
 *9894|
 [fc]
-[ns]大倉[nse]
-「なんだ？　この音……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"What's that sound...?"[pcms]
 
 *9895|
 [fc]
-音の出所を探し、キョロキョロと辺りを見回していた[r]
-俺は、目の前に現れた白い塊に驚き、後ずさりした。[pcms]
+As I looked around for the source of the sound, I was[r]
+startled by a white mass that appeared before me and stepped[r]
+back.[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_n04"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *9896|
 [fc]
-[ns]大倉[nse]
-「！？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"!"[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *9897|
 [fc]
-[ns]細面の大型犬[nse]
-「ク゛ァウア゛ッ！！」[pcms]
+[ns]Narrow-faced large dog[nse]
+"Grrraaah!!"[pcms]
 
 *9898|
 [fc]
-[ns]大倉[nse]
-「うわぁッ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Whoa!!"[pcms]
 
 ;//[]SE：打撃音（？）
 [se0 storage="SE20"]
@@ -147,165 +148,162 @@
 
 *9899|
 [fc]
-突然、俺に狙いを定めて飛びかかってきた、白く、[r]
-細長い顔をした犬に、ハスキーが横から飛び出して[r]
-体当たりを喰らわす。[pcms]
+Suddenly, a white dog with a long face lunged at me, and[r]
+Husky leaped from the side and body-slammed it.[pcms]
 
 *9900|
 [fc]
-[ns]ジョン[nse]
-「グルルルルルルッ！！　ウォンウォンッ！！」[pcms]
+[ns]John[nse]
+"Grrrrrrrrrr!! Woof woof!!"[pcms]
 
 *9901|
 [fc]
-[ns]細面の大型犬[nse]
-「ウ゛ァッ、ウカ゛ァゥア゛ッ！！」[pcms]
+[ns]Narrow-faced large dog[nse]
+"Grrr, grrraaah!!"[pcms]
 
 *9902|
 [fc]
-２匹の犬は、お互いの体のあちこちに噛みつき合い、[r]
-格闘しながら、床を転がっていく。[pcms]
+The two dogs rolled on the floor, biting and fighting each[r]
+other all over their bodies.[pcms]
 
 *9903|
 [fc]
-[ns]大倉[nse]
-「！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"!!"[pcms]
 
 *9904|
 [fc]
-２匹が唸り、吠える声の中に混じって、硬いもので床[r]
-を叩くような音が聞こえてきた。[pcms]
+Mixed with the growling and barking of the two dogs, I could[r]
+hear a sound like something hard hitting the floor.[pcms]
 
 *9905|
 [fc]
-コレ、爪だ……。[r]
-床を蹴る時に、爪が当たる音なんだ……。[pcms]
+It's claws... The sound of claws hitting the floor when they[r]
+kick off...[pcms]
 
 *9906|
 [fc]
-てコトは……。[r]
-違う犬が近づいてきてる……！[pcms]
+That means... Another dog is approaching...![pcms]
 
 *9907|
 [fc]
-[ns]大倉[nse]
-「く……っ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Damn...!!"[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_n08"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *9908|
 [fc]
 [vo_may s="maya0695"]
-[ns]摩耶[nse]
-「あ、ま、待って……！」[pcms]
+[ns]Maya[nse]
+"Ah, wait...!"[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *9909|
 [fc]
-白い犬が出てきた、右手の短い通路とは逆の、[r]
-長く伸びる通路がある左手へ、俺は走った。[pcms]
+I ran towards the long passage on the left, opposite from[r]
+where the white dog had come from on the short right-hand[r]
+path.[pcms]
 
 *9910|
 [fc]
-１匹ならまだしも、あんなデカイ犬が何匹も来たら、[r]
-絶対やられる……。[pcms]
+If it's just one big dog, maybe I can handle it, but if[r]
+there are several, we're definitely done for...[pcms]
 
 *9911|
 [fc]
-さっきの、犬が走ってくる音……。[r]
-アレ、絶対、１匹じゃねー……。[pcms]
+The sound of that dog running earlier... That definitely[r]
+wasn't just one...[pcms]
 
 *9912|
 [fc]
-逃げなきゃ……。[r]
-追いつかれたら、やられる……！[r]
-どっか、隠れられるトコねーのか……！？[pcms]
+We have to run... If we get caught up to, we're done for...![r]
+Is there anywhere to hide...!?[pcms]
 
 [quake_bg 元time=200 xy m]
 
 *9913|
 [fc]
 [vo_may s="maya0696"]
-[ns]摩耶[nse]
-「きゃぁあああっ！！！！」[pcms]
+[ns]Maya[nse]
+"Kyaaahhhhhhh!!!!!"[pcms]
 
 *9914|
 [fc]
-[ns]大倉[nse]
-「！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"!!"[pcms]
 
 *9915|
 [fc]
-俺は悲鳴を聞いて初めて、自分がマヤちゃんを置き去[r]
-りにして逃げたコトに気づいた。[pcms]
+Only after hearing her scream did I realize that I had left[r]
+Maya-chan behind as I fled.[pcms]
 
 *9916|
 [fc]
-なにやってんだ、俺……！！[r]
-なんでマヤちゃんほったらかしてんだよ……！！[pcms]
+What am I doing...!! Why did I leave Maya-chan behind...!![pcms]
 
 *9917|
 [fc]
-[ns]大倉[nse]
-「マヤちゃ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Maya-cha..."[pcms]
 
 *9918|
 [fc]
-[ns]赤毛の大型犬[nse]
-「ウ゛ァア゛ァウッ！！」[pcms]
+[ns]Red-haired large dog[nse]
+"Grrraaaaww!!"[pcms]
 
 *9919|
 [fc]
-[ns]大倉[nse]
-「ぐあああぁぁあぁぁッ！！！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Guuaaaaahhhhhhh!!!!!"[pcms]
 
 *9920|
 [fc]
-マヤちゃんを助けないと、と振り返った俺の視界は、[r]
-赤毛の犬の、大きく開けた口と、デカイ体で塞がれて[r]
-いて、それ以外は何も見えなくなっていた。[pcms]
+As I turned back thinking I had to save Maya-chan, my vision[r]
+was filled with a red-haired dog's wide-open mouth and large[r]
+body, blocking everything else from view.[pcms]
 
 *9921|
 [fc]
-[ns]大倉[nse]
-「ぐあぁッ！！　があああぁぁあぁぁっ！！！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Guahh!! Gaaaahhhhhhh!!!!!"[pcms]
 
 *9922|
 [fc]
-[ns]赤毛の大型犬[nse]
-「ウ゛ゥッ！！　ウ゛ルルルッ！！」[pcms]
+[ns]Red-haired large dog[nse]
+"Grrr!! Grrrrrr!!"[pcms]
 
 *9923|
 [fc]
-俺の腕に食いついた、赤毛のデカイ犬の鋭い牙は、[r]
-もう皮膚を突き破り、体の中まで食い込んでいて、[r]
-そこからは血が流れ出してきていた。[pcms]
+The sharp fangs of the large red-haired dog that had bitten[r]
+into my arm had already pierced through my skin and dug into[r]
+my flesh, and blood was flowing out from there.[pcms]
 
 *9924|
 [fc]
-[ns]赤毛の大型犬[nse]
-「ウ゛ゥ～～ッ！！　ウ゛ハァルルッ！！」[pcms]
+[ns]Red-haired large dog[nse]
+"Grrr~~~!! Grrharrr!!"[pcms]
 
 *9925|
 [fc]
-赤毛の犬は、自分が食いついた腕をもぎ取ろうとでも[r]
-するかのように、頭をメチャクチャに振り続ける。[pcms]
+The red-haired dog continued to violently shake its head as[r]
+if trying to tear off the arm it had bitten into.[pcms]
 
 *9926|
 [fc]
-持っていかれないように、俺は血管が切れそうになる[r]
-ぐらいに体に力を入れ、死ぬほどの激痛をガマンし、[r]
-自分に腕を引きつけた。[pcms]
+To prevent it from being taken away, I tensed my body as if[r]
+my veins would burst and endured the excruciating pain to[r]
+pull my arm towards me.[pcms]
 
 *9927|
 [fc]
-[ns]大倉[nse]
-「がっ、あがぁッ！！！　離、せぇ……ッ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Gahh, agahh!!! Let go...!!"[pcms]
 
 *9928|
 [fc]
-口を離させようと蹴り飛ばす、赤毛の体の向こうに、[r]
-黒くてデカイ犬に襲われているマヤちゃんが見えた。[pcms]
+Beyond the red-haired body that I tried to kick away, I saw[r]
+Maya-chan being attacked by a large black dog.[pcms]
 
 ;//♪：bgm012　stop
 [fadeoutbgm time=1][wb]
@@ -336,380 +334,368 @@
 *9929|
 [fc]
 [vo_may s="maya0697"]
-[ns]摩耶[nse]
-「ジョ、ン……っ！！　助けて……っ！！」[pcms]
+[ns]Maya[nse]
+"John...!! Help me...!!"[pcms]
 
 *9930|
 [fc]
-[ns]大倉[nse]
-「マヤちゃん……ッ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Maya-chan...!!"[pcms]
 
 *9931|
 [fc]
-大型犬の牙でやられたのか、床に這いつくばるような[r]
-格好をしてるマヤちゃんの服は、ズタボロに引き裂か[r]
-れて、しかもアソコが剥き出しになっていた。[pcms]
+Maya-chan, who seems to have been attacked by the large[r]
+dog's fangs, is sprawled on the floor, her clothes torn to[r]
+shreds, and her pussy is exposed.[pcms]
 
 *9932|
 [fc]
-[ns]茶色の大型犬[nse]
-「ハァ～～ッ……！！　ハッ、ハッ、フゥルルッ！！」[pcms]
+[ns]Brown large dog[nse]
+"Haa~~...!! Hah, hah, furururu!!"[pcms]
 
 *9933|
 [fc]
 [vo_may s="maya0698"]
-[ns]摩耶[nse]
-「いやぁあぁっ！！　助けてぇ……っ！」[pcms]
+[ns]Maya[nse]
+"No, ahhhh!! Help me...!!"[pcms]
 
 *9934|
 [fc]
-マヤちゃんよりもデカく見える体で、大型犬は彼女の[r]
-背中に覆い被さり、アレを真っ赤にボッキさせて、[r]
-腰を震わせている。[pcms]
+The large dog, looking bigger than Maya-chan, is covering[r]
+her from behind, its dick bright red and erect, shaking its[r]
+hips.[pcms]
 
 *9935|
 [fc]
-あの犬、まさか、マヤちゃんを犯そうってのか……！？[r]
-犬が……？[r]
-人間を……！？[pcms]
+That dog, it can't be... it's trying to rape Maya-chan...!?[r]
+A dog...? A human...!?[pcms]
 
 *9936|
 [fc]
-[ns]茶色の大型犬[nse]
-「ハア゛ァ～～～ッ！！　フハア゛ァ～～～ッ！！」[pcms]
+[ns]Brown large dog[nse]
+"Haaa~~~!! Fuhhaaa~~~!!"[pcms]
 
 *9937|
 [fc]
 [vo_may s="maya0699"]
-[ns]摩耶[nse]
-「ひっ……！！　やだぁっ！！　助けてぇっ！！[r]
-　ジョン！！　お願い！！」[pcms]
+[ns]Maya[nse]
+"Hii...!! Nooo!! Help me!! John!! Please!!"[pcms]
 
 *9938|
 [fc]
-大型犬の下で、逃げようとマヤちゃんはもがいている[r]
-が、のしかかってくるヤツの体はかなり重いのか、[r]
-動くコトができないでいる。[pcms]
+Underneath the large dog, Maya-chan struggles to escape, but[r]
+the weight of the creature bearing down on her seems too[r]
+heavy for her to move.[pcms]
 
 *9939|
 [fc]
-ココからは見えない、彼女が名前を呼び続けてる[r]
-ハスキーも、あの白く、細い犬を相手にするので[r]
-精一杯なのか、助けに現れないでいた。[pcms]
+From here, I can't see the husky that she keeps calling by[r]
+name. Maybe it's too busy dealing with that white, slender[r]
+dog to come to her aid.[pcms]
 
 *9940|
 [fc]
-俺が……！[r]
-俺が助けてやんなきゃ……！！[r]
-クソッ……！！[pcms]
+I have to...! I have to save her...!! Damn it...!![pcms]
 
 *9941|
 [fc]
-[ns]大倉[nse]
-「離せよ……このバカ犬……ッ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Let go... you stupid dog...!!"[pcms]
 
 *9942|
 [fc]
-[ns]赤毛の大型犬[nse]
-「ウ゛ゥク゛ルルッ！！　ク゛ゥルルルッ！！」[pcms]
+[ns]Red-haired large dog[nse]
+"Gurururu!! Gururururu!!"[pcms]
 
 *9943|
 [fc]
-[ns]茶色の大型犬[nse]
-「ハッ！　ハッ！　ハッ！　ハッ！　ハッ！　ハッ！」[pcms]
+[ns]Brown large dog[nse]
+"Hah! Hah! Hah! Hah! Hah! Hah!"[pcms]
 
 *9944|
 [fc]
 [vo_may s="maya0700"]
-[ns]摩耶[nse]
-「い、やぁっ！！　やめてぇ……っ！！　ジョン！！[r]
-　誰かぁっ！！　助け、てぇ……っ！！」[pcms]
+[ns]Maya[nse]
+"No, ahh!! Stop it...!! John!! Somebody!! Help...!!"[pcms]
 
 *9945|
 [fc]
-[ns]大倉[nse]
-「マヤちゃん……ッ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Maya-chan...!!"[pcms]
 
 *9946|
 [fc]
-けど、結局、俺もハスキーも間に合わず、マヤちゃん[r]
-のアソコに、大型犬のアレは押し込まれてしまった。[pcms]
+But in the end, neither I nor the husky made it in time, and[r]
+the large dog's dick was pushed into Maya-chan's pussy.[pcms]
 
 *9947|
 [fc]
 [vo_may s="maya0701"]
-[ns]摩耶[nse]
-「いやあぁぁぁあぁっ！！！！」[pcms]
+[ns]Maya[nse]
+"No ahhhhhhhhhhhh!!"[pcms]
 
 *9948|
 [fc]
-[ns]茶色の大型犬[nse]
-「ク゛ハア゛ァ～～ッ！！　ウ゛ゥフルルッ！！」[pcms]
+[ns]Brown large dog[nse]
+"Guhhaaa~~~!! Vuhfurururu!!"[pcms]
 
 *9949|
 [fc]
-挿し込んだ瞬間から、大型犬は凄いイキオイで腰を[r]
-振り、マヤちゃんをレイプし始めた。[pcms]
+The moment it inserted, the large dog began to thrust its[r]
+hips with incredible force, starting to rape Maya-chan.[pcms]
 
 *9950|
 [fc]
-[ns]茶色の大型犬[nse]
-「ハッ！　ハッ！　ハッ！　ハッ！　ハッ！　ハッ！」[pcms]
+[ns]Brown large dog[nse]
+"Hah! Hah! Hah! Hah! Hah! Hah!"[pcms]
 
 *9951|
 [fc]
 [vo_may s="maya0702"]
-[ns]摩耶[nse]
-「やぁっ！！　助けてえぇっ！！　いやあぁっ！！」[pcms]
+[ns]Maya[nse]
+"Yahh!! Help meee!! Nooo ahh!!"[pcms]
 
 *9952|
 [fc]
-助けを求めるマヤちゃんの悲痛な声が、辺りに響く。[pcms]
+Maya-chan's cries for help echo painfully around.[pcms]
 
 *9953|
 [fc]
-俺は助けに行かなきゃと焦り、赤毛の犬を蹴り飛ばし、[r]
-殴りつけるが、腕に食い込んでる牙は、中々離れよう[r]
-としない。[pcms]
+In my panic to help her, I kick and punch at the red-haired[r]
+dog, but the fangs sunk into my arm are not easily[r]
+dislodged.[pcms]
 
 *9954|
 [fc]
-[ns]大倉[nse]
-「クソォ……ッ！！　どけッ！！　このクソ犬！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Damn it...!! Move it!! You damn dog!!"[pcms]
 
 *9955|
 [fc]
-[ns]赤毛の大型犬[nse]
-「ク゛ォフッ！！　ウ゛ァルルルルッ！！」[pcms]
+[ns]Red-haired large dog[nse]
+"Gohuff!! Varurururu!!"[pcms]
 
 *9956|
 [fc]
-[ns]茶色の大型犬[nse]
-「ハッ！　ハッ！　ハッ！　ハッ！　ハッ！　ハッ！」[pcms]
+[ns]Brown large dog[nse]
+"Hah! Hah! Hah! Hah! Hah! Hah!"[pcms]
 
 *9957|
 [fc]
 [vo_may s="maya0703"]
-[ns]摩耶[nse]
-「ぐ、うぅ……っ！！　ジョン……助け、て……[r]
-　ふ、っは、ぅぐ……っ！！　ジョン……っ！！」[pcms]
+[ns]Maya[nse]
+"Gu, uuh...!! John... help... fuu, haa, uguh...!! John...!!"[pcms]
 
 *9958|
 [fc]
-[ns]茶色の大型犬[nse]
-「ハッ！　ハッ！　ハッ！　ハッ！　ハッ！　ハッ！」[pcms]
+[ns]Brown large dog[nse]
+"Hah! Hah! Hah! Hah! Hah! Hah!"[pcms]
 
 *9959|
 [fc]
 [vo_may s="maya0704"]
-[ns]摩耶[nse]
-「あぐ、んぐぅ……っ！！　ぐ、はっ……ジョン……[r]
-　はぐぅっ！！　ジョン……うぁっ、く……」[pcms]
+[ns]Maya[nse]
+"Agu, nguu...!! Guh, hah... John... haguuu!! John... uahh,[r]
+kuh..."[pcms]
 
 *9960|
 [fc]
-[ns]大倉[nse]
-「野郎……ッ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"You bastard...!!"[pcms]
 
 *9961|
 [fc]
-[ns]赤毛の大型犬[nse]
-「ク゛ァファッ！！」[pcms]
+[ns]Red-haired large dog[nse]
+"Guafaa!!"[pcms]
 
 *9962|
 [fc]
-振り下ろした拳が目に命中して、赤毛の犬はようやく[r]
-俺の腕から口を離し、２，３歩、後ずさりした。[pcms]
+My fist struck true into its eye, and finally, the red-[r]
+haired dog released my arm from its mouth and staggered back[r]
+a few steps.[pcms]
 
 *9963|
 [fc]
-けど、やっと腕から抜けたと思った赤毛の犬の牙は、[r]
-今度は体を起こそうとしてた俺の足に、深々と突き[r]
-刺さった。[pcms]
+But just as I thought I was free from the red-haired dog's[r]
+fangs, they sank deeply into my leg as I tried to stand up.[pcms]
 
 *9964|
 [fc]
-[ns]赤毛の大型犬[nse]
-「ク゛ォア゛ッ！！」[pcms]
+[ns]Red-haired large dog[nse]
+"Goaahh!!"[pcms]
 
 *9965|
 [fc]
-[ns]大倉[nse]
-「ぐぁあぁッ！！　があぁぁああッ！！！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Guahh!! Gaaaahhhhhhh!!!!!"[pcms]
 
 *9966|
 [fc]
-さっきの俺の攻撃で学習したのか、赤毛の犬は長く[r]
-食らいつくコトはしないで、俺の体に噛みついては、[r]
-すぐに離れるというコトを繰り返し始めた。[pcms]
+Perhaps having learned from my previous attack, the red-[r]
+haired dog didn't cling on for long but started to[r]
+repeatedly bite into my body and quickly let go.[pcms]
 
 *9967|
 [fc]
-[ns]赤毛の大型犬[nse]
-「ク゛ルァア゛ウッ！！　ウ゛ァウ゛ゥッ！！」[pcms]
+[ns]Red-haired large dog[nse]
+"Gruaauh!! Vauvuhh!!"[pcms]
 
 *9968|
 [fc]
-[ns]大倉[nse]
-「ぐはあぁあッ！！　あがああぁッ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Guhaaahh!! Agaaahh!!"[pcms]
 
 *9969|
 [fc]
-体のあちこちを噛まれていく内に、俺の体から赤毛の[r]
-犬に抵抗する力が抜けていった。[pcms]
+As I was bitten all over my body, the strength to resist the[r]
+red-haired dog drained away from me.[pcms]
 
 *9970|
 [fc]
-それなのに、心臓だけは速く動いて、俺の精神を妙に[r]
-興奮させる。[pcms]
+Yet my heart was racing fast, strangely exciting my mind.[pcms]
 
 *9971|
 [fc]
-そのせいなのか、俺のアレが突然、硬くなり始めて、[r]
-同時に、マヤちゃんが犬に犯される姿が、なんでか[r]
-いやらしく、面白おかしく思えてきた。[pcms]
+Because of that, my dick suddenly began to harden, and at[r]
+the same time, the sight of Maya-chan being raped by the dog[r]
+started to seem lewdly amusing.[pcms]
 
 *9972|
 [fc]
-[ns]赤毛の大型犬[nse]
-「ク゛ァウッ！！　ク゛ルァッ！！」[pcms]
+[ns]Red-haired large dog[nse]
+"Gauh!! Grurahh!!"[pcms]
 
 *9973|
 [fc]
-[ns]大倉[nse]
-「ふはっ……くははっ……！　はははっ！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Fuhahh... kuhaha...! Hahaha!"[pcms]
 
 *9974|
 [fc]
-[ns]茶色の大型犬[nse]
-「ハッ！　ハッ！　ハッ！　ハッ！　ハッ！　ハッ！」[pcms]
+[ns]Brown large dog[nse]
+"Hah! Hah! Hah! Hah! Hah! Hah!"[pcms]
 
 *9975|
 [fc]
 [vo_may s="maya0705"]
-[ns]摩耶[nse]
-「ふ、あぅ……っ！！　はぁっ、く、んぐ……っ！！」[pcms]
+[ns]Maya[nse]
+"Fu, auh...!! Haahh, kuh, nguh...!"[pcms]
 
 *9976|
 [fc]
-[ns]大倉[nse]
-「マヤちゃぁん……いぬにバックでレイプされて、[r]
-　きもちいぃの？　きもちいぃんでしょぉ！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Maya-chan... being raped by a dog from behind, does it feel[r]
+good? It feels good, right?!"[pcms]
 
 *9977|
 [fc]
 [vo_may s="maya0706"]
-[ns]摩耶[nse]
-「う、ぐぅ……っ！！　……そ、な、わけ……っ！！[r]
-　はぁっ、は、ぁぐ……っ！！」[pcms]
+[ns]Maya[nse]
+"Uguu...!! ...That's not... it... Haahh, ha, agu...!"[pcms]
 
 *9978|
 [fc]
-[ns]大倉[nse]
-「いぬにチンコいれられて、こえだしちゃってさぁ！[r]
-　マヤちゃんは、あいてが、にんげんじゃなくても、[r]
-　ぜんぜんオッケーなんだねぇ！　はははははっ！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Getting fucked by a dog's cock and screaming out loud![r]
+Maya-chan doesn't care if her partner isn't human at all,[r]
+right?! Hahaha!"[pcms]
 
 *9979|
 [fc]
-赤毛の犬が、体に食らいついた時の衝撃はあったが、[r]
-俺はもう、痛みは感じなくなっていた。[pcms]
+The impact of the red-haired dog biting into my body was[r]
+there, but I no longer felt any pain.[pcms]
 
 *9980|
 [fc]
-そんなコトより、マヤちゃんのオマンコを飽きるほど[r]
-犯して、膣内に精液をブチ撒けるコトで、俺の頭は[r]
-一杯になっていた。[pcms]
+Rather than that, my head was filled with thoughts of raping[r]
+Maya-chan's pussy to my heart's content and splattering[r]
+semen inside her.[pcms]
 
 *9981|
 [fc]
-[ns]大倉[nse]
-「そいつがおわったらさぁ、おれにもやらせてよぉ！[r]
-　いぬにやらせたんだから、べつにいいよねぇ？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"After you're done, let me have a turn too! You let a dog[r]
+have you, so it's fine, right?"[pcms]
 
 *9982|
 [fc]
-[ns]茶色の大型犬[nse]
-「ハッ！　ハッ！　ハッ！　ハッ！　ハッ！　ハッ！」[pcms]
+[ns]Brown large dog[nse]
+"Hah! Hah! Hah! Hah! Hah! Hah!"[pcms]
 
 *9983|
 [fc]
 [vo_may s="maya0707"]
-[ns]摩耶[nse]
-「んっ、ぐ……や、ぱり……っ！　うぁ、ぐぅ……っ！[r]
-　お前、を……あっ、はぐ……っ！」[pcms]
+[ns]Maya[nse]
+"Nn, guh...no, after all...! Ugh, nguh...! You, to...ah,[r]
+haguh...!"[pcms]
 
 *9984|
 [fc]
-[ns]大倉[nse]
-「にんげんのチンコも、ほしいでしょぉ？[r]
-　あぁ、そっか、マヤちゃんは、チンコなら[r]
-　なんでもいいんだったぁ！　ふははっははは！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"You want a human dick too, don't you? Ah, that's right,[r]
+Maya-chan doesn't care as long as it's a dick![r]
+Fuhahahahaha!!"[pcms]
 
 *9985|
 [fc]
-[ns]茶色の大型犬[nse]
-「ハッ！　ハッ！　ハッ！　ハッ！　ハッ！　ハッ！」[pcms]
+[ns]Brown large dog[nse]
+"Hah! Hah! Hah! Hah! Hah! Hah!"[pcms]
 
 *9986|
 [fc]
 [vo_may s="maya0708"]
-[ns]摩耶[nse]
-「他人、を……んぐぅ……っ！　ふ、はぁっ……[r]
-　し、じる、じゃ……なか、た……」[pcms]
+[ns]Maya[nse]
+"Someone else, to...nguh...! Fuu, haah...to feel, it's[r]
+not...inside, me..."[pcms]
 ;//◎し、じる、じゃ＝信じるんじゃ
 
 *9987|
 [fc]
-体の感覚は無くなってきていて、噛みつかれる衝撃も、[r]
-もう感じなくなっていた。[pcms]
+The sensation in my body was fading, and I no longer felt[r]
+the impact of being bitten.[pcms]
 
 *9988|
 [fc]
-けど、低い、呻きのようなマヤちゃんの喘ぎ声のおか[r]
-げで、自分のチンコが硬くボッキしているコトだけは、[r]
-しっかり感じ取れていた。[pcms]
+But thanks to Maya-chan's low moans of pleasure, I could[r]
+clearly feel my own dick getting hard.[pcms]
 
 *9989|
 [fc]
-[ns]茶色の大型犬[nse]
-「ハッ！　ハッ！　ハッ！　ハッ！　ハッ！　ハッ！」[pcms]
+[ns]Brown large dog[nse]
+"Hah! Hah! Hah! Hah! Hah! Hah!"[pcms]
 
 *9990|
 [fc]
 [vo_may s="maya0709"]
-[ns]摩耶[nse]
-「んぅっ、う、ぐうぅ……っ！！　うぅ……な、で、[r]
-　一緒に……んぐっ、あぁ……っ！！」[pcms]
+[ns]Maya[nse]
+"Nnuh, ugh, nguu...!! Uuu...together with, ngh, ahh...!!"[pcms]
 ;//◎泣き出す
 ;//◎な、で＝なんで
 
 *9991|
 [fc]
-[ns]大倉[nse]
-「くふぁあははっ！！　マヤちゃぁん！　そんないぬ、[r]
-　どうでもいいから、はやくおれとやろーよぉ！[r]
-　ひははふぁっ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Kufaahaha!! Maya-chan! Forget about that dog, hurry up and[r]
+do it with me! Hihafahh!!"[pcms]
 
 *9992|
 [fc]
-[ns]茶色の大型犬[nse]
-「ハッ！　ハッ！　ハッ！　ハッ！　ハッ！　ハッ！」[pcms]
+[ns]Brown large dog[nse]
+"Hah! Hah! Hah! Hah! Hah! Hah!"[pcms]
 
 *9993|
 [fc]
 [vo_may s="maya0710"]
-[ns]摩耶[nse]
-「ど、せ……んぐ、は、うぁ……っ！！[r]
-　……糞まみ、れだって……っは、ぐ、んうぅ……！！[r]
-　わかって、たのに……ひ、ぐぅ……っ！！」[pcms]
+[ns]Maya[nse]
+"It's useless...nguh, ha, ugh...!! ...Even if I'm covered in[r]
+filth...hah, guh, nugh...!! I knew it...higuh...!!"[pcms]
 ;//◎泣き出す
 ;//◎ど、せ＝どうせ
 
 *9994|
 [fc]
-[ns]茶色の大型犬[nse]
-「ハアァッ！　ハアァッ！　ハアァッ！　ハアァッ！」[pcms]
+[ns]Brown large dog[nse]
+"Haahh! Haahh! Haahh! Haahh!"[pcms]
 
 
 ;mm フラ追加
@@ -722,198 +708,192 @@
 *9995|
 [fc]
 [vo_may s="maya0711"]
-[ns]摩耶[nse]
-「うぁあっ、あぁああ……っ！！」[pcms]
+[ns]Maya[nse]
+"Uwaaah, aaaaah...!!"[pcms]
 
 *9996|
 [fc]
-マヤちゃんが急に大きな声を出すと、犬のチンコを[r]
-咥えたままのオマンコから、液体が大量に溢れ出して[r]
-きて、ボタボタと床にこぼれて溜まっていった。[pcms]
+When Maya suddenly let out a loud scream, a large amount of[r]
+liquid overflowed from her pussy, still clamped around the[r]
+dog's dick, and started dripping onto the floor.[pcms]
 
 *9997|
 [fc]
-水分が多そうなその液体は精液らしく、大型犬は息を[r]
-荒く吐きながら、体をブルブルと震わせている。[pcms]
+The liquid seemed watery like semen, and the large dog was[r]
+panting heavily while shaking its body.[pcms]
 
 [evcg storage="HEV312c"][trans_c cross time=301]
 
 *9998|
 [fc]
-[ns]大倉[nse]
-「ぷはははっ！！　いぬに、なかだしされてるよぉ！[r]
-　よかったぁ？　ねぇ～、いぬのなかだし、[r]
-　きもちよかったぁ～～？　あっははははっ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Puhahaha!! You're being creampied by a dog! Thank goodness?[r]
+Hey~, did the dog's creampie feel good~~? Ahhahaha!!"[pcms]
 
 *9999|
 [fc]
-[ns]茶色の大型犬[nse]
-「ファルルッ！！　ウ゛ゥ～～ッ！！　フウゥッ！！」[pcms]
+[ns]Brown large dog[nse]
+"Farlur!! Vuu~~!! Fuuuh!!"[pcms]
 
 *10000|
 [fc]
 [vo_may s="maya0712"]
-[ns]摩耶[nse]
-「ぐ、うぅ……熱いぃ……い、やぁ……」[pcms]
+[ns]Maya[nse]
+"Guh, uuh...it's hot...I don't want this..."[pcms]
 
 *10001|
 [fc]
-マヤちゃんの体の下に溜まり、拡がっていく大型犬の[r]
-精液を見れば、アイツがどれだけ大量に出したかが[r]
-わかる。[pcms]
+Looking at the pool of semen from the large dog spreading[r]
+beneath Maya's body, it was clear how much he had released.[pcms]
 
 *10002|
 [fc]
-あんなにだしたんだから、もういいだろ……。[r]
-つぎはおれが、マヤちゃんのオマンコに、だしてやる[r]
-ばんだ……！[pcms]
+He's released so much already; it should be enough... Next,[r]
+it's my turn to fill Maya-chan's pussy with semen...[pcms]
 
 *10003|
 [fc]
-けど、大型犬はマヤちゃんの体から離れず、オマンコ[r]
-にチンコをブッ挿したまま、また腰を振り始めた。[pcms]
+But the large dog didn't leave Maya-chan's body and started[r]
+thrusting his hips again while his dick was still buried in[r]
+her pussy.[pcms]
 
 *10004|
 [fc]
-[ns]茶色の大型犬[nse]
-「ハアァッ！　ハアァッ！　ハアァッ！　ハアァッ！」[pcms]
+[ns]Brown large dog[nse]
+"Haahh! Haahh! Haahh! Haahh!"[pcms]
 
 *10005|
 [fc]
 [vo_may s="maya0713"]
-[ns]摩耶[nse]
-「う、ぐ……ジョン……助けてぇ……あ、ぐうぅ……」[pcms]
+[ns]Maya[nse]
+"Ugh...John...help me...agh, nguu..."[pcms]
 
 *10006|
 [fc]
-[ns]大倉[nse]
-「くそ……つぎ、おれだろ……テメー……！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Damn it...next should be my turn...you bastard...!"[pcms]
 
 *10007|
 [fc]
-おれも……。[r]
-おれもはやく、マヤちゃんとやりてー……！[pcms]
+I also... I want to do it with Maya-chan soon...[pcms]
 
 *10008|
 [fc]
-まやちゃんのおまんこに、くさるほど、[r]
-せーし、なかだししてー……！[pcms]
+I want to fill Maya-chan's pussy with so much semen that it[r]
+rots...[pcms]
 
 *10009|
 [fc]
-早くマヤちゃんに中だししたい、と気は焦るが、[r]
-俺の体はまるで動こうとしない。[pcms]
+I'm eager to creampie inside Maya-chan soon, but my body[r]
+just won't move.[pcms]
 
 *10010|
 [fc]
-ズボンで押さえられてっから、チンコいたくて[r]
-しょーがねー……。[pcms]
+My dick hurts because it's being pressed by my pants...[pcms]
 
 *10011|
 [fc]
-マヤちゃんのオマンコにいれれば、なおるのに……。[pcms]
+If I could just put it inside Maya-chan's pussy, it would[r]
+feel better...[pcms]
 
 *10012|
 [fc]
-あぁ～～はやくいれてー……。[r]
-きもちいぃだろうな～～、マヤちゃんのオマンコ……。[pcms]
+Ahh~~ I want to put it in soon... It must feel so good~,[r]
+Maya-chan's pussy...[pcms]
 
 *10013|
 [fc]
-[ns]赤毛の大型犬[nse]
-「ウ゛ゥ～～ッ……ウ゛ルルッ……！」[pcms]
+[ns]Red-haired large dog[nse]
+"Vuu~~...Vururruh...!"[pcms]
 
 *10014|
 [fc]
-[ns]細面の大型犬[nse]
-「ハッ、ハッ、ハッ、ハッ……」[pcms]
+[ns]Narrow-faced large dog[nse]
+"Hah, Hah, Hah, Hah..."[pcms]
 
 *10015|
 [fc]
-マヤちゃんのトコに行こうと思って行けない俺を、[r]
-２匹の犬が見下ろし、荒くなった息を顔に吐きかけて[r]
-くる。[pcms]
+As I thought about going over to Maya-chan but couldn't[r]
+move, two dogs looked down at me and breathed heavily in my[r]
+face.[pcms]
 
 *10016|
 [fc]
-いつの間にか傍に来ていた面長の犬は、真っ白だった[r]
-体を、口の周りを、垂れ落ちるヨダレを、真っ赤に[r]
-染めていた。[pcms]
+The narrow-faced dog that had come close without me noticing[r]
+had its white body and the area around its mouth stained red[r]
+with drool dripping down.[pcms]
 
 *10017|
 [fc]
-こいつ、ハスキーにかったのか……？[r]
-つえーなぁ～～……。[pcms]
+This guy, did he beat the Husky? That's strong~~...[pcms]
 
 *10018|
 [fc]
-やっぱ、あのハスキーくったのかなぁ～～……。[r]
-ハスキーって、うめ～のかぁ……？[pcms]
+I wonder if he really ate that Husky~~... Does Husky taste[r]
+good...?[pcms]
 
 *10019|
 [fc]
-[ns]大倉[nse]
-「ふっ……くふふっ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Huff...kufufu..."[pcms]
 
 *10020|
 [fc]
-２匹の犬が顔を近づけてくる中、自分が思いついた[r]
-コトがあまりにもバカらしくて、俺は思わず笑いを[r]
-漏らした。[pcms]
+As the two dogs approached my face, I couldn't help but[r]
+laugh at the ridiculous idea that came to mind.[pcms]
 
 *10021|
 [fc]
-[ns]大倉[nse]
-「ぷふぁっ……！　くっくっく……！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Pufa...! Kukkuk..."[pcms]
 
 *10022|
 [fc]
-こいつら、おれも、くうつもりなんだろうな～～……。[pcms]
+These guys probably plan to eat me too~~...[pcms]
 
 *10023|
 [fc]
-おれって……。[pcms]
+I wonder...[pcms]
 
 *10024|
 [fc]
-うめ～のかなぁ～～……？[pcms]
+Do I taste good~~...?[pcms]
 
 *10025|
 [fc]
-[ns]大倉[nse]
-「ふはっ、かはは……っ！！　ぶふくくくっ……！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Fuhaha, kahaha...!! Buhfukukuku...!"[pcms]
 
 *10026|
 [fc]
-２匹の犬の頭が一瞬、後ろに引かれ、自分の喉に[r]
-向かって猛スピードで突っ込んできた時も、俺は衝撃[r]
-すら感じないで、笑いも止まらなかった。[pcms]
+Even when the heads of the two dogs were pulled back for a[r]
+moment and then lunged at my throat at high speed, I didn't[r]
+feel the impact and couldn't stop laughing.[pcms]
 
 *10027|
 [fc]
-[ns]細面の大型犬[nse]
-「ク゛ォアッ！！」[pcms]
+[ns]Narrow-faced large dog[nse]
+"Guoah!!"[pcms]
 
 *10028|
 [fc]
-[ns]赤毛の大型犬[nse]
-「ウ゛アァッ！！」[pcms]
+[ns]Red-haired large dog[nse]
+"Vaaah!!"[pcms]
 
 ;//REDOUT
 [chara_int_ layer=4][bg storage="red"][trans_c cross time=1000]
 
 *10029|
 [fc]
-[ns]大倉[nse]
-「ごぶっ！！　ぐぶははっ！！　がふぁっ！！[r]
-　くはひゅっ！！　ぶぢゅひゅぅっ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Gobu!! Gubuhaha!! Gafah!! Kuhayu!! Bujyuhuu!!"[pcms]
 
 ;//------------------------------------------------
 [if exp="tf.scene_mode==1"]
 	[jump storage="b_scene.ks" target=*back_from_SR]
 ;	[link storage=sceneAgain]もう一度見る[endlink]
 ;	[link storage=sceneList]一覧に戻る[endlink]
-;	[s]
+;[pcms]
 [endif]
 
 *KAISOU_PASS
@@ -931,4 +911,4 @@
 [returntitle]
 
 ;//ゲームオーバー
-;//－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+;//

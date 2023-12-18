@@ -26,9 +26,9 @@
 
 *10387|
 [fc]
-フロアの一番奥、帽子を売ってる店の前に辿り着いた[r]
-俺は、角の向こうにイカレ野郎がいないかどうか、立[r]
-ち止まって足音や気配を探った。[pcms]
+At the very back of the floor, in front of the hat shop, I[r]
+arrived and paused to listen for footsteps or any sign of[r]
+the crazy guys around the corner.[pcms]
 
 ;//SE：マネキンが倒れる音（？）
 ;//代用
@@ -39,42 +39,42 @@
 
 *10388|
 [fc]
-[ns]大倉[nse]
-「！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"!!"[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
 *10389|
 [fc]
-緊張して耳を澄ましているところに、突然、なにかが[r]
-倒れる音がして、俺はみんなを子供用の下着を売って[r]
-る店に押し込んだ。[pcms]
+While I was tensely sharpening my ears, suddenly, the sound[r]
+of something falling startled me, and I pushed everyone into[r]
+a shop selling children's underwear.[pcms]
 
 *10390|
 [fc]
-[ns]大倉[nse]
-「……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"..."[pcms]
 
 *10391|
 [fc]
-息を殺し、全神経を集中させて、ヤツらがやってくる[r]
-気配を感じ取ろうとしたが、しばらく待っても、誰も[r]
-姿を現さなかった。[pcms]
+Holding my breath and concentrating all my nerves, I tried[r]
+to sense their approach, but after waiting for a while, no[r]
+one showed up.[pcms]
 
 *10392|
 [fc]
-恐る恐る物陰から出て通路を窺うと、少し離れた所で、[r]
-向かい側の婦人服売り場に置いてあったらしいマネキ[r]
-ンが、床にうつ伏せに転がっていた。[pcms]
+Cautiously peeking out from behind cover, I saw a mannequin[r]
+that seemed to have been placed at the ladies' clothing[r]
+stall across the way, now lying face down on the floor.[pcms]
 
 *10393|
 [fc]
-アイツらが倒したんじゃねーのか……。[pcms]
+Maybe they knocked it over...[pcms]
 
 *10394|
 [fc]
-あの激しい揺れのせいで立ってる位置がズレて、バラ[r]
-ンスが悪くなってたのかもな……。[pcms]
+The violent shaking might have shifted its position, making[r]
+it lose balance...[pcms]
 
 ;//♪：bgm009 fadeout
 [fadeoutbgm time=1000][wb]
@@ -87,67 +87,63 @@
 *10395|
 [fc]
 [vo_kob s="koba0146"]
-[ns]小林[nse]
-「ねぇヒロ、このみせ、てんいんさんがいないよ……」[pcms]
+[ns]Kobayashi[nse]
+"Hey Hiro, there's no clerk in this store..."[pcms]
 
 *10396|
 [fc]
-大きく息を吐き出して、緊張で速くなった心臓の動き[r]
-を落ち着かせる俺の背中をつつき、ユウが間の抜けた[r]
-声を出した。[pcms]
+Exhaling deeply to calm my rapidly beating heart, Yuu poked[r]
+my back and spoke in a silly voice.[pcms]
 
 *10397|
 [fc]
-[ns]大倉[nse]
-「ああ……それが？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Yeah... what about it?"[pcms]
 
 [ChrSetEx layer=4 chbase="koba_n02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *10398|
 [fc]
 [vo_kob s="koba0147"]
-[ns]小林[nse]
-「さっきのみせにもいなかったし……。ふくとか、い[r]
-　ろいろ、とりほうだいじゃない？」[pcms]
+[ns]Kobayashi[nse]
+"There wasn't one at the last store either... Maybe we can[r]
+take clothes and stuff for free?"[pcms]
 
 *10399|
 [fc]
-ニコニコしているユウに、俺は呆れ顔になって、大き[r]
-く溜息をついた。[pcms]
+I gave Yuu a look of disbelief and let out a heavy sigh.[pcms]
 
 *10400|
 [fc]
-コイツ……。[r]
-今はそんなこと言ってる場合じゃねーってのに……。[r]
-緊張感の無ぇヤツだな……。[pcms]
+This guy... Even now he's talking about such things... He[r]
+really lacks a sense of urgency...[pcms]
 
 *10401|
 [fc]
-[ns]大倉[nse]
-「……オマエ、ガキのパンツ見て興奮するような趣味[r]
-　あったのか？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"...You got a fetish for kids' panties or something?"[pcms]
 
 [ChrSetEx layer=4 chbase="koba_n09"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *10402|
 [fc]
 [vo_kob s="koba0148"]
-[ns]小林[nse]
-「まさか……あ、でもヒロのパンツなら、こうふんで[r]
-　きるかも」[pcms]
+[ns]Kobayashi[nse]
+"Of course not... ah, but maybe I'd get excited over Hiro's[r]
+panties."[pcms]
 
 *10403|
 [fc]
-[ns]大倉[nse]
-「……ったく、つまんねーこと言ってんじゃねーよ、[r]
-　こんな時に……ホラ、行くぞ」[pcms]
+[ns]Ookura Hiroshi[nse]
+"...Seriously, don't say such stupid things at a time like[r]
+this... Come on, let's go."[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *10404|
 [fc]
-アゴをしゃくって移動を促して、俺らは誰もいない、[r]
-静まりかえった通路へ出た。[pcms]
+Jutting my chin forward to signal moving on, we stepped out[r]
+into the deserted and eerily quiet corridor.[pcms]
 
 ;//[fadeoutbgm time=502]
 ;//[stop_se0]
@@ -157,4 +153,4 @@
 
 [jump storage="westtown_main10060.ks" target=*westtown_main10060_TOP]
 
-;//－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+;//

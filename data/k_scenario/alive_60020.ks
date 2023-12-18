@@ -40,485 +40,456 @@
 *441|
 [fc]
 [vo_mob s="keibi0003"]
-[ns]警備員の女[nse]
-「かわいい゛こね～～……、お゛ねえさんと、[r]
-　あそほ゛ぉ～～……」[pcms]
+[ns]Female Security Guard[nse]
+"You're such a cutie... Wanna play with big sis...?"[pcms]
 
 *442|
 [fc]
 [vo_mob s="youen0002"]
-[ns]妖艶な女[nse]
-「あ゛たし～……お゛っぱい゛できもち゛よくさせて[r]
-　あげる～～……」[pcms]
+[ns]Bewitching Woman[nse]
+"I'll make you feel good with my breasts..."[pcms]
 
 *443|
 [fc]
-[ns]大倉[nse]
-「くっ！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Damn it!"[pcms]
 
 *444|
 [fc]
-俺を押し倒した二人の女は、俺の服を破り捨てると、[r]
-それぞれが俺の体をまさぐり始めた。[pcms]
+The two women who had pushed me down began to tear off my[r]
+clothes and started to fondle my body.[pcms]
 
 *445|
 [fc]
-[ns]大倉[nse]
-「くっ……このっ！！　離せ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Damn... you!! Let go!!"[pcms]
 
 *446|
 [fc]
 [vo_mob s="keibi0004"]
-[ns]警備員の女[nse]
-「あはっ……こんな゛に、おっき゛くして～……、[r]
-　ほんと゛はうれし゛いんし゛ゃない゛の～～……？」[pcms]
+[ns]Female Security Guard[nse]
+"Ahaha... You're getting so hard... Aren't you actually[r]
+happy about it...?"[pcms]
 
 *447|
 [fc]
 [vo_mob s="youen0003"]
-[ns]妖艶な女[nse]
-「と゛お゛～～……？　わたしのおっぱい……きもち[r]
-　いい゛～～？」[pcms]
+[ns]Bewitching Woman[nse]
+"How about it...? Do my breasts feel good...?"[pcms]
 
 *448|
 [fc]
-[ns]大倉[nse]
-「くそっ……なんだよクソッ！　何考えてんだよ！」[pcms]
+[ns]Ookura[nse]
+"Damn it... What the hell! What are you thinking?!"[pcms]
 
 *449|
 [fc]
 [vo_mob s="youen0004"]
-[ns]妖艶な女[nse]
-「あへぁ～～……ちくひ゛～……いぃ～～……」[pcms]
+[ns]Bewitching Woman[nse]
+"Ahe~... my nipples... feel so good~..."[pcms]
 
 *450|
 [fc]
 [vo_mob s="keibi0005"]
-[ns]警備員の女[nse]
-「ちん……ちん～……おいしそ～……、[r]
-　んあぁ～……ちゅっ……」[pcms]
+[ns]Female Security Guard[nse]
+"Dick... dick~... looks so tasty... Mmm~... *kiss*"[pcms]
 
 *451|
 [fc]
-[ns]大倉[nse]
-「くあっ……！　やめろっ！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Gah...! Stop it!"[pcms]
 
 *452|
 [fc]
-女くらい、簡単に引き離せると思い、抵抗した。[r]
-しかし、不思議な事に、この女達は押しても引いても、[r]
-ビクともしなかった。[pcms]
+I thought I could easily push away women, so I resisted.[r]
+However, strangely enough, these women wouldn't budge no[r]
+matter how much I pushed or pulled.[pcms]
 
 *453|
 [fc]
 [vo_mob s="keibi0006"]
-[ns]警備員の女[nse]
-「んぶっ……ちゅぱっ……んっ……んぐっ……、[r]
-　じゅるっ……じゅっ！」[pcms]
+[ns]Female Security Guard[nse]
+"Mmm... *suck*... Mmm... *gulp*... *slurp*... *suck*!"[pcms]
 
 *454|
 [fc]
-[ns]大倉[nse]
-「うあっ……なっ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Ugh... what the..."[pcms]
 
 *455|
 [fc]
 [vo_mob s="youen0005"]
-[ns]妖艶な女[nse]
-「ふあぁっ……わ゛たしの……おっぱい……、[r]
-　ほ゛にゅう……て゛るの……ねぇ……きみの゛、[r]
-　からた゛……ぬるぬるにしてあけ゛る……」[pcms]
+[ns]Bewitching Woman[nse]
+"Fuaah... my breasts... they're leaking milk... I'll make[r]
+your body all slippery with it..."[pcms]
 
 *456|
 [fc]
 [vo_mob s="keibi0007"]
-[ns]警備員の女[nse]
-「んぶあっ………おい゛しぃ……ちゅっ……、[r]
-　ぶっ……あむっ……」[pcms]
+[ns]Female Security Guard[nse]
+"Mmm delicious... *kiss*... *gulp*... *bite*..."[pcms]
 
 *457|
 [fc]
-[ns]大倉[nse]
-「うあぁっ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Ughh..."[pcms]
 
 *458|
 [fc]
-俺は二人の女にいいようにされて、[r]
-まるで抵抗出来なかった。[pcms]
+I was completely at the mercy of the two women, unable to[r]
+resist at all.[pcms]
 
 *459|
 [fc]
-周りのみんなを助ける事も出来ず、あげくの果てに、[r]
-女から逆レイプされてしまっている。[pcms]
+Unable to help anyone around me, and to make matters worse,[r]
+I was being reverse-raped by women.[pcms]
 
 *460|
 [fc]
-こんな状況でなければ、嬉しい事だったろう。[r]
-しかし、今は違う。[pcms]
+Under normal circumstances, this might have been a happy[r]
+situation. But not now.[pcms]
 
 *461|
 [fc]
-こんな異常な状態で、イカレた女二人にこんな事され[r]
-たところで、気持ちよくなんてなかった。[pcms]
+In such an abnormal state, being done by two crazy women[r]
+like this didn't feel good at all.[pcms]
 
 *462|
 [fc]
-しかし、二人の女はそんな俺の考えをまるで無視して、[r]
-速水達を犯していた男達と同じように、俺を弄ぶ。[pcms]
+However, the two women completely ignored my thoughts and[r]
+played with me just like the men who had violated Hayami and[r]
+the others.[pcms]
 
 *463|
 [fc]
 [vo_mob s="keibi0008"]
-[ns]警備員の女[nse]
-「はあっ……ふっ……ふふっ……、きもちいい～～？[r]
-　あぶっ……んっ……じゅるっ……ぐぶっ……！！」[pcms]
+[ns]Female Security Guard[nse]
+"Haa... huff... hehe... does it feel good~? *gasp*... Mmm...[r]
+*slurp*... *gulp*!!"[pcms]
 
 *464|
 [fc]
 [vo_mob s="youen0006"]
-[ns]妖艶な女[nse]
-「ふあぁ……、おっぱい……きもちい゛い～……、[r]
-　わたし……ちく゛ひ゛……すき゛～～……」[pcms]
+[ns]Bewitching Woman[nse]
+"Fuaah... my breasts feel so good... I love my nipples~..."[pcms]
 
 *465|
 [fc]
-乳首から母乳を滲ませている女は、俺の胸に、[r]
-自分の乳首を擦りつけ、警備員の格好をした女は、[r]
-俺のチンコをただひたすらに舐めている。[pcms]
+The woman leaking breast milk from her nipples rubbed them[r]
+against my chest, while the woman dressed as a security[r]
+guard was relentlessly licking my dick.[pcms]
 
 *466|
 [fc]
-[ns]大倉[nse]
-「うあっ……なんだよ！　お前らっ……うぅっ……！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Ugh... what's with you guys! Uhh...!"[pcms]
 
 *467|
 [fc]
 [vo_mob s="youen0007"]
-[ns]妖艶な女[nse]
-「あははっ……ははっ……おっぱい……いい゛っ……！[r]
-　きみの゛ちくひ゛にあたって゛……きもち……いい」[pcms]
+[ns]Bewitching Woman[nse]
+"Ahaha... haha... my breasts feel so good! They're touching[r]
+your nipples and it feels good."[pcms]
 
 *468|
 [fc]
 [vo_mob s="keibi0009"]
-[ns]警備員の女[nse]
-「ぶあっ……なあに゛……き゛み……、ちい゛さい、[r]
-　まま゛し゛ゃない……も゛う……、[r]
-　し゛ゃあ゛、もっ゛として゛あけ゛る～～」[pcms]
+[ns]Female Security Guard[nse]
+"Gulp... what's that? You're not a little boy anymore, are[r]
+you? Then I'll do even more for you~"[pcms]
 
 *469|
 [fc]
 [vo_mob s="keibi0010"]
-[ns]警備員の女[nse]
-「あ゛たしのくち゛……すき゛にお゛かしてい゛いの、[r]
-　きみの゛すきな゛ように゛していい゛よ？[r]
-　ふふっ……んぶっ……ち゛ゅっ！！」[pcms]
+[ns]Female Security Guard[nse]
+"You can use my mouth as much as you like, do whatever you[r]
+want with it. Hehe... *suck*!!"[pcms]
 
 *470|
 [fc]
-[ns]大倉[nse]
-「うっ……くっ……なんだ……よ……うっ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Ugh... damn it... what's this... ugh..."[pcms]
 
 *471|
 [fc]
 [vo_mob s="youen0008"]
-[ns]妖艶な女[nse]
-「あはっ……きみ゛……と゛きと゛き……してる……、[r]
-　わ゛たしのおっぱいにつた゛わって゛くる……！[r]
-　わたしも゛……おっぱい……たくさんて゛てる……」[pcms]
+[ns]Bewitching Woman[nse]
+"Ahaha... your heart's pounding, I can feel it through my[r]
+breasts! I'm also producing a lot of milk..."[pcms]
 
 *472|
 [fc]
-二人とも涙と涎まみれの顔をして、俺の体を弄び、[r]
-悦んでいる。[pcms]
+Both women, with faces smeared with tears and drool, were[r]
+playing with my body and enjoying themselves.[pcms]
 
 *473|
 [fc]
-一体……どうしたってんだよ……。[r]
-この街に来てから……こんなヤツらが沢山……。[pcms]
+What the hell is going on here? Ever since I came to this[r]
+town, there have been so many of these people...[pcms]
 
 *474|
 [fc]
 [vo_mob s="youen0009"]
-[ns]妖艶な女[nse]
-「ほらぁ……そんな゛かお゛しないて゛……、[r]
-　わた゛しの……おっぱい……もっとかんし゛させて」[pcms]
+[ns]Bewitching Woman[nse]
+"Look, don't make such a face. Let yourself feel more of my[r]
+breasts."[pcms]
 
 *475|
 [fc]
 [vo_mob s="keibi0011"]
-[ns]警備員の女[nse]
-「んぶっ……んっ……んぱっ！！[r]
-　あはっ……はっ……おっき゛くなった゛ぁ～～！！」[pcms]
+[ns]Female Security Guard[nse]
+"Mmm... Mmmph!! Ahaha... it's gotten so big~!!"[pcms]
 
 *476|
 [fc]
-何だよ……なんだよコレ！！[r]
-訳わかんねえよ！！[pcms]
+What is this? This makes no sense!![pcms]
 
 *477|
 [fc]
-[ns]大倉[nse]
-「クソッ……うあっ！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Damn it... ugh!"[pcms]
 
 *478|
 [fc]
 [vo_mob s="youen0010"]
-[ns]妖艶な女[nse]
-「あ、あ゛っ……あっ……また……おっぱい……、[r]
-　て゛ちゃう……あうっ……あつ゛いぃ～～……」[pcms]
+[ns]Bewitching Woman[nse]
+"Ah, ah~... again... my breasts are leaking milk... ohh...[r]
+it's so hot~..."[pcms]
 
 ;//★イベントＣＧ１＿Ｂ
 [evcg storage="HEV606b"][trans_c cross time=301]
 
 *479|
 [fc]
-俺に胸を押しつけている女の乳首から、[r]
-母乳が吹き出し、それはモノを舐めている女の顔を、[r]
-白く濡らしていった。[pcms]
+The woman pressing her chest against me had breast milk[r]
+squirting from her nipples, drenching the face of the woman[r]
+licking me in white.[pcms]
 
 *480|
 [fc]
 [vo_mob s="youen0011"]
-[ns]妖艶な女[nse]
-「あ゛あ゛～～……い゛い～～……、はっ……、[r]
-　あはぁっ……」[pcms]
+[ns]Bewitching Woman[nse]
+"Aaah~... feels so good~... haah... ahaa..."[pcms]
 
 *481|
 [fc]
 [vo_mob s="keibi0012"]
-[ns]警備員の女[nse]
-「あ゛はぁっ……あんたの゛おっぱい゛……、[r]
-　しゃせい゛したみた゛い゛……あた゛しは……この、[r]
-　お゛とこのさ゛ーめん、のむ゛～～……」[pcms]
+[ns]Female Security Guard[nse]
+"Ahaa... I want to taste your milk too... I love drinking[r]
+this man's semen~..."[pcms]
 
 *482|
 [fc]
-[ns]大倉[nse]
-「あぐっ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Aggh..."[pcms]
 
 *483|
 [fc]
-さっきまでの酷い背中の痛みは、いつの間にか消え、[r]
-代わりの俺の頭の中に、何か得体の知れない虫が[r]
-這いずるような感覚が襲ってきていた。[pcms]
+The terrible pain in my back had disappeared before I knew[r]
+it, replaced by a strange sensation crawling in my head.[pcms]
 
 *484|
 [fc]
-その虫は、俺の頭の中のこの二人に対する恐怖心と、[r]
-今されている事への異常さを薄れさせてきていた。[pcms]
+This sensation was dulling my fear of these two women and[r]
+the abnormality of what was happening.[pcms]
 
 *485|
 [fc]
-むしろ、与えられる刺激からの快楽を増強させている[r]
-ようだった。[pcms]
+Rather, it seemed to be enhancing the pleasure from the[r]
+stimuli being given to me.[pcms]
 
 *486|
 [fc]
-[ns]大倉[nse]
-「うあぁぁあ！！　なんだよこれっ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Uaaaah!! What is this?!"[pcms]
 
 *487|
 [fc]
-俺の頭んなか……どうしたんだ！？[r]
-おかしいっ！[pcms]
+What's happening inside my head? This is crazy![pcms]
 
 *488|
 [fc]
-……そう言えばさっき、速水やユウは急に[r]
-おかしくなった……。[pcms]
+That's right, Hayami and Yuu suddenly went crazy earlier...[pcms]
 
 *489|
 [fc]
-もしかして、あいつらも、こんな風に！？[pcms]
+Could it be that they also experienced something like this!?[pcms]
 
 *490|
 [fc]
 [vo_mob s="youen0012"]
-[ns]妖艶な女[nse]
-「ほら゛ぁ……また゛そんなかおして～～……。[r]
-　わたしのおっぱい……みり゛ょく、な゛いの～～？」[pcms]
+[ns]Bewitching Woman[nse]
+"Come on, don't make that face. Doesn't my breast have any[r]
+charm for you?"[pcms]
 
 *491|
 [fc]
 [vo_mob s="keibi0013"]
-[ns]警備員の女[nse]
-「じゅぷっ……んぶっ！！　ぷあぁぁっ！！[r]
-　あぁ～～……ま゛た、お゛っきくなったぁ～～！[r]
-　あはっ……もっ゛として゛あけ゛る～～！」[pcms]
+[ns]Female Security Guard[nse]
+"Slurp... gulp!! Puaaah!! Ahh~~... it's gotten big again~~![r]
+Aha... I want more of this~~!"[pcms]
 
 *492|
 [fc]
 [vo_mob s="youen0013"]
-[ns]妖艶な女[nse]
-「あっ……うあぁ゛！　わたしっ……おっぱいで……[r]
-　いき゛そ……ちくひ゛……いいっ！[r]
-　んぁぁっ……ふあっ……」[pcms]
+[ns]Bewitching Woman[nse]
+"Ah... ughaa! I'm going to come... with my breasts... my[r]
+nipples... are good! Naaah... fuah..."[pcms]
 
 *493|
 [fc]
-[ns]大倉[nse]
-「うっ……ううっ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Ugh... uuh..."[pcms]
 
 *494|
 [fc]
 [vo_mob s="keibi0014"]
-[ns]警備員の女[nse]
-「ずちゅうっ！　んぶっ！！　はぁっ……、[r]
-　きみの゛おちん゛ちん……、おい゛し～～……、[r]
-　ねぇ～……さ゛～めん、のま゛せて゛ぇ～～」[pcms]
+[ns]Female Security Guard[nse]
+"Sucking hard! Gulp!! Haa... your cock... is so tasty~~...[r]
+hey~~ let me drink your semen~~"[pcms]
 
 *495|
 [fc]
 [vo_mob s="youen0014"]
-[ns]妖艶な女[nse]
-「あ――っ゛……おっぱい……しひ゛れるっ……、[r]
-　しひ゛れて゛っ……うんんっ……」[pcms]
+[ns]Bewitching Woman[nse]
+"Ah--... my breasts... are tingling..., tingling... mmm..."[pcms]
 
 *496|
 [fc]
-[ns]大倉[nse]
-「うあっ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Uah..."[pcms]
 
 *497|
 [fc]
-胸に押しつけられたデカイおっぱいからは、止まる事[r]
-無く、母乳が溢れ出て、俺の体を濡らしていく。[pcms]
+The large breasts pressed against my chest kept overflowing[r]
+with milk, drenching my body without stopping.[pcms]
 
 *498|
 [fc]
-その母乳が潤滑液の代わりになって、デカイおっぱい[r]
-が、俺の胸の上を滑る。[pcms]
+The milk acted as a lubricant, allowing the large breasts to[r]
+slide over my chest.[pcms]
 
 *499|
 [fc]
-恐怖心が薄れた今、この女達が誰か、[r]
-それにどうしてこんな事になっているのかは、[r]
-次第にどうでもよくなってきていた。[pcms]
+Now that my fear had faded, who these women were and why[r]
+this was happening seemed to matter less and less.[pcms]
 
 *500|
 [fc]
-むしろ、この状況を楽しみたい。[r]
-そんな風に思えるようになっていた。[pcms]
+Rather, I was starting to want to enjoy this situation.[pcms]
 
 *501|
 [fc]
 [vo_mob s="keibi0015"]
-[ns]警備員の女[nse]
-「んぶっ……じゅるっ！！　ずぶっちゅっ！[r]
-　んあっ……ぶっ……ぢゅるぅっ！　んんんっ！！[r]
-　れろっ！！　んぶぁぁっ……！」[pcms]
+[ns]Female Security Guard[nse]
+"Gulp... slurp!! Sucking hard! Naaah... gulp... slurping![r]
+Nnnn!! Licking!! Gulp aahh...!"[pcms]
 
 *502|
 [fc]
 [vo_mob s="youen0015"]
-[ns]妖艶な女[nse]
-「あーっ……あはっ……わたしのおっぱい……、[r]
-　ほ゛にゅう……とまら゛ない……、あぁぁ……」[pcms]
+[ns]Bewitching Woman[nse]
+"Ah--... aha... my breasts..., the milk won't stop...,[r]
+ahh..."[pcms]
 
 *503|
 [fc]
-それに、女とこんな事をするのは初めての事。[pcms]
+And this was my first time doing something like this with a[r]
+woman.[pcms]
 
 *504|
 [fc]
-エロ本や、ビデオでは見たことがあった。[r]
-しかし実際に受けるその刺激は、[r]
-想像していた以上に、心地のいいものだった。[pcms]
+I had seen it in porn magazines and videos. But the actual[r]
+stimulation I received was more pleasant than I had[r]
+imagined.[pcms]
 
 *505|
 [fc]
-[ns]大倉[nse]
-「うあっ！　ははっ！　あうっ！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Uah! Haha! Auh!"[pcms]
 
 *506|
 [fc]
 [vo_mob s="keibi0016"]
-[ns]警備員の女[nse]
-「んぶっ……おちん゛ちん……こんな……、[r]
-　もう゛、か゛まん゛て゛きないんて゛しょ～～！[r]
-　あはっ！　ちゅっ……んぶっ！！」[pcms]
+[ns]Female Security Guard[nse]
+"Gulp... your cock... like this..., you can't hold back[r]
+anymore, can you~~! Aha! Suck... gulp!!"[pcms]
 
 *507|
 [fc]
 [vo_mob s="youen0016"]
-[ns]妖艶な女[nse]
-「きみのか゛らた゛……ほ゛にゅうて゛ぬ゛るぬ゛る[r]
-　してる゛……きも゛ちいい゛～～……」[pcms]
+[ns]Bewitching Woman[nse]
+"Your body... it feels so good being slippery with my[r]
+milk~~..."[pcms]
 
 *508|
 [fc]
-[ns]大倉[nse]
-「ははっ……ははっ！！　いいぜ！　もっと吸って[r]
-　くれよ！　あははっ！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Haha... haha!! That's right! Suck more! Ahaha!"[pcms]
 
 *509|
 [fc]
 [vo_mob s="keibi0017"]
-[ns]警備員の女[nse]
-「ずちゅっ！！　あむっ……ぶあっ！！[r]
-　うら゛のすし゛……いいんて゛しょぉ゛……、[r]
-　おちん゛ちん……ひくひ゛くしてきたぁ……」[pcms]
+[ns]Female Security Guard[nse]
+"Sucking hard!! Chomp... buah!! The back of your throat[r]
+feels good, doesn't it...? Your cock is twitching..."[pcms]
 
 *510|
 [fc]
 [vo_mob s="youen0017"]
-[ns]妖艶な女[nse]
-「きみのからた゛……、あったか゛い～～……、[r]
-　きもち゛い～～……！！」[pcms]
+[ns]Bewitching Woman[nse]
+"Your body... it's so warm~~... feels good~~...!!"[pcms]
 
 *511|
 [fc]
-[ns]大倉[nse]
-「うあぁぁ……うっ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Uaaah... ugh..."[pcms]
 
 *512|
 [fc]
-俺が限界なのがわかったのか、二人は俺を見て微笑み、[r]
-それぞれの動きをいっそう激しくさせた。[pcms]
+Realizing I was at my limit, the two women smiled at me and[r]
+intensified their movements even more.[pcms]
 
 *513|
 [fc]
 [vo_mob s="keibi0018"]
-[ns]警備員の女[nse]
-「ぢゅぷっ、んぢゅっ、じゅぷっ……んむっ、んっ、[r]
-　んじゅっ……ちゅぷっ、ちゅぶぅっ……！！」[pcms]
+[ns]Female Security Guard[nse]
+"Slurp, gulp, slurp... gulp, nnn, gulp... suck, chubuu...!!"[pcms]
 
 *514|
 [fc]
 [vo_mob s="youen0018"]
-[ns]妖艶な女[nse]
-「はぁっ……んぅあぁっ……おっぱい゛……、[r]
-　おっぱい゛……いいっ……んっ……ふっ！！」[pcms]
+[ns]Bewitching Woman[nse]
+"Haa... nuuahh... my breasts..., my breasts are good...[r]
+nnn... fuu!!"[pcms]
 
 *515|
 [fc]
-[ns]大倉[nse]
-「うっ……ああっ……あっ……俺……もう……！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Ugh... aah... ah... I'm going to...!"[pcms]
 
 *516|
 [fc]
 [vo_mob s="keibi0019"]
-[ns]警備員の女[nse]
-「んちゅっ……、えへぇ～……、かわ゛いいかお゛！[r]
-　んーっ……ぢゅぶっぅっ！！」[pcms]
+[ns]Female Security Guard[nse]
+"Suck... ehehe~ such a cute face! Nnn... slurping hard!!"[pcms]
 
 *517|
 [fc]
-警備員の女は、舌でカリの裏をなめ回しながら、[r]
-頬をすぼめて、俺のモノを強烈に吸い上げてきた。[pcms]
+The female security guard, while licking the underside of[r]
+the glans with her tongue, sucked intensely on my thing with[r]
+her cheeks puckered.[pcms]
 
 *518|
 [fc]
-[ns]大倉[nse]
-「うっ……うあぁあっ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Ugh... uaaahh!!"[pcms]
 
 *519|
 [fc]
 [vo_mob s="youen0019"]
-[ns]妖艶な女[nse]
-「わっ……わたし……い……イ゛クっ！[r]
-　ふあぁぁあぁっ！！」[pcms]
+[ns]Bewitching Woman[nse]
+"Waah... I'm going to come! Fuuuaaahhh!!"[pcms]
 
 ;[射精フラA]
 ;イベントCG射精差分
@@ -528,72 +499,68 @@
 
 *520|
 [fc]
-今までに感じた事のない感覚が、背筋を駆けめぐり、[r]
-その刺激に耐える事ができなかった俺は、そのまま、[r]
-口の中に精子を出してしまった。[pcms]
+A sensation I had never felt before raced up my spine, and[r]
+unable to withstand the stimulus, I ended up releasing my[r]
+sperm into her mouth.[pcms]
 
 *521|
 [fc]
 [vo_mob s="keibi0020"]
-[ns]警備員の女[nse]
-「んっ、んちゅ……ちゅぅっ、ちゅむっ……」[pcms]
+[ns]Female Security Guard[nse]
+"Nnn, suck... suck, chuumm..."[pcms]
 
 *522|
 [fc]
-[ns]大倉[nse]
-「ふ、はっ……ハァッ……」[pcms]
+[ns]Ookura[nse]
+"Fu, hah... HAAH..."[pcms]
 
 *523|
 [fc]
-警備員の女は、俺がイッてしまってからも、[r]
-チンコを吸い続けて、俺の精子を全て飲み干そうと[r]
-していた。[pcms]
+Even after I came, the female security guard continued to[r]
+suck on my cock, trying to swallow all of my semen.[pcms]
 
 *524|
 [fc]
 [vo_mob s="youen0020"]
-[ns]妖艶な女[nse]
-「あは――っ……はっ……はあっ……。[r]
-　わたし……おっぱいた゛けて゛イッち゛ゃった……」[pcms]
+[ns]Bewitching Woman[nse]
+"Aha--h... hah... haaah.... I came just from my breasts..."[pcms]
 
 *525|
 [fc]
-俺におっぱいを押しつけていた女もイッてしまった[r]
-みたいで、俺の胸の上で、自分の母乳にまみれ、[r]
-ぐったりとしていた。[pcms]
+The woman who had been pressing her breasts against me also[r]
+seemed to have come, lying drenched in her own milk on top[r]
+of my chest, completely spent.[pcms]
 
 *526|
 [fc]
 [vo_mob s="keibi0021"]
-[ns]警備員の女[nse]
-「ん、れる……んふ、ふ……お゛いし……、[r]
-　こくてぇ～～……おい゛し～～……」[pcms]
+[ns]Female Security Guard[nse]
+"Nnn, delicious... so thick~~... so tasty~~..."[pcms]
 
 *527|
 [fc]
-[ns]大倉[nse]
-「はあっ……ハアッ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Haa... HAAH..."[pcms]
 
 *528|
 [fc]
-やっと俺のチンコから顔を離した女は、[r]
-嬉しそうに口の周りを舌でなめ回し、微笑んでいる。[pcms]
+Finally releasing my cock from her mouth, the woman licked[r]
+around her lips with her tongue and smiled happily.[pcms]
 
 *529|
 [fc]
-イッたばかりの俺のチンコは、何故か立ったまま[r]
-だった。[pcms]
+My cock remained erect even after I had just come.[pcms]
 
 *530|
 [fc]
-[ns]大倉[nse]
-「……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"..."[pcms]
 
 *531|
 [fc]
-俺は、イッてしまった事で冷静になったのか、[r]
-急にこの女達が怖くなって、二人を突き飛ばし、[r]
-速水達の所へと走り出そうとした。[pcms]
+Perhaps regaining some composure after coming, I suddenly[r]
+became afraid of these women again and pushed them away,[r]
+trying to run towards Hayami and the others.[pcms]
 
 [sysbt_meswin clear]
 
@@ -607,32 +574,32 @@
 
 *532|
 [fc]
-もう体の痛みは全くなくなっていた。[r]
-それどころか、体が少し軽いような感覚に包まれて、[r]
-速水達の所まで行く事は簡単だと思っていた。[pcms]
+The pain in my body had completely disappeared. In fact, I[r]
+felt a bit lighter and thought it would be easy to get to[r]
+where Hayami and the others were.[pcms]
 
 *533|
 [fc]
-[ns]大倉[nse]
-「速水……速水っ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Hayami... Hayami!!"[pcms]
 
 *534|
 [fc]
 [vo_mob s="suit0001"]
-[ns]スーツを着た女[nse]
-「ま゛あって゛～～……、わたし゛はぁ？[r]
-　わ゛たしと……シてくれないの゛ぉ……！？」[pcms]
+[ns]Woman in a suit[nse]
+"Wait a minute~~... what about me? Won't you do it with[r]
+me~~!?"[pcms]
 
 *535|
 [fc]
-[ns]大倉[nse]
-「ぐっ、あっ……！？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Guh, ah...!?"[pcms]
 
 *536|
 [fc]
-速水達の所へと向かおうと、足を踏み出した所を、[r]
-今度はまた別の女が、俺の足に絡みついてきて、[r]
-俺を引きずり倒した。[pcms]
+As I stepped forward to head towards Hayami and the others,[r]
+another woman wrapped herself around my leg and dragged me[r]
+down.[pcms]
 
 [se0 storage="SE23"]
 [quake_bg 元time=1000 xy m]
@@ -650,299 +617,288 @@
 *537|
 [fc]
 [vo_mob s="suit0002"]
-[ns]スーツを着た女[nse]
-「ふふっ……ふふふっ……、つかま゛えた゛～～！[r]
-　わ゛たしと……えっち……しよ～～？」[pcms]
+[ns]A woman in a suit[nse]
+"Heheh... heheheh..., got you~~! Shall we have sex~~?"[pcms]
 
 *538|
 [fc]
-[ns]大倉[nse]
-「なっ……離せぇ！！　なんだよいきなりッ！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"What the... let go of me!! What's with this all of a[r]
+sudden!?"[pcms]
 
 *539|
 [fc]
-女は俺を引きずり倒すと、ヘラヘラと笑いながら[r]
-上に跨って、俺のチンコに手を添えて導き、[r]
-温かく濡れた中へと埋めていった。[pcms]
+After dragging me down, the woman laughed mischievously as[r]
+she straddled me, guiding my cock with her hand into her[r]
+warm and wet insides.[pcms]
 
 *540|
 [fc]
 [vo_mob s="suit0003"]
-[ns]スーツを着た女[nse]
-「はあぁぁああぁあ……、きも゛ちい～～……、[r]
-　わかい゛この゛ちんちん゛……かたくて゛……、[r]
-　んはぁあぁっ……」[pcms]
+[ns]Woman in a suit[nse]
+"Haaaahhhhhhh.... it feels so good~~..., a young boy's cock[r]
+is so hard..., nhaaahhh..."[pcms]
 
 *541|
 [fc]
-[ns]大倉[nse]
-「んんっ……うっ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Nnn...ugh..."[pcms]
 
 *542|
 [fc]
-女は、俺のチンコを自分の体の中へゆっくりと[r]
-埋めると、そのまま激しく腰の上で上下し始めた。[pcms]
+The woman slowly buried my cock inside her body and then[r]
+began to move her hips up and down vigorously.[pcms]
 
 *543|
 [fc]
-俺のチンコが出入りするたびに、[r]
-粘り気を帯びた水音が響き渡る。[pcms]
+With each entry and exit of my cock, a sticky, wet sound[r]
+echoed.[pcms]
 
 *544|
 [fc]
 [vo_mob s="suit0004"]
-[ns]スーツを着た女[nse]
-「ひっ、あ゛ぁっ！　んぅっ、っく、ふあぁっ！」[pcms]
+[ns]A woman in a suit[nse]
+"Hih, aah! Nnh, kuh, fuah!"[pcms]
 
 *545|
 [fc]
-[ns]大倉[nse]
-「なっ……うっ……くうっ！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Wha...ugh...kuh!"[pcms]
 
 *546|
 [fc]
 [vo_mob s="suit0005"]
-[ns]スーツを着た女[nse]
-「ねぇ……キミ、あ゛たしを、も゛っとみてよ……、[r]
-　えっち……？　あ゛たし、え゛っちなかお゛、[r]
-　してる？　こう゛ふん……する？」[pcms]
+[ns]A woman in a suit[nse]
+"Hey...look at me more...you like it...? Am I making a lewd[r]
+face? Does it turn you on?"[pcms]
 
 *547|
 [fc]
-[ns]大倉[nse]
-「あっ……あああっ……、くうっ……！！[r]
-　さっき……出したばっかり……で……くっ！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Ah...aaaah...kuh!! I just...came...a moment ago...kuh!"[pcms]
 
 *548|
 [fc]
 [vo_mob s="suit0006"]
-[ns]スーツを着た女[nse]
-「け゛んき～～……あうっ……んっ……ふあっ！！[r]
-　きみ゛の……いいよぉ～～……！[r]
-　かち゛かちの……ちん゛ちん……いいっ……」[pcms]
+[ns]A woman in a suit[nse]
+"So energetic~~...auh...nnh...fuah!! Your...it feels so[r]
+good~~! Your hard...cock...is good..."[pcms]
 
 *549|
 [fc]
-[ns]大倉[nse]
-「うああっ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Uaaah..."[pcms]
 
 *550|
 [fc]
-俺の上で跳ねる女は、妖しく虚ろな目で俺を見て、[r]
-薄いピンク色の口紅を塗った唇をなめ回している。[pcms]
+The woman bouncing on top of me looked at me with[r]
+bewitching, vacant eyes and licked her lips, which were[r]
+painted with light pink lipstick.[pcms]
 
 *551|
 [fc]
-[ns]大倉[nse]
-「あ……うっ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Ah...ugh..."[pcms]
 
 *552|
 [fc]
-俺のチンコを飲み込んだオマンコからは、愛液が溢れ、[r]
-二人の結合部をドロドロに濡らしていく。[pcms]
+From the pussy that swallowed my cock, love juices[r]
+overflowed, drenching our joined parts in a sticky mess.[pcms]
 
 *553|
 [fc]
 [vo_mob s="suit0007"]
-[ns]スーツを着た女[nse]
-「あはぁあぁあっ！！　きも゛ちいいよ～～！[r]
-　ちんちん゛か゛、おくま゛て゛とと゛いてる゛～！」[pcms]
+[ns]Woman in a suit[nse]
+"Ahhaaaaah!! It feels so good~~! Your cock is reaching deep[r]
+inside~~!"[pcms]
 
 *554|
 [fc]
-女の甘い声が、俺の頭の中を撫で回す。[r]
-俺の頭の中を蠢く虫の数が、増えていく。[pcms]
+The woman's sweet voice caressed my mind. The number of bugs[r]
+writhing inside my head was increasing.[pcms]
 
 *555|
 [fc]
-興奮しすぎたのか、それとも気持ちよさのせいか。[r]
-俺の頭はモヤがかかったように、ぼやけてきた。[pcms]
+Whether from too much excitement or from the pleasure, my[r]
+head started to feel foggy, as if covered in a haze.[pcms]
 
 *556|
 [fc]
-[ns]大倉[nse]
-「うっ……うあぁぁっ……中……熱い……」[pcms]
+[ns]Ookura[nse]
+"Ugh...uuaaah...inside...it's hot..."[pcms]
 
 *557|
 [fc]
-快楽を求める事だけが、頭の中に渦巻いている。[r]
-他の事は、もう考えられなくなってきた。[pcms]
+Seeking pleasure was the only thing swirling in my head. I[r]
+couldn't think of anything else anymore.[pcms]
 
 *558|
 [fc]
 [vo_mob s="suit0008"]
-[ns]スーツを着た女[nse]
-「うあうっ……あたまに゛ひひ゛くっ……、んっ！[r]
-　おく、つかれ゛てっ……んんっ……、[r]
-　はっ……はぁっ……！」[pcms]
+[ns]A woman in a suit[nse]
+"Uauh...my head is biku...nnh! My insides are getting[r]
+tired...nnnh...ha...haah...!"[pcms]
 
 *559|
 [fc]
-女の腰の動きに合わせ、さらに奥まで俺のチンコを[r]
-ねじ込もうと、腰を強く打ち付けてやった。[pcms]
+Matching the woman's hip movements, I thrust my hips[r]
+strongly to screw my cock even deeper inside her.[pcms]
 
 *560|
 [fc]
-下から見上げる女の胸は、腰の動きに合わせて[r]
-上下に揺れ、それはいっそう、俺を高ぶらせた。[pcms]
+Looking up from below, the woman's breasts swayed up and[r]
+down with the movement of her hips, further arousing me.[pcms]
 
 *561|
 [fc]
 [vo_mob s="suit0009"]
-[ns]スーツを着た女[nse]
-「あっ……あ、あ、あ、あ……す、すこ゛っ……、[r]
-　すこ゛いいっ！　ふあぁっ……、あはっ……！！」[pcms]
+[ns]A woman in a suit[nse]
+"Ah...ah, ah, ah, ah...that's so...so good![r]
+Fuahh...ahah...!!"[pcms]
 
 *562|
 [fc]
 [vo_mob s="suit0010"]
-[ns]スーツを着た女[nse]
-「ねえ……イくとき……あ゛たしの……なかて゛……、[r]
-　きみの゛……せ゛んふ゛……あ゛たしの……なか゛、[r]
-　に、た゛、し、てっ！　おね゛か゛いっ！！」[pcms]
+[ns]Woman in a suit[nse]
+"Hey...when you come...inside me...release all of[r]
+your...semen inside me, please!!"[pcms]
 
 *563|
 [fc]
-[ns]大倉[nse]
-「くっ……ううっ……、いいの……かよ……そんな」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Kuh...uuuh...is that okay with you...to do that?"[pcms]
 
 *564|
 [fc]
-この女達がイカレている事は、分かっていた。[r]
-でも、ここまでとは思いもしなかった。[pcms]
+I knew these women were crazy. But I never imagined it would[r]
+be to this extent.[pcms]
 
 *565|
 [fc]
-この女達には、もう理性はまるで残っていない。[r]
-そんな感じがして、また背筋に悪寒が走った。[pcms]
+These women had completely lost their reason. I felt a chill[r]
+run down my spine again.[pcms]
 
 *566|
 [fc]
-コイツらに襲われてから、俺も……速水達もおかしく[r]
-なった……。[pcms]
+Ever since these women attacked me, I've been going crazy[r]
+too...just like Hayami and the others.[pcms]
 
 *567|
 [fc]
-もし……。[r]
-コイツらと同じになっちまうんだったら……。[pcms]
+If I end up becoming like them...[pcms]
 
 *568|
 [fc]
-俺も、こんな風に！？[pcms]
+Will I become like this too!?[pcms]
 
 *569|
 [fc]
-[ns]大倉[nse]
-「うっ……うぉぉおお！　離せッ！　イヤだッ！[r]
-　俺は、お前らみたいにはなりたくねえっ！！[r]
-　マトモなまま……マトモなままでいたいんだっ！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Ugh...woooah! Let go! I don't want to! I don't want to[r]
+become like you guys!! I want to stay sane...stay sane!"[pcms]
 
 *570|
 [fc]
 [vo_mob s="suit0011"]
-[ns]スーツを着た女[nse]
-「と゛うしたの？　きゅうに゛～～……えへぁ～……、[r]
-　それ゛よりぃ～～……もっと、おも゛いっきり……。[r]
-　つきまわ゛して゛ぇ～～！」[pcms]
+[ns]A woman in a suit[nse]
+"What's wrong? All of a sudden~~...ehe~..., more[r]
+importantly~~...do it more vigorously. Pound me harder~~!"[pcms]
 
 *571|
 [fc]
-[ns]大倉[nse]
-「くっ……うぅぁぁあっ！！　うあっ……、[r]
-　うぅぅぅうっ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Kuh...uaaah!! Uah..., uuuuuh!!"[pcms]
 
 *572|
 [fc]
-どうなってんだ……。[r]
-俺の頭の中……。[r]
-虫があぁぁあっ！？[pcms]
+What's happening to me... Inside my head... The bugs are[r]
+aaaaah!?[pcms]
 
 *573|
 [fc]
-頭の中に、虫が這いずり回ってるっ！！[pcms]
+Bugs are crawling around inside my head!![pcms]
 
 *574|
 [fc]
-俺の不安は、この女のオマンコから与えられる刺激と、[r]
-蠢く虫のせいでかき消されて、[r]
-すぐに別の考えに切り替わっていった。[pcms]
+The stimulation provided by the woman's pussy and the[r]
+wriggling bugs silenced my anxiety, and my thoughts quickly[r]
+shifted to something else.[pcms]
 
 *575|
 [fc]
-『この女の中に精液をはき出す』[r]
-俺の頭の中は、ただそれだけに埋め尽くされた。[pcms]
+"To ejaculate inside this woman." My mind was completely[r]
+filled with just that one thought.[pcms]
 
 *576|
 [fc]
-[ns]大倉[nse]
-「うっ……あうっ……くっ……くくっ……！[r]
-　そうか！　じゃあ、お望み通り……くくっ！」[pcms]
+[ns]Ookura[nse]
+"Ugh...auh...kuh...kukuh...! So that's it! Then as you[r]
+wish...kukuh!"[pcms]
 
 *577|
 [fc]
 [vo_mob s="suit0012"]
-[ns]スーツを着た女[nse]
-「きゃあ゛ぁっ！　うあっ……そん゛なにしたらっ！[r]
-　おま゛んこ……こわ゛れちゃ、うっ！」[pcms]
+[ns]A woman in a suit[nse]
+"Kyaaaah! Uah...if you do it like that! My pussy...it's[r]
+going to break, ugh!"[pcms]
 
 *578|
 [fc]
-[ns]大倉[nse]
-「はっ……はあっ……うっ……ははっ！！[r]
-　はははっ！！　いいぞ！　お前のっ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Ha...haah...ugh...hahah!! Hahaha!! That's good! Your!!"[pcms]
 
 *579|
 [fc]
 [vo_mob s="suit0013"]
-[ns]スーツを着た女[nse]
-「ひうっ……そ、んな……あうっ……きゅうに゛！[r]
-　くあぁっ！　い゛っ……いい゛っ！！」[pcms]
+[ns]Woman in a suit[nse]
+"Hiuh...so, like that...auh...suddenly! Kuaah! It's good!![r]
+It's good!!"[pcms]
 
 *580|
 [fc]
-目の前の女の、胸と白い肌。[r]
-それに、俺との結合部分からしてくる淫猥な音が、[r]
-頭の中の虫を、より活発にさせた。[pcms]
+The woman's breasts and white skin before my eyes, along[r]
+with the obscene sounds coming from our joining parts, made[r]
+the bugs in my head even more active.[pcms]
 
 *581|
 [fc]
 [vo_mob s="suit0014"]
-[ns]スーツを着た女[nse]
-「ひ……っ！！　はっ……はあぁっ……！！[r]
-　あ゛た……しっ……も、もう……イクっ！！[r]
-　イッちゃう゛うっ！！」[pcms]
+[ns]Woman in a suit[nse]
+"Hi...!! Haah...haaah...!! I'm going to come too! I'm[r]
+coming!! Uaaaaaaahhh!!"[pcms]
 
 *582|
 [fc]
-舌を突きだし、涎を垂らして悦ぶ女の顔には、[r]
-うっすらと涙が滲んでいた。[pcms]
+With her tongue sticking out and drool dripping down, the[r]
+woman's face showed pleasure mixed with tears welling up in[r]
+her eyes.[pcms]
 
 *583|
 [fc]
-快楽からか、それとも別の理由からか、[r]
-この女は、泣いていた。[pcms]
+Whether from pleasure or some other reason, the woman was[r]
+crying.[pcms]
 
 *584|
 [fc]
-しかし、今の俺にはそんなことはどうでもよかった。[r]
-ただひたすらに、快楽だけを追求したかった。[pcms]
+But at that moment, none of that mattered to me. I just[r]
+wanted to pursue pleasure relentlessly.[pcms]
 
 *585|
 [fc]
-[ns]大倉[nse]
-「くっ……俺もだっ……くうっ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Kuh...I'm also going to come...kuuh!!"[pcms]
 
 *586|
 [fc]
 [vo_mob s="suit0015"]
-[ns]スーツを着た女[nse]
-「イくっ！！　もうた゛めぇっ！！　あ゛たしっ！[r]
-　イくうぅぅっ！！　うあ゛あ゛あ゛ぁあぁあっ！！」[pcms]
+[ns]A woman in a suit[nse]
+"I'm coming!! I can't take it anymore!! I'm coming!![r]
+Uaaaaaaahhh!!"[pcms]
 
 *587|
 [fc]
-[ns]大倉[nse]
-「だ、出すぞ！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"I'm going to release it!"[pcms]
 
 ;[射精フラA]
 ;イベントCG射精差分
@@ -952,56 +908,55 @@
 *588|
 [fc]
 [vo_mob s="suit0016"]
-[ns]スーツを着た女[nse]
-「んあ゛っ！！　ふあ゛あぁぁっ！！　な゛かぁっ！[r]
-　な゛かて゛ぇっ！！　ひろか゛ってぇっ！[r]
-　あ゛ついの、いっぱい゛っ！！　うあああぁっ！！」[pcms]
+[ns]Woman in a suit[nse]
+"Nnah!! Fuaaaaahhh!! Inside! Inside me! Fill me up with your[r]
+hot semen! Uaaaaaahhh!!"[pcms]
 
 *589|
 [fc]
-[ns]大倉[nse]
-「うぅぅっ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Uuuuh..."[pcms]
 
 *590|
 [fc]
-見ず知らずの女の中で俺のが弾けて、[r]
-精液を吐き出した。[pcms]
+In the pussy of a woman I didn't know, my cock burst and[r]
+ejaculated semen.[pcms]
 
 *591|
 [fc]
-オマンコから、俺の吐き出した精液が溢れ出て、[r]
-結合部分を白く汚していく。[pcms]
+From the pussy, my ejaculated semen overflowed, staining the[r]
+joined part white.[pcms]
 
 *592|
 [fc]
 [vo_mob s="suit0017"]
-[ns]スーツを着た女[nse]
-「あ゛はぁ～～……たくさん゛……て゛てるう～～、[r]
-　きみ゛の、あっつ゛いのか゛、おな゛かに、[r]
-　いっぱい～～……」[pcms]
+[ns]Woman in a suit[nse]
+"Aaah~...so much...it's coming out~...your hot stuff is[r]
+filling me up inside, so much~..."[pcms]
 
 [evcg storage="HEV607b"][trans_c cross time=301]
 
 *593|
 [fc]
-[ns]大倉[nse]
-「うぅ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Uuu..."[pcms]
 
 *594|
 [fc]
-女は俺が果てた後もさらに腰を振り続けて、[r]
-俺のをさらに絞り出そうとしている。[pcms]
+The woman continued to move her hips even after I had[r]
+finished, trying to squeeze out even more.[pcms]
 
 *595|
 [fc]
 [vo_mob s="suit0018"]
-[ns]スーツを着た女[nse]
-「あ、あああぁ、あ、あうぅぅ……、[r]
-　ま゛た゛……て゛きるよ……ね？　んうぅ！」[pcms]
+[ns]A woman in a suit[nse]
+"Ah, aaaaah, ah, ahhhh...you can...do it again, right?[r]
+Nngh!"[pcms]
 
 *596|
 [fc]
-ヤり疲れたせいか、俺の意識は薄れていった。[pcms]
+Perhaps due to exhaustion from our activities, my[r]
+consciousness began to fade.[pcms]
 
 ;//★黒画面
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -1009,19 +964,20 @@
 *597|
 [fc]
 [vo_mob s="suit0019"]
-[ns]スーツを着た女[nse]
-「あ゛ー……、あ゛ー……、あはぁぁあっ！」[pcms]
+[ns]A woman in a suit[nse]
+"Aa-...ah-...ahhaaaa!"[pcms]
 
 *598|
 [fc]
-腰の上で跳ねる女の声が、だんだん遠くなっていく。[pcms]
+The voice of the woman bouncing on top of me gradually[r]
+became distant.[pcms]
 
 ;//------------------------------------------------
 [if exp="tf.scene_mode==1"]
 	[jump storage="b_scene.ks" target=*back_from_SR]
 ;	[link storage=sceneAgain]もう一度見る[endlink]
 ;	[link storage=sceneList]一覧に戻る[endlink]
-;	[s]
+[pcms]
 [endif]
 
 *KAISOU_PASS

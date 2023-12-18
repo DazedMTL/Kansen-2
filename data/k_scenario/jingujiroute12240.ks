@@ -31,15 +31,14 @@
 
 *5848|
 [fc]
-[ns]大倉[nse]
-「来るな……来るんじゃねー……！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Don't come... Don't you come...!"[pcms]
 
 *5849|
 [fc]
-[ns]Ｔシャツの男[nse]
-「ま゛んこた゛よぉ～～……[r]
-　う゛しろ゛に゛いる゛、ま゛んこ２つ……[r]
-　おれ゛に゛よこせや゛あ゛ぁ～～～っ……！！」[pcms]
+[ns]T-shirt Man[nse]
+"I want pussy... There are two pussies behind you... Hand[r]
+them over to me...!!"[pcms]
 
 ;//ゾンビの立ちキャラ表示（？）
 ;//※２人目
@@ -47,35 +46,36 @@
 
 *5850|
 [fc]
-そこにいるはずの女を守ろうと、後ろを振り向いた[r]
-瞬間、別のイカレ野郎の顔がどアップになる。[pcms]
+In an attempt to protect the woman who should have been[r]
+there, I turned around only to be confronted by the face of[r]
+another crazed man up close.[pcms]
 
 *5851|
 [fc]
-[ns]大倉[nse]
-「うわあぁっ！！」[pcms]
+[ns]Ookura[nse]
+"Uwaaah!!"[pcms]
 
 *5852|
 [fc]
-驚いて尻餅をついた俺に、眼鏡をかけたオッサンが、[r]
-ジリジリと迫ってくる。[pcms]
+Startled, I fell on my butt, and a middle-aged man with[r]
+glasses slowly approached me.[pcms]
 
 *5853|
 [fc]
-[ns]眼鏡の中年男[nse]
-「ま゛んこな゛ら゛ぁ、お゛まえ゛の゛うしろ゛に゛[r]
-　ある゛し゛ゃな゛いかぁ～～……[r]
-　けつま゛ん゛こか゛あ゛ぁ～～～っ……！！」[pcms]
+[ns]Middle-aged man with glasses[nse]
+"If it's pussy you're talking about, isn't there one right[r]
+behind you... Maybe it's a butt pussy...!!"[pcms]
 
 *5854|
 [fc]
-[ns]大倉[nse]
-「寄るんじゃねーよテメー！！　頭叩き割んぞッ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Don't come any closer, damn you!! I'll smash your head[r]
+in!!"[pcms]
 
 *5855|
 [fc]
-傍の床に手を這わせてみても、どこにもシャベルは[r]
-落ちてない。[pcms]
+Even as I reached out on the nearby floor, there was no[r]
+shovel to be found anywhere.[pcms]
 
 ;//ゾンビの立ちキャラ表示（？）
 ;//※３人目
@@ -85,21 +85,20 @@
 
 *5856|
 [fc]
-尻餅をついたまま逃げる俺を追って、イカレ野郎が[r]
-どんどん数を増やしていく。[pcms]
+As I tried to escape while sitting on my butt, the number of[r]
+crazed men chasing me kept increasing.[pcms]
 
 *5857|
 [fc]
-[ns]学生服の青年[nse]
-「はら゛へってんた゛……よ゛こせぇ～～……[r]
-　くわ゛せろ゛よぉ、おま゛えの゛な゛いそ゛う……[r]
-　くわせろ゛よ゛お゛ぉ～～～……！！」[pcms]
+[ns]Young man in a school uniform[nse]
+"I'm so hungry... Hand it over... Let me eat your crotch...[r]
+Let me eat it...!!"[pcms]
 
 *5858|
 [fc]
-[ns]大倉[nse]
-「来るなッ！！　[r]
-　それ以上、俺に近づいたらブッ殺すぞ！！」[pcms]
+[ns]Ookura[nse]
+"Don't come any closer!! If you get any closer to me, I'll[r]
+kill you!!"[pcms]
 
 ;//ゾンビの立ちキャラ表示（？）
 ;//※４人目
@@ -107,15 +106,14 @@
 
 *5859|
 [fc]
-[ns]ポロシャツの男[nse]
-「う゛ぁは……ふぇははぁはへ……[r]
-　お゛ま゛えはぁ、あ゛たま゛から゛、[r]
-　ま゛る゛かし゛りた゛あ゛ぁ～～～っ……！！」[pcms]
+[ns]Man in Polo Shirt[nse]
+"Uhaha...fehahaha... You're going to be peeled from the head[r]
+down...!!"[pcms]
 
 *5860|
 [fc]
-[ns]大倉[nse]
-「来るなッ！！　来るんじゃねーッ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Don't come!! Don't you come!!"[pcms]
 
 ;//ゾンビの立ちキャラ表示（？）
 ;//※５人目
@@ -123,125 +121,116 @@
 
 *5861|
 [fc]
-[ns]太った青年[nse]
-「とり゛かえ゛てぇ～～……ほ゛くの゛から゛た゛と、[r]
-　とりかえ゛てぇ～～……その゛から゛た゛、[r]
-　ほしい゛んた゛あ゛ぁ～～～……ね゛えぇ～～……」[pcms]
+[ns]Fat Young Man[nse]
+"I want to exchange... Exchange with my body... I want that[r]
+body... Please..."[pcms]
 
 *5862|
 [fc]
-何本もの手と、幾つもの赤く光る目が、俺にゆっくり[r]
-と迫ってくる。[pcms]
+Many hands and several pairs of red glowing eyes slowly[r]
+advanced towards me.[pcms]
 
-;//[ns]Ｔシャツの男[nse]中央
-;//[ns]眼鏡の中年男[nse]右
-;//[ns]太った青年[nse]左
+[ns]T-shirt Man[nse]
+[ns]Middle-aged man with glasses[nse]
+[ns]Fat Young Man[nse]
 [cutin storage="cut004"][trans_c cross time=500]
 
 *5863|
 [fc]
-[ns]Ｔシャツの男[nse]
-「ま゛んこか゛ね゛ぇな゛らぁ……お゛ま゛えの゛[r]
-　からた゛、よ゛こせよ゛お゛ぉ～～～っ……！！」[pcms]
+[ns]T-shirt Man[nse]
+"If there's no pussy... Hand over your body... I'll eat[r]
+it...!!"[pcms]
 
 *5864|
 [fc]
-[ns]眼鏡の中年男[nse]
-「けつま゛ん゛こも゛いい゛けと゛ぉ～～……[r]
-　お゛しり゛の゛おに゛くも゛、お゛いしそう゛た゛[r]
-　ね゛え゛ぇ～～～……！！」[pcms]
+[ns]Middle-aged man with glasses[nse]
+"Butt pussy is also good... The meat of the ass looks[r]
+delicious too... Right...?!"[pcms]
 
 *5865|
 [fc]
-[ns]学生服の青年[nse]
-「あ゛あ゛ぁ～～～……！！[r]
-　はら゛へったよ゛お゛ぉ～～～……！！[r]
-　くわ゛せろ゛お゛おぉ～～～っ……！！」[pcms]
+[ns]Young man in a school uniform[nse]
+"Aaahhh...!! I'm so hungry... Let me eat it...!!"[pcms]
 
 *5866|
 [fc]
-[ns]ポロシャツの男[nse]
-「ま゛る゛かし゛りぃ……[r]
-　あ゛たま゛から゛、あ゛しまでぇ……[r]
-　せ゛んふ゛、まる゛かし゛り゛いぃ～～～……！！」[pcms]
+[ns]Man in Polo Shirt[nse]
+"Peeling off... From the head to the feet... Completely[r]
+peeled off...!!"[pcms]
 
 *5867|
 [fc]
-[ns]太った青年[nse]
-「とり゛かえ゛てぇ～～……[r]
-　から゛た゛、とり゛かえ゛てえ゛ぇ～～～……」[pcms]
+[ns]Fat Young Man[nse]
+"Let's exchange... Exchange bodies... Please..."[pcms]
 
 *5868|
 [fc]
-[ns]大倉[nse]
-「ひっ……！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Hii...!!"[pcms]
 
 [cutin storage="cut007"][trans_c cross time=500]
 
 *5869|
 [fc]
-何本もの手に、俺の体のあちこちが掴まれ、赤い目を[r]
-光らせた顔が、口を大きく開いて近づいてくる。[pcms]
+My body was grabbed in various places by numerous hands, and[r]
+faces with glowing red eyes approached with their mouths[r]
+wide open.[pcms]
 
 *5870|
 [fc]
-[ns]Ｔシャツの男[nse]
-「よ゛こせよ゛、から゛た゛あ゛ぁ～～～っ……！！[r]
-　くってや゛る゛から゛よお゛ぉ～～～っ…！！」[pcms]
+[ns]T-shirt Man[nse]
+"Hand over your body... I'll eat you up...!!"[pcms]
 
 *5871|
 [fc]
-[ns]眼鏡の中年男[nse]
-「お゛しり゛の゛、お゛にくぅ～～……ふ゜り゛ん[r]
-　ふ゜りんの゛おに゛くう゛ぅ～～～……！！」[pcms]
+[ns]Middle-aged man with glasses[nse]
+"The meat of the ass, so plump and juicy...!!"[pcms]
 
 *5872|
 [fc]
-[ns]学生服の青年[nse]
-「と゛れから゛、くお゛うかな゛あぁ～～～……！！」[pcms]
+[ns]Young man in a school uniform[nse]
+"Which one shall I eat first...?!"[pcms]
 
 *5873|
 [fc]
-[ns]ポロシャツの男[nse]
-「う゛ぇへへはぁあ゛はぁ～～～……[r]
-　ま゛る゛かし゛りい゛ぃ～～～っ……！！」[pcms]
+[ns]Polo Shirt Man[nse]
+"Uhehehehaaahaa... Completely peeled off...!!"[pcms]
 
 *5874|
 [fc]
-[ns]太った青年[nse]
-「からた゛ぁ……ほ゛くの゛、あ゛たら゛しい[r]
-　から゛た゛あぁ～～～……！！」[pcms]
+[ns]Fat Young Man[nse]
+"Body... My new body...!!"[pcms]
 
 *5875|
 [fc]
-[ns]大倉[nse]
-「や、やめ……ッ！！！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Stop it...!!"[pcms]
 
 [赤フラ]
 
 *5876|
 [fc]
-そして俺の体は、生きながらにして、イカレ集団に[r]
-食い散らかされていく。[pcms]
+And then my body was torn apart while still alive by the[r]
+crazed mob.[pcms]
 
 [赤フラ]
 
 *5877|
 [fc]
-血、クソ、ションベンの混ざった臭い。[r]
-皮膚を裂かれ、筋肉が噛み千切られる激痛。[r]
-死を目の前にした恐怖と絶望。[pcms]
+The smell of blood, shit, and urine mixed together. The[r]
+excruciating pain of skin being torn and muscles being[r]
+bitten off. The fear and despair of facing death.[pcms]
 
 *5878|
 [fc]
-そういうものが、俺の中と外に拡がっていく。[pcms]
+Such sensations spread both inside and outside of me.[pcms]
 
 [red_toplayer winon][trans_c cross time=1000][hide_chara_int_r]
 
 *5879|
 [fc]
-[ns]大倉[nse]
-「うああああああぁぁぁぁぁッ！！！！！！！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Uaaaaaaaahhhhhhhhhhhhhhhhh!!!"[pcms]
 
 ;//[]BG表示
 ;//★ＢＧ：？
@@ -257,77 +246,76 @@
 
 *5880|
 [fc]
-[ns]大倉[nse]
-「ああぁぁッ……！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Aaahhh...!!"[pcms]
 
 *5881|
 [fc]
-自分の絶叫で飛び起き、自分以外に誰もいない、薄暗[r]
-く無機質な部屋の中で、俺は大きく息をついた。[pcms]
+I woke up screaming, and in a dim, inorganic room where no[r]
+one else was present, I took a deep breath.[pcms]
 
 *5882|
 [fc]
-[ns]大倉[nse]
-「はーッ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Ha-..."[pcms]
 
 *5883|
 [fc]
-朝の冷たい空気に晒されて、俺は汗でグッショリと濡[r]
-れた体を震わせた。[pcms]
+Exposed to the cold morning air, my body drenched in sweat[r]
+trembled.[pcms]
 
 *5884|
 [fc]
-カーテンの隙間から射し込んでくる陽の光に、小さな[r]
-カレンダーが照らされている。[pcms]
+The sunlight streaming through the gap in the curtains[r]
+illuminated a small calendar.[pcms]
 
 *5885|
 [fc]
-１０月２０日……。[pcms]
+October 20th...[pcms]
 
 *5886|
 [fc]
-２ヶ月も経ってるのに……。[r]
-何回目だよ、この夢見んの……。[r]
-いい加減にしてくれ……。[pcms]
+It's been two months already... How many times have I had[r]
+this dream? Give me a break...[pcms]
 
 *5887|
 [fc]
-もう、思い出させんなよ……。[pcms]
+Don't make me remember anymore...[pcms]
 
 *5888|
 [fc]
-[ns]大倉[nse]
-「ハァ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Haa..."[pcms]
 
 *5889|
 [fc]
-この夢を見て一番ツライのは、イカレ野郎に襲われる[r]
-恐怖じゃなかった。[pcms]
+The hardest part about having this dream wasn't the fear of[r]
+being attacked by crazed men.[pcms]
 
 *5890|
 [fc]
-あの事件のせいで、俺の周りから大事な人間が、[r]
-一人残らずいなくなってしまったというコトを、[r]
-嫌でも思い出してしまうのがツラかった。[pcms]
+It was the painful reminder that because of that incident,[r]
+all the important people around me had disappeared without[r]
+exception.[pcms]
 
 *5891|
 [fc]
-速水も、ユウも、同じクラスのヤツらも、母さんも。[pcms]
+Hayami, Yuu, my classmates, and even my mother.[pcms]
 
 *5892|
 [fc]
-そして、マヤちゃんも。[pcms]
+And Maya-chan as well.[pcms]
 
 *5893|
 [fc]
-[ns]大倉[nse]
-「……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"..."[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
 ;//BKACKOUT
-;//－－－－－－－－－－－－－－－－－－－－
-;//－－－－－－－－－－－－－－－－－－－－
+;//
+;//
 ;//※回想シーン（画像はセピア？）
 
 ;//＠適当な背景がないので暗転のまま　立ち絵はコメントアウト
@@ -340,21 +328,21 @@
 
 *5894|
 [fc]
-[ns]スーツの中年[nse]
-「さぁ、行こう、摩耶」[pcms]
+[ns]Middle-aged man in a suit[nse]
+"Come on, let's go, Maya."[pcms]
 
 [ChrSetEx layer=4 chbase="spi_jinguji_n01"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *5895|
 [fc]
 [vo_may s="maya0522"]
-[ns]摩耶[nse]
-「放して……！」[pcms]
+[ns]Maya[nse]
+"Let go of me...!"[pcms]
 ;//コメントアウトを便宜的に削除
 
 *5896|
 [fc]
-[ns]大倉[nse]
-「……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"..."[pcms]
 
 ;//[chara_int][trans_c cross time=150]
 
@@ -366,61 +354,62 @@
 
 *5897|
 [fc]
-俺とマヤちゃんは自衛隊の車で、棘木県の外れにある[r]
-救護施設の本部だという場所へ連れてこられた。[pcms]
+Maya-chan and I were taken to a relief facility headquarters[r]
+located on the outskirts of Togeki Prefecture in a Self-[r]
+Defense Force vehicle.[pcms]
 
 ;//ここまで※佐藤
 
 *5898|
 [fc]
-自衛隊の男の話じゃ、あの事件で住むところを無くし[r]
-たひと達を、どこの救護施設に割り当てるか、そこで[r]
-振り分けをしてるってコトだった。[pcms]
+According to the Self-Defense Force men, this place was[r]
+where they decided which relief facility to allocate people[r]
+who had lost their homes due to that incident.[pcms]
 
 *5899|
 [fc]
-親戚に連絡が取れるなら、そっちへ行ってもいいと言[r]
-われたけど、ケータイを無くしてしまって、番号も[r]
-わからない俺には、選択の余地は無かった。[pcms]
+I was told that if I could contact any relatives, I could go[r]
+there, but without my cellphone and not knowing any numbers,[r]
+I had no choice.[pcms]
 
 *5900|
 [fc]
-振り分けの処理を待つ列に並ぼうとした時、スーツを[r]
-着た男が走り寄ってきて、マヤちゃんをどこかへ連れ[r]
-て行こうとした。[pcms]
+When I was about to line up for the allocation processing, a[r]
+man in a suit came running up and tried to take Maya-chan[r]
+somewhere.[pcms]
 
 *5901|
 [fc]
-その男はマヤちゃんのお父さんで、東北に行った娘が[r]
-生きてれば、きっとこの本部に来るだろうと、ずっと[r]
-ココで待っていたらしかった。[pcms]
+That man was Maya-chan's father, who had been waiting here,[r]
+believing that if his daughter who went to Tohoku was alive,[r]
+she would surely come to this headquarters.[pcms]
 
 [ChrSetEx layer=4 chbase="spi_jinguji_n06"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *5902|
 [fc]
 [vo_may s="maya0523"]
-[ns]摩耶[nse]
-「私はいかない……！　お父様一人で行って……！」[pcms]
+[ns]Maya[nse]
+"I won't go...! Please go by yourself, Father...!"[pcms]
 ;//コメントアウトを便宜的に削除
 
 *5903|
 [fc]
-[ns]摩耶の父[nse]
-「[ruby text="え　り　な"][ch text="江理奈"]も心配して、お前が戻るのを待っている。[r]
-　私と一緒に来るんだ」[pcms]
+[ns]Maya's father[nse]
+"Eriko is also worried and waiting for you to return. Come[r]
+with me."[pcms]
 
 *5904|
 [fc]
 [vo_may s="maya0524"]
-[ns]摩耶[nse]
-「嘘……お母様は私を心配したりしない……！」[pcms]
+[ns]Maya[nse]
+"That's a lie... Mother doesn't worry about me...!"[pcms]
 
 *5905|
 [fc]
-[ns]摩耶の父[nse]
-「本当だ。暴動のニュースを見たあと、お前が父さん[r]
-　の所へ行ったのを知って、江理奈はショックで倒れ[r]
-　たんだ」[pcms]
+[ns]Maya's father[nse]
+"It's true. After seeing the news of the riot, knowing that[r]
+you went to your father's place, Eriko collapsed from[r]
+shock."[pcms]
 
 [ChrSetEx layer=4 chbase="spi_jinguji_n04"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 [wait_c time=500]
@@ -429,185 +418,185 @@
 *5906|
 [fc]
 [vo_may s="maya0525"]
-[ns]摩耶[nse]
-「え……」[pcms]
+[ns]Maya[nse]
+"Eh...?"[pcms]
 
 *5907|
 [fc]
-[ns]摩耶の父[nse]
-「今は私の知り合いがいる病院に入院していて、調子[r]
-　は安定してきている。だが、お前が帰るまでは、[r]
-　江理奈は安心できないないだろう」[pcms]
+[ns]Maya's father[nse]
+"She's now hospitalized in a hospital where I have[r]
+acquaintances, and her condition is stabilizing. But until[r]
+you return, Eriko won't be able to rest easy."[pcms]
 
 *5908|
 [fc]
-[ns]摩耶の父[nse]
-「だから、お前も帰って顔を見せて、江理奈を安心さ[r]
-　せてやってくれないか」[pcms]
+[ns]Maya's father[nse]
+"So, could you please come back and show your face to Eriko,[r]
+to put her mind at ease?"[pcms]
 
 [ChrSetEx layer=4 chbase="spi_jinguji_n03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *5909|
 [fc]
 [vo_may s="maya0526"]
-[ns]摩耶[nse]
-「……」[pcms]
+[ns]Maya[nse]
+"..."[pcms]
 ;//コメントアウトを便宜的に削除
 
 *5910|
 [fc]
-[ns]摩耶の父[nse]
-「……お前が父さんの所へ行ったばっかりに、こんな[r]
-　目に遭ってしまったのには、自分達に原因があると、[r]
-　私と江理奈も自覚している」[pcms]
+[ns]Maya's father[nse]
+"...We are aware that we are partly to blame for you having[r]
+to go through such an ordeal just because you came to your[r]
+father's place."[pcms]
 
 *5911|
 [fc]
-[ns]摩耶の父[nse]
-「私は江理奈と相談して、しばらくの間、また一緒に[r]
-　住むことにした。その間に、今後どうするかを決め[r]
-　るつもりだ」[pcms]
+[ns]Maya's father[nse]
+"Eriko and I have discussed it and decided to live together[r]
+again for a while. During that time, we intend to decide[r]
+what to do next."[pcms]
 
 [ChrSetEx layer=4 chbase="spi_jinguji_n07"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *5912|
 [fc]
 [vo_may s="maya0527"]
-[ns]摩耶[nse]
-「え……」[pcms]
+[ns]Maya[nse]
+"Eh...?"[pcms]
 ;//コメントアウトを便宜的に削除
 
 *5913|
 [fc]
-[ns]摩耶の父[nse]
-「私達は、お前の意見を最大限、採り入れるつもりで[r]
-　いる。お前がどうしたいのか、それを私達に聞かせ[r]
-　て欲しいんだ」[pcms]
+[ns]Maya's father[nse]
+"We plan to take your opinion into utmost consideration. We[r]
+want to hear what you want to do."[pcms]
 
 [ChrSetEx layer=4 chbase="spi_jinguji_f02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *5914|
 [fc]
 [vo_may s="maya0528"]
-[ns]摩耶[nse]
-「……」[pcms]
+[ns]Maya[nse]
+"..."[pcms]
 ;//◎迷っている
 ;//コメントアウトを便宜的に削除
 
 *5915|
 [fc]
-[ns]摩耶の父[nse]
-「さぁ、行こう、摩耶」[pcms]
+[ns]Maya's father[nse]
+"Come on, let's go, Maya."[pcms]
 
 [ChrSetEx layer=4 chbase="spi_jinguji_f01"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *5916|
 [fc]
 [vo_may s="maya0529"]
-[ns]摩耶[nse]
-「待って……挨拶だけ、させて……」[pcms]
+[ns]Maya[nse]
+"Wait... just let me say goodbye..."[pcms]
 ;//コメントアウトを便宜的に削除
 
 *5917|
 [fc]
-[ns]摩耶の父[nse]
-「……わかった」[pcms]
+[ns]Maya's father[nse]
+"...Understood."[pcms]
 
 ;//[chara_int][trans_c cross time=150]
 
 *5918|
 [fc]
-マヤちゃんはお父さんから離れ、うつむいたまま歩い[r]
-てきて、俺の目の前で立ち止まった。[pcms]
+Maya-chan stepped away from her father and walked up with[r]
+her head down, stopping in front of me.[pcms]
 
 [ChrSetEx layer=4 chbase="spi_jinguji_n03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *5919|
 [fc]
 [vo_may s="maya0530"]
-[ns]摩耶[nse]
-「……」[pcms]
+[ns]Maya[nse]
+"..."[pcms]
 ;//コメントアウトを便宜的に削除
 
 *5920|
 [fc]
-[ns]大倉[nse]
-「……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"..."[pcms]
 
 *5921|
 [fc]
-一人だけ残った友達までいなくなるのは寂しいけど、[r]
-マヤちゃんにはマヤちゃんの事情がある。[pcms]
+It's lonely to lose even the last friend I have left, but[r]
+Maya-chan has her own circumstances.[pcms]
 
 *5922|
 [fc]
-すぐには、彼女とは会えないだろう。[r]
-もしかしたら、彼女の顔を見るのは、コレが最後かも[r]
-しれない。[pcms]
+I probably won't be able to see her again anytime soon.[r]
+Maybe this will be the last time I see her face.[pcms]
 
 *5923|
 [fc]
-けど、いつかまた、どこかで会えるだろうと前向きに[r]
-考えて、俺はわざと簡単に、彼女に別れを言った。[pcms]
+But thinking positively that we'll meet again somewhere[r]
+someday, I deliberately said goodbye to her easily.[pcms]
 
 *5924|
 [fc]
-[ns]大倉[nse]
-「元気でね。[r]
-　いつかまた会えたら、２人でどっか遊びに行こう」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Take care. If we meet again someday, let's go out together,[r]
+just the two of us."[pcms]
 
 *5925|
 [fc]
-黙ったままのマヤちゃんの肩に手を置き、笑ってみせ[r]
-ると、彼女の目に、段々と涙が溜まっていく。[pcms]
+As I placed my hand on the silent Maya-chan's shoulder and[r]
+smiled, tears began to well up in her eyes.[pcms]
 
 *5926|
 [fc]
-俺を見つめて、彼女は首を横に振り、溜まった涙を溢[r]
-れ出させた。[pcms]
+She looked at me, shook her head from side to side, and let[r]
+the accumulated tears overflow.[pcms]
 
 *5927|
 [fc]
-[ns]大倉[nse]
-「……？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"...?"[pcms]
 
 [ChrSetEx layer=4 chbase="spi_jinguji_n07"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *5928|
 [fc]
 [vo_may s="maya0531"]
-[ns]摩耶[nse]
-「いつかまた、じゃない……。絶対にまた会う……」[pcms]
+[ns]Maya[nse]
+"Not 'someday again,' but 'definitely again'... I will find[r]
+you no matter where you are and come to see you..."[pcms]
 ;//◎涙をガマンしながら
 ;//コメントアウトを便宜的に削除
 
 *5929|
 [fc]
-[ns]大倉[nse]
-「マヤちゃん……」[pcms]
+[ns]Ookura[nse]
+"Maya-chan..."[pcms]
 
 [ChrSetEx layer=4 chbase="spi_jinguji_n06"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *5930|
 [fc]
 [vo_may s="maya0532"]
-[ns]摩耶[nse]
-「ヒロシがどこにいても、絶対に探しだして、[r]
-　会いに行くから……」[pcms]
+[ns]Maya[nse]
+"Hiroshi, no matter where you are, I will definitely find[r]
+you and come to see you..."[pcms]
 ;//◎涙をガマンしながら
 ;//コメントアウトを便宜的に削除
 
 *5931|
 [fc]
-[ns]大倉[nse]
-「……あぁ、待ってる。なるべく早く見つけてね」[pcms]
+[ns]Ookura Hiroshi[nse]
+"...Yeah, I'll be waiting. Try to find me as soon as[r]
+possible."[pcms]
 
 [ChrSetEx layer=4 chbase="spi_jinguji_n02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *5932|
 [fc]
 [vo_may s="maya0533"]
-[ns]摩耶[nse]
-「うん……」[pcms]
+[ns]Maya[nse]
+"Yes..."[pcms]
 ;//◎微笑む
 ;//コメントアウトを便宜的に削除
 
 *5933|
 [fc]
-途中、何度も振り返るマヤちゃんの姿が、完全に見え[r]
-なくなるまで、俺はその場で彼女を見送った。[pcms]
+I watched Maya-chan as she kept looking back until she was[r]
+completely out of sight.[pcms]
 
 [ChrSetEx layer=4 chbase="spi_jinguji_f04"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
@@ -618,13 +607,13 @@
 
 *5934|
 [fc]
-その内、マヤちゃんが歩いていった方から、一機の[r]
-ヘリコプターが飛び上がり、すぐに見えなくなった。[pcms]
+Suddenly, a helicopter took off from the direction Maya-chan[r]
+had walked towards and quickly disappeared from view.[pcms]
 
 *5935|
 [fc]
-[ns]大倉[nse]
-「……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"..."[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
@@ -636,55 +625,54 @@
 
 *5936|
 [fc]
-その後、施設の人間とか、自衛隊員、俺と同じように[r]
-避難してきた人に、いろんな話を聞いた。[pcms]
+I heard various stories from the facility staff, Self-[r]
+Defense Force members, and people who had evacuated like me[r]
+afterward.[pcms]
 
 *5937|
 [fc]
-あの時、バカでかい飛行機で爆撃したのは、日本に[r]
-駐留している軍隊らしかった。[pcms]
+The huge plane that bombed us at that time seemed to belong[r]
+to the military stationed in Japan.[pcms]
 
 *5938|
 [fc]
-あの爆撃で、千台はモチロン、東北全体が崩壊して、[r]
-今では街も、ひとも、全くと言っていいほど残って[r]
-ないらしい。[pcms]
+The bombing caused not only Sendai but the entire Tohoku[r]
+region to collapse, and now it seems there is almost nothing[r]
+left of the towns or people.[pcms]
 
 *5939|
 [fc]
-あのショッピングモールの中にいたはずの、ユウも、[r]
-速水も、アンザイさんも、助からなかったに違いない。[pcms]
+The likes of Yuu, Hayami, and Anzai-san who were supposed to[r]
+be inside that shopping mall probably didn't survive either.[pcms]
 
 *5940|
 [fc]
-母さんも、父さんも、多分、助からなかっただろう。[pcms]
+Mom and Dad probably didn't make it either.[pcms]
 
 *5941|
 [fc]
-施設の人間に、他の救護施設にいる人間の中に、[r]
-母さんと父さんの名前がないか[r]
-何度も調べてもらった。[pcms]
+I had the facility staff check many times if my mother's and[r]
+father's names were among those in other relief facilities.[pcms]
 
 *5942|
 [fc]
-しかし“ありません”という答えしか[r]
-返ってこなかった。[pcms]
+However, the answer was always "no."[pcms]
 
 *5943|
 [fc]
-マヤちゃんもどこかへ行ってしまって、俺の友達や[r]
-知っている人間は、誰もいなくなった。[pcms]
+With Maya-chan gone somewhere too, all my friends and[r]
+acquaintances were gone.[pcms]
 
 *5944|
 [fc]
-その内、救護施設の部屋のように殺風景な世界に、[r]
-自分一人だけが取り残されてしまったと、[r]
-俺は感じ始めた。[pcms]
+Eventually, I began to feel as if I was the only one left[r]
+behind in a world as bleak as the rooms of the relief[r]
+facility.[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
-;//BKACKOUT－－－－－－－－－－－－－－－－－－－－
-;//－－－－－－－－－－－－－－－－－－－－
+;//BKACKOUT
+;//
 
 ;//[]BG表示
 ;//★ＢＧ：
@@ -693,159 +681,154 @@
 
 *5945|
 [fc]
-[ns]大倉[nse]
-「……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"..."[pcms]
 
 *5946|
 [fc]
-汗に濡れたスウェットを着替えもしないで、陽が昇り、[r]
-どんどん明るくなっていく外の景色を、少し開いた[r]
-カーテンの隙間から、俺はボンヤリと見つめていた。[pcms]
+Without even changing out of my sweat-soaked sweatsuit, I[r]
+stared blankly through a slight gap in the curtains at the[r]
+outside scenery that was getting brighter as the sun rose.[pcms]
 
 *5947|
 [fc]
-そういやこの窓、[r]
-ココに来てから開けたコトねーな……。[pcms]
+Now that I think about it, I haven't opened this window[r]
+since I came here...[pcms]
 
 *5948|
 [fc]
-掃除もほとんどしてねーし、洗濯も……。[pcms]
+I've hardly cleaned, and I haven't done laundry either...[pcms]
 
 *5949|
 [fc]
-脱いでそのままになってる服が、あちこちに散らばっ[r]
-てる部屋を見ても、俺は汚いとも、片付けようとも[r]
-思わなかった。[pcms]
+Looking at the room scattered with clothes I took off and[r]
+left around, I didn't think it was dirty, nor did I feel[r]
+like tidying up.[pcms]
 
 *5950|
 [fc]
-掃除や洗濯だけじゃなく、何に対しても、俺の中に[r]
-ヤル気は湧いてこない。[pcms]
+It wasn't just cleaning or laundry; I couldn't muster the[r]
+motivation to do anything.[pcms]
 
 *5951|
 [fc]
-親友とか家族を、一度に全部無くしたコトは、[r]
-それだけ大きな影響を俺に与えていた。[pcms]
+Losing friends and family all at once had such a huge impact[r]
+on me.[pcms]
 
 *5952|
 [fc]
-あの時は、いろんなコトがあり過ぎてマヒしていた[r]
-みたいで、悲しいとか、寂しいとか、たいして思わな[r]
-かった。[pcms]
+At that time, there was so much going on that I felt numb,[r]
+not really feeling sad or lonely.[pcms]
 
 *5953|
 [fc]
-けど、時間が経ってから、心の一部が削り取られ、色[r]
-を失っていたのがわかって、その時から、自分の中に[r]
-感情らしい感情が湧いてこなくなった。[pcms]
+But as time passed, I realized a part of my heart had been[r]
+carved out and lost its color, and since then, I've felt no[r]
+real emotions inside me.[pcms]
 
 *5954|
 [fc]
-[ns]大倉[nse]
-「あ……転入の手続き、行くの忘れてた……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Ah... I forgot to go through the transfer procedures..."[pcms]
 
 *5955|
 [fc]
-アレっていつまでだっけ……。[r]
-あー、まぁいいか……。[r]
-どこの学校に行っても、速水もユウもいないし……。[pcms]
+When was the deadline for that again... Ah, well, it doesn't[r]
+matter... Hayami and Yuu aren't at any school anyway...[pcms]
 
 *5956|
 [fc]
-[ns]大倉[nse]
-「……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"..."[pcms]
 
 *5957|
 [fc]
-餓死するのって、どれぐらいかかるんだろう……。[r]
-つーか、どうせなら俺も、あの時……。[pcms]
+I wonder how long it takes to die of starvation... Or better[r]
+yet, I should have back then...[pcms]
 
 *5958|
 [fc]
-[ns]大倉[nse]
-「ハァ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Haa..."[pcms]
 
 *5959|
 [fc]
-いや、マヤちゃんが会いに来るって言ってたしな……。[r]
-それまではなんとか……。[pcms]
+No, Maya-chan said she would come to see me... I have to[r]
+hang on until then...[pcms]
 
 *5960|
 [fc]
-[ns]大倉[nse]
-「ヘッ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Heh..."[pcms]
 
 *5961|
 [fc]
-どうせ来ねーよ……。[r]
-俺のことなんか忘れてるに決まってる……。[pcms]
+She's not coming... She must have forgotten about me by[r]
+now...[pcms]
 
 *5962|
 [fc]
-けど、もし本当に会いに来てくれたら……。[r]
-何て言おう……。[r]
-何を話そうかな……。[pcms]
+But if she really does come to see me... What should I[r]
+say... What should we talk about...[pcms]
 
 *5963|
 [fc]
-[ns]大倉[nse]
-「遊びに行く話かな……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Maybe talk about going out to play..."[pcms]
 
 *5964|
 [fc]
-そうだ、俺にはマヤちゃんがいる……。[r]
-ホントに会いに来てくれたら、俺も少しは……。[pcms]
+That's right, I have Maya-chan... If she really comes to see[r]
+me, maybe I'll feel a little better...[pcms]
 
 *5965|
 [fc]
-[ns]大倉[nse]
-「ハ……」[pcms]
+[ns]Ookura[nse]
+"Ha..."[pcms]
 
 *5966|
 [fc]
-来るワケねーっつーの……。[r]
-とっくに忘れてるに決まってんだ……。[pcms]
+She's not coming... She must have forgotten about me long[r]
+ago...[pcms]
 
 *5967|
 [fc]
-[ns]大倉[nse]
-「……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"..."[pcms]
 
 *5968|
 [fc]
-オイ……。[r]
-何回、同じことを考えるんだよ……。[pcms]
+Hey... How many times will I think the same thing over and[r]
+over...[pcms]
 
 *5969|
 [fc]
-同じトコをグルグルグルグル、ずーーーーっと回って[r]
-やがって……。[pcms]
+Just going round and round in circles, endlessly...[pcms]
 
 *5970|
 [fc]
-[ns]大倉[nse]
-「チッ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Tch..."[pcms]
 
 *5971|
 [fc]
-いい加減、着替えようと思って立ち上がると、バイク[r]
-が走ってくる音がして、外の郵便受けに何かが入れら[r]
-れる音がした。[pcms]
+As I think about getting dressed, I hear the sound of a[r]
+motorcycle and something being put into the mailbox outside.[pcms]
 
 *5972|
 [fc]
-[ns]大倉[nse]
-「……？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"…?"[pcms]
 
 *5973|
 [fc]
-ココの仮設住宅に移ってきて、外のポストに何かが[r]
-入れられるのは、今が初めてだった。[pcms]
+This is the first time something has been put in the postbox[r]
+since I moved into this temporary housing.[pcms]
 
 *5974|
 [fc]
-なんだろう……。[r]
-新聞なんか取ってねーし、何かのチラシかな……。[pcms]
+I wonder what it is... I don't subscribe to any newspapers,[r]
+maybe it's some kind of flyer...[pcms]
 
 ;//♪：bgm004 fadeout
 [fadeoutbgm time=1000]
@@ -855,21 +838,21 @@
 
 *5975|
 [fc]
-手早く着替え、外に出てポストを覗くと、中には薄い[r]
-水色の封筒が入っていた。[pcms]
+After quickly getting dressed, I go outside and look into[r]
+the mailbox to find a thin light blue envelope inside.[pcms]
 
 *5976|
 [fc]
-[ns]大倉[nse]
-「マヤちゃんからだ……！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"It's from Maya-chan...!"[pcms]
 
 ;//♪：bgm010
 [bgm storage="bgmED001"]
 
 *5977|
 [fc]
-裏側に書かれていた彼女の名前を見て、俺の心臓が急[r]
-に早く動き出す。[pcms]
+Seeing her name written on the back, my heart starts beating[r]
+rapidly.[pcms]
 
 ;//俺は慌てて部屋の中に入り、慎重に封筒の端を切って
 ;//開けて、一通の便せんを取り出した。
@@ -877,22 +860,23 @@
 
 *5978|
 [fc]
-俺ははやる気持ちを無理矢理押さえて、慎重に封筒の[r]
-端を切って開けて、一通の便せんを取り出した。[pcms]
+I suppress my excitement and carefully cut open the edge of[r]
+the envelope to take out a single sheet of letter paper.[pcms]
 
 *5979|
 [fc]
-その便せんには、青いインクで書かれたキレイな字が、[r]
-短く１行分だけ並んでいた。[pcms]
+The letter was written in beautiful handwriting with blue[r]
+ink, just a short line.[pcms]
 
 *5980|
 [fc]
-『約束は必ず守るから、私を信じて待っていて』[pcms]
+"I will definitely keep my promise, so please believe in me[r]
+and wait."[pcms]
 
 *5981|
 [fc]
-[ns]大倉[nse]
-「約束……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Promise..."[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
@@ -905,15 +889,15 @@
 *5982|
 [fc]
 [vo_may s="maya0534"]
-[ns]摩耶[nse]
-「いつかまた、じゃない……。絶対にまた会う……」[pcms]
+[ns]Maya[nse]
+"It's not just 'someday,' we will definitely meet again..."[pcms]
 
 *5983|
 [fc]
 [vo_may s="maya0535"]
-[ns]摩耶[nse]
-「ヒロシがどこにいても、絶対に探しだして、[r]
-　会いに行くから……」[pcms]
+[ns]Maya[nse]
+"No matter where Hiroshi is, I will definitely find you and[r]
+come to see you..."[pcms]
 
 ;//♪：bgm010 fadeout
 ;//[fadeoutbgm time=1000]
@@ -924,44 +908,43 @@
 
 *5984|
 [fc]
-[ns]大倉[nse]
-「……」[pcms]
+[ns]Ookura[nse]
+"..."[pcms]
 
 *5985|
 [fc]
-約束なんか守ってくれなくてもいい。[r]
-会いに来てくれなくてもいい。[pcms]
+It's okay if she doesn't keep the promise. It's okay if she[r]
+doesn't come to see me.[pcms]
 
 *5986|
 [fc]
-彼女は自分のコトを憶えていてくれた、それだけで、[r]
-失っていた心の色が戻ってくるように思えた。[pcms]
+Just knowing that she remembers me is enough to bring back[r]
+the colors that were lost in my heart.[pcms]
 
 *5987|
 [fc]
-削り取られた部分は元に戻らないけど、俺は自分が[r]
-生き返ったように感じた。[pcms]
+The carved-out part won't return to its original state, but[r]
+I feel as if I've come back to life.[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
 *5988|
 [fc]
-久しぶりに自分の中に、嬉しいという感情が湧いて、[r]
-俺はいつの間にか、持っていた封筒を濡らして、[r]
-ブヨブヨにしてしまっていた。[pcms]
+For the first time in a while, I feel happy emotions welling[r]
+up inside me, and before I know it, the envelope in my hand[r]
+is soaked and mushy.[pcms]
 
 ;//________________________________________________
 ;//ここから改造開始　※佐藤
 
 *5989|
 [fc]
-俺は、一人なんかじゃない。[r]
-マヤちゃんが、俺の事を憶えていてくれた。[pcms]
+I'm not alone. Maya-chan remembers me.[pcms]
 
 *5990|
 [fc]
-ただそれだけで、長いこと俺の心を覆っていた暗くて[r]
-黒い雲が晴れて、消えていくような感じがした。[pcms]
+Just that alone seems to clear away the dark clouds that[r]
+have long covered my heart, making them disappear.[pcms]
 
 ;消し
 [bg storage="bg30d"][trans_c cross time=1000]
@@ -969,8 +952,8 @@
 
 *5991|
 [fc]
-[ns]大倉[nse]
-「ハァ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Haa..."[pcms]
 
 ;//★NEV101a.bmp　fadein表示
 [evcg storage="NEV101a"][trans_c cross time=1000]
@@ -978,68 +961,67 @@
 
 *5992|
 [fc]
-砂浜に腰を下ろして、頭の上に大きく広がる、[r]
-いつの間にか高くなった空を眺める。[pcms]
+Sitting on the beach, I look up at the sky that has grown[r]
+high without me noticing.[pcms]
 
 *5993|
 [fc]
-涼しく感じるようになった風を吸い込むと、体の中が[r]
-キレイになっていくような、無くしたもの全部が[r]
-戻ってくるような、そんな感じがした。[pcms]
+Breathing in the air that now feels cool, it's as if[r]
+everything inside me is being cleansed, as if everything I[r]
+lost is coming back.[pcms]
 
 *5994|
 [fc]
-一緒に、心の中もさらに澄み渡っていって、自分の[r]
-素直な気持ちが浮かび上がってくる。[pcms]
+Together with that, my heart becomes clearer too, and my[r]
+honest feelings start to surface.[pcms]
 
 *5995|
 [fc]
-会いに来てくれなくてもいい。[r]
-憶えていてくれただけで、それだけでいい。[pcms]
+It's okay if she doesn't come to see me. Just remembering me[r]
+is enough.[pcms]
 
 *5996|
 [fc]
-最初は、確かにそう思った。[r]
-でも、今は違う。[pcms]
+At first, I certainly thought so. But now, it's different.[pcms]
 
 *5997|
 [fc]
-今すぐにでも彼女に逢いたい。[r]
-逢って、マヤちゃんを近くに感じたい。[pcms]
+I want to see her right now. To meet her and feel Maya-chan[r]
+close to me.[pcms]
 
 *5998|
 [fc]
-それが浮かび上がってきた、俺の素直な気持ちだった。[pcms]
+That was the honest feeling that surfaced within me.[pcms]
 
 *5999|
 [fc]
-その気持ちが大きく映し出されて、[r]
-彼女に伝わればいいと、俺は海と空を見つめながら、[r]
-そう、強く願った。[pcms]
+As that feeling was vividly projected, I stared at the sea[r]
+and sky, wishing strongly that it would reach her.[pcms]
 
 *6000|
 [fc]
-[ns]大倉[nse]
-「願う……か……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Wishing... huh..."[pcms]
 
 *6001|
 [fc]
-『嬉しい』と同様に、久しく忘れていた言葉。[pcms]
+"Happy," a word I had forgotten for a long time, just like[r]
+this one.[pcms]
 
 *6002|
 [fc]
-何かを願ったところで、[r]
-それが叶うことは絶対にないんだと諦めて、[r]
-自分の中から追い出してしまっていた感情。[pcms]
+Having given up on the idea that wishing for something would[r]
+ever make it come true, I had banished that emotion from[r]
+within me.[pcms]
 
 *6003|
 [fc]
-自分の中に戻ってきた今も、願いが叶うことはないっ[r]
-て事実は変わらない。[pcms]
+Even now that it has returned to me, the fact that my wish[r]
+won't come true hasn't changed.[pcms]
 
 *6004|
 [fc]
-それがわかってても、俺は願わずにはいられなかった。[pcms]
+Even knowing that, I couldn't help but wish.[pcms]
 
 ;//その時、この部屋の前を歩く足音に気が付き、それは
 ;//扉の所で止まった。
@@ -1051,25 +1033,25 @@
 
 *6005|
 [fc]
-[ns]大倉[nse]
-「マヤちゃんに逢いたい……今すぐ逢いたいよ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"I want to see Maya-chan... I want to see her right now..."[pcms]
 
 *6006|
 [fc]
 [vo_may s="maya0112"]
 [ns]？？？[nse]
-「……」[pcms]
+"..."[pcms]
 
 *6007|
 [fc]
-突然聞こえてきた笑う声が、ひどく懐かしく[r]
-感じられて、俺の視界を占領する海と空が、[r]
-段々と歪み、ボヤけていく。[pcms]
+The sudden sound of laughter that I heard felt incredibly[r]
+nostalgic, and the sea and sky that filled my vision[r]
+gradually began to distort and blur.[pcms]
 
 *6008|
 [fc]
-砂を踏む音が、すぐ横へと移っていって、[r]
-声の主は俺の隣に腰を下ろした。[pcms]
+The sound of footsteps on the sand moved right beside me,[r]
+and the owner of the voice sat down next to me.[pcms]
 
 ;//★NEV101c.bmp
 [evcg storage="NEV101c"][trans_c cross time=1000]
@@ -1077,8 +1059,8 @@
 
 *6009|
 [fc]
-[ns]大倉[nse]
-「……！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"…!"[pcms]
 
 ;//[]SE：扉をノックする音
 ;//[se0 storage="SE21"]
@@ -1095,9 +1077,9 @@
 
 *6010|
 [fc]
-目に入る物は、全部涙で歪んでマトモに見えなかった[r]
-けど、顔を覗き込んでくるその懐かしい微笑みだけは、[r]
-俺の目にハッキリと映った。[pcms]
+Everything I looked at was distorted by tears and I couldn't[r]
+see clearly, but that nostalgic smile peeking into my face[r]
+was clearly reflected in my eyes.[pcms]
 
 ;//[]BG表示
 ;//[evcg storage="NEV101"][trans_c cross time=301]
@@ -1113,8 +1095,8 @@
 *6011|
 [fc]
 [vo_may s="maya0536"]
-[ns]摩耶[nse]
-「見つけた……」[pcms]
+[ns]Maya[nse]
+"I found you..."[pcms]
 ;//◎微笑んで
 
 [sysbt_meswin clear]
@@ -1160,4 +1142,4 @@
 *EED02
 [returntitle]
 
-;//－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+;//

@@ -31,8 +31,8 @@
 *7777|
 [fc]
 [vo_may s="maya0028"]
-[ns]摩耶[nse]
-「あ……」[pcms]
+[ns]Maya[nse]
+"Ah..."[pcms]
 
 ;//中央・大倉、左・小林、右・速水
 [ChrSetEx layer=4 chbase="ookura_n02a"][ChrSetXY layer=4 x=200 y=0]
@@ -41,76 +41,76 @@
 
 *7778|
 [fc]
-反対側の歩道に、３人の男女が歩いている。[r]
-ジョンと散歩してる時に、たまに見る人たち。[pcms]
+On the opposite sidewalk, a group of three men and women are[r]
+walking. People I occasionally see when I'm out for a walk[r]
+with John.[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
 *7779|
 [fc]
-よっぽど仲が良いらしい。[r]
-たまに１人で歩いてる時に見ることもあるけど、ほと[r]
-んどいつも、３人一緒にいる。[pcms]
+They seem to be very close friends. Sometimes I see them[r]
+walking alone, but most of the time, they're together, all[r]
+three of them.[pcms]
 
 *7780|
 [fc]
-明るい笑顔の、大きな胸が目立つ女の子。[r]
-背が低くて綺麗な顔をした、女の子みたいな男の子。[pcms]
+A girl with a bright smile and noticeable large breasts. A[r]
+boy with a short stature and a pretty face, almost like a[r]
+girl's.[pcms]
 
 *7781|
 [fc]
-それと、ちょっと口調が乱暴だけど、笑ったときの顔[r]
-が、人懐っこい感じのする男の子。[pcms]
+And a boy whose speech is a bit rough, but when he smiles,[r]
+he has a friendly-looking face.[pcms]
 
 *7782|
 [fc]
-一緒にいるのが本当の友達だから、あの人たちはあん[r]
-なに楽しそうに笑えるのかな……。[pcms]
+I wonder if they can laugh so happily together because they[r]
+are true friends...[pcms]
 
 *7783|
 [fc]
-私の周りには、あんな風に笑う人はいない。[r]
-みんな、笑ってる写真を顔に貼った様な、薄っぺらい[r]
-笑顔しか私に見せない。[pcms]
+No one around me laughs like that. They all show me only[r]
+shallow smiles, as if they've pasted photos of their[r]
+laughing faces onto their own.[pcms]
 
 *7784|
 [fc]
-その笑顔も、正確に言えば私ではなく、私の後ろにい[r]
-るお父様やお母様、そして２人が持ってるお金に向け[r]
-られている。[pcms]
+Those smiles are, to be precise, not directed at me but at[r]
+the money held by my father and mother standing behind me.[pcms]
 
 *7785|
 [fc]
-私が、ジョンとお祖父様の前以外で笑うのを諦めたの[r]
-は、いつ頃だったろう。[pcms]
+I wonder when I gave up on laughing in front of anyone other[r]
+than John and my grandfather.[pcms]
 
 [ChrSetEx layer=3 chbase="hayami_n04"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
 
 *7786|
 [fc]
 [vo_hay s="hayami0046"]
-[ns]ありす[nse]
-「ハスキーだ、カワイイ～♪」[pcms]
+[ns]Alice[nse]
+"It's a husky, how cute~♪"[pcms]
 ;//◎録る必要なし（ブロック００５０のものを流用）
 
 *7787|
 [fc]
-こっち見てる……。[r]
-もしかして、話しかけられたりとか……。[pcms]
+They're looking this way... Maybe they'll talk to me...[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *7788|
 [fc]
-想像したようなことは一切無く、緊張しながら横目で[r]
-追っていたあの人たちの姿は消えて、私は目を足下に[r]
-戻した。[pcms]
+Without anything like what I imagined happening, I nervously[r]
+watched them from the corner of my eye as they disappeared,[r]
+and I returned my gaze to the ground.[pcms]
 
 *7789|
 [fc]
 [vo_may s="maya0029"]
-[ns]摩耶[nse]
-「……」[pcms]
+[ns]Maya[nse]
+"..."[pcms]
 ;//◎録る必要なし
 
 ;//♪：０１０_Paradise.　フェードアウト
@@ -120,59 +120,59 @@
 
 *7790|
 [fc]
-あの人たちを見る度に想像する。[pcms]
+Every time I see them, I imagine.[pcms]
 
 *7791|
 [fc]
-あの人たちが、学校の帰りにファーストフードへ寄っ[r]
-て、ハンバーガーか何かを食べながら、楽しそうにお[r]
-喋りしているのを。[pcms]
+Them stopping by a fast-food restaurant on their way home[r]
+from school, eating hamburgers or something, and chatting[r]
+happily.[pcms]
 
 *7792|
 [fc]
-あの人たちが、休日に集まって[ruby text="テーマパーク"][ch text="遊園地"]で遊んだり、[r]
-ちょっとした旅行に行ったりするのを。[pcms]
+Them gathering on holidays to play at an amusement park or[r]
+going on a little trip.[pcms]
 
 *7793|
 [fc]
-あの人たちが、図書室で向かい合って、お互いに教え[r]
-あいながらテスト勉強をしているのを。[pcms]
+Them sitting opposite each other in the library, studying[r]
+for tests while teaching each other.[pcms]
 
 *7794|
 [fc]
-そして、その全ての光景で、自分があの輪に混じって[r]
-いるのを。[pcms]
+And in all those scenes, imagining myself being part of that[r]
+circle.[pcms]
 
 *7795|
 [fc]
-でもそれは、一生現実になることのない、私の心の中[r]
-だけにある光景。[pcms]
+But that is a scene that exists only in my heart, never to[r]
+become reality.[pcms]
 
 *7796|
 [fc]
-そして、一生叶うことのない願い。[pcms]
+And a wish that will never come true.[pcms]
 
 *7797|
 [fc]
-だから、あの人たちは今日も３人一緒いる。[r]
-だから、私は今日も１人でいる。[pcms]
+That's why they are still together today, all three of them.[r]
+That's why I am still alone today.[pcms]
 
 *7798|
 [fc]
-[ns]ジョン[nse]
-「ウォンウォンッ！」[pcms]
+[ns]John[nse]
+"Woof woof!"[pcms]
 
 *7799|
 [fc]
 [vo_may s="maya0030"]
-[ns]摩耶[nse]
-「……そっか、ごめんね。私には、ジョンもお祖父様[r]
-　もいるよね」[pcms]
+[ns]Maya[nse]
+"...Right, I'm sorry. I have you, John, and grandfather[r]
+too."[pcms]
 
 *7800|
 [fc]
-[ns]ジョン[nse]
-「ウォン！」[pcms]
+[ns]John[nse]
+"Woof!"[pcms]
 
 [fadeoutbgm time=502]
 [stop_se0]
@@ -184,4 +184,4 @@
 
 [jump storage="prologue0070.ks" target=*prologue0070_TOP]
 
-;//－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+;//

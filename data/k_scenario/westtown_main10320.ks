@@ -15,8 +15,8 @@
 
 *11430|
 [fc]
-扉を閉め、『Ｎｏ．６』から抜き取ったモップを、俺[r]
-は取っ手の裏側に挿し込んだ。[pcms]
+I closed the door and inserted the mop I had taken from "No.[r]
+6" into the underside of the handle.[pcms]
 
 ;//＠：西棟・三階
 ;//BG表示
@@ -28,123 +28,121 @@
 
 *11431|
 [fc]
-ユウと女の人、そして女の子は、入り口から少し離れ[r]
-た所に、お嬢様とハスキーはスクリーンの目の前の席[r]
-に座っていた。[pcms]
+Yuuki and the woman, along with the girl, were seated a[r]
+little away from the entrance, in front of the screen with[r]
+the young lady and Husky.[pcms]
 
 [ChrSetEx layer=4 chbase="koba_n01"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *11432|
 [fc]
 [vo_kob s="koba0223"]
-[ns]小林[nse]
-「おかえり。どうだった？」[pcms]
+[ns]Kobayashi[nse]
+"Welcome back. How did it go?"[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
 *11433|
 [fc]
-俺はユウの後ろの椅子に、体を投げ出すようにして腰[r]
-を下ろした。[pcms]
+I slumped down into the chair behind Yuuki as if throwing my[r]
+body into it.[pcms]
 
 *11434|
 [fc]
-[ns]大倉[nse]
-「他のトコは全部、イカレたヤツらがいた。数もハン[r]
-　パじゃねーし、ココも安全とは言えねーな……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Every other place was filled with crazies. Not just a few[r]
+either, so we can't say this place is safe either..."[pcms]
 
 [ChrSetEx layer=4 chbase="koba_n12"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *11435|
 [fc]
 [vo_kob s="koba0224"]
-[ns]小林[nse]
-「そう……」[pcms]
+[ns]Kobayashi[nse]
+"I see..."[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *11436|
 [fc]
-もし、他の５つの映画館にいたヤツらが、全員ここに[r]
-入ってこようとしたら、あんなモップ１本じゃ絶対に[r]
-抑えられねー……。[pcms]
+If all the people from the other five theaters tried to come[r]
+in here, a single mop definitely wouldn't be enough to hold[r]
+them back...[pcms]
 
 *11437|
 [fc]
-アイツらが外に出てくる前に、ココを出て向こうのビ[r]
-ルに行く方法を考えねーと……。[pcms]
+We need to think of a way to get out of here and over to[r]
+that building before they come out...[pcms]
 
 *11438|
 [fc]
-速水ももう限界かもしれねーし……。[r]
-時間は無ぇな……。[pcms]
+Hayami might be at her limit too... We're out of time...[pcms]
 
 *11439|
 [fc]
-すぐ横にヒトが立つ気配を感じて、考え事をやめて見[r]
-上げると、通路を挟んだ隣の椅子に座っていた女の子[r]
-が、ニコニコと俺に笑いかけていた。[pcms]
+I felt someone standing next to me and stopped my thoughts[r]
+to look up, and the girl who was sitting in the seat across[r]
+the aisle was smiling at me.[pcms]
 
 [ChrSetEx layer=4 chbase="nanasi_n01"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *11440|
 [fc]
-[ns]大倉[nse]
-「どうしたの？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"What's up?"[pcms]
 
 *11441|
 [fc]
 [vo_mob s="girl0033"]
-[ns]少女[nse]
-「えへ～♪」[pcms]
+[ns]Girl[nse]
+"Ehe~♪"[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *11442|
 [fc]
-[ns]大倉[nse]
-「オ、オイ……！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Hey...!"[pcms]
 
 *11443|
 [fc]
-彼女は背中を向けると、そのまま膝の上にピョンと飛[r]
-び乗り、俺を見上げた。[pcms]
+She turned her back to me and then hopped onto my lap,[r]
+looking up at me.[pcms]
 
 *11444|
 [fc]
 [vo_mob s="girl0034"]
-[ns]少女[nse]
-「おにーちゃん、すきー♪」[pcms]
+[ns]Girl[nse]
+"I like you, big brother~♪"[pcms]
 
 *11445|
 [fc]
-[ns]大倉[nse]
-「おに……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Big bro..."[pcms]
 
 *11446|
 [fc]
-ワケがわからず、通路を挟んだ向こうに座っている女[r]
-の人に、“どういうことか教えてくれ”という目を向[r]
-けると、彼女は首を横に振って返した。[pcms]
+Confused, I looked over at the woman sitting across the[r]
+aisle for an explanation, but she just shook her head.[pcms]
 
 *11447|
 [fc]
 [vo_mob s="girl0035"]
-[ns]少女[nse]
-「んふ～♪」[pcms]
+[ns]Girl[nse]
+"Nfu~♪"[pcms]
 
 [ChrSetEx layer=4 chbase="koba_n03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *11448|
 [fc]
 [vo_kob s="koba0225"]
-[ns]小林[nse]
-「おりなよ。ヒロがいやがってるよ」[pcms]
+[ns]Kobayashi[nse]
+"Get down. Hiro doesn't like it."[pcms]
 
 *11449|
 [fc]
-俺の膝の上で満足げな顔をしてる女の子を、ユウは感[r]
-情のこもってない、冷たいとも言える目で睨みつける。[pcms]
+The girl sitting contently on my lap was being glared at by[r]
+Yuuki with a cold, emotionless stare.[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 [ChrSetEx layer=2 chbase="koba_n04"][ChrSetXY layer=2 x=0 y=0]
@@ -152,165 +150,158 @@
 
 *11450|
 [fc]
-そのユウに、彼女は顔を近づけて、ペロッと舌を出し[r]
-て返した。[pcms]
+She leaned her face towards Yuuki and stuck out her tongue[r]
+in response.[pcms]
 
 *11451|
 [fc]
 [vo_mob s="girl0036"]
-[ns]少女[nse]
-「びー！　うるさい、おとこおんな」[pcms]
+[ns]Girl[nse]
+"Beeh! Quiet, man-woman."[pcms]
 
 [ChrSetEx layer=2 chbase="koba_n03"][ChrSetXY layer=2 x=0 y=0][trans_c cross time=150]
 
 *11452|
 [fc]
 [vo_kob s="koba0226"]
-[ns]小林[nse]
-「おとこおんな……？」[pcms]
+[ns]Kobayashi[nse]
+"Man-woman...?"[pcms]
 
 *11453|
 [fc]
 [vo_mob s="girl0037"]
-[ns]少女[nse]
-「おんなみたいなかおしてさ！　どうせなら、おんな[r]
-　のふくきればいーのにー」[pcms]
+[ns]Girl[nse]
+"You have a face like a woman! You should just wear women's[r]
+clothes if you're going to be like that!"[pcms]
 
 *11454|
 [fc]
-女の子にそう言われて、無表情だったユウの顔は、今[r]
-までに見たことも無いようなものに変わった。[pcms]
+Yuuki's expressionless face changed into something I had[r]
+never seen before after being told that by the girl.[pcms]
 
 [ChrSetEx layer=2 chbase="koba_n04"][ChrSetXY layer=2 x=0 y=0][trans_c cross time=150]
 
 *11455|
 [fc]
 [vo_kob s="koba0227"]
-[ns]小林[nse]
-「やっぱりおかしいよ、このこ！！　ぜったいあいつ[r]
-　らのなかまだよ！！　ボクらをだまして、なかまの[r]
-　ところにつれていこうとしてるんだ！！」[pcms]
+[ns]Kobayashi[nse]
+"This kid is definitely strange!! She must be one of them!![r]
+She's trying to deceive us and take us to her friends!!"[pcms]
 
 *11456|
 [fc]
-初めて見るブチギレ状態に、俺はただ呆気にとられて、[r]
-立ち上がって喚くユウを見上げていた。[pcms]
+I was just stunned by Yuuki's first-ever outburst as she[r]
+stood up and started yelling.[pcms]
 
 [ChrSetEx layer=2 chbase="koba_n03"][ChrSetXY layer=2 x=0 y=0][trans_c cross time=150]
 
 *11457|
 [fc]
 [vo_kob s="koba0228"]
-[ns]小林[nse]
-「おそわれるまえに、ここにおいていったほうがいい[r]
-　よ！！　もしかしたら、もうここに、なかまをよん[r]
-　でるかもしれない！！」[pcms]
+[ns]Kobayashi[nse]
+"We should leave her here before we get attacked!! Maybe[r]
+she's already called her friends here!!"[pcms]
 
 *11458|
 [fc]
 [vo_kob s="koba0229"]
-[ns]小林[nse]
-「ヒロだって、おかしいとおもってるんでしょ！？[r]
-　はやくはなれたほうがいいって！！」[pcms]
+[ns]Kobayashi[nse]
+"Hiro, you think it's strange too, right!? We should get[r]
+away quickly!!"[pcms]
 
 *11459|
 [fc]
-[ns]大倉[nse]
-「オ、オイ、少し落ち着けよ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Hey, calm down a bit..."[pcms]
 
 [ChrSetEx layer=3 chbase="nanasi_n03"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
 
 *11460|
 [fc]
 [vo_mob s="girl0038"]
-[ns]少女[nse]
-「なにいってんの？　このひとー。ばかじゃなーい？」[pcms]
+[ns]Girl[nse]
+"What are you talking about? Is this person stupid?"[pcms]
 
 ;[chara_int_ layer=2][chara_int_ layer=3][trans_c cross time=150]
 [ChrSetEx layer=2 chbase="anza_n02"][ChrSetXY layer=2 x=0 y=0][trans_c cross time=150]
 
 *11461|
 [fc]
-俺と同じように、そのうちユウが手を出すかもしれな[r]
-いと感じたのか、女の人が近づいてきて、優しく、子[r]
-供に言い聞かせるように言葉をかける。[pcms]
+Perhaps sensing that Yuuki might lash out, the woman[r]
+approached and spoke gently to the child as if to reason[r]
+with her.[pcms]
 
 *11462|
 [fc]
 [vo_anz s="anzai0147"]
-[ns]女[nse]
-「お兄さんが困ってるわ。[r]
-　ほら、こっちにいらっしゃい」[pcms]
+[ns]Female[nse]
+"Big brother is troubled. Come here, this way."[pcms]
 
 [ChrSetEx layer=3 chbase="nanasi_n02"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
 
 *11463|
 [fc]
 [vo_mob s="girl0039"]
-[ns]少女[nse]
-「むーっ……」[pcms]
+[ns]Girl[nse]
+"Muu..."[pcms]
 
 [chara_int_ layer=2][chara_int_ layer=3][trans_c cross time=150]
 
 *11464|
 [fc]
-女の人に手を引かれて、女の子は渋々といった顔で、[r]
-俺の膝の上から降りた。[pcms]
+The girl reluctantly got off my lap when led by the woman's[r]
+hand.[pcms]
 
 *11465|
 [fc]
-彼女が元いた場所に座るまで、ユウは殺気を感じるよ[r]
-うな目で睨んでいた。[pcms]
+Yuuki kept glaring at her with murderous eyes until she sat[r]
+back down in her original spot.[pcms]
 
 *11466|
 [fc]
-おかしいのはコイツも一緒だぜ……。[r]
-あんな風に怒鳴り散らすユウなんて、今まで一回も見[r]
-たことねぇ……。[pcms]
+This one's weird too... I've never seen Yuuki yell like that[r]
+before...[pcms]
 
 *11467|
 [fc]
-まぁ、イライラするのもわかるけどな……。[r]
-どこ行っても頭のイカレたヤツがいるし、誰も助けに[r]
-こねーし……。[pcms]
+I can understand feeling irritated... Everywhere we go there[r]
+are crazy people, and no one's coming to help...[pcms]
 
 *11468|
 [fc]
-ずっと誰も助けにこないで、このままこの建物の中に[r]
-閉じこめられたままって状況を想像して、俺は背筋が[r]
-寒くなった。[pcms]
+Just imagining being trapped in this building forever[r]
+without anyone coming to help sent a chill down my spine.[pcms]
 
 [ChrSetEx layer=4 chbase="anza_n05"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *11469|
 [fc]
 [vo_anz s="anzai0148"]
-[ns]女[nse]
-「ねえ、貴男達のどちらか１人、外を見張っていても[r]
-　らえないかしら」[pcms]
+[ns]Female[nse]
+"Could one of you gentlemen keep watch outside for us?"[pcms]
 
 *11470|
 [fc]
-[ns]大倉[nse]
-「見張り、ですか？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Keep watch?"[pcms]
 
 [ChrSetEx layer=4 chbase="anza_n09"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *11471|
 [fc]
 [vo_anz s="anzai0149"]
-[ns]女[nse]
-「ここ以外は全部、おかしな人がいるんでしょう？[r]
-　その人達が来る前にここを出ないと、逃げ場が無い[r]
-　からみんな捕まってしまうわ」[pcms]
+[ns]Female[nse]
+"All the other places have strange people, right? If we[r]
+don't leave before they come here, we'll have no escape and[r]
+everyone will be caught."[pcms]
 
 *11472|
 [fc]
 [vo_anz s="anzai0150"]
-[ns]女[nse]
-「だから、他の映画館からおかしな人が出てきたら、[r]
-　すぐにここを離れられるように、見張っていてほし[r]
-　いの」[pcms]
+[ns]Female[nse]
+"That's why I want someone to keep watch. If strange people[r]
+come out from the other theaters, we can leave here[r]
+immediately."[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 [ChrSetEx layer=2 chbase="anza_n09"][ChrSetXY layer=2 x=0 y=0]
@@ -319,349 +310,348 @@
 *11473|
 [fc]
 [vo_kob s="koba0230"]
-[ns]小林[nse]
-「じゃあ、ボクがやるよ。そのこのちかくに、いたく[r]
-　ないからね」[pcms]
+[ns]Kobayashi[nse]
+"Then I'll do it. I don't want to be near that girl anyway."[pcms]
 
 *11474|
 [fc]
-[ns]大倉[nse]
-「オイ、ユウ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Hey, Yuuki..."[pcms]
 
 [ChrSetEx layer=2 chbase="anza_n08"][ChrSetXY layer=2 x=0 y=0][trans_c cross time=150]
 
 *11475|
 [fc]
 [vo_anz s="anzai0151"]
-[ns]女[nse]
-「お願いね。おかしな人が外に出てきたら、すぐに声[r]
-　をかけてもらえる？」[pcms]
+[ns]Female[nse]
+"Please. If you see strange people coming out, could you[r]
+call out immediately?"[pcms]
 
 [chara_int_ layer=2][chara_int_ layer=3][trans_c cross time=150]
 
 *11476|
 [fc]
-ユウは無言でうなずいて、入り口へと歩いていった。[pcms]
+Yuuki nodded silently and walked towards the entrance.[pcms]
 
 *11477|
 [fc]
-ユウ一人にやらすのも悪いと思って、俺はすぐに立ち[r]
-上がって、あとを追った。[pcms]
+Feeling bad for leaving it all to Yuuki, I quickly stood up[r]
+to follow her.[pcms]
 
 *11478|
 [fc]
-[ns]大倉[nse]
-「ユウ、俺もつきあうぜ」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Yuuki, I'll join you."[pcms]
 
 [ChrSetEx layer=4 chbase="koba_n05"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *11479|
 [fc]
 [vo_kob s="koba0231"]
-[ns]小林[nse]
-「……ううん、ボクひとりでいい。ちょっと、あたま[r]
-　ひやしたいから」[pcms]
+[ns]Kobayashi[nse]
+"...No, I'm fine alone. I just want to cool my head a bit."[pcms]
 
 *11480|
 [fc]
-取っ手に挿し込まれたモップをはずしながら、俺を見[r]
-ずに、ユウは呟いた。[pcms]
+While removing the mop that had been inserted into the[r]
+handle, Yuuki muttered without looking at me.[pcms]
 
 *11481|
 [fc]
-そうか……。[r]
-そういうことなら、一人にしといた方がいいな……。[pcms]
+"I see... If that's the case, it's better to leave her[r]
+alone..."[pcms]
 
 *11482|
 [fc]
-[ns]大倉[nse]
-「……交替して欲しくなったら、すぐに言えよ」[pcms]
+[ns]Ookura Hiroshi[nse]
+"...If you want to switch, just say so immediately."[pcms]
 
 *11483|
 [fc]
 [vo_kob s="koba0232"]
-[ns]小林[nse]
-「ありがとう」[pcms]
+[ns]Kobayashi[nse]
+"Thank you."[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *11484|
 [fc]
-やっぱり俺を見ないで、短くそう呟き、ユウははずし[r]
-たモップを持ったまま、扉の外に出て行った。[pcms]
+Without looking at me, Yuuki muttered shortly and went[r]
+outside with the mop she had removed.[pcms]
 
 *11485|
 [fc]
-[ns]大倉[nse]
-「ハァ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Haa..."[pcms]
 
 *11486|
 [fc]
-そうだ……。[r]
-向こうの建物に行く方法、考えねーとな……。[pcms]
+"Right... I need to think of a way to get to the building[r]
+across..."[pcms]
 
 *11487|
 [fc]
-俺は自分の座っていた椅子へ歩きながら、何かいい方[r]
-法はないか、頭の中で考えを巡らせた。[pcms]
+As I walked back to the chair I had been sitting in, I[r]
+racked my brain for a good idea.[pcms]
 
 *11488|
 [fc]
-多分、俺が今まで閉めたシャッターは、全部開けられ[r]
-ない……。[pcms]
+Probably, all the shutters I've closed so far can't be[r]
+opened...[pcms]
 
 *11489|
 [fc]
-ちゃんとは読んでねーけど、確か、注意書きに書いて[r]
-あった……。[pcms]
+I didn't read it carefully, but I'm sure it was written in[r]
+the warning notice...[pcms]
 
 *11490|
 [fc]
-あの装置でシャッターを閉めたら、なんか難しいやり[r]
-方で開けなきゃならねーんだよな……。[pcms]
+If you close the shutter with that device, you have to open[r]
+it in some complicated way...[pcms]
 
 *11491|
 [fc]
-だとしたら、もう外には……。[pcms]
+If that's the case, then outside...[pcms]
 
 *11492|
 [fc]
-いや……。[r]
-屋上のエレベーターホールは、シャッター閉まってな[r]
-いよな……。[pcms]
+No... The elevator hall on the rooftop isn't shuttered,[r]
+right...[pcms]
 
 *11493|
 [fc]
-けど、エレベーターは使えねー……。[r]
-ドアが開いた瞬間、また頭のイカレたヤツが出てくる[r]
-かもしれねーからな……。[pcms]
+But the elevator can't be used... As soon as the door opens,[r]
+another crazy person might come out...[pcms]
 
 *11494|
 [fc]
-３階の渡り廊下は、鍵が無いと開けられねーし……。[pcms]
+The corridor on the third floor can't be opened without a[r]
+key...[pcms]
 
 *11495|
 [fc]
-映画みてーに窓を割って、壁を伝って行くとか……。[r]
-現実的じゃねーな、コレは……。[pcms]
+Breaking a window in the movie theater and climbing along[r]
+the wall... That's not realistic, this...[pcms]
 
 *11496|
 [fc]
-あ……。[r]
-だったら、１階の窓を割ればいいんじゃねーか……？[pcms]
+Ah... Then, maybe we should just break a window on the first[r]
+floor...?[pcms]
 
 *11497|
 [fc]
-そっから外に出て、こっちと同じように、１階のどっ[r]
-かの窓を割って中に入れば……。[pcms]
+If we go out from there and break a window on the first[r]
+floor like we did here, we can get inside...[pcms]
 
 *11498|
 [fc]
-けど、簡単には割れねーだろうな……。[r]
-商店街の建物はボロボロになったけど、このビル、ど[r]
-こも壊れてねーもんな……。[pcms]
+But it won't break easily, right... The buildings in the[r]
+shopping district have fallen apart, but this building isn't[r]
+damaged anywhere...[pcms]
 
 *11499|
 [fc]
-さすが、避難場所になってるだけあるよ……。[r]
-そのクセ、誰も助けにこねーけどな……。[pcms]
+As expected of a designated evacuation site... Even though[r]
+no one comes to help...[pcms]
 
 *11500|
 [fc]
-もしかして、逆か……？[r]
-しばらく助けが来なくても大丈夫だから、避難場所に[r]
-なってるとか……。[pcms]
+Maybe it's the other way around... It's an evacuation site[r]
+because it can be safe for a while even if help doesn't[r]
+come...[pcms]
 
 ;//♪：bgm012 stop
 [fadeoutbgm time=1][wb]
 
 *11501|
 [fc]
-[ns]ジョン[nse]
-「ウォフッ……」[pcms]
+[ns]John[nse]
+"Woof..."[pcms]
 
 *11502|
 [fc]
-[ns]大倉[nse]
-「ん……？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Hmm...?"[pcms]
 
 ;//♪：bgm004 
 [bgm storage="bgm004"]
 
 *11503|
 [fc]
-ハスキーの声で我に返ると、俺はいつの間にか、一番[r]
-前の席まで歩いてきていた。[pcms]
+Snapping back to reality at the sound of the husky's voice,[r]
+I realized I had walked all the way to the front seat[r]
+without noticing.[pcms]
 
 *11504|
 [fc]
-[ns]大倉[nse]
-「おっ、と……」[pcms]
+[ns]Ookura[nse]
+"Oops, and..."[pcms]
 
 *11505|
 [fc]
-ハスキーは急に立ち上がって、俺の腹に前足をついて[r]
-体を支え、シッポを振りながら顔をナメてくる。[pcms]
+The husky suddenly stood up, leaned its front paws against[r]
+my stomach to support itself, and started licking my face[r]
+while wagging its tail.[pcms]
 
 *11506|
 [fc]
-[ns]大倉[nse]
-「オ、オイ……コラ、よせって……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Hey, hey... stop that..."[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_n07"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *11507|
 [fc]
 [vo_may s="maya0098"]
-[ns]お嬢様[nse]
-「ジョン、駄目……」[pcms]
+[ns]Young Lady[nse]
+"John, no..."[pcms]
 
 *11508|
 [fc]
-お嬢様が一言たしなめると、ハスキーは足を下ろして、[r]
-彼女の足下に行き、行儀良く座った。[pcms]
+At the young lady's single word of admonishment, the husky[r]
+lowered its paws and went to sit obediently at her feet.[pcms]
 
 *11509|
 [fc]
 [vo_may s="maya0099"]
-[ns]お嬢様[nse]
-「他人の顔を舐めるなんて、初めて見た……」[pcms]
+[ns]Young Lady[nse]
+"I've never seen him lick someone else's face before..."[pcms]
 ;//◎他人＝たにん
 
 *11510|
 [fc]
-彼女と話をする良い機会だと思った俺は、間に椅子を[r]
-２つ挟んだ所に腰を下ろして聞いた。[pcms]
+Seeing this as a good opportunity to talk to her, I sat down[r]
+two seats away and asked.[pcms]
 
 *11511|
 [fc]
-[ns]大倉[nse]
-「他人にはなつかないの？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Does he not get attached to strangers?"[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_n03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *11512|
 [fc]
 [vo_may s="maya0100"]
-[ns]お嬢様[nse]
-「私と、お祖父様にだけ……」[pcms]
+[ns]Young Lady[nse]
+"Only to me and my grandfather..."[pcms]
 
 *11513|
 [fc]
-“お祖父様”と言ってお嬢様が少しうつむくのを見て、[r]
-気まずくなった俺は、違うことを彼女に聞いた。[pcms]
+Seeing the young lady look down slightly as she mentioned[r]
+her grandfather made me feel awkward, so I asked her about[r]
+something else.[pcms]
 
 *11514|
 [fc]
-[ns]大倉[nse]
-「……キミさ、坂田のヒトだよね？　この建物に入っ[r]
-　た時も言ったけど、俺、学校の帰りとかに見たこと[r]
-　あるんだ」[pcms]
+[ns]Ookura Hiroshi[nse]
+"...You're from the Sakata family, right? I said it when we[r]
+entered this building, but I've seen you on my way home from[r]
+school."[pcms]
 
 *11515|
 [fc]
-[ns]大倉[nse]
-「憶えてないかもしれないけど、話したこともあるん[r]
-　だよ？　その犬が迷子になって、キミが探してたの[r]
-　かな、確か」[pcms]
+[ns]Ookura Hiroshi[nse]
+"You might not remember, but we've talked before, right? It[r]
+was when your dog got lost and you were looking for him, I[r]
+think."[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_n01"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *11516|
 [fc]
 [vo_may s="maya0101"]
-[ns]お嬢様[nse]
-「憶えてる……怒鳴られて思い出した……」[pcms]
+[ns]Young Lady[nse]
+"I remember... I remembered when you yelled at me..."[pcms]
 
 *11517|
 [fc]
-[ns]大倉[nse]
-「あ……ゴメン……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Ah... Sorry..."[pcms]
 
 *11518|
 [fc]
-この建物の入り口で、彼女を怒鳴りつけたことを思い[r]
-出して、俺はまた気まずくなってしまった。[pcms]
+Remembering how I had yelled at her at the entrance of this[r]
+building made me feel awkward again.[pcms]
 
 *11519|
 [fc]
-けど、仲良くなれたらと思ってた子の記憶に、怒鳴ら[r]
-れて思い出すぐらいには自分が残ってたことに、俺は[r]
-心臓が少し速くなるのを感じてもいた。[pcms]
+But realizing that she remembered me because I had yelled at[r]
+her made my heart beat a little faster.[pcms]
 
 *11520|
 [fc]
-[ns]大倉[nse]
-「……あのデカイ家ってさ、キミんちでしょ？　高そ[r]
-　うな車で送り迎えされてるみたいだし、やっぱお金[r]
-　持ちのお嬢様は違うよなー」[pcms]
+[ns]Ookura[nse]
+"...That big house is yours, right? You seem to be picked up[r]
+and dropped off in an expensive car; being a rich young lady[r]
+must be different."[pcms]
 
 *11521|
 [fc]
-笑ってそう言う俺に、彼女は少し細めた、冷たいと感[r]
-じる顔を向けて、突き放すように呟いた。[pcms]
+To my laughing remark, she narrowed her eyes slightly and[r]
+turned a cold face towards me as she muttered dismissively.[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_n03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *11522|
 [fc]
 [vo_may s="maya0102"]
-[ns]お嬢様[nse]
-「偽善者……」[pcms]
+[ns]Young Lady[nse]
+"Hypocrite..."[pcms]
 
 *11523|
 [fc]
-[ns]大倉[nse]
-「ぎぜ……！？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Hypoc...!?"[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_n06"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *11524|
 [fc]
 [vo_may s="maya0103"]
-[ns]お嬢様[nse]
-「お金が目当てでジョンを……リードをはずして連れ[r]
-　て行ったんだ……」[pcms]
+[ns]Young Lady[nse]
+"You took John away by removing his leash... because you[r]
+were after money..."[pcms]
 
 *11525|
 [fc]
-[ns]大倉[nse]
-「ちょ、ちょっと待ってくれよ！　俺、金目当てなん[r]
-　て言った覚え……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Wait a minute! I don't remember ever saying I was after[r]
+money..."[pcms]
 
 *11526|
 [fc]
-声が大きくなりかけると、それまで大人しくしていた[r]
-ハスキーがサッと立ち上がり、俺の足下まできて座っ[r]
-て、アゴを膝の上に乗せてきた。[pcms]
+The husky, which had been quiet until now, suddenly stood up[r]
+and came over to sit at my feet, resting its chin on my[r]
+knee.[pcms]
 
 *11527|
 [fc]
-[ns]ジョン[nse]
-「……」[pcms]
+[ns]John[nse]
+"..."[pcms]
 
 *11528|
 [fc]
-[ns]大倉[nse]
-「……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"..."[pcms]
 
 *11529|
 [fc]
-その行動の意味がわからずに、言葉を失った俺は、目[r]
-だけ動かして見上げてくるハスキーと、ただただ見つ[r]
-め合った。[pcms]
+Not understanding the meaning of its action, I was at a loss[r]
+for words and just looked down at the husky staring up at[r]
+me.[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_f02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *11530|
 [fc]
 [vo_may s="maya0104"]
-[ns]お嬢様[nse]
+[ns]Young Lady[nse]
 「ジョン……」[pcms]
 
 *11531|
 [fc]
-[ns]ジョン[nse]
+[ns]John[nse]
 「クゥン……」[pcms]
 
 *11532|
@@ -674,12 +664,12 @@
 *11533|
 [fc]
 [vo_may s="maya0105"]
-[ns]お嬢様[nse]
+[ns]Young Lady[nse]
 「ごめんなさい……」[pcms]
 
 *11534|
 [fc]
-[ns]大倉[nse]
+[ns]Ookura Hiroshi[nse]
 「あ、ウン……」[pcms]
 
 *11535|
@@ -693,24 +683,24 @@
 *11536|
 [fc]
 [vo_may s="maya0106"]
-[ns]お嬢様[nse]
+[ns]Young Lady[nse]
 「……私も見てた……」[pcms]
 
 *11537|
 [fc]
-[ns]大倉[nse]
+[ns]Ookura Hiroshi[nse]
 「え……？」[pcms]
 
 *11538|
 [fc]
 [vo_may s="maya0107"]
-[ns]お嬢様[nse]
+[ns]Young Lady[nse]
 「ジョンの散歩をしてる時とかに見かけて……ずっと[r]
 　見てた……」[pcms]
 
 *11539|
 [fc]
-[ns]大倉[nse]
+[ns]Ookura Hiroshi[nse]
 「え、俺を……？」[pcms]
 
 *11540|
@@ -725,13 +715,13 @@
 
 *11542|
 [fc]
-[ns]大倉[nse]
+[ns]Ookura Hiroshi[nse]
 「お、俺も、ずっと、友達になりたいなって……」[pcms]
 
 *11543|
 [fc]
 [vo_may s="maya0108"]
-[ns]お嬢様[nse]
+[ns]Young Lady[nse]
 「私も……そう思ってた……」[pcms]
 
 *11544|
@@ -755,13 +745,13 @@
 *11547|
 [fc]
 [vo_may s="maya0109"]
-[ns]お嬢様[nse]
+[ns]Young Lady[nse]
 「あの３人、いつも楽しそう……私もあの中に入りた[r]
 　いって……」[pcms]
 
 *11548|
 [fc]
-[ns]大倉[nse]
+[ns]Ookura Hiroshi[nse]
 「３……？　え……？」[pcms]
 
 *11549|
@@ -776,7 +766,7 @@
 
 *11551|
 [fc]
-[ns]大倉[nse]
+[ns]Ookura Hiroshi[nse]
 「３人……？」[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_f01"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -784,12 +774,12 @@
 *11552|
 [fc]
 [vo_may s="maya0110"]
-[ns]お嬢様[nse]
+[ns]Young Lady[nse]
 「いつも一緒にいる人……」[pcms]
 
 *11553|
 [fc]
-[ns]大倉[nse]
+[ns]Ookura Hiroshi[nse]
 「あー……ユウと速水……」[pcms]
 
 *11554|
@@ -811,7 +801,7 @@
 
 *11557|
 [fc]
-[ns]大倉[nse]
+[ns]Ookura Hiroshi[nse]
 「な、なんだぁ！　だったら、もっと早く言ってくれ[r]
 　れば良かったのに。俺だって、あんなカワイイ子と[r]
 　友達になれたらなー、って思ってたしね！」[pcms]
@@ -821,12 +811,12 @@
 *11558|
 [fc]
 [vo_may s="maya0111"]
-[ns]お嬢様[nse]
+[ns]Young Lady[nse]
 「……」[pcms]
 
 *11559|
 [fc]
-[ns]大倉[nse]
+[ns]Ookura Hiroshi[nse]
 「いや、ホントホント！　こっちから友達になってく[r]
 　れってお願いしたいぐらい！」[pcms]
 
@@ -837,13 +827,13 @@
 
 *11561|
 [fc]
-[ns]大倉[nse]
+[ns]Ookura Hiroshi[nse]
 「つーか、お願いしちゃおうかなー！　良かったらさ、[r]
 　俺と友達になってよ、ね！」[pcms]
 
 *11562|
 [fc]
-[ns]大倉[nse]
+[ns]Ookura Hiroshi[nse]
 「そうだ、いま俺と友達になってくれると、もれなく[r]
 　ユウと速水もついてくるけど！　どう！　奥さん！」[pcms]
 
@@ -852,7 +842,7 @@
 *11563|
 [fc]
 [vo_may s="maya0112"]
-[ns]お嬢様[nse]
+[ns]Young Lady[nse]
 「ふっ……」[pcms]
 
 *11564|
@@ -880,13 +870,13 @@
 *11568|
 [fc]
 [vo_may s="maya0118"]
-[ns]お嬢様[nse]
+[ns]Young Lady[nse]
 「本当の友達ってどんなもの……？」[pcms]
 
 *11569|
 [fc]
-[ns]大倉[nse]
-「ホントの友達……親友ってこと？　う～ん……どん[r]
+[ns]Ookura Hiroshi[nse]
+「ホントの友達……親友ってこと？　うん……どん[r]
 　だけ一緒にいても全然飽きないとか、ヘンな気を遣[r]
 　わなくていいとか……」[pcms]
 
@@ -903,13 +893,13 @@
 
 *11572|
 [fc]
-[ns]大倉[nse]
-「う～ん……」[pcms]
+[ns]Ookura Hiroshi[nse]
+「うん……」[pcms]
 
 *11573|
 [fc]
 [vo_may s="maya0119"]
-[ns]お嬢様[nse]
+[ns]Young Lady[nse]
 「困っている時に、何の見返りも求めず、手を差し伸[r]
 　べてくれるのが、私は本当の友達だと思う」[pcms]
 
@@ -936,7 +926,7 @@
 
 *11578|
 [fc]
-[ns]大倉[nse]
+[ns]Ookura Hiroshi[nse]
 「うん……俺もその意見に賛成だな。困ってる時に助[r]
 　けてやれないなんて、そんなの友達じゃねーよな」[pcms]
 
@@ -945,157 +935,155 @@
 *11579|
 [fc]
 [vo_may s="maya0113"]
-[ns]お嬢様[nse]
-「……じ、じゃあ……」[pcms]
+[ns]Young Lady[nse]
+She looked down, avoiding my eyes, and hesitated to speak as[r]
+if she found it difficult to say.[pcms]
 
 *11580|
 [fc]
-彼女はうつむき、俺から目を逸らしながら、言いにく[r]
-そうに口ごもる。[pcms]
+"..."[pcms]
 
 *11581|
 [fc]
 [vo_may s="maya0114"]
-[ns]お嬢様[nse]
-「……」[pcms]
+[ns]Young Lady[nse]
+"Hm?"[pcms]
 
 *11582|
 [fc]
-[ns]大倉[nse]
-「ん？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"...because you helped me when I was in trouble after John[r]
+disappeared..."[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_f04"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *11583|
 [fc]
 [vo_may s="maya0115"]
-[ns]お嬢様[nse]
-「……ジョンがいなくなって、困ってた私を助けてく[r]
-　れたから……」[pcms]
+[ns]Young Lady[nse]
+Having said that much, she blushed and fell silent.[pcms]
 
 *11584|
 [fc]
-そこまで言って、彼女はほっぺたを赤くして、黙って[r]
-しまった。[pcms]
+Thinking about it, that's right... I did help her out[r]
+without expecting anything in return when she was in trouble[r]
+at that time...[pcms]
 
 *11585|
 [fc]
-言われてみりゃそうだ……。[r]
-あの時困ってたこの子を、見返りを求めないで助けた[r]
-ことになるよな……。[pcms]
+"I see... Yuu, Hayami, and I, we were already friends with[r]
+you."[pcms]
 
 *11586|
 [fc]
-[ns]大倉[nse]
-「そっか……俺もユウも速水も、もうキミと友達だっ[r]
-　たんだ」[pcms]
+[ns]Ookura Hiroshi[nse]
+Upon hearing that, she looked up and I smiled and gave her a[r]
+light wave.[pcms]
 
 *11587|
 [fc]
-それを聞いて顔をあげた彼女に、俺は笑って軽く手を[r]
-振ってみせた。[pcms]
+"My name is Ookura. First name Hiroshi. Nice to meet you"[pcms]
 
 *11588|
 [fc]
-[ns]大倉[nse]
-「俺は大倉っていうんだ。下は浩。よろしくー」[pcms]
+[ns]Ookura Hiroshi[nse]
+She smiled shyly and nodded slightly as if bowing in return.[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_n02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *11589|
 [fc]
-彼女は恥ずかしそうに微笑んで、小さくうなずくよう[r]
-に、おじぎをして返した。[pcms]
+"Ah, you can call me Ookura or Hiroshi. I don't like being[r]
+called with '-kun' by friends."[pcms]
 
 *11590|
 [fc]
-[ns]大倉[nse]
-「あ、大倉かヒロシでいいから。俺、友達にクンづけ[r]
-　されんのキライなんだ」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Hi-Hiro, shi...?"[pcms]
 
 *11591|
 [fc]
 [vo_may s="maya0116"]
-[ns]お嬢様[nse]
-「ヒ、ヒロ、シ……？」[pcms]
+[ns]Young Lady[nse]
+"Yeah, Hiroshi. What about you? What's your name?"[pcms]
 
 *11592|
 [fc]
-[ns]大倉[nse]
-「そ、ヒロシ。キミは？　名前、なんていうの？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Jinguuji, Maya..."[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_n03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *11593|
 [fc]
 [vo_may s="maya0117"]
-[ns]お嬢様[nse]
-「神宮司、摩耶……」[pcms]
+[ns]Young Lady[nse]
+I almost blurted out that her surname sounded very wealthy,[r]
+but I managed to swallow the words just in time, as they[r]
+seemed to be a landmine for her.[pcms]
 
 *11594|
 [fc]
-彼女の名字に、いかにも金持ちらしい、と思わず言い[r]
-そうになったが、どうやら彼女にとって地雷らしいそ[r]
-の言葉を、俺は寸前でなんとか飲み込んだ。[pcms]
+"I... I also..."[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_f04"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *11595|
 [fc]
 [vo_may s="maya0120"]
-[ns]摩耶[nse]
-「私……私も……」[pcms]
+[ns]Maya[nse]
+She murmured in a fading voice and hesitated to continue,[r]
+struggling to speak.[pcms]
 
 *11596|
 [fc]
-消え入りそうな声で呟くと、彼女はその先を続けずに、[r]
-言いにくそうに口ごもる。[pcms]
+"..."[pcms]
 
 *11597|
 [fc]
 [vo_may s="maya0121"]
-[ns]摩耶[nse]
-「……」[pcms]
+[ns]Maya[nse]
+"Hm?"[pcms]
 
 *11598|
 [fc]
-[ns]大倉[nse]
-「ん？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"I also prefer to be called by my name..."[pcms]
 
 *11599|
 [fc]
 [vo_may s="maya0122"]
-[ns]摩耶[nse]
-「私も、名前で……」[pcms]
+[ns]Maya[nse]
+She looked at me with an anxious face, wondering how I would[r]
+react, and I returned the look with a smile.[pcms]
 
 *11600|
 [fc]
-どういう反応をするか、不安そうな顔でこっちを窺っ[r]
-ている彼女に、俺は笑って返した。[pcms]
+"Okay. Then, Maya-chan it is."[pcms]
 
 *11601|
 [fc]
-[ns]大倉[nse]
-「オッケ。じゃぁ、マヤちゃんで」[pcms]
+[ns]Ookura[nse]
+She nodded slightly with her gaze on the floor, and perhaps[r]
+it was my imagination, but she seemed somewhat happy.[pcms]
 
 *11602|
 [fc]
-視線を床に落として、小さくうなずいた彼女は、俺の[r]
-気のせいか、どこか嬉しそうに見えた。[pcms]
+I never thought I'd actually become friends with this[r]
+girl...[pcms]
 
 *11603|
 [fc]
-まさか、この子とホントに友達になるとは思わなかっ[r]
-た……。[pcms]
+And to think she wanted to be friends with us... I wonder[r]
+how Yuu and Hayami would react when they hear this...[pcms]
 
 *11604|
 [fc]
-しかも、俺らと友達になりたいと思ってたなんて……。[r]
-それ聞いたら、ユウと速水はどんなリアクションする[r]
-かな……。[pcms]
+And to think she wanted to be friends with us... I wonder[r]
+how Yuuki and Hayami would react when they hear this...[pcms]
 
 ;//状態継続
 
 [jump storage="westtown_main10330.ks" target=*westtown_main10330_TOP]
 
-;//－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+;//

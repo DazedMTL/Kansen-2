@@ -33,9 +33,9 @@
 
 *7508|
 [fc]
-やっとショッピングモール前の、広場の入り口まで辿[r]
-り着いた俺らは、そこに広がっていた光景に声を失っ[r]
-た。[pcms]
+We finally made it to the entrance of the plaza in front of[r]
+the shopping mall, and were rendered speechless by the scene[r]
+that unfolded before us.[pcms]
 
 [sysbt_meswin clear]
 
@@ -93,14 +93,14 @@
 
 *7509|
 [fc]
-至る所で男達が女を、女達が男を犯し続け、悲鳴と、[r]
-嬌声と、呻く声と、荒い息づかいが広場一帯を覆って[r]
-いる。[pcms]
+Everywhere, men were violating women, and women were[r]
+violating men, with screams, moans, groans, and heavy[r]
+breathing enveloping the entire plaza.[pcms]
 
 *7510|
 [fc]
-俺がここへ来た時のような、カップルと家族連れのの[r]
-んびりとした空気は、もうどこにも無かった。[pcms]
+The relaxed atmosphere of couples and families that was here[r]
+when I arrived was nowhere to be found.[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
@@ -113,320 +113,312 @@
 
 *7511|
 [fc]
-[ns]学生服の青年１[nse]
-「あ゛ぁ～っ……ま゛んこぉ～……ぬるぬ゛るまん゛[r]
-　こ……きも゛ちぃ～～……」[pcms]
+[ns]Young Man in School Uniform 1[nse]
+"Ahh~... my pussy~... so slippery and wet... feels so[r]
+good~~..."[pcms]
 
 *7512|
 [fc]
-[ns]若い女[nse]
-「い、やぁ……もう、やめてぇ……っ！！　なかに、[r]
-　ださないでぇ……！！」[pcms]
+[ns]Young woman[nse]
+"No, please... stop... don't cum inside me...!!"[pcms]
 
 *7513|
 [fc]
-仰向けで犯されていた女は、自分の頭の上に立ってい[r]
-た青年に助けを求めるように手を伸ばす。[pcms]
+The woman being violated on her back reached out her hands[r]
+towards the young man standing above her head as if begging[r]
+for help.[pcms]
 
 *7514|
 [fc]
-だがその青年がナニを丸出しにして、自分の頭の両脇[r]
-に膝をついたのを見て、女の目は絶望に大きく見開か[r]
-れた。[pcms]
+But when she saw that the young man had his dick fully[r]
+exposed and was kneeling on both sides of her head, her eyes[r]
+widened in despair.[pcms]
 
 *7515|
 [fc]
-[ns]学生服の青年２[nse]
-「あな゛……み゛っけた゛ぁ……」[pcms]
+[ns]Student Uniform Young Man 2[nse]
+"Ah... found it..."[pcms]
 
 *7516|
 [fc]
-[ns]若い女１[nse]
-「ひ……いやぁ！　……おぶぅっ！！　ぅぐうっ、ぐ[r]
-　ぼっ！！　うぶぅっ！！」[pcms]
+[ns]Young Woman 1[nse]
+"No... please! ...ugh!! Ugh, gurgle!! Ugh!!"[pcms]
 
 *7517|
 [fc]
-青年は両手で女の頭を固定して、口にムリヤリねじ込[r]
-み、激しくナニを出し入れし始めた。[pcms]
+The young man held the woman's head with both hands and[r]
+forcefully thrust his dick into her mouth, starting to pump[r]
+vigorously.[pcms]
 
 *7518|
 [fc]
-女は涎や鼻水、涙を垂れ流しながら、苦しそうにもが[r]
-き、呻き声をあげた。[pcms]
+The woman, with drool, snot, and tears streaming down,[r]
+struggled and moaned in pain.[pcms]
 
 *7519|
 [fc]
-[ns]若い女１[nse]
-「う゛えぇっ！！　ぐぶっ！　んっ、ぶちゅっ、んぶ[r]
-　ぼおぉっ！！」[pcms]
+[ns]Young Woman 1[nse]
+"Ughh!! Gurgle! Mmph, splurt, mmmph!!"[pcms]
 
 *7520|
 [fc]
-[ns]学生服の青年１[nse]
-「う゛ぁっ……しま゛、ってる……す゛こ゛い、し゛[r]
-　まってる゛ぅ……いい゛よぉ～～……」[pcms]
+[ns]Young Man in School Uniform 1[nse]
+"Ugh... it's tightening... it's so tight... feels so[r]
+good~~..."[pcms]
 
 *7521|
 [fc]
-[ns]学生服の青年２[nse]
-「しだも……づがって、くれ゛よぉ……な゛ぁ～……」[pcms]
+[ns]Young Man in School Uniform 2[nse]
+"It's so tight... squeeze it for me... please~~..."[pcms]
 
 *7522|
 [fc]
-[ns]若い女１[nse]
-「ぐちゅっ！　ぢゅぼぅっ！　んお゛っ、え゛お゛ぉ！[r]
-　んぶおぉぉっ！！」[pcms]
+[ns]Young Woman 1[nse]
+"Squish! Gush! Ohh, ohh! Mmmph!!"[pcms]
 
 *7523|
 [fc]
-その３人から少し離れた所には、さらに異常な人の塊[r]
-があった。[pcms]
+A little away from those three, there was an even more[r]
+abnormal cluster of people.[pcms]
 
 *7524|
 [fc]
-地面に伏せ、尻を突き出した女に男が覆い被さり、さ[r]
-らにその男の上に別の男が覆い被さっていた。[pcms]
+A woman lay face down on the ground with her ass sticking[r]
+out while a man covered her from above, and yet another man[r]
+was on top of him.[pcms]
 
 *7525|
 [fc]
-[ns]ツナギの中年男[nse]
-「ん゛ふぅ～～……ねも゛とまて゛、せ゛んふ゛……[r]
-　はいった゛そ゛ぉ……？」[pcms]
+[ns]Middle-aged man in coveralls[nse]
+"Mmm~... can you feel it all the way to your womb...?"[pcms]
 
 *7526|
 [fc]
-[ns]スーツの若者[nse]
-「う゛、あ゛……あ゛あ゛あ゛～～～っ……！！」[pcms]
+[ns]Young man in a suit[nse]
+"Uh, ah... ahhhh~~~!!"[pcms]
 
 *7527|
 [fc]
-[ns]若い女２[nse]
-「あ、はぁ……おまんこ゛の、な゛かて゛……ま゛た、[r]
-　お゛っきくな゛ったぁ……」[pcms]
+[ns]Young Woman 2[nse]
+"Ah, haah... inside my pussy... it's getting bigger[r]
+again..."[pcms]
 
 *7528|
 [fc]
-ツナギの男に、アレを尻に挿れられ、スーツの[r]
-男は目と口を大きく開き、アゴをあげて苦しそうに喘[r]
-いだ。[pcms]
+The man in coveralls inserted his dick into her ass, and the[r]
+man in a suit opened his eyes and mouth wide, gasping in[r]
+pain.[pcms]
 
 *7529|
 [fc]
-[ns]若い女２[nse]
-「ね゛ぇ～……と゛うして゛ぇ……？　と゛うし゛て、[r]
-　ちんほ゜とめ゛るのぉ……？　も゛っと、うこ゛い[r]
-　て゛よぉ……」[pcms]
+[ns]Young Woman 2[nse]
+"Hey~... why are you stopping...? Why are you stopping your[r]
+dick? Keep going harder..."[pcms]
 
 *7530|
 [fc]
-[ns]スーツの若者[nse]
-「あ゛、く゛……あ゛ぁ……」[pcms]
+[ns]Young man in a suit[nse]
+"Ah, ugh... ahh..."[pcms]
 
 *7531|
 [fc]
-女がねだるように尻を振る度に、覆い被さっている男[r]
-は苦しそうに呻く。[pcms]
+Every time the woman shook her ass pleadingly, the man on[r]
+top of her groaned in pain.[pcms]
 
 *7532|
 [fc]
-ツナギの男は女の言葉を聞いて、嬉しそうにニタァと[r]
-笑った。[pcms]
+The man in coveralls heard the woman's words and grinned[r]
+with delight.[pcms]
 
 *7533|
 [fc]
-[ns]ツナギの中年男[nse]
-「よお゛し……はけ゛しく゛、してや゛るそ゛ぉ……」[pcms]
+[ns]Middle-aged man in coveralls[nse]
+"Alright... I'll do it fiercely..."[pcms]
 
 *7534|
 [fc]
-[ns]スーツの若者[nse]
-「う゛……う゛く゛ぅ……」[pcms]
+[ns]Young man in a suit[nse]
+"Ugh... ughh..."[pcms]
 
 *7535|
 [fc]
-スーツの男が悲痛な顔で言うのを無視して、ツナギの[r]
-男はいきなり腰を大きく、激しく動かし始めた。[pcms]
+Ignoring the pained expression of the man in a suit, the man[r]
+in coveralls suddenly started moving his hips vigorously and[r]
+intensely.[pcms]
 
 *7536|
 [fc]
-[ns]スーツの若者[nse]
-「お゛あっ！　おほ゛おあ゛ぁ……っ！！　ぁく゛、[r]
-　う゛あぁ……！！」[pcms]
+[ns]Young man in a suit[nse]
+"Oh! Ohh...!! Ahh, ugh...!!"[pcms]
 
 *7537|
 [fc]
-[ns]若い女２[nse]
-「きゃはぁっ……！　おっき゛い、の……お゛っきい[r]
-　ちんほ゜、いぃの゛ぉ～～～……！！」[pcms]
+[ns]Young Woman 2[nse]
+"Kyahaah...! It's big, your dick is so big and good~~~...!!"[pcms]
 
 *7538|
 [fc]
-[ns]ツナギの中年男[nse]
-「きつ゛く゛て、いい゛そ゛ぉ……も゛っと……もっ[r]
-　と゛、しめ゛ろ゛ぉ……」[pcms]
+[ns]Middle-aged man in coveralls[nse]
+"It's so tight and good... squeeze tighter..."[pcms]
 
 *7539|
 [fc]
-アレと肛門の二ヶ所を同時に、という未知の刺激に耐[r]
-えられなかったのか、スーツの男は上半身をのけ反ら[r]
-せ、震わせた。[pcms]
+Unable to withstand the unknown stimulation of being[r]
+penetrated in both his ass and genitals at the same time,[r]
+the man in a suit arched his upper body back and trembled.[pcms]
 
 *7540|
 [fc]
-[ns]スーツの若者[nse]
-「お゛っ……！　おあ゛ぁっ……！！」[pcms]
+[ns]Young man in a suit[nse]
+"Oh...! Ohhh...!!"[pcms]
 
 *7541|
 [fc]
-[ns]若い女２[nse]
-「あ゛ぁ～～……て゛て゛るぅ、う゛あ゛ぁ～～……」[pcms]
+[ns]Young Woman 2[nse]
+"Ahh~~~... it's coming out, ugh~~~..."[pcms]
 
 *7542|
 [fc]
-スーツの男は虚ろな目になって、ぐったりと女の背中[r]
-の上に崩れ落ち、それ以上反応しなかったが、ツナギ[r]
-の男は構わず腰を振り続けた。[pcms]
+The man in a suit had a vacant look and collapsed limply[r]
+onto the woman's back without any further reaction, but the[r]
+man in coveralls continued to thrust without care.[pcms]
 
 *7543|
 [fc]
-[ns]ツナギを着た男[nse]
-「また゛ぁ……また゛また゛、いく゛そ゛ぉ～～……」[pcms]
+[ns]Man in coveralls[nse]
+"I'm going to cum again... I'm going to cum again~~~..."[pcms]
 
 *7544|
 [fc]
-[ns]スーツの男[nse]
-「う゛……ぐ、うぅ……」[pcms]
+[ns]Man in a Suit[nse]
+"Ugh... ugh, uhh..."[pcms]
 
 *7545|
 [fc]
-呻き続ける男の向こうでは、尻餅をついた、まだ少年[r]
-といった感じの学生服の青年の足に、高年と言っても[r]
-いいぐらいの中年のオバサンが縋り付いていた。[pcms]
+Across from the moaning man, a young student in uniform who[r]
+still looked like a boy was being clung to by an older woman[r]
+who could be called elderly.[pcms]
 
 *7546|
 [fc]
-[ns]太った中年女[nse]
-「おち゛んちん～……わか゛いこの゛、おちんち゛ん[r]
-　……ほし゛いの゛よぉ……」[pcms]
+[ns]Fat middle-aged woman[nse]
+"Your cock~... I want a young boy's cock..."[pcms]
 
 *7547|
 [fc]
-[ns]学生服の青年３[nse]
-「や、やめ……やめて、くださいぃ……！！」[pcms]
+[ns]Student Uniform Young Man 3[nse]
+"Stop... please stop!!"[pcms]
 
 *7548|
 [fc]
-尻餅をついたまま後ずさりして、青年は何とか逃げよ[r]
-うとしていたが、焦って体がうまく動かないのか、オ[r]
-バサンを振り切れずにいた。[pcms]
+While sitting on his haunches trying to back away, the young[r]
+man attempted to escape but couldn't shake off the older[r]
+woman due to panic preventing him from moving properly.[pcms]
 
 *7549|
 [fc]
-青年がモタモタしている間に、オバサンは腰の上まで[r]
-這い上がり、その巨体を利用して、彼の動きを封じた。[pcms]
+While the young man fumbled around, the older woman climbed[r]
+up to his waist and used her hefty body to immobilize him.[pcms]
 
 *7550|
 [fc]
-[ns]学生服の青年３[nse]
-「ひっ、ひいぃ……っ！！」[pcms]
+[ns]Student Uniform Young Man 3[nse]
+"Eek... eek!!"[pcms]
 
 *7551|
 [fc]
-[ns]太った中年女[nse]
-「ちょう゛た゛いぃ……わかい゛この゛、え゛き゛す[r]
-　……なかに゛、ちょうた゛い゛ぃ～～～……」[pcms]
+[ns]Fat middle-aged woman[nse]
+"I want it inside... I want a young boy's erection inside[r]
+me~~~..."[pcms]
 
 *7552|
 [fc]
-オバサンがズボンを脱がしにかかったのを、青い顔で、[r]
-口をパクパクさせながら見ている青年に、別の女が近[r]
-づいてきていた。[pcms]
+The older woman started to take off his pants while the[r]
+young man watched with a pale face, opening and closing his[r]
+mouth wordlessly as another woman approached him.[pcms]
 
 *7553|
 [fc]
-濃紺の、リクルートスーツを着たその女は、スカート[r]
-をたくし上げ、青年の顔の真上に跨った。[pcms]
+The woman dressed in a dark blue business suit lifted her[r]
+skirt and straddled right above the young man's face.[pcms]
 
 *7554|
 [fc]
-[ns]スーツの女[nse]
-「あた゛しにも゛、し゛てぇ……あたし゛の、おま゛[r]
-　んこ……なめ゛てぇ～……」[pcms]
+[ns]Woman in a Suit[nse]
+"Do me too... lick my pussy~~..."[pcms]
 
 *7555|
 [fc]
-既にどこかで脱がされたのか、女はスカートの下にな[r]
-にも着けていなかった。[pcms]
+The woman had apparently already been undressed somewhere[r]
+else because she wasn't wearing anything under her skirt.[pcms]
 
 *7556|
 [fc]
-そのなにも着けていない下半身を、女は青年の顔の上[r]
-に腰を下ろし、押しつけた。[pcms]
+The woman lowered her bare lower half onto the young man's[r]
+face and pressed against him.[pcms]
 
 *7557|
 [fc]
-[ns]学生服の青年３[nse]
-「んぶぅっ！！　うぐぅ……んん゛～～っ！！」[pcms]
+[ns]Student Uniform Young Man 3[nse]
+"Mmph!! Ughh... mmm~~!!"[pcms]
 
 *7558|
 [fc]
-[ns]スーツの女[nse]
-「ふ、あ゛ぅ……こ゛えか゛、なかまて゛……ひひ゛[r]
-　いて゛くる゛ぅ……」[pcms]
+[ns]Woman in a Suit[nse]
+"Fu, ahh... It's so thick, it's going to tear me apart...[r]
+hihhi, it feels so good..."[pcms]
 
 *7559|
 [fc]
-[ns]太った中年女[nse]
-「はあ゛ぁ……えき゛す゛……わかい゛このえきす゛、[r]
-　ち゛ょうた゛いぃ～～……」[pcms]
+[ns]Fat middle-aged woman[nse]
+"Haaah... your essence... a young boy's essence, it's the[r]
+best~~~..."[pcms]
 
 *7560|
 [fc]
-青年のズボンは完全に脱がされてしまい、オバサンは[r]
-巨体を彼の上に重そうに乗せた。[pcms]
+The young man's pants were completely removed, and the older[r]
+woman heavily mounted him with her large body.[pcms]
 
 *7561|
 [fc]
-[ns]太った中年女[nse]
-「はい゛って゛くぅ……あ゛あぁ～～～、はい゛って[r]
-　くう゛ぅ～～～……！！」[pcms]
+[ns]Fat middle-aged woman[nse]
+"I want it inside... ahh~~~, I want it inside me~~~...!!"[pcms]
 
 *7562|
 [fc]
-[ns]学生服の青年３[nse]
-「んぶううぅーーーーーっ！！！！」[pcms]
+[ns]Student Uniform Young Man 3[nse]
+"Nbuuuu-----!!!"[pcms]
 
 *7563|
 [fc]
-顔の上に跨っている女も、腰の上に跨っているオバサ[r]
-ンも、彼が苦しんでもがいてるのをよそに、自分の欲[r]
-望を満たそうと、腰をウネウネと激しく動かした。[pcms]
+The woman straddling his face and the older woman on his[r]
+waist didn't care about his struggling and gasping; they[r]
+just moved their hips intensely to satisfy their own[r]
+desires.[pcms]
 
 *7564|
 [fc]
-[ns]スーツの女[nse]
-「あ゛たしも゛ほし゛いぃ……したぁ……おま゛んこ[r]
-　に゛、したぁ……い゛れてえ゛ぇ……」[pcms]
+[ns]Woman in a Suit[nse]
+"I want it too... down there... I want you inside my pussy,[r]
+I want it so bad..."[pcms]
 
 *7565|
 [fc]
-[ns]太った中年女[nse]
-「お゛ちんちん゛～……ひさ゛しふ゛りなの゛ぉ……[r]
-　わか゛いこの゛、おち゛んちん～～……い゛ぃ～、[r]
-　す゛てきい゛ぃ～～……！」[pcms]
+[ns]Fat middle-aged woman[nse]
+"Your cock~~... it's been so long... a young boy's[r]
+cock~~~... it's so good, so wonderful~~~...!"[pcms]
 
 *7566|
 [fc]
-[ns]学生服の青年３[nse]
-「んうぅっ！！　んぶっ、おっ、ぐうぅっ！！」[pcms]
+[ns]Student Uniform Young Man 3[nse]
+"Nuuu!! Nbuu, ohh, guuu!!"[pcms]
 
 ;//------------------------------------------------
 [if exp="tf.scene_mode==1"]
 	[jump storage="b_scene.ks" target=*back_from_SR]
 ;	[link storage=sceneAgain]もう一度見る[endlink]
 ;	[link storage=sceneList]一覧に戻る[endlink]
-;	[s]
+[pcms]
 [endif]
 
 *KAISOU_PASS
@@ -443,59 +435,60 @@
 
 *7567|
 [fc]
-[ns]大倉[nse]
-「…………」[pcms]
+[ns]Ookura Hiroshi[nse]
+"..."[pcms]
 
 *7568|
 [fc]
-呆然と立ちつくして、それらの光景をただ眺めていた[r]
-俺は、今までに見てきたものと、違うところがあるこ[r]
-とに気がついた。[pcms]
+I stood there dumbfounded, watching the scene unfold before[r]
+me, realizing that something was different from anything I[r]
+had seen before.[pcms]
 
 [se0 storage="SE72"]
 [赤フラ]
 
 *7569|
 [fc]
-今までの、メイド喫茶や病院で見た光景と違うのは、[r]
-女や男を犯していない集団がいる、ということだ。[pcms]
+What was different from the scenes I had witnessed in maid[r]
+cafes and hospitals was that there were groups not engaging[r]
+in assaulting men or women.[pcms]
 
 [se0 storage="SE72"]
 [赤フラ]
 
 *7570|
 [fc]
-その集団では、男も女も一緒になって、何かの周りに[r]
-しゃがみこみ、必死にその何かを口に運んでいる。[pcms]
+In those groups, both men and women were squatting around[r]
+something, desperately bringing it to their mouths.[pcms]
 
 [se0 storage="SE72"]
 [赤フラ]
 
 *7571|
 [fc]
-よく見ると、その集団の隙間から、人の足が突き出し[r]
-ているのがわかった。[pcms]
+Upon closer inspection, I could see human legs sticking out[r]
+from the gaps between the people in the group.[pcms]
 
 [se0 storage="SE72"]
 [赤フラ]
 
 *7572|
 [fc]
-横たわった状態の、人の足が。[pcms]
+The legs of a person lying down.[pcms]
 
 [se0 storage="SE72"]
 [赤フラ]
 
 *7573|
 [fc]
-まさか……。[pcms]
+Could it be...[pcms]
 
 [se0 storage="SE72"]
 [赤フラ]
 
 *7574|
 [fc]
-まさかアイツら……。[pcms]
+Could it be that they...[pcms]
 
 [bgm storage="BGM005"]
 
@@ -505,182 +498,183 @@
 *7575|
 [fc]
 [vo_kob s="koba0118"]
-[ns]小林[nse]
-「うぇっ……！！」[pcms]
+[ns]Kobayashi[nse]
+"Ugh...!!"[pcms]
 
 *7576|
 [fc]
-ユウも同じものを見ていたようで、気持ち悪そうに呻[r]
-きながら、顔を背けていた。[pcms]
+Yuuki seemed to have seen the same thing and turned away[r]
+with a look of disgust, groaning.[pcms]
 
 *7577|
 [fc]
 [vo_may s="maya0026"]
-[ns]お嬢様[nse]
-「ハァッ……！！　ハァッ……！！」[pcms]
+[ns]Young Lady[nse]
+"Haah...!! Haah...!!"[pcms]
 
 *7578|
 [fc]
-またお祖父さんが殺される場面を思い出したのか、お[r]
-嬢様は呼吸が荒くなり始め、震える体を抱えている。[pcms]
+Perhaps reminded of the scene where her grandfather was[r]
+killed, the young lady's breathing became ragged, and she[r]
+clutched her trembling body.[pcms]
 
 *7579|
 [fc]
 [vo_nag s="nagasaki0008"]
-[ns]セーラー服の女[nse]
-「大丈夫よ。私が守ってあげるわ」[pcms]
+[ns]Sailor Suit Girl[nse]
+"It's okay. I'll protect you."[pcms]
 
 *7580|
 [fc]
-セーラー服の女はお嬢様に優しくそう言って、彼女を[r]
-庇うように抱きしめた。[pcms]
+The girl in the sailor suit said gently to the young lady,[r]
+hugging her as if to shield her.[pcms]
 
 *7581|
 [fc]
-[ns]大倉[nse]
-「……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"..."[pcms]
 
 *7582|
 [fc]
-犯されている人間すら、それを喜び始めているこの光[r]
-景の中には、まともな人間はもう、残っていそうもな[r]
-かった。[pcms]
+In this scene where even those being assaulted were[r]
+beginning to enjoy it, there seemed to be no sane people[r]
+left.[pcms]
 
 *7583|
 [fc]
-これじゃ、あのショッピングモールの中も、コイツら[r]
-みたいなのでいっぱいなんじゃ……。[pcms]
+If this is what it's like here, then inside that shopping[r]
+mall might be filled with people like these...[pcms]
 
 *7584|
 [fc]
-あそこがダメなら、どこへ行きゃいいんだ……。[r]
-俺らも、あんな風になっちまうのか……。[pcms]
+If that place is no good, where should we go...? Will we end[r]
+up like them too...?[pcms]
 
 *7585|
 [fc]
 [vo_hay s="hayami0136"]
-[ns]ありす[nse]
-「ヒ、ヒロシ……来た……」[pcms]
+[ns]Arisu[nse]
+"Hiroshi... they're coming..."[pcms]
 
 *7586|
 [fc]
-[ns]大倉[nse]
-「……？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"…?"[pcms]
 
 *7587|
 [fc]
-シャツの袖を速水に引っ張られ、後ろを振り返ると、[r]
-商店街を埋め尽くすほどの人間が、低い呻き声と一緒[r]
-に、俺らへと迫ってきていた。[pcms]
+Pulled by Hayami by the sleeve of my shirt, I turned around[r]
+to see a crowd of people filling the shopping district,[r]
+approaching us with low groans.[pcms]
 
 *7588|
 [fc]
 [vo_kob s="koba0119"]
-[ns]小林[nse]
-「ど、どうするの？　ヒロ……」[pcms]
+[ns]Kobayashi[nse]
+"What do we do? Hiro..."[pcms]
 
 *7589|
 [fc]
-[ns]大倉[nse]
-「どうするっつっても……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"What to do... even if you ask..."[pcms]
 
 *7590|
 [fc]
-このままショッピングモールへ行ってもいいのか……？[r]
-早くしないと俺らも……。[pcms]
+Is it really okay to head to the shopping mall like this...?[r]
+We need to hurry or we'll end up like them too...[pcms]
 
 *7591|
 [fc]
-ショッピングモールに目を向けて、目の前の広場の様[r]
-子に、俺はゾッとして鳥肌が立った。[pcms]
+Looking towards the shopping mall and observing the[r]
+situation in the plaza before me, I felt chills and[r]
+goosebumps.[pcms]
 
 *7592|
 [fc]
-犯していたヤツも、犯されていたヤツも全員、気味悪[r]
-くギラつく目で、舐め回すように俺らを見つめていた。[pcms]
+Those who were assaulting and those who were assaulted all[r]
+stared at us with creepy, gleaming eyes as if licking us all[r]
+over.[pcms]
 
 *7593|
 [fc]
-ヤバイ……。[r]
-アイツらまで俺らに向かってきたら……！！[pcms]
+This is bad... If they all start coming towards us too...!![pcms]
 
 *7594|
 [fc]
 [vo_hay s="hayami0137"]
-[ns]ありす[nse]
-「ヒロシ！　あれ見て！！」[pcms]
+[ns]Arisu[nse]
+"Hiroshi! Look over there!!"[pcms]
 
 *7595|
 [fc]
-[ns]大倉[nse]
-「え……？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Eh...?"[pcms]
 
 *7596|
 [fc]
 [vo_hay s="hayami0138"]
-[ns]ありす[nse]
-「あそこ！　ホラ、入り口のとこに人がいる！！」[pcms]
+[ns]Arisu[nse]
+"There! Look, at the entrance! There's someone there!!"[pcms]
 
 *7597|
 [fc]
-速水が言うように、ショッピングモールの入り口の所[r]
-で、大きく手を振ってる人間がいるのがわかった。[pcms]
+Just as Hayami said, I could see someone at the entrance of[r]
+the shopping mall waving their hands vigorously.[pcms]
 
 *7598|
 [fc]
 [vo_kob s="koba0120"]
-[ns]小林[nse]
-「本当だ！　ボクらのこと呼んでる！」[pcms]
+[ns]Kobayashi[nse]
+"It's true! They're calling for us!"[pcms]
 
 *7599|
 [fc]
-俺らが気づいたのがわかったのか、ショッピングモー[r]
-ルの入り口にいる人間は、今度は大きく手招きをしだ[r]
-した。[pcms]
+Realizing that we had noticed them, the person at the[r]
+entrance of the shopping mall started beckoning us over with[r]
+big gestures.[pcms]
 
 *7600|
 [fc]
-でもあれ、ホントに信用できるのか……？[r]
-中に入ったら、コイツらと同じようなヤツでいっぱい[r]
-なんじゃないのか……？[pcms]
+But can we really trust them...? What if it's full of people[r]
+like these once we get inside...?[pcms]
 
 *7601|
 [fc]
 [vo_nag s="nagasaki0009"]
-[ns]セーラー服の女[nse]
-「突っ切るわよ！　走って！！」[pcms]
+[ns]Sailor Suit Girl[nse]
+"We're going to break through! Run!!"[pcms]
 
 *7602|
 [fc]
-[ns]大倉[nse]
-「あ、オイ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Hey, wait!!"[pcms]
 
 *7603|
 [fc]
-セーラー服の女は速水とお嬢様の手を引いて、ショッ[r]
-ピングモールへと走っていった。[pcms]
+The girl in the sailor suit took Hayami and the young lady[r]
+by the hand and ran towards the shopping mall.[pcms]
 
 *7604|
 [fc]
-[ns]大倉[nse]
-「あの女……！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"That woman...!!"[pcms]
 
 *7605|
 [fc]
 [vo_kob s="koba0121"]
-[ns]小林[nse]
-「ヒロ！！　すぐ後ろに来てるよ！！　急いで！！」[pcms]
+[ns]Kobayashi[nse]
+"Hiro! They're right behind us! Hurry!!"[pcms]
 
 *7606|
 [fc]
-先に走り出したユウの言葉に、慌てて後ろを振り向く[r]
-と、あと２，３歩の所まで、気持ちの悪い薄笑いを浮[r]
-かべた顔が迫ってきていた。[pcms]
+Spurred on by Yuuki who had started running ahead, I[r]
+hurriedly looked back to see creepy smiling faces just two[r]
+or three steps away from us.[pcms]
 
 *7607|
 [fc]
-[ns]大倉[nse]
-「クソッ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Damn it!!"[pcms]
 
 [fadeoutbgm time=500]
 [stop_se0]
@@ -691,12 +685,12 @@
 
 *7608|
 [fc]
-先を行くユウを追って、俺もショッピングモールを目[r]
-指し、立ち上がり始めたイカレ集団の間を縫って走っ[r]
-た。[pcms]
+Chasing after Yuuki who was ahead, I too aimed for the[r]
+shopping mall and ran, weaving through the crowd of crazies[r]
+that had started to stand up.[pcms]
 
 [sysbt_meswin clear]
 
 [jump storage="prologue03010.ks" target=*prologue03010_TOP]
 
-;//－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+;//

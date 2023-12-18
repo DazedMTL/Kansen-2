@@ -32,193 +32,181 @@
 
 *13681|
 [fc]
-うるさい。[r]
-うるさい。[r]
-何？　この音。[pcms]
+Shut up. Shut up. What? This noise.[pcms]
 
 [ChrSetEx layer=4 chbase="ookura_n02a"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *13682|
 [fc]
-あの男。[r]
-大倉、とか言う男のお尻から聞こえてくる。[pcms]
+That man. It's coming from the ass of a man called Ookura.[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
 *13683|
 [fc]
-ああ、腹が立つ！[pcms]
+Ah, it's infuriating![pcms]
 
 *13684|
 [fc]
-彼のお尻から発せられるその不快な音は、[r]
-耳の穴から何かを突っ込んで、脳を掻き回す様な、[r]
-得体の知れない気持ち悪さを、アタシに与える。[pcms]
+The unpleasant sound emanating from his ass is like[r]
+something poking through my earholes and stirring my brain,[r]
+giving me an indescribable feeling of disgust.[pcms]
 
 *13685|
 [fc]
-彼のお尻はシャクにさわる音を出している。[r]
-お尻が、変な音を立てている！！[pcms]
+His ass is making an irritating noise. His butt is making a[r]
+strange sound!![pcms]
 
 *13686|
 [fc]
-アタシの神経を逆撫でしたその音が、[r]
-彼のお尻から飛び出してくる事に気が付くと、[r]
-とたんに愉快な気持ちになってきた。[pcms]
+The sound that grated on my nerves, once I realized it was[r]
+coming from his ass, suddenly made me feel amused.[pcms]
 
 *13687|
 [fc]
-彼は慌てながら、音を立てるハコを外に出した。[pcms]
+In a panic, he took out the box that was making the noise.[pcms]
 
 *13688|
 [fc]
-慌てている。[r]
-慌てている！！[pcms]
+He's flustered. So flustered!![pcms]
 
 *13689|
 [fc]
-あの男は、お尻からヘンな音を慌てて取り出した！！[pcms]
+That man hastily removed the weird noise from his ass!![pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *13690|
 [fc]
 [vo_mob s="girl0002"]
-[ns]少女[nse]
-「くふっ……ふはっ！　あははっ！　あははは！！」[pcms]
+[ns]Girl[nse]
+"Kufu... Fuhah! Ahahaha! Ahahahaha!!"[pcms]
 ;//◎録る必要なし
 
 *13691|
 [fc]
-彼の取り出した不快な音は、いつしか気持ちいい音に[r]
-聞こえる様になり、それはアタシの体中をくすぐる。[pcms]
+The unpleasant sound he took out eventually started to sound[r]
+pleasant to me, tickling my entire body.[pcms]
 
 *13692|
 [fc]
-その音に体中をまさぐるような感覚に襲われて、[r]
-アタシは笑いを堪える事が出来なかった。[pcms]
+Overwhelmed by the sensation of the sound caressing my[r]
+entire body, I couldn't hold back my laughter.[pcms]
 
 [stop_se0]
 
 *13693|
 [fc]
 [vo_mob s="girl0003"]
-[ns]少女[nse]
-「はははははっ！　あはっ……ふふっ……くふふ……[r]
-　あっはははは！！」[pcms]
+[ns]Girl[nse]
+"Hahahahaha! Ahah... Fufu... Kufufu... Ahahahaha!!"[pcms]
 ;//◎録る必要なし
 
 *13694|
 [fc]
-息苦しい。[r]
-この建物は、天井が高い。[pcms]
+It's suffocating. This building has high ceilings.[pcms]
 
 *13695|
 [fc]
-空が、見えない。[r]
-空が見たい！[r]
-頭の上に有るはずの、キラキラと輝く星空が無い！[pcms]
+I can't see the sky. I want to see the sky! The sparkling[r]
+starry sky that should be above my head isn't there![pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_f01"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *13696|
 [fc]
-そうだ。[r]
-あのおかっぱの女が、全て邪魔しているんだ。[r]
-アタシが空を見ようとしているのを、邪魔している。[pcms]
+That's right. That bob-haired girl is getting in the way of[r]
+everything. She's interfering with my attempt to see the[r]
+sky.[pcms]
 
 *13697|
 [fc]
-おかっぱ頭で高そうな洋服を着た女は、[r]
-きっとなに不自由ない暮らしをしているのだろう。[r]
-アタシと違い、何も苦労をしていないのだろう。[pcms]
+The girl with the bob haircut and fancy clothes must be[r]
+living a life without any inconvenience. Unlike me, she[r]
+probably hasn't struggled with anything.[pcms]
 
 *13698|
 [fc]
-アタシは、見ず知らずの男達に犯されたというのに。[r]
-好きでもない男達に……。[pcms]
+Even though I was violated by men I didn't even know. By men[r]
+I didn't like...[pcms]
 
 *13699|
 [fc]
-何人もの人たちから、何回も犯されたと言うのに！！[pcms]
+Despite being violated by so many people, so many times!![pcms]
 
 *13700|
 [fc]
-あの女がニクイ。[pcms]
+I hate that woman.[pcms]
 
 *13701|
 [fc]
-なんでだろ？[r]
-アタシは、なんであの女がキライなんだろ？[pcms]
+Why? Why do I hate that woman so much?[pcms]
 
 *13702|
 [fc]
-どうして？[pcms]
+Why?[pcms]
 
 *13703|
 [fc]
-どうして……。[r]
-アタシは犯されなければならなかったの？[pcms]
+Why... did I have to be violated?[pcms]
 
 *13704|
 [fc]
-そうよ……。[pcms]
+That's right...[pcms]
 
 *13705|
 [fc]
-全て、あの女。[r]
-あの高そうな服を着た女がアタシを襲う様に……。[r]
-男達に命令したんだ！！[pcms]
+It's all because of that woman. That woman in the expensive-[r]
+looking clothes commanded the men to attack me!![pcms]
 
 *13706|
 [fc]
-あの女は、アタシの敵だ！[r]
-アタシをこんな目に遭わせた張本人だ！！[pcms]
+That woman is my enemy! She's the one responsible for[r]
+putting me through this hell!![pcms]
 
 *13707|
 [fc]
-あの何も苦労を知らないような顔がキライ。[r]
-あの顔が、ジャマ。[pcms]
+I hate her face that seems to know no hardship. That face is[r]
+in the way.[pcms]
 
 *13708|
 [fc]
-あの女の何もかもが、ジャマ。[r]
-だいっきらい！[pcms]
+Everything about that woman is an obstruction. I absolutely[r]
+detest her![pcms]
 
 *13709|
 [fc]
-今すぐ、あの女を消さなきゃ。[r]
-あの顔がジャマで、お星様が見られない。[r]
-このままずっと、空を見ることが出来なくなる！[pcms]
+I need to get rid of her right now. Her face is blocking the[r]
+view, and I can't see the stars. If it stays like this, I'll[r]
+never be able to see the sky again![pcms]
 
 *13710|
 [fc]
-女は、アタシの事に気が付いていない。[r]
-アタシのことなんて、眼中に無いのだろう。[pcms]
+The woman hasn't noticed me. She probably doesn't care about[r]
+me at all.[pcms]
 
 *13711|
 [fc]
-足が軽い。[r]
-天井と、地面がひっくり返る。[r]
-アタシの目の前で、世の中が回る。[pcms]
+My feet are light. The ceiling and the ground are flipping[r]
+over. The world spins before my eyes.[pcms]
 
 *13712|
 [fc]
-それも全部、あのおかっぱのせい。[r]
-あのおかっぱが全部悪いんだ。[pcms]
+And it's all because of that bob-haired girl. It's all her[r]
+fault.[pcms]
 
 *13713|
 [fc]
-握りしめたアタシの手は、金槌。[r]
-空を覆い隠すあの女を砕く為にある。[r]
-この手を振り下ろせば、空が見える筈！[pcms]
+In my clenched hand is a hammer. It exists to shatter the[r]
+woman who obscures the sky. If I swing it down, I should be[r]
+able to see the sky![pcms]
 
 [ChrSetEx layer=4 chbase="ookura_n02b"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *13714|
 [fc]
-[ns]大倉[nse]
-「オ、オイ！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Hey, hey!"[pcms]
 
 ;//SE：打撃音（？）
 
@@ -232,14 +220,13 @@
 *13715|
 [fc]
 [vo_may s="maya0138"]
-[ns]お嬢様[nse]
-「んぅっ……！」[pcms]
+[ns]Young Lady[nse]
+"Nnh...!"[pcms]
 ;//◎録る必要なし
 
 *13716|
 [fc]
-おかっぱの女は、[r]
-アタシの金槌に打たれてよろめく。[pcms]
+The bob-haired girl staggers as she's struck by my hammer.[pcms]
 
 ;//SE：打撃音（？）
 
@@ -249,8 +236,8 @@
 
 *13717|
 [fc]
-何度金槌を振り下ろしても、空は見えてこない。[r]
-おかしい。[pcms]
+No matter how many times I swing the hammer down, I can't[r]
+see the sky. Strange.[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
@@ -258,85 +245,78 @@
 
 *13718|
 [fc]
-女がよろめく。[r]
-アタシも金槌を振り下ろすたびに、左右に揺れる。[r]
-世界が揺れる。[pcms]
+The woman staggers. With each swing of my hammer, I also[r]
+sway from side to side. The world sways.[pcms]
 
 [quake_bg 元time=1000 xy m]
 
 *13719|
 [fc]
-揺れる。[r]
-全てが、揺れる。[r]
-まるで世界中が、アタシの為にダンスを踊っている。[pcms]
+Swaying. Everything is swaying. As if the whole world is[r]
+dancing just for me.[pcms]
 
 *13720|
 [fc]
-ヘンだ。[r]
-でも、楽しい。[r]
-お尻から音が出て、アタシのために皆が踊る。[pcms]
+Weird. But fun. Sounds come from a butt, and everyone dances[r]
+for me.[pcms]
 
 *13721|
 [fc]
 [vo_mob s="girl0004"]
-[ns]少女[nse]
-「ふふふははっ！！　あはっははっは！！　くふふっ[r]
-　……くく……くぁははははっ！！」[pcms]
+[ns]Girl[nse]
+"Fufufuhaha!! Ahahhahaha!! Kufufu... Kuku... Kwahahahaha!!"[pcms]
 ;//◎録る必要なし
 
 *13722|
 [fc]
-楽しい！[r]
-みんながアタシの為に踊ってる！！[pcms]
+It's fun! Everyone is dancing for me!![pcms]
 
 [quake_bg 元time=1000 xy m]
 
 *13723|
 [fc]
-アタシの金槌が当たるたび、女は揺れる。[r]
-なのにこの女は砕けない。[pcms]
+With every hit of my hammer, the woman sways. Yet this woman[r]
+doesn't shatter.[pcms]
 
 *13724|
 [fc]
-まだまだ、足りないの？[r]
-それならこのおかっぱ女が砕けるまで、[r]
-いくらでも続けてみせる。みんなの為に。[pcms]
+Is it still not enough? Then I'll keep going until this bob-[r]
+haired girl shatters, for everyone's sake.[pcms]
 
 [ChrSetEx layer=4 chbase="anza_n06"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *13725|
 [fc]
 [vo_anz s="anzai0112"]
-[ns]女[nse]
-「何してるの！　やめなさい！！」[pcms]
+[ns]Female[nse]
+"What are you doing! Stop it!!"[pcms]
 ;//◎録る必要なし
 
 *13726|
 [fc]
-別の女が、アタシを止めようとして駆けてくる。[pcms]
+Another woman runs towards me, trying to stop me.[pcms]
 
 *13727|
 [fc]
-駆けてくる女は、何故アタシを止めようとするの？[r]
-アタシを止める必要なんて、どこにもないのに！[r]
-悪者をやっつける為に頑張ってるのに。[pcms]
+Why does this rushing woman try to stop me? There's no need[r]
+to stop me! I'm just trying to do the right thing by[r]
+defeating a villain.[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *13728|
 [fc]
-もう一度。[r]
-もう一度この金槌を振り下ろせば空が見える。[pcms]
+Once more. If I swing this hammer down one more time, I'll[r]
+be able to see the sky.[pcms]
 
 *13729|
 [fc]
-そうよ。[r]
-そうに違いない。[pcms]
+Yes, that must be it.[pcms]
 
 *13730|
 [fc]
-全身の力を込め、金槌を振り下ろす。[r]
-これで、この女は砕け散る！[pcms]
+With all my strength, I swing down the hammer. With this,[r]
+the woman will shatter to pieces![pcms]
 
 *13731|
 [fc]
@@ -346,7 +326,7 @@
 *13732|
 [fc]
 [vo_mob s="girl0005"]
-[ns]少女[nse]
+[ns]Girl[nse]
 「あはっあははっ、はっ、ひっ、ひははっ！！」[pcms]
 ;//◎録る必要なし
 
@@ -366,7 +346,7 @@
 
 *13735|
 [fc]
-[ns]ジョン[nse]
+[ns]John[nse]
 「グァフッ……！！」[pcms]
 
 *13736|
@@ -392,7 +372,7 @@
 *13739|
 [fc]
 [vo_anz s="anzai0113"]
-[ns]女[nse]
+[ns]Female[nse]
 「うぅっ！！」[pcms]
 ;//◎録る必要なし
 
@@ -412,7 +392,7 @@
 *13742|
 [fc]
 [vo_mob s="girl0006"]
-[ns]少女[nse]
+[ns]Girl[nse]
 「ふぁははっ、あっははははは！！　ひぃーっははは[r]
 　ははははは！！」[pcms]
 ;//◎録る必要なし
@@ -422,7 +402,7 @@
 
 *13743|
 [fc]
-[ns]大倉[nse]
+[ns]Ookura[nse]
 「もうやめろ！！　どうしたんだよ！！」[pcms]
 
 *13744|
@@ -447,7 +427,7 @@
 *13747|
 [fc]
 [vo_kob s="koba0281"]
-[ns]小林[nse]
+[ns]Kobayashi[nse]
 「すごいちから……！！」[pcms]
 ;//◎録る必要なし
 
@@ -503,7 +483,7 @@
 *13757|
 [fc]
 [vo_mob s="girl0008"]
-[ns]少女[nse]
+[ns]Girl[nse]
 「うふふっ、うふふふぁはあはははははっ！！」[pcms]
 ;//◎録る必要なし
 
@@ -528,7 +508,7 @@
 *13761|
 [fc]
 [vo_kob s="koba0282"]
-[ns]小林[nse]
+[ns]Kobayashi[nse]
 「うわっ！」[pcms]
 ;//◎録る必要なし
 
@@ -537,7 +517,7 @@
 *13762|
 [fc]
 [vo_anz s="anzai0115"]
-[ns]女[nse]
+[ns]Female[nse]
 「お願いだから落ち着いて！！」[pcms]
 ;//◎録る必要なし
 
@@ -552,7 +532,7 @@
 *13764|
 [fc]
 [vo_anz s="anzai0116"]
-[ns]女[nse]
+[ns]Female[nse]
 「ぐぅっ……！！」[pcms]
 ;//◎録る必要なし
 
@@ -582,7 +562,7 @@
 *13769|
 [fc]
 [vo_mob s="girl0009"]
-[ns]少女[nse]
+[ns]Girl[nse]
 「あーーーははぁははははっはははあははっはは！！」[pcms]
 ;//◎録る必要なし
 
@@ -593,7 +573,7 @@
 
 *13771|
 [fc]
-[ns]ジョン[nse]
+[ns]John[nse]
 「グルルルルルッ！！」[pcms]
 ;//◎録る必要なし
 
@@ -624,7 +604,7 @@
 
 *13776|
 [fc]
-[ns]大倉[nse]
+[ns]Ookura Hiroshi[nse]
 「やめるんだ！！」[pcms]
 
 *13777|
@@ -653,30 +633,29 @@
 *13781|
 [fc]
 [vo_may s="maya0139"]
-[ns]お嬢様[nse]
-「…………」[pcms]
+[ns]Young Lady[nse]
+"..."[pcms]
 ;//◎録る必要無し
 
 *13782|
 [fc]
-おかっぱ女は、アタシを見つめ続けている。[pcms]
+The bob-haired girl continues to stare at me.[pcms]
 
 *13783|
 [fc]
-何も知らない顔。[r]
-自分だけ、無事であると核心しているその顔。[pcms]
+That ignorant face. She's convinced that she's the only one[r]
+who's safe.[pcms]
 
 *13784|
 [fc]
-あの顔が、気にくわない！[pcms]
+I can't stand that face![pcms]
 
 *13785|
 [fc]
 [vo_mob s="girl0010"]
-[ns]少女[nse]
-「あはっははっははは！！　アンタ……くふふっ……[r]
-　アンタだけ、なんでそんなカオしてんのぉ～！？[r]
-　くふふぁはははっ！！　ねぇ～なんでよぉ～～！？」[pcms]
+[ns]Girl[nse]
+"Ahahahahaha!! You... kufufu... Why do you have such a face,[r]
+only you!? Kufufahahaha!! Hey~ why is that~?!"[pcms]
 ;//◎泣き笑い
 ;//◎録る必要なし
 
@@ -685,31 +664,29 @@
 *13786|
 [fc]
 [vo_may s="maya0140"]
-[ns]お嬢様[nse]
-「……？」[pcms]
+[ns]Young Lady[nse]
+"…?"[pcms]
 ;//◎録る必要なし
 
 *13787|
 [fc]
-何も知らない癖に！[r]
-アタシの顔を見るな！[pcms]
+Don't look at me with that ignorant face![pcms]
 
 *13788|
 [fc]
-アタシは……あの何も知らない顔がだいっきらい！[pcms]
+I... I hate that ignorant face so much![pcms]
 
 [ChrSetEx layer=4 chbase="ookura_n02a"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *13789|
 [fc]
-[ns]大倉[nse]
-「いい加減にしろッ！！」[pcms]
+[ns]Ookura[nse]
+"Enough already!!"[pcms]
 
 *13790|
 [fc]
-大倉の叫び声と共に、地面が揺れる。[r]
-アタシの世界は９０度傾く。[r]
-世界が、真っ赤に染まる。[pcms]
+With Ookura's shout, the ground shakes. My world tilts 90[r]
+degrees. The world turns red.[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]
@@ -729,144 +706,135 @@
 *13791|
 [fc]
 [vo_anz s="anzai0227"]
-[ns]女[nse]
-「……医師に診せなければならないから、[r]
-　この子は連れて行きます。いいわね？」[pcms]
+[ns]Female[nse]
+"...I need to take this child to see a doctor, so I will be[r]
+taking her with me. Is that okay?"[pcms]
 ;//◎要収録
 
 *13792|
 [fc]
-医者？[r]
-…………。[pcms]
+Doctor? ...[pcms]
 
 *13793|
 [fc]
-……アタシを医者に診せてくれるの？[pcms]
+...Are you going to have a doctor look at me?[pcms]
 
 *13794|
 [fc]
 [vo_mob s="girl0013"]
-[ns]少女[nse]
-「ぅ……」[pcms]
+[ns]Girl[nse]
+"Ugh..."[pcms]
 ;//◎録る必要なし
 
 *13795|
 [fc]
-頭が痛い。[pcms]
+My head hurts.[pcms]
 
 *13796|
 [fc]
-アタシは、一体……？[r]
-どうしてしまったんだろう？[r]
-何故、床に寝ているんだろう？[pcms]
+What on earth...? Why did this happen to me? Why am I lying[r]
+on the floor?[pcms]
 
 *13797|
 [fc]
-体を起こすために、体をひねろうとすると、[r]
-女の人が優しい声をかけてくれた。[pcms]
+As I try to twist my body to get up, a woman speaks to me in[r]
+a gentle voice.[pcms]
 
 *13798|
 [fc]
 [vo_anz s="anzai0123"]
-[ns]女[nse]
-「駄目よ、まだ動いては」[pcms]
+[ns]Female[nse]
+"No, you shouldn't move yet."[pcms]
 ;//◎録る必要なし
 
 *13799|
 [fc]
-この人は、誰……？[r]
-他にも、誰かいる……？！[pcms]
+Who is this person...? Is there someone else here...?![pcms]
 
 *13800|
 [fc]
-ぼんやりとする視界の奥に、男の影が見える。[pcms]
+In the blurry edge of my vision, I can see the shadow of a[r]
+man.[pcms]
 
 *13801|
 [fc]
-おと……こ？！　[r]
-男？！[pcms]
+A man...?! A man?![pcms]
 
 *13802|
 [fc]
 [vo_mob s="girl0014"]
-[ns]少女[nse]
-「ひっ……！！」[pcms]
+[ns]Girl[nse]
+"Hii...!!"[pcms]
 ;//◎録る必要なし
 
 *13803|
 [fc]
-また、アタシをレイプしようと、[r]
-男が近寄ってきたの……？！[r]
-また、犯される！[pcms]
+Is a man coming closer to rape me again...?! I'm going to be[r]
+violated again![pcms]
 
 [ChrSetEx layer=4 chbase="anza_n01"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *13804|
 [fc]
 [vo_anz s="anzai0124"]
-[ns]女[nse]
-「駄目よ、安静にしていなきゃ！」[pcms]
+[ns]Female[nse]
+"No, you need to stay still!"[pcms]
 ;//◎録る必要なし
 
 *13805|
 [fc]
-この女も、仲間……？！[pcms]
+This woman, is she an accomplice...?![pcms]
 
 *13806|
 [fc]
-また、あんな目に遭うのは、イヤ！[r]
-イヤ！[r]
-イヤ！！[pcms]
+I don't want to go through that again! No! No! No!![pcms]
 
 *13807|
 [fc]
-でも……。[r]
-この人達は、たしか……。[pcms]
+But... These people are surely...[pcms]
 
 *13808|
 [fc]
 [vo_mob s="girl0015"]
-[ns]少女[nse]
-「ハッ……ハッ……」[pcms]
+[ns]Girl[nse]
+"Hah... Hah..."[pcms]
 ;//◎録る必要なし
 
 *13809|
 [fc]
-……。[r]
-そうだ、この人達は、アイツらとは違う。[r]
-……アタシを助けてくれた人達だ。[pcms]
+...That's right, these people are different from them.[r]
+...They are the ones who helped me.[pcms]
 
 [ChrSetEx layer=4 chbase="anza_n02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *13810|
 [fc]
 [vo_anz s="anzai0125"]
-[ns]女[nse]
-「大丈夫よ、もう乱暴なことはしないわ。気分はどう？[r]
-　吐き気とか、頭痛はする？」[pcms]
+[ns]Female[nse]
+"It's okay, no more rough stuff. How do you feel? Any nausea[r]
+or headache?"[pcms]
 ;//◎録る必要なし
 
 *13811|
 [fc]
-この人達は、アイツらとは違うんだ……。[r]
-アタシは、何を勘違いしてたんだろ？[pcms]
+These people are different from them... What was I[r]
+misunderstanding?[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *13812|
 [fc]
-手が痺れている。[r]
-手の平には、爪が食い込んだ痕。[pcms]
+My hands are numb. There are marks where my nails dug into[r]
+my palms.[pcms]
 
 *13813|
 [fc]
-そうだ……。[r]
-アタシは、この人を、殴った……？！[pcms]
+That's right... Did I hit this person...?![pcms]
 
 *13814|
 [fc]
-おぼろげながらに、この女の人を殴った記憶がある。[r]
-アタシは、一体どうしてしまったの？[pcms]
+I vaguely remember hitting this woman. What on earth[r]
+happened to me?[pcms]
 
 ;//＠マヤ
 
@@ -874,30 +842,27 @@
 
 *13815|
 [fc]
-少し離れた所で、おかっぱの女の子が、[r]
-アタシを心配そうに見つめている。[pcms]
+A little distance away, the bob-haired girl is looking at me[r]
+with concern.[pcms]
 
 *13816|
 [fc]
-アタシは、彼女も叩いた。[r]
-……叩いてしまった。[pcms]
+I hit her too. ...I ended up hitting her.[pcms]
 
 *13817|
 [fc]
-あの子は、何も悪くないのに。[r]
-アタシが、叩いた。[pcms]
+She did nothing wrong, yet I hit her.[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *13818|
 [fc]
-なんで、そんな事をしてしまっんだろう？[r]
-アタシの体が、自然に動いた？[pcms]
+Why did I do such a thing? Did my body move on its own?[pcms]
 
 *13819|
 [fc]
-アタシの頭は、体は……一体、どうしてしまったの？[r]
-自分が自分ではない『何か』に乗っ取られた？[pcms]
+My head, my body... what happened to them? Was I taken over[r]
+by something that wasn't me?[pcms]
 
 ;//♪：bgm009 fadeout
 [fadeoutbgm time=1000][wb]
@@ -907,8 +872,8 @@
 *13820|
 [fc]
 [vo_mob s="girl0016"]
-[ns]少女[nse]
-「……ごめんなさい……アタシ……」[pcms]
+[ns]Girl[nse]
+"...I'm sorry... I..."[pcms]
 ;//◎録る必要なし
 
 [ChrSetEx layer=4 chbase="anza_n03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -916,72 +881,68 @@
 *13821|
 [fc]
 [vo_anz s="anzai0126"]
-[ns]女[nse]
-「いいのよ、大丈夫」[pcms]
+[ns]Female[nse]
+"It's okay, you're fine."[pcms]
 ;//◎録る必要なし
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *13822|
 [fc]
-自分の取った行動が、分からない。[r]
-アタシが何者なのか、分からない。[pcms]
+I don't understand my own actions. I don't know who I am.[pcms]
 
 *13823|
 [fc]
-あの頭のおかしな奴等にレイプされてから、[r]
-アタシもおかしくなっている。[r]
-アタシが、アタシで無くなってしまう……。[pcms]
+Ever since those crazy people raped me, I've been going[r]
+crazy too. I'm losing myself...[pcms]
 
 *13824|
 [fc]
-アタシは、一体どうなってしまうの？[pcms]
+What's going to happen to me?[pcms]
 
 *13825|
 [fc]
-自分が自分で無くなる。[pcms]
+I'm losing myself.[pcms]
 
 *13826|
 [fc]
-アタシの頭の中で、アタシにそっくりな何かが、[r]
-アタシを操作していた。[r]
-そんな妄想が、頭の中を駆け回る。[pcms]
+In my head, something that looks just like me has been[r]
+controlling me. Such delusions race through my mind.[pcms]
 
 *13827|
 [fc]
-『アタシ』と言う存在は、どこかに消えてしまう。[r]
-このままだと、みんなに忘れ去られてしまう。[pcms]
+The existence called "me" is disappearing somewhere. If this[r]
+continues, everyone will forget about me.[pcms]
 
 *13828|
 [fc]
-漠然とした不安に、アタシは急に哀しくなって、[r]
-皆が見ているのに、涙を抑える事が出来なかった。[pcms]
+Suddenly feeling an indistinct anxiety, I became sad and[r]
+couldn't hold back my tears in front of everyone.[pcms]
 
 *13829|
 [fc]
 [vo_mob s="girl0017"]
-[ns]少女[nse]
-「アタシ……からだが……どうして……？　じぶんの[r]
-　じゃないみたいに……」[pcms]
+[ns]Girl[nse]
+"My body... why...? It doesn't feel like it's mine..."[pcms]
 
 ;//◎泣きながら
 ;//◎録る必要なし
 
 *13830|
 [fc]
-アタシは、何も悪くない女の子を、叩いてしまった。[pcms]
+I ended up hitting an innocent girl.[pcms]
 
 *13831|
 [fc]
-謝らなきゃ……。[r]
-許されなくてもいいから、謝らなきゃ……。[pcms]
+I have to apologize... Even if I'm not forgiven, I have to[r]
+apologize...[pcms]
 
 *13832|
 [fc]
 [vo_mob s="girl0018"]
-[ns]少女[nse]
-「ほんとにごめんなさい……アタシ……たたくつもり[r]
-　なんかなかったの……おねがい、しんじて……」[pcms]
+[ns]Girl[nse]
+"I'm really sorry... I didn't mean to hit you... please,[r]
+believe me..."[pcms]
 ;//◎録る必要なし
 
 [ChrSetEx layer=4 chbase="jinguji_n02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -989,49 +950,47 @@
 *13833|
 [fc]
 [vo_may s="maya0141"]
-[ns]お嬢様[nse]
-「別に気にしてないから……」[pcms]
+[ns]Young Lady[nse]
+"I don't mind it at all..."[pcms]
 ;//◎録る必要なし
 
 *13834|
 [fc]
-おかっぱの女の子は、私を見つめたままだけど、[r]
-機械に対して話す様に、そう答えた。[pcms]
+The bob-haired girl kept staring at me, but she answered as[r]
+if she was talking to a machine.[pcms]
 
 *13835|
 [fc]
-アタシは、このおかっぱの女の子が、[r]
-なぜかキライって、思った。[r]
-その理由は全然分からない。[pcms]
+I found myself thinking that I somehow hated this bob-haired[r]
+girl, for no reason at all.[pcms]
 
 *13836|
 [fc]
-何も悪くない人を、叩いてしまった。[r]
-おかっぱの女の子も、優しそうな女の人も、[r]
-何も悪い事はしていない。[pcms]
+I ended up hitting someone who did nothing wrong. Neither[r]
+the bob-haired girl nor the kind-looking woman did anything[r]
+bad.[pcms]
 
 *13837|
 [fc]
-この人達を、おかしい奴等の仲間だと思った……。[r]
-この人達は、おかしくなんてない。[pcms]
+I thought these people were part of those crazies... But[r]
+they're not crazy at all.[pcms]
 
 *13838|
 [fc]
-この人達を、奴等の仲間だと思いこんで。[r]
-この人達を、殴った。[pcms]
+Convinced that these people were part of them, I hit them.[pcms]
 
 *13839|
 [fc]
-被害妄想に取り憑かれた、アタシ。[r]
-誰かに操られている、アタシ。[pcms]
+Me, possessed by paranoia. Me, being controlled by someone[r]
+else.[pcms]
 
 *13840|
 [fc]
-そんな事を考えている、アタシ。[pcms]
+Me, thinking such things.[pcms]
 
 *13841|
 [fc]
-おかしいのは、アタシの方だ……。[pcms]
+The one who is strange is me...[pcms]
 
 ;//♪：bgm012 fadeout
 [fadeoutbgm time=1000]
@@ -1043,5 +1002,5 @@
 
 [jump storage="westtown_main10260.ks" target=*westtown_main10260_TOP]
 
-;//－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+;//
 

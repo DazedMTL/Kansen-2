@@ -25,196 +25,191 @@
 
 *7018|
 [fc]
-[ns]大倉[nse]
-「んん……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Mmm..."[pcms]
 
 *7019|
 [fc]
-ウゼー……。[r]
-もう起きる時間かよ……。[pcms]
+Ugh... Is it time to get up already...?[pcms]
 
 *7020|
 [fc]
-あと１０分は大丈夫、とは思ったが、母さんが新技を[r]
-試しに来る前に起きようと、俺は渋々目を開けた。[pcms]
+I thought I could sleep for another 10 minutes, but I[r]
+reluctantly opened my eyes before mom could come in to try[r]
+out a new technique on me.[pcms]
 
 ;//SEストップ
 [stop_se0]
 
 *7021|
 [fc]
-[ns]大倉[nse]
-「……？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"...?"[pcms]
 
 *7022|
 [fc]
-俺の目に入ってきた光景は、そこにあると思っていた[r]
-のとは全く違うものだった。[pcms]
+The scene that met my eyes was completely different from[r]
+what I had expected to be there.[pcms]
 
 *7023|
 [fc]
-俺は自分の部屋のベッドの上ではなく、横倒しになっ[r]
-た観光バスの窓枠の上に寝ていた。[pcms]
+Instead of lying on my bed in my room, I was sleeping on the[r]
+window frame of an overturned tour bus.[pcms]
 
 *7024|
 [fc]
-[ns]大倉[nse]
-「…………」[pcms]
+[ns]Ookura Hiroshi[nse]
+"..."[pcms]
 
 *7025|
 [fc]
-そうか……。[r]
-俺、修業旅行に来てたんだった……。[r]
-でも、これ……。[pcms]
+That's right... I was on a training trip... But this...[pcms]
 
 *7026|
 [fc]
-自分とバスがどうしてこんなことになっているのか、[r]
-俺にはまるでわからなかった。[pcms]
+I had no idea how the bus and I ended up like this.[pcms]
 
 *7027|
 [fc]
-間違いなく何かはあったんだと思うが、それを思い出[r]
-そうとすると、頭が酷く痛んだ。[pcms]
+I'm sure something happened, but trying to remember it just[r]
+made my head hurt terribly.[pcms]
 
 ;//♪：００９_Unhappy desire.
 [bgm storage="bgm009"]
 
 *7028|
 [fc]
-[ns]大倉[nse]
-「ぐっ……！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Guh...!!"[pcms]
 
 *7029|
 [fc]
-体中が痛ぇ……。[r]
-なんなんだよコレ……。[r]
-意味わかんねぇ……。[pcms]
+My whole body hurts... What the hell is this...? It makes no[r]
+sense...[pcms]
 
 *7030|
 [fc]
-痛いのを我慢してどうにか立ち上がり、バスの中を見[r]
-回すと、俺と、すぐ傍に倒れている２人を残して、ク[r]
-ラスのヤツらは全員いなくなっていた。[pcms]
+Enduring the pain, I somehow managed to stand up and look[r]
+around the bus, only to find that everyone from my class was[r]
+gone, except for me and two others lying close by.[pcms]
 
 *7031|
 [fc]
-[ns]大倉[nse]
-「オイ、大丈夫か……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Hey, are you okay...?"[pcms]
 
 *7032|
 [fc]
-通路を挟んで反対側の、座席と座席の間に倒れていた[r]
-のは速水だった。[pcms]
+Lying between the seats across the aisle was Hayami.[pcms]
 
 *7033|
 [fc]
-腕や足に怪我をしているようだったが、息はちゃんと[r]
-している。[pcms]
+She seemed to have injuries on her arms and legs, but she[r]
+was breathing properly.[pcms]
 
 *7034|
 [fc]
-[ns]大倉[nse]
-「良かった……オイ、速水……大丈夫か？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Thank goodness... Hey, Hayami... are you okay?"[pcms]
 
 *7035|
 [fc]
-ほっぺたを軽く何度か叩くと、速水は唸って、薄く目[r]
-を開けた。[pcms]
+After lightly tapping her cheek a few times, Hayami groaned[r]
+and slowly opened her eyes.[pcms]
 
 *7036|
 [fc]
 [vo_hay s="hayami0107"]
-[ns]ありす[nse]
-「んぅ……」[pcms]
+[ns]Arisu[nse]
+"Mmm..."[pcms]
 
 *7037|
 [fc]
-真ん中の通路の後ろ寄りに、うつ伏せで倒れていた男[r]
-子はユウだった。[pcms]
+The boy who had fallen face down near the back of the middle[r]
+aisle was Yuuki.[pcms]
 
 *7038|
 [fc]
-背中が上下しているのを見ると、ユウもちゃんと息が[r]
-あるようだ。[pcms]
+Seeing his back rise and fall, it seemed that Yuuki was also[r]
+breathing properly.[pcms]
 
 *7039|
 [fc]
-[ns]大倉[nse]
-「ユウ……大丈夫か？　オイ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Yuuki... are you okay? Hey..."[pcms]
 
 *7040|
 [fc]
-速水にしたのと同じように、ほっぺたを軽く何度か叩[r]
-くと、ユウはうっすらと目を開けて俺を見て、苦しそ[r]
-うに呻いた。[pcms]
+Just like with Hayami, after tapping his cheek lightly a few[r]
+times, Yuuki faintly opened his eyes and looked at me,[r]
+groaning in pain.[pcms]
 
 *7041|
 [fc]
 [vo_kob s="koba0091"]
-[ns]小林[nse]
-「ヒロ……ボクたち……うぅ……」[pcms]
+[ns]Kobayashi[nse]
+"Hiro... we... ugh..."[pcms]
 
 *7042|
 [fc]
-[ns]大倉[nse]
-「ムリして喋んな……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Don't try to talk..."[pcms]
 
 *7043|
 [fc]
 [vo_hay s="hayami0108"]
-[ns]ありす[nse]
-「良かった……裕樹も生きてた……」[pcms]
+[ns]Alice[nse]
+"Thank goodness... Yuuki is also alive..."[pcms]
 
 *7044|
 [fc]
-俺の背中越しにユウの様子を覗き込んで、速水は安心[r]
-したように溜息をつく。[pcms]
+Peering over my shoulder at Yuuki's condition, Hayami sighed[r]
+in relief as if reassured.[pcms]
 
 *7045|
 [fc]
-立とうとしていたユウに手を貸しながら、俺は後ろの[r]
-速水に顔を向けた。[pcms]
+While helping Yuuki to stand up, I turned to face Hayami[r]
+behind me.[pcms]
 
 *7046|
 [fc]
-[ns]大倉[nse]
-「速水、ケガは……？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Hayami, are your injuries...?"[pcms]
 
 *7047|
 [fc]
 [vo_hay s="hayami0109"]
-[ns]ありす[nse]
-「ヘーキみたい……」[pcms]
+[ns]Arisu[nse]
+"I think I'm okay..."[pcms]
 
 *7048|
 [fc]
-[ns]大倉[nse]
-「ユウは……？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"And Yuuki?"[pcms]
 
 *7049|
 [fc]
-ユウは慎重に体の色々な部分を動かしてから、俺に頷[r]
-いてみせた。[pcms]
+Yuuki carefully moved various parts of his body before[r]
+nodding at me.[pcms]
 
 *7050|
 [fc]
 [vo_kob s="koba0092"]
-[ns]小林[nse]
-「うん、大丈夫……」[pcms]
+[ns]Kobayashi[nse]
+"Yeah, I'm okay..."[pcms]
 
 *7051|
 [fc]
-[ns]大倉[nse]
-「とりあえず、こっから出ようぜ……またひっくり返[r]
-　られても困るしな………」[pcms]
+[ns]Ookura Hiroshi[nse]
+"For now, let's get out of here... We don't want to be[r]
+flipped over again..."[pcms]
 
 *7052|
 [fc]
-頷くのもやっと、という様子で速水とユウは首を縦に[r]
-振り、俺のあとに続いて、割れてガラスの無くなった[r]
-フロントウィンドウからバスの外へと抜け出した。[pcms]
+Nodding with difficulty, Hayami and Yuuki shook their heads[r]
+in agreement and followed me out of the bus through the[r]
+shattered front windshield that no longer had any glass.[pcms]
 
 [jump storage="prologue02010.ks" target=*prologue02010_TOP]
 
-;//－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+;//

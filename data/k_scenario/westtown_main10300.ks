@@ -1,6 +1,6 @@
 ;//■ブロック１０２９０
 ;//欠番
-;//－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+;//
 ;//■ブロック１０３００：『少女』
 ;//◎…アフレコ時の注意、または指示
 
@@ -30,13 +30,13 @@
 
 *11316|
 [fc]
-４階へ降りてくると、吹き抜けの柵にもたれて、女の[r]
-子がグッタリと座っていた。[pcms]
+When I came down to the fourth floor, a girl was slumped[r]
+over, leaning against the railing of the atrium.[pcms]
 
 *11317|
 [fc]
-女の人はすぐ傍に立って、心配そうな顔で女の子を見[r]
-つめている。[pcms]
+A woman was standing close by, looking at the girl with a[r]
+worried expression.[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
@@ -45,9 +45,9 @@
 *11318|
 [fc]
 [vo_mob s="girl0028"]
-[ns]少女[nse]
-「わー、おいしそー……アタシ、おかーさんのつくっ[r]
-　たビーフシチュー、大好きー……」[pcms]
+[ns]Girl[nse]
+"Wow, that looks delicious... I love the beef stew my mom[r]
+makes..."[pcms]
 
 ;[chara_int_ layer=2][chara_int_ layer=3][trans_c cross time=150]
 [ChrSetEx layer=2 chbase="koba_n12"][ChrSetXY layer=2 x=0 y=0][trans_c cross time=150]
@@ -55,52 +55,53 @@
 *11319|
 [fc]
 [vo_kob s="koba0220"]
-[ns]小林[nse]
-「なにいってんの？　このこ……」[pcms]
+[ns]Kobayashi[nse]
+"What are you talking about? This child..."[pcms]
 
 *11320|
 [fc]
-女の人に“近づくな”と言われたぐらい、怖がってい[r]
-たユウが傍に来ても、女の子は薄笑いを浮かべたまま、[r]
-ワケのわからないことをブツブツと喋り続けた。[pcms]
+Even when Yuu, who had been told to stay away and was[r]
+scared, came close, the girl continued to mutter[r]
+incomprehensible things with a faint smile on her face.[pcms]
 
 *11321|
 [fc]
 [vo_mob s="girl0029"]
-[ns]少女[nse]
-「あー、ズルイー……おにーちゃん、ソーセージ１こ[r]
-　多く食べたー……」[pcms]
+[ns]Girl[nse]
+"Ah, that's not fair... Big brother ate one more sausage[r]
+than me..."[pcms]
 
 [chara_int_ layer=2][chara_int_ layer=3][trans_c cross time=150]
 
 *11322|
 [fc]
-[ns]大倉[nse]
-「……なんかあったんですか？」[pcms]
+[ns]Ookura[nse]
+"...Did something happen?"[pcms]
 
 *11323|
 [fc]
-説明を求めて顔を向ける俺に、女の人は首を横に振っ[r]
-て返した。[pcms]
+Turning to the woman for an explanation, she shook her head[r]
+in response.[pcms]
 
 [ChrSetEx layer=4 chbase="anza_n17"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *11324|
 [fc]
 [vo_anz s="anzai0138"]
-[ns]女[nse]
-「逃避なのか、意識の変容なのか……。どちらにしろ、[r]
-　早く医師に診せた方がいいのは間違いないわね」[pcms]
+[ns]Female[nse]
+"Whether it's escapism or an altered state of[r]
+consciousness... Either way, it's clear that she needs to[r]
+see a doctor soon."[pcms]
 
 *11325|
 [fc]
-専門用語らしい言葉の意味はわからなかったけど、医[r]
-者に診せた方がいいというのには、俺も賛成だった。[pcms]
+I didn't understand the meaning of the technical terms, but[r]
+I agreed that she should see a doctor.[pcms]
 
 *11326|
 [fc]
-スロープを使えてれば、別行動にすることもできたん[r]
-だけどな……。[pcms]
+If we could have used the slope, we might have been able to[r]
+take separate actions...[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
@@ -109,122 +110,118 @@
 
 *11327|
 [fc]
-[ns]大倉[nse]
-「速水か？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Hayami?"[pcms]
 
 [cutin storage="BGS15"][trans_c cross time=500]
 
 *11328|
 [fc]
-急いでケータイを取り出し、メールボックスを開くと、[r]
-送ってきたのは母さんだった。[pcms]
+Hurriedly taking out my cell phone and opening the mailbox,[r]
+the sender was my mother.[pcms]
 
 *11329|
 [fc]
-〔Ｓｕｂ：大丈夫？〕[pcms]
+Are you okay?][pcms]
 
 *11330|
 [fc]
-〔電話がつながらないから、メールで送ります。[r]
-ニュースを見ました。本当に大丈夫なの？　心配です〕[pcms]
+[I can't get through on the phone, so I'm sending an email.[r]
+I saw the news. Are you really okay? I'm worried.][pcms]
 
 *11331|
 [fc]
-〔坂田にもそっちと同じことが起きているみたい。[r]
-街じゅうにおかしな人がいるって言ってる〕[pcms]
+[It seems the same thing is happening in Sakata. They're[r]
+saying there are strange people all over town.][pcms]
 
 *11332|
 [fc]
-〔原因はわからないって。自衛隊も出てるけど、救助[r]
-活動は難航してるとのこと〕[pcms]
+[They don't know the cause. The Self-Defense Forces are out,[r]
+but rescue operations are struggling.][pcms]
 
 *11333|
 [fc]
-〔とにかく気をつけて。無事で帰ってきてね〕[pcms]
+[Anyway, be careful. Come back safe.][pcms]
 
 *11334|
 [fc]
-送信時間は８月６日の午前２時１０分。[r]
-前に送られてきたメールと違って、今回はほとんど遅[r]
-れてなかった。[pcms]
+The time sent was August 6th at 2:10 AM. Unlike the previous[r]
+email, this one had hardly any delay.[pcms]
 
 ;//SE：メールの着信音
 [se0 storage="SE03"]
 
 *11335|
 [fc]
-立て続けに受信したメールは、速水から送られてきた[r]
-ものだった。[pcms]
+The emails received one after another were sent by Hayami.[pcms]
 
 *11336|
 [fc]
-〔Ｓｕｂ：そっちはどう？〕[pcms]
+How is it over there?][pcms]
 
 *11337|
 [fc]
-〔こっちはまだヘーキ。心配しないでいいよ〕[pcms]
+[We're still okay here. Don't worry about us.][pcms]
 
 *11338|
 [fc]
-〔助けにきてくれるの待ってるから、はやくきてね！〕[pcms]
+[I'm waiting for you to come help, so hurry up!][pcms]
 
 *11339|
 [fc]
-普段、アイツが送ってくる、絵文字をたくさん使った[r]
-ものと違って、字だけのメールだったことが、俺の焦[r]
-りを強くさせた。[pcms]
+The fact that it was just text without the usual emojis that[r]
+she sends made me even more anxious.[pcms]
 
 *11340|
 [fc]
-[ns]大倉[nse]
-「チッ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Tch..."[pcms]
 
 *11341|
 [fc]
-少しでも元気づけてやりたくて、速水のケータイにか[r]
-けてみるが、繋がることはなかった。[pcms]
+I tried calling Hayami's cell phone to cheer her up a bit,[r]
+but it didn't connect.[pcms]
 
 *11342|
 [fc]
-母さんにも試しにかけてみたが、やっぱり繋がること[r]
-はなかった。[pcms]
+I also tried calling my mother just in case, but again, it[r]
+didn't connect.[pcms]
 
 *11343|
 [fc]
-一応、こっちからも送っとこうと、俺はまず、母さん[r]
-宛のメールを作成した。[pcms]
+First, I decided to send an email to my mother.[pcms]
 
 *11344|
 [fc]
-［Ｓｕｂ：大丈夫］[pcms]
+I'm okay][pcms]
 
 *11345|
 [fc]
-［なんとか無事でいるよ。ちゃんと帰るから安心して］[pcms]
+[I'm safe for now. Don't worry, I'll come back properly.][pcms]
 
 *11346|
 [fc]
-［それよりそっちも気をつけて。あいつら本当に頭が[r]
-いかれてるから近づかないように！］[pcms]
+[More importantly, be careful over there too. Those guys are[r]
+really out of their minds, so don't get close!][pcms]
 
 *11347|
 [fc]
-続けて速水宛のメールを作成する。[pcms]
+Next, I created an email for Hayami.[pcms]
 
 *11348|
 [fc]
-［Ｓｕｂ：こっちも］[pcms]
+Over here too][pcms]
 
 *11349|
 [fc]
-［大丈夫だ。遅くなって悪い。絶対助けに行くから、[r]
-俺らが行くまでなんとかもたせてくれ。３人で山方に[r]
-帰ろう］[pcms]
+[I'm okay. Sorry for being late. I will definitely come to[r]
+rescue you, so hang in there until we arrive. Let's go back[r]
+to Yama together.][pcms]
 
 *11350|
 [fc]
-２通のメールを一括送信し、ちゃんと送れたのを確認[r]
-して、俺はケータイをポケットにしまった。[pcms]
+After sending both emails at once and confirming they were[r]
+sent, I put my cell phone back in my pocket.[pcms]
 
 [cutin_int][trans_c cross time=300]
 
@@ -234,55 +231,55 @@
 *11351|
 [fc]
 [vo_anz s="anzai0139"]
-[ns]女[nse]
-「気分はどう？　気持ち悪くない？」[pcms]
+[ns]Female[nse]
+"How do you feel? Are you not feeling sick?"[pcms]
 
 *11352|
 [fc]
 [vo_mob s="girl0030"]
-[ns]少女[nse]
-「なーに、おとーさん……アタシ、ねむいのにー……」[pcms]
+[ns]Girl[nse]
+"What, daddy... I'm sleepy..."[pcms]
 
 [ChrSetEx layer=2 chbase="anza_n17"][ChrSetXY layer=2 x=0 y=0][trans_c cross time=150]
 
 *11353|
 [fc]
 [vo_anz s="anzai0140"]
-[ns]女[nse]
-「……」[pcms]
+[ns]Female[nse]
+"..."[pcms]
 ;//◎溜息
 
 *11354|
 [fc]
-話しかけても意味不明なことしか言わない女の子に、[r]
-女の人は小さく溜息をついてうなだれた。[pcms]
+The woman sighed softly and slumped as the girl continued to[r]
+speak nonsense even when spoken to.[pcms]
 
 [ChrSetEx layer=2 chbase="anza_n08"][ChrSetXY layer=2 x=0 y=0][trans_c cross time=150]
 
 *11355|
 [fc]
 [vo_anz s="anzai0141"]
-[ns]女[nse]
-「この子、少し休ませてあげたいのだけれど、構わな[r]
-　いかしら」[pcms]
+[ns]Female[nse]
+"I'd like to let this child rest a bit, would that be[r]
+alright?"[pcms]
 
 *11356|
 [fc]
-[ns]大倉[nse]
-「いいすよ。向こうのビルに行く方法も考えなきゃな[r]
-　らないですし」[pcms]
+[ns]Ookura Hiroshi[nse]
+"That's fine. We also need to think about how to get to the[r]
+building over there."[pcms]
 
 *11357|
 [fc]
-[ns]大倉[nse]
-「すぐそこの映画館に入りませんか？　あの中なら椅[r]
-　子もあるから、ここにいるよりかは、ゆっくり休め[r]
-　ると思うんですけど」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Why don't we go into the movie theater right over there?[r]
+There are chairs inside, so it should be more comfortable[r]
+than here for resting."[pcms]
 
 *11358|
 [fc]
-女の人はうなずいて、立ち上がらせようと女の子の手[r]
-を引くと、彼女は素直に立ち上がった。[pcms]
+The woman nodded and pulled the girl's hand to help her[r]
+stand up, and she obediently rose to her feet.[pcms]
 
 ;//[fadeoutbgm time=502]
 ;//[stop_se0]
@@ -294,4 +291,4 @@
 
 [jump storage="westtown_main10310.ks" target=*westtown_main10310_TOP]
 
-;//－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+;//

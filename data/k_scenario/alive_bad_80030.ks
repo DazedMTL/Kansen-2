@@ -36,41 +36,41 @@
 
 *2170|
 [fc]
-直美の体は何十本もの腕の波に飲み込まれ、[r]
-その身を包む服は紙切れの様に引き千切られていく。[pcms]
+Naomi's body was swallowed by waves of countless arms, and[r]
+her clothes were torn to shreds like pieces of paper.[pcms]
 
 *2171|
 [fc]
-直美の目には、空と地面と、にやけた顔をした男達が[r]
-交互に回転しながら飛び込んできているだろう。[pcms]
+Naomi's eyes probably saw the sky and the ground, and the[r]
+grinning faces of men rotating alternately as they came into[r]
+view.[pcms]
 
 *2172|
 [fc]
-訓練され、鍛え上げられた直美とはいえ、何人もの[r]
-男達にもみくちゃにされた事で、感染者達に抵抗する[r]
-力は失われていった。[pcms]
+Even Naomi, who was trained and honed, lost her strength to[r]
+resist as she was jostled by several men, succumbing to the[r]
+infected.[pcms]
 
 *2173|
 [fc]
-[ns]痩せた男[nse]
-「やった゛ぁ～～……、おれ゛ぇ、おまん゛こ、[r]
-　いち゛は゛んのりぃ～～……」[pcms]
+[ns]Thin Man[nse]
+"Yesss... I'm gonna enjoy this pussy... so much..."[pcms]
 
 *2174|
 [fc]
-[ns]バンダナの青年[nse]
-「け゛つ～～……しま゛るぅ～……」[pcms]
+[ns]Young Man with a Bandana[nse]
+"Damn... it's closing up..."[pcms]
 
 *2175|
 [fc]
 [vo_nao s="naomi0054"]
-[ns]直美[nse]
-「ひっ……ぎぃぃぃぃっ！！」[pcms]
+[ns]Naomi[nse]
+"Hii... gyiiii!!"[pcms]
 
 *2176|
 [fc]
-そして、直美は抵抗することを諦めたのか、[r]
-あっけなく感染者達の進入を許してしまった。[pcms]
+And then, Naomi seemed to give up resisting, easily allowing[r]
+the infected to penetrate her.[pcms]
 
 *KAISOU_START
 
@@ -86,598 +86,561 @@
 *2177|
 [fc]
 [vo_nao s="naomi0055"]
-[ns]直美[nse]
-「うっ……うあぁぁあぁっ！！　ぬっ、抜けっ！！[r]
-　はっ……はあっ！！」[pcms]
+[ns]Naomi[nse]
+"Ugh... ughhh!! Pull out... hah... hah!!"[pcms]
 
 *2178|
 [fc]
-[ns]バンダナの青年[nse]
-「あ゛ぁ～～……け゛つあなぁ～～……ねも゛と、[r]
-　しま゛るぅ～～……」[pcms]
+[ns]Bandana-wearing Young Man[nse]
+"Ahh... that ass... it's so tight, it's closing up..."[pcms]
 
 *2179|
 [fc]
-[ns]痩せた男[nse]
-「な゛かて゛こす゛れるぅ～～……あぁ～～……、[r]
-　や゛っぱり……こい゛つしょし゛ょた゛ぁ～～！[r]
-　ま゛んこ゛きつ゛いぃ～～！！」[pcms]
+[ns]Thin Man[nse]
+"It's squeezing inside... ahh... definitely... this one's a[r]
+virgin! The pussy's so tight!!"[pcms]
 
 *2180|
 [fc]
 [vo_nao s="naomi0056"]
-[ns]直美[nse]
-「ぐっ……うあぁっ！！　いっ……痛いっ！！[r]
-　うぐぁぁっ……！！」[pcms]
+[ns]Naomi[nse]
+"Guh... ughh!! It... hurts!! Uguhh...!!"[pcms]
 
 *2181|
 [fc]
-前戯もなく、あげく前と後ろに一度に男性器を[r]
-ねじ込まれ、その痛みに顔を歪ませる。[pcms]
+Without any foreplay, and ultimately having dicks forced[r]
+into both her front and back at once, she contorted her face[r]
+in pain.[pcms]
 
 *2182|
 [fc]
-感染者は、何の準備も出来ていなかった直美の性器と[r]
-排泄器官におかまい無しに焼けた棒をねじ込む。[pcms]
+The infected, without any regard for Naomi's unprepared[r]
+genitals and excretory organs, thrust their burning rods[r]
+inside.[pcms]
 
 *2183|
 [fc]
 [vo_nao s="naomi0057"]
-[ns]直美[nse]
-「あぎいぃっ！！　うんぁぁっ……」[pcms]
+[ns]Naomi[nse]
+"Agiiii!! Unghh..."[pcms]
 
 *2184|
 [fc]
-[ns]パンツ一枚の男[nse]
-「おま゛えら、はやく゛おわら゛せてお゛れにも……[r]
-　おれ゛にもいれ゛させて゛くれよ゛ぉ～～……」[pcms]
+[ns]A man in just underwear[nse]
+"You guys, hurry up and finish so I can have my turn too..."[pcms]
 
 *2185|
 [fc]
-[ns]男前[nse]
-「あぁ～～……ふ゛っかけ゛て゛ぇ～～……」[pcms]
+[ns]Handsome[nse]
+"Ahh... I want to cum all over..."[pcms]
 
 *2186|
 [fc]
 [vo_nao s="naomi0058"]
-[ns]直美[nse]
-「あっ……熱いぃっ！！　いぎぃぃっ！！」[pcms]
+[ns]Naomi[nse]
+"Ah... it's hot!! Igyiii!!"[pcms]
 
 *2187|
 [fc]
-直美を二人の男が犯し、他の感染者達は間に入ること[r]
-が出来ないでいた。[pcms]
+Two men were violating Naomi, while other infected could not[r]
+intervene.[pcms]
 
 *2188|
 [fc]
-そのため、順番待ちをする形になってしまっている[r]
-感染者達は、直美を見て自慰にふけり、好奇の目で[r]
-見つめているだけだった。[pcms]
+As a result, the infected waiting their turn could only[r]
+masturbate while watching Naomi with curious eyes.[pcms]
 
 *2189|
 [fc]
-[ns]痩せた男[nse]
-「まん゛こぉ～～……あっつ゛い～～……、[r]
-　こす゛れるぅ～～……ぬれ゛てねぇのぉ～～？」[pcms]
+[ns]Thin Man[nse]
+"Pussy... it's so hot... is it getting wet for me?"[pcms]
 
 *2190|
 [fc]
 [vo_nao s="naomi0059"]
-[ns]直美[nse]
-「いぎっ！！　あぁああっ！！　あうぅ……いっ！[r]
-　ぎぃぃいぃいっ！！」[pcms]
+[ns]Naomi[nse]
+"Igyi!! Ahhhh!! Auhh... igh! Gyiii!!"[pcms]
 
 *2191|
 [fc]
-[ns]バンダナの青年[nse]
-「しり゛あなぁ～～～お゛くて゛なん゛かあたる～～、[r]
-　おぉ～～……」[pcms]
+[ns]Young Man with a Bandana[nse]
+"Inside this ass... something's hitting me... ohh..."[pcms]
 
 *2192|
 [fc]
-[ns]男前[nse]
-「て゛けぇむ゛ね……ゆれ゛てる～～……、[r]
-　あ゛ぁ～～……お゛れもいれ゛てぇよ～～……」[pcms]
+[ns]Handsome[nse]
+"Such big hips... they're shaking... ahh... I want in[r]
+too..."[pcms]
 
 *2193|
 [fc]
-[ns]パンツ一枚の男[nse]
-「ちか゛て゛てる゛～～……あ～～……い゛いな～～、[r]
-　いち゛は゛ん、とら゛れたぁ～～……」[pcms]
+[ns]A man in just underwear[nse]
+"It's tightening up... ah... nice, I've been taken..."[pcms]
 
 *2194|
 [fc]
 [vo_nao s="naomi0060"]
-[ns]直美[nse]
-「ひっ……ぐうっ……いわっ！　言わないでっ……、[r]
-　ぎっ……あぎいっ！」[pcms]
+[ns]Naomi[nse]
+"Hii... guh... don't say it! Don't say that... gyi...[r]
+agyii!"[pcms]
 
 *2195|
 [fc]
-直美は、この国を護る為に鍛えていた。[pcms]
+Naomi had trained to protect this country.[pcms]
 
 *2196|
 [fc]
-直美は、厳しい訓練に耐えてきた。[pcms]
+Naomi had endured harsh training.[pcms]
 
 *2197|
 [fc]
-しかし、それは全く無意味だった。[pcms]
+But it was all completely meaningless.[pcms]
 
 *2198|
 [fc]
-その数と、破壊されかった脳は筋力の制御をする事が[r]
-出来ず、通常の人間とは異なる、異常な腕力の前には、[r]
-まるで無力だった。[pcms]
+Their numbers and their brains, damaged beyond repair, could[r]
+not control their muscle strength, and in the face of[r]
+abnormal strength unlike that of normal humans, she was[r]
+utterly powerless.[pcms]
 
 *2199|
 [fc]
-直美の頭には、数知れない疑問と、[r]
-屈辱が渦巻いていく。[pcms]
+In Naomi's mind swirled countless questions and[r]
+humiliations.[pcms]
 
 *2200|
 [fc]
-何の為に、体を鍛えてきたのか。[r]
-何の為に、厳しい訓練を受けてきたのか。[r]
-何故、こんな事になったのか。[pcms]
+For what purpose had she trained her body? For what reason[r]
+had she undergone such rigorous training? Why had this[r]
+happened?[pcms]
 
 *2201|
 [fc]
-これまでの苦労は何だったのか。[r]
-どうして自分は、このような目に遭わなければ[r]
-ならないのか。[pcms]
+All her past struggles, why must she suffer such a fate?[pcms]
 
 *2202|
 [fc]
-それらの疑問は、直美の抵抗する力をいともたやすく[r]
-失わせた。[pcms]
+These questions easily stripped away Naomi's will to resist.[pcms]
 
 *2203|
 [fc]
-[ns]バンダナの青年[nse]
-「お゛ぉ～……？　なんか゛ぁ……しめ゛てるぅ～？[r]
-　け゛つまん゛こ、しめて゛きてるぅ～～？」[pcms]
+[ns]Young man with a bandana[nse]
+"Whoa...? Is it getting tighter? Is your pussy tightening up[r]
+on me?"[pcms]
 
 [evcg storage="HEV802d"][trans_c cross time=301]
 
 *2204|
 [fc]
 [vo_nao s="naomi0061"]
-[ns]直美[nse]
-「ぎっ……いいっ……ち、ちがっ……ぐうっ！」[pcms]
+[ns]Naomi[nse]
+"Gyi... igh... that's not... guh!"[pcms]
 
 *2205|
 [fc]
-[ns]痩せた男[nse]
-「しま゛るう～～……よた゛れもたれて゛る～～！[r]
-　かん゛し゛てるのぉ～～？」[pcms]
+[ns]Thin Man[nse]
+"It's closing up... you're getting turned on! Are you[r]
+feeling it?"[pcms]
 
 *2206|
 [fc]
 [vo_nao s="naomi0062"]
-[ns]直美[nse]
-「あがっ……うぐあぁっ……！　違うっ！[r]
-　誰がお前ら……み、たいな……化け物……にっ！[r]
-　ぎいっ！」[pcms]
+[ns]Naomi[nse]
+"Agah... uguhh...! No! Who would want you... monsters like[r]
+you... gyi!"[pcms]
 
 *2207|
 [fc]
-下と、後ろでただ乱暴に腰を振っている化け物。[r]
-その化け物に突き回されているだけの直美。[pcms]
+The monsters were just brutally thrusting from below and[r]
+behind. Naomi was merely being pounded by those monsters.[pcms]
 
 *2208|
 [fc]
-『感染者との性交渉は、死を意味する』[pcms]
+"Sexual intercourse with the infected means death."[pcms]
 
 *2209|
 [fc]
-今の直美の頭の中には、[r]
-その言葉だけが駆け回っていた。[pcms]
+The only thought racing through Naomi's mind now was that[r]
+phrase.[pcms]
 
 *2210|
 [fc]
 [vo_nao s="naomi0063"]
-[ns]直美[nse]
-「いやぁぁぁ！！　いやだぁぁぁ！！！！[r]
-　私は……いやだぁぁあぁ！！」[pcms]
+[ns]Naomi[nse]
+"No, noooo!! I don't want this!! I don't want this at all!!"[pcms]
 
 *2211|
 [fc]
-[ns]痩せた男[nse]
-「う゛ぉ～～……、なん゛た゛ぁ～～？[r]
-　ぬる゛ぬる゛してきたそ゛ぉ～～！？」[pcms]
+[ns]Thin Man[nse]
+"Uvooh... what's this? It's getting slippery?"[pcms]
 
 *2212|
 [fc]
-[ns]バンダナの青年[nse]
-「けつ゛のな゛かて゛……おま゛えのちん゛こぉ～、[r]
-　あた゛るぅ～～……」[pcms]
+[ns]Young Man with a Bandana[nse]
+"Inside this ass... your dick is hitting me..."[pcms]
 
 *2213|
 [fc]
 [vo_nao s="naomi0064"]
-[ns]直美[nse]
-「あぐっ！！　あっ……ぐあっ！！　いっ……、痛い！[r]
-　苦しい……っ！！　ぎっ……！」[pcms]
+[ns]Naomi[nse]
+"Aguh!! Ahh... guah!! It hurts! It's suffocating... gyi...!"[pcms]
 
 *2214|
 [fc]
-感染者達は、苦痛で歪む直美の顔を眺め、[r]
-嫌らしく顔を歪めて笑い続けている。[pcms]
+The infected watched Naomi's face contort in pain and[r]
+continued to laugh lewdly.[pcms]
 
 *2215|
 [fc]
-いくら叫ぼうとも、誰一人として、直美を助けようと[r]
-する者はいない。[pcms]
+No matter how much she screamed, there was no one willing to[r]
+help Naomi.[pcms]
 
 *2216|
 [fc]
-いずれはこの男達の様に、ただ欲望のままに[r]
-蠢くだけの、浅ましい生き物になってしまう。[pcms]
+Eventually, she would become like these men, just a[r]
+despicable creature writhing in desire.[pcms]
 
 *2217|
 [fc]
-そして、最後には、死が訪れる。[pcms]
+And in the end, death would come.[pcms]
 
 *2218|
 [fc]
-何の為に今まで生きて来たんだろう。[pcms]
+What was the purpose of living up until now?[pcms]
 
 *2219|
 [fc]
-体中を汚らしい体液で汚される為なのか。[pcms]
+To be defiled by filthy bodily fluids?[pcms]
 
 *2220|
 [fc]
-自らの置かれている状況を整理しようとした直美だが、[r]
-それは徒労に終わった。[pcms]
+Naomi tried to make sense of the situation she was in, but[r]
+it was all in vain.[pcms]
 
 *2221|
 [fc]
-いつしか、直美の脳も、彼ら同様に、未知のウイルス[r]
-に冒され初めていたのだ。[pcms]
+Before she knew it, Naomi's brain had also begun to be[r]
+infected by the unknown virus, just like them.[pcms]
 
 *2222|
 [fc]
-獣の様に体を求める男達の唸り声が止まり、[r]
-荒い息使いだけになり始めた頃、直美は不思議な[r]
-感覚に包まれるのを感出したのだ。[pcms]
+As the growling of the men lusting for her body ceased and[r]
+only heavy breathing remained, Naomi began to feel enveloped[r]
+by a strange sensation.[pcms]
 
 *2223|
 [fc]
-それは、現実逃避なのか。[r]
-痛みと屈辱だけを感じていた直美の脳は、[r]
-また別の信号をその体に与え始めた。[pcms]
+Was it an escape from reality? Naomi's brain, which had only[r]
+felt pain and humiliation, began to send different signals[r]
+to her body.[pcms]
 
 *2224|
 [fc]
 [vo_nao s="naomi0065"]
-[ns]直美[nse]
-「なに……んっ……ぎっ……！？[r]
-　ふあっ……！？　んうぅぅうっ……！？」[pcms]
+[ns]Naomi[nse]
+"What...nnh...gih...!? Ahh...!? Nuuuuh...!?"[pcms]
 
 *2225|
 [fc]
-ただ闇雲に突き回されている直美の女性器からは、[r]
-いつしか滑る体液が溢れ出し、その苦痛に満ちた表情[r]
-は、悦楽の物へと代わりだした。[pcms]
+From Naomi's pussy, which was being blindly thrust into,[r]
+slippery bodily fluids began to overflow, and her expression[r]
+of agony started to shift to one of pleasure.[pcms]
 
 *2226|
 [fc]
 [vo_nao s="naomi0066"]
-[ns]直美[nse]
-「あぅぅ……！？　あ、あぁ……！　あぁぁぁっ！」[pcms]
+[ns]Naomi[nse]
+"Auu...!? Ah, ahh...! Aaahhhhh!"[pcms]
 
 *2227|
 [fc]
-[ns]痩せた男[nse]
-「あ゛～？　なに゛ぃこれぇ～～……？[r]
-　しょんへ゛んもらした゛ぁ～～？」[pcms]
+[ns]Thin Man[nse]
+"Aah~? What's this~...? Did you wet yourself~?"[pcms]
 
 *2228|
 [fc]
-[ns]バンダナの青年[nse]
-「お゛ぉ～～……あった゛けぇ～～……。[r]
-　しょん゛へ゛んて゛てるぅ～～……」[pcms]
+[ns]Bandana-wearing Young Man[nse]
+"Ooh~...it's so warm~... You're wetting yourself~..."[pcms]
 
 *2229|
 [fc]
 [vo_nao s="naomi0067"]
-[ns]直美[nse]
-「いやぁぁぁぁっ！　こっ……こんなのっ……！[r]
-　嫌だっ！　見ないでぇっ！！　うぁっ！」[pcms]
+[ns]Naomi[nse]
+"Nooooo! This...this isn't...! I don't want this! Don't look[r]
+at me!! Uwah!"[pcms]
 
 *2230|
 [fc]
-直美は薄れゆく意識の中、もはや自分が助からない事[r]
-を悟った。[r]
-そう、直美もまた、彼らの仲間になってしまったのだ。[pcms]
+In her fading consciousness, Naomi realized that she was[r]
+beyond saving. Yes, Naomi had become one of them.[pcms]
 
 *2231|
 [fc]
 [vo_nao s="naomi0068"]
-[ns]直美[nse]
-「うわぁぁぁあぁぁぁぁぁ！！！　わぁぁぁっ！」[pcms]
+[ns]Naomi[nse]
+"Uwaaaaaaaahhhhh!! Waaahhh!"[pcms]
 
 *2232|
 [fc]
-[ns]男前[nse]
-「お～～……と゛うしたぁ～～……？[r]
-　いきな゛りよぉ～～……？」[pcms]
+[ns]Handsome[nse]
+"Oh~...what's wrong~...? You're coming alive~...?"[pcms]
 
 *2233|
 [fc]
-[ns]痩せた男[nse]
-「あは゛ぁ～、い゛いかお゛になってき゛たぁ～～、[r]
-　うれし゛そぉ～～……！」[pcms]
+[ns]Thin Man[nse]
+"Ahaha~ you're starting to look happy~, so pleased~..."[pcms]
 
 *2234|
 [fc]
-[ns]バンダナの青年[nse]
-「けつ゛まん゛こも……しめ゛つけ゛てくるぅ～～！[r]
-　おぁ～～……い゛い～～……」[pcms]
+[ns]Young man with a bandana[nse]
+"Your ass and pussy are tightening up~! Oh~...nice~..."[pcms]
 
 *2235|
 [fc]
 [vo_nao s="naomi0069"]
-[ns]直美[nse]
-「なにこれ……あぁ……んううぅ、うあぁぁっ……！？[r]
-　あうっ……嫌だっ……こんなっ……嫌……」[pcms]
+[ns]Naomi[nse]
+"What is this...ahh...nuuuh, uwaahh...!? Ahh...I don't want[r]
+this...like this...no..."[pcms]
 
 *2236|
 [fc]
-直美は、それまで感じていたものとはまた違う感覚、[r]
-子宮や、頭の奥で、何かが蠢いている事に、違和感を[r]
-覚えた。[pcms]
+Naomi felt a different sensation than before, a wriggling in[r]
+her womb and the back of her head, which made her feel[r]
+uncomfortable.[pcms]
 
 *2237|
 [fc]
-その身体を乗っ取った何かが、身体を熱くしていく。[pcms]
+Something that had taken over her body was making it heat[r]
+up.[pcms]
 
 *2238|
 [fc]
-激しく突かれ、揺れる乳房が空気に触れるだけで、[r]
-私の子宮を疼かせる。[pcms]
+Her breasts shook violently with each thrust, and just the[r]
+touch of air on them made her womb throb.[pcms]
 
 *2239|
 [fc]
-それまで直美の脳を駆け回っていた『死』という[r]
-ネガティブな感情は、今はもう、快楽によって塗り[r]
-つぶされて、ただ快楽を求めるようになっていた。[pcms]
+The negative emotion of "death" that had been racing through[r]
+Naomi's brain was now painted over by pleasure, and she had[r]
+become a being that sought only pleasure.[pcms]
 
 *2240|
 [fc]
-しかし、直美はそのことを認めたくないように、[r]
-強く叫ぶ。[pcms]
+However, Naomi seemed unwilling to admit this and screamed[r]
+loudly.[pcms]
 
 *2241|
 [fc]
 [vo_nao s="naomi0070"]
-[ns]直美[nse]
-「嫌だっ！！　こんな……こんな感じ……うぁぁっ！[r]
-　私っ……おかしく……っ……あうっ！」[pcms]
+[ns]Naomi[nse]
+"I don't want this!! This feeling...uwahh! I'm[r]
+going...crazy...ahh!"[pcms]
 
 *2242|
 [fc]
-[ns]バンダナの青年[nse]
-「けつ゛ぅ～～！！　うあぁ～～……し゛まるっ……！[r]
-　おぉ～～……」[pcms]
+[ns]Young man with a bandana[nse]
+"Your ass~!! Uwahh~...it's closing in...! Oh~..."[pcms]
 
 *2243|
 [fc]
-[ns]痩せた男[nse]
-「まんこ゛もぉ～～……し゛まるぅ～～……！！」[pcms]
+[ns]Thin Man[nse]
+"Your pussy too~...it's closing in~...!!"[pcms]
 
 *2244|
 [fc]
 [vo_nao s="naomi0071"]
-[ns]直美[nse]
-「いっ……いいっ！！　お腹……うぁっ……！！[r]
-　お腹がっ……熱いぃ！！」[pcms]
+[ns]Naomi[nse]
+"Yes...yes!! My stomach...uwahh...!! My stomach is hot!!"[pcms]
 
 *2245|
 [fc]
-[ns]痩せた男[nse]
-「あ゛ぁ～～……まん゛こぉ～～……、[r]
-　いっぱい゛、あ゛ふれ゛てきた゛ぁ～～……」[pcms]
+[ns]Thin Man[nse]
+"Aah~...your pussy~..., it's overflowing~, ahaha~..."[pcms]
 
 *2246|
 [fc]
 [vo_nao s="naomi0072"]
-[ns]直美[nse]
-「あうっ……いっ……、いいっ……！！　私のっ……、[r]
-　オマンコっ……いっぱいっ！　一杯溢れてえっ！」[pcms]
+[ns]Naomi[nse]
+"Ahh...yes..., yes!! My pussy is full! It's overflowing!"[pcms]
 
 *2247|
 [fc]
-[ns]バンダナの青年[nse]
-「おぉ～～……！　けつまん゛こぉ～～……、[r]
-　きも゛ち゛い～～……あった゛けぇ～～！！」[pcms]
+[ns]Bandana-wearing Young Man[nse]
+"Oh~...! Your ass and pussy~, they feel so good~...so[r]
+warm~!!"[pcms]
 
 *2248|
 [fc]
 [vo_nao s="naomi0073"]
-[ns]直美[nse]
-「お尻ぃっ！！　熱いっ！！　熱いぃっ！！[r]
-　オマンコも、お尻も……きもっ……きもちいいっ！」[pcms]
+[ns]Naomi[nse]
+"My butt!! It's hot!! It's so hot!! Both my pussy and my[r]
+butt feel good!"[pcms]
 
 *2249|
 [fc]
-男性器がオマンコとお尻を擦り上げ、男達の下腹部が、[r]
-クリトリスを刺激する。[pcms]
+The men's dicks rubbed against Naomi's pussy and ass, and[r]
+their lower abdomens stimulated her clitoris.[pcms]
 
 *2250|
 [fc]
-その刺激は直美の脳を酷く揺さぶった。[pcms]
+This stimulation violently shook Naomi's brain.[pcms]
 
 *2251|
 [fc]
 [vo_nao s="naomi0074"]
-[ns]直美[nse]
-「あぁ～～！！　くっ……んあぁぁっ！！[r]
-　お腹熱いっ！！　んうぁぁぁっ！！　私っ……ヘン、[r]
-　ヘンになるっ！！」[pcms]
+[ns]Naomi[nse]
+"Aaah~!! Kuh...nuuuaaahh!! My stomach is hot!! Nuuuaaahh!![r]
+I'm becoming weird, so weird!!"[pcms]
 
 *2252|
 [fc]
-その甘く、切ない声に反応したのか、周りに群がる[r]
-男達は、性器をいっそう大きくして、[r]
-自慰をする手の動きを速めた。[pcms]
+The sweet and painful voice seemed to resonate with the men[r]
+around her, who enlarged their dicks even more and quickened[r]
+the pace of their masturbation.[pcms]
 
 *2253|
 [fc]
-今の直美の脳は、周りで自慰をする男達の声も、その[r]
-体を責めている男達の声も、遠くで響いている様に[r]
-感じ始めていた。[pcms]
+Now Naomi's brain began to feel as if the voices of the men[r]
+masturbating around her and those assaulting her body were[r]
+echoing from afar.[pcms]
 
 *2254|
 [fc]
-次の瞬間――[r]
-直美の声が変わる。[pcms]
+The next moment-- Naomi's voice changed.[pcms]
 
 *2255|
 [fc]
-何かに取り憑かれたかのように、声も表情も、[r]
-変わった。[pcms]
+As if possessed by something, both her voice and expression[r]
+changed.[pcms]
 
 *2256|
 [fc]
 [vo_nao s="naomi0075"]
-[ns]直美[nse]
-「あ、ああぁあ、あ！？　あぁっ……！？[r]
-　うわあぁぁぁぁぁ！！！」[pcms]
+[ns]Naomi[nse]
+"Ah, aaaaah, ah!? Aaahh...!? Uwaaaaaaahhhhh!!!"[pcms]
 
 *2257|
 [fc]
 [vo_nao s="naomi0076"]
-[ns]直美[nse]
-「あはぁ……きれいぃ……！　うぁっ……あっ……！[r]
-　き、きもちいいっ……、オマンコ……おしり……！[r]
-　きもちいいっ！！」[pcms]
+[ns]Naomi[nse]
+"Ahaha...so pretty...! Uwahh...ahh...! It feels good..., my[r]
+pussy...my butt...! They feel good!!"[pcms]
 
 *2258|
 [fc]
-[ns]痩せた男[nse]
-「あ゛あっ……ひ゛くひ゛くしてる゛ぅ～～……、[r]
-　おれ゛ぇ～～……もう゛～～……あぁ～～……！」[pcms]
+[ns]Thin Man[nse]
+"Aaahh...you're twitching~, I'm gonna~...aaah~..."[pcms]
 
 *2259|
 [fc]
 [vo_nao s="naomi0077"]
-[ns]直美[nse]
-「はぁぁぁあっ……！！　なか、なかでっ……、[r]
-　ねぇ～……なかにちょうだいっ！！　わたしのなか、[r]
-　なかでだしてぇ～！！」[pcms]
+[ns]Naomi[nse]
+"Haaaahhh...!! Inside, inside me..., please~...give it to me[r]
+inside! Fill me up inside, please~!!"[pcms]
 
 *2260|
 [fc]
-[ns]男前[nse]
-「う゛ぅぁ～～……せい゛し……て゛そぉ～……！！[r]
-　ふ゛っかけるそ゛ぉ～～……！！」[pcms]
+[ns]Handsome[nse]
+"Uvaaah~...I'm gonna cum...!! I'll splatter it all[r]
+over~...!!"[pcms]
 
 *2261|
 [fc]
 [vo_nao s="naomi0078"]
-[ns]直美[nse]
-「せいえきちょうだい！　あはははっ！！　わたしに、[r]
-　みんなのせいえきちょうだいぃ～！」[pcms]
+[ns]Naomi[nse]
+"Give me your semen! Ahahaha!! Give me all of it, everyone's[r]
+semen!!"[pcms]
 
 *2262|
 [fc]
-豹変した直美は、男達の精を全身で受け止められる様、[r]
-体を突っ張らせ、舌を突き出し、ソレを求め始めた。[pcms]
+The transformed Naomi arched her body to receive the men's[r]
+semen all over her, sticking out her tongue and begging for[r]
+it.[pcms]
 
 *2263|
 [fc]
-[ns]バンダナの青年[nse]
-「けつ゛まんこ゛～～……うあぁ～～！！[r]
-　おれ゛もう～～……あ～～……」[pcms]
+[ns]Bandana-wearing Young Man[nse]
+"Your ass and pussy~...uwahh~!! I'm gonna cum too~...ah~..."[pcms]
 
 *2264|
 [fc]
 [vo_nao s="naomi0079"]
-[ns]直美[nse]
-「だしてっ！！　ちょうだいっ！！　せいし……、[r]
-　わたしにちょうだいっ！！　オマンコにっ！[r]
-　あぁ～っ！　んぁぁぁ～～！！」[pcms]
+[ns]Naomi[nse]
+"Let it out!! Give it to me!! Your semen..., give it to me!![r]
+In my pussy! Aaah~! Nuaaahhh~~!!"[pcms]
 
 *2265|
 [fc]
-直美の声に反応したのか、女性器とお尻に入れている[r]
-男達は、申し合わせた様に動きを速め、[r]
-その内臓を乱暴に突き上げ、掻き回す。[pcms]
+In response to Naomi's voice, the men inside her pussy and[r]
+ass quickened their movements as if on cue, violently[r]
+thrusting and stirring her insides.[pcms]
 
 *2266|
 [fc]
-周りで眺め、自慰している男達の手も動きが速まって[r]
-いく。[pcms]
+The hands of the men watching and masturbating also[r]
+quickened their pace.[pcms]
 
 *2267|
 [fc]
-直美を含めたこの場にいる者全てが、[r]
-限界に近づいている。[pcms]
+Everyone present in this place, including Naomi, was nearing[r]
+their limit.[pcms]
 
 *2268|
 [fc]
-直美は思った。[r]
-自分を取り囲む全ての者達が、私に対して欲情し興奮[r]
-している。そう思うと、嬉しくて仕方がなかった。[pcms]
+Naomi thought. All those surrounding me are lusting after me[r]
+and are excited. The thought made her indescribably happy.[pcms]
 
 *2269|
 [fc]
 [vo_nao s="naomi0080"]
-[ns]直美[nse]
-「ちょうだいっ！　せいえき……たくさんちょうだい！[r]
-　あぁっ……うあぁぁっ！！　からだじゅうに……、[r]
-　せいえきちょうだいっ！！」[pcms]
+[ns]Naomi[nse]
+"Give it to me! Lots of semen, please! Aaahh...uwaaahh!! All[r]
+over my body..., give me your semen!!"[pcms]
 
 *2270|
 [fc]
-[ns]バンダナの青年[nse]
-「あ゛あ～～……！！　うあ゛ぁ～……、[r]
-　て゛るぅ～～……けつ゛まん゛こにせいし゛……、[r]
-　いっぱいくれ゛てやるそ゛ぉ～～！！」[pcms]
+[ns]Bandana-wearing Young Man[nse]
+"Aaah~...!! Uwahh~... I'm gonna give it to you~... in your[r]
+ass and pussy, I'll give you lots of semen~...!!"[pcms]
 
 *2271|
 [fc]
-[ns]痩せた男[nse]
-「おれ゛のこと゛も……は゛らめぇ～～！！[r]
-　なかに゛た゛してやっか゛らよぉ～～！」[pcms]
+[ns]Thin Man[nse]
+"Don't forget about me...stop it~!! I'm gonna cum inside[r]
+you~...!!"[pcms]
 
 *2272|
 [fc]
-[ns]男前[nse]
-「おぉ～～！！　おれ゛のふ゛っかけ゛てやるぅ～！」[pcms]
+[ns]Handsome[nse]
+"Ooh~!! I'm gonna splatter it on you~!"[pcms]
 
 *2273|
 [fc]
 [vo_nao s="naomi0081"]
-[ns]直美[nse]
-「あ、あ、ああぁ、あっ……あはっ！　あは゛ぁっ！[r]
-　おちんちん……おちんちんいっぱいっ！！[r]
-　おまんこいいっ！！　きもちいいっ！！」[pcms]
+[ns]Naomi[nse]
+"Ah, ah, aah, ah... Ahaha! Ahah! So many dicks... so many[r]
+dicks!! My pussy feels so good!! It feels amazing!!"[pcms]
 
 *2274|
 [fc]
-[ns]壊れたメガネの男[nse]
-「あぁ～～……もう゛て゛るぅ～～！！」[pcms]
+[ns]Broken Glasses Man[nse]
+"Aah~... I'm gonna cum too~...!!"[pcms]
 
 *2275|
 [fc]
-[ns]痩せた男[nse]
-「う゛ぁ～～！！」[pcms]
+[ns]Thin Man[nse]
+"Uwah~!!"[pcms]
 
 *2276|
 [fc]
-[ns]バンダナの男[nse]
-「あ゛う～～……た゛す゛そ゛ぉ～～！！」[pcms]
+[ns]Bandana Man[nse]
+"Augh~... I'm cumming too~...!!"[pcms]
 
 *2277|
 [fc]
 [vo_nao s="naomi0082"]
-[ns]直美[nse]
-「あ――っ……うあぁぁっ……ダメダメっ……！[r]
-　わたしっ……いやぁぁあっ！！」[pcms]
+[ns]Naomi[nse]
+"Ah--... Uwahh... No, no...! I'm... Nooo!!"[pcms]
 
 
 ;[射精フラA]
@@ -688,20 +651,20 @@
 
 *2278|
 [fc]
-[ns]痩せた男[nse]
-「あ゛っ……あう゛ぁ～～……！！」[pcms]
+[ns]Thin Man[nse]
+"Ah... Uwah~...!!"[pcms]
 
 *2279|
 [fc]
 [vo_nao s="naomi0083"]
-[ns]直美[nse]
-「うあぁぁっ！！　なかででてるっ！！　あついっ！[r]
-　おなかのなかあついぃっ！！」[pcms]
+[ns]Naomi[nse]
+"Uwahh!! It's coming out inside!! It's hot! My insides are[r]
+so hot!!"[pcms]
 
 *2280|
 [fc]
-[ns]男前[nse]
-「う゛ぉおぉお゛～～……」[pcms]
+[ns]Handsome[nse]
+"Uwooooh~..."[pcms]
 
 ;//★ホワイトフラッシュ
 [白フラ]
@@ -712,15 +675,14 @@
 *2281|
 [fc]
 [vo_nao s="naomi0084"]
-[ns]直美[nse]
-「うあぁぁ～！！　おなかぁっ！！[r]
-　せいし、あついぃい～！！　あぁぁあっ！！[r]
-　あたまヘンになるっ！　うぁぁっ！」[pcms]
+[ns]Naomi[nse]
+"Uwahh~!! My stomach!! The semen is so hot~!! Aaahh!! My[r]
+head's going crazy! Uwahh!"[pcms]
 
 *2282|
 [fc]
-[ns]バンダナの男[nse]
-「は゛っ……あぁっ……あ゛おぉ！！」[pcms]
+[ns]Bandana Man[nse]
+"Hah... Ahh... Awooh!!"[pcms]
 
 
 ;[射精フラA]
@@ -732,52 +694,50 @@
 *2283|
 [fc]
 [vo_nao s="naomi0085"]
-[ns]直美[nse]
-「あ――っ！　はっ……はっ……、あぁっ……、[r]
-　うあぁぁああっ！！　せいえきっ……からだじゅう、[r]
-　せいえきがぁぁぁっ……うぁぁっ！！」[pcms]
+[ns]Naomi[nse]
+"Ah--! Hah... Hah... Ahh..., Uwahhaaahh!! Semen... all over[r]
+my body, semen is ahhhh... Uwahh!!"[pcms]
 
 *2284|
 [fc]
-直美の体は精液で白く染まっていく。[r]
-それが身体を緩やかに伝う。[r]
-その刺激だけで、直美の表情は甘く変わる。[pcms]
+Naomi's body was becoming white with semen. It gently flowed[r]
+over her body. Just that sensation alone sweetly changed[r]
+Naomi's expression.[pcms]
 
 *2285|
 [fc]
-鼻を突く精液の匂いと、群がる男達の熱気に包まれ、[r]
-その中心に跪く直美は、突然笑い始めた。[pcms]
+Surrounded by the smell of semen that hit her nose and the[r]
+heat of the crowding men, Naomi, kneeling at the center,[r]
+suddenly began to laugh.[pcms]
 
 *2286|
 [fc]
 [vo_nao s="naomi0086"]
-[ns]直美[nse]
-「はっ……あはぁっ……はあっ……すごい……、[r]
-　せいし……もっと……もっとせいしちょうだい！！[r]
-　あはっ……あははははっ……あはははははっ……」[pcms]
+[ns]Naomi[nse]
+"Hah... Ahah... Haa... Amazing..., semen... give me more...[r]
+more semen please!! Ahah... Ahahaha... Ahahahaha..."[pcms]
 
 *2287|
 [fc]
-男達に囲まれ、けたたましく笑うその女は、[r]
-『この国を護る』という理想に燃えていた頃の面影は[r]
-もうなかった。[pcms]
+The woman surrounded by men and laughing shrilly no longer[r]
+bore any resemblance to the one who once burned with the[r]
+ideal of "protecting this country."[pcms]
 
 *2288|
 [fc]
-男達に囲まれ、その中心で笑う女。[pcms]
+The woman surrounded by men, laughing at the center.[pcms]
 
 *2289|
 [fc]
-ただひたすらに欲望のまま蠢く者と同じ、[r]
-感染者となってしまった、ただの化け物が、[r]
-そこにいた。[pcms]
+Just like those who writhed in pure desire, a mere monster[r]
+that had become an infected was there.[pcms]
 
 ;//------------------------------------------------
 [if exp="tf.scene_mode==1"]
 	[jump storage="b_scene.ks" target=*back_from_SR]
 ;	[link storage=sceneAgain]もう一度見る[endlink]
 ;	[link storage=sceneList]一覧に戻る[endlink]
-;	[s]
+[pcms]
 [endif]
 
 *KAISOU_PASS

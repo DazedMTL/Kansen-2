@@ -36,192 +36,184 @@
 *15371|
 [fc]
 [vo_anz s="anzai0237"]
-[ns]みき[nse]
-「だいじょうぶなのかしら、このドア……」[pcms]
+[ns]Mikki[nse]
+"Is this door really okay...?"[pcms]
 
 *15372|
 [fc]
-ヒロシくんと一緒に、おかしな人達を閉じこめた映画[r]
-館の扉が、内側から彼らに叩かれて、音を立てながら[r]
-揺れている。[pcms]
+The door of the movie theater, where Hiroshi-kun and I had[r]
+trapped those strange people, was being banged on from the[r]
+inside, shaking as it made noise.[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
 *15373|
 [fc]
-ユウくんがもっていたどうぐで、かんたんに、こてい[r]
-してあるだけなのよね……。[pcms]
+The door was simply fixed in place with a tool that Yuu-kun[r]
+had... it was quite rudimentary.[pcms]
 
 *15374|
 [fc]
-おかしなひとたちのちからにまけて、あいてしまう[r]
-まえに、どこかちがうところに、かくれたほうが[r]
-いいかもしれない……。[pcms]
+Before it gives way to the strength of those strange people,[r]
+it might be better to hide somewhere else...[pcms]
 
 *15375|
 [fc]
-内側からドアを叩く音以外、何も聞こえてこない静か[r]
-な館内を歩きながら、私はヒロシくんのことを思い出[r]
-していた。[pcms]
+As I walked through the eerily quiet theater, the only sound[r]
+being the banging on the door from inside, I found myself[r]
+thinking of Hiroshi-kun.[pcms]
 
 *15376|
 [fc]
-かれ、どうしてるかしら……。[r]
-ひとりでむこうにいってしまって……。[r]
-しんぱいだわ……。[pcms]
+I wonder how he's doing... He went off on his own... I'm[r]
+worried...[pcms]
 
 *15377|
 [fc]
-あの、ナイフをもっていたおとこのひとに、けがを[r]
-させられなければいいけれど……。[pcms]
+I just hope he hasn't been hurt by that man who had a[r]
+knife...[pcms]
 
 *15378|
 [fc]
-ヒロシくんが、さがしているおんなのこも、かのじょ[r]
-をたすけにいった、せのたかいこも、みんなぶじだと[r]
-いいわね……。[pcms]
+I hope Hiroshi-kun, the girl he's looking for, and the tall[r]
+boy who went to help her are all safe...[pcms]
 
 *15379|
 [fc]
 [vo_kob s="koba_c0001"]
 [ns]？？？[nse]
-「まってよ～♪」[pcms]
+"Wait up~♪"[pcms]
 
 *15380|
 [fc]
 [vo_anz s="anzai0238"]
-[ns]みき[nse]
-「っ……！！」[pcms]
+[ns]Mikki[nse]
+"Ah...!!"[pcms]
 ;//◎驚いて息を飲む
 
 *15381|
 [fc]
-トイレに向かう途中で呼び止められて、映画館に閉じ[r]
-こめたおかしな人達が、とうとう出てきたと思って、[r]
-私は慌てて後ろを振り返った。[pcms]
+As I was heading to the restroom, I was called out to and[r]
+thought that the strange people we had locked in the movie[r]
+theater had finally come out, so I hurriedly looked back.[pcms]
 
 [ChrSetEx layer=4 chbase="koba_n01"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *15382|
 [fc]
 [vo_kob s="koba0283"]
-[ns]小林[nse]
-「ボクも～♪」[pcms]
+[ns]Kobayashi[nse]
+"Me too~♪"[pcms]
 
 *15383|
 [fc]
-自分がいた映画館の中から出てきて、私に駆け寄って[r]
-きたのは、おかしな人達ではなくて、ユウくんだった。[pcms]
+It wasn't one of the strange people who came out of the[r]
+theater and ran up to me; it was Yuu-kun.[pcms]
 
 *15384|
 [fc]
-ニコニコ笑いながら駆けてくる彼は、主人の帰りを出[r]
-迎えるペットのように思えた。[pcms]
+He ran up with a big smile, like a pet eagerly greeting its[r]
+returning owner.[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *15385|
 [fc]
-わたしも、かつやがへやにきたときは、あんなふうに[r]
-なるな……。[pcms]
+I become like that too when Ryuuya comes to my room...[pcms]
 
 *15386|
 [fc]
-かつや、まだぶじかしら……。[r]
-はやくあいたい……。[pcms]
+I wonder if Ryuuya is safe... I want to see him soon...[pcms]
 
 *15387|
 [fc]
-はやく、かつやにあって……。[r]
-だいてもらいたい……。[pcms]
+I want to see Ryuuya soon... I want him to hold me...[pcms]
 
 [ChrSetEx layer=4 chbase="koba_n02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *15388|
 [fc]
 [vo_kob s="koba0284"]
-[ns]小林[nse]
-「おいついた～♪」[pcms]
+[ns]Kobayashi[nse]
+"Caught up~♪"[pcms]
 
 *15389|
 [fc]
 [vo_anz s="anzai0239"]
-[ns]みき[nse]
-「……どうしたの？」[pcms]
+[ns]Mikki[nse]
+"...What's up?"[pcms]
 
 [ChrSetEx layer=4 chbase="koba_n01"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *15390|
 [fc]
 [vo_kob s="koba0285"]
-[ns]小林[nse]
-「ボクも、いっしょにトイレいく～」[pcms]
+[ns]Kobayashi[nse]
+"I'm going to the restroom with you~"[pcms]
 
 *15391|
 [fc]
 [vo_anz s="anzai0240"]
-[ns]みき[nse]
-「あら……おとこのこなんだから、ひとりでいける[r]
-　でしょう？」[pcms]
+[ns]Mikki[nse]
+"Oh... You're a boy, you can go by yourself, right?"[pcms]
 
 *15392|
 [fc]
-小柄で、可愛らしい彼を見ていると、看護師の研修で[r]
-会った子を思いだして、私は思わず、小さな子供を相[r]
-手にする時の口調になってしまっていた。[pcms]
+Looking at him, small and cute, reminded me of a child I met[r]
+during my nursing training, and without realizing it, I[r]
+found myself speaking in the tone I use when dealing with[r]
+little kids.[pcms]
 
 [ChrSetEx layer=4 chbase="koba_n11"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *15393|
 [fc]
 [vo_kob s="koba0286"]
-[ns]小林[nse]
-「ぶー！」[pcms]
+[ns]Kobayashi[nse]
+"Hmph!"[pcms]
 
 *15394|
 [fc]
 [vo_anz s="anzai0241"]
-[ns]みき[nse]
-「ふふっ……」[pcms]
+[ns]Mikki[nse]
+"Hehe..."[pcms]
 
 *15395|
 [fc]
-本当に小さい子みたいに頬を膨らます彼に、私は今度[r]
-は噴きだしてしまった。[pcms]
+He puffed up his cheeks like a little child, and I couldn't[r]
+help but burst into laughter.[pcms]
 
 *15396|
 [fc]
-かれ、これぐらいのとしのこにしては、ずいぶん、[r]
-こどもっぽいわね……。[pcms]
+He's quite childlike for his age...[pcms]
 
 *15397|
 [fc]
-ふだんから、こうなのかしら……。[r]
-もしかしたら、ヒロシくんが、ほごしゃがわりなのか[r]
-もしれないわね……。[pcms]
+I wonder if he's always like this... Maybe Hiroshi-kun acts[r]
+like a guardian to him...[pcms]
 
 *15398|
 [fc]
-そういえば、きょうだいみたいなかんじだったし……。[pcms]
+Come to think of it, they did seem like siblings...[pcms]
 
 *15399|
 [fc]
 [vo_anz s="anzai0242"]
-[ns]みき[nse]
-「もう……わかったわ、いっしょにいきましょう」[pcms]
+[ns]Mikki[nse]
+"Alright... I got it, let's go together."[pcms]
 
 [ChrSetEx layer=4 chbase="koba_n08"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *15400|
 [fc]
 [vo_kob s="koba0287"]
-[ns]小林[nse]
-「わ～い♪」[pcms]
+[ns]Kobayashi[nse]
+"Yay~♪"[pcms]
 
 *15401|
 [fc]
-無邪気に笑うユウくんと一緒に、私は不気味な程に[r]
-静かな館内を、トイレに向かって歩いた。[pcms]
+Walking towards the restroom in the unnervingly quiet[r]
+theater, I was accompanied by Yuu-kun's innocent laughter.[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
@@ -239,14 +231,14 @@
 *15402|
 [fc]
 [vo_kob s="koba0288"]
-[ns]小林[nse]
-「ボクがくるまでまっててね！」[pcms]
+[ns]Kobayashi[nse]
+"Wait for me until I come out!"[pcms]
 
 *15403|
 [fc]
 [vo_anz s="anzai0243"]
-[ns]みき[nse]
-「はいはい」[pcms]
+[ns]Mikki[nse]
+"Yes, yes"[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
@@ -254,8 +246,8 @@
 
 *15404|
 [fc]
-ユウくんが男子トイレに入っていくのを見届けてから、[r]
-私も女子トイレの中に入った。[pcms]
+After watching Yuu-kun enter the men's restroom, I went into[r]
+the women's restroom.[pcms]
 
 ;//★ＢＧ：トイレA
 
@@ -263,35 +255,33 @@
 
 *15405|
 [fc]
-これでは、まるでママね……。[pcms]
+This is just like being a mom...[pcms]
 
 *15406|
 [fc]
-かつやとけっこんして、たくさんセックスして、たく[r]
-さんなかにだしてもらって、おとこのこがうまれたら、[r]
-まいにちが、こんなかんじなのかしら……。[pcms]
+If I married Ryuuya and we had lots of sex and he came[r]
+inside me a lot and we had a boy, would every day feel like[r]
+this...?[pcms]
 
 *15407|
 [fc]
-でも、それだと、むすこがふたり、できることになる[r]
-わね……。[pcms]
+But then, that would mean having two sons...[pcms]
 
 *15408|
 [fc]
-かつやも、こどもっぽいところあるし……。[r]
-あさ、なかなか、おきないときとか……。[pcms]
+Ryuuya also has his childlike moments... like when he won't[r]
+get up in the morning...[pcms]
 
 *15409|
 [fc]
 [vo_anz s="anzai0244"]
-[ns]みき[nse]
-「ふふ……」[pcms]
+[ns]Mikki[nse]
+"Hehe..."[pcms]
 
 *15410|
 [fc]
-２人の子供に手を焼いてるのを想像して、自分のその[r]
-姿に笑いを漏らしながら、私は一番奥から２つ目の[r]
-ドアに手をかけた。[pcms]
+Imagining myself dealing with two children and laughing at[r]
+the thought, I reached for the second door from the back.[pcms]
 
 ;//★ＢＧ：トイレB
 
@@ -300,84 +290,84 @@
 *15411|
 [fc]
 [vo_anz s="anzai0245"]
-[ns]みき[nse]
-「え？　な、なに……きゃあぁっ！！」[pcms]
+[ns]Mikki[nse]
+"Eh? What... kyaaah!!"[pcms]
 
 *15412|
 [fc]
-その時、突然、トイレの照明が全て消えて、さらに誰[r]
-かに手を握られた私は、驚いて手を引き、後ずさった。[pcms]
+Just then, all of a sudden, the restroom lights went out[r]
+completely, and as someone grabbed my hand, I was startled[r]
+and pulled away, stepping back.[pcms]
 
 [ChrSetEx layer=4 chbase="koba_n02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *15413|
 [fc]
 [vo_kob s="koba0289"]
-[ns]小林[nse]
-「ボクだよ～♪　ビックリした？」[pcms]
+[ns]Kobayashi[nse]
+"It's me~♪ Did I scare you?"[pcms]
 
 *15414|
 [fc]
-出入り口近くの壁に取り付けられた誘導灯で、ぼんや[r]
-りと浮かび上がったのは、ユウくんの姿だった。[pcms]
+The dimly lit figure that emerged in the light of the[r]
+emergency exit sign near the entrance was Yuu-kun.[pcms]
 
 *15415|
 [fc]
-手を握ったのがおかしな人達だと思っていた私は、[r]
-安心して大きく溜息をついて、壁にもたれかかった。[pcms]
+Thinking it was one of those strange people who had grabbed[r]
+my hand, I sighed in relief and leaned against the wall.[pcms]
 
 *15416|
 [fc]
 [vo_anz s="anzai0246"]
-[ns]みき[nse]
-「はぁ～っ……もう！　こんなときに、いたずらしな[r]
-　いで！」[pcms]
+[ns]Mikki[nse]
+"Haah... geez! Don't play pranks at a time like this!"[pcms]
 
 [ChrSetEx layer=4 chbase="koba_n01"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *15417|
 [fc]
 [vo_kob s="koba0290"]
-[ns]小林[nse]
-「ゴメ～ン♪」[pcms]
+[ns]Kobayashi[nse]
+"Sorry~♪"[pcms]
 
 *15418|
 [fc]
 [vo_anz s="anzai0247"]
-[ns]みき[nse]
-「ここ、じょしトイレよ？　[r]
-　どうして、あなたがここに……」[pcms]
+[ns]Mikki[nse]
+"This is the women's restroom. Why are you here..."[pcms]
 
 [ChrSetEx layer=4 chbase="koba_n02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *15419|
 [fc]
 [vo_kob s="koba0291"]
-[ns]小林[nse]
-「クスクス……いこっ♪」[pcms]
+[ns]Kobayashi[nse]
+"Giggle... let's go♪"[pcms]
 
 *15420|
 [fc]
 [vo_anz s="anzai0248"]
-[ns]みき[nse]
-「あ、ちょ、ちょっとユウくん！？」[pcms]
+[ns]Mikki[nse]
+"Ah, wait, Yuu-kun!?"[pcms]
 
 *15421|
 [fc]
-また手を握って、ユウくんは真っ暗なトイレの中を、[r]
-私を連れて、鼻歌交じりでどこかへ歩いて行く。[pcms]
+Again holding my hand, Yuu-kun hummed a tune as he walked[r]
+somewhere through the pitch-black restroom, leading me[r]
+along.[pcms]
 
 *15422|
 [fc]
 [vo_kob s="koba0292"]
-[ns]小林[nse]
-「～♪　～♪」[pcms]
+[ns]Kobayashi[nse]
+"♪~ ♪~"[pcms]
 
 *15423|
 [fc]
 [vo_anz s="anzai0249"]
-[ns]みき[nse]
-「ねえ、ユウくん！　ユウくん、待って！」[pcms]
+[ns]Mikki[nse]
+"Hey, Yuu-kun! Yuu-kun, wait!"[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 ;//★ＢＧ：トイレ付近B
@@ -385,41 +375,40 @@
 
 *15424|
 [fc]
-私の言うことに耳を貸さず、ユウくんは私の手を引い[r]
-て、暗い中をどんどん歩いていく。[pcms]
+Ignoring what I said, Yuu-kun kept walking further into the[r]
+darkness, pulling me along.[pcms]
 
 *15425|
 [fc]
-暗くてよく見えなくなってるせいか、私は自分の聴覚[r]
-や触覚が、やけに鋭くなっている気がしていた。[pcms]
+Perhaps because it was so dark and hard to see, I felt like[r]
+my hearing and sense of touch had become unusually sharp.[pcms]
 
 *15426|
 [fc]
-その証拠に、ユウくんの荒くなった息づかいや、掌が[r]
-随分熱くなっているのに私は気が付いた。[pcms]
+As proof of that, I noticed that Yuu-kun's breathing had[r]
+become rough and his palm was quite hot.[pcms]
 
 *15427|
 [fc]
 [vo_anz s="anzai0250"]
-[ns]みき[nse]
-「ちょっとまって、ユウくん！」[pcms]
+[ns]Mikki[nse]
+"Wait a minute, Yuu-kun!"[pcms]
 
 *15428|
 [fc]
-手を引いて立ち止まらせ、自分の方に向かせた私は、[r]
-少し身を屈めて、掌を彼の額に当てた。[pcms]
+Stopping him by pulling on his hand and turning him towards[r]
+me, I bent down slightly and placed my palm on his forehead.[pcms]
 
 *15429|
 [fc]
-やっぱり……。[r]
-かなりねつがあるわ、このこ……。[r]
-えいがかんのクーラーで、ひえたせいかしら……。[pcms]
+Just as I thought... He's got quite a fever. Maybe it's[r]
+because of the cooler in the movie theater...[pcms]
 
 *15430|
 [fc]
 [vo_anz s="anzai0251"]
-[ns]みき[nse]
-「んっ……！」[pcms]
+[ns]Mikki[nse]
+"Nnh...!"[pcms]
 
 ;//♪：bgm012 stop
 [fadeoutbgm time=1][wb]
@@ -428,117 +417,120 @@
 
 *15431|
 [fc]
-急に、身を屈めていた私の首を掴み、顔を引き寄せて、[r]
-彼は唇を重ねてきた。[pcms]
+Suddenly, the small man who had grabbed my neck while I was[r]
+bent over pulled my face towards his and pressed his lips[r]
+against mine.[pcms]
 
 *15432|
 [fc]
-克也以外の唇が自分に重ねられたことに怒りを感じて、[r]
-私は目の前の小男を突き飛ばした。[pcms]
+Feeling anger at having someone else's lips pressed against[r]
+mine other than Katsuya's, I pushed the small man in front[r]
+of me away.[pcms]
 
 *15433|
 [fc]
 [vo_anz s="anzai0252"]
-[ns]みき[nse]
-「なにするのよっ！！　わたしのからだはぜんぶ、[r]
-　かつやの、ものなのよ！！」[pcms]
+[ns]Mikki[nse]
+"What are you doing?! My body belongs entirely to Katsuya!!"[pcms]
 
 [ChrSetEx layer=4 chbase="koba_n01"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *15434|
 [fc]
 [vo_kob s="koba0293"]
-[ns]小林[nse]
-「エヘッ♪」[pcms]
+[ns]Kobayashi[nse]
+"Eheh♪"[pcms]
 
 *15435|
 [fc]
-まるで悪びれもせず、克也の為の唇を奪った小男は、[r]
-私に飛びかかってきた。[pcms]
+Without any sign of remorse for stealing the lips meant for[r]
+Katsuya, the small man lunged at me.[pcms]
 
 *15436|
 [fc]
 [vo_anz s="anzai0253"]
-[ns]みき[nse]
-「ちょっ、やめてよっ！！」[pcms]
+[ns]Mikki[nse]
+"Stop, stop it!!"[pcms]
 
 [ChrSetEx layer=4 chbase="koba_n02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *15437|
 [fc]
 [vo_kob s="koba0294"]
-[ns]小林[nse]
-「ウフフッ……♪　クスクス……♪」[pcms]
+[ns]Kobayashi[nse]
+"Ufufu...♪ Teehee...♪"[pcms]
 
 *15438|
 [fc]
-服を掴まれては突き飛ばし、を小男と繰り返す内に、[r]
-私の服がどんどん破れ、引き裂かれていく。[pcms]
+As I pushed away and struggled with the small man, my[r]
+clothes were gradually torn and ripped apart.[pcms]
 
 *15439|
 [fc]
 [vo_anz s="anzai0254"]
-[ns]みき[nse]
-「いやっ、やめてっ！！」[pcms]
+[ns]Mikki[nse]
+"No, stop it!!"[pcms]
 
 [ChrSetEx layer=4 chbase="koba_n08"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *15440|
 [fc]
 [vo_kob s="koba0295"]
-[ns]小林[nse]
-「えいっ！」[pcms]
+[ns]Kobayashi[nse]
+"Ei!"[pcms]
 
 *15441|
 [fc]
-途中で小男は腰に抱きつき、引き剥がそうとするのを[r]
-ものともせず、自分もろとも、私を床に横倒しにした。[pcms]
+In the midst of it all, the small man clung to my waist and,[r]
+undeterred by my attempts to shake him off, brought us both[r]
+to the floor together.[pcms]
 
 [quake_bg 元time=1000 xy m]
 
 *15442|
 [fc]
 [vo_anz s="anzai0255"]
-[ns]みき[nse]
-「ぐうぅっ……！」[pcms]
+[ns]Mikki[nse]
+"Guuh...!"[pcms]
 
 [ChrSetEx layer=4 chbase="koba_n09"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *15443|
 [fc]
 [vo_kob s="koba0296"]
-[ns]小林[nse]
-「はぁっ……！　はぁっ……！」[pcms]
+[ns]Kobayashi[nse]
+"Haah...! Haah...!"[pcms]
 
 *15444|
 [fc]
-床に体を打ち付けられて、痛みに呻く私を俯せにさせ、[r]
-覆い被さり、下着に手をかけてきた。[pcms]
+Thrown onto the floor and groaning in pain, he turned me[r]
+face down, climbed on top of me, and reached for my[r]
+underwear.[pcms]
 
 *15445|
 [fc]
 [vo_anz s="anzai0256"]
-[ns]みき[nse]
-「いやっ、やめなさい！！」[pcms]
+[ns]Mikki[nse]
+"No, stop that!!"[pcms]
 
 [ChrSetEx layer=4 chbase="koba_n02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *15446|
 [fc]
 [vo_kob s="koba0297"]
-[ns]小林[nse]
-「だってぇ～～ぱんつ、じゃまなんだも～ん……♪」[pcms]
+[ns]Kobayashi[nse]
+"But your panties are in the way...♪"[pcms]
 
 *15447|
 [fc]
 [vo_anz s="anzai0257"]
-[ns]みき[nse]
-「いやぁっ！！」[pcms]
+[ns]Mikki[nse]
+"No!!"[pcms]
 
 *15448|
 [fc]
-小柄でも男だからか、小男は凄い力で強引に下着を[r]
-引きちぎり、私のおまんこを露わにした。[pcms]
+Despite being small, the man had incredible strength and[r]
+forcibly tore off my panties, exposing my pussy.[pcms]
 
 ;//SE：ベルトを外す音（？）
 
@@ -547,42 +539,42 @@
 *15449|
 [fc]
 [vo_anz s="anzai0258"]
-[ns]みき[nse]
-「ちょ、ちょっと……なにをするつもりなの……！？」[pcms]
+[ns]Mikki[nse]
+"Wait, what are you planning to do...!?"[pcms]
 
 [ChrSetEx layer=4 chbase="koba_n01"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *15450|
 [fc]
 [vo_kob s="koba0298"]
-[ns]小林[nse]
-「クスクス……♪」[pcms]
+[ns]Kobayashi[nse]
+"Teehee...♪"[pcms]
 
 *15451|
 [fc]
-ベルトを外す音が聞こえると、太腿の間に、小男の[r]
-おちんちんが入り込んでくるのを感じた。[pcms]
+As I heard the sound of a belt being undone, I felt his cock[r]
+slide between my thighs.[pcms]
 
 *15452|
 [fc]
-克也以外のおちんちんを受け入れることなど、絶対に[r]
-認められない私は、小男を拒もうと、覆い被さられて、[r]
-押さえつけられた体を、必死に動かしてもがいた。[pcms]
+Refusing to accept any cock other than Katsuya's, I[r]
+desperately tried to push away the small man who was on top[r]
+of me and pinning me down.[pcms]
 
 [ChrSetEx layer=4 chbase="koba_n02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *15453|
 [fc]
 [vo_kob s="koba0299"]
-[ns]小林[nse]
-「はぁっ……うごいたら、はいらないよぅ～……クス[r]
-　クス……ほらぁ、はいらないってばぁ～……♪」[pcms]
+[ns]Kobayashi[nse]
+"Haah... if you move, it won't go in... Teehee... see, it[r]
+won't go in...♪"[pcms]
 
 *15454|
 [fc]
 [vo_anz s="anzai0259"]
-[ns]みき[nse]
-「や、めっ……！！　はなれなさいっ！！」[pcms]
+[ns]Mikki[nse]
+"Stop...!! Get off me!!"[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 ;//BG表示（照明が点く）
@@ -592,14 +584,15 @@
 *15455|
 [fc]
 [vo_anz s="anzai0260"]
-[ns]みき[nse]
-「うっ……！！」[pcms]
+[ns]Mikki[nse]
+"Ugh...!!"[pcms]
 
 *15456|
 [fc]
-小男と揉み合っている最中に、突然、館内に照明の光[r]
-が戻って、暗さに慣れ始めていた私は、眩しさに目を[r]
-細め、天井から顔を背けた。[pcms]
+In the midst of struggling with the small man, suddenly the[r]
+lights in the building came back on, and as my eyes had just[r]
+started to adjust to the darkness, I squinted at the[r]
+brightness and turned my face away from the ceiling.[pcms]
 
 ;//♪：bgm005 fadeout
 [fadeoutbgm time=1000]
@@ -608,10 +601,10 @@
 
 [jump storage="westtown_zap_20370.ks" target=*westtown_zap_20370_TOP]
 
-;//－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+;//
 
 ;//■ブロック２０３６０：『欠番』
 
 ;//このブロックは欠番
 
-;//－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+;//

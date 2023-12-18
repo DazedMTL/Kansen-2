@@ -46,28 +46,28 @@
 *8241|
 [fc]
 [vo_mob s="madeA0028"]
-[ns]ƒƒCƒh‚`[nse]
-u”æ‚ê‚½S‚ğƒƒCƒh‚ÌÎŠç‚Å–ü‚µ‚Ü‚Ÿ`‚·ôv[pcms]
+[ns]Maid A[nse]
+"I'll soothe your weary heart with a maid's smileô"[pcms]
 ;//˜^‚é•K—v‚È‚µiƒuƒƒbƒN‚O‚T‚O‚Q‚Q‚Ì‚à‚Ì‚ğ—¬—pj
 
 *8242|
 [fc]
-‚ [AƒŠ[ƒ}ƒ“‘‚¦‚Ä‚«‚½‚È[ccB[r]
-‚P‚W‚P‚T•ª‚©A‚»‚ë‚»‚ë–ß‚ë‚¤‚Á‚ÆccB[pcms]
+Ah, the number of salarymen is increasing... It's 6:15 PM,[r]
+time to head back...[pcms]
 
 ;êŠ<ImageFade 6,60,OFF,OFF>
 
 *8243|
 [fc]
 [vo_mob s="madeA0029"]
-[ns]ƒƒCƒh‚`[nse]
-u‚ñ‚ñ``‚ÁI@‚Í‚Ÿ‚Áccv[pcms]
+[ns]Maid A[nse]
+"Mmm~~~! Haa..."[pcms]
 ;//ƒmƒr¨‘§‚ğ“f‚­
 
 *8244|
 [fc]
-—[Ä‚¯ƒLƒŒ[ccB[r]
-µ—[Õ‚è‚à°‚ê‚ê‚Î‚¢‚¢‚¯‚Ç‚È[ccB[pcms]
+The sunset is beautiful... I hope it's clear for the[r]
+Tanabata Festival...[pcms]
 
 ;//ôF‚O‚P‚O_Paradise.@ƒtƒF[ƒhƒAƒEƒg
 [sysbt_meswin clear]
@@ -110,4 +110,4 @@
 
 [jump storage="prologue_zap05071.ks" target=*prologue_zap05071_TOP]
 
-;//||||||||||||||||||||||||||||||||||||||||
+;//

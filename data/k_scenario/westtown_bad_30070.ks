@@ -22,121 +22,114 @@
 
 *9183|
 [fc]
-何人もの人間達と一緒に長い通路を歩き、建物の中ら[r]
-しいトコに出てきたけど、そこに興味をひかれるもの[r]
-はなんにも無かった。[pcms]
+I walked down a long corridor with a number of people and[r]
+came out into what seemed to be the inside of a building,[r]
+but there was nothing there that caught my interest.[pcms]
 
 *9184|
 [fc]
-[ns]大倉[nse]
-「あ゛ぁ～～……？」[pcms]
+[ns]Ookura[nse]
+"Ahh...?"[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
 *9185|
 [fc]
-なんだ……？[r]
-なんにもねーじゃねーかよ……。[r]
-つまんねー……。[pcms]
+What's this...? There's nothing here. How boring...[pcms]
 
 *9186|
 [fc]
-周りを見回しながら歩き続けてるうち、俺は途中で[r]
-菓子が置いてあるのを見つけた。[pcms]
+As I continued to walk around looking, I found some sweets[r]
+placed along the way.[pcms]
 
 *9187|
 [fc]
-[ns]大倉[nse]
-「な゛んた゛ぁ～～……ちゃん゛と、くい゛も゛ん、[r]
-　ある゛し゛ゃね゛ぇかよお゛ぉ～～～……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"What's this... there's actually food here..."[pcms]
 
 *9188|
 [fc]
-置いてあるモノを幾つか適当に取り、袋を破って、[r]
-口に流し込む。[pcms]
+I picked up a few things at random, tore open the bags, and[r]
+poured them into my mouth.[pcms]
 
 *9189|
 [fc]
-[ns]大倉[nse]
-「んん～～うめぇ～～……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Mmm~ Delicious~..."[pcms]
 
 *9190|
 [fc]
-だいぶ腹が減ってた俺は、次々に菓子を手に取って、[r]
-袋を破り、フタを開け、口に放り込んでいった。[pcms]
+I was quite hungry, so I grabbed sweets one after another,[r]
+tearing open the bags, lifting the lids, and tossing them[r]
+into my mouth.[pcms]
 
 *9191|
 [fc]
-[ns]大倉[nse]
-「んむ……むく゛……んく゛……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Nmm... muku... nng..."[pcms]
 
 *9192|
 [fc]
 [vo_hay s="hayami0913"]
 [ns]？？？[nse]
-「ながさきさん、まって！！　ながさきさんっ！！」[pcms]
+"Wait, Nagasaki-san! Wait, Nagasaki-san!!"[pcms]
 ;//◎速水の声・遠くから
 
 *9193|
 [fc]
-[ns]大倉[nse]
-「ん゛ん～～……？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Hmm...?"[pcms]
 
 *9194|
 [fc]
-おんなのこえ……？[r]
-どこ……？[r]
-どこにいんだ？　おんな……。[pcms]
+A girl's voice...? Where...? Where is she? The girl...[pcms]
 
 *9195|
 [fc]
 [vo_hay s="hayami0914"]
 [ns]？？？[nse]
-「まって！！　まってぇっ！！」[pcms]
+"Wait!! Wait!!"[pcms]
 ;//◎速水の声・遠くから
 
 *9196|
 [fc]
-[ns]大倉[nse]
-「んん゛～～……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Hmm..."[pcms]
 
 *9197|
 [fc]
-聞こえてくる女の声に誘われるように、俺はすぐ傍の[r]
-エスカレーターに近づいた。[pcms]
+Drawn by the sound of the woman's voice, I approached the[r]
+escalator right beside me.[pcms]
 
 *9198|
 [fc]
 [vo_hay s="hayami0915"]
 [ns]？？？[nse]
-「まってぇっ！！　たすけてえぇっ！！」[pcms]
+"Wait!! Help me!!"[pcms]
 
 *9199|
 [fc]
-このうえから、きこえてくる……。[r]
-このうえに、おんながいる……。[pcms]
+It's coming from above... There's a woman above...[pcms]
 
 *9200|
 [fc]
-エスカレーターの上にいるらしい女の声を聞いてると、[r]
-俺はチンコがムズムズしてくるのを感じた。[pcms]
+Hearing the woman's voice that seemed to be coming from[r]
+above on the escalator, I felt my dick start to tingle.[pcms]
 
 *9201|
 [fc]
-おんな……。[r]
-おんなの、おまんこにいれなきゃ……。[r]
-このむずむずは、なおらねー……。[pcms]
+The woman... I have to put it in a woman's pussy... This[r]
+tingling won't go away otherwise...[pcms]
 
 *9202|
 [fc]
-上にあるらしいオマンコを求めて、[r]
-俺はエスカレーターを上り始めた。[pcms]
+Seeking the pussy that seemed to be above, I began to ascend[r]
+the escalator.[pcms]
 
 *9203|
 [fc]
-[ns]大倉[nse]
-「おま゛ん゛こぉ～～……[r]
-　お゛まんこ、と゛こた゛あ゛ぁ～～～……っ！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Pussy~... Where's the pussy~...?!"[pcms]
 
 ;//[]SE：転がり落ちる音（？）
 [se0 storage="SE27"]
@@ -147,26 +140,23 @@
 [fc]
 [vo_nag s="nagasaki0382"]
 [ns]？？？[nse]
-「う゛あぁっ！！　く゛ぁっ、か゛っ！！[r]
-　あく゛っ！！　ふ゛く゛うぅううぅっ！！」[pcms]
+"Ugh!! Gah, gasp!! Ack!! Fughuuuu!!"[pcms]
 
 [quake_bg 元time=200 xy m]
 
 *9205|
 [fc]
-３分の１ぐらい上ったところで、人間が１人、[r]
-隣のエスカレーターを転げ落ちていった。[pcms]
+About a third of the way up, a person fell tumbling down the[r]
+adjacent escalator.[pcms]
 
 *9206|
 [fc]
-なにしてんだ？　あれ……。[r]
-あぁいう、あそびなのか……？[pcms]
+What are they doing? That... Is it some kind of game...?[pcms]
 
 *9207|
 [fc]
-多分、ここではあの遊びが流行ってるんだろうと、[r]
-俺はそれ以上気にしないで、エスカレーターを上り[r]
-続けた。[pcms]
+Probably that game is popular here, so without paying it any[r]
+more mind, I continued to climb the escalator.[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
@@ -175,4 +165,4 @@
 
 [jump storage="westtown_bad_30080.ks" target=*westtown_bad_30080_TOP]
 
-;//－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+;//

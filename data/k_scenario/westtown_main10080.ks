@@ -23,84 +23,85 @@
 
 *10437|
 [fc]
-左手にエスカレーター、右斜め前に階段が見える位置[r]
-に、俺らは辿り着いた。[pcms]
+We arrived at a spot where we could see the escalator on our[r]
+left and the stairs diagonally in front of us.[pcms]
 
 *10438|
 [fc]
-[ns]大倉[nse]
-「フーッ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Phew..."[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
 *10439|
 [fc]
-さっき隠れた店から、たいした距離を歩いてきたワケ[r]
-じゃないのに、俺の呼吸は少し荒くなっていた。[pcms]
+Even though we hadn't walked a significant distance from the[r]
+store we were hiding in, my breathing had become a bit[r]
+rough.[pcms]
 
 *10440|
 [fc]
-イカレ野郎がいつ、どこから出てくるかわからない今[r]
-の状況は、一瞬でも気を抜くことができなくて、精神[r]
-的にかなりのプレッシャーだった。[pcms]
+The current situation, where we didn't know when or from[r]
+where the crazed guy might appear, didn't allow for a[r]
+moment's lapse in attention, and it was putting a lot of[r]
+mental pressure on me.[pcms]
 
 *10441|
 [fc]
-クソ……。[r]
-いったいどうなってんだ……。[r]
-俺ら以外に、まともなヤツはいねーのか……？[pcms]
+Damn... What the hell is going on...? Is there no one else[r]
+around who's sane...?[pcms]
 
 *10442|
 [fc]
-エスカレーターの乗り口に近づき、２階を見上げてみ[r]
-ると、もう一つのエスカレーターと同じように、[r]
-そこにもヒトが折り重なって倒れていた。[pcms]
+As we approached the entrance to the escalator and looked up[r]
+to the second floor, we saw people collapsed on top of each[r]
+other, just like on the other escalator.[pcms]
 
 *10443|
 [fc]
-辺りに充満している臭いも同じで、吐き気のする、ヒ[r]
-ドイものだった。[pcms]
+The smell that filled the area was the same, a terrible one[r]
+that made me feel nauseous.[pcms]
 
 *10444|
 [fc]
-これじゃ、こっちのエスカレーターも使えねーな……。[pcms]
+This means we can't use this escalator either...[pcms]
 
 *10445|
 [fc]
-[ns]大倉[nse]
-「にしても……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"But still..."[pcms]
 
 *10446|
 [fc]
-この辺りから気味の悪い声がしていたはずだけど、エ[r]
-スカレーターの上にも、周りを見回しても、見える所[r]
-には誰もいない。[pcms]
+I was sure I had heard creepy voices around here, but[r]
+looking up the escalator and around, there was no one in[r]
+sight.[pcms]
 
 *10447|
 [fc]
-エスカレーターの近くにヤツらがいないってことは、[r]
-あの声は階段の方からしてたのか……？[pcms]
+Does the absence of them near the escalator mean that those[r]
+voices were coming from the direction of the stairs...?[pcms]
 
 *10448|
 [fc]
-[ns]ジョン[nse]
-「ウォンウォンッ！！　ウォンッ！！　ウォンッ！！」[pcms]
+[ns]John[nse]
+"Woof woof!! Woof!! Woof!!"[pcms]
 
 *10449|
 [fc]
-様子を見に行こうと、階段の方へ歩きだした俺は、エ[r]
-スカレーターの上を睨んで吠えだしたハスキーに足を[r]
-止めた。[pcms]
+As I started walking towards the stairs to check it out, I[r]
+stopped in my tracks when a husky started barking fiercely[r]
+at something above the escalator.[pcms]
 
 *10450|
 [fc]
-[ns]大倉[nse]
-「……？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"...?"[pcms]
 
 *10451|
 [fc]
-俺は、なにが音を出したのかを見て、とうとう自分ま[r]
-でイカレてしまったんだと思った。[pcms]
+I looked at what was making the noise and thought that I[r]
+must have finally gone crazy myself.[pcms]
 
 ;//♪：bgm005 stop
 [fadeoutbgm time=1][wb]
@@ -111,25 +112,24 @@
 
 *10452|
 [fc]
-[ns]クールビズの男[nse]
-「あ゛あぁ～～……う゛おぉぅ～～あ゛ぁ～～……」[pcms]
+[ns]Cool Biz Man[nse]
+"Aaah~... Uooh~... Aaah~..."[pcms]
 
 *10453|
 [fc]
-[ns]大倉[nse]
-「……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"..."[pcms]
 
 *10454|
 [fc]
-エスカレーターの２階の降り口辺りに倒れていた、死[r]
-んでいると思っていたひとがムクッと体を起こし、エ[r]
-スカレーターを下り始めたからだった。[pcms]
+It was because a person who I thought was dead near the[r]
+second-floor exit of the escalator suddenly sat up and[r]
+started descending.[pcms]
 
 *10455|
 [fc]
-さっきの声はコイツか……？[r]
-でも、なんで……。[r]
-なんで死んだヤツが動いてんだ……！？[pcms]
+Was it this guy who made those voices earlier...? But[r]
+why...? Why is someone who's dead moving...!?[pcms]
 
 [cutin_int][trans_c cross time=300]
 [ChrSetEx layer=4 chbase="koba_n14"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -137,8 +137,8 @@
 *10456|
 [fc]
 [vo_kob s="koba0154"]
-[ns]小林[nse]
-「え、あれ……？　どうなってるの？　これ……」[pcms]
+[ns]Kobayashi[nse]
+"Eh, what...? What's happening? This..."[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
@@ -151,9 +151,9 @@
 
 *10457|
 [fc]
-状況がうまく理解できなくてキョトンとしている俺ら[r]
-をよそに、１人、また１人と倒れていた人間が起き上[r]
-がって、エスカレーターを下り始めた。[pcms]
+While we were still confused and unable to fully grasp the[r]
+situation, one by one, the people who had been lying down[r]
+began to rise and start descending the escalator.[pcms]
 
 
 [cutin storage="cut005"][trans_c cross time=500]
@@ -168,64 +168,63 @@
 *10458|
 [fc]
 [vo_may s="maya0070"]
-[ns]お嬢様[nse]
-「お祖父、様……」[pcms]
+[ns]Young Lady[nse]
+"Grandfather, sir..."[pcms]
 
 *10459|
 [fc]
-お嬢様はブツブツとなにかをつぶやき、青い顔をして、[r]
-ヤツらが１階へ向かって下りてくるのを見つめている。[pcms]
+The young lady muttered something under her breath with a[r]
+pale face, watching them descend towards the first floor.[pcms]
 
 *10460|
 [fc]
-[ns]大倉[nse]
-「しっかりしろ、逃げるぞ！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Pull yourself together, we're going to run!"[pcms]
 
 [chara_int_ layer=2][chara_int_ layer=3][trans_c cross time=150]
 
 *10461|
 [fc]
-俺は後ずさりしながら、突っ立ったまま動こうとしな[r]
-いお嬢様の腕を引き、どこへ逃げるかを考えていた。[pcms]
+While backing away, I grabbed the arm of the young lady who[r]
+stood frozen and started thinking about where to escape.[pcms]
 
 *10462|
 [fc]
-この辺から聞こえていた声は、多分コイツらのだ……。[r]
-だから、すぐそこの階段には、イカレ野郎はいないは[r]
-ず……。[pcms]
+The voices we heard from this area were probably theirs...[r]
+So there shouldn't be any crazed guys near those stairs[r]
+right there...[pcms]
 
 *10463|
 [fc]
-でも、確かめたワケじゃない……。[r]
-そこの階段にも、イカレ野郎がいるかもしれない……。[pcms]
+But I haven't checked... There might be crazed guys on those[r]
+stairs too...[pcms]
 
 *10464|
 [fc]
-なら、もう一つの階段か……？[r]
-けど、下着売り場でやり過ごしたヤツらが、あっちの[r]
-階段に行ってるかもしれない……。[pcms]
+Then, what about the other staircase...? But the ones we[r]
+avoided in the underwear department might have gone to that[r]
+staircase...[pcms]
 
 *10465|
 [fc]
-[ns]大倉[nse]
-「クソ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Damn..."[pcms]
 
 *10466|
 [fc]
-エスカレーターでは、一番最初に起き上がったヤツが、[r]
-あと２，３歩で１階に辿り着こうとしていた。[pcms]
+On the escalator, the first one who got up was about two or[r]
+three steps away from reaching the first floor.[pcms]
 
 ;//バッドエンド救済ポイント2
 ;AutoSave 2
 
 *10467|
 [fc]
-どっちだ……。[r]
-どっちの階段を使えば……！！[pcms]
+Which way...? Which staircase should we use...!![pcms]
 
 ;//継続
 ;//音楽止める
 
 [jump storage="westtown_main10090.ks" target=*westtown_main10090_TOP]
 
-;//－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+;//

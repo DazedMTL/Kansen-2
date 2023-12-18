@@ -24,377 +24,362 @@
 *14014|
 [fc]
 [vo_nag s="nagasaki0187"]
-[ns]千尋[nse]
-「これなら、何とか隠れられそうね……」[pcms]
+[ns]Chihiro[nse]
+"We might be able to hide here..."[pcms]
 
 *14015|
 [fc]
-あたしと長崎さんは、フランスのお姫様が眠るような[r]
-天蓋付きの大きなベッドを見つけ、[r]
-それに潜り込むことにした。[pcms]
+Nagasaki-san and I found a large canopy bed fit for a French[r]
+princess and decided to crawl into it.[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
 *14016|
 [fc]
-こういったベッドで眠る事は、確かに憧れではあった。[pcms]
+Sleeping in such a bed was certainly something I had longed[r]
+for.[pcms]
 
 *14017|
 [fc]
-そう。[r]
-こんな事に巻き込まれてさえいなければ。[pcms]
+Yes, if only I hadn't been caught up in this mess.[pcms]
 
 *14018|
 [fc]
-今はただ、何か訳の分からない状況で、[r]
-訳の分からない人達に追いかけられて、[r]
-やむ終えず逃げ込む事になってしまっている。[pcms]
+Now, I'm just inexplicably being chased by people I don't[r]
+understand, forced to hide out of necessity.[pcms]
 
 *14019|
 [fc]
 [vo_nag s="nagasaki0188"]
-[ns]千尋[nse]
-「さ……早く隠れましょう……」[pcms]
+[ns]Chihiro[nse]
+"Come on... let's hide quickly..."[pcms]
 
 *14020|
 [fc]
 [vo_hay s="hayami0381"]
-[ns]ありす[nse]
-「こんなの、初めてよ……」[pcms]
+[ns]Arisu[nse]
+"This is my first time experiencing something like this..."[pcms]
 ;//◎落ち込んで
 
 *14021|
 [fc]
-震える足を無理に動かして、[r]
-お店の中のベッドに、潜り込む。[pcms]
+Forcing my trembling legs to move, I crawled into the bed[r]
+inside the shop.[pcms]
 
 *14022|
 [fc]
-あたしは、人をこの手で殺してしまったかもしれない。[r]
-そう考えると、体の震えはいっそう大きくなっていく。[pcms]
+I might have killed someone with my own hands. The more I[r]
+think about it, the more my body shakes.[pcms]
 
 [ChrSetEx layer=4 chbase="naga_n01"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *14023|
 [fc]
 [vo_nag s="nagasaki0189"]
-[ns]千尋[nse]
-「震えてるわ……。落ち着いて……」[pcms]
+[ns]Chihiro[nse]
+"I'm shaking... Calm down..."[pcms]
 
 *14024|
 [fc]
 [vo_hay s="hayami0382"]
-[ns]ありす[nse]
-「……」[pcms]
+[ns]Alice[nse]
+"..."[pcms]
 
 *14025|
 [fc]
-あたしを抱きしめ、落ち着かせてくれようとしている[r]
-長崎さんをはねのけ、出来るだけくっつかないように、[r]
-背を向けて、シーツを頭から被った。[pcms]
+Pushing away Nagasaki-san, who was trying to embrace and[r]
+calm me down, I turned my back to her and covered my head[r]
+with the sheets.[pcms]
 
 [ChrSetEx layer=4 chbase="naga_n05"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *14026|
 [fc]
 [vo_nag s="nagasaki0190"]
-[ns]千尋[nse]
-「ありすさん……」[pcms]
+[ns]Chihiro[nse]
+"Arisu-san..."[pcms]
 
 *14027|
 [fc]
 [vo_hay s="hayami0383"]
-[ns]ありす[nse]
-「ごめんなさい……、今は……ほっといて……。[r]
-　あたしに構わないで……」[pcms]
+[ns]Arisu[nse]
+"I'm sorry... just leave me alone for now... Don't worry[r]
+about me..."[pcms]
 
 *14028|
 [fc]
 [vo_nag s="nagasaki0191"]
-[ns]千尋[nse]
-「……」[pcms]
+[ns]Chihiro[nse]
+"..."[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *14029|
 [fc]
-長崎さんは、あたしの気持ちを察してくれたのか、[r]
-それっきり何も話しかけては来なかった。[pcms]
+Nagasaki-san seemed to understand how I felt and didn't[r]
+speak to me after that.[pcms]
 
 *14030|
 [fc]
-せっかくあたしに気を遣ってくれているのに……。[r]
-ホント、ごめんなさい……。[pcms]
+I'm really sorry for being so concerned about me...[pcms]
 
 *14031|
 [fc]
 [vo_hay s="hayami0384"]
-[ns]ありす[nse]
-「……」[pcms]
+[ns]Alice[nse]
+"..."[pcms]
 
 *14032|
 [fc]
-あたし、なんて事しちゃったんだろう……。[pcms]
+What have I done...?[pcms]
 
 *14033|
 [fc]
-頭の中で、不安が膨らんでいく。[r]
-その気持ちに押し潰されそうなあたしは、[r]
-別の事を考えて、それを誤魔化すことにした。[pcms]
+Anxiety swells in my mind. Feeling overwhelmed by it, I try[r]
+to think of something else to distract myself.[pcms]
 
 *14034|
 [fc]
-でも、いくら頭をひねっても、その不安を消す事は[r]
-できなかった。[pcms]
+But no matter how hard I rack my brain, I can't dispel the[r]
+anxiety.[pcms]
 
 *14035|
 [fc]
-『これが、夢なら』[pcms]
+"If only this were a dream"[pcms]
 
 *14036|
 [fc]
-そう願うけど、これは現実。[pcms]
+But this is reality.[pcms]
 
 *14037|
 [fc]
-せっかく楽しみにしていた旅行が……。[r]
-なんでこんな事になっちゃったんだろう……。[r]
-あたし、何も悪いことしてなんか無いのに……。[pcms]
+The trip I was looking forward to... Why did it turn out[r]
+like this...? I haven't done anything wrong...[pcms]
 
 *14038|
 [fc]
-お母さんに悪口を言ったせい？[r]
-それとも、勉強しなかったから？[pcms]
+Is it because I spoke ill of my mother? Or because I didn't[r]
+study?[pcms]
 
 *14039|
 [fc]
-ヒロシをからかったりしたから……？[pcms]
+Or because I teased Hiroshi...?[pcms]
 
 *14040|
 [fc]
-…………。[r]
-そんな事のせいじゃない。[pcms]
+... No, it's not because of that.[pcms]
 
 *14041|
 [fc]
-なにより、あたしだけじゃなくて、[r]
-現に長崎さんだって、こんな事に巻き込まれている。[pcms]
+Above all, it's not just me; Nagasaki-san is also caught up[r]
+in this.[pcms]
 
 *14042|
 [fc]
-街の中の人達や、さっきの男の人達みたいに[r]
-なっていないだけ、まだあたし達はマシなのかな。[pcms]
+We're still better off than the people in town or those men[r]
+from earlier, aren't we?[pcms]
 
 *14043|
 [fc]
-でも、なんであんな風にみんないっぺんに……？[r]
-何かの病気なのかな……伝染病とか……。[pcms]
+But why did everyone suddenly become like that? Could it be[r]
+some kind of disease... an epidemic...?[pcms]
 
 *14044|
 [fc]
-バスの中で見た光と揺れの後、こんな風になった。[r]
-アレが原因なのかな……。[pcms]
+It all started after the light and shaking we saw on the[r]
+bus. Could that be the cause...?[pcms]
 
 *14045|
 [fc]
-だとしたら、やっぱり……あたし達も……。[r]
-あのおかしな人達みたいに……！？[pcms]
+If that's the case, then maybe... we too... will become like[r]
+those strange people...!?[pcms]
 
 *14046|
 [fc]
-今はまだ何ともないけど……。[r]
-時間が経ったら、あたし達も……！？[pcms]
+We're fine for now... But what if, over time, we also...!?[pcms]
 
 *14047|
 [fc]
-『自分も、ああなってしまう』[pcms]
+"To become like them..."[pcms]
 
 *14048|
 [fc]
-その恐怖が全身を駆けめぐる。[pcms]
+The fear races through my entire body.[pcms]
 
 *14049|
 [fc]
-見境なく人を襲い、街の中だっていうのに、[r]
-裸で、セックスをするような。[pcms]
+To attack people indiscriminately, and to have sex naked in[r]
+the middle of the city...[pcms]
 
 *14050|
 [fc]
-あたしも、あんな風になってしまうんじゃないか、[r]
-そう思うと、背筋が寒くなる。[pcms]
+The thought of becoming like that sends chills down my[r]
+spine.[pcms]
 
 *14051|
 [fc]
 [vo_hay s="hayami0385"]
-[ns]ありす[nse]
-「いやだ……そんなのイヤだよ……」[pcms]
+[ns]Alice[nse]
+"No... I don't want that..."[pcms]
 ;//◎独り言を呟く
 
 *14052|
 [fc]
-……もしかしたら、[r]
-長崎さんも急に変わっちゃったり……。[pcms]
+Maybe Nagasaki-san will suddenly change too...[pcms]
 
 *14053|
 [fc]
-ううん、そんな事は……。[r]
-そんな事はない……。[pcms]
+No, that can't be... That won't happen...[pcms]
 
 *14054|
 [fc]
-そう信じて、出来るだけ音を立てないように、[r]
-長崎さんの方へと振り返る。[pcms]
+Believing that, I turn towards Nagasaki-san as quietly as[r]
+possible.[pcms]
 
 *14055|
 [fc]
 [vo_hay s="hayami0386"]
-[ns]ありす[nse]
-「あっ……」[pcms]
+[ns]Alice[nse]
+"Ah..."[pcms]
 
 *14056|
 [fc]
-そこには、守ってあげると囁いた時のような、[r]
-優しい微笑みを浮かべる長崎さんの顔があった。[pcms]
+There was Nagasaki-san's face, with the gentle smile she had[r]
+when she whispered she would protect me.[pcms]
 
 [ChrSetEx layer=4 chbase="naga_n04"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *14057|
 [fc]
 [vo_nag s="nagasaki0192"]
-[ns]千尋[nse]
-「ふふっ……落ち着いた？」[pcms]
+[ns]Chihiro[nse]
+"Hehe... feeling better?"[pcms]
 
 *14058|
 [fc]
-この人は、大丈夫だ。[r]
-きっと、そうだ。[pcms]
+This person is okay. Surely, that must be the case.[pcms]
 
 *14059|
 [fc]
-ナイフで脅されていたあたしを、なりふり構わず[r]
-助けようとしてくれた。[pcms]
+She tried to help me desperately when I was threatened with[r]
+a knife.[pcms]
 
 *14060|
 [fc]
-でも……。[r]
-この人に、あんな所を舐められちゃった……。[pcms]
+But... She licked that place on me...[pcms]
 
 [ChrSetEx layer=4 chbase="naga_n05"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *14061|
 [fc]
 [vo_nag s="nagasaki0193"]
-[ns]千尋[nse]
-「……？」[pcms]
+[ns]Chihiro[nse]
+"…?"[pcms]
 
 *14062|
 [fc]
-そのことを思い出したせいでバツが悪くなったのと、[r]
-あたしを見つめる長崎さんの目に、何か得体のしれな[r]
-い、奇妙な光が宿っていたのが気になった。[pcms]
+The thought made me feel awkward, and I was concerned about[r]
+the strange, indescribable light dwelling in Nagasaki-san's[r]
+eyes as she looked at me.[pcms]
 
 *14063|
 [fc]
-あたしはその目が少し怖くなって、[r]
-体をひねり、またシーツを被った。[pcms]
+I became a little scared of those eyes and twisted my body,[r]
+covering myself with the sheets again.[pcms]
 
 *14064|
 [fc]
 [vo_hay s="hayami0387"]
-[ns]ありす[nse]
-「ごめんなさい……もう少し……、もう少しだけ、[r]
-　そっとしておいて……」[pcms]
+[ns]Alice[nse]
+"I'm sorry... just a little longer... please, leave me alone[r]
+a bit more..."[pcms]
 
 [ChrSetEx layer=4 chbase="naga_n04"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *14065|
 [fc]
 [vo_nag s="nagasaki0194"]
-[ns]千尋[nse]
-「うん……分かった……」[pcms]
+[ns]Chihiro[nse]
+"Yeah... I understand..."[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *14066|
 [fc]
-こうしてまた、あたしの視界には誰もいなくなった。[pcms]
+And so, once again, there was no one in my field of vision.[pcms]
 
 *14067|
 [fc]
 [vo_hay s="hayami0388"]
-[ns]ありす[nse]
-「……」[pcms]
+[ns]Alice[nse]
+"..."[pcms]
 
 *14068|
 [fc]
-こんな時、ヒロシがそばにいてくれたら、どれだけ[r]
-心強かったろう。[pcms]
+If Hiroshi were here with me, how reassuring that would be.[pcms]
 
 *14069|
 [fc]
-そう……ヒロシ……。[r]
-ヒロシは、今何をしてるんだろ……。[pcms]
+That's right... Hiroshi... What is he doing now, I wonder...[pcms]
 
 *14070|
 [fc]
-ユウも、あの背の小さい女の子も大丈夫かな……。[pcms]
+I hope Yuu and that short girl are okay...[pcms]
 
 *14071|
 [fc]
-そうだ、さっき電話が繋がったんだ。[r]
-また電話をしてみたら……。[pcms]
+That's right, the phone connected earlier. Maybe I should[r]
+try calling again...[pcms]
 
 *14072|
 [fc]
-ううん……。[r]
-潜んでる時に、電話なんてしちゃダメだ……。[r]
-声で、気づかれるかもしれない……。[pcms]
+No... It's not good to make a call while hiding. They might[r]
+notice me by my voice...[pcms]
 
 *14073|
 [fc]
-……！！[r]
-そうよ、メールを送れば……！[r]
-電話が通じるのなら、メールだって送れるはず。[pcms]
+...!! That's it, I can send an email! If the phone can get[r]
+through, then emails should be able to send as well.[pcms]
 
 *14074|
 [fc]
-こんな簡単な事に何で気が付かなかったんだろう。[r]
-メールなら、受信さえしてくれれば必ず読んでくれる。[pcms]
+Why didn't I think of something so simple before. If they[r]
+just receive the email, they will surely read it.[pcms]
 
 [cutin storage="BGS14"][trans_c cross time=500]
 
 *14075|
 [fc]
-そう考えたあたしは、早速お父さん、お母さんと、[r]
-そして、ヒロシにメールを送ることにした。[pcms]
+With that thought, I decided to immediately send emails to[r]
+my dad, mom, and then Hiroshi.[pcms]
 
 *14076|
 [fc]
-お母さん達には、自分が無事で有ることを簡単に。[pcms]
+To my parents, I sent a simple message that I was safe.[pcms]
 
 *14077|
 [fc]
-ヒロシには、あたしが無事だって事と、出来るだけ[r]
-心配をかけないように、明るめの調子のメールを[r]
-送る事にした。[pcms]
+To Hiroshi, I decided to send an email with a cheerful tone,[r]
+so as not to worry him too much, telling him that I'm safe.[pcms]
 
 *14078|
 [fc]
-〔Ｓｕｂ：そっちはどう？〕[pcms]
+{Sub:How's it going over there?}[pcms]
 
 *14079|
 [fc]
-〔こっちはまだヘーキ。心配しないでいいよ〕[pcms]
+{I'm still okay here. Don't worry about me}[pcms]
 
 *14080|
 [fc]
-〔助けにきてくれるの待ってるから、はやくきてね！〕[pcms]
+{I'm waiting for you to come rescue me, so hurry up and[r]
+come!}[pcms]
 
 *14081|
 [fc]
 [vo_hay s="hayami0389"]
-[ns]ありす[nse]
-「ヒロシ……気が付いてくれるかな……」[pcms]
+[ns]Arisu[nse]
+"Hiroshi... I wonder if he'll notice..."[pcms]
 ;//◎囁くように
 
 [cutin_int][trans_c cross time=300]
@@ -404,113 +389,108 @@
 *14082|
 [fc]
 [vo_nag s="nagasaki0195"]
-[ns]千尋[nse]
-「ヒロシ……？　あの、貴女を助けようとして、[r]
-　追いついて来れなかった男の事？[r]
-　あの人、貴女の彼氏なの……？」[pcms]
+[ns]Chihiro[nse]
+"Hiroshi...? Is that the guy who tried to save you and[r]
+couldn't keep up? Is he your boyfriend...?"[pcms]
 ;//◎残念そうに囁く
 
 *14083|
 [fc]
-いつのまにか、あたしのすぐそばで横になっていた[r]
-長崎さんが、急に声を掛けてきた。[pcms]
+Before I knew it, Nagasaki-san, who had been lying down next[r]
+to me, suddenly spoke up.[pcms]
 
 *14084|
 [fc]
 [vo_hay s="hayami0390"]
-[ns]ありす[nse]
-「え……！？」[pcms]
+[ns]Alice[nse]
+"Eh...!?"[pcms]
 
 *14085|
 [fc]
-彼氏……？[r]
-ヒロシが、あたしの彼氏？[pcms]
+Boyfriend...? Hiroshi is my boyfriend?[pcms]
 
 *14086|
 [fc]
-今日初めて会った人だからそんな風に見えても[r]
-仕方ないけど、あたしとヒロシは……。[r]
-恋人同士なんかじゃ、ない。[pcms]
+We only met today so it's understandable to see it that way,[r]
+but Hiroshi and I are... not lovers.[pcms]
 
 *14087|
 [fc]
 [vo_hay s="hayami0391"]
-[ns]ありす[nse]
-「ううん……ただの、仲の良い友達……。[r]
-　付き合ったりとか、そういうのは……ないよ……」[pcms]
+[ns]Arisu[nse]
+"No... just really good friends... There's nothing like[r]
+dating between us..."[pcms]
 
 *14088|
 [fc]
-そう。[r]
-あたしは、ヒロシの事はキライじゃない。[r]
-親友だ……って、そう思っている。[pcms]
+That's right. I don't dislike Hiroshi. He's a friend...[r]
+that's what I think.[pcms]
 
 *14089|
 [fc]
-ヒロシもきっと、そう。[r]
-あたしの事は、親友だって……。そう思っている。[pcms]
+Hiroshi probably thinks the same. That I am a friend...[r]
+That's what he thinks.[pcms]
 
 *14090|
 [fc]
 [vo_hay s="hayami0392"]
-[ns]ありす[nse]
-「でも、ホントはどうなんだろう……」[pcms]
+[ns]Arisu[nse]
+"But what is the real truth, I wonder..."[pcms]
 
 *14091|
 [fc]
-ユウもいるのに、あたしはヒロシにばかり[r]
-電話したり、メールしたり……。[pcms]
+Even though Yuu is here, why do I only call or email[r]
+Hiroshi...[pcms]
 
 *14092|
 [fc]
-あたしは、本当はヒロシの事が……！？[pcms]
+Do I actually have feelings for Hiroshi...!?[pcms]
 
 *14093|
 [fc]
 [vo_hay s="hayami0393"]
-[ns]ありす[nse]
-「ヒロシはあたしの事、どう思ってるんだろう……」[pcms]
+[ns]Alice[nse]
+"What does Hiroshi think of me, I wonder..."[pcms]
 
 *14094|
 [fc]
-分からない……。[pcms]
+I don't know...[pcms]
 
 *14095|
 [fc]
-直接聞いたことも無ければ、[r]
-それを意識した事もない。[pcms]
+I've never asked him directly, nor have I ever been[r]
+conscious of such things.[pcms]
 
 *14096|
 [fc]
-でも今は、もしかしたら……。[r]
-あたし……。[pcms]
+But now, maybe... I...[pcms]
 
 [ChrSetEx layer=4 chbase="naga_n04"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *14097|
 [fc]
 [vo_nag s="nagasaki0196"]
-[ns]千尋[nse]
-「ふふ……なんだか明るい声になったわ……。[r]
-　そっか……ふーん……」[pcms]
+[ns]Chihiro[nse]
+"Hehe... your voice has become brighter... So that's it...[r]
+hmm..."[pcms]
 ;//◎怒ったように、残念そうに。
 
 *14098|
 [fc]
-ヒロシの事を話しているあたしの声は、[r]
-なんだか明るくなっているらしい。[pcms]
+Talking about Hiroshi seems to have made my voice sound[r]
+brighter.[pcms]
 
 *14099|
 [fc]
-長崎さんにそう言われて、顔が熱くなっていくのを[r]
-感じた。[pcms]
+Having been told that by Nagasaki-san, I could feel my face[r]
+getting hotter.[pcms]
 
 *14100|
 [fc]
 [vo_hay s="hayami0394"]
-[ns]ありす[nse]
-「ち……違うよ……違う……。[r]
-　ホントに、仲が良いだけだよ……」[pcms]
+[ns]Arisu[nse]
+"No... it's not like that... It's not... Really, we're just[r]
+close friends..."[pcms]
 ;//◎慌てて否定
 
 [ChrSetEx layer=4 chbase="naga_n02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -518,61 +498,60 @@
 *14101|
 [fc]
 [vo_nag s="nagasaki0197"]
-[ns]千尋[nse]
-「そう……。そんな風に慌てるの、子供みたいで[r]
-　可愛いわね……。アタシはなんだか疲れたから、[r]
-　ちょっと休むわ……何かあったら、起こして……」[pcms]
+[ns]Chihiro[nse]
+"Is that so... You're panicking like a child, it's cute...[r]
+I'm a bit tired, so I'm going to rest for a bit... Wake me[r]
+if anything happens..."[pcms]
 
 [ChrSetEx layer=4 chbase="naga_n04"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *14102|
 [fc]
 [vo_nag s="nagasaki0198"]
-[ns]千尋[nse]
-「絶対、アタシが貴女を守ってみせるから……」[pcms]
+[ns]Chihiro[nse]
+"I will definitely protect you..."[pcms]
 
 *14103|
 [fc]
-…………？[pcms]
+...?[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *14104|
 [fc]
-長崎さんはもの凄く眠そうにあくびをしたあと、[r]
-あたしに背を向けて、そのまま静かになった。[pcms]
+Nagasaki-san yawned as if she was extremely sleepy and then[r]
+turned her back to me and became quiet.[pcms]
 
 *14105|
 [fc]
-この状態で、よく眠れるな……。[pcms]
+I wonder how she can sleep in this situation...[pcms]
 
 *14106|
 [fc]
 [vo_hay s="hayami0395"]
-[ns]ありす[nse]
-「ふうっ……」[pcms]
+[ns]Arisu[nse]
+"Phew..."[pcms]
 
 *14107|
 [fc]
-あたしもシーツにくるまって、横になることにした。[pcms]
+I also decided to lie down wrapped in the sheets.[pcms]
 
 *14108|
 [fc]
-横になると、こんどは不安じゃなくて、ヒロシの顔が[r]
-頭の中に浮かんできた。[pcms]
+Lying down, it wasn't anxiety that came to mind but[r]
+Hiroshi's face instead.[pcms]
 
 *14109|
 [fc]
-……ヒロシ……。[r]
-メールに気が付いて……。[pcms]
+...Hiroshi... Notice the email...[pcms]
 
 *14110|
 [fc]
-なんでもいいから……。[pcms]
+Anything will do...[pcms]
 
 *14111|
 [fc]
-返事をちょうだい……。[pcms]
+Please reply...[pcms]
 
 ;//♪：bgm012 fadeout
 [fadeoutbgm time=1000]

@@ -26,14 +26,14 @@
 
 *7748|
 [fc]
-[ns]大倉[nse]
-「裏から向こうのビルに入れないか、ちょっと行って[r]
-　見てくる！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"I'm going to check if we can enter the building from the[r]
+back!"[pcms]
 
 *7749|
 [fc]
-トラックがブチ壊して、穴が開いた出入り口の方へ走[r]
-り出した俺に、女の人の鋭い声が飛んできた。[pcms]
+As I ran towards the entrance that had been destroyed by the[r]
+truck, a sharp voice of a woman called out to me.[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
@@ -42,61 +42,61 @@
 *7750|
 [fc]
 [vo_anz s="anzai0009"]
-[ns]女[nse]
-「駄目よっ！！　今、外に出るのは危険過ぎるわ！[r]
-　おかしな人達がたくさんいるのよ！」[pcms]
+[ns]Female[nse]
+"No, you can't!! It's too dangerous to go outside now! There[r]
+are a lot of strange people out there!"[pcms]
 
 *7751|
 [fc]
-[ns]大倉[nse]
-「ンなこと言ってる場合じゃねぇんだよ！！　早く助[r]
-　けなきゃ、あのオッサンになにされるかわかんねぇ[r]
-　だろうが！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"This is no time for that!! If we don't hurry and help, who[r]
+knows what that old man will do to her!!"[pcms]
 
 *7752|
 [fc]
-食ってかかる俺に、女の人は落ち着いた声で、言い聞[r]
-かせるように言った。[pcms]
+The woman spoke to me in a calm voice, as if trying to[r]
+reason with me.[pcms]
 
 [ChrSetEx layer=4 chbase="anza_n05"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *7753|
 [fc]
 [vo_anz s="anzai0010"]
-[ns]女[nse]
-「このビルの裏側には行けないわ。特殊な鍵の付いて[r]
-　る扉で、裏へ行く道がふさがれてるの。ここの関係[r]
-　者しか通れないのよ」[pcms]
+[ns]Female[nse]
+"We can't go around to the back of this building. There's a[r]
+door with a special lock, and the way to the back is[r]
+blocked. Only people associated with this place can get[r]
+through."[pcms]
 
 *7754|
 [fc]
-[ns]大倉[nse]
-「だからって、行かなきゃ速水が……！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Even so, if we don't go, Hayami will...!"[pcms]
 
 *7755|
 [fc]
 [vo_anz s="anzai0011"]
-[ns]女[nse]
-「ええ、わたしも早く助けてあげたいと思ってるわ。[r]
-　追いかけていった彼女も心配だし。でも、今はとり[r]
-　あえず落ち着いて？」[pcms]
+[ns]Female[nse]
+"Yes, I also want to help her as soon as possible. I'm[r]
+worried about the girl who ran after her too. But for now,[r]
+can we just calm down?"[pcms]
 
 *7756|
 [fc]
-[ns]大倉[nse]
-「……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"..."[pcms]
 
 *7757|
 [fc]
 [vo_anz s="anzai0012"]
-[ns]女[nse]
-「彼は刃物を持ってるし、こっちが感情的になって刺[r]
-　激したら、本当に彼女に何かするかも……」[pcms]
+[ns]Female[nse]
+"He has a knife, and if we get emotional and provoke him, he[r]
+might really do something to her..."[pcms]
 
 *7758|
 [fc]
-[ns]ジョン[nse]
-「ウォンウォンッ！！　ウォン！　ウォンッ！！」[pcms]
+[ns]John[nse]
+"Woof woof!! Woof! Woof!!"[pcms]
 
 ;[chara_int]
 [ChrSetEx layer=4 chbase="jinguji_n08"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -104,98 +104,99 @@
 *7759|
 [fc]
 [vo_may s="maya0027"]
-[ns]お嬢様[nse]
-「入ってきた……こっちに来る……！」[pcms]
+[ns]Young Lady[nse]
+"They're coming in... heading this way...!"[pcms]
 
 *7760|
 [fc]
-[ns]大倉[nse]
-「……？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"…?"[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *7761|
 [fc]
-お嬢様の視線を追って振り返ると、トラックとガラス[r]
-の割れた扉の隙間から、ムリヤリ体をねじ込んで血ま[r]
-みれになりながら、イカレ集団が侵入してきていた。[pcms]
+Following the young lady's gaze, I turned around to see a[r]
+bloodied group forcing their way through the gap between the[r]
+truck and the shattered door.[pcms]
 
 *7762|
 [fc]
-[ns]大倉[nse]
-「チッ……！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Tch...!!"[pcms]
 
 *7763|
 [fc]
-シャッターで東側のビルへの出入り口を、イカレ集団[r]
-で外への出入り口をふさがれた俺らは、１つだけ残っ[r]
-ていた逃げ道である、西側の建物へと走った。[pcms]
+With the entrance on the east side blocked by shutters and[r]
+the outside entrance blocked by the crazed group, we ran[r]
+towards the only remaining escape route, the building on the[r]
+west side.[pcms]
 
 [ChrSetEx layer=4 chbase="koba_n03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *7764|
 [fc]
 [vo_kob s="koba0128"]
-[ns]小林[nse]
-「ヒロ、何やってるの！？　早く逃げないと！！」[pcms]
+[ns]Kobayashi[nse]
+"Hiro, what are you doing!? We need to escape quickly!!"[pcms]
 
 *7765|
 [fc]
-[ns]大倉[nse]
-「シャッター降ろす！！　先行ってろ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Lower the shutters!! Go ahead without me!!"[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *7766|
 [fc]
-俺は西側の建物の出入り口で立ち止まり、辺りに目を[r]
-走らせた。[pcms]
+I stopped at the entrance of the west side building and[r]
+looked around.[pcms]
 
 *7767|
 [fc]
-向こうにシャッターがあって、こっちのビルに無いは[r]
-ずがねぇ……。[pcms]
+There should be shutters on the other side that aren't on[r]
+this building...[pcms]
 
 *7768|
 [fc]
-ここのシャッターを降ろしておけば、しばらくはあの[r]
-イカレ集団を止めておける……。[pcms]
+If we lower the shutters here, we can hold off that crazed[r]
+group for a while...[pcms]
 
 *7769|
 [fc]
-ユウやお嬢様、女の人が次々と出入り口を走り抜けて[r]
-いく横で、俺は壁の縁にシャッターを降ろすための装[r]
-置を見つけた。[pcms]
+As Yuu, the young lady, and the woman ran past one after[r]
+another through the entrance, I found a device on the wall[r]
+edge to lower the shutters.[pcms]
 
 [cutin storage="BGS17"][trans_c cross time=500]
 
 *7770|
 [fc]
-[ns]大倉[nse]
-「非常時用……これ、いいんだよな、使っても……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"For emergency use... it should be okay to use this,[r]
+right...?"[pcms]
 
 *7771|
 [fc]
-壁に埋め込まれたその装置には、鍵のかかったフタと、[r]
-『非常時用シャッター手動閉鎖装置』と書かれている[r]
-金具が付いていた。[pcms]
+The device embedded in the wall had a locked cover and a[r]
+metal fitting that read "Emergency Shutter Manual Closure[r]
+Device."[pcms]
 
 *7772|
 [fc]
-[ns]大倉[nse]
-「……迷ってらんねーか」[pcms]
+[ns]Ookura Hiroshi[nse]
+"...Can't hesitate now."[pcms]
 
 *7773|
 [fc]
-既にエントランスホールの半分が、侵入してきたイカ[r]
-レ野郎で埋まってしまったこの状況じゃ、躊躇ってい[r]
-る余裕なんか無かった。[pcms]
+With half of the entrance hall already filled with the[r]
+invading bastards, there was no time to hesitate.[pcms]
 
 *7774|
 [fc]
-俺は張られている注意書きのシールの指示に従って、[r]
-赤いプラスチックの板を割り、金具の取っ手を掴んで[r]
-引っ張った。[pcms]
+I followed the instructions on the warning seal, broke the[r]
+red plastic plate, and pulled on the handle of the metal[r]
+fitting.[pcms]
 
 [cutin_int][trans_c cross time=300]
 
@@ -204,13 +205,13 @@
 
 *7775|
 [fc]
-[ns]大倉[nse]
-「……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"..."[pcms]
 
 *7776|
 [fc]
-速水……。[r]
-あのオッサンに、変なことされてなきゃいいけど……。[pcms]
+"Hayami... I hope that old man hasn't done anything weird to[r]
+her..."[pcms]
 
 [fadeoutbgm time=502]
 [stop_se0]
@@ -234,4 +235,4 @@
 ;//※ブロック１００００：『西棟編』へ
 [jump storage="westtown_main10010.ks" target=*westtown_main10010_TOP]
 
-;//－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+;//

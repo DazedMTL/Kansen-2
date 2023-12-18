@@ -30,16 +30,16 @@
 
 *2986|
 [fc]
-[ns]半袖シャツの男[nse]
-「く゛う゛ぅっ……」[pcms]
+[ns]Short-sleeved shirt man[nse]
+"Guhh..."[pcms]
 
 ;//[]SE：人が倒れる音（？）1ch
 [se0 storage="SE23"]
 
 *2987|
 [fc]
-[ns]大倉[nse]
-「ハァッ……ハァッ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Haa... Haa..."[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
@@ -47,20 +47,19 @@
 
 *2988|
 [fc]
-イカレ野郎の上半身をシャベルで突き飛ばし、転ばせ[r]
-ながら、俺は真ん中辺りの、両側の壁が湾曲している[r]
-所まで辿り着いた。[pcms]
+After pushing away the upper body of the crazed man with a[r]
+shovel and making him fall, I managed to reach the middle[r]
+area where both walls were curved.[pcms]
 
 *2989|
 [fc]
-渡り廊下中にいると思ってたイカレ野郎は、その辺ま[r]
-で来ると、ほとんどいなくなった。[pcms]
+The crazed men I thought were all over the corridor had[r]
+almost disappeared by the time I got there.[pcms]
 
 *2990|
 [fc]
-助かったぜ……。[r]
-端から端まで、アイツらでビッシリ埋まってると思っ[r]
-てたからな……。[pcms]
+Thank goodness... I thought they were packed from end to[r]
+end...[pcms]
 
 ;//♪：bgm005 stop
 [fadeoutbgm time=100]
@@ -73,14 +72,14 @@
 
 *2991|
 [fc]
-[ns]大倉[nse]
-「なんだ……？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"What's...?"[pcms]
 
 *2992|
 [fc]
-渡り廊下の中に流れていた楽しげな曲は、いつの間に[r]
-か寂しげな物に変わっていて、さらに大きな鐘の音が[r]
-鳴り始めた。[pcms]
+The cheerful music that had been playing in the corridor had[r]
+changed to a lonely tune at some point, and then a large[r]
+bell began to ring.[pcms]
 
 ;//[]SE：シャッターが閉まる音（？）3ch
 ;[se3 storage="SE16"]
@@ -89,8 +88,8 @@
 
 *2993|
 [fc]
-[ns]大倉[nse]
-「！？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"!"[pcms]
 
 [stop_se0]
 ;//SE：鐘の音乙
@@ -105,92 +104,91 @@
 
 *2994|
 [fc]
-続いて聞こえ始めた機械の動く音に、嫌な予感がして[r]
-周りを見回すと、渡り廊下の出入り口のシャッターが[r]
-降りてきているのが見えた。[pcms]
+Following that, I heard the sound of machinery starting up,[r]
+and a bad feeling made me look around, only to see the[r]
+shutters at the entrance of the corridor coming down.[pcms]
 
 [stop_se0]
 ;//SE：シャッター乙
 
 *2995|
 [fc]
-[ns]大倉[nse]
-「クソッ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Damn it!!"[pcms]
 
 *2996|
 [fc]
-俺は慌てて走り始めたが、全力で走っても、閉まりき[r]
-る前に間に合いそうもなかった。[pcms]
+I started to run in a panic, but even at full speed, it[r]
+didn't seem like I would make it before the shutter closed.[pcms]
 
 *2997|
 [fc]
-しかも、出入り口の周りにイカレ野郎が集まってきて、[r]
-渡り廊下に入ってこようとしている。[pcms]
+Moreover, the crazed men were gathering around the entrance,[r]
+trying to get into the corridor.[pcms]
 
 *2998|
 [fc]
-ダメだ……！[r]
-間に合わねー……！！[pcms]
+No good...! I'm not going to make it...!![pcms]
 
 *2999|
 [fc]
-半分以上、降りてしまったシャッターに、絶対に間に[r]
-合わないと感じた俺は、ヤケクソになって、中に入り[r]
-込んでいたイカレ野郎を、力任せに突き飛ばした。[pcms]
+Feeling that I definitely wouldn't make it as the shutter[r]
+was more than halfway down, I became desperate and pushed[r]
+away the crazed man who had gotten inside with all my might.[pcms]
 
 *3000|
 [fc]
-[ns]大倉[nse]
-「クソッタレ！！」[pcms]
+[ns]Ookura[nse]
+"You bastards!!"[pcms]
 
 *3001|
 [fc]
-[ns]クールビズの中年[nse]
-「ふ゛く゛ぁっ……」[pcms]
+[ns]Middle-aged man in cool biz[nse]
+"Fughh..."[pcms]
 
 *3002|
 [fc]
-俺に突き飛ばされた先頭の男は、後ろにいた２人を[r]
-巻き込んでブッ倒れ、最後尾にいたヤツの頭が、[r]
-シャッターの真下に入った。[pcms]
+The man at the front who I pushed away fell over, taking[r]
+down two others behind him, and the head of the guy at the[r]
+end got caught right under the shutter.[pcms]
 
 *3003|
 [fc]
-[ns]大倉[nse]
-「！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"!!"[pcms]
 
 *3004|
 [fc]
-シャッターが真下に倒れたヤツの頭にぶつかった瞬間、[r]
-俺はソイツの頭がグシャッと押し潰されるのを想像し[r]
-たが、実際はそうはならなかった。[pcms]
+The moment the shutter hit the head of the man who had[r]
+fallen below, I imagined his head being crushed, but that[r]
+didn't actually happen.[pcms]
 
 *3005|
 [fc]
-[ns]ツナギの男４[nse]
-「んか゛……」[pcms]
+[ns]Jumpsuit Man 4[nse]
+"Ngh..."[pcms]
 
 *3006|
 [fc]
-[ns]大倉[nse]
-「あれ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Huh..."[pcms]
 
 *3007|
 [fc]
-元々そうなのか、誰かがそういう設定にしたのか、[r]
-イカレ野郎の頭にぶつかって、シャッターはまた上が[r]
-り始めた。[pcms]
+Whether it was originally like that or someone had set it[r]
+up, when the shutter hit the head of the crazed man, it[r]
+started to rise again.[pcms]
 
 *3008|
 [fc]
-[ns]大倉[nse]
-「……」[pcms]
+[ns]Ookura[nse]
+"..."[pcms]
 
 *3009|
 [fc]
-ボーッとしてる場合じゃねー……。[r]
-また下りてくる前に、向こうのビルに入らねーと……！[pcms]
+This is no time to be dazed... I have to get into the[r]
+building across before it comes down again...![pcms]
 
 [jump storage="hayamiroute11010.ks" target=*hayamiroute11010_TOP]
 
-;//－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+;//

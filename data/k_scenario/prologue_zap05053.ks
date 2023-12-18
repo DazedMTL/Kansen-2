@@ -26,49 +26,49 @@
 
 *8076|
 [fc]
-局部を丸出しにしているような男に捕まったら、何を[r]
-されるかわからない。[pcms]
+"If caught by a man who's exposing his genitals, there's no[r]
+telling what he might do."[pcms]
 
 *8077|
 [fc]
-わたしはすぐそこに迫った危機から逃げようと、肩に[r]
-置かれた手を振り払って走り出した。[pcms]
+"I tried to escape the imminent danger, shaking off the hand[r]
+on my shoulder and starting to run."[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
 *8078|
 [fc]
 [vo_anz s="anzai0032"]
-[ns]みき[nse]
-「！？　はっ、放してください！！」[pcms]
+[ns]Mikki[nse]
+"！？ Ah, please let go!!"[pcms]
 
 *8079|
 [fc]
-唸っていた男性は、払いのけた方とは逆の手でわたし[r]
-の腕を掴み、今度は血走り、焦点のあった目で、私を[r]
-見下ろした。[pcms]
+"The growling man, instead of using the hand I had shaken[r]
+off, grabbed my arm with the other, now looking down at me[r]
+with bloodshot, focused eyes."[pcms]
 
 *8080|
 [fc]
-[ns]唸る青年[nse]
-「……け゛ぇ……」[pcms]
+[ns]Roaring Young Man[nse]
+"...gah..."[pcms]
 
 *8081|
 [fc]
 [vo_anz s="anzai0033"]
-[ns]みき[nse]
-「……？」[pcms]
+[ns]Mikki[nse]
+"...?"[pcms]
 
 *8082|
 [fc]
-[ns]唸る青年[nse]
-「ぬ゛け゛ぇ……ま゛ん゛こた゛せよぉ～～……」[pcms]
+[ns]Roaring Young Man[nse]
+"Get off... gimme that pussy~~..."[pcms]
 
 *8083|
 [fc]
 [vo_anz s="anzai0034"]
-[ns]みき[nse]
-「放してっ！！」[pcms]
+[ns]Mikki[nse]
+"Let go!!"[pcms]
 
 [chara_int][trans_c cross time=150]
 
@@ -77,68 +77,67 @@
 
 *8084|
 [fc]
-揉み合っているわたしと男性に、局部が丸出しの男性[r]
-が近づいてくる。[pcms]
+"The man exposing his genitals was approaching as I[r]
+struggled with the other man."[pcms]
 
 *8085|
 [fc]
-２人がかりでこられたら敵わない……！[r]
-早く……早く逃げなきゃ……！！[pcms]
+"I can't fight them off if it's two against one...! I need[r]
+to escape quickly...!!"[pcms]
 
 *8086|
 [fc]
-焦って暴れ、男性の足を蹴ったりしても、手首を掴む[r]
-力は強く、全くはずれない。[pcms]
+"Even as I panicked and lashed out, kicking at the man's[r]
+legs, the grip on my wrist was strong and wouldn't budge at[r]
+all."[pcms]
 
 *8087|
 [fc]
-そうこうしているうちに、もう一人の男性が、手首を[r]
-掴む男性のすぐ後ろまで迫った。[pcms]
+"While this was happening, the other man had closed in right[r]
+behind the man gripping my wrist."[pcms]
 
 *8088|
 [fc]
-克也……！[r]
-助けて……！！[pcms]
+"Katsuya...! Help me...!!"[pcms]
 
 *8089|
 [fc]
-[ns]丸出しの青年[nse]
-「と゛けぇ……お゛れか゛さきに゛、み゛つけた、ま[r]
-　ん゛こた゛ぁ～～……っ！！」[pcms]
+[ns]A young man in plain view[nse]
+"Move... I found that pussy first~~...!!"[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *8090|
 [fc]
-言葉なのか唸り声なのかわからない声をあげて、局部[r]
-を丸出しにしている男性は、わたしの手首を掴む男性[r]
-の首筋に噛みついた。[pcms]
+"With a voice that was indistinguishable between words and a[r]
+growl, the man exposing his genitals bit into the neck of[r]
+the man holding my wrist."[pcms]
 
 *8091|
 [fc]
-[ns]丸出しの青年[nse]
-「く゛うう゛うく゛う゛うぅぅ～～～……っ！！！！」[pcms]
+[ns]Young man in plain view[nse]
+"Grrrrrrrr~~~...!!!"[pcms]
 
 *8092|
 [fc]
-[ns]唸る青年[nse]
-「あ゛ああ゛く゛う゛ぅおお゛ぉあああああ……！！」[pcms]
+[ns]Growling Young Man[nse]
+"Aaaargh grrrroooaaahhhhh...!!"[pcms]
 
 *8093|
 [fc]
-わたしの手首から手を放し、男性は噛みついている人[r]
-もろとも、後ろへ倒れ込んだ。[pcms]
+"Releasing my wrist, the man fell backwards along with the[r]
+one biting him."[pcms]
 
 *8094|
 [fc]
 [vo_anz s="anzai0035"]
-[ns]みき[nse]
-「ハァ……ハァ……」[pcms]
+[ns]Mikki[nse]
+"Haa... Haa..."[pcms]
 
 *8095|
 [fc]
-地面に落としたバッグを拾い上げ、わたしは走って男[r]
-性達から離れた。[pcms]
+"Picking up my bag that had fallen to the ground, I ran away[r]
+from the men."[pcms]
 
 [sysbt_meswin clear]
 
@@ -149,4 +148,4 @@
 
 [jump storage="prologue_zap05057.ks" target=*prologue_zap05057_TOP]
 
-;//－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+;//

@@ -21,8 +21,7 @@
 
 *11126|
 [fc]
-ダメもとで、母さんに電話を掛けてみる[r]
-事に決めた。[pcms]
+I decided to try calling my mom, even if it was a long shot.[pcms]
 
 [cutin storage="BGS15"][trans_c cross time=500]
 
@@ -31,54 +30,55 @@
 
 *11127|
 [fc]
-母さんの電話は、速水の時とは違って、[r]
-呼び出し音がした。[pcms]
+Unlike when I called Hayami, this time the phone actually[r]
+rang.[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
 *11128|
 [fc]
-[ns]アナウンス[nse]
-「現在、回線が混み合っており、一時的に通話を制限[r]
-　しております……」[pcms]
+[ns]Announcement[nse]
+"Currently, the line is congested, and calls are temporarily[r]
+being restricted..."[pcms]
 
 *11129|
 [fc]
-[ns]大倉[nse]
-「…………」[pcms]
+[ns]Ookura[nse]
+"..."[pcms]
 
 *11130|
 [fc]
-しかし、それはすぐに切れ、またしても混雑の為、[r]
-通話が制限されているというアナウンスに変わった。[pcms]
+However, that was quickly cut off, and once again the[r]
+announcement about call restrictions due to congestion came[r]
+on.[pcms]
 
 *11131|
 [fc]
-[ns]大倉[nse]
-「クソッ……どうなってんだ……一体！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Damn it... What's going on... Exactly!"[pcms]
 
 *11132|
 [fc]
-その無機質なアナウンスの声に軽い苛立ちを覚えたが、[r]
-他にも俺みたいな状態に置かれているヤツが沢山いるの[r]
-だろう。[pcms]
+I felt a slight irritation at the impersonal voice of the[r]
+announcement, but there must be many others in the same[r]
+situation as me.[pcms]
 
 *11133|
 [fc]
-それに、このまま電話をかけ続けても、バッテリーが[r]
-減っていくだけ。[pcms]
+Besides, continuing to make calls would only drain the[r]
+battery.[pcms]
 
 [cutin_int][trans_c cross time=300]
 
 *11134|
 [fc]
-[ns]大倉[nse]
-「しゃーねぇ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Can't be helped..."[pcms]
 
 *11135|
 [fc]
-俺はこの場では連絡することを諦め、先へと急ぐ事に[r]
-決めた。[pcms]
+I decided to give up on contacting anyone from here and[r]
+hurried on ahead.[pcms]
 
 ;//〆ローカルフラグ：母親との電話（denwa）成立
 ;//　速水ENDTrueへの分岐条件。

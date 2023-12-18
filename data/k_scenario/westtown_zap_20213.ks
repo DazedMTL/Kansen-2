@@ -14,9 +14,9 @@
 
 *14113|
 [fc]
-あたしと長崎さんは、相変わらずナイフを[r]
-突きつけられたまま、エスカレーターの終点から顔を[r]
-出して、三階の様子を伺った。[pcms]
+Chihiro and I, as usual, were still being threatened with a[r]
+knife, peeking out from the end of the escalator, checking[r]
+out the situation on the third floor.[pcms]
 
 ;//SE:雄叫び
 
@@ -33,8 +33,8 @@
 *14114|
 [fc]
 [vo_hay s="hayami0396"]
-[ns]ありす[nse]
-「……！」[pcms]
+[ns]Arisu[nse]
+"…!"[pcms]
 ;//◎ブロック２０２１１の流用
 
 ;//♪：bgm011 stop
@@ -46,9 +46,8 @@
 
 *14115|
 [fc]
-[ns]丸坊主の男[nse]
-「お゛ん゛な゛……と゛こ゛た゛ぁ゛……。[r]
-　は゛ら゛へ゛っ゛た゛……～～」[pcms]
+[ns]Bald man[nse]
+"Woman... where... I'm... hungry...~~"[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
@@ -56,59 +55,56 @@
 
 *14116|
 [fc]
-[ns]太った若者[nse]
-「は゛ら゛へ゛っ゛た゛な゛ぁ゛～～……」[pcms]
+[ns]Fat Young Man[nse]
+"I'm... hungry...~~"[pcms]
 
 *14117|
 [fc]
 [vo_hay s="hayami0397"]
-[ns]ありす[nse]
-「い……いた！　一人……二人……。[r]
-　他は……見えない……」[pcms]
+[ns]Alice[nse]
+"Ow...ow! One person... two people... The others... can't[r]
+see them..."[pcms]
 ;//◎ブロック２０２１１の流用
 
 *14118|
 [fc]
-目の前に広がる沢山のベッドの間を、二人の男の人が[r]
-酔っぱらいみたいにフラフラしながら、[r]
-どこへ行くでもなく歩いていた。[pcms]
+Two men were staggering around like drunkards among the many[r]
+beds, walking aimlessly.[pcms]
 
 [ChrSetEx layer=4 chbase="sugo_k03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *14119|
 [fc]
-[ns]菅生[nse]
-「クッソォ……アイツら！！[r]
-　……オウ！　デッケェ姉ちゃんよォ！[r]
-　今すぐアイツら追っ払うぞ！　手伝え！！」[pcms]
+[ns]Sugou[nse]
+"Damn it... Those guys!! ...Hey! A big sister over there![r]
+Drive them away now! Help me!!"[pcms]
 
 [ChrSetEx layer=4 chbase="naga_n03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *14120|
 [fc]
 [vo_nag s="nagasaki0199"]
-[ns]千尋[nse]
-「ち……ちょっと！　押さないでよ！！[r]
-　アンタ、ナイフ持ってるんだから、[r]
-　先に行きなさいよ！」[pcms]
+[ns]Chihiro[nse]
+"Wait a minute! Don't push me!! You have a knife, so you go[r]
+first!"[pcms]
 ;//◎ブロック２０２１１の流用
 
 [ChrSetEx layer=4 chbase="sugo_k03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *14121|
 [fc]
-[ns]菅生[nse]
-「楯になれっつってんだよ！[r]
-　俺様に万が一の事があったら、テメェ……！[r]
-　どう責任取るつもりなんだよ！　オラ！　行けよ！」[pcms]
+[ns]Sugou[nse]
+"I'm telling you to be a shield! If something happens to me,[r]
+you...! How are you going to take responsibility? Go on![r]
+Go!"[pcms]
 
 [ChrSetEx layer=4 chbase="naga_n01"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *14122|
 [fc]
 [vo_nag s="nagasaki0200"]
-[ns]千尋[nse]
-「何様のつもりよ……」[pcms]
+[ns]Chihiro[nse]
+"Who do you think you are..."[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
@@ -119,60 +115,57 @@
 *14123|
 [fc]
 [vo_hay s="hayami0398"]
-[ns]ありす[nse]
-「いやあっ！　長崎さん！　危ない！」[pcms]
+[ns]Arisu[nse]
+"No! Chihiro! Dangerous!"[pcms]
 
 [ChrSetEx layer=4 chbase="etc04"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *14124|
 [fc]
-[ns]スーツの中年[nse]
-「い゛た゛ぁ゛～～！[r]
-　お゛ん゛な゛の゛こ゛ぉ゛ぉ゛ぉ゛ぉ゛！！」[pcms]
+[ns]Middle-aged man in a suit[nse]
+"It hurts~~! You woman~~!!"[pcms]
 
 [ChrSetEx layer=4 chbase="naga_n03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *14125|
 [fc]
 [vo_nag s="nagasaki0201"]
-[ns]千尋[nse]
-「ひっ！！　い……いやっ！！[r]
-　何よアンタ！！」[pcms]
+[ns]Chihiro[nse]
+"Eek!! No... no!! What do you want?!"[pcms]
 ;//◎ブロック２０２１１の流用
 
 *14126|
 [fc]
-エスカレーターの手すりの陰から急に飛び出した[r]
-手が、長崎さんの足首を掴んだ。[pcms]
+A hand suddenly leaped out from behind the escalator's[r]
+handrail and grabbed Chihiro's ankle.[pcms]
 
 *14127|
 [fc]
-先に見つけた二人と、長崎さんとオジサンの[r]
-やりとりに気を取られて、エスカレーターの手すりの[r]
-陰に潜んでいた男には、全く気が付かなかった。[pcms]
+Distracted by the two men we found earlier and the exchange[r]
+between Chihiro and the middle-aged man, we completely[r]
+failed to notice the man lurking behind the handrail of the[r]
+escalator.[pcms]
 
 [ChrSetEx layer=4 chbase="sugo_k05"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *14128|
 [fc]
-[ns]菅生[nse]
-「なっ！！　何だテメェ！！[r]
-　急に出てくるんじゃねぇッ！！」[pcms]
+[ns]Sugou[nse]
+"What!! Who the hell are you!! Don't just pop out like[r]
+that!!"[pcms]
 
 [ChrSetEx layer=4 chbase="etc04"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *14129|
 [fc]
-[ns]スーツの中年[nse]
-「し゛ろ゛い゛ふ゛と゛も゛も゛……。[r]
-　わ゛か゛く゛て゛ぇ～ぴち、ぴち～……。[r]
-　え゛へぁ～～！！」[pcms]
+[ns]Middle-aged man in a suit[nse]
+"Young and fresh... so young and tender... ehehe~~!!"[pcms]
 
 *14130|
 [fc]
 [vo_hay s="hayami0399"]
-[ns]ありす[nse]
-「長崎さん！」[pcms]
+[ns]Alice[nse]
+"Chihiro!"[pcms]
 ;//◎ブロック２０２１１の流用
 
 [ChrSetEx layer=4 chbase="naga_n03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -180,9 +173,8 @@
 *14131|
 [fc]
 [vo_nag s="nagasaki0202"]
-[ns]千尋[nse]
-「離せ！！　この……クズがっ！！[r]
-　おおぉぉおお！！」[pcms]
+[ns]Chihiro[nse]
+"Let go!! You... scumbag!! Aaahhh!!"[pcms]
 ;//◎ブロック２０２１１の流用
 
 ;//SE:人を殴る
@@ -195,18 +187,17 @@
 
 *14132|
 [fc]
-[ns]スーツの中年[nse]
-「く゛へぇ～～……、ふ、ふま゛れた゛ぁ～～！[r]
-　う゛へへぇ～～！！」[pcms]
+[ns]Middle-aged man in a suit[nse]
+"Geh~~... I've been stepped on~~! Uhehe~~!!"[pcms]
 
 [ChrSetEx layer=4 chbase="naga_n03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *14133|
 [fc]
 [vo_nag s="nagasaki0203"]
-[ns]千尋[nse]
-「この……ヘンタイ親父ッ！！[r]
-　バカァ！！　離せって言ってるのに！！」[pcms]
+[ns]Chihiro[nse]
+"You... perverted old man!! Idiot!! I'm telling you to let[r]
+go!!"[pcms]
 ;//◎ブロック２０２１１の流用
 
 ;//SE:人を殴る
@@ -219,9 +210,9 @@
 
 *14134|
 [fc]
-[ns]菅生[nse]
-「いつまでくっついてんだ、このクソッタレ！[r]
-　俺様の女に手ェだすんじゃねぇッ！！」[pcms]
+[ns]Sugou[nse]
+"How long are you going to stick around, you piece of crap![r]
+Don't touch my woman!!"[pcms]
 
 ;//SE:雄叫び
 
@@ -230,56 +221,52 @@
 *14135|
 [fc]
 [vo_hay s="hayami0400"]
-[ns]ありす[nse]
-「え……！！　ま……、また！？[r]
-　また来た！！　オジサン！　危ない！！」[pcms]
+[ns]Arisu[nse]
+"Eh...!! Again!? Another one's coming!! Mister! Dangerous!!"[pcms]
 ;//◎ブロック２０２１１の流用
 
 *14136|
 [fc]
-[ns]菅生[nse]
-「アァ！？　何だと……！？[r]
-　うぉぉっ！！！」[pcms]
+[ns]Sugou[nse]
+"Ah!? What...!? Woahhh!!"[pcms]
 
 [ChrSetEx layer=4 chbase="etc02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *14137|
 [fc]
-[ns]丸坊主の男[nse]
-「ぐぇは゛ぁ……は゛らぁ……へった゛……」[pcms]
+[ns]Bald man[nse]
+"Geha... I'm... hungry..."[pcms]
 
 [ChrSetEx layer=4 chbase="etc01"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *14138|
 [fc]
-[ns]太った若者[nse]
-「お゛れに゛もぉ～……。[r]
-　お゛れに゛もぉ～……」[pcms]
+[ns]Fat Young Man[nse]
+"Me too~~... Me too~~..."[pcms]
 
 [ChrSetEx layer=4 chbase="sugo_k05"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *14139|
 [fc]
-[ns]菅生[nse]
-「テメェら気持ち悪りぃんだよ！！[r]
-　離れろクソッタレ共がよ！！」[pcms]
+[ns]Sugou[nse]
+"You guys are disgusting!! Get away from me, you creeps!!"[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *14140|
 [fc]
-いつしか、長崎さんとオジサンの周りには[r]
-三人のヘンな人が集まってきていた。[pcms]
+Before we knew it, three strange people had gathered around[r]
+Chihiro and the middle-aged man.[pcms]
 
 *14141|
 [fc]
-あたしはその不気味な三人に、ただ怯えてしまって、[r]
-指先一つ動かす事が出来なくなってしまっていた。[pcms]
+I was just terrified by those creepy three people, unable to[r]
+move even a fingertip.[pcms]
 
 *14142|
 [fc]
-[ns]菅生[nse]
-「いい加減ぶっ殺すぞこのくそガキがッ！」[pcms]
+[ns]Sugou[nse]
+"I'm seriously going to kill this damn brat!"[pcms]
 
 ;//SE:人を殴る
 [se0 storage="SE20"]
@@ -291,9 +278,8 @@
 
 *14143|
 [fc]
-[ns]太った青年[nse]
-「うふ゛ふ゛ふ゛ふ゛ふ゛～～……。[r]
-　うあ～～……」[pcms]
+[ns]Fat Young Man[nse]
+"Ufufufufu~~... Uwah~~..."[pcms]
 
 ;//SE:どさっ
 
@@ -301,73 +287,69 @@
 
 *14144|
 [fc]
-オジサンが突き飛ばすと、太った男の人は[r]
-あたしの横を転がって、エスカレーターの階段を[r]
-下の階まで転がり落ちていった。[pcms]
+When the middle-aged man pushed him, the fat man rolled past[r]
+me and tumbled down the escalator stairs to the lower floor.[pcms]
 
 [ChrSetEx layer=4 chbase="sugo_k03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *14145|
 [fc]
-[ns]菅生[nse]
-「あと一人……ゼッテェブッ殺す！！」[pcms]
+[ns]Sugou[nse]
+"One more left... I'll definitely kill him!!"[pcms]
 
 *14146|
 [fc]
 [vo_hay s="hayami0401"]
-[ns]ありす[nse]
-「いやっ！！　いやぁぁぁ！！！　やだっ！！[r]
-　オジサン！　なんて事……」[pcms]
+[ns]Alice[nse]
+"No!! Noooo!!! No way!! Mister! What are you doing..."[pcms]
 ;//◎ブロック２０２１１の流用
 
 *14147|
 [fc]
-あまりの事に、転がり落ちた人から目を[r]
-離せずにいると、階段を落ちた直後、首がヘンな方に[r]
-曲がったのを見てしまった。[pcms]
+Unable to take my eyes off the person who rolled down, right[r]
+after falling down the stairs, I saw his neck bend in a[r]
+strange direction.[pcms]
 
 *14148|
 [fc]
 [vo_hay s="hayami0402"]
-[ns]ありす[nse]
-「あああぁあぁぁ！！　あの人の首……、[r]
-　ヘンな方に……！！　いやあぁぁ！！」[pcms]
+[ns]Arisu[nse]
+"Aaaaahhh!! That person's neck... it's bent in a weird[r]
+way...!! Noooo!!"[pcms]
 
 *14149|
 [fc]
-今体を動かすと、自分の首まであの人みたいに[r]
-なってしまいそうで、それが怖くて、ますます[r]
-太った人から目を離せなくなってしまっていた。[pcms]
+I was afraid that if I moved now, my neck would end up like[r]
+that person's, and I became even more unable to take my eyes[r]
+off the fat man.[pcms]
 
 *14150|
 [fc]
-気持ち悪い！[r]
-気持ち悪い！！[pcms]
+It's disgusting! It's disgusting!![pcms]
 
 *14151|
 [fc]
-折れた首はそのまま、だらりと垂れている。[pcms]
+The broken neck just hung there, dangling limply.[pcms]
 
 *14152|
 [fc]
 [vo_hay s="hayami0403"]
-[ns]ありす[nse]
-「う……うぇぇ！！　げほっ……うぅ……」[pcms]
+[ns]Alice[nse]
+"Ugh... uweh!! Gag... ugh..."[pcms]
 ;//◎ブロック２０２１１の流用
 
 *14153|
 [fc]
-あたし、いつから夢を見てるの？[r]
-夢ならもう覚めて！　[r]
-お願い……！！[pcms]
+When did I start dreaming? If it's a dream, please wake up![r]
+Please...!![pcms]
 
 [ChrSetEx layer=4 chbase="naga_n03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *14154|
 [fc]
 [vo_nag s="nagasaki0204"]
-[ns]千尋[nse]
-「離れろクソ親父がッ！！」[pcms]
+[ns]Chihiro[nse]
+"Get away from me, you shitty old man!!"[pcms]
 ;//◎叫ぶ
 
 ;//SE:人を殴る
@@ -383,96 +365,92 @@
 
 *14155|
 [fc]
-[ns]スーツの中年[nse]
-「く゛ぁ……」[pcms]
+[ns]Middle-aged man in a suit[nse]
+"Gah..."[pcms]
 
 [ChrSetEx layer=4 chbase="naga_n02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *14156|
 [fc]
 [vo_nag s="nagasaki0205"]
-[ns]千尋[nse]
-「フン！！　このアタシに触ろうなんて……。[r]
-　女の子に触りたければ、そういうお店に[r]
-　行きなさい！！」[pcms]
+[ns]Chihiro[nse]
+"Hmph!! To think you'd dare touch me... If you want to touch[r]
+girls, go to that kind of shop!!"[pcms]
 
 *14157|
 [fc]
-威勢のいい叫び声に振り返ると、長崎さんが[r]
-スーツ姿の人を払いのけた所だった。[pcms]
+Turning around at the sound of a spirited shout, I saw[r]
+Chihiro had just fended off the man in the suit.[pcms]
 
 *14158|
 [fc]
-長崎さんは押し倒した人をそのままに、あたしの方へ[r]
-駆け寄ってくる。[pcms]
+Leaving the man she had knocked down behind, Chihiro ran[r]
+towards me.[pcms]
 
 [ChrSetEx layer=4 chbase="naga_n01"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *14159|
 [fc]
 [vo_nag s="nagasaki0206"]
-[ns]千尋[nse]
-「ボーっとしてないで！　早くここから離れないと！」[pcms]
+[ns]Chihiro[nse]
+"Don't just stand there! We need to get out of here[r]
+quickly!"[pcms]
 
 *14160|
 [fc]
 [vo_hay s="hayami0404"]
-[ns]ありす[nse]
-「う……うん！　でも、オジサンが！！」[pcms]
+[ns]Arisu[nse]
+"Uh... yeah! But what about the middle-aged man?!"[pcms]
 
 [ChrSetEx layer=4 chbase="naga_n03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *14161|
 [fc]
 [vo_nag s="nagasaki0207"]
-[ns]千尋[nse]
-「そんなヤツほっときなさい！！[r]
-　自分で何とかするでしょ！！」[pcms]
+[ns]Chihiro[nse]
+"Forget about that guy!! He can take care of himself!!"[pcms]
 
 [ChrSetEx layer=4 chbase="sugo_k05"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *14162|
 [fc]
-[ns]菅生[nse]
-「オイコラ！　離せ！！[r]
-　離せっつってんだろボケェ！！　いい加減、マジ[r]
-　殺すぞ！！　オラァ！！」[pcms]
+[ns]Sugou[nse]
+"Hey you! Let go!! I said let go, you idiot! Seriously, I'll[r]
+kill you for real!! Come on!!"[pcms]
 
 *14163|
 [fc]
 [vo_hay s="hayami0405"]
-[ns]ありす[nse]
-「オジサン！？　や……やめて！！」[pcms]
+[ns]Arisu[nse]
+"Mister!? Stop... please stop!!"[pcms]
 
 *14164|
 [fc]
-オジサンは坊主頭の人の首を絞めながら、[r]
-エスカレーターの縁に押しつけた。[pcms]
+The middle-aged man was choking the bald man while pushing[r]
+him against the edge of the escalator.[pcms]
 
 *14165|
 [fc]
-オジサン……。[r]
-あのまま、また下に……！？[pcms]
+Mister... If this keeps up, he'll fall down again...!?[pcms]
 
 *14166|
 [fc]
-[ns]菅生[nse]
-「俺様に楯ついた事、あの世で後悔するんだな！！[r]
-　落ちろオラァ！！」[pcms]
+[ns]Sugou[nse]
+"Regret ever crossing me in the afterlife!! Fall down, damn[r]
+it!!"[pcms]
 
 [ChrSetEx layer=4 chbase="etc02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *14167|
 [fc]
-[ns]丸坊主の男[nse]
-「あ゛あ゛～～……く゛い゛もの～……。[r]
-　く゛い゛も……の……」[pcms]
+[ns]Bald man[nse]
+"Aghh... it's so tight... so tight..."[pcms]
 
 *14168|
 [fc]
-離れていても分かるくらい、限界まで張った腕に[r]
-さらに力を込めて、坊主頭の人をエスカレーターの[r]
-縁から突き落とした。[pcms]
+Even from a distance, it was clear that the middle-aged man[r]
+was exerting even more force into his already taut arms,[r]
+pushing the bald man over the edge of the escalator.[pcms]
 
 [ChrSetEx layer=4 chbase="sugo_k02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
@@ -487,29 +465,28 @@
 *14169|
 [fc]
 [vo_hay s="hayami0406"]
-[ns]ありす[nse]
-「いやぁぁぁぁぁぁあぁぁ！！　また……！！[r]
-　もうやめて！！　オジサン！！　もうイヤぁ！！」[pcms]
+[ns]Alice[nse]
+"Nooooo!! Not again...!! Please stop!! Mister!! I can't take[r]
+it anymore!!"[pcms]
 
 *14170|
 [fc]
-[ns]菅生[nse]
-「くたばれクソガキがッ！！　へっ！！[r]
-　……なっ！！　何だテメェ！！」[pcms]
+[ns]Sugou[nse]
+"Die, you little shit!! Hah!! ...What!? Who the hell are[r]
+you!!"[pcms]
 
 *14171|
 [fc]
-坊主頭の人を突き落として、力を使い果たしたのか、[r]
-肩で息するオジサンの足元には、さっき長崎さんに[r]
-まとわりついていた人が抱きついていた。[pcms]
+After pushing the bald man off, the middle-aged man, now[r]
+panting heavily, had the man who had been clinging to[r]
+Chihiro earlier wrapped around his legs.[pcms]
 
 [ChrSetEx layer=4 chbase="etc04"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *14172|
 [fc]
-[ns]スーツの中年[nse]
-「へはぁ～～……ま゛す゛そ゛ぉ～～……。[r]
-　はら゛へっ゛た゛ぁ～……」[pcms]
+[ns]Middle-aged man in a suit[nse]
+"Hehahh~... I'm so hungry~... I'm starving..."[pcms]
 
 ;//★レッドフラッシュ
 [赤フラ]
@@ -521,10 +498,9 @@
 
 *14173|
 [fc]
-[ns]菅生[nse]
-「ぐっ……ぐあぁぁぁぁぁあぁぁぁぁああぁあ！！[r]
-　このクソバカ！！　何しやがるッ！！[r]
-　いでぇぇぇ！！　うぉぉぉおおお！！」[pcms]
+[ns]Sugou[nse]
+"Guh... guahhhhhhhhhhhhhhh!! You fucking idiot!! What are[r]
+you doing!! Owowowowowow!!"[pcms]
 
 ;//SE:人を殴る
 [se0 storage="SE20"]
@@ -536,26 +512,26 @@
 
 *14174|
 [fc]
-オジサンの足にからみついていた男の人は、[r]
-大きく口を開けて、その足に噛み付いていた。[pcms]
+The man who had entwined himself around the middle-aged[r]
+man's leg had his mouth wide open, biting into that leg.[pcms]
 
 *14175|
 [fc]
-足もとで気味悪くにやつく男の人の口には、[r]
-真っ赤な血がへばりついている。[pcms]
+The creepy grin on the man's face at his feet was smeared[r]
+with bright red blood.[pcms]
 
 *14176|
 [fc]
 [vo_hay s="hayami0407"]
-[ns]ありす[nse]
-「オジサン！！　血が！！　足！！　あ……足が！！」[pcms]
+[ns]Arisu[nse]
+"Mister!! There's blood!! Your leg!! Ah... your leg is!!"[pcms]
 
 [ChrSetEx layer=4 chbase="sugo_k05"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *14177|
 [fc]
-[ns]菅生[nse]
-「こンのヤロォ！！　よくも俺様の足を！！」[pcms]
+[ns]Sugou[nse]
+"You bastard!! How dare you bite my leg!!"[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
@@ -570,16 +546,16 @@
 
 *14178|
 [fc]
-噛まれた足から血を噴き出させながら、[r]
-スーツ姿の人を力任せに突き飛ばすと、少し離れて[r]
-助走を付けてから、全身で体当たりした。[pcms]
+While blood spurted from his bitten leg, the middle-aged man[r]
+in a suit forcefully pushed away the man, took a short run-[r]
+up, and then body-slammed him with all his might.[pcms]
 
 [ChrSetEx layer=4 chbase="etc04"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *14179|
 [fc]
-[ns]スーツ姿の中年[nse]
-「う゛……」[pcms]
+[ns]Middle-aged man in a suit[nse]
+"Ugh..."[pcms]
 
 ;//★レッドフラッシュ
 [赤フラ]
@@ -592,67 +568,65 @@
 
 *14180|
 [fc]
-オジサンに体当たりされ、吹き飛ばされたスーツの[r]
-人は、その勢いでエスカレーターを転がり落ちた。[pcms]
+Blown away by the body slam, the man in the suit rolled down[r]
+the escalator from the momentum.[pcms]
 
 [ChrSetEx layer=4 chbase="sugo_n07"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *14181|
 [fc]
-[ns]菅生[nse]
-「うぉぉぉおおお！！　いでぇ！！　いでぇよ！！[r]
-　チキショォ！！　うおおおお！！」[pcms]
+[ns]Sugou[nse]
+"Uwoooooo!! It hurts!! It really hurts!! Damn it all!![r]
+Uwoooooo!!"[pcms]
 
 *14182|
 [fc]
 [vo_hay s="hayami0408"]
-[ns]ありす[nse]
-「オジサン……」[pcms]
+[ns]Alice[nse]
+"Mister..."[pcms]
 
 *14183|
 [fc]
-あたしと長崎さんは、足を押さえて叫んでいる[r]
-オジサンを、あっけにとられて見つめていた。[pcms]
+Chihiro and I were stunned as we watched the middle-aged man[r]
+screaming and holding his leg.[pcms]
 
 [ChrSetEx layer=4 chbase="sugo_n04"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *14184|
 [fc]
-[ns]菅生[nse]
-「クソォ……クソォ！！[r]
-　こんなんじゃ割にあわねぇ！！　オメェら！！[r]
-　オメェらのせいだ！！　クソォ！！」[pcms]
+[ns]Sugou[nse]
+"Damn it... Damn it all!! This isn't worth it at all!! You[r]
+guys!! It's all your fault!! Damn it!!"[pcms]
 
 *14185|
 [fc]
 [vo_hay s="hayami0409"]
-[ns]ありす[nse]
-「……？　な……何言ってるの……？[r]
-　あたし達が、何をしたっていうの！？」[pcms]
+[ns]Alice[nse]
+"...? Wha... what are you talking about...? What did we do[r]
+to you!?"[pcms]
 
 *14186|
 [fc]
-オジサンはあたし達を憎々しげな目で睨みながら、[r]
-足を引きずってにじり寄ってくる。[pcms]
+The middle-aged man glared at us with hateful eyes as he[r]
+limped closer, dragging his leg.[pcms]
 
 [ChrSetEx layer=4 chbase="sugo_k03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *14187|
 [fc]
-[ns]菅生[nse]
-「テメェら、そこ動くなッ！！」[pcms]
+[ns]Sugou[nse]
+"Don't you move from there!!"[pcms]
 
 *14188|
 [fc]
 [vo_hay s="hayami0410"]
-[ns]ありす[nse]
-「ひっ……な……何……！？[r]
-　なんなの！！」[pcms]
+[ns]Alice[nse]
+"Eek... wha... what...!? What's going on!!"[pcms]
 
 *14189|
 [fc]
-血走った目であたし達を睨むオジサンは、[r]
-腹巻きからナイフを取り出した。[pcms]
+The middle-aged man, glaring at us with bloodshot eyes,[r]
+pulled out a knife from his belly wrap.[pcms]
 
 ;//♪：bgm009 fadeout
 [fadeoutbgm time=1000]

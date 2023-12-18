@@ -18,18 +18,18 @@
 *6644|
 [fc]
 [vo_mob s="haha0002"]
-[ns]•ê[nse]
-u‚¤‚é‚³‚¢‚©‚ç‘‚­~‚ß‚Ä‹N‚«‚È‚³‚¢IIv[pcms]
+[ns]Mother[nse]
+"Stop making noise and get up already!!"[pcms]
 
 *6645|
 [fc]
-[ns]‘å‘q[nse]
-u‚¢‚Ü‹N‚«‚é‚æI@‚Á‚½‚­ƒEƒ‹ƒZƒF‚Èccv[pcms]
+[ns]Ookura Hiroshi[nse]
+"I'm getting up now! Geez, so noisy..."[pcms]
 
 *6646|
 [fc]
-‚Ü‚é‚ÅŠJ‚±‚¤‚Æ‚µ‚È‚¢–Ú‚ğA“ª‚ğU‚Á‚Äƒ€ƒŠƒ„ƒŠŠJ‚¯[r]
-‚È‚ª‚çA‰´‚Íƒxƒbƒh‚©‚ç”‡‚¢‚¸‚è‚¾‚µ‚½B[pcms]
+While shaking my head to force my unwilling eyes open, I[r]
+crawled out of bed.[pcms]
 
 [fadeoutbgm time=502]
 [stop_se0]
@@ -39,4 +39,4 @@
 
 [jump storage="prologue0075.ks" target=*prologue0075_TOP]
 
-;//||||||||||||||||||||||||||||||||||||||||
+;//

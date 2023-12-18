@@ -31,8 +31,8 @@
 
 *12384|
 [fc]
-”ñí‚¿o‚µ‘Ü‚Ì’†‚Å‚à¬‚³‚ß‚Ì‚à‚Ì‚ğ‘I‚ñ‚ÅA‰´‚Í[r]
-ƒ}ƒ„‚¿‚á‚ñ‚Éè“n‚µ‚½B[pcms]
+I chose one of the smaller emergency carry-out bags and[r]
+handed it to Maya-chan.[pcms]
 
 [cutin_int]
 ;[trans_c cross time=500]
@@ -41,15 +41,15 @@
 
 *12385|
 [fc]
-[ns]‘å‘q[nse]
-u‚æ‚µAs‚±‚¤IIv[pcms]
+[ns]Ookura Hiroshi[nse]
+"Alright, let's go!!"[pcms]
 
 ;êŠ<ImageFade 6,60,OFF,OFF>
 
 *12386|
 [fc]
-æ‚És‚­‚æ‚¤‚Éƒ}ƒ„‚¿‚á‚ñ‚É‘£‚µ‚ÄA‰´‚Í“X‚Ìo“ü‚è[r]
-Œû‚ÖŒü‚©‚Á‚Ä‘–‚Á‚½B[pcms]
+After urging Maya-chan to go ahead, I ran towards the[r]
+store's entrance.[pcms]
 
 ;//[fadeoutbgm time=502]
 ;//[stop_se0]
@@ -65,4 +65,4 @@
 ;//ƒuƒƒbƒN‚P‚O‚T‚R‚O‚Ö
 [jump storage="westtown_main10530.ks" target=*westtown_main10530_TOP]
 
-;//||||||||||||||||||||||||||||||||||||||||
+;//

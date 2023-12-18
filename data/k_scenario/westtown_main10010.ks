@@ -1,5 +1,5 @@
 ;//■ブロック１００００：『西棟編』
-;//－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+;//
 ;//■ブロック１００１０：『現実離れ』
 ;//◎…アフレコ時の注意、または指示
 
@@ -33,14 +33,14 @@
 
 *10234|
 [fc]
-[ns]大倉[nse]
-「あのオッサン、なにモンですか？　一緒にいたってこと[r]
-　は、知り合いじゃないんですか？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Who is that old man? Aren't you acquainted with him since[r]
+you were together?"[pcms]
 
 *10235|
 [fc]
-シャッターが降りきって、ひとまず身の安全が確保さ[r]
-れてから、俺は疑いの目を女の人に向けた。[pcms]
+After the shutter came down and secured our safety for the[r]
+moment, I cast a suspicious glance at the woman.[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
@@ -49,22 +49,22 @@
 *10236|
 [fc]
 [vo_anz s="anzai0068"]
-[ns]女[nse]
-「……さっきも言ったけれど、わたしもあなた達と一[r]
-　緒で、おかしな人達から逃げてる最中に、あのひとに[r]
-　呼ばれて、ここへ逃げ込んだの」[pcms]
+[ns]Female[nse]
+"...As I said before, I was running away from those strange[r]
+people with you all when that man called out to me, and I[r]
+fled here."[pcms]
 
 *10237|
 [fc]
 [vo_anz s="anzai0069"]
-[ns]女[nse]
-「だから、あのひとがどこの誰なのか、どうしてここに[r]
-　いたのか、全然知らないのよ。名前も聞いてないわ」[pcms]
+[ns]Female[nse]
+"So, I have no idea who that man is, why he was here, or[r]
+even his name. I haven't asked."[pcms]
 
 *10238|
 [fc]
-[ns]大倉[nse]
-「そうですか……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Is that so..."[pcms]
 
 ;//SE:感染者の群れがシャッターを叩く音（？）
 [se0 storage="SE19"]
@@ -73,69 +73,67 @@
 
 *10239|
 [fc]
-シャッターを叩く音に、もしかして速水が逃げてきた[r]
-のかも、と振り向いたが、俺の期待はあっさり裏切ら[r]
-れた。[pcms]
+The sound of banging on the shutter made me turn around,[r]
+hoping Hayami had come, but my hopes were quickly dashed.[pcms]
 
 [se0 storage="SE48"]
 
 *10240|
 [fc]
-格子状のシャッターの向こうにいるヤツらは、全員ど[r]
-こを見ているかわからない目をして、よだれを垂れ流[r]
-しながら、呻き声をあげてシャッターを叩いていた。[pcms]
+The figures on the other side of the lattice shutter, with[r]
+their unfocused eyes dripping saliva, were moaning and[r]
+pounding on it.[pcms]
 
 *10241|
 [fc]
-[ns]大倉[nse]
-「クスリかなんかやってんじゃねーのか？　アイツら」[pcms]
+[ns]Ookura[nse]
+"Are they on drugs or something?"[pcms]
 
 [ChrSetEx layer=4 chbase="anza_n16"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *10242|
 [fc]
 [vo_anz s="anzai0070"]
-[ns]女[nse]
-「どうかしら……覚醒剤の症状とは違うようだけれど」[pcms]
+[ns]Female[nse]
+"I wonder... It doesn't seem like symptoms of stimulants[r]
+though."[pcms]
 
 *10243|
 [fc]
-[ns]大倉[nse]
-「わかるんですか？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"You know about that?"[pcms]
 
 [ChrSetEx layer=4 chbase="anza_n05"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *10244|
 [fc]
 [vo_anz s="anzai0071"]
-[ns]女[nse]
-「これでも、看護師の資格持ってるのよ。研修の時に、[r]
-　薬物の摂取が原因で運ばれてきた人を見たことがあ[r]
-　るの」[pcms]
+[ns]Female[nse]
+"I do have a nursing license. During my training, I've seen[r]
+people brought in because of drug use."[pcms]
 
 *10245|
 [fc]
 [vo_anz s="anzai0072"]
-[ns]女[nse]
-「もし覚醒剤を使用しているなら、興奮した状態にな[r]
-　るから、もっと騒いだり暴れたりすると思うけど」[pcms]
+[ns]Female[nse]
+"If they were using stimulants, they'd be more agitated and[r]
+violent, I think."[pcms]
 
 *10246|
 [fc]
-[ns]大倉[nse]
-「騒いだり暴れたり……？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Agitated and violent...?"[pcms]
 
 *10247|
 [fc]
-それって……。[r]
-まるっきり、さっきのオッサンじゃねーか……。[r]
-もしアイツが覚醒剤なんかやってたら……！[pcms]
+That's exactly like that old man from earlier... If he was[r]
+on stimulants...![pcms]
 
 *10248|
 [fc]
-[ns]大倉[nse]
-「なんとかして、向こうのビルに行けないんですか？[r]
-　早くしないと速水が……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Can't we somehow get to the building across? We need to[r]
+hurry or Hayami will be..."[pcms]
 
 [chara_int_ layer=4]
 [ChrSetEx layer=2 chbase="anza_n05"][ChrSetXY layer=2 x=0 y=0]
@@ -144,42 +142,41 @@
 *10249|
 [fc]
 [vo_kob s="koba0135"]
-[ns]小林[nse]
-「ここから、むこうにいけるんじゃないかな。ほら、[r]
-　ここの、わたりろうかみたいなとこ」[pcms]
+[ns]Kobayashi[nse]
+"We might be able to get there from here. Look, this[r]
+walkway-like place here."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *10250|
 [fc]
-ユウがショルダーバッグから取り出した[r]
-パンフレットを拡げて、一部を指でなぞって見せた。[pcms]
+Yuuki took out a pamphlet from her shoulder bag and spread[r]
+it out, tracing a part of it with her finger.[pcms]
 
 *10251|
 [fc]
-[ns]大倉[nse]
-「エアー、ブリッジ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Air Bridge..."[pcms]
 
 *10252|
 [fc]
-確かに、３階にあるＡＩＲ－Ｂｒｉｄｇｅと書かれた[r]
-渡り廊下で、こっちのビルと向こうのビルが繋がって[r]
-いる。[pcms]
+Indeed, there was a walkway labeled AIR-Bridge on the third[r]
+floor connecting this building to the one across.[pcms]
 
 *10253|
 [fc]
-けど、俺はビルと渡り廊下の継ぎ目に書かれた、[r]
-『ｗｅｓｔｇａｔｅ』という文字が気になっていた。[pcms]
+But what caught my attention was the word "westgate" written[r]
+at the joint between the building and the walkway.[pcms]
 
 *10254|
 [fc]
-こっちのビルとエントランスの継ぎ目にシャッターが[r]
-あったみたいに、ここにもシャッターがあったら……。[pcms]
+If there's a shutter at the joint between this building and[r]
+the entrance like there was before...[pcms]
 
 *10255|
 [fc]
-もしホントにシャッターがあって、あのオッサンがそ[r]
-れに気がついたら……。[pcms]
+If there really is a shutter there and that old man notices[r]
+it...[pcms]
 
 [ChrSetEx layer=2 chbase="anza_n10"][ChrSetXY layer=2 x=0 y=0]
 [ChrSetEx layer=3 chbase="koba_n12"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
@@ -187,247 +184,244 @@
 *10256|
 [fc]
 [vo_anz s="anzai0073"]
-[ns]女[nse]
-「そういえば、３階に向こうに行ける通路があったわ[r]
-　ね。すっかり忘れてたわ……」[pcms]
+[ns]Female[nse]
+"Now that you mention it, there was a passage on the third[r]
+floor that leads across. I completely forgot..."[pcms]
 
 *10257|
 [fc]
-[ns]大倉[nse]
-「俺、行ってきます。急がないと速水がヤバイんで」[pcms]
+[ns]Ookura Hiroshi[nse]
+"I'll go check it out. We need to hurry or Hayami is in[r]
+danger."[pcms]
 
 [ChrSetEx layer=3 chbase="koba_n03"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
 
 *10258|
 [fc]
 [vo_kob s="koba0136"]
-[ns]小林[nse]
-「あ、ま、まってヒロ！」[pcms]
+[ns]Kobayashi[nse]
+"Ah, wait, Hiro!"[pcms]
 
 *10259|
 [fc]
-[ns]大倉[nse]
-「ユウ、急がなきゃホントにヤバイんだよ！　ここで[r]
-　グダグダ言い合ってるヒマなんかねーんだ！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Yuuki, we really need to hurry! We don't have time to[r]
+dawdle here!"[pcms]
 
 [ChrSetEx layer=3 chbase="koba_n05"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
 
 *10260|
 [fc]
 [vo_kob s="koba0137"]
-[ns]小林[nse]
-「それはわかってるよ、だから……だから、ボクもい[r]
-　こうかなって……」[pcms]
+[ns]Kobayashi[nse]
+"I know that, so... so maybe I should go too..."[pcms]
 
 *10261|
 [fc]
-不安そうな顔でそう言うユウを、正直、俺は連れて行[r]
-きたくなかった。[pcms]
+Yuuki said this with an anxious look on her face, and[r]
+honestly, I didn't want to take her with me.[pcms]
 
 *10262|
 [fc]
-メイド喫茶の時もまともに動けなかったし、ヤク中か[r]
-もしれない人間が相手じゃ、ユウの活躍はちょっと期[r]
-待できないからだ。[pcms]
+She couldn't even move properly at the maid cafe, and if[r]
+we're dealing with possibly drugged people, I can't expect[r]
+much from Yuuki.[pcms]
 
 *10263|
 [fc]
-危ない目に遭う可能性が高いとわかっているのに、わ[r]
-ざわざ連れて行くことはできない。[pcms]
+It's not right to deliberately bring her into a situation[r]
+where it's highly likely she'll encounter danger.[pcms]
 
 *10264|
 [fc]
-[ns]大倉[nse]
-「……ムリしないでここで待ってろ」[pcms]
+[ns]Ookura Hiroshi[nse]
+"...Don't push yourself and just wait here."[pcms]
 
 [ChrSetEx layer=3 chbase="koba_n04"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
 
 *10265|
 [fc]
 [vo_kob s="koba0138"]
-[ns]小林[nse]
-「ううん、いく。ボクだって、ありすがしんぱいだし」[pcms]
+[ns]Kobayashi[nse]
+"No, I'm going. I'm worried about Arisu too."[pcms]
 
 *10266|
 [fc]
-[ns]大倉[nse]
-「ユウ、頼むから……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Yuuki, please..."[pcms]
 
 [ChrSetEx layer=2 chbase="anza_n05"][ChrSetXY layer=2 x=0 y=0][trans_c cross time=150]
 
 *10267|
 [fc]
 [vo_anz s="anzai0074"]
-[ns]女[nse]
-「わたしも行くわ」[pcms]
+[ns]Female[nse]
+"I'm going too."[pcms]
 
 *10268|
 [fc]
-意地になって言うユウを説得しようとした俺の傍に、[r]
-女の人が立った。[pcms]
+As I tried to persuade Yuuki who was stubbornly insisting,[r]
+the woman stood by my side.[pcms]
 
 *10269|
 [fc]
 [vo_anz s="anzai0075"]
-[ns]女[nse]
-「考えたくはないけど、もし彼女やもう一人の女の子[r]
-　が酷い怪我をしていたら、わたしならなんとかでき[r]
-　るかもしれないから」[pcms]
+[ns]Female[nse]
+"I don't want to think about it, but if she or the other[r]
+girl is seriously injured, maybe I can do something."[pcms]
 
 *10270|
 [fc]
 [vo_kob s="koba0139"]
-[ns]小林[nse]
-「ボクだって、ありすをおんぶして、はこんであげる[r]
-　ぐらいはできるよ」[pcms]
+[ns]Kobayashi[nse]
+"I can at least carry Arisu on my back and transport her."[pcms]
 
 *10271|
 [fc]
-[ns]大倉[nse]
-「……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"..."[pcms]
 
 [chara_int_ layer=2][chara_int_ layer=3][trans_c cross time=150]
 
 *10272|
 [fc]
-確かに、看護師の資格を持ってるっていうこのひとがい[r]
-てくれたら、いざって時に助かる。[pcms]
+Indeed, having this woman with a nursing license could be a[r]
+lifesaver in an emergency.[pcms]
 
 *10273|
 [fc]
-ユウも男だ、自分で言ったとおり、ケガ人をおぶって[r]
-運ぶぐらいは、なんとかやってくれるだろう。[pcms]
+Yuuki is a man; as he said himself, he should be able to[r]
+carry an injured person if necessary.[pcms]
 
 *10274|
 [fc]
-となると、あのお嬢様だけここに残すワケにはいかな[r]
-いし、全員で行くしかないな……。[pcms]
+That means we can't just leave the young lady here alone; we[r]
+have no choice but to go together...[pcms]
 
 *10275|
 [fc]
-[ns]大倉[nse]
-「キミも一緒に行こう。一人でいるのは危ないから」[pcms]
+[ns]Ookura Hiroshi[nse]
+"You should come with us too. It's dangerous to be alone."[pcms]
 
 *10276|
 [fc]
-そう声をかけても、お嬢様は壁際にしゃがみ込んでハ[r]
-スキーの背中を撫で続けたまま、俺らについてこよう[r]
-としない。[pcms]
+Even as I called out to her, the young lady remained[r]
+crouched by the wall, continuing to stroke the back of her[r]
+Husky without any sign of following us.[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_f03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *10277|
 [fc]
 [vo_may s="maya0062"]
-[ns]お嬢様[nse]
-「知らない人間といる方が危険……。いざという時、[r]
-　信用できるのは自分だけだし……」[pcms]
+[ns]Young Lady[nse]
+"Being with strangers is dangerous... In a crisis, the only[r]
+one I can trust is myself..."[pcms]
 
 *10278|
 [fc]
-[ns]大倉[nse]
-「キミが一人でいる時になにかあったら、助けられな[r]
-　いだろ？　俺らと入れ違いに、あのオッサンがここ[r]
-　へ来たらどうするんだ」[pcms]
+[ns]Ookura Hiroshi[nse]
+"What if something happens to you while you're alone? What[r]
+will you do if that old man comes here while we're gone?"[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_f02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *10279|
 [fc]
 [vo_may s="maya0063"]
-[ns]お嬢様[nse]
-「私は一人じゃない……ジョンがいるから大丈夫……」[pcms]
+[ns]Young Lady[nse]
+"I'm not alone... I have John, so it's okay..."[pcms]
 
 *10280|
 [fc]
-[ns]大倉[nse]
-「アイツ、ナイフ持ってんだぜ？　頼りにしてる犬が[r]
-　やられたら、そのあとはどうするんだよ」[pcms]
+[ns]Ookura Hiroshi[nse]
+"That guy has a knife, you know? If your trusted dog gets[r]
+hurt, what then?"[pcms]
 
 *10281|
 [fc]
 [vo_may s="maya0064"]
-[ns]お嬢様[nse]
-「あんなのに、ジョンはやられたりしない……」[pcms]
+[ns]Young Lady[nse]
+"John won't be taken down by someone like that..."[pcms]
 
 *10282|
 [fc]
-[ns]大倉[nse]
-「なぁ、頼むから、今どういう状況か考えてくれ。あ[r]
-　のオッサンに、ホントに殺されるかもしれないんだ[r]
-　ぞ！？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Please think about the situation we're in. You could really[r]
+be killed by that old man!?"[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_f05"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *10283|
 [fc]
 [vo_may s="maya0065"]
-[ns]お嬢様[nse]
-「知らない……私はここにいる……」[pcms]
+[ns]Young Lady[nse]
+"I don't know... I'm staying here..."[pcms]
 
 *10284|
 [fc]
-[ns]大倉[nse]
-「……俺、実はキミのこと知ってるんだ。覚えてない[r]
-　かもしれないけど、話をしたことだってある。[r]
-　だから、ほっとけないんだよ」[pcms]
+[ns]Ookura Hiroshi[nse]
+"...Actually, I know about you. You might not remember, but[r]
+we've even talked before. That's why I can't just leave you[r]
+here."[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_f02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *10285|
 [fc]
 [vo_may s="maya0066"]
-[ns]お嬢様[nse]
-「……勝手に知り合い面しないで……迷惑……」[pcms]
+[ns]Young Lady[nse]
+"...Don't act like you know me... It's annoying..."[pcms]
 
 *10286|
 [fc]
-彼女のその言い方と、聞き分けのない子供のような態[r]
-度に頭にキて、俺は思わず大声で怒鳴りつけていた。[pcms]
+Her way of speaking and her childishly unreasonable attitude[r]
+made me lose my temper, and I found myself yelling at her[r]
+loudly.[pcms]
 
 *10287|
 [fc]
-[ns]大倉[nse]
-「だったら他人で構わねーよ！　けどなぁ、赤の他人[r]
-　にお嬢様のワガママが通用すると思うなよ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Then it doesn't matter if you're a stranger! But don't[r]
+think your ladylike whims will work on someone who's just a[r]
+stranger!!"[pcms]
 
 *10288|
 [fc]
 [vo_may s="maya0067"]
-[ns]お嬢様[nse]
-「……」[pcms]
+[ns]Young Lady[nse]
+"..."[pcms]
 
 *10289|
 [fc]
-[ns]大倉[nse]
-「一人だけ置いていったらなぁ、気になってケツの収[r]
-　まりが悪くてしょーがねーんだ！！　ワガママ言っ[r]
-　てねーで俺らと一緒に来いッ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"If we leave you here alone, I'll be worried and it'll be a[r]
+pain in the ass! Stop being selfish and come with us!!"[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_f03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *10290|
 [fc]
-急にキレられて驚いたのか、お嬢様は少しの間ポカン[r]
-として、俺の顔を見つめていた。[pcms]
+Perhaps surprised by my sudden outburst, the young lady[r]
+stared at me blankly for a moment.[pcms]
 
 *10291|
 [fc]
 [vo_may s="maya0068"]
-[ns]お嬢様[nse]
-「わがままを言ってるのはそっち……」[pcms]
+[ns]Young Lady[nse]
+"The one being selfish is you..."[pcms]
 
 *10292|
 [fc]
-[ns]大倉[nse]
-「いいから早く！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Just hurry up!!"[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *10293|
 [fc]
-俺に腕を引かれ、むくれ顔で渋々立ち上がる彼女の様[r]
-子を、ハスキーはシッポを振って見上げていた。[pcms]
+As I pulled her arm, she stood up reluctantly with a sulky[r]
+face, while the Husky looked up at her wagging its tail.[pcms]
 
 [fadeoutbgm time=502]
 [stop_se0]
@@ -437,4 +431,4 @@
 
 [jump storage="westtown_main10020.ks" target=*westtown_main10020_TOP]
 
-;//－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+;//

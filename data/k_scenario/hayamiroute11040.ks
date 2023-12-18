@@ -24,61 +24,58 @@
 
 *3058|
 [fc]
-アイツらに食われて死んじまえ、クズ野郎……！[pcms]
+"Let those bastards eat him alive and die, scumbag...!"[pcms]
 
 *3059|
 [fc]
-そう思って歩きだそうとしたけど、後ろでわめき続け[r]
-るオッサンの声に、俺の足はすぐに止まってしまった。[pcms]
+"I thought that and started to walk away, but the old man's[r]
+shouting behind me stopped me in my tracks."[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
 *3060|
 [fc]
-[ns]大倉[nse]
-「……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"..."[pcms]
 
 *3061|
 [fc]
-わかってるよ……。[r]
-見殺しにするのが間違ってるなんて、[r]
-そんなコトわかってんだ……。[pcms]
+"I know... I know it's wrong to just leave him to die..."[pcms]
 
 *3062|
 [fc]
-けど、アイツは速水を脅して、しかも体まで[r]
-触りやがったんだぞ……！[pcms]
+"But that guy threatened Hayami, and even touched her[r]
+body...!"[pcms]
 
 *3063|
 [fc]
-ナイフを突きつけられ、体を触られてる時の、速水の[r]
-怯えてる顔を思い出して、俺の中でオッサンへの怒り[r]
-が急速に膨れあがっていく。[pcms]
+"Remembering Hayami's frightened face when she was[r]
+threatened with a knife and touched, my anger towards that[r]
+old man swelled rapidly."[pcms]
 
 *3064|
 [fc]
-ヤツらに襲われる前に、自分がこのシャベルで、あの[r]
-オッサンの頭を叩き割ってやってもいいとすら、俺は[r]
-思い始めていた。[pcms]
+"Before they could attack him, I even started thinking that[r]
+it might be okay for me to crack that old man's head open[r]
+with this shovel."[pcms]
 
 [ChrSetEx layer=4 chbase="sugo_n06"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *3064a|
 [fc]
-[ns]作業服の男[nse]
-「クソガキコラァ！！　これ取らねェとブッ殺すぞ！！[r]
-　テメェの女ァ、ボコボコにしてレイプしてやっから[r]
-　なァ！！　憶えてろよ！！　あァ！？」[pcms]
+[ns]Work Clothes Man[nse]
+"You little shit! I'll kill you if you don't hand it over!![r]
+I'll beat up your girl and rape her, remember that!! Ah!?"[pcms]
 
 *3065|
 [fc]
-ギャーギャーギャーギャーうるせーんだよ……。[r]
-マジでやってやろうか……。[pcms]
+"Shut up, shut up, shut up...! Maybe I really should do[r]
+it..."[pcms]
 
 *3066|
 [fc]
-シャベルを握り直し、振り返ると、周りの店に隠れて[r]
-たのか、オッサンの周りに大量のイカレ野郎が近づい[r]
-てきていた。[pcms]
+"As I gripped the shovel tighter and turned around, a bunch[r]
+of crazies had gathered around the old man, maybe they were[r]
+hiding in the surrounding shops."[pcms]
 
 ;//♪：bgm012 stop
 [fadeoutbgm time=1000]
@@ -91,73 +88,70 @@
 *3067|
 [fc]
 [vo_mob s="siro_b0001"]
-[ns]白いワンピースの女[nse]
-「あ゛ぁ～～ちん゛ちんい゛たぁ～～……[r]
-　こんと゛のは、お゛っきそう゛～～……！[r]
-　ひ、ひひはっ……！」[pcms]
+[ns]Woman in a white dress[nse]
+"Ahh~ my pussy hurts~... It feels like it's going to[r]
+swell~...! Hehehe...!"[pcms]
 
 *3068|
 [fc]
-一番近くにいた、服のあちこちが破けて肌が見えてる[r]
-女が、ヘラヘラしながら近づいてくるのを見て、何を[r]
-勘違いしてるのか、オッサンは嬉しそうな声を上げる。[pcms]
+"Seeing the woman closest to me, with her clothes torn here[r]
+and there exposing her skin, approaching with a silly grin,[r]
+the old man let out a pleased sound, misunderstanding the[r]
+situation."[pcms]
 
 [ChrSetEx layer=4 chbase="sugo_n02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *tuia22|
 [fc]
-[ns]作業服の男[nse]
-「ハッ！！　ヒァハハハッ！！　なんだァ？　[r]
-　ねーちゃん、オレのぢんぼこ欲しいのかァ？　[r]
-　たっぷりくれてやるから、これ外してくれや、な？」[pcms]
+[ns]Work clothes man[nse]
+"Ha! Hahahaha!! What's this? You want my dick, sister? I'll[r]
+give you plenty if you take this off me, okay?"[pcms]
 
 *3069|
 [fc]
 [vo_mob s="siro_b0002"]
-[ns]白いワンピースの女[nse]
-「お゛っきぃの゛て゛ぇ～～……お゛しりに゛、せん[r]
-　してぇ～～……！　はや゛くう゛ぅ～～～……！[r]
-　う゛んち、もれ゛ちゃうから゛ぁ～～……！！」[pcms]
+[ns]Woman in a white dress[nse]
+"I want your big one~... In my ass~, do it soon~...! Hurry[r]
+up~...! I'm gonna leak shit~...!!"[pcms]
 
 *3070|
 [fc]
-[ns]大倉[nse]
-「……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"..."[pcms]
 
 *3071|
 [fc]
-あのオッサン、もしかして、もう……？[r]
-それとも、ホントにわかってないだけなのか……。[pcms]
+"That old man, could it be that he's already...? Or does he[r]
+really not understand what's happening?"[pcms]
 
 [cutin storage="cut002" layer=1][trans_c cross time=500]
 
 *3072|
 [fc]
-助けてやるかどうか、迷う要素がさらに出てきて、[r]
-ためらっている間に、最初に現れた数人のイカレ野郎が、[r]
-すぐ近くまで近づいてきていた。[pcms]
+"Another factor making me hesitate about whether to help him[r]
+or not appeared, and while I was hesitating, the first few[r]
+crazies had approached very close."[pcms]
 
 *3073|
 [fc]
-ココでいつまでもあのオッサンに関わってたら、[r]
-俺までイカレ集団にヤラレちまう……。[pcms]
+"If I keep involved with that old man here, I'll end up[r]
+getting done in by this crazy group too..."[pcms]
 
 *3074|
 [fc]
-逃げるしかねー……。[pcms]
+"There's no choice but to run..."[pcms]
 
 *3075|
 [fc]
-そうだ……。[r]
-俺は速水を助けるんだ……。[r]
-そのために、逃げるしかねー……！！[pcms]
+"That's right... I have to save Hayami... For that reason,[r]
+there's no choice but to run...!!"[pcms]
 
 [cutin_int][trans_c cross time=300]
 
 *3076|
 [fc]
-すぐ近くにいたヤツを、シャベルで思いっきり突き飛[r]
-ばして転ばし、エレベーターホールの方へ向かって、[r]
-俺は短い通路を走った。[pcms]
+"I knocked down the guy close to me with all my might using[r]
+the shovel and ran towards the elevator hall through the[r]
+short corridor."[pcms]
 
 
 ;//♪：bgm009 fadeout
@@ -169,4 +163,4 @@
 
 [jump storage="hayamiroute11050.ks" target=*hayamiroute11050_TOP]
 
-;//－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+;//

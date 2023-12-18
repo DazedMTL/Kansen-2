@@ -18,13 +18,13 @@
 *7609|
 [fc]
 [vo_anz s="anzai0000"]
-[ns]女[nse]
-「こっちよ！　急いで！！」[pcms]
+[ns]Female[nse]
+"Over here! Hurry!!"[pcms]
 
 *7610|
 [fc]
-右端の扉を開けて手招きしている女の人に従って、俺[r]
-は一番最後にショッピングモールの中へ飛び込んだ。[pcms]
+Following the woman beckoning from the door on the right, I[r]
+was the last to leap into the shopping mall.[pcms]
 
 ;//♪：bgm009
 [bgm storage="bgm009"]
@@ -37,16 +37,16 @@
 
 *7611|
 [fc]
-扉の下部にある鍵を閉め、俺らを呼び寄せた女の人は[r]
-小さく息をついた。[pcms]
+After locking the key at the bottom of the door, the woman[r]
+who had called us over let out a small breath.[pcms]
 
 [ChrSetEx layer=4 chbase="anza_n01"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *7612|
 [fc]
 [vo_anz s="anzai0001"]
-[ns]女[nse]
-「危ないところだったわね。怪我は無い？」[pcms]
+[ns]Female[nse]
+"That was close. Are you hurt?"[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
@@ -57,69 +57,68 @@
 *7613|
 [fc]
 [vo_nag s="nagasaki0010"]
-[ns]セーラー服の女[nse]
-「はい、私達は平気です」[pcms]
+[ns]Sailor Suit Girl[nse]
+"Yes, we're all fine."[pcms]
 
 *7614|
 [fc]
 [vo_anz s="anzai0002"]
-[ns]女[nse]
-「男の子達は？」[pcms]
+[ns]Female[nse]
+"What about the boys?"[pcms]
 
 *7615|
 [fc]
-[ns]大倉[nse]
-「大丈夫です」[pcms]
+[ns]Ookura[nse]
+"We're okay."[pcms]
 
 [ChrSetEx layer=3 chbase="koba_n01"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
 
 *7616|
 [fc]
 [vo_kob s="koba0122"]
-[ns]小林[nse]
-「ボクも、怪我はしてません」[pcms]
+[ns]Kobayashi[nse]
+"I'm not injured either."[pcms]
 
 *7617|
 [fc]
 [vo_anz s="anzai0003"]
-[ns]女[nse]
-「そう、良かった」[pcms]
+[ns]Female[nse]
+"Good, thank goodness."[pcms]
 
 *7618|
 [fc]
 [ns]？？？[nse]
-「チッ……」[pcms]
+"Tch..."[pcms]
 
 [chara_int_ layer=2][chara_int_ layer=3]
 [ChrSetEx layer=4 chbase="sugo_n01"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *7619|
 [fc]
-わざと聞こえるように鳴らしたと思える舌打ちに、顔[r]
-をそっちに向けると、作業着を着たガタイのいいオッ[r]
-サンが、俺とユウを見てしかめっ面をしていた。[pcms]
+The clicking of a tongue, seemingly loud enough to be heard[r]
+on purpose, made me turn my face in that direction, where a[r]
+burly man in work clothes was frowning at me and Yuu.[pcms]
 
 *7620|
 [fc]
-なんだ？　このオッサン……。[r]
-俺らが助かったのが気に入らねーのかよ……。[pcms]
+What's with this guy...? Is he upset that we got saved...?[pcms]
 
 *7621|
 [fc]
-[ns]作業服の男[nse]
-「なに見てんだよ、あ？」[pcms]
+[ns]Work clothes man[nse]
+"What are you looking at, huh?"[pcms]
 
 *7622|
 [fc]
-[ns]大倉[nse]
-「別に……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Nothing..."[pcms]
 
 [ChrSetEx layer=4 chbase="sugo_n06"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *7623|
 [fc]
-[ns]作業服の男[nse]
-「別にだぁ？　誰に口聞いてんだコラ！」[pcms]
+[ns]Work Clothes Man[nse]
+"Nothing, huh? Who do you think you're talking to?!"[pcms]
 
 [chara_int_ layer=4]
 [ChrSetEx layer=3 chbase="sugo_n01"][ChrSetXY layer=3 x=400 y=0]
@@ -128,73 +127,68 @@
 *7624|
 [fc]
 [vo_anz s="anzai0004"]
-[ns]女[nse]
-「やめてください！　こんな時に……」[pcms]
+[ns]Female[nse]
+"Please stop! Not at a time like this..."[pcms]
 
 [ChrSetEx layer=3 chbase="sugo_n07"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
 
 *7625|
 [fc]
-[ns]作業服の男[nse]
-「チッ！　だからコイツら入れんのヤメロっつったん[r]
-　だよ！！」[pcms]
+[ns]Work Clothes Man[nse]
+"Tch! That's why I said not to let these guys in!!"[pcms]
 
 *7626|
 [fc]
-[ns]大倉[nse]
-「……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"..."[pcms]
 
 *7627|
 [fc]
-俺らを見殺しにするつもりだったのか……？[r]
-なんて野郎だ……。[r]
-自分だけ助かりゃいいのかよ……！[pcms]
+Were they planning to leave us for dead...? What kind of guy[r]
+is this...? Only caring about his own safety...![pcms]
 
 *7628|
 [fc]
-イライラが顔に出ていたのがわかったのか、速水が俺[r]
-のシャツの袖を引っ張って、首を横に振った。[pcms]
+The irritation must have shown on my face, as Hayami pulled[r]
+on the sleeve of my shirt and shook her head.[pcms]
 
 [ChrSetEx layer=3 chbase="koba_n01"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
 
 *7629|
 [fc]
 [vo_kob s="koba0123"]
-[ns]小林[nse]
-「あの人達、一体なんなんですか？　それに、あっち[r]
-　こっち崩れてるし……。何があったんですか？」[pcms]
+[ns]Kobayashi[nse]
+"Who are those people, anyway? And everything's falling[r]
+apart here and there... What happened?"[pcms]
 
 *7630|
 [fc]
-ユウにそう聞かれて、女の人は疲れたように、首を横[r]
-に振った。[pcms]
+Asked by Yuu, the woman shook her head tiredly.[pcms]
 
 [ChrSetEx layer=2 chbase="anza_n10"][ChrSetXY layer=2 x=0 y=0][trans_c cross time=150]
 
 *7631|
 [fc]
 [vo_anz s="anzai0005"]
-[ns]女[nse]
-「わからないわ……。携帯も通じないし、テレビ[r]
-　もラジオもやってないのよ」[pcms]
+[ns]Female[nse]
+"I don't know... My cell phone isn't working, and there's[r]
+nothing on TV or radio either."[pcms]
 
 [ChrSetEx layer=3 chbase="koba_n12"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
 
 *7632|
 [fc]
 [vo_kob s="koba0124"]
-[ns]小林[nse]
-「そうですか……。あの、このショッピングモールの[r]
-　人なんですか？」[pcms]
+[ns]Kobayashi[nse]
+"Is that so... Are you someone from this shopping mall?"[pcms]
 
 [ChrSetEx layer=2 chbase="anza_n07"][ChrSetXY layer=2 x=0 y=0][trans_c cross time=150]
 
 *7633|
 [fc]
 [vo_anz s="anzai0006"]
-[ns]女[nse]
-「ううん、わたしも呼ばれてここに逃げてきたの。こ[r]
-　ちらにね」[pcms]
+[ns]Female[nse]
+"No, I was also called and came here to escape. Over here."[pcms]
 
 
 ;mm 追加
@@ -204,28 +198,27 @@
 
 *7634|
 [fc]
-ニヤニヤしながら速水やお嬢様、セーラー服の女を舐[r]
-め回すように眺めていたオッサンを、女の人は手で示[r]
-した。[pcms]
+The woman pointed with her hand at the man who was leering[r]
+at Hayami and the young lady in the sailor suit with a grin.[pcms]
 
 ;[chara_int_ layer=2][chara_int_ layer=3][trans_c cross time=150]
 
 *7635|
 [fc]
-[ns]大倉[nse]
-「……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"..."[pcms]
 
 *7636|
 [fc]
-この女の人を助けた……？[r]
-俺らが無事だったことに舌打ちしたコイツが……？[r]
-なんか企んでたんじゃねーのか？　このオッサン……。[pcms]
+This woman helped him...? The same guy who clicked his[r]
+tongue because we were safe...? Is he plotting something?[r]
+This guy...[pcms]
 
 *7637|
 [fc]
-相変わらずニヤニヤして女達を眺めるオッサンに、ま[r]
-た沸いてきたイラつきを、隣にいた速水の腹から聞こ[r]
-えてきた脳天気な音がかき消した。[pcms]
+The irritation rose again as I watched the man still[r]
+grinning at the women, but it was drowned out by a carefree[r]
+sound coming from Hayami's stomach.[pcms]
 
 ;//SE：腹の鳴る音
 ;mm 追加
@@ -238,26 +231,26 @@
 *7638|
 [fc]
 [vo_nag s="nagasaki0011"]
-[ns]セーラー服の女[nse]
-「クス……」[pcms]
+[ns]Sailor Suit Girl[nse]
+"Kusu..."[pcms]
 ;//◎苦笑い
 
 *7639|
 [fc]
 [vo_anz s="anzai0007"]
-[ns]女[nse]
-「あらあら……」[pcms]
+[ns]Female[nse]
+"Oh dear..."[pcms]
 ;//◎苦笑い
 
 *7640|
 [fc]
-[ns]大倉[nse]
-「オマエな……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"You know..."[pcms]
 
 *7641|
 [fc]
-呆れ顔で溜息混じりに言う俺に、速水は真っ赤になっ[r]
-て言い返してくる。[pcms]
+Hayami turned bright red and retorted as I spoke with a sigh[r]
+of exasperation.[pcms]
 
 [chara_int_ layer=2][chara_int_ layer=3][trans_c cross time=150]
 [ChrSetEx layer=4 chbase="hayami_t08"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -265,35 +258,35 @@
 *7642|
 [fc]
 [vo_hay s="hayami0139"]
-[ns]ありす[nse]
-「だ、だって……。[r]
-　しょうがないじゃん！！」[pcms]
+[ns]Alice[nse]
+"But... It can't be helped!!"[pcms]
 
 *7643|
 [fc]
-[ns]大倉[nse]
-「なんで逆ギレだよ。助かって安心したからって、よ[r]
-　くこの状況で腹鳴らせるな、オマエ……」[pcms]
+[ns]Ookura[nse]
+"Why are you getting mad? Even if you're relieved we're[r]
+safe, it's quite something to have your stomach growl in[r]
+this situation, you..."[pcms]
 
 [ChrSetEx layer=4 chbase="hayami_t02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *7644|
 [fc]
 [vo_hay s="hayami0140"]
-[ns]ありす[nse]
-「だって……」[pcms]
+[ns]Arisu[nse]
+"But..."[pcms]
 
 *7645|
 [fc]
-[ns]大倉[nse]
-「ポケットにアメかなんか入ってねーのか？　バスん[r]
-　中で食ってたヤツの残り」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Don't you have some candy or something in your pocket?[r]
+Leftovers from what you were eating on the bus?"[pcms]
 
 *7646|
 [fc]
-口を尖らせながらスカートのポケットを探る速水に、[r]
-セーラー服の女が苦笑いしながら、すぐ近くにあった[r]
-右手のビルへの出入り口を指さした。[pcms]
+As Hayami searched her skirt pocket with pursed lips, the[r]
+sailor suit girl pointed to a nearby building entrance with[r]
+a wry smile.[pcms]
 
 [chara_int_ layer=4]
 [ChrSetEx layer=2 chbase="hayami_t01"][ChrSetXY layer=2 x=0 y=0]
@@ -302,98 +295,96 @@
 *7647|
 [fc]
 [vo_nag s="nagasaki0012"]
-[ns]セーラー服の女[nse]
-「こっちのビルの１階、食品売り場よ。非常時の避難[r]
-　場所、って言ってるぐらいなんだから、少し貰って[r]
-　きても文句言わないんじゃない？」[pcms]
+[ns]Sailor Suit Girl[nse]
+"The first floor of that building has a food section. It's[r]
+supposed to be an emergency shelter, so I don't think[r]
+they'll complain if we take a little."[pcms]
 
 [ChrSetEx layer=2 chbase="hayami_t05"][ChrSetXY layer=2 x=0 y=0][trans_c cross time=150]
 
 *7648|
 [fc]
 [vo_hay s="hayami0141"]
-[ns]ありす[nse]
-「え、でも……」[pcms]
+[ns]Arisu[nse]
+"Eh, but..."[pcms]
 
 *7649|
 [fc]
-女の提案に、困った顔で俺を見る速水に、俺は首を横[r]
-に振った。[pcms]
+At the woman's suggestion, Hayami looked at me with a[r]
+troubled face, and I shook my head.[pcms]
 
 *7650|
 [fc]
-[ns]大倉[nse]
-「やめとけ。ただの火事場ドロボウじゃねーか、そん[r]
-　なの」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Forget it. That's just looting in a disaster, isn't it?"[pcms]
 
 [ChrSetEx layer=3 chbase="naga_n02"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
 
 *7651|
 [fc]
 [vo_nag s="nagasaki0013"]
-[ns]セーラー服の女[nse]
-「気になるなら、貰った分のお金を置いてくればいい[r]
-　だけの話でしょう？」[pcms]
+[ns]Sailor Suit Girl[nse]
+"If you're worried, just leave some money for what you take.[r]
+That's all there is to it, right?"[pcms]
 
 *7652|
 [fc]
-[ns]大倉[nse]
-「そういう問題じゃ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"It's not about that..."[pcms]
 
 *7653|
 [fc]
-俺が言うのを、速水はシャツを引っ張って遮った。[pcms]
+Hayami interrupted me by pulling on my shirt.[pcms]
 
 [ChrSetEx layer=2 chbase="hayami_t09"][ChrSetXY layer=2 x=0 y=0][trans_c cross time=150]
 
 *7654|
 [fc]
 [vo_hay s="hayami0142"]
-[ns]ありす[nse]
-「そういえば、あたしたち、バスの中に荷物置きっぱ[r]
-　なしじゃない……？」[pcms]
+[ns]Arisu[nse]
+"By the way, didn't we leave our bags on the bus...?"[pcms]
 
 *7655|
 [fc]
-[ns]大倉[nse]
-「……あ」[pcms]
+[ns]Ookura[nse]
+"...Ah"[pcms]
 
 [ChrSetEx layer=2 chbase="hayami_t05"][ChrSetXY layer=2 x=0 y=0][trans_c cross time=150]
 
 *7656|
 [fc]
-すっかり忘れてた……。[r]
-でも、外があれじゃ、取りに行くワケにも……。[pcms]
+I had completely forgotten... But with things like that[r]
+outside, there's no way we can go get them...[pcms]
 
 [ChrSetEx layer=3 chbase="naga_n04"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
 
 *7657|
 [fc]
 [vo_nag s="nagasaki0014"]
-[ns]セーラー服の女[nse]
-「持ってないなら貸してあげるし、私も一緒に食べて[r]
-　あげるから。それならいいでしょう？」[pcms]
+[ns]Sailor Suit Girl[nse]
+"If you don't have anything, I'll lend you some, and I'll[r]
+eat with you too. That should be fine, right?"[pcms]
 
 [ChrSetEx layer=2 chbase="hayami_t09"][ChrSetXY layer=2 x=0 y=0][trans_c cross time=150]
 
 *7658|
 [fc]
 [vo_hay s="hayami0143"]
-[ns]ありす[nse]
-「あっ……」[pcms]
+[ns]Arisu[nse]
+"Ah..."[pcms]
 
 [chara_int_ layer=2][chara_int_ layer=3][trans_c cross time=150]
 
 *7659|
 [fc]
-[ns]大倉[nse]
-「オ、オイ！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Hey!"[pcms]
 
 *7660|
 [fc]
-速水の手を取って、右手のビルの出入り口へと歩き始[r]
-めたセーラー服の女だったが、途中でオッサンに道を[r]
-遮られた。[pcms]
+The sailor suit girl, having taken Hayami's hand, began[r]
+walking towards the entrance of the building on the right,[r]
+but was stopped along the way by a middle-aged man.[pcms]
 
 [ChrSetEx layer=2 chbase="sugo_n03"][ChrSetXY layer=2 x=0 y=0]
 [ChrSetEx layer=3 chbase="naga_n03"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
@@ -401,88 +392,88 @@
 *7661|
 [fc]
 [vo_nag s="nagasaki0015"]
-[ns]セーラー服の女[nse]
-「何？　どいてよ」[pcms]
+[ns]Sailor Suit Girl[nse]
+"What? Move aside."[pcms]
 
 *7662|
 [fc]
-[ns]作業服の男[nse]
-「そりゃできねェ相談だなァ」[pcms]
+[ns]Work clothes man[nse]
+"That's not something I can agree to."[pcms]
 
 *7663|
 [fc]
-オッサンはニヤけ面をしていたが、目は笑ってなくて、[r]
-妙にギラついていた。[pcms]
+The middle-aged man had a smirking face, but his eyes[r]
+weren't laughing; they were oddly sharp.[pcms]
 
 [ChrSetEx layer=2 chbase="sugo_n02"][ChrSetXY layer=2 x=0 y=0][trans_c cross time=150]
 
 *7664|
 [fc]
-[ns]作業服の男[nse]
-「デッケェ姉ちゃん、この中にはな、俺様が一番先に[r]
-　来てたんだよ」[pcms]
+[ns]Work clothes man[nse]
+"You see, big sister, I was the first one here in this[r]
+building."[pcms]
 
 [ChrSetEx layer=3 chbase="naga_n02"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
 
 *7665|
 [fc]
 [vo_nag s="nagasaki0016"]
-[ns]セーラー服の女[nse]
-「だから？」[pcms]
+[ns]Sailor Suit Girl[nse]
+"So what?"[pcms]
 
 [ChrSetEx layer=2 chbase="sugo_n03"][ChrSetXY layer=2 x=0 y=0][trans_c cross time=150]
 
 *7666|
 [fc]
-[ns]作業服の男[nse]
-「このビルん中にあるモンは、全部俺様のモンってこ[r]
-　とだよ。早いモン勝ちってヤツだァ」[pcms]
+[ns]Work Clothes Man[nse]
+"That means everything inside this building belongs to me.[r]
+It's first come, first served."[pcms]
 
 [ChrSetEx layer=3 chbase="naga_n03"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
 
 *7667|
 [fc]
 [vo_nag s="nagasaki0017"]
-[ns]セーラー服の女[nse]
-「はぁ……？」[pcms]
+[ns]Sailor Suit Girl[nse]
+"Huh...?"[pcms]
 
 [ChrSetEx layer=2 chbase="sugo_n01"][ChrSetXY layer=2 x=0 y=0][trans_c cross time=150]
 
 *7668|
 [fc]
-[ns]作業服の男[nse]
-「全部俺様のモンだからよォ、テメェらにくれてやる[r]
-　食いモンは無ェっつってんだよ！！」[pcms]
+[ns]Work clothes man[nse]
+"Since it's all mine, I'm saying there's nothing here for[r]
+you to eat!!"[pcms]
 
 [chara_int_ layer=2][chara_int_ layer=3][trans_c cross time=150]
 
 *7669|
 [fc]
-オッサンの、幼稚園児並の屁理屈に、セーラー服の女[r]
-だけじゃなく、聞いていた俺らも呆気にとられていた。[pcms]
+We were all taken aback by the middle-aged man's childish[r]
+logic, not just the sailor suit girl.[pcms]
 
 *7670|
 [fc]
-コイツ……。[r]
-外にいるヤツらみたいに、頭がイカレ始めてるんじゃ[r]
-ねーのか……？[pcms]
+This guy... Is his mind starting to go like those[r]
+outside...?[pcms]
 
 *7671|
 [fc]
-それとも、酔っぱらってるだけか……？[pcms]
+Or is he just drunk...?[pcms]
 
 [ChrSetEx layer=4 chbase="naga_n02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *7672|
 [fc]
 [vo_nag s="nagasaki0018"]
-[ns]セーラー服の女[nse]
-「意味わかんない……」[pcms]
+[ns]Sailor Suit Girl[nse]
+"I don't understand..."[pcms]
 
 *7673|
 [fc]
-首を傾げながら、無視して横を通り抜けようとした女[r]
-の首を掴み、オッサンは腹を蹴りつけた。[pcms]
+While tilting her head in confusion and trying to ignore him[r]
+and pass by, the girl was grabbed by the neck and kicked in[r]
+the stomach by the middle-aged man.[pcms]
 
 [ChrSetEx layer=4 chbase="naga_n16"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 [se0 storage="SE20"]
@@ -492,14 +483,14 @@
 *7674|
 [fc]
 [vo_nag s="nagasaki0019"]
-[ns]セーラー服の女[nse]
-「うぐぅっ！！」[pcms]
+[ns]Sailor Suit Girl[nse]
+"Ughh!!"[pcms]
 
 *7675|
 [fc]
 [vo_hay s="hayami0144"]
-[ns]ありす[nse]
-「きゃぁっ！！」[pcms]
+[ns]Arisu[nse]
+"Kyaa!!"[pcms]
 
 ;[chara_int]
 [ChrSetEx layer=4 chbase="anza_n12"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -507,16 +498,16 @@
 *7676|
 [fc]
 [vo_anz s="anzai0008"]
-[ns]女[nse]
-「何をするんですか！！　女の子のお腹を蹴り飛ばす[r]
-　なんて！！」[pcms]
+[ns]Female[nse]
+"What are you doing?! Kicking a girl in the stomach like[r]
+that!!"[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *7677|
 [fc]
-オッサンは悪びれもせず、ヘラヘラしながら速水の腕[r]
-を掴んで引き寄せた。[pcms]
+The middle-aged man, without any sign of remorse and[r]
+smirking, grabbed Hayami's arm and pulled her towards him.[pcms]
 
 [ChrSetEx layer=2 chbase="hayami_o01"][ChrSetXY layer=2 x=0 y=0]
 [ChrSetEx layer=3 chbase="sugo_n03"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
@@ -524,20 +515,20 @@
 *7678|
 [fc]
 [vo_hay s="hayami0145"]
-[ns]ありす[nse]
-「いやあぁぁっ！！！！」[pcms]
+[ns]Arisu[nse]
+"No, ahhhh!!"[pcms]
 
 *7679|
 [fc]
-[ns]大倉[nse]
-「速水！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Hayami!!"[pcms]
 
 [ChrSetEx layer=3 chbase="sugo_n06"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
 
 *7680|
 [fc]
-[ns]作業服の男[nse]
-「動くんじゃねェコラァ！！」[pcms]
+[ns]Work clothes man[nse]
+"Don't you move, hey!!"[pcms]
 
 [fadeoutbgm time=502]
 [stop_se0]
@@ -555,256 +546,252 @@
 
 *7681|
 [fc]
-動けないように後ろから押さえつけて、オッサンは片[r]
-手を後ろに回し、取り出したデカイ刃物を速水の首筋[r]
-に押し当てた。[pcms]
+To prevent her from moving, he held her from behind and with[r]
+one hand behind his back, he pulled out a large knife and[r]
+pressed it against Hayami's neck.[pcms]
 
 *7682|
 [fc]
 [vo_hay s="hayami0146"]
-[ns]ありす[nse]
-「ひっ……」[pcms]
+[ns]Alice[nse]
+"Hik..."[pcms]
 
 *7683|
 [fc]
-[ns]作業服の男[nse]
-「～♪　最近のガキはイイ乳してんなァ！[r]
-　ちっと揉ませてもらおうかァ」[pcms]
+[ns]Work Clothes Man[nse]
+"~♪ These young kids have nice tits! Maybe I'll give them a[r]
+squeeze."[pcms]
 
 *7684|
 [fc]
-目をギラつかせ、舌なめずりをして、男は後ろから速[r]
-水の胸を鷲掴みにする。[pcms]
+Licking his lips with gleaming eyes, the man reached from[r]
+behind and grabbed Hayami's breasts.[pcms]
 
 *7685|
 [fc]
-[ns]作業服の男[nse]
-「ヒャァ！　やっぱ若い乳はハリが違うぜェ！[r]
-　パンスケなんか比べモンになんねェな！」[pcms]
+[ns]Work Clothes Man[nse]
+"Hyaa! Young tits really do have a different firmness![r]
+Nothing like those flimsy ones!"[pcms]
 
 *7686|
 [fc]
 [vo_hay s="hayami0147"]
-[ns]ありす[nse]
-「ひ……やぁ……っ！！」[pcms]
+[ns]Arisu[nse]
+"Hi...ya...ahh!!"[pcms]
 
 *7687|
 [fc]
-[ns]大倉[nse]
-「なにしてんだ！！　オイ、やめろ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"What are you doing?! Hey, stop it!!"[pcms]
 
 *7688|
 [fc]
-[ns]作業服の男[nse]
-「あァ～？　なんだテメェ、もしかして、このオッパ[r]
-　イちゃんのオトコだったのかァ？」[pcms]
+[ns]Work Clothes Man[nse]
+"Ah~? What's up? Are you perhaps this tit chick's[r]
+boyfriend?"[pcms]
 
 *7689|
 [fc]
-男は胸を弄ぶ手を止めず、俺を見据えながら、速水の[r]
-ほっぺたにゆっくりと舌を這わせた。[pcms]
+Without stopping his fondling, the man licked Hayami's cheek[r]
+while staring at me.[pcms]
 
 *7690|
 [fc]
 [vo_hay s="hayami0148"]
-[ns]ありす[nse]
-「うぅっ……！」[pcms]
+[ns]Alice[nse]
+"Uuh...!"[pcms]
 
 *7691|
 [fc]
-[ns]作業服の男[nse]
-「カワイソーになァ……。オッパイちゃんのカレシ、[r]
-　フニャチンでキンタマ小せぇから、助けに行くのが[r]
-　怖ェってよ！　ヒャヒャヒャ！！」[pcms]
+[ns]Work Clothes Man[nse]
+"Poor thing... Tit chick's boyfriend is too scared to come[r]
+help because he's got a limp dick and tiny balls![r]
+Hyahyahya!!"[pcms]
 
 *7692|
 [fc]
-[ns]大倉[nse]
-「この野郎……！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"You bastard...!!"[pcms]
 
 *7693|
 [fc]
-[ns]作業服の男[nse]
-「ぁんだぁ？　やんのか？　コラ。オラ、来いよ。か[r]
-　かって来いよオラ！！　エグってやっからよォ！！」[pcms]
+[ns]Work Clothes Man[nse]
+"What? You wanna go? Come on then. Bring it on, I'll gut[r]
+you!!"[pcms]
 
 *7694|
 [fc]
-[ns]大倉[nse]
-「くっ……！！」[pcms]
+[ns]Ookura[nse]
+"Grr...!!"[pcms]
 
 *7695|
 [fc]
-頭がイカレ始めてるんじゃないか、という俺の考えは、[r]
-とんだ勘違いだった。[pcms]
+My thought that his mind was starting to go was a terrible[r]
+misunderstanding.[pcms]
 
 *7696|
 [fc]
-コイツはイカレ始めてるんじゃなく、最初からイカレ[r]
-ていたのだ。[pcms]
+This guy wasn't starting to go crazy; he had been crazy from[r]
+the start.[pcms]
 
 *7697|
 [fc]
-しかもコイツは、メイド喫茶や病院、広場にいたヤツ[r]
-らみたいな、精神的におかしいという意味での『イカ[r]
-レている』とは違う。[pcms]
+And he wasn't crazy in the sense of being mentally disturbed[r]
+like those at the maid caf, hospital, or plaza.[pcms]
 
 *7698|
 [fc]
-簡単に言えば、社会のゴミ、じゃなきゃクズ野郎とい[r]
-う意味での『イカレている』だ。[pcms]
+In simple terms, he was society's trash or a scumbag in the[r]
+sense of being 'crazy.'[pcms]
 
 *7699|
 [fc]
-[ns]作業服の男[nse]
-「オイ、クソガキ。そのナヨっちィのと犬連れて、こ[r]
-　こから出て行けや」[pcms]
+[ns]Work clothes man[nse]
+"Hey, brat. Take your weak ass and your dog and get out of[r]
+here."[pcms]
 
 *7700|
 [fc]
-[ns]大倉[nse]
-「なんだと……？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"What did you say...?"[pcms]
 
 *7701|
 [fc]
-[ns]作業服の男[nse]
-「あぁ？　文句あんのか？　このビルは全部俺様のモ[r]
-　ンだっつったろうが！！」[pcms]
+[ns]Work Clothes Man[nse]
+"Huh? Got a problem? I told you everything in this building[r]
+is mine!!"[pcms]
 
 *7702|
 [fc]
-[ns]作業服の男[nse]
-「俺様ァな、女しかいらねェんだよ。テメェみてェな[r]
-　ムカつくオスガキなんざいらねェんだバカ野郎！！」[pcms]
+[ns]Work Clothes Man[nse]
+"I only need women. I don't need annoying little male brats[r]
+like you, dumbass!!"[pcms]
 
 *7703|
 [fc]
-喚き散らすオッサンが、刃物を持つ手に力を込めるの[r]
-を見ながら、俺はどうしたらこの状況をひっくり返せ[r]
-るか、無い頭をフル回転させていた。[pcms]
+As the middle-aged man ranted and put more force into the[r]
+hand holding the knife, I racked my brain for how to turn[r]
+this situation around.[pcms]
 
 *7704|
 [fc]
-[ns]大倉[nse]
-「……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"..."[pcms]
 
 *7705|
 [fc]
-[ns]作業服の男[nse]
-「オイ、クソガキ……日本語わかんねェのか？　こっ[r]
-　から出て行けっつってんだよ、お？　俺様が怖くて[r]
-　動けねェなら、殺してから放り出してやろうか？」[pcms]
+[ns]Work Clothes Man[nse]
+"Hey, brat... Don't you understand Japanese? I told you to[r]
+get out of here, huh? If you're too scared to move, should I[r]
+kill you before throwing you out?"[pcms]
 
 *7706|
 [fc]
-俺を見る男の目から、光が消えた。[pcms]
+The light vanished from the man's eyes as he looked at me.[pcms]
 
 *7707|
 [fc]
-感情の無い、他人を傷つけることをなんとも思ってな[r]
-いだろう、暗い目。[pcms]
+Cold eyes that seemed to feel nothing about hurting another[r]
+person.[pcms]
 
 *7708|
 [fc]
-男が急に飛びかかってきても対処できるように、俺は[r]
-半歩、片足を引いて、少し体を沈めた。[pcms]
+To be ready in case the man suddenly attacked, I took a half[r]
+step back with one foot and lowered my stance slightly.[pcms]
 
 *7709|
 [fc]
 [vo_kob s="koba0125"]
-[ns]小林[nse]
-「お願いです！　言う通り、ここから出て行きますか[r]
-　ら、ありすを放してください！」[pcms]
+[ns]Kobayashi[nse]
+"Please! I'll do as you say and leave this place, so please[r]
+let Arisu go!"[pcms]
 
 *7710|
 [fc]
-[ns]大倉[nse]
-「オ、オイ！　やめろユウ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"H-Hey! Stop it, Yuu!!"[pcms]
 
 *7711|
 [fc]
-オッサンとの間に危険なものを感じたのか、ユウが俺[r]
-の前に進み出て、土下座をし始めた。[pcms]
+Perhaps sensing danger from the man, Yuu stepped forward in[r]
+front of me and began to prostrate himself.[pcms]
 
 *7712|
 [fc]
-[ns]作業服の男[nse]
-「あぁ～？」[pcms]
+[ns]Work clothes man[nse]
+"Huh?"[pcms]
 
 *7713|
 [fc]
 [vo_kob s="koba0126"]
-[ns]小林[nse]
-「ここであったことは、警察にも、誰にも言いません。[r]
-　だから、ありすは助けてください。お願いします！」[pcms]
+[ns]Kobayashi[nse]
+"I won't tell the police or anyone about what happened here.[r]
+So please, save Arisu. I beg you!"[pcms]
 
 *7714|
 [fc]
-男は口の片端を吊り上げて、いやらしい笑いを浮かべ[r]
-てユウを見下ろし、せせら笑った。[pcms]
+The man lifted one corner of his mouth in a lewd smile,[r]
+looking down at Yuu and sneering.[pcms]
 
 *7715|
 [fc]
-[ns]作業服の男[nse]
-「オッパイちゃァん、俺様がオッパイちゃんにエッチ[r]
-　なことしても、あのナヨっちィのはサツに言わねェ[r]
-　とよ！」[pcms]
+[ns]Work clothes man[nse]
+"Hey, Tits-chan, even if I do naughty things to you, that[r]
+wimpy guy won't tell the cops, right?!"[pcms]
 
 ;//[evcg storage="NEV005b"][trans_c cross time=301]
 
 *7716|
 [fc]
 [vo_hay s="hayami0149"]
-[ns]ありす[nse]
-「！！」[pcms]
+[ns]Alice[nse]
+"!!"[pcms]
 ;//◎息を飲む音
 
 *7717|
 [fc]
-[ns]作業服の男[nse]
-「あんなフニャチンがカレシじゃ、満足してねェんだ[r]
-　ろ？　俺様がホントのカイカンってヤツを教えてや[r]
-　るよォ」[pcms]
+[ns]Work Clothes Man[nse]
+"With a limp-dick boyfriend like that, you must not be[r]
+satisfied, right? I'll show you what real pleasure is."[pcms]
 
 *7718|
 [fc]
-男が速水に頬ずりしながら、東側のビルの方へと動き[r]
-始める。[pcms]
+While rubbing his cheek against Hayami, the man began to[r]
+move towards the east side of the building.[pcms]
 
 *7719|
 [fc]
-コイツ……。[r]
-なに企んでやがる……。[pcms]
+This guy... What is he planning...?[pcms]
 
 *7720|
 [fc]
-間違ってもオッサンを逃がさないように、俺は少しず[r]
-つ、ジリジリと距離を詰めた。[pcms]
+To make sure I didn't let the old man escape, I slowly and[r]
+steadily closed the distance.[pcms]
 
 *7721|
 [fc]
-[ns]作業服の男[nse]
-「腰ヌケるぐらいイカせてやっからなァ。俺様のぢん[r]
-　ぼこ、忘れられなくさせてやるよォ！」[pcms]
+[ns]Work clothes man[nse]
+"I'll make you come so hard your hips will give out. You'll[r]
+never forget my dick!"[pcms]
 
 [evcg storage="NEV005b"][trans_c cross time=301]
 
 *7722|
 [fc]
 [vo_hay s="hayami0150"]
-[ns]ありす[nse]
-「いっ、いやぁ……っ！！」[pcms]
+[ns]Alice[nse]
+"No, please...!!"[pcms]
 
 *7723|
 [fc]
-[ns]大倉[nse]
-「……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"..."[pcms]
 
 *7724|
 [fc]
-少しずつ距離を詰めながら、飛びかかるタイミングを[r]
-計っていると、突然、出入り口が破壊される轟音と共[r]
-に、巨大な物体が飛び込んできた。[pcms]
+As I slowly closed the distance, timing my leap, suddenly a[r]
+thunderous noise of destruction came from the entrance as a[r]
+huge object flew in.[pcms]
 
 ;//♪：m05 fadeout
 [fadeoutbgm time=1000]
@@ -831,26 +818,25 @@
 *7725|
 [fc]
 [vo_hay s="hayami0151"]
-[ns]ありす[nse]
-「きゃあああぁぁぁっ！！！！！」[pcms]
+[ns]Alice[nse]
+"Kyaaaahhhhh!!!"[pcms]
 
 *7726|
 [fc]
 [vo_kob s="koba0127"]
-[ns]小林[nse]
-「うわあぁぁっ！！！！」[pcms]
+[ns]Kobayashi[nse]
+"Uwaaahhhhh!!!"[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
 *7727|
 [fc]
-こっちへ向かってくるその巨大な物体は、バカでかい[r]
-トラックだった。[pcms]
+The huge object coming towards us was an enormous truck.[pcms]
 
 *7728|
 [fc]
-逃げようと走る最中、一瞬見えた運転手の顔には、目[r]
-を大きく見開いた状態の笑みが浮かんでいた。[pcms]
+While running to escape, I caught a glimpse of the driver's[r]
+face, which bore a wide-eyed smile.[pcms]
 
 ;//ここで暗転しておく
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -865,112 +851,111 @@
 
 *7729|
 [fc]
-凄い勢いで壁に衝突して、バカでかいトラックは動き[r]
-を止めた。[pcms]
+The truck crashed into the wall with tremendous force and[r]
+came to a stop.[pcms]
 
 ;//♪：bgm005
 [bgm storage="bgm005"]
 
 *7730|
 [fc]
-[ns]大倉[nse]
-「なんでトラックなんかが……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Why is there a truck...?"[pcms]
 
 *7731|
 [fc]
-今やエントランスホールは、バカでかいトラックで、[r]
-２つに分断されてしまっていた。[pcms]
+The entrance hall was now bisected by the enormous truck.[pcms]
 
 *7732|
 [fc]
-トラックは出入り口の東側から、エントランスホール[r]
-の一番奥、中央の壁に斜めに突き刺さっている。[pcms]
+The truck was diagonally impaled from the east side of the[r]
+entrance hall into the central wall at the back.[pcms]
 
 *7733|
 [fc]
-[ns]大倉[nse]
-「速水は……向こうか、クソッ！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Hayami is... on the other side, damn it!"[pcms]
 
 *7734|
 [fc]
-周りを見ても速水がいないことから、あのオッサンは[r]
-トラックを避けるのに、東側のビルの方へ逃げたよう[r]
-だった。[pcms]
+Looking around and not seeing Hayami, it seemed that the old[r]
+man had fled towards the east side of the building to avoid[r]
+the truck.[pcms]
 
 [se0 storage="SE16" loop=true]
 
 *7735|
 [fc]
-[ns]大倉[nse]
-「……？」[pcms]
+[ns]Ookura[nse]
+"…?"[pcms]
 
 *7736|
 [fc]
-下をくぐって速水を助けようとトラックに近づいてい[r]
-くと、所々から白煙を上げている運転席部分の向こう[r]
-で、シャッターが降りていくのが見えた。[pcms]
+As I approached the truck to crawl underneath and save[r]
+Hayami, I saw white smoke rising from various parts of the[r]
+driver's seat area and noticed the shutter coming down on[r]
+the other side.[pcms]
 
 *7737|
 [fc]
-[ns]大倉[nse]
-「まさか……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Could it be..."[pcms]
 
 *7738|
 [fc]
-さっき、オッサンが東側のビルの方へ少しずつ動いて[r]
-いたのを、俺は思い出した。[pcms]
+I remembered how the old man had been moving little by[r]
+little towards the east side of the building earlier.[pcms]
 
 *7739|
 [fc]
-これだ……。[r]
-これが目的だったんだ……！！[pcms]
+This is it... This was his plan all along...!![pcms]
 
 *7740|
 [fc]
-俺がそれに気がついたのと同時に、横を素早く走り抜[r]
-けて、セーラー服の女はトラックの下へ潜り込んだ。[pcms]
+Just as I realized this, a girl in a sailor uniform swiftly[r]
+ran past me and dove under the truck.[pcms]
 
 *7741|
 [fc]
-[ns]大倉[nse]
-「くっ……！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Damn...!!"[pcms]
 
 *7742|
 [fc]
-慌てて自分も走り出し、トラックの下へと滑り込んだ[r]
-が、体の厚みの違いか、女のようにスムーズにくぐり[r]
-抜けることができない。[pcms]
+In a panic, I also started running and slid under the truck,[r]
+but due to my body's thickness compared to the girl's, I[r]
+couldn't slip through as smoothly.[pcms]
 
 *7743|
 [fc]
-俺が手間取っている間に、女はスライディングして、[r]
-シャッターの向こう側へ滑り込んだ。[pcms]
+While I struggled, the girl slid through with a sliding[r]
+motion and disappeared beyond the shutter.[pcms]
 
 *7744|
 [fc]
-[ns]大倉[nse]
-「クソッ……！！」[pcms]
+[ns]Ookura[nse]
+"Damn it...!!"[pcms]
 
 [stop_se0]
 
 *7745|
 [fc]
-やっとのことでトラックの下から這い出たが、ヘッド[r]
-スライディングをしても間に合わず、シャッターは俺[r]
-の鼻先で完全に閉まってしまった。[pcms]
+Finally crawling out from under the truck, even with a head[r]
+slide I couldn't make it in time; the shutter closed right[r]
+before my nose.[pcms]
 
 *7746|
 [fc]
-[ns]大倉[nse]
-「クソォッ！！　オイ、開けろ！！　開けろよッ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Damn it!! Hey, open up!! Open it up!!"[pcms]
 
 [se0 storage="SE19"]
 
 *7747|
 [fc]
-殴り、蹴りつけ、叫び続けたが、俺が出した声と音が[r]
-エントランスホールに響くだけで、シャッターが開く[r]
-ことはなかった。[pcms]
+Despite punching, kicking, and continuing to shout, only my[r]
+voice and sounds echoed in the entrance hall; the shutter[r]
+did not open.[pcms]
 
 [fadeoutbgm time=502]
 [stop_se0]
@@ -981,4 +966,4 @@
 
 [jump storage="prologue03030.ks" target=*prologue03030_TOP]
 
-;//－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+;//

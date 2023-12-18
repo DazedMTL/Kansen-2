@@ -24,21 +24,21 @@
 
 *11139|
 [fc]
-‚SŠK‚ÍˆÄ“à”Â‚Ìw‚b‚‰‚‚…‚‚@‚r‚”‚’‚…‚…‚”x‚Ì–¼[r]
-‚ª¦‚·’Ê‚èAƒtƒƒA‘S•”‚ª‰f‰æŠÙ‚Æ‚¢‚¤Š‚¾‚Á‚½B[pcms]
+The 4th floor, as indicated by the "Cinema Street" sign, was[r]
+a place where the entire floor was a movie theater.[pcms]
 
 *11140|
 [fc]
-ü‚è‚ğŒ©‰ñ‚µ‚Ä‚İ‚Ä‚àAŒ©‚¦‚é•”•ª‚É‚Í’N‚à‚¢‚È‚¢‚µA[r]
-‚Ğ‚Á‚»‚è‚Æ‚µ‚Ä‰½‚Ì‰¹‚à•·‚±‚¦‚Ä‚±‚È‚¢B[pcms]
+Looking around, there was no one in sight, and it was so[r]
+quiet that not a sound could be heard.[pcms]
 
 ;êŠ<ImageFade 6,60,OFF,OFF>
 
 *11141|
 [fc]
-ˆÄ“à”Â‚É‘‚©‚ê‚Ä‚¢‚é‚U‚Â‚Ì‰f‰æŠÙ‚Ì’†‚àA”O‚Ì‚½‚ß[r]
-‚ÉŒ©‚Ä‚¨‚«‚½‚©‚Á‚½‚ªA‚±‚±‚Í—‚Ìl‚Ì’ñˆÄ’Ê‚è‚ÉA[r]
-æ‚É‰®ã‚Ös‚­‚±‚Æ‚É‚µ‚½B[pcms]
+Although I wanted to check the six cinemas listed on the[r]
+information board just to be sure, I decided to follow the[r]
+woman's suggestion and head to the rooftop first.[pcms]
 
 ;//[fadeoutbgm time=502]
 ;//[stop_se0]
@@ -50,4 +50,4 @@
 
 [jump storage="westtown_main10270.ks" target=*westtown_main10270_TOP]
 
-;//||||||||||||||||||||||||||||||||||||||||
+;//

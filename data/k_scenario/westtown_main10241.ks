@@ -24,24 +24,24 @@
 
 *10950|
 [fc]
-[ns]大倉[nse]
-「ユウ！　あの子を押さえろ！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Yuuki! Hold that girl down!"[pcms]
 
 [ChrSetEx layer=4 chbase="koba_n03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *10951|
 [fc]
 [vo_kob s="koba0193"]
-[ns]小林[nse]
-「う、うん……」[pcms]
+[ns]Kobayashi[nse]
+"Y-yeah..."[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
 *10952|
 [fc]
-ここで出なかったら、この先、速水と話すチャンスは[r]
-無いかもしれないと俺は考えて、彼女のことはユウに[r]
-頼み、ケータイの通話ボタンを押した。[pcms]
+If I don't go out now, I might never get another chance to[r]
+talk to Hayami, so I asked Yuuki to take care of her and[r]
+pressed the call button on my cell phone.[pcms]
 
 [chara_int][trans_c cross time=150]
 [stop_se0]
@@ -51,109 +51,111 @@
 *10953|
 [fc]
 [vo_hay s="hayami0155"]
-[ns]ありす[nse]
-「ヒロシ……？」[pcms]
+[ns]Alice[nse]
+"Hiroshi...?"[pcms]
 
 *10954|
 [fc]
-ケータイの向こうから聞こえてきた声は、弱々しくは[r]
-なっていたけど、間違いなく速水のものだった。[pcms]
+The voice that came from the other side of the cell phone[r]
+was weak, but it was unmistakably Hayami's.[pcms]
 
 *10955|
 [fc]
-[ns]大倉[nse]
-「オイ、大丈夫なのか！？　ケガは！？　あのクズ野[r]
-　郎になんかされてねーだろーな！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Hey, are you okay!? Are you hurt!? That bastard didn't do[r]
+anything to you, did he!!"[pcms]
 
 *10956|
 [fc]
 [vo_hay s="hayami0156"]
-[ns]ありす[nse]
-「大丈夫だから、落ち着いてよ」[pcms]
+[ns]Arisu[nse]
+"I'm fine, so calm down."[pcms]
 
 *10957|
 [fc]
-[ns]大倉[nse]
-「あ、ああ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Ah, right..."[pcms]
 
 *10958|
 [fc]
 [vo_hay s="hayami0157"]
-[ns]ありす[nse]
-「あたしはなんともない。そっちは？　ヒロシも裕樹[r]
-　も無事なの？」[pcms]
+[ns]Alice[nse]
+"I'm not hurt at all. How about you? Are Hiroshi and Yuuki[r]
+safe?"[pcms]
 
 *10959|
 [fc]
-[ns]大倉[nse]
-「ああ、多少バタバタしてるけど、こっちは大丈夫だ。[r]
-　それよりオマエ、今どの辺にいるんだ？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Yeah, it's a bit hectic over here, but we're okay. More[r]
+importantly, where are you now?"[pcms]
 
 *10960|
 [fc]
 [vo_hay s="hayami0158"]
-[ns]ありす[nse]
-「いまは２階。あたしのあとから入ってきた女の人い[r]
-　たでしょ？　あのひとと一緒に……」[pcms]
+[ns]Arisu[nse]
+"I'm on the second floor. You saw the woman who came in[r]
+after me, right? I'm with her..."[pcms]
 
 *10961|
 [fc]
-急に速水は黙ってしまって、ケータイの向こうからは、[r]
-布の擦れる音しか聞こえてこなくなった。[pcms]
+Suddenly, Hayami fell silent, and from the other side of the[r]
+cell phone, only the sound of fabric rubbing could be heard.[pcms]
 
 *10962|
 [fc]
-[ns]大倉[nse]
-「オイ、速水？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Hey, Hayami?"[pcms]
 
 *10963|
 [fc]
 [vo_hay s="hayami0159"]
-[ns]ありす[nse]
-「ごめん、もう切る。また電話するから！」[pcms]
+[ns]Arisu[nse]
+"Sorry, I have to hang up now. I'll call again later!"[pcms]
 
 *10964|
 [fc]
-[ns]大倉[nse]
-「あ、オイ！　絶対助けに行くから！　なんとかガン[r]
-　バれ！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Hey, wait! I'll definitely come to save you! Hang in there[r]
+somehow!"[pcms]
 
 ;//SE：電話が切れた音（？）
 [se0 storage="SE06"]
 
 *10965|
 [fc]
-慌てて言った俺の声が聞こえたのかどうなのか、ケー[r]
-タイからは通話が切れた音しか返ってこなかった。[pcms]
+In my haste, I wasn't sure if my voice was heard, as only[r]
+the sound of the call being disconnected came back from the[r]
+cell phone.[pcms]
 
 [cutin_int][trans_c cross time=300]
 
 *10966|
 [fc]
-[ns]大倉[nse]
-「ホントに大丈夫なのか？　アイツ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Is she really okay? That girl..."[pcms]
 
 *10967|
 [fc]
-どうしてケータイを切らなきゃならなかったのか、向[r]
-こうで何かあったのか、心配することしかできない今[r]
-の自分の無力さに、俺は腹が立ってしょうがなかった。[pcms]
+Unable to understand why she had to hang up the phone and[r]
+worried about what might have happened on the other side, I[r]
+was frustrated with my own helplessness.[pcms]
 
 *10968|
 [fc]
 [vo_mob s="girl0007"]
-[ns]少女[nse]
-「あっはっはははっ！！　うふふふぁはぁははは！！」[pcms]
+[ns]Girl[nse]
+"Ahahaha!! Ufufufahahahaha!!"[pcms]
 
 *10969|
 [fc]
-[ns]大倉[nse]
-「あの子もどうしちまったんだ、急に……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"What's gotten into her all of a sudden..."[pcms]
 
 *10970|
 [fc]
-エスカレーターの所を左に曲がり、女の子の高笑いが[r]
-聞こえる方へ走っていくユウを、俺は急いで追った。[pcms]
+Turning left at the escalator and running towards the[r]
+direction of the girl's loud laughter, I hurriedly followed[r]
+Yuuki.[pcms]
 
 ;//★速水ポイント＋１
 ;//★携帯flag　ON
@@ -185,4 +187,4 @@
 
 [jump storage="westtown_main10244.ks" target=*westtown_main10244_TOP]
 
-;//－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+;//

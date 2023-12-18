@@ -41,75 +41,74 @@
 *6245|
 [fc]
 [vo_mob s="ol0001"]
-[ns]ＯＬ[nse]
-「きゃっ……ち、ちょっと……やめてください！[r]
-　ど……どこ触ってるんですか……っ」[pcms]
+[ns]Office Lady[nse]
+"Kyaa... wait... please stop! Where... where are you[r]
+touching...?"[pcms]
 
 *6246|
 [fc]
-ささやくような悲鳴が、電車の中で上がる。[pcms]
+A whisper-like scream rises in the train.[pcms]
 
 *6247|
 [fc]
-都心部、通勤時間の電車の中は、乗車率２００％とま[r]
-ではいかなくとも、身動きに不自由するほどには混み[r]
-合っている。[pcms]
+The downtown area, during commuting hours, the train is so[r]
+crowded that it's hard to move, even if it's not quite 200%[r]
+capacity.[pcms]
 
 *6248|
 [fc]
 [vo_mob s="ol0002"]
-[ns]ＯＬ[nse]
-「ちょっと……ホントにやめてくださいっ……[r]
-　大声出しますよ……！？」[pcms]
+[ns]Office Lady[nse]
+"Please... really, stop it... I'll scream loudly...!?"[pcms]
 
 *6249|
 [fc]
-声を荒げ、やめるように言うものの、お尻の上を這い[r]
-回る手の感触が止まる気配はない。[pcms]
+Despite her raised voice and demands to stop, the sensation[r]
+of a hand crawling over her butt does not cease.[pcms]
 
 *6250|
 [fc]
 [vo_mob s="ol0003"]
-[ns]ＯＬ[nse]
-「いいかげんに……」[pcms]
+[ns]Office Lady[nse]
+"Enough already..."[pcms]
 
 *6251|
 [fc]
-大声を出しかけたその瞬間、膝がカクンと曲がった。[pcms]
+Just as she was about to scream out loud, her knees buckled.[pcms]
 
 *6252|
 [fc]
 [vo_mob s="ol0004"]
-[ns]ＯＬ[nse]
-「きゃっ！」[pcms]
+[ns]Office Lady[nse]
+"Kyaa!"[pcms]
 
 *6253|
 [fc]
-押されるようにして前のめりに倒れ込む彼女の身体を、[r]
-誰一人支えようともせず避ける乗客達。[pcms]
+As she falls forward, the passengers avoid her without[r]
+attempting to support her tumbling body.[pcms]
 
 *6254|
 [fc]
-混雑した車内で、いっそ見事と賞賛したくなるような[r]
-動きではあったが、倒された当人にとってはただ恨め[r]
-しいだけ。[pcms]
+In the crowded train, it was a movement one might admire for[r]
+its deftness, but for the person who was knocked down, it[r]
+was nothing but resentment.[pcms]
 
 *6255|
 [fc]
 [vo_mob s="ol0005"]
-[ns]ＯＬ[nse]
-「なにするん……っ！」[pcms]
+[ns]Office Lady[nse]
+"What are you doing...!"[pcms]
 
 *6256|
 [fc]
-振り向いた彼女の目に映ったのは、いきり立った男性[r]
-器をさらしたサラリーマン風の男の姿だった。[pcms]
+Turning around, she saw a salaryman-like man exposing his[r]
+erect penis.[pcms]
 
 *6257|
 [fc]
 [vo_mob s="ol0006"]
-[ns]ＯＬ[nse]
-「いや……いやぁぁぁぁぁぁぁぁぁっ！！」[pcms]
+[ns]Office Lady[nse]
+"No... nooooooo!"[pcms]
 
 
 *KAISOU_START
@@ -127,542 +126,505 @@
 *6258|
 [fc]
 [vo_mob s="ol0007"]
-[ns]ＯＬ[nse]
-「いやっ！　やめてっ、こんな……[r]
-　ああっ、誰か……助けてぇ！」[pcms]
+[ns]Office Lady[nse]
+"No! Stop it, not like this... Ahh, someone... help me!"[pcms]
 
 *6259|
 [fc]
-泣き叫び、周囲に助けを求めるＯＬ。[pcms]
+The office lady cries out for help, screaming.[pcms]
 
 *6260|
 [fc]
-だが、そんなことはお構い無しに、サラリーマン風の[r]
-男は彼女の下着を剥ぎ取り、ビクビクと脈打つ男性器[r]
-を、彼女の性器に擦り付けてきた。[pcms]
+But regardless of that, the salaryman-like man strips off[r]
+her underwear and rubs his twitching penis against her[r]
+pussy.[pcms]
 
 *6261|
 [fc]
 [vo_mob s="ol0008"]
-[ns]ＯＬ[nse]
-「ひぅぅ……！　だめっ……だめぇっ！[r]
-　そんなの擦りつけないでっ……！　やめてっ！[r]
-　どうして！？　こんな……こんなの……っひぃぃ！」[pcms]
+[ns]Office Lady[nse]
+"Hii...! No... nooo! Don't rub that against me...! Stop it![r]
+Why!? Why is this happening... hiiii!"[pcms]
 
 *6262|
 [fc]
-ボロボロと涙を流し、ショックで抵抗らしい抵抗も出[r]
-来ないでいるＯＬを、周囲の乗客達も茫然と見つめて[r]
-いる。[pcms]
+Tears streaming down her face, the office lady is in shock[r]
+and unable to put up any real resistance as the surrounding[r]
+passengers look on blankly.[pcms]
 
 *6263|
 [fc]
-突然の、非日常すぎる出来事に驚き、凍りついたよう[r]
-に動けなくなっていた。[pcms]
+They were frozen in surprise at the sudden, extraordinary[r]
+event and couldn't move.[pcms]
 
 *6264|
 [fc]
 [vo_mob s="ol0009"]
-[ns]ＯＬ[nse]
-「ひうぅっ！？　やっ、だ……っ！[r]
-　そんなとこ触っちゃ……うぁっ！　やだやだっ！[r]
-　自分のしてることが分かって……んぐぅっ！」[pcms]
+[ns]Office Lady[nse]
+"Hiiuuh!? No, don't...! Don't touch there... uah! No, no! Do[r]
+you realize what you're doing... nghuu!"[pcms]
 
 *6265|
 [fc]
-スカートを捲り上げられ、完全に露出した尻を撫で上[r]
-げられ、その感触と嫌悪で思わず声を上げてしまう。[pcms]
+Her skirt is lifted up and her fully exposed ass is[r]
+caressed, making her involuntarily raise her voice due to[r]
+the sensation and disgust.[pcms]
 
 *6266|
 [fc]
-[ns]乗客１[nse]
-「な……何だ？　感じてるのか？」[pcms]
+[ns]Passenger 1[nse]
+"What... is she getting turned on?"[pcms]
 
 *6267|
 [fc]
-[ns]乗客２[nse]
-「ああ、こういうプレイかよ……痴女か？[r]
-　この女……」[pcms]
+[ns]Passenger 2[nse]
+"Ah, so it's that kind of play... Is she a slut? This[r]
+woman..."[pcms]
 
 *6268|
 [fc]
 [vo_mob s="ol0010"]
-[ns]ＯＬ[nse]
-「ち、違っ……そんなわけ……！[r]
-　お願い、やめ……っ！　助けて……っくぅ！[r]
-　んぐっ、ひっ……やっ、やぁっ！　んぅぅっ！」[pcms]
+[ns]Office Lady[nse]
+"It's not like that... please stop...! Help me... nghuu![r]
+Hii... no, nooo! Nuuu!"[pcms]
 
 *6269|
 [fc]
-[ns]乗客３[nse]
-「やっぱり、本当に襲われてるんじゃ……」[pcms]
+[ns]Passenger 3[nse]
+"Maybe she really is being assaulted..."[pcms]
 
 *6270|
 [fc]
-[ns]乗客４[nse]
-「で、でも……あんな声上げてるし……」[pcms]
+[ns]Passenger 4[nse]
+"But... she's making such noises..."[pcms]
 
 *6271|
 [fc]
 [vo_mob s="ol0011"]
-[ns]ＯＬ[nse]
-「いやっ、いやぁぁっ……[r]
-　やめて、こんな……こんなぁ……っ！　[r]
-　ひっ……ぃぅ……ふっ、くひっ……うぁぁっ！」[pcms]
+[ns]Office Lady[nse]
+"No, noooo... Stop it, not like this... not like this![r]
+Hii... hiiu... huh, kuhii... uaaah!"[pcms]
 
 *6272|
 [fc]
 [vo_mob s="ol0012"]
-[ns]ＯＬ[nse]
-「ああっ、そんな……そんなに擦っちゃ……っひぅ！[r]
-　くぁぁっ！　だめっ、お尻っ……触らないでっ！[r]
-　触らないでよぉっ！」[pcms]
+[ns]Office Lady[nse]
+"Aah, don't rub so hard against it... hiiu! Qaah! No, don't[r]
+touch my butt! Don't touch me!"[pcms]
 
 *6273|
 [fc]
-[ns]サラリーマン[nse]
-「あはははは！　いいぞ、きもちいいぞ！[r]
-　オマンコがヌルヌルしだしてきた！[r]
-　オマンコのくちがキュウキュウしてるじゃないか！」[pcms]
+[ns]Salaryman[nse]
+"Ahahaha! This is great, feels good! Your pussy is getting[r]
+all slippery! Your pussy lips are clenching tight!"[pcms]
 
 *6274|
 [fc]
 [vo_mob s="ol0013"]
-[ns]ＯＬ[nse]
-「なっ……！？　違っ……そんなことっ……！[r]
-　そんなのあなたが無理矢理……っ！[r]
-　ひっ……うあっ！　あううっ！」[pcms]
+[ns]Office Lady[nse]
+"What...!? No, that's not it...! You're forcing it... hii...[r]
+uah! Auuuh!"[pcms]
 
 *6275|
 [fc]
-[ns]乗客２[nse]
-「やっぱりそうだ……[r]
-　こんな中で感じてるなんて、絶対に痴女だって」[pcms]
+[ns]Passenger 2[nse]
+"I knew it... Getting turned on in a situation like this,[r]
+she's definitely a slut."[pcms]
 
 *6276|
 [fc]
-[ns]乗客４[nse]
-「ＡＶの撮影かもしれないな。[r]
-　どっかで隠し撮りしてるんだよ、きっと」[pcms]
+[ns]Passenger 4[nse]
+"Might be an AV shoot. They're probably filming secretly[r]
+somewhere."[pcms]
 
 *6277|
 [fc]
-[ns]乗客３[nse]
-「マジで？　うわぁ……[r]
-　そんなのに映ったらたまったもんじゃないな。[r]
-　もっと離れとこう」[pcms]
+[ns]Passenger 3[nse]
+"Seriously? Wow... I don't want to be caught on something[r]
+like that. Let's move further away."[pcms]
 
 *6278|
 [fc]
 [vo_mob s="ol0014"]
-[ns]ＯＬ[nse]
-「違う！　違うの……っ！[r]
-　だからお願い……誰か、助けて……んぐっ！[r]
-　はひっ、ふっ……そ、そんな……とこ……っ！」[pcms]
+[ns]Office Lady[nse]
+"It's not like that! Please... someone help me... nghuu![r]
+Hahii, huh... so, that place...!"[pcms]
 
 *6279|
 [fc]
-[ns]サラリーマン[nse]
-「お、おおおおっ！　はいっていくぞ……[r]
-　ズブズブはいっていくじゃないか！[r]
-　しりのあなもつかいこんでるのか！？」[pcms]
+[ns]Salaryman[nse]
+"Oh, ohhhh! It's going in... It's sliding right in! Are you[r]
+using your ass too?!"[pcms]
 
 *6280|
 [fc]
 [vo_mob s="ol0015"]
-[ns]ＯＬ[nse]
-「おぐっ……んぎっ、くっ……ふぁっ、やっ……[r]
-　いやぁぁ……そんなことない……[r]
-　そんなことないぃっ！　おふっ、かはっ！」[pcms]
+[ns]Office Lady[nse]
+"Oguh... nghii, kuh... fahh, yah... noooo... that's not[r]
+true... that's not trueee! Ohuh, kahah!"[pcms]
 
 *6281|
 [fc]
-苦しそうに口をぱくつかせ、助けを求めて手を伸ばす。[r]
-だが、その手を避ける者ばかりで、[r]
-誰も掴み、助けようとはしない。[pcms]
+She reaches out with her hands for help with a pained[r]
+expression, but everyone avoids her hands and no one tries[r]
+to help or grab hold.[pcms]
 
 *6282|
 [fc]
-[ns]乗客１[nse]
-「うわ……すげぇエロイ顔してる……[r]
-　そんなに尻の穴かき回されるのがいいのかよ」[pcms]
+[ns]Passenger 1[nse]
+"Wow... she's making such an erotic face... Do you like[r]
+having your ass played with that much?"[pcms]
 
 *6283|
 [fc]
-[ns]乗客３[nse]
-「そりゃ、こんなに大勢の前で、[r]
-　レイプされてるのによがってるくらいだし」[pcms]
+[ns]Passenger 3[nse]
+"Well, she's moaning even though she's being raped in front[r]
+of so many people."[pcms]
 
 *6284|
 [fc]
 [vo_mob s="ol0016"]
-[ns]ＯＬ[nse]
-「んぐっ、ふひっ……ひっ、くんんっ！[r]
-　はっ、はひ……ひぅっ、はぁぁ……っ！[r]
-　抜いて……指ぬいてぇ……苦しっ……いんんんっ！」[pcms]
+[ns]Office Lady[nse]
+"Nghuu, fuhii... hii, kunn! Hah, hahi... hiiu, haaa...! Pull[r]
+it out... take your fingers out... it hurts... innnn!"[pcms]
 
 *6285|
 [fc]
-[ns]サラリーマン[nse]
-「はははははっ、ヌルヌルじゃないかオマンコ！[r]
-　けつのあなもギュウギュウでゆびがちぎれそうだ！[r]
-　いいぞいいぞ！」[pcms]
+[ns]Salaryman[nse]
+"Hahahaha! Your pussy is so slippery! Your ass hole is so[r]
+tight my fingers might break off! This is great!"[pcms]
 
 *6286|
 [fc]
 [vo_mob s="ol0017"]
-[ns]ＯＬ[nse]
-「くひっ、やっ、あううっ！　離して……っ！[r]
-　指ぬいて……っ！[r]
-　やだっ……やだやだやだやだぁっ！」[pcms]
+[ns]Office Lady[nse]
+"Kuhii, yah, auuuh! Let go of me...! Take your fingers[r]
+out...! Noo... no no no nooo!"[pcms]
 
 *6287|
 [fc]
-泣き叫ぶＯＬの目から零れた涙が、ポタポタと車両の[r]
-床に落ちる。[pcms]
+The tears from the crying office lady fall drop by drop onto[r]
+the floor of the carriage.[pcms]
 
 *6288|
 [fc]
-だが、乗客達の視線は、ボトボトと糸を引いて滴り落[r]
-ちる別の液体を見つめていた。[pcms]
+But the passengers' gazes were fixed on another liquid[r]
+dripping down in threads.[pcms]
 
 *6289|
 [fc]
-[ns]乗客４[nse]
-「うわぁ……濡れ濡れじゃないかよ。[r]
-　あんなに愛液垂らして、何がイヤなんだか……」[pcms]
+[ns]Passenger 4[nse]
+"Wow... she's soaking wet. Dripping love juice like that,[r]
+what's there to dislike..."[pcms]
 
 *6290|
 [fc]
-[ns]乗客２[nse]
-「こっちまでエロイ匂いがしてきた……[r]
-　こりゃ、この車両中全部、[r]
-　エロイ匂いでいっぱいになるぞ」[pcms]
+[ns]Passenger 2[nse]
+"The erotic smell is reaching over here too... This whole[r]
+carriage will be filled with an erotic scent."[pcms]
 
 *6291|
 [fc]
 [vo_mob s="ol0018"]
-[ns]ＯＬ[nse]
-「ああっ……見ないで……お願い、もう……[r]
-　もう見ないで……ひぅっ！　くはっ、あう……っ！[r]
-　んぐっ、ふっ……あぅんんっ！」[pcms]
+[ns]Office Lady[nse]
+"Ahh... don't look at me anymore... please, don't look[r]
+anymore... hiiu! Kuhah, auh...! Nguh, huh... aunnn!"[pcms]
 
 *6292|
 [fc]
-[ns]サラリーマン[nse]
-「あはははっ！[r]
-　カリがクリトリスにひっかかるのがいいか！？[r]
-　びゅーびゅーしるがでてきてるぞ！」[pcms]
+[ns]Salaryman[nse]
+"Ahahaha! Does it feel good when my glans catches on your[r]
+clit!? The love juice is flowing out!"[pcms]
 
 *6293|
 [fc]
 [vo_mob s="ol0019"]
-[ns]ＯＬ[nse]
-「くっ……ううっ、ひっ＜くぁっ、あっ、あううっ！[r]
-　こんな……こんなのでっ……[r]
-　あひっ、ふあっ、はあっ、んんんっ！」[pcms]
+[ns]Office Lady[nse]
+"Kuh... uuhh, hii <kuaa>, ah, auuuh! Like this... with[r]
+this... ahih, fuahh, haaah, nnnnn!"[pcms]
 
 *6294|
 [fc]
-ガクガクと震え悶える身体を押し潰そうとするかのよ[r]
-うに、細い身体にのしかかり、陵辱するサラリーマン[r]
-風の男。[pcms]
+The salaryman-like man presses down on her trembling body as[r]
+if trying to crush her with his weight and continues to[r]
+violate her slender frame.[pcms]
 
 *6295|
 [fc]
-悔しそうに歪んだＯＬの口からは、悲鳴や助けを呼ぶ[r]
-声はもう聞こえなくなり、ただ恥辱にまみれた嬌声だ[r]
-けが漏れ続けている。[pcms]
+The screams and cries for help that once came from the[r]
+twisted mouth of the office lady are no longer heard, only[r]
+moans of shame continue to leak out.[pcms]
 
 *6296|
 [fc]
 [vo_mob s="ol0020"]
-[ns]ＯＬ[nse]
-「んはっ！　やっ、だめっ！　もう……もうやめ……[r]
-　いうっ！　くひっ！　あっ、やあっ！[r]
-　はっ、はひっ！　ひっ、ひぅぅっ！」[pcms]
+[ns]Office Lady[nse]
+"Nhaa! No, stop! No more... please stop... iuuh! Kuhii! Ah,[r]
+yaaah! Hah, hahi! Hii, hiiuuu!"[pcms]
 
 *6297|
 [fc]
-[ns]乗客３[nse]
-「おい、まさか……」[pcms]
+[ns]Passenger 3[nse]
+"Hey, don't tell me..."[pcms]
 
 *6298|
 [fc]
-[ns]乗客１[nse]
-「ああ、でも……」[pcms]
+[ns]Passenger 1[nse]
+"Ah, but..."[pcms]
 
 *6299|
 [fc]
-[ns]乗客２[nse]
-「こんな……電車の中で、[r]
-　こんな大勢に見られてるのに……？」[pcms]
+[ns]Passenger 2[nse]
+"To do this... in a train, in front of so many people...?"[pcms]
 
 *6300|
 [fc]
-[ns]サラリーマン[nse]
-「おっ！　ははっ、ははははは！　ほらっ、イけっ！[r]
-　イってみせろ！　みんなにイキがおをみせてやれ！」[pcms]
+[ns]Salaryman[nse]
+"Oh! Haha, hahahaha! Come on, cum! Show everyone how you[r]
+cum!"[pcms]
 
 *6301|
 [fc]
 [vo_mob s="ol0021"]
-[ns]ＯＬ[nse]
-「いやっ！　見ちゃ……うぁっ！[r]
-　はくっ、ふぁ……ぁぁぁっ！　ひぐっ、うくっ……[r]
-　んひっ、イっ……はああぁぁぁぁぁんっっ！！」[pcms]
+[ns]Office Lady[nse]
+"No! Don't look... uwaah! Hakuh, fah... aaaaah! Higuh,[r]
+ukuh... nhih, I'm cumming... haaaahhhhhnnn!!"[pcms]
 
 *6302|
 [fc]
-背筋を弓なりに反らし、無残に汚されたリクルートス[r]
-ーツに包まれた身体がビクビクと震え、ＯＬが絶頂に[r]
-達した。[pcms]
+Arching her back like a bow, her body wrapped in a[r]
+disgracefully stained recruit suit trembles, and the office[r]
+lady reaches climax.[pcms]
 
 *6303|
 [fc]
-望みもしない快楽の高みに押し上げられたその表情に[r]
-は、悦びは見られず、ただただ悔しさと恥ずかしさだ[r]
-けが色濃く浮かんでいる。[pcms]
+The expression on her face, pushed to the heights of[r]
+unwanted pleasure, shows no joy, only deep frustration and[r]
+embarrassment.[pcms]
 
 *6304|
 [fc]
 [vo_mob s="ol0022"]
-[ns]ＯＬ[nse]
-「うくっ……ひぁ……あ、あくぅ……[r]
-　んふっ、は、はひぃ……やぁ……[r]
-　こんなの……いやぁぁ……」[pcms]
+[ns]Office Lady[nse]
+"Ukuh... hia... ah, akuu... nhuh, ha, hahii... yaa... this[r]
+is... noooo..."[pcms]
 
 *6305|
 [fc]
-ボロボロと大粒の、悲嘆の涙を流すＯＬの尻穴から、[r]
-野太い指がぐぬぐぬと余韻でも味わうような動きを見[r]
-せながら、引き抜かれる。[pcms]
+From the office lady's ass hole, still streaming with tears[r]
+of grief, a thick finger is pulled out with movements as if[r]
+savoring the afterglow.[pcms]
 
 *6306|
 [fc]
-その感触に、ほんの少しだけ、ＯＬの顔に安堵がよぎ[r]
-ったが――[pcms]
+A brief moment of relief crosses the office lady's face at[r]
+the sensation--[pcms]
 
 *6307|
 [fc]
 [vo_mob s="ol0023"]
-[ns]ＯＬ[nse]
-「ひぃっ！？　あ……まさか……そんな……だめっ！[r]
-　それだけは……いやっ、許して……入れちゃ……[r]
-　入れないでぇぇぇっ！」[pcms]
+[ns]Office Lady[nse]
+"Hii!? Ah... no way... that's... stop! Only that... please,[r]
+don't put it in... don't put it in eeeek!"[pcms]
 
 *6308|
 [fc]
-[ns]サラリーマン[nse]
-「はははははっ！　いれないわけがないだろう！？[r]
-　ほらほら、はいっていくぞ！？[r]
-　チンポがオマンコのなかにはいっていくぞ！」[pcms]
+[ns]Salaryman[nse]
+"Hahahahaha! There's no way I wouldn't put it in, right!?[r]
+Look, it's going in! My dick is entering your pussy!"[pcms]
 
 [evcg storage="HEV913b"][trans_c cross time=301]
 
 *6309|
 [fc]
 [vo_mob s="ol0024"]
-[ns]ＯＬ[nse]
-「うあっ！　やっ……あくっ、ふひっ、くっ……[r]
-　うあっ！　だめっ、入っちゃ……っ！[r]
-　やめてっ、やめてぇっ……くぅぅっ！」[pcms]
+[ns]Office Lady[nse]
+"Uwah! No... akuh, fuhii, kuh... uwah! No, it's going in...![r]
+Stop it, please stop... kuuuh!"[pcms]
 
 *6310|
 [fc]
-腰をくねらせ、必死に挿入を逃れようとするＯＬ。[r]
-だが、サラリーマン風の男の手がガッチリと彼女の腰[r]
-を掴み、それを許さない。[pcms]
+Wriggling her hips desperately to avoid penetration, the[r]
+office lady tries to escape. But the salaryman-like man[r]
+firmly grabs her waist and doesn't allow it.[pcms]
 
 *6311|
 [fc]
 [vo_mob s="ol0025"]
-[ns]ＯＬ[nse]
-「はひっ！　んぐっ、ひぁ……あうぅっ……」[pcms]
+[ns]Office Lady[nse]
+"Hahii! Nguh, hia... auuuh..."[pcms]
 
 *6312|
 [fc]
-　ずぶっ……[pcms]
+Zubu...[pcms]
 
 *6313|
 [fc]
 [vo_mob s="ol0026"]
-[ns]ＯＬ[nse]
-「んくっ、ひっ、ひぐぅぅっ……」[pcms]
+[ns]Office Lady[nse]
+"Nkuh, hih, higuuu..."[pcms]
 
 *6314|
 [fc]
-　ずぶぶぶ……[pcms]
+Zubububu...[pcms]
 
 *6315|
 [fc]
 [vo_mob s="ol0027"]
-[ns]ＯＬ[nse]
-「ふぁっ、はっ……ああっ、ひぅっ、うんんっ……」[pcms]
+[ns]Office Lady[nse]
+"Fahh, hah... aahh, hiuu, unnn..."[pcms]
 
 *6316|
 [fc]
-　ずぶぶぶ……じゅぷぅんっ……[pcms]
+Zubububu... jupuun...[pcms]
 
 *6317|
 [fc]
 [vo_mob s="ol0028"]
-[ns]ＯＬ[nse]
-「あ……あああ……そんな……そんなぁぁ……」[pcms]
+[ns]Office Lady[nse]
+"Ah... aaaa... like that... like thaaat..."[pcms]
 
 *6318|
 [fc]
-[ns]サラリーマン[nse]
-「おおっ、おっ、おううっ！[r]
-　はあぁぁ～～、はいったぞ！[r]
-　オマンコにチンポつきさしてやったぞ！」[pcms]
+[ns]Salaryman[nse]
+"Ooh, ohh, ouhh! Haaa~ I'm in! I've thrust my dick into your[r]
+pussy!"[pcms]
 
 *6319|
 [fc]
 [vo_mob s="ol0029"]
-[ns]ＯＬ[nse]
-「あぐっ、きひっ、やっ、痛っ……！[r]
-　いきなりそんな……っ！　乱暴にしないで……[r]
-　いやっ！　やぁぁっ！」[pcms]
+[ns]Office Lady[nse]
+"Aguh, kihii, no, it hurts...! So sudden like that...! Don't[r]
+be so rough... Nooo! Yaaah!"[pcms]
 
 *6320|
 [fc]
-[ns]乗客１[nse]
-「うおっ、本当に入れちゃったよ……[r]
-　こんなところで、挿入まで……うっ、ううっ……」[pcms]
+[ns]Passenger 1[nse]
+"Whoa, he really put it in... To do this here, to go as far[r]
+as insertion... uh, uuh..."[pcms]
 
 *6321|
 [fc]
-[ns]乗客２[nse]
-「ガンガン腰叩きつけて……[r]
-　愛液が噴き出してるじゃねぇか……[r]
-　あ……ああ？　な、なんだ……」[pcms]
+[ns]Passenger 2[nse]
+"Slamming his hips so hard... The love juice is spurting[r]
+out... Ah... aah? What's this..."[pcms]
 
 *6322|
 [fc]
-[ns]乗客３[nse]
-「エロすぎてクラクラしてきた……[r]
-　いや、違……うっ、くうぅ……」[pcms]
+[ns]Passenger 3[nse]
+"It's too erotic; I'm getting dizzy... No, wait... ugh,[r]
+kuuu..."[pcms]
 
 *6323|
 [fc]
-[ns]乗客４[nse]
-「うぁぁ……頭が……眩暈が……[r]
-　いったい、なに……なに？」[pcms]
+[ns]Passenger 4[nse]
+"Uwaa... my head's spinning... What's happening... what?"[pcms]
 
 *6324|
 [fc]
 [vo_mob s="ol0030"]
-[ns]ＯＬ[nse]
-「んはっ、あっ、はふっ、んぐっ、ひぃ……っ！[r]
-　はあっ、やぅ……ぅんんっ！[r]
-　そんな……壊れちゃう……強すぎるぅっ！」[pcms]
+[ns]Office Lady[nse]
+"Nhaa, ah, hafuh, nguh, hiii...! Haaah, yauu... unnn! Like[r]
+that... I'll break... too stronggg!"[pcms]
 
 *6325|
 [fc]
-そしてそれは一瞬で車両内の全ての人間に伝播し、[r]
-ＯＬの嬌声に負けないほどのうめきが溢れ出した。[pcms]
+And in an instant, it spread to everyone in the carriage,[r]
+with groans as loud as the office lady's moans overflowing.[pcms]
 
 ;//そしてそれは一瞬で車両内の全ての人間に伝播し、Ｏ
 ;//Ｌの嬌声に負けないほどのうめきが溢れ出した。
-;//[pcms]
+; //[pcms]
 
 *6326|
 [fc]
 [vo_mob s="ol0031"]
-[ns]ＯＬ[nse]
-「え……？　なに？　一体、何が……んんっ！[r]
-　ひあっ、ふぅっ、んぐっ……[r]
-　うぁっ、はっ、はひぃっ！　うくぅぅっ！」[pcms]
+[ns]Office Lady[nse]
+"Eh...? What? What's happening... nnnh! Hiah, fuuh, nguh...[r]
+uwahh, hah, hahii! Ukuuu!"[pcms]
 
 *6327|
 [fc]
-[ns]サラリーマン[nse]
-「あははっ！[r]
-　とどいてるぞ、チンポのさきがオマンコのおくに！[r]
-　コツコツかたいのがぶつかってるぞぉ！」[pcms]
+[ns]Salaryman[nse]
+"Ahaha! It's reaching; the tip of my dick is hitting the[r]
+inside of your pussy! It's knocking against something hard[r]
+inside you!"[pcms]
 
 *6328|
 [fc]
 [vo_mob s="ol0032"]
-[ns]ＯＬ[nse]
-「あぅんっ！　ふぅっ、くっ、んあっ……あくぅっ！[r]
-　ああっ、ああっ、そんな……だめっ！[r]
-　突いちゃ……お腹の奥ズンズン……だめぇぇっ！」[pcms]
+[ns]Office Lady[nse]
+"Aunn! Fuuh, kuh, nuhah... akuu! Aaahh, aaahh, like that...[r]
+no! Thrusting... deep inside my belly... nooo!"[pcms]
 
 *6329|
 [fc]
-[ns]乗客１[nse]
-「あははは、しきゅうをチンポでガンガンつかれて[r]
-　よがりくるってるよ、このおんな！」[pcms]
+[ns]Passenger 1[nse]
+"Ahahaha, she's writhing and moaning from getting her womb[r]
+pounded by a dick; this woman is going crazy!"[pcms]
 
 *6330|
 [fc]
-[ns]乗客２[nse]
-「ヘンタイだ！　ヘンタイおんなだ！[r]
-　ははははははははっ！」[pcms]
+[ns]Passenger 2[nse]
+"She's a pervert! A perverted woman! Hahahahaha!"[pcms]
 
 *6331|
 [fc]
 [vo_mob s="ol0033"]
-[ns]ＯＬ[nse]
-「はふっ、んひっ、はっ……ああっ、な、なに？[r]
-　突然、なに……んくっ、ひぐぅっ！[r]
-　みんな、お……おかしく……うぅんんっ！」[pcms]
+[ns]Office Lady[nse]
+"Hafuh, nhih, hah... aahh, what? What's this all of a[r]
+sudden? Nkuh, higuuh! Everyone's acting so strange... uunn!"[pcms]
 
 *6332|
 [fc]
-[ns]乗客３[nse]
-「おおお、おれにもヤらせろ！[r]
-　おれのチンポをつっこんでやる！[r]
-　そのエロイからだをおかしてやる！」[pcms]
+[ns]Passenger 3[nse]
+"Oooh let me do it too! I'll shove my dick in you! I'll[r]
+violate that erotic body of yours!"[pcms]
 
 *6333|
 [fc]
-[ns]乗客４[nse]
-「なんてエロイかおだ！　チンポがすきなかおだ！[r]
-　おかせおかせみんなでおかせ！」[pcms]
+[ns]Passenger 4[nse]
+"What an erotic face! A face that loves dicks! Violate her[r]
+violate her let's all violate her!"[pcms]
 
 *6334|
 [fc]
-子宮口を突き上げられ、悶えよがり嬌声を上げるＯＬ[r]
-を取り囲み、それぞれに狂ったように声を上げ出す乗[r]
-客達。[pcms]
+Surrounded by passengers who are moaning as loudly as the[r]
+office lady being pounded at her cervix and writhing in[r]
+ecstasy.[pcms]
 
 *6335|
 [fc]
-それぞれが尋常ではないほどに見開いた目には、理性[r]
-は欠片も見当たらず、剥き出しの獣欲でギラギラと光[r]
-っている。[pcms]
+Their eyes wide open beyond normalcy show not a trace of[r]
+reason but are glaring with raw lust.[pcms]
 
 *6336|
 [fc]
 [vo_mob s="ol0034"]
-[ns]ＯＬ[nse]
-「ひっ……いいっ……いやっ、うぐっ、んひぅっ！[r]
-　ああっ……だめっ、こないで……やめてっ！[r]
-　あっ、あううっ！」[pcms]
+[ns]Office Lady[nse]
+"Hih... iihh... noo, uguh, nhiuu! Aaahh... noo, don't come[r]
+closer... stop it! Ahh, auuuh!"[pcms]
 
 *6337|
 [fc]
-[ns]サラリーマン[nse]
-「あははははははっ！　だしてやる！[r]
-　オマンコのおくにたっぷりとしゃせいするぞ！[r]
-　いっぱつではらむくらいこいのをだ！」[pcms]
+[ns]Salaryman[nse]
+"Ahahahaha! I'm going to release it! I'll ejaculate plenty[r]
+deep inside your pussy! I'll shoot enough to get you[r]
+pregnant in one go!"[pcms]
 
 *6338|
 [fc]
 [vo_mob s="ol0035"]
-[ns]ＯＬ[nse]
-「いやっ！　だめだめ！　やめて、それだけは……[r]
-　ううっ！　うあっ、ひっ、やあっ！[r]
-　お腹の奥にぶつかって……だめっ、抜いてえっ！」[pcms]
+[ns]Office Lady[nse]
+"No! No way no way! Stop it; just that please... ughh![r]
+Uwahh, hih, yaaah! It's hitting deep inside my belly... noo,[r]
+pull it out!"[pcms]
 
 *6339|
 [fc]
-[ns]サラリーマン[nse]
-「いくぞ！　いくぞいくぞイクぞぉ！[r]
-　うおっ……おおおっ、あぐっ、うぐぅぅぅぅっ！」[pcms]
+[ns]Salaryman[nse]
+"Here I go! I'm going I'm going I'm GOINGGGG! Uoohh...[r]
+oooohhhhhhhhhhh!"[pcms]
 
 ;[射精フラA]
 ;イベントCG射精差分
@@ -674,43 +636,41 @@
 *6340|
 [fc]
 [vo_mob s="ol0036"]
-[ns]ＯＬ[nse]
-「ひっ……あぐっ、ひぃぃぃっ！　やあっ！[r]
-　出てるっ！　熱いのお腹の奥……かかってるぅっ！[r]
-　やだっ、やだやだっ……いやぁぁぁっ！！」[pcms]
+[ns]Office Lady[nse]
+"Hih... aguhh, hiiiihh! Yaaah! It's coming out! Hot stuff[r]
+deep inside my belly... it's covering meee! Noo noo noo...[r]
+nooooo!!"[pcms]
 
 *6341|
 [fc]
-サラリーマン風の男の獣じみた咆哮と同時に、ＯＬの[r]
-膣内に熱い白濁液が流し込まれ、絶望の叫びが狂気に[r]
-満ちた車両内に響き渡る。[pcms]
+With the salaryman-like man's beastly roar coinciding with[r]
+the office lady's scream of despair as hot cloudy liquid is[r]
+poured into her vagina filling the carriage with madness.[pcms]
 
 *6342|
 [fc]
 [vo_mob s="ol0037"]
-[ns]ＯＬ[nse]
-「あ……あうぅ……ひどい……どうして……[r]
-　どうしてこんな……こんなこと……[r]
-　うくっ、んぐぅっ……！」[pcms]
+[ns]Office Lady[nse]
+"Ah... auuuh... this is awful... why? Why is this happening[r]
+to me? Ukuh, nguuuh..."[pcms]
 
 *6343|
 [fc]
-[ns]乗客３[nse]
-「おおお！　だされてる！[r]
-　なかだしされたぞこのおんな！[r]
-　おおおれもおれもなかだし……なかだし！」[pcms]
+[ns]Passenger 3[nse]
+"Ooooh! She got filled up! This woman got cream-pied! Ooooh[r]
+me too me too I want to cream-pie her!"[pcms]
 
 *6344|
 [fc]
-[ns]乗客２[nse]
-「あああ！　ヘンタイおんなをおかすぞ！[r]
-　おれにもやらせろ！　チンポつっこませろ！」[pcms]
+[ns]Passenger 2[nse]
+"Aaaa! I'm going to fuck this perverted woman! Let me have a[r]
+turn! Let me stick my dick in!"[pcms]
 
 *6345|
 [fc]
-[ns]乗客４[nse]
-「おれがさきだ！[r]
-　おれのチンポがつぎになかだしするんだ！」[pcms]
+[ns]Passenger 4[nse]
+"I'm first! My cock is going to be the next to creampie[r]
+her!"[pcms]
 
 ;//★ＣＧ：床に押し倒され、四つんばいでお尻を突き出させられているＯＬ
 ;//差分：助けを求め、目を閉じて叫ぶ
@@ -719,13 +679,14 @@
 *6346|
 [fc]
 [vo_mob s="ol0038"]
-[ns]ＯＬ[nse]
-「ひっ……やぁ！　いやぁぁぁぁぁぁぁぁっ！」[pcms]
+[ns]Office Lady[nse]
+"Hii...yaa! Nooooooo!"[pcms]
 
 *6347|
 [fc]
-怒号と悲鳴が響き渡る狂乱の中、いつの間にか速度を[r]
-落としていた電車が止まり……[pcms]
+In the midst of the frenzy filled with roars and screams,[r]
+the train, which had unknowingly slowed down, came to a[r]
+stop...[pcms]
 
 ;//SE：電車の扉が開く空気音（？）
 
@@ -744,69 +705,69 @@
 
 *6348|
 [fc]
-[ns]車内アナウンス[nse]
-『……駅～。お疲れ様でした、お荷物などお忘れのな[r]
-いよう……』[pcms]
+[ns]In-train announcement[nse]
+"...Station. Thank you for your hard work today, please[r]
+don't forget any of your belongings..."[pcms]
 
 *6349|
 [fc]
 [vo_mob s="ol0039"]
-[ns]ＯＬ[nse]
-「ひぃ……ひぁぁぁぁぁぁっ！」[pcms]
+[ns]Office Lady[nse]
+"Hii...hiaaaaaa!"[pcms]
 
 *6350|
 [fc]
-乱れた服装もそのままに、股間から精液を溢れ出させ[r]
-たまま、ＯＬが電車から飛び出した。[pcms]
+With her clothes still disheveled and semen overflowing from[r]
+her crotch, the Office Lady leaped out of the train.[pcms]
 
 *6351|
 [fc]
 [vo_mob s="ol0040"]
-[ns]ＯＬ[nse]
-「だ、誰か……！　誰か助け……っ！！」[pcms]
+[ns]Office Lady[nse]
+"Someone...! Somebody help...!!"[pcms]
 
 *6352|
 [fc]
-大声で助けを求め、プラットホームを見回した彼女の[r]
-目に映ったのは、電車の中で見たのと同じ目をした人[r]
-人の姿だった。[pcms]
+The sight that met her eyes as she looked around the[r]
+platform for help was that of people with the same eyes she[r]
+had seen inside the train.[pcms]
 
 *6353|
 [fc]
 [vo_mob s="ol0041"]
-[ns]ＯＬ[nse]
-「うあ……ああああ……」[pcms]
+[ns]Office Lady[nse]
+"Uwa...aaaaah..."[pcms]
 
 *6354|
 [fc]
-恐怖に立ち竦み、絶望を顔に張り付かせるＯＬ。[r]
-そんな彼女に、狂気に取り憑かれた人々が、ゆっくり[r]
-と歩み寄ってきた。[pcms]
+Frozen in terror and with despair plastered on her face, the[r]
+Office Lady was slowly approached by people possessed by[r]
+madness.[pcms]
 
 *6355|
 [fc]
-[ns]ニュースキャスター[nse]
-『東北地方で発生しました被災地での暴動ですが、[r]
-　未確認情報として、非常に感染力の強い[r]
-　ウイルスが関連しているとの発表が……』[pcms]
+[ns]News Caster[nse]
+"Regarding the riots that occurred in the disaster-stricken[r]
+areas of the Tohoku region, there has been an announcement[r]
+of unconfirmed information that a highly infectious virus[r]
+may be involved..."[pcms]
 
 *6356|
 [fc]
-ニュースを映し出すオーロラビジョンが見下ろす駅構[r]
-内で、一瞬ごとに広がっていく狂気と混乱。[r]
-分単位で行きかう電車。数万の人々。[pcms]
+In the station overseen by the Aurora Vision broadcasting[r]
+the news, madness and chaos spread with each passing moment.[r]
+Trains passing by every minute. Tens of thousands of people.[pcms]
 
 *6357|
 [fc]
-絶望が、圧倒的なスピードで、[r]
-撒き散らされ始めた……。[pcms]
+Despair began to be scattered with overwhelming speed...[pcms]
 
 ;//------------------------------------------------
 [if exp="tf.scene_mode==1"]
 	[jump storage="b_scene.ks" target=*back_from_SR]
 ;	[link storage=sceneAgain]もう一度見る[endlink]
 ;	[link storage=sceneList]一覧に戻る[endlink]
-;	[s]
+[pcms]
 [endif]
 
 *KAISOU_PASS

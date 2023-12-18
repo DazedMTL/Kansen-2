@@ -26,164 +26,155 @@
 *3036|
 [fc]
 [ns]？？？[nse]
-「っだらァこらああァァっ！！！！[r]
-　しゃァすぞあああァァァっ！！？？[r]
-　っこらしてやっからなああああァァァっ！！！！」[pcms]
+"You bastard, come hereeeeee!! I'll fucking kill youuuuuu!!"[pcms]
 
 *3037|
 [fc]
-[ns]大倉[nse]
-「大丈夫で……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Are you okay...?"[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
 *3038|
 [fc]
-声の出所を探して、ベッドが並んでいる売り場へやっ[r]
-て来ると、そこでは見覚えのある男が、ヘンな格好で[r]
-床に横になっていた。[pcms]
+Searching for the source of the voice, I arrived at the bed[r]
+section, where I found a familiar man lying on the floor in[r]
+a strange pose.[pcms]
 
 *3039|
 [fc]
-[ns]大倉[nse]
-「オマエ……！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"You...!"[pcms]
 
 [ChrSetEx layer=4 chbase="sugo_n06"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *tuia17|
 [fc]
-[ns]作業服の男[nse]
-「あァ！？」[pcms]
+[ns]Work clothes man[nse]
+"Ah!?"[pcms]
 
 *3040|
 [fc]
-速水を拉致ったオッサンは、手首と足首を同時に固定[r]
-する、エロ本で見るような道具を、両手両足につけら[r]
-れてもがいていた。[pcms]
+The old man who kidnapped Hayami was struggling with both[r]
+his wrists and ankles fixed by a tool that looked like[r]
+something out of an erotic book.[pcms]
 
 [ChrSetEx layer=4 chbase="sugo_n04"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *tuia18|
 [fc]
-[ns]作業服の男[nse]
-「あの時のクソガキ……！」[pcms]
+[ns]Work Clothes Man[nse]
+"You little shit from that time...!"[pcms]
 
 *3041|
 [fc]
-[ns]大倉[nse]
-「……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"..."[pcms]
 
 *3042|
 [fc]
-アレって、拘束具ってやつだよな……。[r]
-あのイカレたヤツらがやったのか……？[r]
-けど、それにしては襲われたカンジがしねー……。[pcms]
+That's restraint gear, isn't it... Did those crazy bastards[r]
+do this...? But it doesn't feel like he was attacked...[pcms]
 
 *3043|
 [fc]
-同じ人間を食うようなヤツらが、ここまでしといて[r]
-襲わないってのも、ヘンじゃねーか……？[pcms]
+It's weird, isn't it...? Those who would devour their own[r]
+kind wouldn't go through all this trouble and not attack...[pcms]
 
 *3044|
 [fc]
-もしかして、こっちには他にもマトモな人間が[r]
-いるのか……？[pcms]
+Could it be that there are other sane people around here...?[pcms]
 
 *3045|
 [fc]
-じゃなきゃ、このオッサンにこんなコト[r]
-できねーよな……。[pcms]
+If not, no one would do such a thing to this old man...[pcms]
 
 *3046|
 [fc]
-けど、こんな時に、しかもこのオッサンにこんなコト[r]
-するヤツって、どんなヤツなんだ……？[pcms]
+But who would do such a thing to this old man, especially at[r]
+a time like this...?[pcms]
 
 *3047|
 [fc]
-[ns]大倉[nse]
-「なぁ、それ……」[pcms]
+[ns]Ookura[nse]
+"Hey, that..."[pcms]
 
 *3048|
 [fc]
-こんな状況だし、拘束具を外してやれば、ここを出る[r]
-ために協力してくれるかもしれないと、俺はオッサン[r]
-に近づいた。[pcms]
+Given the situation, if I release him from the restraints,[r]
+he might cooperate with me to get out of here, so I[r]
+approached the old man.[pcms]
 
 [ChrSetEx layer=4 chbase="sugo_n06"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *tuia19|
 [fc]
-[ns]作業服の男[nse]
-「いつまでボッと見てんだコラァ！！　とっととこれ[r]
-　外せや！！」[pcms]
+[ns]Work clothes man[nse]
+"How long are you going to stare, damn it!! Hurry up and[r]
+take this off!!"[pcms]
 
 *3049|
 [fc]
-[ns]大倉[nse]
-「……オイ、助けようとしてんのに、なんだよ[r]
-　その言い方」[pcms]
+[ns]Ookura Hiroshi[nse]
+"...Hey, I'm trying to help you, what's with that attitude?"[pcms]
 
 [ChrSetEx layer=4 chbase="sugo_n04"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *tuia20|
 [fc]
-[ns]作業服の男[nse]
-「あァ！？　うるせェバカ野郎！！　殺されてェのか[r]
-　コラァ！！　とっとと外しゃいんだよっ！！」[pcms]
+[ns]Work Clothes Man[nse]
+"Ah!? Shut up, you idiot!! Do you want to be killed, huh!?[r]
+Just take it off already!!"[pcms]
 
 *3050|
 [fc]
-助けて当たり前みたいにわめき散らすオッサンに、[r]
-俺は一瞬で助ける気を無くした。[pcms]
+I instantly lost any desire to help the old man who was[r]
+screaming as if it was my duty to save him.[pcms]
 
 *3051|
 [fc]
-そりゃそうだ……。[r]
-ナイフで脅して、速水を拉致るようなヤツだ……。[r]
-協力してくれるワケねーよな……。[pcms]
+Of course... He's the guy who threatened with a knife and[r]
+kidnapped Hayami... There's no way he'd cooperate...[pcms]
 
 *3052|
 [fc]
-[ns]大倉[nse]
-「……悪ぃ、俺、忙しいんだ。誰か他のヒトに助けて[r]
-　もらってくれ」[pcms]
+[ns]Ookura Hiroshi[nse]
+"...Sorry, I'm busy. Ask someone else for help."[pcms]
 
 [ChrSetEx layer=4 chbase="sugo_n06"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *tuia21|
 [fc]
-[ns]作業服の男[nse]
-「んだとコラァ！！　おい！！　待てや！！[r]
-　待てっつってんだよ！！」[pcms]
+[ns]Work clothes man[nse]
+"What did you say, damn it!! Hey!! Wait!! I'm telling you to[r]
+wait!!"[pcms]
 
 *3053|
 [fc]
-[ns]大倉[nse]
-「お疲れしたー」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Good work."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *3054|
 [fc]
-オッサンから離れ、速水を捜しに行こうと歩き出すと、[r]
-通路の先からイカレ野郎が何人か、俺に向かって近づ[r]
-いてきていた。[pcms]
+As I walked away from the old man to search for Hayami, a[r]
+few crazed guys started approaching me from down the[r]
+corridor.[pcms]
 
 *3055|
 [fc]
-[ns]大倉[nse]
-「チッ……！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Tch...!"[pcms]
 
 *3056|
 [fc]
-あのクズ野郎が騒いだから、音に気づいて近寄って[r]
-きたんだ……。[pcms]
+Those scumbags must have heard the noise and came over[r]
+because of that loudmouth...[pcms]
 
 ;//バッドエンド救済ポイント4
 ;AutoSave 4
 
 *3057|
 [fc]
-どうする……。[r]
-このまま放っといたら、あのオッサン、確実にヤツら[r]
-に襲われるぞ……。[pcms]
+What to do... If I leave him like this, those guys will[r]
+definitely attack the old man...[pcms]
 
 [jump storage="hayamiroute11030.ks" target=*hayamiroute11030_TOP]
 
-;//－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+;//

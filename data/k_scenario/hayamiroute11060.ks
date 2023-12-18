@@ -22,113 +22,107 @@
 
 *3092|
 [fc]
-[ns]大倉[nse]
-「な、なんだ？　アレ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"What the...? What's that...?"[pcms]
 
 [cutin storage="cut006"][trans_c cross time=500]
 
 *3093|
 [fc]
-メシ屋が並んでいる４階に上がってきてすぐ、俺は通[r]
-路の先にあるトイレに、大量のイカレ野郎が群がって[r]
-るのに気づいた。[pcms]
+As soon as I got up to the fourth floor where the food[r]
+stalls were lined up, I noticed a bunch of crazy guys[r]
+swarming around the bathroom at the end of the corridor.[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
 *3094|
 [fc]
-トイレになんかあんのか……？[r]
-イカレ野郎が集まってるってコトは、あそこに誰か[r]
-いるとかか……。[pcms]
+Is there something in the bathroom...? If a bunch of crazies[r]
+are gathering, does that mean someone is in there...?[pcms]
 
 *3095|
 [fc]
-だとしたら、それ、まさか……。[pcms]
+If that's the case, could it possibly be...?[pcms]
 
 *3096|
 [fc]
-[ns]大倉[nse]
-「速水がいんのか……！？」[pcms]
+[ns]Ookura[nse]
+"Is it Hayami...!?"[pcms]
 
 *3097|
 [fc]
-けど、あんなにいるんじゃ、俺１人じゃムリだ……。[pcms]
+But with that many of them, it's impossible for me alone...[pcms]
 
 *3098|
 [fc]
-トイレ狭ぇし……。[r]
-ココ４階だし……。[pcms]
+The bathroom is cramped... And this is the fourth floor...[pcms]
 
 *3099|
 [fc]
-出入り口が１コしかないんだから、あそこ塞がれたら[r]
-終わりだ……。[pcms]
+If that one entrance gets blocked, it's all over...[pcms]
 
 *3100|
 [fc]
-出られなくなって、確実にアイツらにヤラレる……。[pcms]
+I'd be trapped and definitely done for by those guys...[pcms]
 
 *3101|
 [fc]
-けど、もしあの中に速水がいるなら、早くなんとか[r]
-しねーと……。[pcms]
+But if Hayami is in there, I need to do something quickly...[pcms]
 
 *3102|
 [fc]
-[ns]大倉[nse]
-「……そうだ！」[pcms]
+[ns]Ookura[nse]
+"...That's it!"[pcms]
 
 *3103|
 [fc]
-俺はイカレ集団の近くまで行き、すぐ傍のラーメン屋[r]
-の店先に置いてあった、メニューの書かれたホワイト[r]
-ボードを持ち上げ、ヤツらに向かって投げつけた。[pcms]
+I went near the crazy crowd and picked up a whiteboard with[r]
+the menu written on it from the front of a nearby ramen shop[r]
+and threw it at them.[pcms]
 
 *3104|
 [fc]
-ムリして相手するコトねーんだ……。[r]
-アイツら全部、トイレからいなくなりゃ[r]
-いいんだからな……。！[pcms]
+There's no need to force myself to deal with them... It[r]
+would be fine if they all just left the bathroom...[pcms]
 
 *3105|
 [fc]
-[ns]大倉[nse]
-「オイ！！　オマエらの好きなエサなら、こっちにも[r]
-　あんぞッ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Hey!! If you guys want your favorite food, there's some[r]
+over here too!!"[pcms]
 
 *3106|
 [fc]
-俺は大声を張り上げて、周りにある看板や、見本が載[r]
-せられたテーブルをシャベルでブッ叩き、倒して大き[r]
-な音しながら、イカレ集団を自分の方へおびき寄せた。[pcms]
+I shouted loudly, smashing signs and sample-laden tables[r]
+with a shovel, knocking them over with a loud noise to lure[r]
+the crazy crowd towards me.[pcms]
 
 *3107|
 [fc]
-[ns]大倉[nse]
-「おらっ、こっちだノロマ野郎！！　トロトロ歩いて[r]
-　んじゃねーよッ！！」[pcms]
+[ns]Ookura[nse]
+"Come on, you slowpokes! Don't dawdle!!"[pcms]
 
 *3108|
 [fc]
-一定の距離をキープしながら、俺は長い方の通路を吹[r]
-き抜けに向かって歩き、イカレ集団をトイレから離れ[r]
-させていく。[pcms]
+Keeping a certain distance, I walked towards the atrium[r]
+along the longer corridor, leading the crazy crowd away from[r]
+the bathroom.[pcms]
 
 *3109|
 [fc]
-３階まで連れてった方が、もっと時間稼げるな……。[r]
-よし……！[pcms]
+If I take them down to the third floor, I can buy more[r]
+time... Alright...![pcms]
 
 *3110|
 [fc]
-吹き抜けまで来た俺は角を曲がって、突き当たりにあ[r]
-る階段を目指して、イカレ集団を誘導し続けた。[pcms]
+When I reached the atrium, I turned the corner and continued[r]
+to lead the crazy crowd towards the stairs at the dead end.[pcms]
 
 *3111|
 [fc]
-[ns]大倉[nse]
-「おっせーぞ！！　ホラ！！　こっちだよ！！　エサ[r]
-　いらねーのか！？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"You're too slow!! Hey!! This way!! Don't you want your[r]
+food!?"[pcms]
 
 [cutin_int][trans_c cross time=300]
 
@@ -145,21 +139,21 @@
 
 *3112|
 [fc]
-階段を下りると、あのオッサンがイカレ集団に襲われ[r]
-ていた場所の近くに出た。[pcms]
+Descending the stairs, I came out near where that old man[r]
+was attacked by the crazy crowd.[pcms]
 
 *3113|
 [fc]
-けど、オッサンも、襲っていたイカレ集団も、どこに[r]
-も見当たらなかった。[pcms]
+But neither the old man nor the attacking crazies were[r]
+anywhere to be seen.[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
 *3114|
 [fc]
-どこかに隠れてて、イキナリ出てくるかもしれないと、[r]
-俺は周りに注意しながら、４階から連れてきたイカレ[r]
-集団を誘導しながら、吹き抜け前の通路を歩いた。[pcms]
+Thinking they might be hiding and could jump out at any[r]
+moment, I cautiously led the crazy crowd I brought from the[r]
+fourth floor along the corridor in front of the atrium.[pcms]
 
 ;//★ＢＧ：フキヌケ付近東３Ｆ
 ;//消灯はd
@@ -173,20 +167,20 @@
 
 *3115|
 [fc]
-[ns]大倉[nse]
-「そろそろいいか……？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Is it about time...?"[pcms]
 
 *3116|
 [fc]
-角を曲がり、長い方の通路に入ったところで、俺は[r]
-イカレ集団をダッシュで振り切った。[pcms]
+As I turned the corner into the longer corridor, I dashed[r]
+away from the crazy crowd.[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
 *3117|
 [fc]
-[ns]大倉[nse]
-「一生ソコにいろ、マヌケ野郎……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Stay there forever, you fools..."[pcms]
 
 ;//♪：bgm011 fadeout
 [fadeoutbgm time=1000]
@@ -204,25 +198,26 @@
 
 *3118|
 [fc]
-最初に４階に来た時の階段を駆け上り、短い方の通路[r]
-を走って、俺はまた、トイレの前で立ち止まった。[pcms]
+I ran up the stairs I first came up to on the fourth floor[r]
+and sprinted down the shorter corridor, stopping again in[r]
+front of the bathroom.[pcms]
 
 *3119|
 [fc]
-どっちにいんだ……？[r]
-アイツらが溜まってたってコトは、女子ベンか……？[pcms]
+Which one is it...? If they were gathered there, could it be[r]
+the girls' bathroom...?[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
 *3120|
 [fc]
-念のため男子便所を覗いてみたけど、誰もいないし、[r]
-個室のドアは全部開いていた。[pcms]
+I peeked into the men's restroom just in case, but no one[r]
+was there, and all the stall doors were open.[pcms]
 
 *3121|
 [fc]
-[ns]大倉[nse]
-「ふーっ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Phew..."[pcms]
 
 ;//★ＢＧ：トイレA
 ;//消灯はb
@@ -238,9 +233,10 @@
 
 *3122|
 [fc]
-妙に緊張しながら、シャベルを構え直して、女子ベン[r]
-に思い切って飛び込むと、見覚えのある女が言葉に[r]
-合わせて、個室のドアに頭を打ち付けていた。[pcms]
+Feeling strangely tense, I readied my shovel and bravely[r]
+burst into the girls' bathroom, where a familiar girl was[r]
+banging her head against a stall door in rhythm with her[r]
+words.[pcms]
 
 ;//♪：bgm009
 [bgm storage="bgm009"]
@@ -252,8 +248,8 @@
 *3123|
 [fc]
 [vo_nag s="nagasaki0372"]
-[ns]セーラー服の女[nse]
-「あ゛ぁ～～り゛ぃ～～すぅ～～っ……！！」[pcms]
+[ns]Sailor Suit Girl[nse]
+"Ahh~ Arisu~...!!"[pcms]
 
 ;//※一語を表示するのと同時に、頭を扉にぶつけるSE（？）
 ;//※以下、長崎が頭をぶつけてるシーンは全て同処理（？）
@@ -262,13 +258,14 @@
 
 *3124|
 [fc]
-[ns]大倉[nse]
-「！！」[pcms]
+[ns]Ookura[nse]
+"!!"[pcms]
 
 *3125|
 [fc]
-一番奥の個室のドアに、頭を強くぶつけ続けてるソイ[r]
-ツは、商店街で会った、あのセーラー服の女だった。[pcms]
+The one continuously slamming her head against the door of[r]
+the farthest stall was that sailor suit girl I met in the[r]
+shopping district.[pcms]
 
 ;//[]SE：ドア頭突き
 [se0 storage="SE23"]
@@ -276,19 +273,20 @@
 *3126|
 [fc]
 [vo_nag s="nagasaki0373"]
-[ns]セーラー服の女[nse]
-「て゛えぇ～てえ゛ぇ～[r]
-　きい゛ぃ～てえ゛ぇ～よ゛お゛ぉ～～っ……！！」[pcms]
+[ns]Sailor Suit Girl[nse]
+"Please~ listen~ to me~... Ahh~ Arisu~...!!"[pcms]
 
 *3127|
 [fc]
-長いことそうしてたのか、個室のドアの、女がデコを[r]
-ぶつけてる場所が、うっすらと血で赤くなっている。[pcms]
+The spot on the stall door where she was hitting her[r]
+forehead had turned faintly red with blood from doing it for[r]
+so long.[pcms]
 
 *3128|
 [fc]
-顔には血の筋が数本付いてるけど、セーラー服の女は[r]
-気にする様子も無く、ドアにデコを打ちつけている。[pcms]
+Her face had several streaks of blood on it, but the sailor[r]
+suit girl kept banging her forehead against the door without[r]
+seeming to care.[pcms]
 
 ;//[]SE：ドア頭突き
 [se0 storage="SE23"]
@@ -297,20 +295,19 @@
 *3129|
 [fc]
 [vo_nag s="nagasaki0374"]
-[ns]セーラー服の女[nse]
-「も゛っとぉ～～いぃ～～かぁ～～せぇ～～てぇ～～[r]
-　あぁ～～け゛ぇ～～るぅ～～……！！」[pcms]
-;//※『も゛っ』『とぉ～～』
+[ns]Sailor Suit Girl[nse]
+"Let me~ in~ more~ open~ it~ up~... Ahh~...!!"[pcms]
+;//※『も゛っ』『とぉ』
 
 *3130|
 [fc]
-[ns]大倉[nse]
-「コイツ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"This girl..."[pcms]
 
 *3131|
 [fc]
-どう見ても普通じゃねー……。[r]
-この女、もう病気になってんじゃねーのか……？[pcms]
+She's clearly not normal... Has this girl become sick or[r]
+something...?[pcms]
 
 ;//[]SE：ドア頭突き
 [se0 storage="SE23"]
@@ -319,25 +316,23 @@
 *3132|
 [fc]
 [vo_nag s="nagasaki0375"]
-[ns]セーラー服の女[nse]
-「た゛ぁ～～かぁ～～ら゛ぁ～～て゛ぇ～～てぇ～～[r]
-　きぃ～～てぇ～～……！！　[r]
-　ね゛ぇ～～あ゛ぁ～～り゛ぃ～～すぅ～～……！！」[pcms]
+[ns]Sailor Suit Girl[nse]
+"That's why~ listen~ to me~... Hey~ Arisu~...!!"[pcms]
 
 *3133|
 [fc]
-ありす、って……。[r]
-やっぱり、あの中にアイツが……。[pcms]
+Arisu, huh...? So she really is inside...[pcms]
 
 *3134|
 [fc]
-ヘタすりゃ、あの女にウイルスをうつされる……。[r]
-早く速水を助けて逃げねーと……！[pcms]
+If I'm not careful, I could get infected by this girl's[r]
+virus... I need to rescue Hayami and get out of here[r]
+quickly...![pcms]
 
 *3135|
 [fc]
-[ns]大倉[nse]
-「オイ！！　そこから離れろッ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Hey!! Get away from there!!"[pcms]
 
 ;//[]SE：ドア頭突き
 [se0 storage="SE23"]
@@ -346,15 +341,14 @@
 *3136|
 [fc]
 [vo_nag s="nagasaki0376"]
-[ns]セーラー服の女[nse]
-「はあ゛ぁ～～～……？　なんた゛よ……[r]
-　た゛れた゛よぉ、おま゛え゛ぇ～～～……！！」[pcms]
+[ns]Sailor Suit Girl[nse]
+"Huh~? What do you want... Who are you~...!!"[pcms]
 
 *3137|
 [fc]
-デコからの血で濡れる顔を向け、精気の無い、暗い目[r]
-で睨みつけながら、セーラー服の女が俺にゆっくりと[r]
-近づき始める。[pcms]
+Turning her blood-soaked face towards me, she began to[r]
+approach slowly with lifeless, dark eyes while glaring at[r]
+me.[pcms]
 
 ;//＠ここ二人立ち　ありす右
 [chara_int_ layer=4][trans_c cross time=150]
@@ -364,225 +358,219 @@
 *3138|
 [fc]
 [vo_hay s="hayami0700"]
-[ns]ありす[nse]
-「ヒロシ……！？」[pcms]
+[ns]Alice[nse]
+"Hiroshi...!?"[pcms]
 
 *3139|
 [fc]
-その後ろでドアが開き、涙で顔をクシャクシャにした[r]
-速水が飛び出し、セーラー服の女とは対照的な、光の[r]
-宿った目で俺を見つめた。[pcms]
+Behind her, a door opened and Hayami burst out with her face[r]
+crumpled in tears. In stark contrast to the sailor suit[r]
+girl, she looked at me with eyes full of light.[pcms]
 
 [ChrSetEx layer=2 chbase="hayami_d02"][ChrSetXY layer=2 x=0 y=0][trans_c cross time=150]
 *3140|
 [fc]
 [vo_hay s="hayami0701"]
-[ns]ありす[nse]
-「……」[pcms]
+[ns]Arisu[nse]
+"..."[pcms]
 ;//◎泣きそう
 
 *3141|
 [fc]
-今までに見たコトの無い、弱々しい顔をした速水を、[r]
-俺は思わず見つめ返してしまった。[pcms]
+I found myself staring back at Hayami, who had a face of[r]
+weakness like I had never seen before.[pcms]
 
 *3142|
 [fc]
-泣いてる……。[r]
-速水が……。[pcms]
+She's crying... Hayami is...[pcms]
 
 *3143|
 [fc]
-そういや笑い泣き以外で、コイツが泣いてんの、[r]
-見たコトなかったな……。[pcms]
+Now that I think about it, I've never seen her cry, except[r]
+for when she's laughing through her tears...[pcms]
 
 *3144|
 [fc]
-なんか新鮮っつーか、カワ……。[pcms]
+Somehow it feels fresh, or rather, cute...[pcms]
 
 [ChrSetEx layer=3 chbase="naga_n20"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
 *3145|
 [fc]
 [vo_nag s="nagasaki0377"]
-[ns]セーラー服の女[nse]
-「よる゛な゛ぁ……くさいへ゜に゛すを、わたしに゛[r]
-　ちかつ゛ける゛な゛あ゛ぁ～～～っ……！！」[pcms]
+[ns]Sailor Suit Girl[nse]
+"Don't come any closer... with your stinky dick, don't come[r]
+near me~~~...!!"[pcms]
 
 *3146|
 [fc]
-[ns]大倉[nse]
-「！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"!!"[pcms]
 
 *3147|
 [fc]
-場違いなコトを考え、ボンヤリしていた隙をついて、[r]
-セーラー服の女が怒鳴りながら飛びかかってくる。[pcms]
+Caught off guard by my misplaced thoughts, the sailor suit[r]
+girl lunged at me while screaming.[pcms]
 
 *3148|
 [fc]
-俺は慌てて女をシャベルで受け止め、[r]
-個室のドアの横にある壁に押しつけて、速水に叫んだ。[pcms]
+I hurriedly caught the girl with a shovel, pushed her[r]
+against the wall next to the stall door, and shouted to[r]
+Hayami.[pcms]
 
 *3149|
 [fc]
-[ns]大倉[nse]
-「速水！　俺が抑えてるから、その隙に逃げろッ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Hayami! I'm holding her back, now's your chance to run!!"[pcms]
 
 [ChrSetEx layer=2 chbase="hayami_o01"][ChrSetXY layer=2 x=0 y=0][trans_c cross time=150]
 *3150|
 [fc]
 [vo_hay s="hayami0702"]
-[ns]ありす[nse]
-「うん……！」[pcms]
+[ns]Arisu[nse]
+"Okay...!"[pcms]
 
 [ChrSetEx layer=3 chbase="naga_n19"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
 *3151|
 [fc]
 [vo_nag s="nagasaki0378"]
-[ns]セーラー服の女[nse]
-「ちかつ゛くな゛ぁ……[r]
-　ちかつ゛くな゛あ゛あぁぁあ゛ぁぁっ……！！！！」[pcms]
+[ns]Sailor Suit Girl[nse]
+"Don't come close... Don't come any closer~~~...!!!!"[pcms]
 
 ;//＠ありす　ピンで
 [chara_int_ layer=2][chara_int_ layer=3][trans_c cross time=150]
 
 *3152|
 [fc]
-襟首を掴まれ、女とは思えない、物凄い力で押し戻さ[r]
-れて、俺は同じようにドア横の壁に、勢い良く押しつ[r]
-けられた。[pcms]
+Grabbed by the collar, I was pushed back with an incredible[r]
+force that didn't seem human, and I was slammed against the[r]
+wall next to the door just as hard.[pcms]
 
 [quake_bg 元time=200 xy m]
 
 *3153|
 [fc]
-[ns]大倉[nse]
-「ぐっ……！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Guh...!!"[pcms]
 
 [ChrSetEx layer=4 chbase="hayami_o02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *3154|
 [fc]
 [vo_hay s="hayami0703"]
-[ns]ありす[nse]
-「きゃぁっ……！！」[pcms]
+[ns]Alice[nse]
+"Kyaa...!!"[pcms]
 
 *3155|
 [fc]
-後ろを通ろうとしていた速水が、俺とセーラー服の女[r]
-に道を遮られて飛びのく。[pcms]
+Hayami, trying to pass by behind me, was blocked by the[r]
+sailor suit girl and me and jumped back.[pcms]
 
 [ChrSetEx layer=4 chbase="naga_n19"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *3156|
 [fc]
 [vo_nag s="nagasaki0379"]
-[ns]セーラー服の女[nse]
-「お゛ま゛えら゛、くさい゛へ゜にすはぁ……[r]
-　せ゛んい゛んしね゛え゛ぇ～～～……っ！！！！」[pcms]
+[ns]Sailor Suit Girl[nse]
+"You guys with your stinky dicks... should all[r]
+die~~~...!!!!"[pcms]
 
 *3157|
 [fc]
-[ns]大倉[nse]
-「くっ……！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Damn...!!"[pcms]
 
 *3158|
 [fc]
-女は裂けるぐらい大きく口を開け、白い歯を剥き出し[r]
-にして、俺の首筋に近づけてくる。[pcms]
+The girl opened her mouth wide enough to tear it, bared her[r]
+white teeth, and brought them close to my neck.[pcms]
 
 *3159|
 [fc]
-俺は女の顔を近づけさせないようにするのが精一杯で、[r]
-押し戻して、速水を逃げさせることもできないでいた。[pcms]
+I was at my limit just keeping her face away from me and[r]
+couldn't push her back or let Hayami escape.[pcms]
 
 [ChrSetEx layer=4 chbase="naga_n19"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *3160|
 [fc]
 [vo_nag s="nagasaki0380"]
-[ns]セーラー服の女[nse]
-「か゛あぁはあ゛ぁっ……！！」[pcms]
+[ns]Sailor Suit Girl[nse]
+"Gahhhaa...!!"[pcms]
 
 *3161|
 [fc]
-[ns]大倉[nse]
-「やめろ……テメェ……ッ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Stop it... You bastard...!!"[pcms]
 
 *3162|
 [fc]
-なんだこの力……！！[r]
-コイツ、ホントに女か……！？[pcms]
+What is this strength...!! Is she really a woman...!?[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *3163|
 [fc]
-ジワジワと押され始めた俺の横で、速水が驚いたよう[r]
-に息を吸うと、入り口の方から低い唸り声が聞こえ始[r]
-めた。[pcms]
+As I began to be slowly pushed back, Hayami gasped in[r]
+surprise next to me, and a low growling sound started coming[r]
+from the entrance.[pcms]
 
 [cutin storage="cut005" layer=1][trans_c cross time=500]
 
 *3164|
 [fc]
 [ns]？？？[nse]
-「て゛てきたあ゛ぁ～～～……ま゛ん゛こか゛て゛て[r]
-　きてる゛そ゛お゛ぉ～～～……っ！！」[pcms]
+"They're coming~~~... The pussy is coming this way~~~...!!"[pcms]
 
 *3165|
 [fc]
-[ns]大倉[nse]
-「！？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"!? "[pcms]
 
 *3166|
 [fc]
 [ns]？？？[nse]
-「と゛けえ゛ぇ～～～……っ！！　その゛ま゛んこは、[r]
-　おれ゛の゛た゛あぁ～～～……っ！！」[pcms]
+"Get out of the way~~~...!! That pussy is mine~~~...!!"[pcms]
 
 *3167|
 [fc]
-クソッ……！！[r]
-さっき３階に連れてったヤツらが、[r]
-また戻ってきやがったのか……！？[pcms]
+Dammit...!! Have those guys I took to the third floor come[r]
+back already...!?[pcms]
 
 *3168|
 [fc]
-帰ってきたイカレ集団がゾロゾロと入ってきて、便所[r]
-の中がどんどんヤツらで埋まっていく。[pcms]
+The returned crazies started pouring in one after another,[r]
+and the restroom was quickly filling up with them.[pcms]
 
 [ChrSetEx layer=4 chbase="hayami_o02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *3169|
 [fc]
 [vo_hay s="hayami0704"]
-[ns]ありす[nse]
-「ヒ、ヒロシ……！」[pcms]
+[ns]Arisu[nse]
+"Hiroshi...!"[pcms]
 
 *3170|
 [fc]
-[ns]大倉[nse]
-「くっ……！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Damn...!!"[pcms]
 
 *3171|
 [fc]
-ヤバイ……！！[r]
-このままじゃ、俺も速水も……！！[pcms]
+This is bad...!! At this rate, both Hayami and I...!![pcms]
 
 [ChrSetEx layer=4 chbase="naga_n19"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *3172|
 [fc]
-[ns]大倉[nse]
-「……いい加減どけ、この野郎ッ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"...Get out of the way, you bastard!!"[pcms]
 
 *3173|
 [fc]
-女の体に沿ってシャベルを滑らせ、俺は素早く、女と[r]
-体勢を入れ替えた。[pcms]
+I slid the shovel along the girl's body and quickly switched[r]
+positions with her.[pcms]
 
 *3174|
 [fc]
 [vo_nag s="nagasaki0381"]
-[ns]セーラー服の女[nse]
-「う゛ぁっ……！」[pcms]
+[ns]Sailor Suit Girl[nse]
+"Ugh...!"[pcms]
 
 [eval exp="f.chara_x = 200,f.chara_y = 0"]
 [quake_chara 元time=200 xy m]
@@ -590,88 +578,89 @@
 
 *3175|
 [fc]
-真後ろに回り込んだ俺は、個室の中へ、女を思いっき[r]
-り蹴り込んだ。[pcms]
+I circled around to her back and kicked her hard into the[r]
+stall.[pcms]
 
 [ChrSetEx layer=4 chbase="hayami_o01"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *3176|
 [fc]
 [vo_hay s="hayami0705"]
-[ns]ありす[nse]
-「ヒロシ、後ろっ！！」[pcms]
+[ns]Arisu[nse]
+"Hiroshi, behind you!!"[pcms]
 
 *3177|
 [fc]
-[ns]大倉[nse]
-「！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"!!"[pcms]
 
 *3178|
 [fc]
-速水の叫び声に後ろを振り向くと、すぐ目の前まで[r]
-イカレ野郎が迫ってきていて、ヤツらの波に、俺と[r]
-速水は飲み込まれた。[pcms]
+At Hayami's scream, I turned around to see the crazies[r]
+almost upon us, and both Hayami and I were swallowed by[r]
+their wave.[pcms]
 
 [ChrSetEx layer=4 chbase="hayami_o02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *3179|
 [fc]
 [vo_hay s="hayami0706"]
-[ns]ありす[nse]
-「いやあぁっ！！」[pcms]
+[ns]Alice[nse]
+"No ahhhh!!"[pcms]
 
 *3180|
 [fc]
-[ns]大倉[nse]
-「おあぁっ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Oh ahh!!"[pcms]
 
 *3181|
 [fc]
-シャベルを振り回そうとしても、イカレ野郎で密集し[r]
-てる状態じゃ動かすこともできず、俺は素手でヤツら[r]
-を押しのけた。[pcms]
+Even though I tried to swing the shovel around, I couldn't[r]
+move it in the dense crowd of crazies, so I pushed them away[r]
+with my bare hands.[pcms]
 
 *3182|
 [fc]
-[ns]大倉[nse]
-「クソ、どけ！！　速水ッ！！」[pcms]
+[ns]Ookura[nse]
+"Damn it, move!! Hayami!!"[pcms]
 
 [ChrSetEx layer=4 chbase="hayami_o02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *3183|
 [fc]
 [vo_hay s="hayami0707"]
-[ns]ありす[nse]
-「ヒロシ……！　助けて……っ！！」[pcms]
+[ns]Arisu[nse]
+"Hiroshi...! Help me...!!"[pcms]
 
 *3184|
 [fc]
-[ns]大倉[nse]
-「速水ッ！！」[pcms]
+[ns]Ookura[nse]
+"Hayami!!"[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *3185|
 [fc]
-肩で体当たりしてイカレ集団を押しのけ、開いたほん[r]
-のちょっとの隙間をかき分けながら近づき、伸ばされ[r]
-た速水の手を掴もうと、自分も手を伸ばす。[pcms]
+Body-checking through the crowd of crazies, I made a small[r]
+opening and reached out for Hayami's extended hand as I[r]
+pushed through.[pcms]
 
 *3186|
 [fc]
-[ns]大倉[nse]
-「くっ、どけッ！！　どけよ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Damn it, move!! Move it!!"[pcms]
 
 ;//[ChrSetEx layer=4 chbase="hayami_o01"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *3187|
 [fc]
 [vo_hay s="hayami0708"]
-[ns]ありす[nse]
-「ヒロ、シ……っ！！」[pcms]
+[ns]Arisu[nse]
+"Hiro, shi...!!"[pcms]
 ;//◎可能な限り手を伸ばそうとしている
 
 *3188|
 [fc]
-飛びつくように速水の手を掴み、少し冷たくなった指[r]
-先の感触が伝わってきたのと同時に、俺の視界が全部、[r]
-一瞬で真っ黒に変わった。[pcms]
+I grabbed Hayami's hand as she lunged towards me, feeling[r]
+her fingertips that had gone slightly cold, and at that[r]
+moment my entire field of vision turned pitch black in an[r]
+instant.[pcms]
 
 ;//♪：bgm009 fadeout
 [fadeoutbgm time=1000]
@@ -685,4 +674,4 @@
 
 [jump storage="hayamiroute11070.ks" target=*hayamiroute11070_TOP]
 
-;//－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+;//

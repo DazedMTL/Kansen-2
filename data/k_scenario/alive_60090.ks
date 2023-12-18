@@ -24,27 +24,26 @@
 
 *993|
 [fc]
-[ns]菅生[nse]
-「くそぉ……アイツら……ぜったいおっぱらってやる[r]
-　オイ！　いくぞ！」[pcms]
+[ns]Sugou[nse]
+"Damn it... Those guys... I'll definitely take them down.[r]
+Hey! Let's go!"[pcms]
 
 *994|
 [fc]
-思うように動かない足を引きずる様に動かして、[r]
-俺達はようやく二階へと昇ってきた。[pcms]
+Dragging our feet that wouldn't move as we wanted, we[r]
+finally managed to climb up to the second floor.[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
 *995|
 [fc]
-[ns]大倉[nse]
-「なんだ……？　あいつら……。[r]
-　なんかアイツら、ヘンだな……」[pcms]
+[ns]Ookura[nse]
+"What the...? Those guys... Something's weird about them..."[pcms]
 
 *996|
 [fc]
-そこには、何人かの男達が、口を開けて天井を眺めな[r]
-がら、ただ歩いているのが見えた。[pcms]
+There, we could see several men walking around, just staring[r]
+at the ceiling with their mouths open.[pcms]
 
 ;<ChrInit>;//小林(左)　菅生(右)
 [chara_int_ layer=4][trans_c cross time=150]
@@ -52,24 +51,23 @@
 
 *997|
 [fc]
-[ns]菅生[nse]
-「オイ！　アイツら、ぜんぶブッころすぞ！[r]
-　ついてこい！！」[pcms]
+[ns]Sugou[nse]
+"Hey! I'm gonna kill all those bastards! Follow me!!"[pcms]
 
 [ChrSetEx layer=2 chbase="koba_n18"][ChrSetXY layer=2 x=0 y=0][trans_c cross time=150]
 
 *998|
 [fc]
 [vo_kob s="koba0517"]
-[ns]小林[nse]
-「え……？　殺す？　どうやって？」[pcms]
+[ns]Kobayashi[nse]
+"Eh...? Kill? How?"[pcms]
 
 [ChrSetEx layer=3 chbase="sugo_n08"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
 
 *999|
 [fc]
-[ns]菅生[nse]
-「……おまえがかんがえろ！！」[pcms]
+[ns]Sugou[nse]
+"...You figure it out!!"[pcms]
 
 ;//菅生アウト
 [chara_int_ layer=2][chara_int_ layer=3][trans_c cross time=150][wt]
@@ -77,9 +75,9 @@
 
 *1000|
 [fc]
-[ns]大倉[nse]
-「ハァ？　んだよオッサン、何にも考えてねぇのかよ！[r]
-　ナイフもってんなら、一人でやってこいよ！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Huh? What's up old man, you haven't thought of anything?![r]
+If you've got a knife, go do it yourself!"[pcms]
 
 
 [ChrSetEx layer=4 chbase="koba_n18"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -87,78 +85,76 @@
 *1001|
 [fc]
 [vo_kob s="koba0518"]
-[ns]小林[nse]
-「よいしょ……えい……、[r]
-　……あれぇ～……？　無いなぁ……」[pcms]
+[ns]Kobayashi[nse]
+"Yoisho...eih..., ...huh~...? It's not here..."[pcms]
 
 *1002|
 [fc]
-[ns]大倉[nse]
-「ユウ……何やってんだ？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Yuuki...what are you doing?"[pcms]
 
 *1003|
 [fc]
-間抜けな声を上げたユウが、周りにあった棚をひっか[r]
-き回して、何かを探していた。[pcms]
+Yuuki let out a foolish cry as she rummaged through the[r]
+shelves around her, searching for something.[pcms]
 
 [ChrSetEx layer=4 chbase="koba_n19"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *1004|
 [fc]
 [vo_kob s="koba0519"]
-[ns]小林[nse]
-「え～……？　だいたいこういう所にさぁ……、[r]
-　なんか武器隠されてたりするじゃない？[r]
-　銃とかさ……」[pcms]
+[ns]Kobayashi[nse]
+"Eh~...? Usually in places like this, you know... there's[r]
+some kind of weapon hidden, right? Like a gun or[r]
+something..."[pcms]
 
 *1005|
 [fc]
-[ns]大倉[nse]
-「は……？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Ha...?"[pcms]
 
 [ChrSetEx layer=4 chbase="sugo_n08"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *1006|
 [fc]
-[ns]菅生[nse]
-「なにやってんだよおまえらはよっ！」[pcms]
+[ns]Sugou[nse]
+"What the hell are you guys doing?!"[pcms]
 
 *1007|
 [fc]
-[ns]菅生[nse]
-「クソッ！　もたもたしてるウチに、アイツらいなく[r]
-　なっちまったじゃねぇか！！　オメェらはもう、[r]
-　しゃていでもなんでもねぇ！！　どっかいけバカ！」[pcms]
+[ns]Sugou[nse]
+"Damn it! While we're dawdling, those guys have disappeared![r]
+You lot are useless, not even worth being underlings! Get[r]
+lost, idiots!"[pcms]
 
 ;<ChrInit>;//菅生アウト
 [ChrSetEx layer=4 chbase="koba_n18"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *1008|
 [fc]
-[ns]大倉[nse]
-「俺らはお前の舎弟なんかじゃねぇよ！[r]
-　第一、アイツらが何したってんだよ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"We're not your underlings! First of all, what did those[r]
+guys even do?!"[pcms]
 
 [ChrSetEx layer=4 chbase="koba_n17"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *1009|
 [fc]
 [vo_kob s="koba0520"]
-[ns]小林[nse]
-「ねぇ～……ヒロぉ……、おかしいよ？[r]
-　何にもないよ？　ヘンだなぁ……」[pcms]
+[ns]Kobayashi[nse]
+"Hey~... Hiroshi... this is weird? There's nothing here?[r]
+Strange..."[pcms]
 
 [fadeoutbgm time=502]
 
 *1010|
 [fc]
-[ns]大倉[nse]
-「……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"..."[pcms]
 
 *1011|
 [fc]
-どいつもコイツも……。[r]
-訳の分かんねぇ事いいやがって……。[pcms]
+Every single one of them... spouting nonsense...[pcms]
 
 [bgm storage="BGM011"]
 
@@ -166,9 +162,9 @@
 
 *1012|
 [fc]
-[ns]菅生[nse]
-「クソッ！　はらたつぜ！　……ぜんぶ！！[r]
-　ぜんぶオメェらのせいだぞ！！　オラァ！！」[pcms]
+[ns]Sugou[nse]
+"Damn it! This is so irritating! ...All of it!! It's all[r]
+your fault!! Oraa!!"[pcms]
 
 [se0 storage="SE24"]
 
@@ -177,25 +173,23 @@
 
 *1013|
 [fc]
-[ns]大倉[nse]
-「……！？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"...!?"[pcms]
 
 *1014|
 [fc]
-オヤジは叫びながら、俺に向けてナイフを投げ付けて[r]
-来た。[pcms]
+The old man screamed and threw a knife at me.[pcms]
 
 *1015|
 [fc]
-それは、俺の体を掠めて、後ろにあった棚に[r]
-突き刺さった。[pcms]
+It grazed my body and stuck into the shelf behind me.[pcms]
 
 [ChrSetEx layer=4 chbase="sugo_n08"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *1016|
 [fc]
-[ns]菅生[nse]
-「しねやオラァァァ！！」[pcms]
+[ns]Sugou[nse]
+"Die already, Oraaaa!!"[pcms]
 
 [se0 storage="SE24"]
 
@@ -204,62 +198,58 @@
 
 *1017|
 [fc]
-[ns]大倉[nse]
-「うぉっ！！　あぶねぇっ！」[pcms]
+[ns]Ookura[nse]
+"Whoa!! That was close!"[pcms]
 
 [ChrSetEx layer=4 chbase="sugo_n09"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *1018|
 [fc]
-オヤジは、もう一本隠し持っていたナイフを、[r]
-また投げ付けて来たが、それも俺ではなく、[r]
-後ろの棚に突き刺さった。[pcms]
+The old man, who had another knife hidden, threw it again,[r]
+but it also missed me and stuck into the shelf behind.[pcms]
 
 [ChrSetEx layer=4 chbase="sugo_n08"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *1019|
 [fc]
-[ns]菅生[nse]
-「ンだよクソォ～……あたっとけよ、[r]
-　この……クソボケがよぉ！」[pcms]
+[ns]Sugou[nse]
+"What the hell... hit the target, you... damn idiot!"[pcms]
 
 *1020|
 [fc]
-このオヤジ……マジで俺を殺す気だった……。[r]
-こんな所で……殺されてたまるかっ！[pcms]
+This old man... he was seriously trying to kill me... I'm[r]
+not going to be killed in a place like this![pcms]
 
 *1021|
 [fc]
-こんなヤツと一緒にいたら、後々めんどくさそうだ！[r]
-何とかしてコイツを止めないと……！[pcms]
+If I stay with this guy, it'll be trouble later on! I have[r]
+to stop him somehow...![pcms]
 
 [ChrSetEx layer=4 chbase="koba_n17"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *1022|
 [fc]
 [vo_kob s="koba0521"]
-[ns]小林[nse]
-「あ～……、いいもの見つけた～！[r]
-　これ、使えるかなぁ……？」[pcms]
+[ns]Kobayashi[nse]
+"Ah~... I found something good~! Can I use this...?"[pcms]
 
 *1023|
 [fc]
-ヒロは喜びながら、[r]
-俺に大きなハンマーを手渡した。[pcms]
+Hiroshi joyfully handed me a large hammer.[pcms]
 
 *1024|
 [fc]
-大きさの割に、まるで重さを感じないソレを[r]
-受け取った俺は、ナイフを失い、[r]
-素手で身構えているオヤジより、遙かに有利になった。[pcms]
+Despite its size, I felt no weight as I took it from him,[r]
+and now without his knife and only his bare hands, the old[r]
+man was at a far greater disadvantage than me.[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *1025|
 [fc]
-[ns]大倉[nse]
-「このクソオヤジがっ！！　黙ってりゃいい気に[r]
-　なりやがって！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"This damn old man!! Getting cocky just because I kept[r]
+quiet!!"[pcms]
 
 ;//★ホワイトフラッシュ
 [白フラ]
@@ -272,20 +262,20 @@
 
 *1026|
 [fc]
-軽々としたソレをオヤジを脅かす為に振り下ろすと、[r]
-ソレは床に当たり、周りを派手にへこませた。[pcms]
+As I swung down the light hammer to intimidate the old man,[r]
+it hit the floor and made a loud dent around it.[pcms]
 
 [ChrSetEx layer=4 chbase="sugo_n08"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *1027|
 [fc]
-[ns]菅生[nse]
-「お……おわぁっ！！　や、やめろクソガキ！！」[pcms]
+[ns]Sugou[nse]
+"Oh... Oh no!! Stop it, you damn brat!!"[pcms]
 
 *1028|
 [fc]
-[ns]大倉[nse]
-「へっ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Heh!!"[pcms]
 
 ;//★ホワイトフラッシュ
 [白フラ]
@@ -300,114 +290,112 @@
 
 *1029|
 [fc]
-[ns]菅生[nse]
-「わかっ……わかった！　おれさまがわるかった！！[r]
-　だから……やめてくれっ！」[pcms]
+[ns]Sugou[nse]
+"I get it... I get it! It was my fault!! So... please stop!"[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *1030|
 [fc]
-腰を抜かしたのか、その場にへたり込んだオヤジは、[r]
-怯えきった顔で俺を見て、小刻みに震えていた。[pcms]
+Whether his legs gave out or not, the old man collapsed on[r]
+the spot, looking at me with a terrified face and trembling[r]
+slightly.[pcms]
 
 *1031|
 [fc]
-本当はこの場でこのクソオヤジを殺してしまった方が[r]
-いいのかもしれないが、さすがに人殺しは勘弁だ。[pcms]
+It might be better to kill this damn old man right here, but[r]
+I definitely can't bring myself to be a murderer.[pcms]
 
 *1032|
 [fc]
-[ns]大倉[nse]
-「オヤジよぉ……あんまり調子ブッこいてると、[r]
-　次ぁ、マジ殺すかんな……！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Old man... if you get too carried away again, next time I[r]
+might seriously kill you...!"[pcms]
 
 [ChrSetEx layer=4 chbase="koba_n17"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *1033|
 [fc]
 [vo_kob s="koba0522"]
-[ns]小林[nse]
-「わー、ヒロ、何だか漫画の悪者みたい！」[pcms]
+[ns]Kobayashi[nse]
+"Wow- Hiroshi, you sound like a villain from a manga!"[pcms]
 
 *1034|
 [fc]
-[ns]大倉[nse]
-「……悪者とか言うな！！　おいオッサン……、[r]
-　次ヘンな真似したら、頭カチ割ってやっかんな！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"...Don't call me a villain!! Hey old man... if you do[r]
+something weird again, I'll crack your head open, got it?!"[pcms]
 
 [ChrSetEx layer=4 chbase="sugo_n08"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *1035|
 [fc]
-[ns]菅生[nse]
-「クソッ……わーった！　わかったよ！！」[pcms]
+[ns]Sugou[nse]
+"Damn it... I understand! I got it!!"[pcms]
 
 [ChrSetEx layer=4 chbase="koba_n18"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *1036|
 [fc]
 [vo_kob s="koba0523"]
-[ns]小林[nse]
-「あれぇ～？　ボク達、ここに何しにきたんだっけ？[r]
-　タイプライター？」[pcms]
+[ns]Kobayashi[nse]
+"Huh~? What did we come here for again? A typewriter?"[pcms]
 
 *1037|
 [fc]
-[ns]大倉[nse]
-「は？　……？？　何いってんの、ユウ……。[r]
-　あれ……？　何しに来たんだっけ？　このオヤジを[r]
-　ビビらす為じゃねーよな？」[pcms]
+[ns]Ookura[nse]
+"Huh? ...?? What are you talking about, Yuuki...? Huh...?[r]
+What did we come here for? It wasn't just to scare this old[r]
+man, was it?"[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *1038|
 [fc]
-……？[r]
-このオヤジが、俺達を無理矢理連れてきた……。[pcms]
+...? The old man forced us to come here...[pcms]
 
 
 *1039|
 [fc]
-……？？[r]
-何しに来たんだっけ……？[pcms]
+...?? What did we come here for...?[pcms]
 
 *1040|
 [fc]
-オヤジが何か叫んで、俺がそれに答えて……、[r]
-ユウがヘンな事言い出して……？？[pcms]
+The old man shouted something, and I answered him..., Yuuki[r]
+started saying weird things...??[pcms]
 
 *1041|
 [fc]
-その前……なんだっけ……。[pcms]
+Before that... what was it...[pcms]
 
 *1042|
 [fc]
-何だっけ……。[pcms]
+What was it...[pcms]
 
 *1043|
 [fc]
-ユウもこのオヤジも、訳分かんねー事ばっかり[r]
-言うから、何しに来たんだか、全然わかんねぇ……。[pcms]
+Yuuki and this old man, they keep saying things that make no[r]
+sense, I have no idea what we came here for...[pcms]
 
 *1044|
 [fc]
-[ns]大倉[nse]
-「……もういいや！　速水達ん所、いくぞ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"...Enough already! Let's go to where Hayami and the others[r]
+are!!"[pcms]
 
 [ChrSetEx layer=4 chbase="koba_n17"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *1045|
 [fc]
 [vo_kob s="koba0524"]
-[ns]小林[nse]
-「あー！　あんな所にハーブコーナーがあるよ！！[r]
-　取っておいた方がいいかなぁ？」[pcms]
+[ns]Kobayashi[nse]
+"Ah-! There's a herb corner over there!! Should I take some[r]
+with me?"[pcms]
 
 *1046|
 [fc]
-[ns]大倉[nse]
-「もういいってばよ！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"I said we're done here!"[pcms]
 
 ;//BLACKOUT
 [fadeoutbgm time=502]
@@ -415,5 +403,5 @@
 
 [jump storage="alive_60100.ks" target=*alive_60100_TOP]
 
-;//－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+;//
 

@@ -24,7 +24,7 @@
 
 ;[link storage="westtown_main10411.ks" target=*westtown_main10411_TOP]俺がオトリになるから、先に行っててください！[endlink]
 ;[link storage="westtown_main10413.ks" target=*westtown_main10413_TOP]今ならまだ間に合う！　走れッ！！[endlink]
-;[s]
+;[pcms]
 
 
 ;	;//------------------------------------------------
@@ -42,8 +42,8 @@
 [fc]
 [pcms_sel]
 
-[eval exp="f.seltext02 = '俺がオトリになるから、先に行っててください！'"]
-[eval exp="f.seltext04 = '今ならまだ間に合う！　走れッ！！'"]
+[eval exp="f.seltext02 = 'I\'ll act as the decoy, so please go ahead!'"]
+[eval exp="f.seltext04 = 'We can still make it if we run now! Hurry!!'"]
 
 [if exp="tf.sys_sub == 0 || tf.選択肢ログ表示してね == 1"]
 	;選択肢内容をバックログに表記。改行コード必須。

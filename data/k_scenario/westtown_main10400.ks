@@ -27,9 +27,9 @@
 
 *12176|
 [fc]
-エスカレーターを真ん中まで降りてきて、２階の降り[r]
-口のすぐ近くに、あの女の子の顔を見つけて、俺は足[r]
-を止めた。[pcms]
+I descended the escalator to the middle, and upon spotting[r]
+that girl's face near the second floor exit, I stopped in my[r]
+tracks.[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
@@ -65,123 +65,119 @@
 
 *12177|
 [fc]
-大勢の半裸と全裸の男に囲まれ、いいように犯されて、[r]
-彼女は涙を流しながら呻き声をあげていた。[pcms]
+Surrounded by a crowd of half-naked and fully naked men, she[r]
+was being violated at their mercy, moaning and shedding[r]
+tears.[pcms]
 
 *12178|
 [fc]
 [vo_mob s="girl0058"]
-[ns]少女[nse]
-「んぶっ、ぐちゅぅっ！！　ぢゅぶっ、ぢゅっ、んぐ[r]
-　うぅっ……！！　んぼっ、ぐぷちゅぅっ！！」[pcms]
+[ns]Girl[nse]
+"Nnghh, squelch!! Drip, drip, nghh... ugh...!! Nghh, slurp[r]
+squelch!!"[pcms]
 
 *12179|
 [fc]
-[ns]真っ裸の中年[nse]
-「ふはっ……はっ、はぁあ゛っ……[r]
-　ふはあ゛ぁあ゛～～～……！！」[pcms]
+[ns]Stark-naked middle-aged man[nse]
+"Fuhah... hah, haaah... fuhaaah~~~...!!"[pcms]
 
 *12180|
 [fc]
-[ns]ポロシャツの青年[nse]
-「ま゛ん゛こ、ま゛たゆ゛るくな゛ってきてん゛そ゛[r]
-　おぉ～～……っ！！　も゛っとしめ゛ろよぉ、い゛[r]
-　けね゛ぇた゛ろぉお゛～～～……！！」[pcms]
+[ns]Young man in a polo shirt[nse]
+"Your pussy, it's getting so wet... ooh~~...!! Tighten it[r]
+more, can't you see I'm about to cum~~~...!!"[pcms]
 
 *12181|
 [fc]
 [vo_mob s="girl0059"]
-[ns]少女[nse]
-「ぢゅぐっ、ぶちゅっ、ぢゅぷぶうぅっ！！　ん゛っ、[r]
-　んお゛ぉっ！！　ごぼっ、んぐぉおっ……！！」[pcms]
+[ns]Girl[nse]
+"Juggh, splutch, jupbuuugh!! Nghh, nghoooh!! Gobboh,[r]
+nghoooh...!!"[pcms]
 
 *12182|
 [fc]
-けど、涙も呻き声も苦痛のせいじゃなく、快感に酔い[r]
-しれる彼女の悦びからきているらしかった。[pcms]
+But her tears and moans didn't seem to stem from pain; they[r]
+appeared to be coming from the pleasure she was drowning in.[pcms]
 
 *12183|
 [fc]
-その証拠に、髪を掴まれて頭を固定され、口にムリヤ[r]
-リナニをねじ込まれても、彼女は苦しそうに顔を歪め[r]
-ることなく、逆に嬉しそうに目を細めている。[pcms]
+As evidence of that, even when her hair was grabbed and her[r]
+head was held in place, and something was forcibly shoved[r]
+into her mouth, she didn't twist her face in agony; instead,[r]
+she narrowed her eyes happily.[pcms]
 
 *12184|
 [fc]
 [vo_mob s="girl0060"]
-[ns]少女[nse]
-「ぐぢゅっ！！　ぢゅっ、ぢゅぶっ、ん゛ぢゅぅっ！！[r]
-　ぢゅぼっ！！　ん゛ぐぅっ、んぶう゛ぅっ！！」[pcms]
+[ns]Girl[nse]
+"Gudjuhh!! Drip, dribble, nghh juuh!! Jubboh!! Nghh guuh,[r]
+nubuuh!!"[pcms]
 
 *12185|
 [fc]
-[ns]真っ裸の中年[nse]
-「お゛ぉぁあ゛～～……！　したぁ、い゛やら゛しい[r]
-　よぉ～～、い゛ぃい゛～～～……っ！！」[pcms]
+[ns]Stark-naked middle-aged man[nse]
+"Oooh~~...! That's it, you dirty girl~~, that's so[r]
+good~~~...!!"[pcms]
 
 *12186|
 [fc]
-[ns]ポロシャツの青年[nse]
-「お゛ら゛あぁ～～……も゛っとしめ゛ろってい゛っ[r]
-　てんた゛ろお゛ぉ～～……！？　しめ゛ろ゛よ、ま[r]
-　ん゛こお゛ぉ～～～……っ！！」[pcms]
+[ns]Young man in a polo shirt[nse]
+"Oraah~~... tighten it more like I told you~~...! Tighten[r]
+it, you pussy~~~...!!"[pcms]
 
 *12187|
 [fc]
-直接、女の子を犯している２人以外の男連中は、自分[r]
-の手や、彼女の手をムリヤリ使って、オナニーをして[r]
-いた。[pcms]
+Apart from the two men directly violating the girl, the[r]
+other men were masturbating with their own hands or forcibly[r]
+using hers.[pcms]
 
 *12188|
 [fc]
-多分、ソイツらのものだろう精液が、彼女の体や周り[r]
-の床に、大量に撒き散らされている。[pcms]
+Probably belonging to those men, a large amount of semen was[r]
+scattered all over her body and the surrounding floor.[pcms]
 
 *12189|
 [fc]
-精液や汗が混じった、言いようの無い臭いがココまで[r]
-漂ってきて、俺は胸が悪くなった。[pcms]
+The indescribable smell of semen mixed with sweat wafted[r]
+over here, making me feel sick to my stomach.[pcms]
 
 [evcg storage="HEV104b"][trans_c cross time=301]
 
 *12190|
 [fc]
 [vo_mob s="girl0061"]
-[ns]少女[nse]
-「ぢゅぐっ、ぢゅっ、ん゛ぶぢゅぅっ……！！　ん゛[r]
-　ぶっ、ぐぶっ、ぐもぉっ……！！！」[pcms]
+[ns]Girl[nse]
+"Juggh, drip, nghh bujuuh...!! Nghh buh, gubuh,[r]
+gumooh...!!!"[pcms]
 
 *12191|
 [fc]
-[ns]真っ裸の中年[nse]
-「た゛すよ゛ぉ～～……っ！！　な゛かに゛ぃ、た゛[r]
-　すよ゛ぉお゛ぉ～～～……っ！！　くちま゛ん゛こ[r]
-　にぃい゛～～～……っ！！！」[pcms]
+[ns]Stark-naked middle-aged man[nse]
+"I'm cumming~~~...!! Inside you, I'm cumming~~~...!! Your[r]
+mouth pussy is so good~~~...!!!"[pcms]
 
 *12192|
 [fc]
 [vo_mob s="girl0062"]
-[ns]少女[nse]
-「ん゛ん゛ぐふぅおぉっ……！！！　ん゛ぐぉっ、ぐ[r]
-　ぶぅっ、ぶぢゅるぅっ……！！！！」[pcms]
+[ns]Girl[nse]
+"Nghh nghufoooh...!!! Nghh goh, gubuhh, budjuruhh...!!!!!"[pcms]
 
 *12193|
 [fc]
-[ns]ポロシャツの青年[nse]
-「しめ゛ろぉお゛～～～……っ！！　い゛くから゛ぁ、[r]
-　ま゛ん゛こしめ゛ろおぉお゛～～～……っ！！！」[pcms]
+[ns]Young man in a polo shirt[nse]
+"Tighten it~~~...!! I'm gonna cum, so tighten that[r]
+pussy~~~...!!!"[pcms]
 
 *12194|
 [fc]
-[ns]真っ裸の中年[nse]
-「た゛すよ゛ぉ～～……！　ほら゛ぁ～ほら゛ぁた゛[r]
-　すよ゛お゛～～……っ！！　せ゛んふ゛のむんた゛[r]
-　よぉお゛～～ふぅう゛あ゛ぁ～～～……っ！！！」[pcms]
+[ns]Stark-naked middle-aged man[nse]
+"I'm cumming~~~...! Look~~ I'm cumming~~...!! All of my seed[r]
+is for you~~ fuuuvah~~~...!!!"[pcms]
 
 *12195|
 [fc]
-男は自分の下腹が彼女の鼻にくっつくぐらい、ナニを[r]
-口の奥深くに押し込んで、全身をギュッと緊張させた。[pcms]
+The man tensed his entire body as he pushed his thing deep[r]
+into her mouth until his lower abdomen stuck to her nose.[pcms]
 
 ;//★ホワイトフラッシュ
 [白フラ]
@@ -189,21 +185,22 @@
 *12196|
 [fc]
 [vo_mob s="girl0063"]
-[ns]少女[nse]
-「ん゛ん゛ぅっ……！！　ん゛～～～……っ！！」[pcms]
+[ns]Girl[nse]
+"Nghh nghuuh...!! Nghh~~~...!!"[pcms]
 
 ;//★ホワイトフラッシュ
 [白フラ]
 
 *12197|
 [fc]
-[ns]真っ裸の中年[nse]
-「お゛っ……っあ゛……お゛ぁあ゛っ……！！」[pcms]
+[ns]Stark-naked middle-aged man[nse]
+"Ohh... ahh... oohahh...!!"[pcms]
 
 *12198|
 [fc]
-ウマイものでも飲むように、彼女はウットリと目を細[r]
-めて、鼻を鳴らしながら喉を上下させる。[pcms]
+As if savoring a delicious drink, she blissfully narrowed[r]
+her eyes and swallowed up and down while snorting through[r]
+her nose.[pcms]
 
 ;//★ホワイトフラッシュ
 [白フラ]
@@ -211,20 +208,20 @@
 *12199|
 [fc]
 [vo_mob s="girl0064"]
-[ns]少女[nse]
-「ん゛っ、ぐ……ん゛ふ……ごく……ん゛んぐ……ふ、[r]
-　むぐ……ぐく……ちゅっ、ちゅうぅっ……」[pcms]
+[ns]Girl[nse]
+"Nghh, guh... nghh fu... gulp... nghh nghu... fu, mugu...[r]
+guk... chuuh, chuuuh..."[pcms]
 
 *12200|
 [fc]
-[ns]真っ裸の中年[nse]
-「もっとすってぇえ～～……そうだよぉ、ぜんぶすってえぇ～～……っ！」[pcms]
+[ns]Stark-naked middle-aged man[nse]
+"Suck it more~~~... Yes, suck it all up~~~...!"[pcms]
 
 *12201|
 [fc]
-ほっぺたをヘコませて、ナニの中に残った精液をあら[r]
-かた吸いあげると、彼女は男に顔を向けて、ニタァと[r]
-笑ってみせた。[pcms]
+She sucked up almost all of the semen left inside with her[r]
+cheeks hollowed out and then turned her face towards the man[r]
+with a smirking smile.[pcms]
 
 
 
@@ -238,472 +235,438 @@
 *12202|
 [fc]
 [vo_mob s="girl0065"]
-[ns]少女[nse]
-「げぷっ……も゛う、のめ゛なぁい゛……お゛な゛か[r]
-　いっは゜いた゛よぉ～～……」[pcms]
+[ns]Girl[nse]
+"Burp... can't drink anymore... my stomach is full~~~..."[pcms]
 
 *12203|
 [fc]
-[ns]ポロシャツの青年[nse]
-「お゛ぉお゛～～い゛くう゛ぅ～～……っ！！[r]
-　な゛かて゛いくそ゛おぉ～～……っ！！！[r]
-　お゛うぁあ゛～～～……っ！！！！」[pcms]
+[ns]Young man in a polo shirt[nse]
+"Oooh~~ I'm cumming~~~...!! Inside you I go~~~...!!![r]
+Ooohah~~~...!!!!!"[pcms]
 
 *12204|
 [fc]
-真っ裸のオッサンに続いて、後ろからアソコを犯し続[r]
-けていた男が、一際強く、彼女の尻に腹を打ち付けて[r]
-呻いた。[pcms]
+Following the stark-naked old man, the man who had been[r]
+continuously violating her from behind let out an especially[r]
+strong groan as he thrust his belly against her ass.[pcms]
 
 *12205|
 [fc]
-[ns]ポロシャツの青年[nse]
-「ん゛ふぉぁあ～～～……っ！！」[pcms]
+[ns]Young man in a polo shirt[nse]
+"Nfhoah~~~...!!"[pcms]
 
 *12206|
 [fc]
 [vo_mob s="girl0066"]
-[ns]少女[nse]
-「ひあ゛ぁっ……！！　あ゛ぁっ、あ゛ぁあ゛ぅあ゛[r]
-　あ～～～………！！！！」[pcms]
+[ns]Girl[nse]
+"Hiaahh...!! Ahh, ahhah uhh ahh~~~...!!!!!"[pcms]
 
 *12207|
 [fc]
-彼女は何回も体を小さく震わせて、床についた両膝の[r]
-間に水溜まりを作った。[pcms]
+Trembling slightly multiple times, she created a puddle[r]
+between her knees that touched the floor.[pcms]
 
 *12208|
 [fc]
-[ns]ハーフパンツの青年[nse]
-「しょんへ゛んも゛ら゛しなか゛ら、い゛きま゛くっ[r]
-　てるせ゛ぇえ゛～～……！　この゛すけへ゛ま゛ん[r]
-　こぉお゛ぉ～～～……！！」[pcms]
+[ns]Young man in shorts[nse]
+"While pissing herself, she's climaxing like crazy~~...![r]
+This skanky pussy~~~...!!"[pcms]
 
 *12209|
 [fc]
-周りに立っている男の何人かが、なじりながら、彼女[r]
-の体を小突くように蹴り飛ばし、踏みつける。[pcms]
+Some of the men standing around kicked and stomped on her[r]
+body as if poking fun at her while jeering.[pcms]
 
 *12210|
 [fc]
-[ns]ノースリーブの中年[nse]
-「しつけか゛な゛ってな゛い゛なあ゛ぁ～～……この[r]
-　め゛すいぬ゛はぁあ゛～～～……！」[pcms]
+[ns]Sleeveless Middle-aged[nse]
+"She's not trained at all~~... this bitch dog~~~...!"[pcms]
 
 *12211|
 [fc]
-[ns]ハーフパンツの青年[nse]
-「た゛らしね゛ぇまん゛こた゛な゛あぁ～～……！[r]
-　つき゛はぁ、うん゛こぉも゛ら゛すんし゛ゃね゛ぇ[r]
-　の゛かぁあ゛～～～……！？」[pcms]
+[ns]Young man in shorts[nse]
+"Such a sloppy pussy~~...! Next time, are you gonna shit for[r]
+us too~~~...!?"[pcms]
 
 *12212|
 [fc]
-彼女はそれを嫌がるどころか、自分を足蹴にする男に[r]
-嬉しそうな笑顔を見せて、鼻にかかった甘えた声を出[r]
-した。[pcms]
+Rather than disliking it, she showed a happy smile to the[r]
+men kicking her and let out a nasal whine.[pcms]
 
 *12213|
 [fc]
 [vo_mob s="girl0067"]
-[ns]少女[nse]
-「こ゛め、な゛さい゛ぃ～～……あ゛たしの゛ま゛ん[r]
-　こぉ……きも゛ちくなる゛と、お゛も゛らししちゃ[r]
-　う゛の゛ぉお～～……！！」[pcms]
+[ns]Girl[nse]
+"Sorryyy~~~... when my pussy feels good, I can't help but[r]
+act slutty~~~...!!"[pcms]
 
 *12214|
 [fc]
-[ns]ポロシャツの青年[nse]
-「う゛へぁあ゛～～……しょんへ゛んもら゛しちま゛[r]
-　うほと゛、な゛かた゛しされ゛んのか゛きな゛の゛[r]
-　かあ゛ぁ～～……？」[pcms]
+[ns]Young man in a polo shirt[nse]
+"Uvah~~~... you're getting fucked so hard you piss yourself,[r]
+is that what turns you on~~~...?"[pcms]
 
 *12215|
 [fc]
 [vo_mob s="girl0068"]
-[ns]少女[nse]
-「た゛いすきい゛ぃ～～……ま゛ん゛この゛なかて゛[r]
-　えぇ～～……ちん゛ちんか゛、ひ゛くひ゛くする゛[r]
-　のか゛いい゛の゛ぉ～～……！」[pcms]
+[ns]Girl[nse]
+"I love it so much~~~... inside my pussy feels so good~~~...[r]
+when your dick twitches inside me it's the best~~~...!"[pcms]
 
 *12216|
 [fc]
-[ns]ポロシャツの青年[nse]
-「んし゛ゃあ゛、た゛してや゛る゛よお゛～～……！[r]
-　ま゛ん゛ここわれ゛るまて゛ぇ、な゛かた゛しして[r]
-　やる゛よぉお゛～～～……！！」[pcms]
+[ns]Young man in a polo shirt[nse]
+"Then I'll give it to you~~~...! I'll fuck you until your[r]
+pussy breaks apart inside~~~...!!"[pcms]
 
 *12217|
 [fc]
-そのままナニを抜かずに、ポロシャツの男はまた、自[r]
-分の腹を彼女の尻に激しく打ちつけ始めた。[pcms]
+Without pulling out, the young man in the polo shirt began[r]
+to slam his belly against her ass again.[pcms]
 
 *12218|
 [fc]
 [vo_mob s="girl0069"]
-[ns]少女[nse]
-「きゃふぁあ゛っ……！！　ひぁっ、う゛あ゛っ、く[r]
-　ふぁあ゛っ……！！」[pcms]
+[ns]Girl[nse]
+"Kyafahh...!! Hiahh, uvahh, kufaahh...!!"[pcms]
 
 *12219|
 [fc]
-[ns]ポロシャツの青年[nse]
-「あ゛あ～～はぁあ゛ぁ～～……！！　このま゛ん゛[r]
-　こぉ～～……お゛れのちん゛ほ゜に、すけ゛ぇしっ[r]
-　くりくるせ゛ぇ～～……！！」[pcms]
+[ns]Young man in a polo shirt[nse]
+"Aaah~~ haaahah~~~...!! This pussy~~~ fits my dick so[r]
+perfectly it's driving me crazy~~~...!!"[pcms]
 
 *12220|
 [fc]
 [vo_mob s="girl0070"]
-[ns]少女[nse]
-「あ゛ぁああ゛～～……っ！！　い゛まぁ、た゛め゛[r]
-　えぇ～～……！！　いま゛ぁ、うこ゛かしたら゛ぁ[r]
-　……ま゛たも゛れ゛ちゃう゛よお゛ぉ～～……！！」[pcms]
+[ns]Girl[nse]
+"Aaahaaah~~~...!! Right now, don't moveee~~~...!! If you[r]
+move now I'll cum againnn~~~...!!"[pcms]
 
 *12221|
 [fc]
-[ns]ポロシャツの青年[nse]
-「おれ゛も゛ぉ、ま゛んこの゛な゛かにも゛ら゛して[r]
-　やる゛よぉお゛ぉあ゛～～～……っ！！」[pcms]
+[ns]Young man in a polo shirt[nse]
+"I'm gonna cum inside your pussy tooooahhh~~~...!!"[pcms]
 
 *12222|
 [fc]
-角度を変えて抉り、ねじ込んだまま、膣内を掻き回す[r]
-ように動いたりしながら、男は彼女のアソコを責め立[r]
-てる。[pcms]
+Twisting and turning at different angles without pulling[r]
+out, he continued to ravage her pussy as if stirring it from[r]
+within.[pcms]
 
 *12223|
 [fc]
 [vo_mob s="girl0071"]
-[ns]少女[nse]
-「かふっ、くぁはっ……！！　も゛っとお゛～～……[r]
-　も゛っとちん゛ちんて゛ぇ……ま゛んこの゛なかぁ[r]
-　こ゛りこ゛りしてぇえ゛ぇ～～～……っ！！」[pcms]
+[ns]Girl[nse]
+"Kafuhh, quahahh...!! Moreee~~~... grind your dick more[r]
+inside my pussy pleaseeeehhh~~~...!!"[pcms]
 
 *12224|
 [fc]
-[ns]ポロシャツの青年[nse]
-「ここかぁ～～……？　ま゛ん゛この゛きも゛ちいぃ[r]
-　とこはぁあ゛～～……」[pcms]
+[ns]Young man in a polo shirt[nse]
+"Right hereee~~~...? Is this where your pussy feels[r]
+gooddd~~~..."[pcms]
 
 *12225|
 [fc]
 [vo_mob s="girl0072"]
-[ns]少女[nse]
-「ん゛ひぁっ……！！　ぁくっ、ふぁあ゛っ……！！[r]
-　お゛くも゛ぉ～～……も゛っとお゛くの゛とこぉ、[r]
-　ちん゛ちんて゛してえぇ～～……はくぅっ……！！」[pcms]
+[ns]Girl[nse]
+"Nhhiahh...!! Ackk, fuaahh...!! Deeper pleaseee~~~ push your[r]
+dick deeper inside meeeehhh~~~, hakuuhh...!!"[pcms]
 
 *12226|
 [fc]
-[ns]真っ裸の中年[nse]
-「よ゛ぉしぃ～～……くちま゛ん゛このお゛くも゛、[r]
-　こすってあけ゛よ゛ぅ～～……！！」[pcms]
+[ns]Stark-naked middle-aged man[nse]
+"Alright~~~... I'll rub and open up this pussy too~~~...!!"[pcms]
 
 *12227|
 [fc]
-男はいやらしい笑みを浮かべながら、また髪を掴んで[r]
-顔を持ち上げて、開いた口の中に、彼女の唾液で濡れ[r]
-たナニを、根元まで一気に挿し込んだ。[pcms]
+The man, with a lecherous smile, grabbed her hair again,[r]
+lifted her face, and thrust his saliva-wet dick into her[r]
+open mouth all the way to the base.[pcms]
 
 *12228|
 [fc]
 [vo_mob s="girl0073"]
-[ns]少女[nse]
-「ん゛ぶぉぉぉお゛おお゛っ……！！！！　ん゛ぼっ、[r]
-　ぐちゅ、ぶちゅうぅっ……！！」[pcms]
+[ns]Girl[nse]
+"Nbuooohhh...!!!! Nboh, guchu, buchuuuh...!!"[pcms]
 
 *12229|
 [fc]
-[ns]真っ裸の中年[nse]
-「け゛へぁあ゛～～～……のと゛か゛しめ゛つけてく[r]
-　る゛そ゛ぉ～～……ほん゛とに゛、くちも゛まん゛[r]
-　こた゛なぁあ゛ぁ～～～……！」[pcms]
+[ns]Stark-naked middle-aged man[nse]
+"Gehaah~~~... It tightens around me so~~~... It's really[r]
+just like a pussy~~~...!"[pcms]
 
 *12230|
 [fc]
 [vo_mob s="girl0074"]
-[ns]少女[nse]
-「ごぼっ、ぐぶぅっ……！！　んぶぢゅっ、ぶぢゅ、[r]
-　ぢゅぐぅっ……！！」[pcms]
+[ns]Girl[nse]
+"Goboh, gubuuh...!! Nbudjuh, budju, djuguhh...!!"[pcms]
 
 *12231|
 [fc]
-乱暴に口の中を犯され、苦しげな音や涙、鼻水を漏ら[r]
-す彼女は、それでも少しの抵抗もしないで、されるが[r]
-ままになっている。[pcms]
+Being violated roughly in her mouth, the girl let out pained[r]
+noises and tears, her nose running, yet she didn't resist at[r]
+all and let it happen.[pcms]
 
 *12232|
 [fc]
-[ns]大倉[nse]
-「……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"..."[pcms]
 
 *12233|
 [fc]
-これが……。[r]
-こんな風にひとをおかしくさせてるのが、全部、病気[r]
-のせいだってのか……？[pcms]
+This is... Could it all be because of the disease that makes[r]
+people go crazy like this...?[pcms]
 
 *12234|
 [fc]
-もしかしたら自分はもう、どっかであの病気にかかる[r]
-ウイルスに感染してて、すぐにでも、あんな風になっ[r]
-ちまうんじゃないか。[pcms]
+Could it be that I've already been infected by the virus[r]
+that causes that disease somewhere, and that I could become[r]
+like that at any moment?[pcms]
 
 *12235|
 [fc]
-そう思えてきて俺は怖くなって、夢ならとっとと醒め[r]
-てくれと、考えずにはいられなかった。[pcms]
+The thought scared me, and I couldn't help but wish that if[r]
+this was a dream, I would wake up from it soon.[pcms]
 
 *12236|
 [fc]
-[ns]真っ裸の中年[nse]
-「い゛いよお゛ぉ～～、この゛くちま゛ん゛こぉ、ち[r]
-　んほ゜にくる゛ぅう゛～～……！！　ま゛たたくさ[r]
-　んて゛そうた゛よ゛ぉお゛ぅ～～……！！」[pcms]
+[ns]Stark-naked middle-aged man[nse]
+"It's good~~~, this mouth pussy is tightening around my[r]
+cock~~~...!! I'll fuck you a lot more like this~~~...!!"[pcms]
 
 *12237|
 [fc]
 [vo_mob s="girl0075"]
-[ns]少女[nse]
-「ん゛ん゛ぅ～～……っ！！　ん゛っぐ、ぐぶぅっ、[r]
-　ぢゅぐっ……！！　ぢゅぷるっ、ぶちゅぅっ……！！[r]
-　ぶぼぉっ……！！」[pcms]
+[ns]Girl[nse]
+"Nnhuu~~~...!! Nnguh, gubuuh, djuguhh...!! Djupruh,[r]
+buchuuuh...!! Bubohh...!!"[pcms]
 
 *12238|
 [fc]
-[ns]ポロシャツの青年[nse]
-「お゛ぉあ゛～～……きつくな゛ったそ゛、ま゛んこ[r]
-　か゛ぁあ゛～～……！　い゛ぃ～～この゛まん゛こ[r]
-　い゛ぃい゛～～～……！！」[pcms]
+[ns]Young man in a polo shirt[nse]
+"Ooah~~... It's gotten tighter, this pussy~~~...! It's so[r]
+good~~~ this pussy is so good~~~...!!"[pcms]
 
 *12239|
 [fc]
-男の腰の動きが速くなり、ナニがアソコを抉る粘った[r]
-音と、濡れた体がぶつかる音が、俺らのところまで聞[r]
-こえ始める。[pcms]
+The man's hip movements sped up, and the sounds of his dick[r]
+stirring inside her and their wet bodies colliding began to[r]
+reach us.[pcms]
 
 *12240|
 [fc]
-[ns]真っ裸の中年[nse]
-「あ゛ぁ～～……っ！！　ま゛たた゛してあけ゛るか[r]
-　ら、い゛いよ゛ね゛ぇ～～……！？　い゛ってい゛[r]
-　いよ゛ね゛ぇえ～～……！？」[pcms]
+[ns]Stark-naked middle-aged man[nse]
+"Aah~~~...!! I'll fuck you again so it's good, right~~~...!?[r]
+You like it when I fuck you, don't you~~~...!?"[pcms]
 
 *12241|
 [fc]
 [vo_mob s="girl0076"]
-[ns]少女[nse]
-「ん゛ぐぅっ……！！　ん゛ぅっ、ぐちゅっ……！！[r]
-　ん゛ぶぅっ、ん゛ぼっ、ぢゅぐぅっ……！！」[pcms]
+[ns]Girl[nse]
+"Nguuhh...!! Nguh, guchuhh...!! Nbuuhh, nboh, djuguhh...!!"[pcms]
 
 *12242|
 [fc]
-ポロシャツの男に対抗するように、真っ裸の男の、彼[r]
-女の口を犯す腰の動きも、速く、激しくなり始めた。[pcms]
+As if competing with the young man in the polo shirt, the[r]
+stark-naked man's movements as he violated her mouth became[r]
+faster and more intense.[pcms]
 
 *12243|
 [fc]
-前と後ろから責め立てられて、彼女の体は２人の男の[r]
-間で激しく揺れ続けた。[pcms]
+Being assaulted from both front and back, her body continued[r]
+to shake violently between the two men.[pcms]
 
 *12244|
 [fc]
-[ns]ポロシャツの青年[nse]
-「ぅあ゛ぁあ゛あ～～しま゛ってる゛しま゛ってる゛[r]
-　うぅ～～……っ！！　ま゛ん゛こ、きも゛ちい゛ぃ[r]
-　の゛かあ゛ぁ～～……！？」[pcms]
+[ns]Young man in a polo shirt[nse]
+"Uuaaahaaah~~~ it's clenching, it's clenching uuh~~~...!![r]
+This pussy feels so good, doesn't it~~~...!?"[pcms]
 
 *12245|
 [fc]
 [vo_mob s="girl0077"]
-[ns]少女[nse]
-「ん゛ぶぅっ、ぐぶっ、ぢゅぼぉおっ……！！　ん゛[r]
-　ぼっ、ぐぷっ、ぶぢゅぅっ……！！」[pcms]
+[ns]Girl[nse]
+"Nbuuhh, gubuhh, djubooohh...!! Nboh, gupuhh, budjuuhh...!!"[pcms]
 
 *12246|
 [fc]
-[ns]真っ裸の中年[nse]
-「ふはぁっ、はぁあ゛～～……っ！！　た゛すよ゛、[r]
-　お゛くに゛ぃ……くちま゛ん゛この゛おくに゛た゛[r]
-　すよ゛ぉお゛～～……っ！！」[pcms]
+[ns]Stark-naked middle-aged man[nse]
+"Fuhahh, haaah~~~...!! That's right, deep inside~~~ I'm[r]
+fucking deep inside your mouth pussy~~~...!!"[pcms]
 
 *12247|
 [fc]
-口を犯している男は、両手で掴んで動かなくした彼女[r]
-の頭の上に、前のめりに覆い被さって、夢中になって[r]
-ナニを出し入れした。[pcms]
+The man violating her mouth leaned forward over her head[r]
+which he held still with both hands, and frantically pumped[r]
+in and out.[pcms]
 
 *12248|
 [fc]
-[ns]真っ裸の中年[nse]
-「ほら゛い゛くよお゛ぉ～～……？　くちま゛んこに、[r]
-　な゛かた゛しする゛よぉお゛おぉ～～……！！！！」[pcms]
+[ns]Stark-naked middle-aged man[nse]
+"Look out, I'm gonna cum~~~...? I'm gonna shoot inside your[r]
+mouth pussy~~~...!!!!!"[pcms]
 
 *12249|
 [fc]
 [vo_mob s="girl0078"]
-[ns]少女[nse]
-「お゛ぶっ、ぐぶっ、ぶぢゅっ……！！　ぢゅっ、[r]
-　ぐぢゅぅっ……！！　ん゛ぶぉっ、ん゛ぐぶっ、[r]
-　ぢゅぼおぉ……っ！！」[pcms]
+[ns]Girl[nse]
+"Obuhh, gubuhh, budjuhh...!! Djuhh, gdjuuhh...!! Nbuohh,[r]
+ngubuhh, djuboohh...!!"[pcms]
 
 *12250|
 [fc]
-真っ裸の男は腰の動きを止め、彼女の頭を抱え込んで、[r]
-たるんだケツの肉を痙攣させた。[pcms]
+The stark-naked man stopped his hip movements and clutched[r]
+her head while his saggy butt muscles spasmed.[pcms]
 
 *12251|
 [fc]
-[ns]真っ裸の中年[nse]
-「お゛ぉはあ゛ぁ～～～……っ！！」[pcms]
+[ns]Stark-naked middle-aged man[nse]
+"Ooohahaaah~~~...!!"[pcms]
 
 *12252|
 [fc]
 [vo_mob s="girl0079"]
-[ns]少女[nse]
-「ん゛ぐふうう゛ぅぅぅう゛……っ！！！！」[pcms]
+[ns]Girl[nse]
+"Nguhuuuuuhhhhh...!!!!!"[pcms]
 
 *12253|
 [fc]
-彼女の頭を固定したまま、男はナニで口の中を掻き回[r]
-すように、腰で何回も円を描く。[pcms]
+Keeping her head still, the man drew circles with his hips[r]
+as if stirring inside her mouth with his dick.[pcms]
 
 *12254|
 [fc]
-[ns]真っ裸の中年[nse]
-「ふはぁあ゛ぁぁ～～～……」[pcms]
+[ns]Stark-naked middle-aged man[nse]
+"Fuhahaaaah~~~..."[pcms]
 
 *12255|
 [fc]
 [vo_mob s="girl0080"]
-[ns]少女[nse]
-「ん゛う゛ぅ～～……ぐぅ、ん゛ぶ……」[pcms]
+[ns]Girl[nse]
+"Nguuuh~~~... guh, nbu..."[pcms]
 
 *12256|
 [fc]
-少ししてから大きく息を吐き、真っ裸の男は彼女の口[r]
-からナニを引き抜いた。[pcms]
+After a moment, he took a deep breath and pulled his dick[r]
+out of her mouth.[pcms]
 
 *12257|
 [fc]
-[ns]真っ裸の中年[nse]
-「はふう゛ぅ～～……」[pcms]
+[ns]Stark-naked middle-aged man[nse]
+"Hafuuu~~~..."[pcms]
 
 *12258|
 [fc]
 [vo_mob s="girl0081"]
-[ns]少女[nse]
-「ぁあ゛～ぇあ゛ぁ～～……ぉあ゛、あ゛っ、……！[r]
-　う゛あぁっ……！」[pcms]
+[ns]Girl[nse]
+"Aaah~~eaaah~~... ohh, ah..., uvaahh...!"[pcms]
 
 *12259|
 [fc]
-体をヒクつかせ、喘ぐ彼女の口から、咥えさせていた[r]
-男が出した大量の精液が、塊となってこぼれ落ちる。[pcms]
+Twitching her body and gasping for air, a large amount of[r]
+semen that the man had released into her mouth spilled out[r]
+in clumps.[pcms]
 
 *12260|
 [fc]
-さらに、ポロシャツの男の動きに併せて、口内に残っ[r]
-ていた精液が垂れ落ちていく。[pcms]
+Furthermore, the semen remaining in her mouth dripped down[r]
+in sync with the movements of the young man in the polo[r]
+shirt.[pcms]
 
 *12261|
 [fc]
 [vo_mob s="girl0082"]
-[ns]少女[nse]
-「はっ、くはっ……！　ん゛ぁ、ん゛ふぁあっ……！！[r]
-　はぁう゛ぅ～～……！」[pcms]
+[ns]Girl[nse]
+"Hah, kuhah...! Nnah, nfaaahhh...!! Hauuuh~~~...!"[pcms]
 
 *12262|
 [fc]
-[ns]ポロシャツの青年[nse]
-「ま゛たゆ゛る゛くな゛ったぁあ゛～～……っ！！　[r]
-　も゛っとしめ゛ろ゛よお゛ぉ～～……っ！！」[pcms]
+[ns]Young man in a polo shirt[nse]
+"It's gotten looser again~~~...!! Tighten up more for[r]
+me~~~...!!"[pcms]
 
 *12263|
 [fc]
-ポロシャツの男は腰を掴んでいた手を離し、振り上げ[r]
-て、彼女の白い尻に叩きつける。[pcms]
+The young man in the polo shirt let go of her hips and[r]
+raised his hand to slap it down on her white ass.[pcms]
 
 *12264|
 [fc]
-彼女は叩かれる度に、体を小さく震わせ、言葉だけの[r]
-抵抗を繰り返した。[pcms]
+With each slap she received, she trembled slightly and kept[r]
+repeating words of resistance.[pcms]
 
 *12265|
 [fc]
 [vo_mob s="girl0083"]
-[ns]少女[nse]
-「はく゛ぅっ……！！　たたい゛ちゃた゛め゛ぇえ゛[r]
-　……ん゛ひっ、ひあ゛ぁう゛っ……！！　ま゛んこ[r]
-　に゛ひひ゛く、から゛あ゛ぁ～～……っ！！」[pcms]
+[ns]Girl[nse]
+"Haguuhh...!! Don't hit meeeehhh... nhiihh, hiaaauhhhh...!![r]
+My pussy is twitching from it aaaaahhh~~~...!!"[pcms]
 
 *12266|
 [fc]
-[ns]ポロシャツの青年[nse]
-「う゛ぇへはぁあ゛～～……けつたたかれ゛て、きつ[r]
-　くな゛りや゛か゛ったせ゛え゛ぇ～～……！！　[r]
-　へん゛たい゛ま゛んこか゛あぁ～～……っ！！」[pcms]
+[ns]Young man in a polo shirt[nse]
+"Uvehahaahaaah~~~... Getting spanked on the ass made you[r]
+tighten up nicely~~~...!! You perverted pussy ahhh~~~...!!"[pcms]
 
 *12267|
 [fc]
 [vo_mob s="girl0084"]
-[ns]少女[nse]
-「きひっ……！！　ん゛い゛ぃっ、ぁくぅっ……！！[r]
-　く、はぁあ゛～～……ま゛ん゛このおくに゛ひひ゛[r]
-　くう゛ぅう゛～～～……！！」[pcms]
+[ns]Girl[nse]
+"Kihh...!! Niihh, akuhh...!! Kuh, haaahaaah~~~... My pussy[r]
+is twitching deep inside uuuuuhhh~~~...!!"[pcms]
 
 *12268|
 [fc]
-目がどこを見ているのかわからなくなり、精液混じり[r]
-のヨダレを垂れ流しながら、彼女は間延びした悦びの[r]
-声をあげる。[pcms]
+Her eyes unfocused and drooling semen-mixed saliva, she let[r]
+out elongated cries of pleasure.[pcms]
 
 *12269|
 [fc]
 [vo_mob s="girl0085"]
-[ns]少女[nse]
-「ん゛ああ゛ぁぁ～～～……い゛くぅ～～……ま゛た[r]
-　い゛くう゛ぅ～～……い゛っちゃ……い゛くぃ～～[r]
-　あ゛ぁあ゛～～～……っ！！！！」[pcms]
+[ns]Girl[nse]
+"Nnaaahaaah~~~... I'm cumming~~~... I'm gonna cum again[r]
+uuuuuhhh~~~... I'm cumming aaaaahhh~~~...!!!!"[pcms]
 
 *12270|
 [fc]
-[ns]ポロシャツの青年[nse]
-「な゛かた゛して゛ぇ、またま゛ん゛こ、い゛かせて[r]
-　やるせ゛えぇ～～……っ！！　はぁっはひひはふぁ[r]
-　はぁあ゛～～～……っ！！！！」[pcms]
+[ns]Young man in a polo shirt[nse]
+"I'm gonna make you cum again inside your pussy, make you[r]
+cum again for meeeehhh~~~...!! Hahhhahaha[r]
+haaahaaah~~~...!!!!!"[pcms]
 
 *12271|
 [fc]
 [vo_mob s="girl0086"]
-[ns]少女[nse]
-「た゛め゛ぇえ～～……っ！！　ま゛たぁ、またて゛[r]
-　ちゃう゛ぅ～～あ゛ぁはあ゛～～～……っ！！」[pcms]
+[ns]Girl[nse]
+"No moreeeehhh~~~...!! I'm gonna cum again[r]
+uuuuhaaahaaah~~~...!!!!"[pcms]
 
 *12272|
 [fc]
-[ns]ポロシャツの青年[nse]
-「くはあ゛あぁぁあ゛～～～……っ！！」[pcms]
+[ns]Young man in a polo shirt[nse]
+"Kuhaaaaahaaaahaaah~~~...!!"[pcms]
 
 *12273|
 [fc]
 [vo_mob s="girl0087"]
-[ns]少女[nse]
-「きひぃあ゛ぁああ゛はぅう゛～～～……っ！！！！」[pcms]
+[ns]Girl[nse]
+"Kihiihaaahaauuuhhh~~~...!!!!!"[pcms]
 
 *12274|
 [fc]
-男は上半身を反らせて天井を仰いで、下腹を彼女の尻[r]
-に密着させた状態で動きを止めた。[pcms]
+The man arched his upper body back looking at the ceiling[r]
+and stopped moving with his lower abdomen pressed against[r]
+her ass.[pcms]
 
 ;//★ホワイトフラッシュ
 [白フラ]
 
 *12275|
 [fc]
-[ns]ポロシャツの青年[nse]
-「あ゛ぁ～～～～～～～……」[pcms]
+[ns]Young man in a polo shirt[nse]
+"Aaaaah~~~~~~~~~~~~..."[pcms]
 
 ;//★ホワイトフラッシュ
 [白フラ]
@@ -711,39 +674,37 @@
 *12276|
 [fc]
 [vo_mob s="girl0088"]
-[ns]少女[nse]
-「う゛ぁあ゛ぁ～～……ま゛たぁ……ま゛たおも゛ら[r]
-　ししちゃったぁあ゛～～……」[pcms]
+[ns]Girl[nse]
+"Uvahaahaa~~... Again... I've gone and cum again aahaa~~..."[pcms]
 
 *12277|
 [fc]
-膣内で射精されたらしい彼女の目はトロンとなって、[r]
-アソコから漏れ出てくる液体で、さっき体の下に作っ[r]
-た水溜まりを大きくした。[pcms]
+Her eyes glazed over as if she had been ejaculated inside,[r]
+and the liquid leaking from her pussy enlarged the puddle[r]
+she had made under her body earlier.[pcms]
 
 *12278|
 [fc]
-[ns]ポロシャツの青年[nse]
-「ふへぁ～～……ふひっ、ひひ……また゛た゛ぁ～～[r]
-　……おれか゛あ゛きるまて゛、な゛かた゛しはやめ[r]
-　な゛いせ゛えぇ～～……！！」[pcms]
+[ns]Young man in a polo shirt[nse]
+"Fuehaa~~... Fuhhi, hihi... I'm not gonna stop pounding you[r]
+until I'm spent eeeeh~~...!!"[pcms]
 
 *12279|
 [fc]
-ひとしきり余韻を楽しんだらしい男は、天井に向けて[r]
-いた顔を彼女に戻して、また腰を激しく動かし始めた。[pcms]
+After enjoying the afterglow for a while, the man turned his[r]
+face back from the ceiling to her and began to move his hips[r]
+violently again.[pcms]
 
 *12280|
 [fc]
-[ns]ポロシャツの青年[nse]
-「はぁあ゛ははぁう゛へぁあ゛～～～……！！」[pcms]
+[ns]Young man in a polo shirt[nse]
+"Haaahahahauvehaa~~~...!!"[pcms]
 
 *12281|
 [fc]
 [vo_mob s="girl0089"]
-[ns]少女[nse]
-「ひゃぁぅあ゛……っ！！　うあ゛っ、ぁひっ、ひぐ[r]
-　う゛ぅっ……！！　ひはぁあ゛っ……！！」[pcms]
+[ns]Girl[nse]
+"Hyauah...!! Uah, ahhi, higu uvuu...!! Hihahaa~~...!!"[pcms]
 
 ;[black_toplayer][trans_c cross time=1000][hide_chara_int]
 
@@ -756,32 +717,32 @@
 
 *12282|
 [fc]
-[ns]大倉[nse]
-「チッ……！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Tch...!"[pcms]
 
 *12283|
 [fc]
-男連中は女の子をレイプするのに夢中だが、彼女だけ[r]
-はケータイの音に気がついて、ニタァと気味の悪い笑[r]
-顔を浮かべ、俺に向かって手を伸ばした。[pcms]
+The men were engrossed in raping the girl, but she alone[r]
+noticed the sound of a cellphone and with a creepy smile on[r]
+her face, she reached out towards me.[pcms]
 
 *12284|
 [fc]
 [vo_mob s="girl0090"]
-[ns]少女[nse]
-「えへぁあ～～～……」[pcms]
+[ns]Girl[nse]
+"Ehehaa~~~..."[pcms]
 
 *12285|
 [fc]
-ヤバイな……。[r]
-このままじゃ、周りのヤツらも俺らに気づく……！[pcms]
+This is bad... If things keep up like this, the others will[r]
+notice us too...![pcms]
 
 ;//------------------------------------------------
 [if exp="tf.scene_mode==1"]
 	[jump storage="b_scene.ks" target=*back_from_SR]
 ;	[link storage=sceneAgain]もう一度見る[endlink]
 ;	[link storage=sceneList]一覧に戻る[endlink]
-;	[s]
+[pcms]
 [endif]
 
 *KAISOU_PASS
@@ -796,4 +757,4 @@
 
 [jump storage="westtown_main10410.ks" target=*westtown_main10410_TOP]
 
-;//－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+;//

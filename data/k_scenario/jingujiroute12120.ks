@@ -22,124 +22,120 @@
 *5001|
 [fc]
 [vo_hay s="hayami0694"]
-[ns]ありす[nse]
-「ひろ゛しぃ～～……そんな゛ちひ゛より゛、あ゛た[r]
-　しの゛ほうか゛きも゛ちい゛いよ゛ぉ～～……？[r]
-　た゛から゛ぁ、あ゛たしと、しよお゛ぉ～～……？」[pcms]
+[ns]Arisu[nse]
+"Hiroshi~... Isn't it better than a little boy, feeling good[r]
+with me~...? So, let's do it together...?"[pcms]
 
 *5002|
 [fc]
-俺を見上げて、微笑みながら言った速水は、またすぐ[r]
-にキツイ目つきになって、後ろにいるマヤちゃんを[r]
-睨みつけた。[pcms]
+Looking up at me with a smile, Hayami soon turned to a stern[r]
+look and glared at Maya-chan behind her.[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
 *5003|
 [fc]
 [vo_hay s="hayami0695"]
-[ns]ありす[nse]
-「おま゛えの゛、お゛ま゛んこな゛んかて゛ぇ……[r]
-　ひろ゛しはぁ、ゆう゛わ゛くされ゛な゛いんた゛か[r]
-　ら゛あ゛ぁ～～……！」[pcms]
+[ns]Arisu[nse]
+"Your pussy or whatever... Hiroshi isn't swayed by such[r]
+things~...!"[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_n08"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *5004|
 [fc]
 [vo_may s="maya0362"]
-[ns]摩耶[nse]
-「……」[pcms]
+[ns]Maya[nse]
+"..."[pcms]
 
 *5005|
 [fc]
-エレベーターの扉は、段々と中に入ってきている速水[r]
-の体にぶつかって、閉まっては開きを、何回も繰り返[r]
-している。[pcms]
+The elevator doors kept bumping into Hayami's body as she[r]
+entered, closing and opening repeatedly.[pcms]
 
 [ChrSetEx layer=4 chbase="hayami_k02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *5006|
 [fc]
 [vo_hay s="hayami0696"]
-[ns]ありす[nse]
-「んくっ……て゛てけよおぉ～～……ひろ゛しはぁ、[r]
-　んぅっ……あ゛たしと、え゛っちする゛んた゛か[r]
-　ら゛あぁ～～……！」[pcms]
+[ns]Arisu[nse]
+"Ngh... let go of me~... Hiroshi is going to have sex with[r]
+me~...!"[pcms]
 ;//◎“んくっ”“んぅっ”＝扉に体を挟まれて声が漏れている
 
 *5007|
 [fc]
-何回扉に挟まれても、速水は全然気にもしないで、[r]
-マヤちゃんに向かって手を伸ばしながら、とうとう中[r]
-に入ってきてしまった。[pcms]
+No matter how many times she was caught in the doors, Hayami[r]
+didn't care and finally managed to get inside while reaching[r]
+out towards Maya-chan.[pcms]
 
 *5008|
 [fc]
-[ns]大倉[nse]
-「クソッ……！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Damn it...!!"[pcms]
 
 *5009|
 [fc]
-俺はシャベルの取っ手で、叩きつけるように『開』ボ[r]
-タンを押してから、今度は先の部分を縦にして、裏の[r]
-平らなところを、速水の肩の辺りに押しつけた。[pcms]
+I pressed the "open" button with the handle of the shovel as[r]
+if striking it, then turned the tip vertically and pressed[r]
+the flat back side against Hayami's shoulder.[pcms]
 
 *5010|
 [fc]
-[ns]大倉[nse]
-「速水、悪ぃ……！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Sorry, Hayami...!"[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *5011|
 [fc]
-力を入れ、左の壁の方へ押しのけると、速水はバラン[r]
-スを崩して、横向きに床に倒れた。[pcms]
+Putting strength into it, I pushed her towards the left[r]
+wall, and Hayami lost her balance and fell sideways onto the[r]
+floor.[pcms]
 
 [quake_bg 元time=200 xy m]
 
 *5012|
 [fc]
 [vo_hay s="hayami0697"]
-[ns]ありす[nse]
-「んぅっ……」[pcms]
+[ns]Arisu[nse]
+"Ngh..."[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_n04"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *5013|
 [fc]
-[ns]大倉[nse]
-「マヤちゃん、外に出ろッ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Maya-chan, get out!!"[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *5014|
 [fc]
-慌てて出て行くマヤちゃんのあとに続いて、俺もエレ[r]
-ベーターの外へ走り出た。[pcms]
+In a panic, Maya-chan ran out, and I followed her out of the[r]
+elevator.[pcms]
 
 *5015|
 [fc]
 [vo_hay s="hayami0698"]
-[ns]ありす[nse]
-「……」[pcms]
+[ns]Arisu[nse]
+"..."[pcms]
 
 *5016|
 [fc]
-床に倒れた姿勢のまま、速水は扉が完全に閉まるまで、[r]
-キョトンとした顔で俺を見つめていた。[pcms]
+Lying on the floor, Hayami kept staring at me with a puzzled[r]
+look until the doors completely closed.[pcms]
 
 *5017|
 [fc]
 [vo_hay s="hayami0699"]
-[ns]ありす[nse]
-「ひろ゛しぃ……ひろ゛しい゛ぃ～～～……っ！！」[pcms]
+[ns]Arisu[nse]
+"Hiroshi... Hiroshiiii~...!!"[pcms]
 ;//◎声がくぐもっている（扉の向こうでしている声）
 
 *5018|
 [fc]
-扉が完全に閉まって、エレベーターは動きだし、[r]
-扉を叩く音と、俺を呼ぶ速水の声は、[r]
-段々と小さくなっていった。[pcms]
+As the doors completely closed and the elevator started[r]
+moving, the sound of Hayami banging on the door and calling[r]
+my name gradually faded away.[pcms]
 
 ;//♪：bgm009 fadeout
 [fadeoutbgm time=1000]
@@ -150,4 +146,4 @@
 
 [jump storage="jingujiroute12130.ks" target=*jingujiroute12130_TOP]
 
-;//－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+;//

@@ -23,14 +23,14 @@
 
 *6543|
 [fc]
-速水、ユウと別れる場所から家の間の、ちょうど真ん[r]
-中の辺りに、まさに豪邸、というデカイ洋風の屋敷が[r]
-建っている。[pcms]
+Right in the middle of the area between where Hayami, Yuu,[r]
+and I part ways and my house, there stands a huge Western-[r]
+style mansion that can only be described as palatial.[pcms]
 
 *6544|
 [fc]
-いつも思うけど、こういうトコに住んでるのって、ど[r]
-ういう人間なんだろうな……。[pcms]
+I always wonder, what kind of person lives in a place like[r]
+this...[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
@@ -39,31 +39,32 @@
 
 *6545|
 [fc]
-[ns]大倉[nse]
-「お……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Oh..."[pcms]
 
 *6546|
 [fc]
-俺の疑問に答えを持ってきたかのように、いかにも高[r]
-級そうな黒塗りの外車がやってきて、ひとりでに開か[r]
-れていく門の前に停められた。[pcms]
+As if to answer my question, a luxurious-looking black car[r]
+pulled up and stopped in front of the gate that opened by[r]
+itself.[pcms]
 
 *6547|
 [fc]
-車が停まるのとほぼ同時に、助手席側から執事風の男[r]
-が降りてきて、後ろの座席のドアを開け、ゆっくりと[r]
-頭を下げる。[pcms]
+Almost simultaneously with the car stopping, a man[r]
+resembling a butler got out from the passenger side, opened[r]
+the rear seat door, and bowed his head slowly.[pcms]
 
 *6548|
 [fc]
-[ns]大倉[nse]
-「どんなのが出てくんだ……？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Who's going to come out...?"[pcms]
 
 *6549|
 [fc]
-この屋敷に住んでいる人間の顔を見られるというチャ[r]
-ンスに、俺はケータイをいじるフリをして、車から降[r]
-りてくる人間の顔を盗み見てやろうと決めた。[pcms]
+Seeing this as a chance to catch a glimpse of the person[r]
+living in this mansion, I pretended to fiddle with my phone[r]
+and decided to sneak a peek at the face of the person[r]
+getting out of the car.[pcms]
 
 [sysbt_meswin clear]
 
@@ -76,48 +77,51 @@
 
 *6550|
 [fc]
-[ns]大倉[nse]
-「あれ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Huh..."[pcms]
 
 *6551|
 [fc]
-車から降りてきたのは、俺が想像していたのとは全く[r]
-違う、華奢という言葉がピッタリな女の子だった。[pcms]
+The person who got out of the car was a girl who was[r]
+completely different from what I had imagined, perfectly[r]
+fitting the description of 'delicate.'[pcms]
 
 *6552|
 [fc]
-[ns]大倉[nse]
-「あの子って……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"That girl is..."[pcms]
 
 *6553|
 [fc]
-その小柄で華奢な女の子に、俺は見覚えがあった。[pcms]
+I recognized that petite and delicate girl.[pcms]
 
 *6554|
 [fc]
-帰り道の途中にある商店街の辺りや、速水、ユウと別[r]
-れる場所の辺りでたまに見かける子。[pcms]
+She's someone I occasionally see around the shopping[r]
+district on my way home or near where Hayami, Yuu, and I[r]
+part ways.[pcms]
 
 *6555|
 [fc]
-確か、シベリアンハスキーつれて歩いてる……。[r]
-あの子、ここのひとだったのか……。[pcms]
+That's right, she's always walking with a Siberian Husky...[r]
+So she's from this place...[pcms]
 
 *6556|
 [fc]
-その辺を歩いてる女の子とはカワイさのレベルが違う[r]
-と思ってはいたけど、その理由がこれでわかった。[pcms]
+I thought she was on a different level of cuteness compared[r]
+to other girls walking around, but now I understand why.[pcms]
 
 *6557|
 [fc]
-[ns]大倉[nse]
-「別の世界の人間なら、そりゃカワイさのレベルも違[r]
-　うよなー。ある意味、宇宙人だもんな」[pcms]
+[ns]Ookura Hiroshi[nse]
+"If she's from a different world, then of course her level[r]
+of cuteness is different. In a way, she's like an alien."[pcms]
 
 *6558|
 [fc]
-女の子は執事風の男と二言三言話して、開いた門の向[r]
-こうに見える玄関へ歩き出した。[pcms]
+The girl exchanged a few words with the butler-like man and[r]
+started walking towards the entrance that could be seen[r]
+beyond the open gate.[pcms]
 
 [sysbt_meswin clear]
 
@@ -134,25 +138,25 @@
 
 *6559|
 [fc]
-彼女の小さな背中に溜息をついて、俺も家までの道を[r]
-また歩き出す。[pcms]
+I sighed at her small retreating figure and started walking[r]
+again towards my home.[pcms]
 
 *6560|
 [fc]
-[ns]大倉[nse]
-「はぁ～あ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Sigh..."[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
 *6561|
 [fc]
-デカイ屋敷に高級外車の送迎、身の回りの世話をして[r]
-くれる執事……。[pcms]
+A huge mansion, chauffeured by a luxury car, and a butler to[r]
+take care of her every need...[pcms]
 
 *6562|
 [fc]
-[ns]大倉[nse]
-「あるトコにはあるんだなー、金って……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Some people really do have money..."[pcms]
 
 [fadeoutbgm time=502]
 [stop_se0]
@@ -162,4 +166,4 @@
 
 [jump storage="prologue0040.ks" target=*prologue0040_TOP]
 
-;//－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+;//

@@ -21,13 +21,12 @@
 *8245|
 [fc]
 [vo_mob s="madeA0030"]
-[ns]メイドＡ[nse]
-「う……イテテ……」[pcms]
+[ns]Maid A[nse]
+"Ugh...Ouch..."[pcms]
 
 *8246|
 [fc]
-なに？　さっきの揺れ……。[r]
-地震……？[pcms]
+What? That shaking just now... An earthquake...?[pcms]
 
 ;//＠：商店街
 ;//BG：崩壊した商店街・早朝
@@ -43,50 +42,48 @@
 *8247|
 [fc]
 [vo_mob s="madeA0031"]
-[ns]メイドＡ[nse]
-「……なにこれ……」[pcms]
+[ns]Maid A[nse]
+"...What is this...?"[pcms]
 
 *8248|
 [fc]
-これ、ホントに地震……？[r]
-隕石とかじゃないの……？[pcms]
+Is this really an earthquake? Could it be a meteorite or[r]
+something...?[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
 *8249|
 [fc]
 [vo_mob s="madeA0032"]
-[ns]メイドＡ[nse]
-「てゆーか……なんで、空が暗くなってるの……？」[pcms]
+[ns]Maid A[nse]
+"But like...why is the sky getting dark...?"[pcms]
 
 *8250|
 [fc]
-アタシ、呼び込みしてたよね……。[r]
-リーマンが多くなってきたから、そろそろ上がる時間[r]
-だって思って……。[pcms]
+I was calling people in, right...? The number of businessmen[r]
+was increasing, so I thought it was about time to head back[r]
+in...[pcms]
 
 *8251|
 [fc]
-夕焼けがキレーだなって……。[r]
-確か……１８時１５分で……。[pcms]
+The sunset was so pretty... It was definitely... 6:15 PM...[pcms]
 
 ;//*8252|
 ;//[vo_mob s="madeA0033"]
-;//[ns]メイドＡ[nse]
+[ns]Maid A[nse]
 ;//「今って……４時……？　４時！？　朝の！？」
 ;//〆テキスト時間変更
 
 *8253|
 [fc]
-アタシ、気絶してたの……？[r]
-地震で……？[r]
-確かにスゴイ揺れだったけど、気絶って……。[pcms]
+"Did I faint? From the earthquake...? The shaking was[r]
+intense, but to faint..."[pcms]
 
 *8254|
 [fc]
 [vo_mob s="madeA0034"]
-[ns]メイドＡ[nse]
-「そうだ……店……みんなは……」[pcms]
+[ns]Maid A[nse]
+"That's right...the shop...everyone is..."[pcms]
 
 ;//SE：走る音
 [se0 storage="SE44"]
@@ -101,25 +98,23 @@
 *8255|
 [fc]
 [vo_mob s="madeA0035"]
-[ns]メイドＡ[nse]
-「みんなー！！　大丈夫！？」[pcms]
+[ns]Maid A[nse]
+"Everyone-!! Are you okay!?"[pcms]
 
 *8256|
 [fc]
-……。[r]
-誰もいない……。[pcms]
+... No one's here...[pcms]
 
 *8257|
 [fc]
-アタシみたいに気絶しないで、すぐウチに帰ったのか[r]
-な……。[pcms]
+Maybe they didn't faint like me and went straight home...[pcms]
 
 *8258|
 [fc]
 [vo_mob s="madeA0036"]
-[ns]メイドＡ[nse]
-「ケガしちゃって、すぐそこの病院に行ったとか……[r]
-　え？　な、なに！？」[pcms]
+[ns]Maid A[nse]
+"Or maybe they got hurt and went to the hospital nearby...[r]
+Eh? What, what!?"[pcms]
 
 ;//ＳＥ：雄叫び
 [se0 storage="SE48"]
@@ -127,22 +122,19 @@
 *8259|
 [fc]
 [vo_mob s="madeA0037"]
-[ns]メイドＡ[nse]
-「やっ、ちょっ！　なに！？　放してよっ！！　やっ、[r]
-　やめっ……！！　んむうぅぅ～～～っ！！！！」[pcms]
+[ns]Maid A[nse]
+"No, wait! What!? Let go!! Stop, stop it...!! Mmmuuu~~~!!!"[pcms]
 ;//◎“やめっ……”の部分で口を手で塞がれる
 
 *8260|
 [fc]
-息……っ！！[r]
-息できない……！！[r]
-誰か……誰か助けて……っ！！[pcms]
+I can't...breathe...!! Someone...someone help me...!![pcms]
 
 *8261|
 [fc]
 [vo_mob s="madeA0038"]
-[ns]メイドＡ[nse]
-「んん～～っ！！　むぐうぅ～～～っ！！！！」[pcms]
+[ns]Maid A[nse]
+"Nnn~~~!! Mmmguuu~~~!!!"[pcms]
 
 [sysbt_meswin clear]
 
@@ -155,4 +147,4 @@
 
 [jump storage="prologue02000.ks" target=*prologue02000_TOP]
 
-;//－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+;//

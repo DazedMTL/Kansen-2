@@ -23,103 +23,100 @@
 
 *848|
 [fc]
-[ns]男性アナウンサー[nse]
-「繰り返します……」[pcms]
+[ns]Male Announcer[nse]
+"Repeating..."[pcms]
 
 *849|
 [fc]
-なんだよ、ウッセーな……。[r]
-俺ぁ眠いんだよ……。[pcms]
+What the hell, so annoying... I'm sleepy...[pcms]
 
 *850|
 [fc]
-[ns]男性アナウンサー[nse]
-「……ウイルスは非常に高い感染力を持って……、[r]
-　このウイルスに冒された方は、人を襲う事が……[r]
-　国内全域でこれまでに類を見ない伝染病が蔓延……」[pcms]
+[ns]Male Announcer[nse]
+"...the virus has an extremely high infectivity... those who[r]
+are infected by this virus may attack others... a contagion[r]
+like never before is spreading throughout the country..."[pcms]
 
 *851|
 [fc]
-何だよ、伝染病って……。[r]
-クソッ……うるせぇ……。[pcms]
+What's this about a contagion... Damn it... so noisy...[pcms]
 
 *852|
 [fc]
-[ns]男性アナウンサー[nse]
-「未だワクチンも完成しておらず……、[r]
-　その数は増加する一方……」[pcms]
+[ns]Male Announcer[nse]
+"There is still no vaccine completed... and the number is[r]
+only increasing..."[pcms]
 
 *853|
 [fc]
-ワクチン……？[pcms]
+Vaccine...?[pcms]
 
 *854|
 [fc]
-[ns]男性アナウンサー[nse]
-「仮に、感染者から襲われた方は……、[r]
-　隔離……どの方法しか残されて……せん」[pcms]
+[ns]Male Announcer[nse]
+"If you are attacked by an infected person... isolation...[r]
+is the only remaining method..."[pcms]
 
 *855|
 [fc]
-ノイズの混ざったやまびこのような、[r]
-聞き取り辛い声が、寝起きの俺の周りを渦巻いている。[pcms]
+A voice, hard to make out like an echo mixed with noise, was[r]
+swirling around me as I woke up.[pcms]
 
 *856|
 [fc]
-目を閉じたまま、それに聞き入っていると、[r]
-まるで映画の内容のような事を言っている様だった。[pcms]
+With my eyes still closed, listening to it, it sounded like[r]
+something out of a movie.[pcms]
 
 *857|
 [fc]
-何だよ……映画か……。[pcms]
+What the hell... a movie...?[pcms]
 
 *858|
 [fc]
-[ns]男性アナウンサー[nse]
-「しかし、地域によって発症するまでの時間も、[r]
-　症状も……異なっており……」[pcms]
+[ns]Male Announcer[nse]
+"However, the time it takes for symptoms to appear and the[r]
+symptoms themselves... vary by region..."[pcms]
 
 *859|
 [fc]
-何だぁ、何言ってんだこれ……。[pcms]
+What the hell, what is this talking about...[pcms]
 
 *860|
 [fc]
-[ns]男性アナウンサー[nse]
-「発生原因と見られる涼ヶ陵では、確保された感染者[r]
-　が、数時間以内に死亡しましたが……」[pcms]
+[ns]Male Announcer[nse]
+"In the case of the presumed source of the outbreak at[r]
+Suzugamine, the secured infected individuals died within a[r]
+few hours..."[pcms]
 
 *861|
 [fc]
-[ns]男性アナウンサー[nse]
-「千台市でのみですが……[r]
-　一部を除き、感染者は未だ生存……」[pcms]
+[ns]Male Announcer[nse]
+"Only in Sendai City... excluding some, the infected are[r]
+still alive..."[pcms]
 
 *862|
 [fc]
-千台？[r]
-なんか聞き覚えあるな……。[pcms]
+Sendai? Sounds familiar...[pcms]
 
 *863|
 [fc]
-[ns]男性アナウンサー[nse]
-「８月６日の爆発事故との関係……」[pcms]
+[ns]Male Announcer[nse]
+"The relation to the explosion incident on August 6th..."[pcms]
 
 *864|
 [fc]
-爆発？[pcms]
+Explosion?[pcms]
 
 *865|
 [fc]
-[ns]男性アナウンサー[nse]
-「もしウイルスに感染したと思われる方が、身近に[r]
-　いらっしゃる場合でも、パニックなどを起こさない[r]
-　よう……」[pcms]
+[ns]Male Announcer[nse]
+"If you suspect someone close to you is infected with the[r]
+virus, please do not panic..."[pcms]
 
 *866|
 [fc]
-[ns]男性アナウンサー[nse]
-「以上、８月７日、夜のニュースをお伝え……」[pcms]
+[ns]Male Announcer[nse]
+"That concludes our news for the evening of August 7th..."[pcms]
 
 [sysbt_meswin clear]
 
@@ -137,78 +134,76 @@
 
 *867|
 [fc]
-[ns]大倉[nse]
-「チッ……なんだよ、うるせぇな……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Tch... what the hell, so noisy..."[pcms]
 
 *868|
 [fc]
-あの声は、夢だったのか、それとも幻聴だったのか、[r]
-もう聞こえなくなっていた。[pcms]
+The voice, was it a dream or a hallucination, I could no[r]
+longer hear it.[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
 *869|
 [fc]
-何故か冷たく硬い所で眠っていた俺は、[r]
-頭の上から聞こえてきていた耳障りな声と、[r]
-その奇妙な内容のせいで、目が覚めてしまった。[pcms]
+For some reason, I had been sleeping on something cold and[r]
+hard, and the irritating voice from above, along with its[r]
+strange content, woke me up.[pcms]
 
 *870|
 [fc]
-寝ぼけた目を擦り、辺りを見回すと、[r]
-俺だけじゃなくて、速水やユウ、それに薄ぼんやりと[r]
-覚えている女達が床に突っ伏していた。[pcms]
+Rubbing my sleepy eyes and looking around, not only me but[r]
+Hayami and Yuu, and some vaguely remembered women were lying[r]
+face down on the floor.[pcms]
 
 *871|
 [fc]
-みんな、服がボロボロのまま、眠っていた。[r]
-自分の着ている服も、みんなと同様に、[r]
-ボロボロになっていた。[pcms]
+Everyone was sleeping in tattered clothes. My own clothes[r]
+were also torn to shreds like everyone else's.[pcms]
 
 *872|
 [fc]
-周りで眠る速水達と、自分のしている格好を見て、[r]
-何か恐ろしい目に遭ったような気がした。[pcms]
+Seeing Hayami and others sleeping around me and my own[r]
+attire made me feel like we had encountered something[r]
+terrible.[pcms]
 
 *873|
 [fc]
-でも、それが何だったのか、[r]
-まるで思い出す事は出来なかった。[pcms]
+But I couldn't remember what it was at all.[pcms]
 
 *874|
 [fc]
-それに、今自分達が何故、どうしてここにいるのか、[r]
-それすらも分からなくなっていた。[pcms]
+Moreover, why we were here and how we got here was something[r]
+I couldn't figure out.[pcms]
 
 *875|
 [fc]
-[ns]大倉[nse]
-「何だよ……、俺ら、なんでこんな所でねてんだ？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"What the hell... why are we sleeping in a place like this?"[pcms]
 
 ;//*876|
 ;//[vo_mob s="XXXXXXXX"]
-;//[ns]ありす[nse]
+[ns]Alice[nse]
 ;//「ん……んんっ……」
 ;//[pcms]
 
 *877|
 [fc]
-[ns]大倉[nse]
-「はやみ……？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Hayami...?"[pcms]
 
 [ChrSetEx layer=4 chbase="hayami_k01"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *878|
 [fc]
 [vo_hay s="hayami1032"]
-[ns]ありす[nse]
-「あれぇ～……？　ヒロシ……、どうしたの、その[r]
-　カッコ……？」[pcms]
+[ns]Arisu[nse]
+"Huh~...? Hiroshi... what's with that outfit...?"[pcms]
 
 *879|
 [fc]
-[ns]大倉[nse]
-「おまえ、なんだよそれ……、ボロボロじゃん……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"What about you, you're all tattered..."[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 [ChrSetEx layer=2 chbase="hayami_k01"][ChrSetXY layer=2 x=0 y=0]
@@ -217,60 +212,59 @@
 *880|
 [fc]
 [vo_kob s="koba0505"]
-[ns]小林[nse]
-「……うわ……なにこれ……」[pcms]
+[ns]Kobayashi[nse]
+"...ugh... what's this..."[pcms]
 
 *881|
 [fc]
-[ns]大倉[nse]
-「……？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"...?"[pcms]
 
 *882|
 [fc]
-どうしたってんだこりゃ……。[r]
-みんな服ボロボロだ……。[pcms]
+What's going on here... Everyone's clothes are tattered...[pcms]
 
 *883|
 [fc]
-俺達の着ていた服は、何故か引きちぎられ、[r]
-ズタズタになっていた。[pcms]
+The clothes we were wearing were somehow torn apart and[r]
+shredded.[pcms]
 
 [ChrSetEx layer=3 chbase="koba_n19"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
 
 *884|
 [fc]
 [vo_kob s="koba0506"]
-[ns]小林[nse]
-「ヒロぉ……ボク……なんかヘンだよ……」[pcms]
+[ns]Kobayashi[nse]
+"Hiro... I feel... something's wrong..."[pcms]
 
 *885|
 [fc]
-[ns]大倉[nse]
-「ハァ？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Huh?"[pcms]
 
 *886|
 [fc]
 [vo_hay s="hayami1033"]
-[ns]ありす[nse]
-「そういえば、あたしもなんだか……」[pcms]
+[ns]Arisu[nse]
+"Now that you mention it, I also feel kind of..."[pcms]
 
 [chara_int_ layer=2][chara_int_ layer=3][trans_c cross time=150]
 
 *887|
 [fc]
-速水とユウは、顔を赤らめて、股間を押さえて[r]
-もじもじしている。[pcms]
+Hayami and Yuu were blushing and fidgeting while holding[r]
+their crotches.[pcms]
 
 *888|
 [fc]
-顔を赤らめる二人を見て、俺もなんだか興奮している。[r]
-破れた服からのぞく速水の肌を見て、興奮している。[pcms]
+Seeing the two of them blushing made me feel excited too.[r]
+Looking at Hayami's skin peeking through her torn clothes[r]
+made me excited.[pcms]
 
 *889|
 [fc]
-なんだ……この感じ……。[r]
-頭の中で、何かがガサガサ言ってる……。[r]
-なんだ……これ……。[pcms]
+What's this feeling... Something's rustling in my head...[r]
+What is this...[pcms]
 
 [ChrSetEx layer=2 chbase="naga_n19"][ChrSetXY layer=2 x=0 y=0]
 [ChrSetEx layer=3 chbase="anza_n21"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
@@ -278,137 +272,131 @@
 *890|
 [fc]
 [vo_nag s="nagasaki0400"]
-[ns]セーラー服の女[nse]
-「クズが……アタシを……あぁ……」[pcms]
+[ns]Sailor Suit Girl[nse]
+"The scum... he touched me... ah..."[pcms]
 
 *891|
 [fc]
 [vo_anz s="anzai0411"]
-[ns]女[nse]
-「克也ぁ～……どこぉ～～……？[r]
-　克也ぁ～～……ぐすっ……」[pcms]
+[ns]Female[nse]
+"Katsuya~... where are you~...? Katsuya~... sob..."[pcms]
 
 *892|
 [fc]
-[ns]大倉[nse]
-「……！？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"...!?"[pcms]
 
 [chara_int_ layer=2][chara_int_ layer=3][trans_c cross time=150]
 
 *893|
 [fc]
-自分達が、何かおかしな事になっている。[pcms]
+We were caught up in something strange.[pcms]
 
 *894|
 [fc]
-何がおかしいのかと頭の中で整理しようとしていたが、[r]
-周りが騒がしくなった事で、その事に集中出来なく[r]
-なってしまった。[pcms]
+I was trying to sort out what was wrong in my head, but I[r]
+couldn't concentrate because of the noise around me.[pcms]
 
 *895|
 [fc]
-[ns]大倉[nse]
-「なんだよ……なんだよお前ら……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"What's going on... what's with you guys..."[pcms]
 
 *896|
 [fc]
-[ns]ジョン[nse]
-「ウォンウォンッ！！　ウゥゥ～～……！」[pcms]
+[ns]John[nse]
+"Woof woof!! Woo~..."[pcms]
 
 *897|
 [fc]
-[ns]大倉[nse]
-「……？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"...?"[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_m02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *898|
 [fc]
 [vo_may s="maya0759"]
-[ns]お嬢様[nse]
-「私たちは……ヘンなやつらにおそわれた……」[pcms]
+[ns]Young Lady[nse]
+"We were... attacked by some weirdos..."[pcms]
 
 *899|
 [fc]
-犬の吠える声と、恨めしそうな声に振り返ると、[r]
-そこには背の小さな女の子が立っていた。[pcms]
+Turning around to the sound of a dog barking and a resentful[r]
+voice, there stood a small-statured girl.[pcms]
 
 *900|
 [fc]
 [vo_may s="maya0760"]
-[ns]お嬢様[nse]
-「あいつらは、私たちを犯した……」[pcms]
+[ns]Young Lady[nse]
+"Those guys... they violated us..."[pcms]
 
 *901|
 [fc]
-[ns]大倉[nse]
-「おかした？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Violated?"[pcms]
 
 *902|
 [fc]
-犬を連れた女の子は、冷たく憎しみが込められた眼を、[r]
-横たわるイカレた奴らに向け、ボソボソと呟き始めた。[pcms]
+The girl in the sailor suit, with eyes filled with cold[r]
+hatred, began muttering to herself as she looked at the[r]
+crazed guys lying around.[pcms]
 
 *903|
 [fc]
 [vo_may s="maya0761"]
-[ns]お嬢様[nse]
-「お前もおかされていた……。[r]
-　大勢のヘンなやつらに……」[pcms]
+[ns]Young Lady[nse]
+"You were also violated... by a bunch of those weirdos..."[pcms]
 
 *904|
 [fc]
-おかされた……。[r]
-なんだ……？[pcms]
+Violated... What's that...?[pcms]
 
 *905|
 [fc]
-おかす……？[pcms]
+Violate...?[pcms]
 
 *906|
 [fc]
-[ns]大倉[nse]
-「なんだ……？　君のいってること……、[r]
-　よくわからないんだけど……？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"What...? I don't quite understand what you're saying...?"[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *907|
 [fc]
 [vo_nag s="nagasaki0401"]
-[ns]セーラー服の女[nse]
-「うぁっ……ああぁぁぁぁあっ！！[r]
-　いやぁぁぁっ！！　寄るなぁぁぁぁ！！」[pcms]
+[ns]Sailor Suit Girl[nse]
+"Uwah... Aaaaahhh!! Noooo!! Don't come any closer!!"[pcms]
 
 *908|
 [fc]
-[ns]大倉[nse]
-「……！！　なっ……どうした！？」[pcms]
+[ns]Ookura[nse]
+"...!! What... what happened!?"[pcms]
 
 [ChrSetEx layer=4 chbase="naga_n19"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *909|
 [fc]
 [vo_nag s="nagasaki0402"]
-[ns]セーラー服の女[nse]
-「殺してやるっ！！」[pcms]
+[ns]Sailor Suit Girl[nse]
+"I'll kill you!!"[pcms]
 
 *910|
 [fc]
-セーラー服を着た女が、突然暴れ始め、[r]
-俺に殴りかかってきた。[pcms]
+The girl in the sailor suit suddenly started thrashing about[r]
+and lunged at me to strike.[pcms]
 
 *911|
 [fc]
-[ns]大倉[nse]
-「なんだっ！！　やめろっ！」[pcms]
+[ns]Ookura[nse]
+"What the!! Stop it!"[pcms]
 
 *912|
 [fc]
 [vo_nag s="nagasaki0403"]
-[ns]セーラー服の女[nse]
-「くそぉっ！！　殺すっ！！　男はみんな……、[r]
-　みんな殺してやるっ！！」[pcms]
+[ns]Sailor Suit Girl[nse]
+"Damn it!! I'll kill you!! All men... I'll kill them all!!"[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 [ChrSetEx layer=2 chbase="hayami_k01"][ChrSetXY layer=2 x=0 y=0]
@@ -417,38 +405,38 @@
 *913|
 [fc]
 [vo_hay s="hayami1034"]
-[ns]ありす[nse]
-「おちついて……ねえ……おねがい！」[pcms]
+[ns]Arisu[nse]
+"Calm down... please... I'm begging you!"[pcms]
 
 [ChrSetEx layer=3 chbase="naga_n20"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
 
 *914|
 [fc]
 [vo_nag s="nagasaki0404"]
-[ns]セーラー服の女[nse]
-「……」[pcms]
+[ns]Sailor Suit Girl[nse]
+"..."[pcms]
 
 *915|
 [fc]
-速水が止めに入ると、セーラー服の女は、[r]
-俺に襲いかかるのをやめ、急に大人しくなった。[pcms]
+When Arisu intervened, the girl in the sailor suit stopped[r]
+attacking me and suddenly became quiet.[pcms]
 
 *916|
 [fc]
 [vo_nag s="nagasaki0405"]
-[ns]セーラー服の女[nse]
-「あなた……可愛いわね……」[pcms]
+[ns]Sailor Suit Girl[nse]
+"You... you're cute..."[pcms]
 
 *917|
 [fc]
 [vo_hay s="hayami1035"]
-[ns]ありす[nse]
-「……？」[pcms]
+[ns]Arisu[nse]
+"…?"[pcms]
 
 *918|
 [fc]
-急に向きを変えたセーラー服の女は、[r]
-頬を赤らめて、速水をじっと見つめている。[pcms]
+The sailor suit girl suddenly changed her demeanor, blushed,[r]
+and stared intently at Arisu.[pcms]
 
 [chara_int_ layer=2][chara_int_ layer=3][trans_c cross time=150]
 
@@ -457,235 +445,219 @@
 
 *919|
 [fc]
-[ns]大倉[nse]
-「なっ……なんだ！？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"What the... what's going on!?"[pcms]
 
 [ChrSetEx layer=4 chbase="sugo_n08"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *920|
 [fc]
-[ns]作業服の男[nse]
-「くっ……くそぉ～～……おれさまの～～……、[r]
-　おれさまのもんに……さわるなぁ～～……」[pcms]
+[ns]Work Clothes Man[nse]
+"Damn it... my stuff... don't touch my stuff..."[pcms]
 
 *921|
 [fc]
-おかしな格好をしたオヤジが、ヨロヨロと建物の中に[r]
-向かい、歩き始めた。[pcms]
+A strange-looking old man staggered towards the building and[r]
+began to walk.[pcms]
 
 *922|
 [fc]
-[ns]作業服の男[nse]
-「おい……そこの、なよっちいのと……、[r]
-　おまえ～～……ついてこい～～……、[r]
-　あいつら……おっぱらうぞ……」[pcms]
+[ns]Work clothes man[nse]
+"Hey... you there, the frail one, and you... follow me...[r]
+I'm going to get rid of them..."[pcms]
 
 *923|
 [fc]
-フラフラしながら歩いていたオヤジは、突然俺達の方[r]
-にふりかえって、ヒキガエルみたいな潰れた声で、[r]
-怒鳴り出した。[pcms]
+The old man, staggering along, suddenly turned towards us[r]
+and started yelling with a voice as crushed as a toad's.[pcms]
 
 *924|
 [fc]
-[ns]大倉[nse]
-「あいつら？　なにいってんだ……オッサン……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Them? What are you talking about... old man..."[pcms]
 
 *925|
 [fc]
 [vo_kob s="koba0507"]
-[ns]小林[nse]
-「なよっちいのって……ボク！？[r]
-　なんだよ……」[pcms]
+[ns]Kobayashi[nse]
+"Frail one? Are you talking about me!? What the heck..."[pcms]
 
 *926|
 [fc]
-[ns]作業服の男[nse]
-「オッサンじゃねぇっ……おれさまぁ、すこう、[r]
-　ってんたぁ～～……、つべこべいわねえで、[r]
-　ついてこい……」[pcms]
+[ns]Work Clothes Man[nse]
+"I'm not an old man... I'm Sugou, got it... stop your[r]
+yapping and follow me..."[pcms]
 
 *927|
 [fc]
-[ns]大倉[nse]
-「んだよ、オッサン！　偉そうにしやがって！！[r]
-　だいいち……お前、だれだよ……！？[r]
-　ってか、おっぱらうってなんだよ！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"What's with you, old man! Acting all high and mighty!![r]
+First off... who are you...!? And what do you mean by 'get[r]
+rid of them'!"[pcms]
 
 *928|
 [fc]
-[ns]菅生[nse]
-「おれさまぁ、すごうだっていってんだろぉ！[r]
-　おまえらこそ……おれさまのもんにてぇ、[r]
-　だすなよ……ぶっころすぞ！」[pcms]
+[ns]Sugou[nse]
+"I said I'm Sugou! You guys better not mess with my stuff...[r]
+or I'll kill you!"[pcms]
 
 *929|
 [fc]
 [vo_kob s="koba0508"]
-[ns]小林[nse]
-「なにいってるの、この人……。[r]
-　でも、ナイフ持ってるみたいだし……ヒロ……、[r]
-　逆らわないほうがいいかもしれない……」[pcms]
+[ns]Kobayashi[nse]
+"What is this guy talking about... But he seems to have a[r]
+knife... Hiro, maybe we shouldn't resist..."[pcms]
 
 *930|
 [fc]
-[ns]菅生[nse]
-「おらぁ！　……そうたぁ……いまおれさまに[r]
-　きょうりょくすんなら……しゃてい……、[r]
-　しゃていに、してやんせぇ～～……？？」[pcms]
+[ns]Sugou[nse]
+"Hey! ...Sugou here... if you cooperate with me now... I'll[r]
+make you my underling... how about it...?"[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *931|
 [fc]
-何言ってんだコイツ……。[r]
-訳分かんねぇよ……。[pcms]
+What is this guy saying...? It makes no sense...[pcms]
 
 *932|
 [fc]
-第一、舎弟ってなんだ？[r]
-コイツ、クスリでもやってんのか？[pcms]
+First of all, what's an underling? Is this guy on drugs or[r]
+something?[pcms]
 
 *933|
 [fc]
-[ns]大倉[nse]
-「アブねぇヤツかよ……。[r]
-　なんかの中毒かもしれねえな……。でもよ、俺、[r]
-　アイツが何か企んでた様な気がすんだよな……」[pcms]
+[ns]Ookura[nse]
+"This guy's dangerous... Could be an addict or something...[r]
+But hey, I feel like he was plotting something..."[pcms]
 
 [ChrSetEx layer=4 chbase="koba_n19"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *934|
 [fc]
 [vo_kob s="koba0509"]
-[ns]小林[nse]
-「うん……ボクもそんな気がする……。[r]
-　ありすになんかしようとしてたよね……？」[pcms]
+[ns]Kobayashi[nse]
+"Yeah... I have the same feeling... He was trying to do[r]
+something to Arisu, right...?"[pcms]
 
 *935|
 [fc]
-[ns]大倉[nse]
-「……なんだっけな……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"...what was it again?"[pcms]
 
 *936|
 [fc]
-[ns]菅生[nse]
-「さっさ゛と、しろっていってんた゛！！[r]
-　ヤんそ゛こら゛ぁ！！」[pcms]
+[ns]Sugou[nse]
+"Hurry up and do it already!! Damn it all!!"[pcms]
 
 *937|
 [fc]
 [vo_kob s="koba0510"]
-[ns]小林[nse]
-「ねえ……この人怒らせると、何されるか、[r]
-　わからないよ……」[pcms]
+[ns]Kobayashi[nse]
+"Hey... if we anger this guy, we don't know what he might[r]
+do..."[pcms]
 
 *938|
 [fc]
-[ns]大倉[nse]
-「うーん……でもなぁ……速水……？[r]
-　あれ？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Hmm... but still... Arisu...? Where?"[pcms]
 
 *939|
 [fc]
-イカレたオヤジに絡まれている間に、[r]
-速水や他の女達は、俺達を置いて、[r]
-どこかに消えてしまっていた。[pcms]
+While we were being hassled by the crazy old man, Arisu and[r]
+the other girls had disappeared somewhere, leaving us[r]
+behind.[pcms]
 
 *940|
 [fc]
 [vo_kob s="koba0511"]
-[ns]小林[nse]
-「ひどいなぁ……ボクたちほっといて、[r]
-　どっかにいっちゃうなんて……」[pcms]
+[ns]Kobayashi[nse]
+"That's terrible... They just left us here and went[r]
+somewhere..."[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *941|
 [fc]
-速水達の行方を探る為に、辺りを見回すと、[r]
-『ウェストタウン・ファッションストリート』[r]
-と書かれた看板が見えた。[pcms]
+Looking around for Arisu and the others, I saw a sign that[r]
+read "West Town Fashion Street."[pcms]
 
 *942|
 [fc]
-服、ボロボロだったし……。[r]
-あいつら、着替えでも買いに行ったんじゃ……。[pcms]
+Their clothes were all torn up... Maybe they went to buy new[r]
+ones...[pcms]
 
 *943|
 [fc]
-[ns]大倉[nse]
-「あー……あっちだ……あいつら、服、みに[r]
-　いったんじゃねぇか？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Ah... over there... Maybe they went to look for clothes?"[pcms]
 
 [ChrSetEx layer=2 chbase="koba_n19"][ChrSetXY layer=2 x=0 y=0]
 [ChrSetEx layer=3 chbase="sugo_n08"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
 
 *944|
 [fc]
-[ns]菅生[nse]
-「おめ゛えらぁっ！　いいかけ゛んにいう゛こと、[r]
-　きけ゛ぇっ！！　いく゛そ゛……おら゛ぁっ！」[pcms]
+[ns]Sugou[nse]
+"You guys! Listen to what I'm saying properly or else...[r]
+I'll smash you!"[pcms]
 
 *945|
 [fc]
 [vo_kob s="koba0512"]
-[ns]小林[nse]
-「あっ……痛いっ！！　ヒロッ！　たすけてぇ！」[pcms]
+[ns]Kobayashi[nse]
+"Ah... Ouch!! Hiro! Help me!"[pcms]
 
 [chara_int_ layer=2][chara_int_ layer=3][trans_c cross time=150]
 
 *946|
 [fc]
-[ns]大倉[nse]
-「ユウっ！！　おい！　オッサン！！[r]
-　まてぇっ！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Yuuki!! Hey! Old man!! Wait up!"[pcms]
 
 *947|
 [fc]
-[ns]菅生[nse]
-「く゛た゛く゛た゛いうな゛ぁ～～……、[r]
-　こい゛や゛ぁ～～……」[pcms]
+[ns]Sugou[nse]
+"Stop your blabbering... come here..."[pcms]
 
 *948|
 [fc]
-くっ……。[r]
-速水達はいねぇし……ユウは捕まるし……。[r]
-第一、このオッサン……何キレてんだよ……。[pcms]
+Damn... Arisu and the others are gone, and Yuuki's been[r]
+caught... And what's with this old man... why is he so[r]
+pissed off...[pcms]
 
 *949|
 [fc]
-……もしかして、さっき聞こえたヘンな声で[r]
-言ってたのと、何か関係あるのか……？[pcms]
+...Could it be related to that weird noise we heard[r]
+earlier...?[pcms]
 
 *950|
 [fc]
-……でもあれ、夢かもしんねーし……。[pcms]
+...But that might have just been a dream...[pcms]
 
 *951|
 [fc]
 [vo_kob s="koba0513"]
-[ns]小林[nse]
-「ヒロぉっ！！　うわぁぁぁぁっ……」[pcms]
+[ns]Kobayashi[nse]
+"Hiro!! Uwaaaahhh...!"[pcms]
 
 *952|
 [fc]
-[ns]大倉[nse]
-「くそっ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Damn it..."[pcms]
 
 *953|
 [fc]
-今はそんな事考えてる余裕ねえ……。[pcms]
+Now's not the time to be thinking about that...[pcms]
 
 *954|
 [fc]
-クスリやってるようなヤツに捕まったら、[r]
-何をされるか分からない。[pcms]
+If we get caught by someone who looks like they're on drugs,[r]
+there's no telling what they'll do.[pcms]
 
 *955|
 [fc]
-速水達は後で探せばいい。[r]
-今は、ユウを助けないと……！[pcms]
+We can look for Arisu and the others later. Right now, I[r]
+have to save Yuuki...![pcms]
 
 ;//[fadeoutbgm time=502]
 ;//[stop_se0]
@@ -698,4 +670,4 @@
 [jump storage="alive_60080.ks" target=*alive_60080_TOP]
 
 ;//BLACKOUT
-;//－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+;//

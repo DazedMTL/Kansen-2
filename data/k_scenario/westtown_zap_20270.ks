@@ -19,13 +19,13 @@
 
 *14759|
 [fc]
-手を引かれるままに向かった先は、[r]
-３階のトイレだった。[pcms]
+The place we headed to, led by the hand, was the bathroom on[r]
+the third floor.[pcms]
 
 *14760|
 [fc]
-途中、あのヘンな人達に襲われる事もなく、すんなり[r]
-たどり着いた。[pcms]
+We reached it smoothly without being attacked by those weird[r]
+people along the way.[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
@@ -34,15 +34,15 @@
 *14761|
 [fc]
 [vo_nag s="nagasaki0215"]
-[ns]千尋[nse]
-「さあ……ここなら水も出るし……、[r]
-　アタシが外で見張っててあげるから……」[pcms]
+[ns]Chihiro[nse]
+"Now... there's running water here... I'll keep watch[r]
+outside for you..."[pcms]
 
 *14762|
 [fc]
 [vo_hay s="hayami0511"]
-[ns]ありす[nse]
-「うん……」[pcms]
+[ns]Arisu[nse]
+"Yeah..."[pcms]
 
 ;//★黒画面
 
@@ -50,20 +50,20 @@
 
 *14763|
 [fc]
-長崎さんはトイレから出て行った。[r]
-一人トイレに残されたあたしは、オジサンに犯され、[r]
-汚された所を念入りに洗った。[pcms]
+Ms. Nagasaki left the bathroom. Left alone, I thoroughly[r]
+washed the places where that old man violated and dirtied[r]
+me.[pcms]
 
 *14764|
 [fc]
-気休めかもしれない。[r]
-でも、汚れたままの時より、少しだけ気が楽になった。[pcms]
+It might be just a small comfort. But I felt a little bit[r]
+more at ease than when I was still dirty.[pcms]
 
 *14765|
 [fc]
-体を洗い終え、制服を着たあたしは、[r]
-まだ少し痛むお尻を庇うように歩いて、外で待つ[r]
-長崎さんの元へと向かった。[pcms]
+After washing my body and putting on my uniform, I walked[r]
+out, gingerly protecting my still sore butt, to where Ms.[r]
+Nagasaki was waiting outside.[pcms]
 
 ;//★ＢＧ：トイレ付近東
 ;//＠：東棟・三階
@@ -76,76 +76,72 @@
 *14766|
 [fc]
 [vo_hay s="hayami0512"]
-[ns]ありす[nse]
-「あの……洗った……よ……。[r]
-　見張っててくれて、ありがとう……」[pcms]
+[ns]Alice[nse]
+"Um... I've washed... Thank you for keeping watch..."[pcms]
 
 [ChrSetEx layer=4 chbase="naga_n05"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *14767|
 [fc]
 [vo_nag s="nagasaki0216"]
-[ns]千尋[nse]
-「…………」[pcms]
+[ns]Chihiro[nse]
+"..."[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
 *14768|
 [fc]
-目だけをあたしに向けた長崎さんは、[r]
-そのまま何も言わず、元いた寝具売り場の方へと[r]
-向かおうとした。[pcms]
+Ms. Nagasaki, with only her eyes on me, said nothing and[r]
+started to head back towards the bedding department where we[r]
+were before.[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *14769|
 [fc]
-あたし、軽蔑されたかな……。[r]
-そうだよね……こんな事されて……。[pcms]
+I wonder if she despises me... It makes sense... after what[r]
+happened to me...[pcms]
 
 *14770|
 [fc]
-それに……。[r]
-あそこには、オジサンがいる……。[r]
-イヤだよ……。[pcms]
+And... that man is still there... I don't want to go back...[pcms]
 
 *14771|
 [fc]
-あたしを犯した男が、あの場に残っている。[r]
-もうあの顔は見たくない。[pcms]
+The man who raped me is still in that place. I don't want to[r]
+see his face ever again.[pcms]
 
 *14772|
 [fc]
-その気持ちを察したのか、長崎さんはあたしの方に[r]
-向き直って、相変わらず無表情で話しかけた。[pcms]
+Perhaps sensing my feelings, Ms. Nagasaki turned back to[r]
+face me and spoke with her usual expressionless face.[pcms]
 
 [ChrSetEx layer=4 chbase="naga_n02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *14773|
 [fc]
 [vo_nag s="nagasaki0217"]
-[ns]千尋[nse]
-「あのクズに思い知らせてやるのよ……」[pcms]
+[ns]Chihiro[nse]
+"We're going to make that scum pay..."[pcms]
 
 *14774|
 [fc]
 [vo_hay s="hayami0513"]
-[ns]ありす[nse]
-「いいよ……、もう……。[r]
-　あの人とはもう、会いたくないから……あっ……！」[pcms]
+[ns]Arisu[nse]
+"It's okay... I don't want to see him anymore... Ah...!"[pcms]
 
 *14775|
 [fc]
-うつむき、あの場へ戻る事を否定したあたしの手を[r]
-強引に引っ張って、先へ進もうとする。[pcms]
+Looking down, I rejected the idea of going back there, but[r]
+she forcefully pulled my hand and tried to move forward.[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *14776|
 [fc]
-無表情で天井を睨む長崎さんの目が怖くて、[r]
-あたしはそれっきり何も言えなくなって、[r]
-うつむいたまま、仕方なく付いていく事にした。[pcms]
+Frightened by Ms. Nagasaki's expressionless eyes glaring at[r]
+the ceiling, I became speechless and reluctantly followed[r]
+her, head down.[pcms]
 
 ;//★ＢＧ：寝具売り場A
 
@@ -153,278 +149,274 @@
 
 *14777|
 [fc]
-あたしが犯された場所……。[r]
-もう、ここは見たくない……。[pcms]
+The place where I was violated... I don't want to see it[r]
+anymore...[pcms]
 
 *14778|
 [fc]
-イヤな事を思い出したくない。[r]
-それに、ここにはあの男がいる。[pcms]
+I don't want to remember the unpleasant things. And that man[r]
+is still there.[pcms]
 
 [ChrSetEx layer=4 chbase="naga_n02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *14779|
 [fc]
 [vo_nag s="nagasaki0218"]
-[ns]千尋[nse]
-「フンッ……！」[pcms]
+[ns]Chihiro[nse]
+"Hmph...!"[pcms]
 
 *14780|
 [fc]
-あたしの気持ちを察したのか、それまで強引に[r]
-引っ張っていた手を離して、長崎さんは一人で[r]
-オジサンの元へと向かっていった。[pcms]
+Perhaps understanding how I felt, Ms. Nagasaki let go of my[r]
+hand which she had been pulling forcefully and went alone[r]
+towards the old man.[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *14781|
 [fc]
-一人残されたあたしは、ベッドに腰掛け、顔を手で[r]
-覆って、長崎さんを待つ事にした。[pcms]
+Left alone, I sat on the bed, covered my face with my hands,[r]
+and decided to wait for Ms. Nagasaki.[pcms]
 
 *14782|
 [fc]
 [vo_hay s="hayami0514"]
-[ns]ありす[nse]
-「はぁ……、何で……こんな事に……」[pcms]
+[ns]Arisu[nse]
+"Sigh... Why did this happen..."[pcms]
 
 *14783|
 [fc]
-こんな事なら、今朝、寝坊でもしていればよかった。[pcms]
+If only I had overslept this morning.[pcms]
 
 *14784|
 [fc]
-旅行に来なければよかった。[pcms]
+I shouldn't have come on this trip.[pcms]
 
 *14785|
 [fc]
-楽しい想い出になるはずの、修業旅行だったのに。[r]
-全然楽しくなんて、ない。[pcms]
+This was supposed to be a fun memory-making training trip.[r]
+But it's not fun at all.[pcms]
 
 *14786|
 [fc]
-ヒロシ……。[r]
-…………。[r]
-……。[pcms]
+Hiroshi... ... ...[pcms]
 
 *14787|
 [fc]
-会いたいよ……。[r]
-ヒロシ……。[pcms]
+I want to see you... Hiroshi...[pcms]
 
 *14788|
 [fc]
-ヒロシ達と離ればなれになってから、[r]
-まだそんなに時間は経っていない。[pcms]
+It hasn't been that long since I was separated from Hiroshi[r]
+and the others.[pcms]
 
 *14789|
 [fc]
-でも、もう何年も会っていないような感じがして、[r]
-急に寂しくなってしまった。[pcms]
+But it feels like it's been years since I've seen them, and[r]
+suddenly I feel very lonely.[pcms]
 
 *14790|
 [fc]
 [vo_hay s="hayami0515"]
-[ns]ありす[nse]
-「はぁ……」[pcms]
+[ns]Alice[nse]
+"Sigh..."[pcms]
 ;//◎ため息
 
 *14791|
 [fc]
-……落ち込んでなんていられない。[r]
-ヒロシと合流して、みんなで家に帰るんだ！[r]
-寂しいなんて、言ってられない！！[pcms]
+I can't afford to be down. I need to regroup with Hiroshi[r]
+and go home with everyone! I can't afford to feel lonely!![pcms]
 
 [ChrSetEx layer=4 chbase="naga_n04"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *14792|
 [fc]
 [vo_nag s="nagasaki0219"]
-[ns]千尋[nse]
-「……終わったわ」[pcms]
+[ns]Chihiro[nse]
+"...It's over."[pcms]
 
 *14793|
 [fc]
 [vo_hay s="hayami0516"]
-[ns]ありす[nse]
-「……！！」[pcms]
+[ns]Arisu[nse]
+"...!!"[pcms]
 ;//◎驚いて息を呑む
 
 *14794|
 [fc]
-突然の声に驚き、ベッドから跳ね起きた。[pcms]
+Surprised by the sudden voice, I jumped up from the bed.[pcms]
 
 *14795|
 [fc]
-その声の主は、長崎さんだった。[pcms]
+The owner of the voice was Ms. Nagasaki.[pcms]
 
 *14796|
 [fc]
 [vo_hay s="hayami0517"]
-[ns]ありす[nse]
-「終わった……？　オジサンに、何をしたの……！？[r]
-　もしかして……」[pcms]
+[ns]Alice[nse]
+"It's over...? What did you do to that old man...!? Could it[r]
+be..."[pcms]
 
 *14797|
 [fc]
-無表情のままあたしを見つめる長崎さんが、[r]
-オジサンに何をしたのか不安になった。[pcms]
+Anxious about what Ms. Nagasaki might have done to the old[r]
+man, she continued to stare at me expressionlessly.[pcms]
 
 *14798|
 [fc]
 [vo_hay s="hayami0518"]
-[ns]ありす[nse]
-「まさか……ころ……」[pcms]
+[ns]Arisu[nse]
+"Don't tell me you killed..."[pcms]
 
 *14799|
 [fc]
-あたしと向き合って、それでもまだ無表情の[r]
-長崎さんの口がゆっくりと開く。[pcms]
+Facing me with still an expressionless face, Ms. Nagasaki's[r]
+mouth slowly opened.[pcms]
 
 [ChrSetEx layer=4 chbase="naga_n05"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *14800|
 [fc]
 [vo_nag s="nagasaki0220"]
-[ns]千尋[nse]
-「……あのクズが持っていたオモチャを使わせて[r]
-　もらったわ……触るのもイヤだったけど……、[r]
-　惨めな格好で眠っているわ……」[pcms]
+[ns]Chihiro[nse]
+"...I made use of the toy that scum had with him... I hated[r]
+even touching it... but he's now sleeping in a miserable[r]
+state..."[pcms]
 
 *14801|
 [fc]
-それを聞いて、少しほっとした。[r]
-自分を犯した憎い男だけど、[r]
-さすがに殺されていたりしたら、後味が悪い。[pcms]
+Hearing that, I felt a bit relieved. He was a detestable man[r]
+who raped me, but if he had been killed, it would have left[r]
+a bad taste.[pcms]
 
 *14802|
 [fc]
-長崎さんは、恐らくあのオジサンを縛って、[r]
-あの場に放置してきたんだろう。[pcms]
+Ms. Nagasaki probably tied up that old man and left him[r]
+there.[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *14803|
 [fc]
 [vo_hay s="hayami0519"]
-[ns]ありす[nse]
-「そう……」[pcms]
+[ns]Arisu[nse]
+"I see..."[pcms]
 
 *14804|
 [fc]
-オジサンは、この混乱が治まるまで、放置される。[pcms]
+The old man will be left there until this chaos settles[r]
+down.[pcms]
 
 *14805|
 [fc]
-どんな格好をさせられているのか分からなかったけど、[r]
-オジサンの今後を考えると、[r]
-思わず顔がにやけてしまう。[pcms]
+I didn't know what kind of state he was left in, but[r]
+thinking about his future made me smirk involuntarily.[pcms]
 
 *14806|
 [fc]
-あたしをあんな目に遭わせたんだ。[r]
-そのくらいの報いは受けて当然よ……！！[pcms]
+He deserved it for putting me through such an ordeal...!![pcms]
 
 *14807|
 [fc]
-可哀想だとは、少しも思わなかった。[pcms]
+I didn't feel sorry for him in the slightest.[pcms]
 
 *14808|
 [fc]
 [vo_hay s="hayami0520"]
-[ns]ありす[nse]
-「ふっ……ふふっ……！　いい気味！！　ははっ！！」[pcms]
+[ns]Arisu[nse]
+"Huh... huhuhu...! Serves him right!! Haha!!"[pcms]
 
 *14809|
 [fc]
-あの男が、あたしの前にもう顔を出せないかと思うと、[r]
-思わず笑いがこみ上げてきた。[pcms]
+The thought of that man never showing his face in front of[r]
+me again made me burst into laughter.[pcms]
 
 [ChrSetEx layer=4 chbase="naga_n05"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *14810|
 [fc]
 [vo_nag s="nagasaki0221"]
-[ns]千尋[nse]
-「やっと、笑ったわね……。その方が可愛いわ……、[r]
-　……アタシはなんだか、疲れたわ……。[r]
-　また少しだけ、休ませて頂戴……」[pcms]
+[ns]Chihiro[nse]
+"You finally smiled... That's cuter... I'm somehow tired...[r]
+Let me rest a little more..."[pcms]
 
 *14811|
 [fc]
-少し赤い顔をして、ベッドに腰掛けた長崎さんは、[r]
-横になってすぐに目を閉じた。[pcms]
+Ms. Nagasaki, with a slightly red face, sat on the bed and[r]
+closed her eyes as soon as she lay down.[pcms]
 
 *14812|
 [fc]
 [vo_hay s="hayami0521"]
-[ns]ありす[nse]
-「長崎さん……！？　今すぐに、ここから逃げた方が[r]
-　いいんじゃない？　ねぇ……長崎さん……」[pcms]
+[ns]Arisu[nse]
+"Ms. Nagasaki...!? Shouldn't we escape from here right now?[r]
+Hey... Ms. Nagasaki..."[pcms]
 
 [ChrSetEx layer=4 chbase="naga_n09"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *14813|
 [fc]
 [vo_nag s="nagasaki0222"]
-[ns]千尋[nse]
-「ここはきっと、安全よ……。貴女もここで、[r]
-　彼氏を待っていればいいじゃない……」[pcms]
+[ns]Chihiro[nse]
+"This place is surely safe... You should wait here for your[r]
+boyfriend..."[pcms]
 
 *14814|
 [fc]
 [vo_hay s="hayami0522"]
-[ns]ありす[nse]
-「長崎さん……」[pcms]
+[ns]Arisu[nse]
+"Ms. Nagasaki..."[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *14815|
 [fc]
-長崎さんは眠そうに呟くと、胸の上で手を組んで、[r]
-大きく深呼吸したあと、寝息を立て始めた。[pcms]
+Ms. Nagasaki murmured sleepily, crossed her hands over her[r]
+chest, took a deep breath, and then began to breathe[r]
+steadily in sleep.[pcms]
 
 *14816|
 [fc]
-一体どうしちゃったんだろう……。[r]
-ここに来てから色んな事があったから、精神的にも[r]
-疲れちゃうのは分かるけど……。[pcms]
+I wonder what's happened... I understand being mentally[r]
+exhausted from everything that's happened since coming[r]
+here...[pcms]
 
 *14817|
 [fc]
-長崎さんの様子は、確かにヘンだけど、[r]
-街で見た人達みたいにはなってない。[pcms]
+Ms. Nagasaki's behavior is definitely strange, but she's not[r]
+like the people we saw in town.[pcms]
 
 *14818|
 [fc]
-じゃあ、どうして……？[pcms]
+Then why...?[pcms]
 
 *14819|
 [fc]
-絵本に出てくるお姫様みたいな格好で眠る長崎さん。[r]
-この人は、もの凄く太い神経の持ち主なのか、[r]
-それとも本当にどこか具合が悪いのか。[pcms]
+Ms. Nagasaki, sleeping in a pose like a princess from a[r]
+fairy tale. Is she someone with incredibly thick nerves, or[r]
+is she really feeling unwell somewhere?[pcms]
 
 *14820|
 [fc]
-眠っているのを起こして、それを問いただす訳にも[r]
-いかない。[pcms]
+It wouldn't be right to wake her up and question her while[r]
+she's sleeping.[pcms]
 
 *14821|
 [fc]
 [vo_hay s="hayami0523"]
-[ns]ありす[nse]
-「……ここから逃げる方法を探さなきゃ……」[pcms]
+[ns]Arisu[nse]
+"...I have to find a way to escape from here..."[pcms]
 
 *14822|
 [fc]
-今のうちに、一人でここから逃げ出す方法を探す。[pcms]
+Now's the chance to look for a way to escape from here by[r]
+myself.[pcms]
 
 *14823|
 [fc]
-そう決めたあたしは、長崎さんにシーツを被せて、[r]
-見付かりにくいようにしてから、[r]
-三階を見て回ることにした。[pcms]
+I decided to cover Ms. Nagasaki with a sheet to make her[r]
+less noticeable and then started to look around the third[r]
+floor.[pcms]
 
 ;//★ＢＧ：フキヌケ付近東３Ｆ
 
@@ -433,8 +425,8 @@
 *14824|
 [fc]
 [vo_hay s="hayami0524"]
-[ns]ありす[nse]
-「……」[pcms]
+[ns]Arisu[nse]
+"..."[pcms]
 
 ;//★ＢＧ：階段付近東A
 
@@ -443,63 +435,62 @@
 *14825|
 [fc]
 [vo_hay s="hayami0525"]
-[ns]ありす[nse]
-「……この階には、ヘンな人達はいない……」[pcms]
+[ns]Arisu[nse]
+"...There are no weird people on this floor..."[pcms]
 
 *14826|
 [fc]
-バカみたいに広い三階からは、あたしの足音以外、[r]
-何も聞こえてこなかった。[pcms]
+The vast third floor was silent except for my footsteps.[pcms]
 
 *14827|
 [fc]
-さっき追い払った……あたしが、突き落とした……。[r]
-あの人達以外は、誰もいないのかな……。[pcms]
+The people I had chased away... the ones I had pushed[r]
+down... Were they the only ones around?[pcms]
 
 *14828|
 [fc]
-色々な店を見てまわったけど、誰かが隠れている[r]
-様子もなかった。[pcms]
+I looked around various stores, but there was no sign of[r]
+anyone hiding.[pcms]
 
 *14829|
 [fc]
 [vo_hay s="hayami0526"]
-[ns]ありす[nse]
-「……イースト・ゲート……？」[pcms]
+[ns]Arisu[nse]
+"...East Gate...?"[pcms]
 
 *14830|
 [fc]
-天井に吊された案内板には、『イーストゲート』[r]
-『ＡＩＲＢＲＩＤＧＥ』と書かれていた。[pcms]
+The sign hanging from the ceiling read "East Gate"[r]
+"AIRBRIDGE."[pcms]
 
 *14831|
 [fc]
-『ＡＩＲＢＲＩＤＧＥ』の隣には、矢印の後に[r]
-『ウェストタウン』と書かれている。[pcms]
+Next to "AIRBRIDGE," there was an arrow followed by "West[r]
+Town."[pcms]
 
 *14832|
 [fc]
 [vo_hay s="hayami0527"]
-[ns]ありす[nse]
-「……！！　そうだ！　ヒロシが持ってきた[r]
-　パンフレットに書いてあった連絡橋だ！！」[pcms]
+[ns]Arisu[nse]
+"...!! That's right! The connecting bridge that Hiroshi[r]
+mentioned in the pamphlet he brought!!"[pcms]
 
 *14833|
 [fc]
-ヒロシ達は今、『ウェストタウン』にいるはず……！[r]
-だとしたら、『ＡＩＲＢＲＩＤＧＥ』を渡れば、[r]
-ヒロシ達に会えるかも……！！[pcms]
+If Hiroshi and the others are in "West Town" now...! Then if[r]
+I cross the "AIRBRIDGE," I might be able to meet up with[r]
+them...!![pcms]
 
 *14834|
 [fc]
-少しだけ見えてきた希望の光にあたしの足取りは[r]
-軽く、頭にかかっていたモヤも、少し晴れていった。[pcms]
+The light of hope that had begun to appear made my steps[r]
+lighter, and the fog in my head cleared a bit.[pcms]
 
 *14835|
 [fc]
-ヒロシと合流出来る。[r]
-その一心から、あたしは『イーストゲート』に向かい、[r]
-走り出した。[pcms]
+I could meet up with Hiroshi. With that single-minded[r]
+thought, I headed towards the "East Gate" and started[r]
+running.[pcms]
 
 ;//★黒画面
 
@@ -507,8 +498,7 @@
 
 *14836|
 [fc]
-でも、あたしのその希望の光はまた一気に、[r]
-暗闇へと変わってしまった。[pcms]
+But that light of hope quickly turned back into darkness.[pcms]
 
 ;//♪：bgm012 stop
 [fadeoutbgm time=1][wb]
@@ -522,72 +512,72 @@
 
 *14837|
 [fc]
-[ns]髪を振り乱す女[nse]
-「あはっ！！　あはっ！！　あはっ！！」[pcms]
+[ns]A woman with disheveled hair[nse]
+"Ahah!! Ahah!! Ahah!!"[pcms]
 
 *14838|
 [fc]
-[ns]呆然とした青年[nse]
-「…………」[pcms]
+[ns]A stunned young man[nse]
+"..."[pcms]
 
 *14839|
 [fc]
-[ns]ヒゲの男[nse]
-「あ゛あ゛あ゛～～……」[pcms]
+[ns]Bearded Man[nse]
+"Aaah~..."[pcms]
 
 *14840|
 [fc]
-[ns]若い女[nse]
-「あ……ああぁ～！！　オマンコいいっ！！[r]
-　もっとおくまでねじ込んでぇ！！　あぁぁ！！」[pcms]
+[ns]Young woman[nse]
+"Ah... Aaah~!! My pussy feels so good!! Push it deeper!![r]
+Aaah!!"[pcms]
 
 *14841|
 [fc]
-[ns]若い男[nse]
-「う゛へぇぁ～……ケツ……し、しまるぅ～！！」[pcms]
+[ns]Young man[nse]
+"Uveh~... My ass... it's, it's closing up~!!"[pcms]
 
 *14842|
 [fc]
-[ns]太った中年[nse]
-「くちぃ～……いいよぉ……、は、があたって……[r]
-　しげきが～～……」[pcms]
+[ns]Overweight middle-aged[nse]
+"Kuchii~... it feels good... my teeth are hitting it...[r]
+stimulating~..."[pcms]
 
 *14843|
 [fc]
 [vo_hay s="hayami0528"]
-[ns]ありす[nse]
-「そ……そんな……そんなぁ！！」[pcms]
+[ns]Arisu[nse]
+"No... no way... this can't be happening!!"[pcms]
 
 *14844|
 [fc]
-やっと、ヒロシ達に会える。[pcms]
+I could finally meet Hiroshi and the others.[pcms]
 
 *14845|
 [fc]
-その考えと、あたしの少し軽くなった気持ちは、[r]
-どこかに吹き飛ばされた。[pcms]
+That thought and the slight lightness in my heart were blown[r]
+away somewhere.[pcms]
 
 *14846|
 [fc]
-あたしとヒロシ達のいる建物をつなぐ橋は、[r]
-またしてもヘンな人達の群れに覆い尽くされていた。[pcms]
+The bridge connecting the building where Hiroshi and I were[r]
+was once again covered with a swarm of weird people.[pcms]
 
 *14847|
 [fc]
-こんな所でまで、セックスしている集団は、[r]
-まだあたしには気が付いていなかった。[pcms]
+The group engaged in sex even in such a place hadn't noticed[r]
+me yet.[pcms]
 
 *14848|
 [fc]
 [vo_hay s="hayami0529"]
-[ns]ありす[nse]
-「……いやっ……もうイヤ！！[r]
-　何よコレ！！　いやぁぁぁあ！！」[pcms]
+[ns]Arisu[nse]
+"...No... I can't take this anymore!! What is this?![r]
+Noooo!!"[pcms]
 
 *14849|
 [fc]
-また見たくないモノを見て、あたしは[r]
-もと来た道を長崎さんの元へと走った。[pcms]
+Having seen something I didn't want to see again, I ran back[r]
+the way I came towards Ms. Nagasaki.[pcms]
 
 ;//♪：bgm009 fadeout
 [fadeoutbgm time=1000]
@@ -622,117 +612,114 @@
 *14850|
 [fc]
 [vo_hay s="hayami0530"]
-[ns]ありす[nse]
-「はあっ……はあっ……、な、長崎さん！？」[pcms]
+[ns]Alice[nse]
+"Haah... Haah... Ms. Nagasaki!?"[pcms]
 
 *14851|
 [fc]
-息を切らせて、寝具売り場にたどり着くと、[r]
-そこにはあたしが来るのを待ちかまえていたかの様に[r]
-座る長崎さんの姿があった。[pcms]
+Breathless, when I reached the bedding department, there sat[r]
+Ms. Nagasaki as if she had been waiting for me to arrive.[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
 *14852|
 [fc]
 [vo_hay s="hayami0531"]
-[ns]ありす[nse]
-「お、起きてたんだ……、それより、[r]
-　またあの人達が……向こうに渡る橋の所に、また[r]
-　沢山ヘンな人が！！」[pcms]
+[ns]Arisu[nse]
+"Oh, you were awake... But more importantly, those people[r]
+are back again... at the bridge we need to cross, there are[r]
+lots of weird people again!!"[pcms]
 
 [ChrSetEx layer=4 chbase="naga_n05"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *14853|
 [fc]
 [vo_nag s="nagasaki0223"]
-[ns]千尋[nse]
-「……」[pcms]
+[ns]Chihiro[nse]
+"..."[pcms]
 
 *14854|
 [fc]
-息を切らし慌て、落ちつきなく話すあたしを、[r]
-相変わらず無表情で見つめる長崎さんは、[r]
-ゆっくり立ち上がって、あたしに近寄ってきた。[pcms]
+In a panic and out of breath, I spoke hurriedly and without[r]
+composure, but Ms. Nagasaki continued to stare at me[r]
+expressionlessly as she slowly stood up and approached me.[pcms]
 
 [ChrSetEx layer=4 chbase="naga_n04"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *14855|
 [fc]
 [vo_nag s="nagasaki0224"]
-[ns]千尋[nse]
-「かわいいわね……あなた……、[r]
-　キス……していいかしら……？[r]
-　ふっ……ふふっ……ふふふっ……！」[pcms]
+[ns]Chihiro[nse]
+"You're so cute... you know... Can I kiss you...? Fufu...[r]
+fufufu...!"[pcms]
 
 *14856|
 [fc]
 [vo_hay s="hayami0532"]
-[ns]ありす[nse]
-「え……！？　なに、冗談なんか……、んっ！[r]
-　んぶっ！！」[pcms]
+[ns]Alice[nse]
+"Eh...!? What are you talking about...? Mmm! Mmph!!"[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *14857|
 [fc]
-長崎さんはあたしを抱きしめて、突然キスをしてきた。[r]
-抱きしめたその腕も、体も、妙に熱かった。[pcms]
+Ms. Nagasaki hugged me and suddenly kissed me. Her arms that[r]
+embraced me, her body, they were strangely hot.[pcms]
 
 *14858|
 [fc]
 [vo_hay s="hayami0533"]
-[ns]ありす[nse]
-「ん……んんっ！！　ぷあぁッ！　長崎さん……、[r]
-　どうしたの、いきなり！！　冗談はやめて！[r]
-　またヘンな人が来るかもしれないのに！！」[pcms]
+[ns]Alice[nse]
+"Mmm... Mmm!! Puaah! Ms. Nagasaki... What are you doing all[r]
+of a sudden!! Stop joking around! More weird people might[r]
+come!!"[pcms]
 
 *14859|
 [fc]
-長崎さんを力一杯突き飛ばすと、よろめいてベッドに[r]
-手を突いて動きを止めた長崎さんは、突然笑い出した。[pcms]
+When I pushed Ms. Nagasaki with all my might, she stumbled[r]
+and stopped moving as she put her hands on the bed, then[r]
+suddenly burst into laughter.[pcms]
 
 [ChrSetEx layer=4 chbase="naga_n05"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *14860|
 [fc]
 [vo_nag s="nagasaki0225"]
-[ns]千尋[nse]
-「あはっ……ふふふっ……、あなたの口、[r]
-　かわいい……あははっ……、ふふっ……」[pcms]
+[ns]Chihiro[nse]
+"Ahaha... Fufufu... Your mouth is so cute... Ahahaha...[r]
+Fufu..."[pcms]
 
 *14861|
 [fc]
 [vo_hay s="hayami0534"]
-[ns]ありす[nse]
-「……！？　どうしたの、長崎さん……」[pcms]
+[ns]Arisu[nse]
+"...!? What's wrong, Ms. Nagasaki..."[pcms]
 
 [ChrSetEx layer=4 chbase="naga_n04"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *14862|
 [fc]
 [vo_nag s="nagasaki0226"]
-[ns]千尋[nse]
-「……ご、ごめんなさい……アタシ……。[r]
-　急に……。驚いたでしょう……。[r]
-　ごめんなさい……ごめんなさい……」[pcms]
+[ns]Chihiro[nse]
+"...I'm sorry... It's just me... I suddenly... You must have[r]
+been surprised... I'm sorry... I'm sorry..."[pcms]
 
 *14863|
 [fc]
 [vo_hay s="hayami0535"]
-[ns]ありす[nse]
-「……？？」[pcms]
+[ns]Arisu[nse]
+"...??"[pcms]
 
 *14864|
 [fc]
-大きく笑ったあとすぐに、長崎さんはあたしに[r]
-謝り始めた。[pcms]
+After laughing heartily, Ms. Nagasaki began to apologize to[r]
+me.[pcms]
 
 *14865|
 [fc]
-……どうしちゃったんだろう……。[r]
-こんな状態で、おかしくなったのか、それとも……。[r]
-街や、さっきの連絡橋の人達みたいになったの？？[pcms]
+I wonder what's gotten into her... In this situation, has[r]
+she gone mad, or has she become like the people in the town,[r]
+or those at the bridge earlier??[pcms]
 
 ;//★ＳＥ：雄叫び
 
@@ -741,45 +728,44 @@
 *14866|
 [fc]
 [vo_hay s="hayami0536"]
-[ns]ありす[nse]
-「……！！　そうだ！！　長崎さん！！[r]
-　早くここから逃げないと！　[r]
-　あの人達に気が付かれちゃうよ！」[pcms]
+[ns]Arisu[nse]
+"...!! That's right!! Ms. Nagasaki!! We have to escape[r]
+quickly! They'll notice us if we don't!"[pcms]
 
 [ChrSetEx layer=4 chbase="naga_n05"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *14867|
 [fc]
 [vo_nag s="nagasaki0227"]
-[ns]千尋[nse]
-「……そう……。[r]
-　じゃあ、アタシに付いて来て……。[r]
-　この建物、何回か来てるから、アタシに任せて……」[pcms]
+[ns]Chihiro[nse]
+"...Right... Then follow me... I've been to this building a[r]
+few times, so leave it to me..."[pcms]
 
 *14868|
 [fc]
 [vo_hay s="hayami0537"]
-[ns]ありす[nse]
-「……？？」[pcms]
+[ns]Arisu[nse]
+"...??"[pcms]
 
 *14869|
 [fc]
-長崎さんは、前と同じようにあたしの手を引いて、[r]
-エスカレーターの方へと歩き始めた。[pcms]
+Ms. Nagasaki, just like before, took my hand and started[r]
+walking towards the escalator.[pcms]
 
 *14870|
 [fc]
-あたしはここに来るのは初めてで、どんな風な作りに[r]
-なっているのか全然分からない。[pcms]
+This is my first time here, and I have no idea how the place[r]
+is laid out.[pcms]
 
 *14871|
 [fc]
-少し不安だけど、長崎さんに付いていくしか無かった。[pcms]
+I was a little anxious, but I had no choice but to follow[r]
+Ms. Nagasaki.[pcms]
 
 *14872|
 [fc]
-あたしの手を握った長崎さんの手は、[r]
-妙に熱く、汗ばんでいた。[pcms]
+The hand of Ms. Nagasaki holding mine was oddly hot and[r]
+sweaty.[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 

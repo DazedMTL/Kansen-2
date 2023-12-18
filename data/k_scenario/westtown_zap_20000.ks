@@ -41,7 +41,7 @@
 ;	;border	1ˆÈã‚É‚·‚é‚Æ‰æ–Ê‚É\šü‚ª‚Å‚é
 ;	[link target=*ZAP_SEL01 single=true left="&sf.aspect1_x" top="&sf.aspect1_y" width=320 height=64 layer=0 border=0][endlink]
 ;	[link target=*ZAP_SEL08 single=true left="&sf.aspect3_x" top="&sf.aspect5_y" width=128 height=32 layer=8 border=0][endlink]
-;	[s]
+;[pcms]
 
 ;BGM’â~
 [fadeoutbgm time=500]
@@ -79,7 +79,7 @@
 
 [s]
 
-;//*||||||||||||||||||||||||||||||||||||||||
+;//*
 ;//‘¬…‹“_F‚Q‚O‚O‚P‚O
 
 *ZAP_SEL01|ƒUƒbƒsƒ“ƒO‘I‘ğˆ@‘¬…
@@ -95,7 +95,7 @@
 
 
 
-;//*||||||||||||||||||||||||||||||||||||||||
+;//*
 ;//ålŒö‹“_FƒuƒƒbƒN‚P‚O‚O‚T‚O
 
 *ZAP_SEL08|ƒUƒbƒsƒ“ƒO‘I‘ğˆ@ƒLƒƒƒ“ƒZƒ‹
@@ -109,5 +109,5 @@
 
 [jump storage="westtown_main10050.ks" target=*westtown_main10050_TOP]
 
-;//*||||||||||||||||||||||||||||||||||||||||
+;//*
 

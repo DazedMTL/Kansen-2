@@ -23,88 +23,87 @@
 
 *10753|
 [fc]
-[ns]大倉[nse]
-「ユウ！　行くぞ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Yuuki! Let's go!!"[pcms]
 
 *10754|
 [fc]
 [vo_kob s="koba0181"]
-[ns]小林[nse]
-「……」[pcms]
+[ns]Kobayashi[nse]
+"..."[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
 *10755|
 [fc]
-腕を強く引っ張っても、ユウはまったく動こうとしな[r]
-いで、『Ｒ』で止まったままの階数表示を、ボンヤリ[r]
-とした顔を見つめ続けていた。[pcms]
+Even when her arm was pulled strongly, Yuuki didn't budge at[r]
+all, continuing to stare blankly at the elevator floor[r]
+indicator stuck on "R".[pcms]
 
 *10756|
 [fc]
-[ns]ジョン[nse]
-「ウォフッ……」[pcms]
+[ns]John[nse]
+"Woof..."[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_f03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *10757|
 [fc]
 [vo_may s="maya0080"]
-[ns]お嬢様[nse]
-「ジョン……？」[pcms]
+[ns]Young Lady[nse]
+"John...?"[pcms]
 
 *10758|
 [fc]
-一声小さく吠えて、ハスキーはお嬢様のスカートの端[r]
-を咥えて引っ張り、どこかへ連れて行こうとしていた。[pcms]
+A husky barked softly and tugged at the hem of the young[r]
+lady's skirt, trying to lead her somewhere.[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_n04"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *10759|
 [fc]
 [vo_may s="maya0081"]
-[ns]お嬢様[nse]
-「ジョン、どこへ行くの……」[pcms]
+[ns]Young Lady[nse]
+"John, where are you going...?"[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *10760|
 [fc]
-引きずられて、仕方なくといった様子でお嬢様が歩き[r]
-出すと、ハスキーは口を離し、トイレがある方へと、[r]
-長い通路を歩いていく。[pcms]
+Being dragged along, the young lady reluctantly started[r]
+walking, and the husky let go of the skirt and walked down[r]
+the long corridor towards the restrooms.[pcms]
 
 *10761|
 [fc]
-[ns]大倉[nse]
-「オイ、ユウ！　俺らも行くぞ」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Hey, Yuuki! We're going too."[pcms]
 
 [ChrSetEx layer=4 chbase="koba_n09"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *10762|
 [fc]
 [vo_kob s="koba0182"]
-[ns]小林[nse]
-「え……？　あ、うん」[pcms]
+[ns]Kobayashi[nse]
+"Eh...? Oh, yeah."[pcms]
 
 *10763|
 [fc]
-[ns]大倉[nse]
-「オマエ……ホントに大丈夫なのか？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Are you really okay?"[pcms]
 
 [ChrSetEx layer=4 chbase="koba_n02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *10764|
 [fc]
 [vo_kob s="koba0183"]
-[ns]小林[nse]
-「だいじょうぶだってば。しんぱいしすぎじゃない？[r]
-　ヒロは」[pcms]
+[ns]Kobayashi[nse]
+"I'm fine. Aren't you worrying too much, Hiroshi?"[pcms]
 
 *10765|
 [fc]
-笑いながら歩き始めたユウに、俺は不安を感じながら、[r]
-前を行くお嬢様とハスキーを追った。[pcms]
+As Yuuki started walking with a laugh, I followed the young[r]
+lady and the husky with a sense of unease.[pcms]
 
 ;消し無し[chara_int]
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -120,24 +119,27 @@
 
 *10766|
 [fc]
-『手作り菓子材料　ｈｏｎｅｙ』という看板が掲げら[r]
-れている店の手前でハスキーは立ち止まって、すぐ傍[r]
-にあるトイレとお嬢様の顔を交互に見上げた。[pcms]
+In front of a store with a sign that read "Handmade[r]
+Confectionery Ingredients honey," the husky stopped and[r]
+alternately looked up at the nearby restroom and the young[r]
+lady's face.[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_n04"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *10767|
 [fc]
 [vo_may s="maya0082"]
-[ns]お嬢様[nse]
-「トイレ……？　ジョン、トイレに行きたいの……？」[pcms]
+[ns]Young Lady[nse]
+"The restroom...? John, do you need to go to the[r]
+restroom...?"[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
 *10768|
 [fc]
-トイレに視線を固定したハスキーに、なにかあるのか[r]
-と、俺らも自然に注目してしまっていた。[pcms]
+The husky fixed its gaze on the restroom, and we naturally[r]
+turned our attention there as well, wondering if something[r]
+was up.[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 [ChrSetEx layer=2 chbase="anza_n15"][ChrSetXY layer=2 x=0 y=0]
@@ -146,86 +148,84 @@
 *10769|
 [fc]
 [vo_anz s="anzai0099"]
-[ns]女[nse]
-「誰か泣いてる……？」[pcms]
+[ns]Female[nse]
+"Is someone crying...?"[pcms]
 
 *10770|
 [fc]
-[ns]大倉[nse]
-「……？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"…?"[pcms]
 
 [ChrSetEx layer=3 chbase="jinguji_n01"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
 
 *10771|
 [fc]
-女の人に言われて耳を澄ましてみると、確かに女子ト[r]
-イレの方から、女がすすり泣いている声がうっすらと[r]
-聞こえてくる。[pcms]
+Upon hearing what the woman said and listening carefully, I[r]
+could indeed faintly hear the sound of a woman sobbing from[r]
+the direction of the women's restroom.[pcms]
 
 *10772|
 [fc]
-ハスキーにはこの声が聞こえてたのか……。[pcms]
+Could the husky hear this voice...?[pcms]
 
 *10773|
 [fc]
-でも、泣いてるヤツはまともな人間なのか……？[r]
-俺らをハメるために、頭がイカレちまってる女が演技[r]
-してんじゃねーのか……？[pcms]
+But is the person crying a sane human being...? Or is it[r]
+some crazy woman trying to trap us with her acting...?[pcms]
 
 *10774|
 [fc]
-でもな……。[r]
-もし、まともな人間で、どうしていいかわからなくて[r]
-泣いてるとかだったら、俺らが助けてやらないと……。[pcms]
+But still... If it's a sane person who doesn't know what to[r]
+do and is crying, we have to help them...[pcms]
 
 [ChrSetEx layer=3 chbase="koba_n12"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
 
 *10775|
 [fc]
 [vo_kob s="koba0184"]
-[ns]小林[nse]
-「ふつうのひとかな……」[pcms]
+[ns]Kobayashi[nse]
+"Maybe it's a normal person..."[pcms]
 
 *10776|
 [fc]
-[ns]大倉[nse]
-「どうかな……。俺、ちょっと見てくる」[pcms]
+[ns]Ookura Hiroshi[nse]
+"I wonder... I'll go check it out."[pcms]
 
 [ChrSetEx layer=2 chbase="anza_n05"][ChrSetXY layer=2 x=0 y=0][trans_c cross time=150]
 
 *10777|
 [fc]
 [vo_anz s="anzai0100"]
-[ns]女[nse]
-「待って、わたしが見てくるわ。男の人には難しい状[r]
-　態かもしれないから」[pcms]
+[ns]Female[nse]
+"Wait, I'll go take a look. It might be a difficult[r]
+situation for a man to handle."[pcms]
 
 *10778|
 [fc]
-[ns]大倉[nse]
-「でも、もし中に頭のおかしいヤツらがいたら……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"But if there are some crazy people inside..."[pcms]
 
 [ChrSetEx layer=2 chbase="anza_n01"][ChrSetXY layer=2 x=0 y=0][trans_c cross time=150]
 
 *10779|
 [fc]
 [vo_anz s="anzai0101"]
-[ns]女[nse]
-「じゃあ、入り口の近くで待っていてくれる？　もし[r]
-　変な人がいたら、走って逃げるつもりだけれど、捕[r]
-　まってしまったら助けてね」[pcms]
+[ns]Female[nse]
+"Then can you wait near the entrance? If there's someone[r]
+strange, I plan to run away, but if I get caught, please[r]
+help me."[pcms]
 
 *10780|
 [fc]
-[ns]大倉[nse]
-「はい……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Okay..."[pcms]
 
 [chara_int_ layer=2][chara_int_ layer=3][trans_c cross time=150]
 
 *10781|
 [fc]
-俺は入り口の傍まで一緒に行って、女の人が女子トイ[r]
-レに入っていくのを見送った。[pcms]
+I went with her to near the entrance and watched as the[r]
+woman entered the women's restroom.[pcms]
 
 [fadeoutbgm time=502]
 [stop_se0]
@@ -235,4 +235,4 @@
 
 [jump storage="westtown_main10190.ks" target=*westtown_main10190_TOP]
 
-;//－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+;//

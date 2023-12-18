@@ -30,42 +30,42 @@
 
 *3189|
 [fc]
-[ns]大倉[nse]
-「ふーっ……！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Huff...!!"[pcms]
 
 *3190|
 [fc]
-[ns]大倉[nse]
-「行くぞ……！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Here I go...!!"[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
 *3191|
 [fc]
 [vo_may s="maya0537"]
-[ns]摩耶[nse]
-「あ、ま、待って……！」[pcms]
+[ns]Maya[nse]
+"Ah, wa, wait...!"[pcms]
 
 *3192|
 [fc]
-[ns]ジョン[nse]
-「グルルルルルルッ！！」[pcms]
+[ns]John[nse]
+"Grrrrrrrrrr!!"[pcms]
 
 *3193|
 [fc]
 [vo_may s="maya0538"]
-[ns]摩耶[nse]
-「ジョン！？　離して……！」[pcms]
+[ns]Maya[nse]
+"John!? Let go...!"[pcms]
 
 *3194|
 [fc]
-[ns]ジョン[nse]
-「グルルルルルルッ……！！」[pcms]
+[ns]John[nse]
+"Grrrrrrrrrr...!!"[pcms]
 
 *3195|
 [fc]
-[ns]大倉[nse]
-「ゥラアアァァッ！！！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Uraaaaaahhhhh!!!!!"[pcms]
 
 ;//[]BG表示（ここで普通の色に戻る（クロスフェードで）？）
 ;//★ＢＧ：ペットショップA
@@ -78,56 +78,54 @@
 *3196|
 [fc]
 [vo_may s="maya0539"]
-[ns]摩耶[nse]
-「あ……！」[pcms]
+[ns]Maya[nse]
+"Ah...!"[pcms]
 
 *3197|
 [fc]
-おかしな人達で溢れかえっている、渡り廊下に一人、[r]
-飛び込んでいって、あの人はあっという間に見えなく[r]
-なった。[pcms]
+The corridors were overflowing with strange people, and that[r]
+person dove in alone, quickly disappearing from sight.[pcms]
 
 *3198|
 [fc]
-友達と言っても、他人には変わらない。[r]
-なぜあの人は、他人のためにあそこまで必死になれる[r]
-のだろう。[pcms]
+Even if we call each other friends, to others we are no[r]
+different. Why can that person become so desperately[r]
+involved for the sake of strangers?[pcms]
 
 *3199|
 [fc]
-私には全く理解できない。[pcms]
+I can't understand it at all.[pcms]
 
 *3200|
 [fc]
-自分が一緒にあの中に飛び込もうとしたのも、なぜな[r]
-のか全く理解できない。[pcms]
+I don't understand why I even thought about jumping in there[r]
+with them.[pcms]
 
 *3201|
 [fc]
-他人を信じてついていくなんて、私は本来、そんな事[r]
-をする人間じゃない。[pcms]
+Trusting others and following them is not something I would[r]
+normally do.[pcms]
 
 *3202|
 [fc]
-一体なぜ、あんな行動を取ったのだろう。[r]
-危険だと思ったから、止めようとしたのだろうか。[pcms]
+Why did I take such an action? Was it because I thought it[r]
+was dangerous and tried to stop it?[pcms]
 
 *3203|
 [fc]
-ジョンが止めてくれたおかげで、今はもう、落ち着い[r]
-ているけど……。[pcms]
+Thanks to John stopping me, I've calmed down now...[pcms]
 
 *3204|
 [fc]
-冷静に考えれば、後先の考えられない人間が、勝手に[r]
-興奮して飛び出していっただけ。[r]
-ついていかないで正解だった。[pcms]
+If I think about it calmly, it was just a reckless person[r]
+getting excited and rushing out on their own. It was right[r]
+not to follow.[pcms]
 
 *3205|
 [fc]
-ふと、自分に関係のある人間の中に、あの人の様な[r]
-存在が無く、また望むべくもない事を再確認して、[r]
-私は暗い気持ちになった。[pcms]
+Suddenly, I reaffirmed that there is no one like that person[r]
+among those related to me, and it's not something I should[r]
+even hope for, which made me feel gloomy.[pcms]
 
 ;//[]SE：修業の鐘の音（？）1ch
 [se0 storage="SE42"]
@@ -142,16 +140,15 @@
 *3206|
 [fc]
 [vo_may s="maya0540"]
-[ns]摩耶[nse]
-「……」[pcms]
+[ns]Maya[nse]
+"..."[pcms]
 
 ;[cutin_int][trans_c cross time=300]
 [cutin storage="BGS01b"][trans_c cross time=500]
 
 *3207|
 [fc]
-シャッターがまた……。[r]
-あの人、閉じこめられてしまったのでは……。[pcms]
+The shutter... That person might have been trapped inside...[pcms]
 
 [stop_se0]
 ;//SE：鐘の音乙
@@ -164,78 +161,77 @@
 *3208|
 [fc]
 [vo_kob s="koba0436"]
-[ns]小林[nse]
-「ねえ、すこしきゅうけいしない？」[pcms]
+[ns]Kobayashi[nse]
+"Hey, shall we take a little break?"[pcms]
 
 *3209|
 [fc]
 [vo_may s="maya0541"]
-[ns]摩耶[nse]
-「え……」[pcms]
+[ns]Maya[nse]
+"Eh...?"[pcms]
 
 [ChrSetEx layer=4 chbase="koba_n02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *3210|
 [fc]
 [vo_kob s="koba0437"]
-[ns]小林[nse]
-「つかれたでしょ？　うえのえいがかんにもどって、[r]
-　すこしやすもうよ」[pcms]
+[ns]Kobayashi[nse]
+"You're tired, right? Let's go back to the movie theater[r]
+upstairs and rest a bit."[pcms]
 
 *3211|
 [fc]
 [vo_may s="maya0542"]
-[ns]摩耶[nse]
-「あの人、待たなくてもいいの……」[pcms]
+[ns]Maya[nse]
+"Is it okay not to wait for that person...?"[pcms]
 
 *3212|
 [fc]
-不自然に、にやつきながら話しかけてきた[r]
-小林という男は、突然、無表情になって、[r]
-シャッターの方に目を向けた。[pcms]
+The man named Kobayashi, who had been talking with a smirk,[r]
+suddenly became expressionless and looked towards the[r]
+shutter.[pcms]
 
 [ChrSetEx layer=4 chbase="koba_n08"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *3213|
 [fc]
 [vo_kob s="koba0438"]
-[ns]小林[nse]
-「いいよ。ヒロはボクより、ありすのほうがすきなん[r]
-　だから」[pcms]
+[ns]Kobayashi[nse]
+"It's fine. Hiro prefers Arisu over me anyway."[pcms]
 
 *3214|
 [fc]
 [vo_may s="maya0543"]
-[ns]摩耶[nse]
-「……」[pcms]
+[ns]Maya[nse]
+"..."[pcms]
 
 *3215|
 [fc]
-好きとか嫌いとか、あの人の頭には無いと思う。[pcms]
+I don't think that person has thoughts of liking or[r]
+disliking in their head.[pcms]
 
 *3216|
 [fc]
-友達だから助ける。[r]
-そういう考えでしかない気がする。[pcms]
+They help because they are friends. That seems to be their[r]
+only reasoning.[pcms]
 
 *3217|
 [fc]
-この男、もしかして、あの人の事を良く思ってないの[r]
-だろうか。[pcms]
+This man, perhaps he doesn't think well of that person.[pcms]
 
 *3218|
 [fc]
-あんなに仲が良い様に見えるのに、心の中には正反対[r]
-の感情があるのかもしれない。[pcms]
+Even though they seem to get along so well, there might be[r]
+completely opposite feelings inside his heart.[pcms]
 
 *3219|
 [fc]
-まるで、私の周りにいる人間みたいに……。[pcms]
+Just like the people around me...[pcms]
 
 *3220|
 [fc]
 [vo_kob s="koba0439"]
-[ns]小林[nse]
-「えいがかんでやすんで、あさになったら、たすけに[r]
-　いけばいいよ。ね♪」[pcms]
+[ns]Kobayashi[nse]
+"Let's rest at the movie theater, and when morning comes, we[r]
+can go help. Okay?♪"[pcms]
 
 ;//＠小林右　安西左
 [chara_int_ layer=4][trans_c cross time=150]
@@ -245,83 +241,84 @@
 *3221|
 [fc]
 [vo_anz s="anzai0356"]
-[ns]みき[nse]
-「そうね。シャッターが閉じてしまったし、行こうと[r]
-　思っても無理だもの。また開くまでの間、休んで[r]
-　おきましょう」[pcms]
+[ns]Mikki[nse]
+"That's right. The shutter has closed, and even if we wanted[r]
+to go now, it would be impossible. Let's rest until it opens[r]
+again."[pcms]
 
 *3222|
 [fc]
 [vo_kob s="koba0440"]
-[ns]小林[nse]
-「そうそう♪」[pcms]
+[ns]Kobayashi[nse]
+"Exactly♪"[pcms]
 
 *3223|
 [fc]
 [vo_may s="maya0544"]
-[ns]摩耶[nse]
-「……」[pcms]
+[ns]Maya[nse]
+"..."[pcms]
 
 
 *3224|
 [fc]
-この男、さっきからずっとニヤけているけど、[r]
-何がおかしいのだろう。[pcms]
+This man has been grinning the whole time, but what's so[r]
+funny?[pcms]
 
 *3225|
 [fc]
-少し前から、この男の言動はどこかおかしい。[r]
-警戒した方がいいかもしれない。[pcms]
+His words and actions have been strange for a while now. It[r]
+might be wise to be cautious.[pcms]
 
 [ChrSetEx layer=2 chbase="anza_n05"][ChrSetXY layer=2 x=0 y=0][trans_c cross time=150]
 *3226|
 [fc]
 [vo_anz s="anzai0357"]
-[ns]みき[nse]
-「じゃあ行きましょう。いつまでもここにいたら、[r]
-　またおかしな人達が来るかもしれないわ」[pcms]
+[ns]Mikki[nse]
+"Then let's go. If we stay here too long, more strange[r]
+people might come."[pcms]
 
 [ChrSetEx layer=3 chbase="koba_n02"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
 *3227|
 [fc]
 [vo_kob s="koba0441"]
-[ns]小林[nse]
-「うん、いこーいこー！」[pcms]
+[ns]Kobayashi[nse]
+"Yeah, let's go-go!"[pcms]
 
 *3228|
 [fc]
 [vo_may s="maya0545"]
-[ns]摩耶[nse]
-「……」[pcms]
+[ns]Maya[nse]
+"..."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *3229|
 [fc]
-別行動を取った方がいいかもしれないと、映画館に行[r]
-くのを少し迷ったが、他に安全に隠れられる場所が思[r]
-いつかず、私は諦めて小林達の後についた。[pcms]
+I hesitated for a moment about going to the movie theater on[r]
+my own, but since I couldn't think of any other safe place[r]
+to hide, I gave up and followed Kobayashi and the others.[pcms]
 
 *3230|
 [fc]
 [vo_may s="maya0546"]
-[ns]摩耶[nse]
-「……」[pcms]
+[ns]Maya[nse]
+"..."[pcms]
 
 *3231|
 [fc]
-４階の映画館へ向かう途中、私はあの人の事が気に[r]
-なって、閉まったシャッターを振り返った。[pcms]
+On the way to the movie theater on the fourth floor, I[r]
+couldn't stop thinking about that person and looked back at[r]
+the closed shutter.[pcms]
 
 *3232|
 [fc]
-あの人なら恐らく、本人の言葉通り、『本当の』友達に[r]
-なってくれただろう。[pcms]
+If it were that person, they probably would have become a[r]
+"true" friend as they said.[pcms]
 
 *3233|
 [fc]
-でも、そうなる機会はもう無いだろうと、私はなぜか[r]
-感じていた。[pcms]
+But I felt somehow that the chance for that to happen was[r]
+already gone.[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
@@ -329,4 +326,4 @@
 
 [jump storage="hayamiroute11080.ks" target=*hayamiroute11080_TOP]
 
-;//－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+;//

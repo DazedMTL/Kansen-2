@@ -26,41 +26,40 @@
 *1621|
 [fc]
 [vo_nao s="naomi0101"]
-[ns]直美[nse]
-「ここにもいないな……。本当に、お前の友達、[r]
-　一緒にいたのか？」[pcms]
+[ns]Naomi[nse]
+"He's not here either... Are you sure your friend was with[r]
+you?"[pcms]
 
 *1622|
 [fc]
-[ns]大倉[nse]
-「いたんだよ……さっきまでいっしょに……。[r]
-　めぇさめたら、おれひとりだったけど……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"He was... until just a moment ago. When I woke up, I was[r]
+alone..."[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
 *1623|
 [fc]
-引きずられたまま、さっきまでとは違う所を見て回っ[r]
-たが、友達はどこにもいなかった。[pcms]
+I was dragged along, and although we looked around a place[r]
+different from before, my friend was nowhere to be found.[pcms]
 
 *1624|
 [fc]
-誰かと一緒にいた事だけは覚えているけど、[r]
-その『誰か』がどこに行ったのかも、名前も思い出せ[r]
-ないままだった。[pcms]
+I remember being with someone, but I can't recall who it[r]
+was, where they went, or even their name.[pcms]
 
 [ChrSetEx layer=4 chbase="turuta_n03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *1625|
 [fc]
 [vo_nao s="naomi0102"]
-[ns]直美[nse]
-「お前、頭打ったのか？　しっかりしろ……！[r]
-　絶対助けてやるから！　急がないと……」[pcms]
+[ns]Naomi[nse]
+"Did you hit your head? Get a grip...! I'll definitely save[r]
+you! We need to hurry..."[pcms]
 
 *1626|
 [fc]
-[ns]大倉[nse]
-「あ、あー……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Ah, ah-..."[pcms]
 
 ;//＠：東棟・四階
 
@@ -76,15 +75,15 @@
 *1627|
 [fc]
 [vo_nao s="naomi0103"]
-[ns]直美[nse]
-「ここでもないか……。この建物、広すぎるな……。[r]
-　見当が付かない……館内放送でも使えれば良いんだ[r]
-　けど……」[pcms]
+[ns]Naomi[nse]
+"Not here either... This building is too big. I have no idea[r]
+where to look... If only we could use the public address[r]
+system..."[pcms]
 
 *1628|
 [fc]
-[ns]大倉[nse]
-「ほうそう……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Public address..."[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
@@ -104,13 +103,13 @@
 *1629|
 [fc]
 [vo_nao s="naomi0104"]
-[ns]直美[nse]
-「……っ！　誰かいる……」[pcms]
+[ns]Naomi[nse]
+"...! There's someone..."[pcms]
 
 *1630|
 [fc]
-[ns]大倉[nse]
-「あ？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Huh?"[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
@@ -119,55 +118,53 @@
 
 *1631|
 [fc]
-直美は俺の口を手で塞ぎ、頭を押さえつけて、[r]
-床に這いつくばらせ、そのまま無言で、人影のある[r]
-方をじっと見つめていた。[pcms]
+Naomi covered my mouth with her hand, pushed down my head,[r]
+made me crawl on the floor, and silently stared intently in[r]
+the direction of the figure.[pcms]
 
 [ChrSetEx layer=4 chbase="turuta_d01"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *1632|
 [fc]
 [vo_nao s="naomi0105"]
-[ns]直美[nse]
-「……あれは、お前の友達か？」[pcms]
+[ns]Naomi[nse]
+"...Is that your friend?"[pcms]
 
 *1633|
 [fc]
-[ns]大倉[nse]
-「あぁ～……？　あれは、たぶんちがうな……。[r]
-　おれのともだちは、おっぱいがでかい……う」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Ahh~...? No, that's probably not them... My friend has big[r]
+tits...ugh"[pcms]
 
 *1634|
 [fc]
-く、苦しい……。[r]
-息が……！[pcms]
+Ugh, it's hard to breathe...![pcms]
 
 *1635|
 [fc]
-[ns]大倉[nse]
-「うぅ～……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Ugh~..."[pcms]
 
 *1636|
 [fc]
-手……邪魔だなぁ……。[r]
-苦しいっての……。[pcms]
+Your hand... it's in the way... I can't breathe...[pcms]
 
 [ChrSetEx layer=4 chbase="turuta_d05"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *1637|
 [fc]
 [vo_nao s="naomi0106"]
-[ns]直美[nse]
-「静かにしていろ……っ！　こっちに来た！」[pcms]
+[ns]Naomi[nse]
+"Keep quiet...! They're coming this way!"[pcms]
 ;//◎囁くように
 
 *1638|
 [fc]
-[ns]大倉[nse]
-「う……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Ugh..."[pcms]
 
 *1639|
 [fc]
-人影が俺達の方に近づいてきて、だんだんよく見える[r]
-様になったけど、その姿にはまるで見覚えはなかった。[pcms]
+The figure approached us and became clearer, but I had[r]
+absolutely no recollection of their appearance.[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 

@@ -25,526 +25,504 @@
 *15025|
 [fc]
 [vo_nag s="nagasaki0261"]
-[ns]千尋[nse]
-「さっきは、ごめんなさいね……。しばったりして。[r]
-　もうあんなことしないから……あんしんして……」[pcms]
+[ns]Chihiro[nse]
+"I'm sorry about earlier... for hitting you. I won't do it[r]
+again... so don't worry..."[pcms]
 
 *15026|
 [fc]
-耳元で囁く長崎さんの息は、妙に熱く湿っていた。[pcms]
+Nagasaki-san's breath, whispering in my ear, was strangely[r]
+hot and damp.[pcms]
 
 *15027|
 [fc]
 [vo_hay s="hayami0574"]
-[ns]ありす[nse]
-「ね……やっぱり……こんなところで……。[r]
-　ヘンだよ……、もう、やめようよ……」[pcms]
+[ns]Arisu[nse]
+"Hey... this is weird... doing it here... Let's stop, it's[r]
+strange... let's stop..."[pcms]
 
 *15028|
 [fc]
 [vo_nag s="nagasaki0262"]
-[ns]千尋[nse]
-「なにが……ヘン……なの……、ふふっ……、[r]
-　てれてるのね……」[pcms]
+[ns]Chihiro[nse]
+"What's so... strange... about it...? Hehe... you're just[r]
+embarrassed..."[pcms]
 
 *15029|
 [fc]
 [vo_hay s="hayami0575"]
-[ns]ありす[nse]
-「んふっ……、やぁっ……、違うの……、[r]
-　あたしの話、聞いてよ……あうっ……」[pcms]
+[ns]Alice[nse]
+"Nfufu... no... that's not it... listen to me... ahh..."[pcms]
 
 *15030|
 [fc]
-太ももやアソコを這い回る、エッチな液が絡みついた[r]
-長崎さんの指が、あたしのアソコの中に、[r]
-滑り込まされた。[pcms]
+Nagasaki-san's fingers, slick with naughty fluids, crawled[r]
+over my thighs and slipped into my pussy.[pcms]
 
 [evcg storage="HEV207c"][trans_c cross time=301]
 
 *15031|
 [fc]
-すでにドロドロになっている中を、細長い指が、[r]
-ゆっくりと掻き回す。[pcms]
+Her slender fingers stirred slowly inside my already[r]
+drenched insides.[pcms]
 
 *15032|
 [fc]
 [vo_hay s="hayami0576"]
-[ns]ありす[nse]
-「はうっ……やっ……や、やあぁ……、[r]
-　やめ、やめて……あぅぅ……っ！」[pcms]
+[ns]Alice[nse]
+"Hauh... no... no, nooo... stop, stop it... ahh...!"[pcms]
 
 *15033|
 [fc]
 [vo_nag s="nagasaki0263"]
-[ns]千尋[nse]
-「あなたのなか……あつくて……やわらかい……、[r]
-　あたしのゆび、きもちいいかしら……？」[pcms]
+[ns]Chihiro[nse]
+"Inside you... it's so hot... and soft... Do my fingers feel[r]
+good...?"[pcms]
 
 *15034|
 [fc]
-そういって、長崎さんは、あたしのアソコの入り口を、[r]
-何度も前後させ、内側を擦り上げた。[pcms]
+Saying that, Nagasaki-san moved her fingers back and forth[r]
+at the entrance of my pussy, rubbing the inside.[pcms]
 
 *15035|
 [fc]
-指を抜き差しされるたびに、あたしのアソコからは、[r]
-水気を帯びた音が響き渡る。[pcms]
+With each thrust of her fingers, wet sounds echoed from my[r]
+pussy.[pcms]
 
 *15036|
 [fc]
-自分でシた時と違う予想の出来ない、じれったい[r]
-指の動きは、かえってあたしの気持ちを高ぶらせた。[pcms]
+The unpredictable and frustrating movements of her fingers,[r]
+unlike when I do it myself, only served to heighten my[r]
+arousal.[pcms]
 
 *15037|
 [fc]
 [vo_hay s="hayami0577"]
-[ns]ありす[nse]
-「や、あ……、そこ、違う……、もっと……うぅ……。[r]
-　もっと……上のほう……」[pcms]
+[ns]Alice[nse]
+"No, ah... not there... higher up... uhh... More...[r]
+higher..."[pcms]
 
 *15038|
 [fc]
-思わず自分からおねだりしてしまう程、長崎さんの[r]
-指の動きはあたしのエッチな気持ちを高ぶらせる。[pcms]
+Driven by Nagasaki-san's finger movements, I found myself[r]
+begging for more, my naughty feelings escalating.[pcms]
 
 *15039|
 [fc]
 [vo_nag s="nagasaki0264"]
-[ns]千尋[nse]
-「ふふっ……おねだり……？　えっちね……。[r]
-　でも、そういうの……きらいじゃ、ない……わ……。[r]
-　ちゅっ……」[pcms]
+[ns]Chihiro[nse]
+"Hehe... begging, are we? How lewd... But I don't dislike[r]
+that... at all... Mwah..."[pcms]
 
 *15040|
 [fc]
 [vo_hay s="hayami0578"]
-[ns]ありす[nse]
-「んっ……ふあっ……。くすぐったい……、あ、ああ、[r]
-　指……そんなに激しくしちゃ……あぅううぅ！」[pcms]
+[ns]Arisu[nse]
+"Nnh... fuahh... It tickles... ah, ahh, don't move your[r]
+fingers so fiercely... ahhhh!"[pcms]
 
 *15041|
 [fc]
-首筋にキスされたまま、アソコの中の指を大きく[r]
-動かされたあたしは、その指を追い求めるように、[r]
-腰を動かしてしまう。[pcms]
+While being kissed on the neck, the fingers inside my pussy[r]
+moved vigorously, and I found myself chasing after them by[r]
+moving my hips.[pcms]
 
 *15042|
 [fc]
 [vo_nag s="nagasaki0265"]
-[ns]千尋[nse]
-「きついわね……。あなた、まだけいけん……、[r]
-　ないのね……」[pcms]
+[ns]Chihiro[nse]
+"You're tight... You're still inexperienced, aren't you..."[pcms]
 
 *15043|
 [fc]
 [vo_hay s="hayami0579"]
-[ns]ありす[nse]
-「ま……まだ……。さっきは……違うし……、[r]
-　イヤァ……そんなこと聞かないでよ！」[pcms]
+[ns]Arisu[nse]
+"I'm still... It was different earlier... I don't want to[r]
+talk about it!"[pcms]
 
 *15044|
 [fc]
 [vo_nag s="nagasaki0266"]
-[ns]千尋[nse]
-「……さっきの、オッサンのこと……？　ふん……」[pcms]
+[ns]Chihiro[nse]
+"...About that old man earlier...? Hmph..."[pcms]
 
 *15045|
 [fc]
 [vo_hay s="hayami0580"]
-[ns]ありす[nse]
-「あうぅ……、ふあっ！？　やあっ……、そんな、[r]
-　そんなに乱暴にしないで！」[pcms]
+[ns]Arisu[nse]
+"Ahh! Fuah!? Noo... don't be so rough!"[pcms]
 
 *15046|
 [fc]
-長崎さんは急にあたしの中に入れた指を、乱暴に[r]
-掻き回し始めた。[pcms]
+Suddenly, Nagasaki-san started to stir her fingers inside me[r]
+roughly.[pcms]
 
 *15047|
 [fc]
-『さっき』って言ったあと、[r]
-長崎さんは怒ったみたい……。[pcms]
+After she mentioned "earlier," Nagasaki-san seemed angry...[pcms]
 
 *15048|
 [fc]
-あのオジサンに、あたしが犯された事を怒ってるの？[pcms]
+Is she angry that I was violated by that old man?[pcms]
 
 *15049|
 [fc]
-でも、なんでこの人が……。[pcms]
+But why would she be...[pcms]
 
 *15050|
 [fc]
 [vo_nag s="nagasaki0267"]
-[ns]千尋[nse]
-「あんなオッサンのことなんて……、[r]
-　アタシがわすれさせてあげる！！」[pcms]
+[ns]Chihiro[nse]
+"Forget about that old man... I'll make you forget!!"[pcms]
 
 *15051|
 [fc]
 [vo_hay s="hayami0581"]
-[ns]ありす[nse]
-「ひうっ！？　あうぅうっ！！　やだぁ、キツイよ！[r]
-　そんなに……やあぁああぁ！！」[pcms]
+[ns]Arisu[nse]
+"Hiuh!? Ahhh!! No, it's too much! It's too intense...[r]
+noooo!!"[pcms]
 
 *15052|
 [fc]
-急にアソコのなかが苦しくなって、長崎さんに何を[r]
-されているのか心配になったあたしは、恐る恐る、[r]
-視線を、アソコの方に移してみた。[pcms]
+Suddenly feeling discomfort inside my pussy, I became[r]
+worried about what Nagasaki-san was doing and timidly[r]
+shifted my gaze down there.[pcms]
 
 *15053|
 [fc]
-熱く火照るあたしのアソコは、長崎さんの白くて[r]
-キレイな手で覆い隠されていたけど、その手の動きで、[r]
-あたしの中に二本の指が埋められているのが分かった。[pcms]
+My hot and flushed pussy was covered by Nagasaki-san's white[r]
+and beautiful hand, but through her movements, I could tell[r]
+that two fingers were buried inside me.[pcms]
 
 *15054|
 [fc]
-その二本の指は、まるで別々の生き物の様に、[r]
-あたしの中を音を立てて掻き回している。[pcms]
+The two fingers moved inside me as if they were separate[r]
+creatures, stirring noisily.[pcms]
 
 *15055|
 [fc]
 [vo_hay s="hayami0582"]
-[ns]ありす[nse]
-「なっ……そんな……二本も……！？[r]
-　怖い……あうっ……怖いよっ！」[pcms]
+[ns]Alice[nse]
+"What... two fingers at once!? I'm scared... ahh! I'm[r]
+scared!"[pcms]
 
 *15056|
 [fc]
 [vo_nag s="nagasaki0268"]
-[ns]千尋[nse]
-「ほらぁ……きもちいいんでしょ……、ねぇ……？[r]
-　なにかいいなさいよ……、ほらぁ！」[pcms]
+[ns]Chihiro[nse]
+"Look... it feels good, doesn't it? Tell me something[r]
+nice... come on!"[pcms]
 
 *15057|
 [fc]
 [vo_hay s="hayami0583"]
-[ns]ありす[nse]
-「あっ！！　うんっ……やあっ……やっ！[r]
-　き、気持ちいい……気持ちいいっ……、中……、[r]
-　中が……うぅ……」[pcms]
+[ns]Alice[nse]
+"Ah!! Yes... no! It feels good... it feels good inside...[r]
+inside is... uhh..."[pcms]
 
 *15058|
 [fc]
 [vo_nag s="nagasaki0269"]
-[ns]千尋[nse]
-「なかが、なに？　ここがいいの……？　うらがわ、[r]
-　つぶつぶしたの、わかるわよ……、それに、[r]
-　くりとりすもこんなにして……ふふっ……」[pcms]
+[ns]Chihiro[nse]
+"Inside is what? This spot feels good? You can feel the[r]
+bumpy underside, right? And your clit is getting like this[r]
+too... hehe..."[pcms]
 
 *15059|
 [fc]
-アソコの裏側と、痛いほど突っ張ったクリを、[r]
-長崎さんは、同時に、器用に指先で挟み付ける。[pcms]
+Nagasaki-san skillfully pinched both the underside of my[r]
+pussy and my painfully engorged clit with her fingertips[r]
+simultaneously.[pcms]
 
 *15060|
 [fc]
 [vo_hay s="hayami0584"]
-[ns]ありす[nse]
-「んうぁぁぁぁあ、あうぅ、い……いや……やだ！[r]
-　痺れる……いやぁ……おしっこ出ちゃいそう！！[r]
-　やぁぁ、やめて、それっ！　やめてぇ！！」[pcms]
+[ns]Arisu[nse]
+"Nuaaaaah, ahhh, no... no! It's numbing! Nooo... I feel like[r]
+I'm going to pee!! Nooo, stop that! Stop it!!"[pcms]
 
 *15061|
 [fc]
-クリを、皮の上から押しつけられた後、タイミングを[r]
-見計らったかのようにその真裏を押し上げられて、[r]
-あたしのアソコの中から熱いのが溢れだした。[pcms]
+After pressing down on my clit from above the skin, she[r]
+pushed up from right underneath at just the right moment,[r]
+causing something hot to overflow from inside my pussy.[pcms]
 
 *15062|
 [fc]
 [vo_nag s="nagasaki0270"]
-[ns]千尋[nse]
-「あらぁ……アタシのゆびに、また……えっちな[r]
-　しる、たくさんにじんできたわ……、すごいわね、[r]
-　あなたの……。あはっ……ふふふっ！」[pcms]
+[ns]Chihiro[nse]
+"Oh my... My fingers are wet again with your naughty[r]
+juices... amazing, isn't it, yours... Ahah! Hehehe!"[pcms]
 
 *15063|
 [fc]
 [vo_hay s="hayami0585"]
-[ns]ありす[nse]
-「はっ……はっ……、うぅ……溢れて止まらない……。[r]
-　何で……こんな……あうぅ……ふぁ……」[pcms]
+[ns]Arisu[nse]
+"Hah... hah... uhh... It won't stop overflowing. Why is this[r]
+happening... ahh... fah..."[pcms]
 
 *15064|
 [fc]
 [vo_nag s="nagasaki0271"]
-[ns]千尋[nse]
-「そうだわ……あなたに、いいもの、あげる……」[pcms]
+[ns]Chihiro[nse]
+"That's right... I have something nice for you..."[pcms]
 
 *15065|
 [fc]
 [vo_hay s="hayami0586"]
-[ns]ありす[nse]
-「……？？　な、何……？　なにを……」[pcms]
+[ns]Arisu[nse]
+"...?? What? What is it?"[pcms]
 
 *15066|
 [fc]
-長崎さんは、あたしのアソコから指を抜いて、[r]
-横に置いてあった制服から、何かを取り出した。[pcms]
+Nagasaki-san pulled her fingers out of my pussy and took[r]
+something out of the uniform lying beside us.[pcms]
 
 *15067|
 [fc]
 [vo_nag s="nagasaki0272"]
-[ns]千尋[nse]
-「これ……たのしいわよ……、ふふっ……、[r]
-　すごく、きもちいいわよ……あたしも、なんどか、[r]
-　ため、して、みたけど……すごいわよ……」[pcms]
+[ns]Chihiro[nse]
+"This is fun... hehe... it feels really good. I've tried it[r]
+several times myself too... it's amazing..."[pcms]
 
 *15068|
 [fc]
-長崎さんの手には、小さなピンク色のオモチャが[r]
-握られていた。[pcms]
+In Nagasaki-san's hand was a small pink toy.[pcms]
 
 *15069|
 [fc]
 [vo_hay s="hayami0587"]
-[ns]ありす[nse]
-「そ、そんなの……どこから！？」[pcms]
+[ns]Alice[nse]
+"Where did you get that from!?"[pcms]
 
 ;//[ChrSetEx layer=4 chbase="naga_n02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *15070|
 [fc]
 [vo_nag s="nagasaki0273"]
-[ns]千尋[nse]
-「あのオッサンがもっていたの、かりた……」[pcms]
+[ns]Chihiro[nse]
+"I borrowed it from that old man..."[pcms]
 
 *15071|
 [fc]
-あのオジサン、いったい何をしにここに来たんだろう、[r]
-訳が分からない……。[pcms]
+I wonder what that old man came here for; nothing makes[r]
+sense...[pcms]
 
 *15072|
 [fc]
-あたしの今の状態も、[r]
-何がなんだか分からないけど……。[pcms]
+My current situation is just as confusing...[pcms]
 
 *15073|
 [fc]
-色々エッチなところ弄られて……、[r]
-それに、いつの間にか長崎さんのペースに乗せられて。[pcms]
+I've been played with in various naughty places and somehow[r]
+ended up following Nagasaki-san's pace.[pcms]
 
 [evcg storage="HEV207d"][trans_c cross time=301]
 
 *15074|
 [fc]
-そんな事をぼうっと考えていると、[r]
-長崎さんは、オモチャを持った手を、[r]
-あたしのクリに押しつけた。[pcms]
+As I was lost in thought, Nagasaki-san pressed the toy[r]
+against my clit with her hand holding it.[pcms]
 
 [evcg storage="HEV207d"][trans_c cross time=301]
 
 *15075|
 [fc]
 [vo_hay s="hayami0588"]
-[ns]ありす[nse]
-「あ、ああっ……！？　ひっ！　いやぁ！！[r]
-　いやっ……す、凄いっ！！　ああぁああ！[r]
-　いやぁあぁ！！　凄いぃッ！」[pcms]
+[ns]Arisu[nse]
+"Ah, aah...! Hik! Noo!! No... it's, it's amazing!! Aaahhh![r]
+Nooo!! It's incredible!"[pcms]
 
 *15076|
 [fc]
-突然与えられた刺激にあたしは、[r]
-我を忘れて叫んでいた。[pcms]
+The sudden stimulation made me forget myself and scream out[r]
+loud.[pcms]
 
 ;//[ChrSetEx layer=4 chbase="naga_n04"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *15077|
 [fc]
 [vo_nag s="nagasaki0274"]
-[ns]千尋[nse]
-「よだれ、たらしちゃって……、かわいいわ……。[r]
-　こんなのはじめてでしょ……。もっときもちよく[r]
-　してあげるから……ふふっ……ふふふふっ……」[pcms]
+[ns]Chihiro[nse]
+"You're drooling... how cute... This is your first time with[r]
+something like this, isn't it...? I'll make you feel even[r]
+better... hehe... hehehe..."[pcms]
 
 [evcg storage="HEV207e"][trans_c cross time=301]
 
 *15078|
 [fc]
 [vo_hay s="hayami0589"]
-[ns]ありす[nse]
-「あぅっ！　ああぁぁ……、も、もう……ダメぇ！[r]
-　また、ヘンにッ！！　頭がヘンになるっ！」[pcms]
+[ns]Arisu[nse]
+"Ahh! Aaah... I can't... I can't take it anymore! It's[r]
+getting weird again!! My head's going to get all weird!"[pcms]
 
 *15079|
 [fc]
 [vo_nag s="nagasaki0275"]
-[ns]千尋[nse]
-「ヘン……じゃ、ない……わ……。イク、って……[r]
-　それが、イク、よ……。さっき、の、と、いっしょ、[r]
-　イクって、いいなさい……ふふっ……」[pcms]
+[ns]Chihiro[nse]
+"Weird... no, that's not it... It's coming... that's what[r]
+coming is... Just like before, say you're coming... hehe..."[pcms]
 
 *15080|
 [fc]
-クリだけを執拗に刺激されて、あたしはもう、[r]
-さっきみたいに体がふわふわし始めていた。[pcms]
+Being relentlessly stimulated just on my clit, my body[r]
+started to feel light and floaty just like before.[pcms]
 
 *15081|
 [fc]
-長崎さんの言うように、これがイクって事なら……。[r]
-あたしは今日、何度イッたんだろう……。[pcms]
+If what Nagasaki-san says is true, and this is what coming[r]
+is... how many times have I come today...?[pcms]
 
 *15082|
 [fc]
 [vo_nag s="nagasaki0276"]
-[ns]千尋[nse]
-「どう、すごいでしょ……、サービス、してあげる、[r]
-　ふふっ……」[pcms]
+[ns]Chihiro[nse]
+"How is it, amazing right...? Here's a little service for[r]
+you, hehe..."[pcms]
 
 *15083|
 [fc]
 [vo_hay s="hayami0590"]
-[ns]ありす[nse]
-「……？　あうっ！！　やっ！　うああっ！？[r]
-　何？　何を……ああ――っ、あぁっ！」[pcms]
+[ns]Arisu[nse]
+"...? Ahh!! Stop! Uwaaah!? What? What are you... Ahh--ahh!"[pcms]
 
 *15084|
 [fc]
-クリをオモチャで責めながら、長崎さんは[r]
-開いている指を中に入れてきた。[pcms]
+While tormenting my clit with the toy, Nagasaki-san slipped[r]
+her fingers inside me.[pcms]
 
 *15085|
 [fc]
-さっき指でされていた時と同じように、[r]
-オモチャでクリを、指でその裏側を弄られて、[r]
-あたしはもう限界だった。[pcms]
+Just like when she used her fingers before, with the toy on[r]
+my clit and her fingers playing with the underside, I was at[r]
+my limit.[pcms]
 
 *15086|
 [fc]
 [vo_hay s="hayami0591"]
-[ns]ありす[nse]
-「い、イクッ！！　イッちゃう！！　も、もうダメ！[r]
-　い、イクッ！！　あっ、あっ……あうぅう！！」[pcms]
+[ns]Arisu[nse]
+"I'm coming!! I'm gonna come!! I can't anymore! I'm coming!![r]
+Ah, ah... ahhhh!!"[pcms]
 
 *15087|
 [fc]
 [vo_nag s="nagasaki0277"]
-[ns]千尋[nse]
-「あはっ……あははっ……イッちゃうの？[r]
-　イッちゃう……？　かわいい……かわいい……！！[r]
-　……でも、まだ、おあず、け……ふふっ……」[pcms]
+[ns]Chihiro[nse]
+"Ahaha... ahahaha... Are you going to come? Are you[r]
+coming...? How cute... how cute...!! ...But, not yet, hold[r]
+on... hehe..."[pcms]
 
 *15088|
 [fc]
 [vo_hay s="hayami0592"]
-[ns]ありす[nse]
-「あ……あぁっ……！？　どうして……！？[r]
-　あうっ……どうして、止めちゃうの……！」[pcms]
+[ns]Alice[nse]
+"Ah... ahh...!? Why...!? Ahh... why did you stop...!"[pcms]
 
 *15089|
 [fc]
-もう少しでイキそうだったのに、長崎さんは[r]
-オモチャも、アソコに入れていた指も全部、[r]
-止めてしまった。[pcms]
+Just when I felt like I was about to come, Nagasaki-san[r]
+stopped everything, the toy and the fingers she had inside[r]
+me.[pcms]
 
 *15090|
 [fc]
 [vo_hay s="hayami0593"]
-[ns]ありす[nse]
-「うぅ……酷いよぉ……こんなの……。[r]
-　あううっ……あぁっ……」[pcms]
+[ns]Arisu[nse]
+"Ugh... that's mean... doing this to me... Ahhh... ahh..."[pcms]
 
 *15091|
 [fc]
-イクことはなかったけど、じわじわと続く快感が、[r]
-アソコの入り口や、下腹部に残っている。[pcms]
+Even though I didn't come, the lingering pleasure continued[r]
+to throb at the entrance of my pussy and in my lower[r]
+abdomen.[pcms]
 
 ;//[ChrSetEx layer=4 chbase="naga_n02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *15092|
 [fc]
 [vo_nag s="nagasaki0278"]
-[ns]千尋[nse]
-「ねえ……イキたい……？　イキたいの……？[r]
-　ふふっ……イキたいなら、はっきりいってね……。[r]
-　イかせてくだ、さい……って、ふふっ……」[pcms]
+[ns]Chihiro[nse]
+"Hey... do you want to come? Do you want to? Hehe... If you[r]
+want to come, say it clearly... 'Please let me come'...[r]
+hehe..."[pcms]
 
 *15093|
 [fc]
-涙で潤んで、よく見えなかったけど、[r]
-長崎さんの顔は、楽しそうに笑っていた。[pcms]
+My eyes were blurry with tears, but I could see Nagasaki-[r]
+san's face smiling happily.[pcms]
 
 *15094|
 [fc]
-恥ずかしいけど……。[r]
-あたし、このままじゃヘンになっちゃう……。[pcms]
+It's embarrassing but... If it continues like this, I'll go[r]
+crazy...[pcms]
 
 *15095|
 [fc]
 [vo_hay s="hayami0594"]
-[ns]ありす[nse]
-「ああ……、せて……ください……」[pcms]
+[ns]Alice[nse]
+"Ah... please..."[pcms]
 
 *15096|
 [fc]
 [vo_nag s="nagasaki0279"]
-[ns]千尋[nse]
-「……？」[pcms]
+[ns]Chihiro[nse]
+"...?"[pcms]
 ;//◎楽しそうに
 
 *15097|
 [fc]
 [vo_hay s="hayami0595"]
-[ns]ありす[nse]
-「イ……イカせて……、イカせてください！！[r]
-　お願いします……あたし、このままじゃ……、[r]
-　ヘンになる！！　ヘンになっちゃうよ！！」[pcms]
+[ns]Alice[nse]
+"Let me come... Please let me come!! Please... If it[r]
+continues like this, I'll go crazy!! I'll really go crazy!!"[pcms]
 
 *15098|
 [fc]
-恥ずかしさで息を荒くして、あたしは長崎さんに[r]
-懇願すると、口元を歪めて笑った。[pcms]
+Breathing heavily with embarrassment, I begged Nagasaki-san[r]
+who then twisted her mouth into a smile.[pcms]
 
 ;//[ChrSetEx layer=4 chbase="naga_n04"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *15099|
 [fc]
 [vo_nag s="nagasaki0280"]
-[ns]千尋[nse]
-「ふふっ……よく、いえました……、[r]
-　ごほうび……あげる……」[pcms]
+[ns]Chihiro[nse]
+"Hehe... you said it well... here's your reward..."[pcms]
 
 *15100|
 [fc]
-そのあとすぐにまた、クリとアソコの中に強烈な[r]
-刺激が襲ってきた。[pcms]
+Right after that, intense stimulation attacked my clit and[r]
+pussy again.[pcms]
 
 *15101|
 [fc]
 [vo_nag s="nagasaki0281"]
-[ns]千尋[nse]
-「ふふっ……うふふっ……あはははっ……、[r]
-　あはははっ！！　イキなさい！！　ほら！　[r]
-　イキなさい！！」[pcms]
+[ns]Chihiro[nse]
+"Hehe... uhuhu... ahahaha!! Ahahaha!! Come on!! Come now!!"[pcms]
 
 *15102|
 [fc]
-クリに押しつけられた小刻みに震えるオモチャを、[r]
-左右に大きく揺さぶられて、そのうえアソコの中の[r]
-指は、乱暴にあたしの中を掻き回す。[pcms]
+The toy pressed against my clit vibrated rapidly, shaking[r]
+violently from side to side, and on top of that, the fingers[r]
+inside my pussy were stirring me up roughly.[pcms]
 
 *15103|
 [fc]
-オモチャのモーターの音と、アソコの中からの音が、[r]
-いっそう激しく響き、そしてそれはあたしの頭の中も、[r]
-大きく揺さぶった。[pcms]
+The sound of the toy's motor and the sounds from inside my[r]
+pussy echoed even more intensely, shaking my head as well.[pcms]
 
 *15104|
 [fc]
-頭の中がチカチカして、また、あの体が軽くなる[r]
-感覚が、あたしに襲いかかってきた。[pcms]
+My head was spinning and that sensation of my body becoming[r]
+light was attacking me again.[pcms]
 
 *15105|
 [fc]
 [vo_hay s="hayami0596"]
-[ns]ありす[nse]
-「あ！　あ！！　ああっ！！　うぁぁあッ！[r]
-　イ……イッ……イクッ！！　やっ！！[r]
-　イクぅ！！　イクうぅぅぅううッ！！」[pcms]
+[ns]Alice[nse]
+"Ah! Ah!! Aaahh!! Uwaaaah! I'm coming!! Stop!! I'm coming!![r]
+I'm cooomiiing!!"[pcms]
 
 ;//★ホワイトフラッシュ
 [白フラ]
@@ -557,57 +535,52 @@
 *15106|
 [fc]
 [vo_nag s="nagasaki0282"]
-[ns]千尋[nse]
-「あはははははは！！　はでにイッたわね……、[r]
-　ふふっ！！　あははは！！　しおまでふいて……、[r]
-　うれしい……うれしい！　あははっ！」[pcms]
+[ns]Chihiro[nse]
+"Ahahahahaha!! You came so flamboyantly... hehe!! Ahahaha!![r]
+You even squirted... I'm so happy... so happy! Ahaha!"[pcms]
 
 *15107|
 [fc]
 [vo_hay s="hayami0597"]
-[ns]ありす[nse]
-「あうぅぅ……あ、ああぁ……うぅん……」[pcms]
+[ns]Alice[nse]
+"Ahhh... ah, aahh... mmm..."[pcms]
 
 *15108|
 [fc]
-イッちゃった……。[r]
-また、イッちゃった……。[pcms]
+I came again... I came once more...[pcms]
 
 *15109|
 [fc]
-そのことが何故か猛烈に恥ずかしくて、[r]
-それにまだ、アソコがむずむずする感覚があって、[r]
-思わず身をよじる。[pcms]
+The fact that I had just come was incredibly embarrassing[r]
+for some reason, and the tingling sensation in my pussy was[r]
+still there, making me involuntarily squirm.[pcms]
 
 *15110|
 [fc]
 [vo_nag s="nagasaki0283"]
-[ns]千尋[nse]
-「かわいいわ……あなた……。[r]
-　ずっと、あたしといっしょにいて……、ね……」[pcms]
+[ns]Chihiro[nse]
+"You're so cute... you are... Stay with me forever... okay?"[pcms]
 
 *15111|
 [fc]
 [vo_hay s="hayami0598"]
-[ns]ありす[nse]
-「あ……ふあっ……、も……もう……」[pcms]
+[ns]Alice[nse]
+"Ah... fuahh... no more..."[pcms]
 
 *15112|
 [fc]
-ぐったりしたあたしの耳には、長崎さんの声が[r]
-遠くから聞こえてきていた。[pcms]
+Nagasaki-san's voice sounded distant to my exhausted ears.[pcms]
 
 *15113|
 [fc]
-もう、体が動かないよ……。[r]
-こんなの……。[pcms]
+I can't move anymore... This is too much...[pcms]
 
 ;//------------------------------------------------
 [if exp="tf.scene_mode==1"]
 	[jump storage="b_scene.ks" target=*back_from_SR]
 ;	[link storage=sceneAgain]もう一度見る[endlink]
 ;	[link storage=sceneList]一覧に戻る[endlink]
-;	[s]
+[pcms]
 [endif]
 
 *KAISOU_PASS

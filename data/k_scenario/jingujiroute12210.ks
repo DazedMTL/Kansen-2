@@ -26,8 +26,8 @@
 
 *5410|
 [fc]
-[ns]大倉[nse]
-「！？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"！？"[pcms]
 
 ;//[]BG表示
 ;//★ＢＧ：地下搬入口
@@ -43,20 +43,19 @@
 
 *5411|
 [fc]
-[ns]大倉[nse]
-「な、なんだ！？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"What the...!?"[pcms]
 
 *5412|
 [fc]
-地震……！？[r]
-それとも、また爆発事故か……！？[pcms]
+An earthquake...!? Or another explosion accident...!?[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
 *5413|
 [fc]
-大きな揺れと、何かが爆発したような音で、俺は目を[r]
-覚まし、慌てて周りを見回した。[pcms]
+I woke up to a large tremor and the sound of something[r]
+exploding, and I hurriedly looked around.[pcms]
 
 ;//＠神宮寺　帽子なし版
 
@@ -64,158 +63,155 @@
 *5414|
 [fc]
 [vo_may s="maya0430"]
-[ns]摩耶[nse]
-「やっとおきた……」[pcms]
+[ns]Maya[nse]
+"You finally woke up..."[pcms]
 
 *5415|
 [fc]
-[ns]大倉[nse]
-「マヤちゃん！　にげないと！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Maya-chan! We have to escape!!"[pcms]
 
 *5416|
 [fc]
-いつの間にか、完全に元に戻っていた俺の目は、隣に[r]
-座って薄く笑うマヤちゃんの顔を、ハッキリと捉えて[r]
-いた。[pcms]
+Before I knew it, my eyes had completely adjusted, and I[r]
+could clearly see Maya-chan's face, sitting next to me with[r]
+a faint smile.[pcms]
 
 *5417|
 [fc]
-[ns]大倉[nse]
-「マヤちゃん、それ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Maya-chan, that..."[pcms]
 
 ;//♪：bgm009
 [bgm storage="bgm009"]
 
 *5418|
 [fc]
-屋上で見た速水のように、彼女の服はあちこちが引き[r]
-裂かれてボロボロになっている。[pcms]
+Like Hayami I saw on the rooftop, her clothes were torn here[r]
+and there, ragged.[pcms]
 
 *5419|
 [fc]
-その引き裂かれた服の間に見えている肌には、血が滲[r]
-んでいる傷とか、誰かに噛まれたような傷跡が幾つも[r]
-あった。[pcms]
+The skin visible through those torn clothes had wounds[r]
+seeping with blood and several marks as if bitten by[r]
+someone.[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_a04"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *5420|
 [fc]
 [vo_may s="maya0431"]
-[ns]摩耶[nse]
-「ヒロシ……」[pcms]
+[ns]Maya[nse]
+"Hiroshi..."[pcms]
 
 *5421|
 [fc]
-[ns]大倉[nse]
-「ん……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Hmm...?"[pcms]
 
 *5422|
 [fc]
-手を伸ばし、背中に腕を回してきたマヤちゃんを、[r]
-俺も抱きしめ返す。[pcms]
+I reached out my hand, and Maya-chan, who wrapped her arms[r]
+around my back, was embraced by me in return.[pcms]
 
 *5423|
 [fc]
-強く押しつけられた体から、温度と、柔らかさと、[r]
-小さい震えが伝わってくる。[pcms]
+The warmth, softness, and slight trembling from her pressed[r]
+body were transmitted to me.[pcms]
 
 *5424|
 [fc]
-[ns]大倉[nse]
-「どうしたの……？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"What's wrong...?"[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_a09"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *5425|
 [fc]
 [vo_may s="maya0432"]
-[ns]摩耶[nse]
-「ヒロシは……ほんとうの、ともだち……」[pcms]
+[ns]Maya[nse]
+"Hiroshi is... a real friend..."[pcms]
 
 *5426|
 [fc]
-[ns]大倉[nse]
-「え？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Eh?"[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_a04"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *5427|
 [fc]
 [vo_may s="maya0433"]
-[ns]摩耶[nse]
-「ずっと……いっしょう、わたしと……ともだちでい[r]
-　てくれる……？」[pcms]
+[ns]Maya[nse]
+"Will you... always be friends with me... for life...?"[pcms]
 
 *5428|
 [fc]
-[ns]大倉[nse]
-「あたりまえだよ。マヤちゃんは、おれのだいじな[r]
-　ともだちだ」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Of course. Maya-chan is my precious friend."[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_a02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *5429|
 [fc]
 [vo_may s="maya0434"]
-[ns]摩耶[nse]
-「ふ……」[pcms]
+[ns]Maya[nse]
+"Heh..."[pcms]
 
 *5430|
 [fc]
-薄く笑うと、マヤちゃんの呼吸は急に荒くなっていき、[r]
-俺の背中に回した手に、力がこめられる。[pcms]
+With a faint smile, Maya-chan's breathing suddenly became[r]
+rough, and strength was put into her hand that was wrapped[r]
+around my back.[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_a04"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *5431|
 [fc]
 [vo_may s="maya0435"]
-[ns]摩耶[nse]
-「……ずっと……そばに……ヒロシの、そばに……[r]
-　いるから……」[pcms]
+[ns]Maya[nse]
+"...always... by your side... I'll be by Hiroshi's side..."[pcms]
 
 *5432|
 [fc]
-[ns]大倉[nse]
-「うん、わかってる……おれも、マヤちゃんのそばに[r]
-　いるよ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Yeah, I understand... I'll also be by Maya-chan's side..."[pcms]
 
 *5433|
 [fc]
 [vo_may s="maya0436"]
-[ns]摩耶[nse]
-「もっと……もっと、そばにきて……」[pcms]
+[ns]Maya[nse]
+"Come closer... come closer to me..."[pcms]
 
 *5434|
 [fc]
-[ns]大倉[nse]
-「……？」[pcms]
+[ns]Ookura[nse]
+"...?"[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_a09"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *5435|
 [fc]
 [vo_may s="maya0437"]
-[ns]摩耶[nse]
-「セックスして……ヒロシがそばにいるって……かん[r]
-　じたい……」[pcms]
+[ns]Maya[nse]
+"Have sex with me... I want to feel that Hiroshi is close[r]
+by..."[pcms]
 
 *5436|
 [fc]
-どこかで何かが爆発するような音と、それと一緒に起[r]
-きる揺れが、ずっと続いている。[pcms]
+Sounds like something exploding somewhere and the[r]
+accompanying tremors continued incessantly.[pcms]
 
 *5437|
 [fc]
-逃げた方がいいとは思っていたけど、マヤちゃんの切[r]
-なげな瞳から、俺は目を離せなくなっていた。[pcms]
+Although I thought we should escape, I couldn't take my eyes[r]
+off Maya-chan's wistful gaze.[pcms]
 
 *5438|
 [fc]
-彼女の体から伝わってくる温度、柔らかさ、甘い匂い[r]
-のせいで、俺は頭の奥がシビれたようになっていて、[r]
-外で何が起きてようが、どうでもよくなっていた。[pcms]
+The warmth, softness, and sweet scent coming from her body[r]
+made my head tingle as if numbed, and whatever was happening[r]
+outside seemed irrelevant.[pcms]
 
 *5439|
 [fc]
-[ns]大倉[nse]
-「マヤちゃん……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Maya-chan..."[pcms]
 
 
 ;BGM即時停止
@@ -247,38 +243,38 @@
 
 *5440|
 [fc]
-俺の口は、自然とマヤちゃんに吸い寄せられていって、[r]
-彼女の唇に重なった。[pcms]
+My lips naturally gravitated towards Maya-chan's, and they[r]
+overlapped with hers.[pcms]
 
 *5441|
 [fc]
 [vo_may s="maya0438"]
-[ns]摩耶[nse]
-「んふ……」[pcms]
+[ns]Maya[nse]
+"Nnh..."[pcms]
 
 *5442|
 [fc]
-[ns]大倉[nse]
-「は、ん……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Ha, nnh..."[pcms]
 
 [evcg storage="HEV110a"][trans_c cross time=301]
 
 *5443|
 [fc]
-しばらくの間、彼女とお互いの口の中を撫で回して、[r]
-俺は口を離した。[pcms]
+For a while, we caressed each other's mouths, and then I[r]
+pulled away.[pcms]
 
 ;//[ChrSetEx layer=4 chbase="jinguji_a09"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *5444|
 [fc]
 [vo_may s="maya0439"]
-[ns]摩耶[nse]
-「あ……」[pcms]
+[ns]Maya[nse]
+"Ah..."[pcms]
 
 *5445|
 [fc]
-まだしていたい、という顔をするマヤちゃんを、[r]
-俺はゆっくりと、床に寝かせた。[pcms]
+Seeing Maya-chan's face that seemed to say she still wanted[r]
+to continue, I slowly laid her down on the floor.[pcms]
 
 ;//[]HCG表示
 ;//＠差分は枚数などの情報がないので貼っていません
@@ -287,24 +283,25 @@
 
 *5446|
 [fc]
-ブラはどこかで取ったのか、引き裂かれた服の下に、[r]
-両方の胸が直接見えている。[pcms]
+The bra was gone somewhere, and both breasts were directly[r]
+visible under the torn clothes.[pcms]
 
 *5447|
 [fc]
-[ns]大倉[nse]
-「かくれちゃった……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"They're hidden..."[pcms]
 
 *5448|
 [fc]
 [vo_may s="maya0440"]
-[ns]摩耶[nse]
-「やぁ……」[pcms]
+[ns]Maya[nse]
+"No..."[pcms]
 
 *5449|
 [fc]
-両方の掌にすっぽり収まった胸を、内側に回すように[r]
-揉み続けると、マヤちゃんの体は時々小さく震えた。[pcms]
+As I continued to knead her breasts that fit perfectly in[r]
+both palms in a circular motion from the inside, Maya-chan's[r]
+body occasionally trembled slightly.[pcms]
 
 [evcg storage="HEV111b"][trans_c cross time=301]
 ;//親A？ファイル
@@ -312,13 +309,13 @@
 *5450|
 [fc]
 [vo_may s="maya0441"]
-[ns]摩耶[nse]
-「ふ……く……」[pcms]
+[ns]Maya[nse]
+"Fu... ah..."[pcms]
 
 *5451|
 [fc]
-[ns]大倉[nse]
-「こえ、かわいい……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Your voice is cute..."[pcms]
 
 [evcg storage="HEV111a"][trans_c cross time=301]
 ;//親A？ファイル
@@ -326,289 +323,283 @@
 *5452|
 [fc]
 [vo_may s="maya0442"]
-[ns]摩耶[nse]
-「んふ……」[pcms]
+[ns]Maya[nse]
+"Nnh..."[pcms]
 
 *5453|
 [fc]
-拗ねたように鼻を鳴らすのもカワイイし、声を出さな[r]
-いようにしてるのもカワイイ。[pcms]
+Her pouting snort was cute, and so was her trying not to[r]
+make a sound.[pcms]
 
 *5454|
 [fc]
-俺はマヤちゃんのその様子に興奮して、心臓は速く、[r]
-息は荒くなっていった。[pcms]
+I was excited by Maya-chan's behavior, my heart raced[r]
+faster, and my breath grew rougher.[pcms]
 
 [evcg storage="HEV111b"][trans_c cross time=301]
 
 *5455|
 [fc]
 [vo_may s="maya0443"]
-[ns]摩耶[nse]
-「はふ……ん、は……」[pcms]
+[ns]Maya[nse]
+"Hah... nnh, ha..."[pcms]
 
 *5456|
 [fc]
-[ns]大倉[nse]
-「あれ……？」[pcms]
+[ns]Ookura[nse]
+"Huh...?"[pcms]
 
 *5457|
 [fc]
-その内、掌に固い物が当たるようになって、それが彼[r]
-女の乳首だとわかった時、俺は思わずニヤァと笑って[r]
-しまった。[pcms]
+Eventually, I felt something hard against my palm, and when[r]
+I realized it was her nipple, I couldn't help but grin.[pcms]
 
 *5458|
 [fc]
-かんじてる……。[r]
-マヤちゃん、おれにむねもまれて、かんじてる……！[pcms]
+She's feeling it... Maya-chan is feeling it as I knead her[r]
+breasts...![pcms]
 
 *5459|
 [fc]
-[ns]大倉[nse]
-「へへ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Hehe..."[pcms]
 
 *5460|
 [fc]
 [vo_may s="maya0444"]
-[ns]摩耶[nse]
-「……？」[pcms]
+[ns]Maya[nse]
+"…?"[pcms]
 
 *5461|
 [fc]
-俺は揉むのをやめ、周りから寄せ集めるようにして胸[r]
-を盛り上がらせ、硬くなったマヤちゃんの乳首を口に[r]
-含んだ。[pcms]
+I stopped kneading and gathered her breasts from the sides,[r]
+making them protrude, and took Maya-chan's hardened nipple[r]
+into my mouth.[pcms]
 
 *5462|
 [fc]
 [vo_may s="maya0445"]
-[ns]摩耶[nse]
-「んぅっ……！　はっ、ん、や……やぁっ……！」[pcms]
+[ns]Maya[nse]
+"Nnh...! Hah, nn, no...noo...!"[pcms]
 
 *5463|
 [fc]
-[ns]大倉[nse]
-「はっ……へはっ……んむ、ちゅぅっ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Hah...heh...nm, chu..."[pcms]
 
 *5464|
 [fc]
 [vo_may s="maya0446"]
-[ns]摩耶[nse]
-「やっ、ふぁっ……！　んは、あぁ……」[pcms]
+[ns]Maya[nse]
+"No, ah...! Nha, ahh..."[pcms]
 
 *5465|
 [fc]
-さっきまで抑えていた声を、マヤちゃんがハッキリ出[r]
-すようになったコトに嬉しくなって、俺は夢中になっ[r]
-て胸に吸い付き、舌でイジりまわした。[pcms]
+Delighted that Maya-chan was now clearly letting out the[r]
+voice she had been suppressing, I became engrossed in[r]
+sucking on her breasts and teasing them with my tongue.[pcms]
 
 *5466|
 [fc]
 [vo_may s="maya0447"]
-[ns]摩耶[nse]
-「くぅんっ……！　は、ぁっ……や、ぁ……むね、[r]
-　やぁっ……！」[pcms]
+[ns]Maya[nse]
+"Kuun...! Ha, ah...no, ah...my breasts, noo...!"[pcms]
 
 *5467|
 [fc]
-胸から口を離し、指で乳首をイジりながら、俺はマヤ[r]
-ちゃんへ顔を向ける。[pcms]
+I released her breast from my mouth and, while playing with[r]
+her nipple with my fingers, I turned to face Maya-chan.[pcms]
 
 *5468|
 [fc]
-マヤちゃんは恥ずかしがりながらも、自分の胸が弄ば[r]
-れるのを、濡れた目で見つめていた。[pcms]
+Maya-chan, while shy, kept her wet eyes fixed on her breasts[r]
+being played with.[pcms]
 
 *5469|
 [fc]
-[ns]大倉[nse]
-「どうして……？　やだ……？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Why...? You don't like it...?"[pcms]
 
 *5470|
 [fc]
 [vo_may s="maya0448"]
-[ns]摩耶[nse]
-「ん、ふぁ……はずか、しい……」[pcms]
+[ns]Maya[nse]
+"Nn, fah...embarrassing..."[pcms]
 
 *5471|
 [fc]
-[ns]大倉[nse]
-「ううん、かわいいよ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"No, you're cute..."[pcms]
 
 *5472|
 [fc]
-小さな胸を這いずり回るのが、指から舌に代わっても、[r]
-彼女の目は離れず、見つめたままになっている。[pcms]
+Even as my fingers and then my tongue roamed over her small[r]
+breasts, her eyes never left mine and remained fixed.[pcms]
 
 *5473|
 [fc]
-俺は面白がって、歯で軽く乳首を噛んで持ち上げる[r]
-のを、彼女に見せつけた。[pcms]
+I amused myself by lightly biting her nipple with my teeth[r]
+and lifting it, showing her.[pcms]
 
 *5474|
 [fc]
 [vo_may s="maya0449"]
-[ns]摩耶[nse]
-「ひぁっ！　はぅんんっ……！」[pcms]
+[ns]Maya[nse]
+"Hiah! Haunn...!"[pcms]
 
 *5475|
 [fc]
-[ns]大倉[nse]
-「ん、んん～～……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Nn, nnn~..."[pcms]
 
 *5476|
 [fc]
 [vo_may s="maya0450"]
-[ns]摩耶[nse]
-「やっ、のびちゃ……！　いっ、んいぃっ……！」[pcms]
+[ns]Maya[nse]
+"No, it's stretching...! It's, nnii..."[pcms]
 
 *5477|
 [fc]
-[ns]大倉[nse]
-「ふはっ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Fuhah..."[pcms]
 
 *5478|
 [fc]
-俺は一旦放して、また彼女の胸を口に含み、中で乳首[r]
-を舐め回す。[pcms]
+I let go for a moment, then took her breast back into my[r]
+mouth and licked around the nipple inside.[pcms]
 
 *5479|
 [fc]
-[ns]大倉[nse]
-「ん、ちゅぅ……んむ……んん……ちゃぷっ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Nn, chu...nm...nnn...chap..."[pcms]
 
 *5480|
 [fc]
 [vo_may s="maya0451"]
-[ns]摩耶[nse]
-「ふ、んぁっ……は、あぅ……んうぅ……」[pcms]
+[ns]Maya[nse]
+"Fu, nha...ha, au...nuu..."[pcms]
 
 *5481|
 [fc]
-押さえられてるのが痛くなって、俺はズボンを下ろし、[r]
-チンコを剥き出しにした。[pcms]
+Feeling the restraint becoming painful, I lowered my pants[r]
+and exposed my cock.[pcms]
 
 *5482|
 [fc]
-久しぶりに外に出た俺のチンコは、もうガチガチに硬[r]
-くなっていて、先は汁に濡れてベトベトだった。[pcms]
+My cock, which hadn't been out in a while, was already rock[r]
+hard, and the tip was wet and sticky with pre-cum.[pcms]
 
 *5483|
 [fc]
-[ns]大倉[nse]
-「ハァッ……ハァッ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Haah...Haah..."[pcms]
 
 *5484|
 [fc]
-いれてみたい……。[r]
-マヤちゃんのオマンコに、いれたい……。[pcms]
+I want to put it in... I want to put it in Maya-chan's[r]
+pussy...[pcms]
 
 *5485|
 [fc]
-俺はマヤちゃんのスカートの端に手をかけ、ゆっくり[r]
-とまくり上げた。[pcms]
+I reached for the hem of Maya-chan's skirt and slowly began[r]
+to roll it up.[pcms]
 
 *5486|
 [fc]
 [vo_may s="maya0452"]
-[ns]摩耶[nse]
-「あっ……」[pcms]
+[ns]Maya[nse]
+"Ah..."[pcms]
 
 *5487|
 [fc]
-まくり上げたスカートの下からは、カワイらしい、[r]
-ドットパターンのパンツがあった。[pcms]
+Beneath the rolled-up skirt were cute, polka-dot patterned[r]
+panties.[pcms]
 
 *5488|
 [fc]
-そのパンツのオマンコの辺りは、グッチョリと湿って[r]
-いて、下の肌が透けて見えている。[pcms]
+The area around the pussy of those panties was soaking wet,[r]
+making the skin underneath visible through them.[pcms]
 
 *5489|
 [fc]
-[ns]大倉[nse]
-「……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"..."[pcms]
 
 *5490|
 [fc]
-え、と……。[r]
-つぎ、どうすりゃ……。[pcms]
+Eh, um... What should I do next...[pcms]
 
 *5491|
 [fc]
-初めてのコトで、俺は段取りが思いつかないで、少し[r]
-の間、固まってしまった。[pcms]
+It was my first time, and I couldn't think of what to do[r]
+next, so I froze for a moment.[pcms]
 
 *5492|
 [fc]
-このまま、いれていいのかな……。[r]
-そのまえに、なめたりとか……。[pcms]
+Is it okay to put it in now...? Or should I lick it first...[pcms]
 
 *5493|
 [fc]
-次にどうするか、迷っている俺の目の前で足が閉じら[r]
-れるのを見て、俺はマヤちゃんに目を向けた。[pcms]
+Seeing her legs close in front of me as I hesitated about[r]
+what to do next, I turned my gaze to Maya-chan.[pcms]
 
 *5494|
 [fc]
 [vo_may s="maya0453"]
-[ns]摩耶[nse]
-「したぎ……じっとみないで……」[pcms]
+[ns]Maya[nse]
+"Don't stare at my underwear like that..."[pcms]
 
 *5495|
 [fc]
-[ns]大倉[nse]
-「あ、あぁ、うん……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Ah, yeah, sure..."[pcms]
 
 *5496|
 [fc]
-とりあえず、パンツとろう……。[r]
-チンコいれるんだし、あったらじゃまだよな……。[pcms]
+I guess I should take off the panties... They'd be in the[r]
+way if I'm going to put my cock in...[pcms]
 
 *5497|
 [fc]
-そう考えて、俺は彼女のカワイらしいパンツに手を伸[r]
-ばし、ずらし始めた。[pcms]
+With that thought in mind, I reached for her cute panties[r]
+and began to slide them off.[pcms]
 
 *5498|
 [fc]
-[ns]大倉[nse]
-「あれ……」[pcms]
+[ns]Ookura[nse]
+"Huh..."[pcms]
 
 *5499|
 [fc]
 [vo_may s="maya0454"]
-[ns]摩耶[nse]
-「ん……」[pcms]
+[ns]Maya[nse]
+"Nn..."[pcms]
 
 *5500|
 [fc]
-なかなか脱がせられないでいると、マヤちゃんが手を[r]
-貸してくれて、俺はどうにか、彼女のパンツをずらす[r]
-ことができた。[pcms]
+As I struggled to take them off, Maya-chan helped me out,[r]
+and I managed to slide her panties down.[pcms]
 
 *5501|
 [fc]
-[ns]大倉[nse]
-「あ……」[pcms]
+[ns]Ookura[nse]
+"Ah..."[pcms]
 
 *5502|
 [fc]
-剥き出しになったマヤちゃんのオマンコと、太腿の[r]
-真ん中辺りで止めたパンツの間に、トロリとした液体[r]
-が糸を引いているのに、俺は思わず見入ってしまた。[pcms]
+Between Maya-chan's exposed pussy and the panties stopped[r]
+around the middle of her thighs, a viscous liquid was[r]
+stringing together, and I couldn't help but stare.[pcms]
 
 *5503|
 [fc]
-すげぇぬれてる……。[r]
-なんか、エロいにおいするし……。[r]
-いれたら、どうなるんだろ……。[pcms]
+It's so wet... It smells erotic too... What will happen when[r]
+I put it in...[pcms]
 
 *5504|
 [fc]
-挿れたらどんな感じがするのか、早く試してみたくて、[r]
-俺は強引に、マヤちゃんの服を乱暴に脱がせた。[pcms]
+Eager to find out what it would feel like inside her, I[r]
+forcefully stripped off Maya-chan's clothes.[pcms]
 
 ;//[]HCG表示
 ;//＠差分は枚数などの情報がないので貼っていません
@@ -616,249 +607,243 @@
 
 *5505|
 [fc]
-[ns]大倉[nse]
-「ハァ～……ハァ～……っ！」[pcms]
+[ns]Ookura[nse]
+"Haa~...Haa~...!"[pcms]
 
 *5506|
 [fc]
-強い興奮で、俺は自分の脳ミソまでが、ドクドクと脈[r]
-打ってるように感じた。[pcms]
+The intense excitement made me feel as if even my brain was[r]
+throbbing.[pcms]
 
 *5507|
 [fc]
-興奮のしすぎで、脳ミソに悪影響でも出てるのか、[r]
-マヤちゃんのオマンコが唇のように思えて、“早くチ[r]
-ンコが欲しい”と言ってるように俺には見えていた。[pcms]
+The overexcitement might be affecting my brain because Maya-[r]
+chan's pussy seemed like lips to me, saying it wanted my[r]
+cock soon.[pcms]
 
 *5508|
 [fc]
-[ns]大倉[nse]
-「あぁ、わかってる……いま、いれるから……！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Ah, I understand...I'm putting it in now...!"[pcms]
 
 *5509|
 [fc]
-体をマヤちゃんに近づけ、オマンコに自分のチンコの[r]
-先っぽを押し当てると、彼女は小さく息を飲んだ。[pcms]
+As I moved closer to Maya-chan and pressed the tip of my[r]
+cock against her pussy, she took a small breath.[pcms]
 
 *5510|
 [fc]
-[ns]大倉[nse]
-「わかってる……わかってるよ……！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"I understand... I understand...!"[pcms]
 
 *5511|
 [fc]
-急かされたような気になっていた俺は、チンコを根元[r]
-まで、マヤちゃんのオマンコの中に一気に押し込んだ。[pcms]
+Feeling rushed, I pushed my cock all the way into Maya-[r]
+chan's pussy in one go.[pcms]
 
 [evcg storage="HEV117b"][trans_c cross time=301]
 
 *5512|
 [fc]
 [vo_may s="maya0455"]
-[ns]摩耶[nse]
-「んいいぃっ……！！」[pcms]
+[ns]Maya[nse]
+"Nnii...!!"[pcms]
 
 *5513|
 [fc]
-[ns]大倉[nse]
-「ハアァ～～ッ……！　ハアァ～～ッ！」[pcms]
+[ns]Ookura[nse]
+"Haa~...! Haa~...!"[pcms]
 
 *5514|
 [fc]
-スゲェ……！[r]
-なんだコレ……！[r]
-スゲェきもちいいッ……！！[pcms]
+It's amazing...! What is this...! It feels so good...!![pcms]
 
 *5515|
 [fc]
-初めて挿れたオマンコの中は、キツくて、熱くて、[r]
-ヌルヌルで、入れただけで頭が真っ白になるぐらい、[r]
-気持ち良く感じた。[pcms]
+The inside of Maya-chan's pussy that I entered for the first[r]
+time felt tight, hot, and slippery, and just inserting it[r]
+made my head go blank with pleasure.[pcms]
 
 *5516|
 [fc]
-[ns]大倉[nse]
-「ハァッ……ハァッ……ハァッ……ハァッ……！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Haa... Haa... Haa... Haa...!!"[pcms]
 
 *5517|
 [fc]
 [vo_may s="maya0456"]
-[ns]摩耶[nse]
-「いっ、ぎ……！！　ひぐぅっ……！」[pcms]
+[ns]Maya[nse]
+"Ig, gii...!! Higuu...!"[pcms]
 
 *5518|
 [fc]
-今までに無い気持ち良さを、もっと自分のものにした[r]
-くて、俺は夢中で腰を振り、マヤちゃんのオマンコに[r]
-出し入れした。[pcms]
+Desperate to make this new level of pleasure all mine, I[r]
+thrust my hips frantically, pumping in and out of Maya-[r]
+chan's pussy.[pcms]
 
 *5519|
 [fc]
 [vo_may s="maya0457"]
-[ns]摩耶[nse]
-「あっ、ぐ……！　んぎ、いぃっ……！！」[pcms]
+[ns]Maya[nse]
+"Ah, gu...! Ngi, yii...!!"[pcms]
 
 *5520|
 [fc]
-[ns]大倉[nse]
-「あぁ～～っ……！！　きもちいぃ……っ！！　[r]
-　マヤちゃんのオマンコ、スゲーきもちいい……！！」[pcms]
+[ns]Ookura[nse]
+"Aah~...!! It feels so good...!! Maya-chan's pussy feels[r]
+amazing...!!"[pcms]
 
 *5521|
 [fc]
 [vo_may s="maya0458"]
-[ns]摩耶[nse]
-「んぐぅ……あっ、いっ……！　うあぁっ……！！」[pcms]
+[ns]Maya[nse]
+"Nguu... Ah, ii...! Uaaah...!!"[pcms]
 
 *5522|
 [fc]
-俺のチンコがマヤちゃんの膣内を掻き回す、粘り気の[r]
-ある音に、俺はさらに興奮して、マヤちゃんのオマン[r]
-コを乱暴に突きまくった。[pcms]
+The sticky sound of my cock stirring inside Maya-chan's[r]
+vagina excited me even more, and I pounded her pussy[r]
+violently.[pcms]
 
 *5523|
 [fc]
 [vo_may s="maya0459"]
-[ns]摩耶[nse]
-「はぐ、ぅ、うぅっ……ふ、ぅぐ……っ！」[pcms]
+[ns]Maya[nse]
+"Hagu, u, uuu... fu, ugu...!"[pcms]
 ;//◎泣きが混じる
 
 *5524|
 [fc]
-その内、聞こえてくる音に、泣いてるようなマヤちゃ[r]
-んの声が混じり始めた。[pcms]
+Suddenly, I began to hear Maya-chan's voice mixed with the[r]
+sounds, sounding almost like she was crying.[pcms]
 
 *5525|
 [fc]
-まさかと思って、俺のチンコを挿し込んだままの、[r]
-マヤちゃんのオマンコに目を落とすと、そこはうっす[r]
-らと赤く濡れていた。[pcms]
+Thinking it couldn't be, I looked down at Maya-chan's pussy[r]
+where my cock was still inserted, and it was faintly red and[r]
+wet.[pcms]
 
 *5526|
 [fc]
 [vo_may s="maya0460"]
-[ns]摩耶[nse]
-「うっ、ふ……ぐすっ……」[pcms]
+[ns]Maya[nse]
+"Uu, fu... gusu..."[pcms]
 
 *5527|
 [fc]
-[ns]大倉[nse]
-「あ……ゴ、ゴメン、おれ……」[pcms]
+[ns]Ookura[nse]
+"Ah... So-sorry, I..."[pcms]
 
 *5528|
 [fc]
-急に我に返って、しどろもどろになる俺に、マヤちゃ[r]
-んは涙を流しながら、首を横に振った。[pcms]
+Suddenly coming to my senses and becoming flustered, Maya-[r]
+chan shook her head from side to side while tears streamed[r]
+down her face.[pcms]
 
 [evcg storage="HEV117c"][trans_c cross time=301]
 
 *5529|
 [fc]
 [vo_may s="maya0461"]
-[ns]摩耶[nse]
-「ヒロシが……はじめて、すきになれたひとが、して[r]
-　くれるの……うれしいから……」[pcms]
+[ns]Maya[nse]
+"Hiroshi was... the first person I could fall in love with,[r]
+doing it for me... I'm happy because of that..."[pcms]
 
 *5530|
 [fc]
-[ns]大倉[nse]
-「マヤちゃん……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Maya-chan..."[pcms]
 
 *5531|
 [fc]
 [vo_may s="maya0462"]
-[ns]摩耶[nse]
-「もっとして……もっと、そばにきて……」[pcms]
+[ns]Maya[nse]
+"Do it more... Come closer to me more..."[pcms]
 
 *5532|
 [fc]
-うなずいて返した俺は、さっきみたいに自分勝手に、[r]
-乱暴にするのはやめて、出し入れの動きを優しくした。[pcms]
+Nodding in response, I stopped being selfish and rough like[r]
+before and made my thrusting movements gentle.[pcms]
 
 *5533|
 [fc]
 [vo_may s="maya0463"]
-[ns]摩耶[nse]
-「ふあぁっ……ヴァギナの、おくまで……あっ、はぅ[r]
-　……ヒロシの、ペニスで……ひんっ……！[r]
-　いっぱ、い……」[pcms]
+[ns]Maya[nse]
+"Fuaah... To the back of my vagina... Ah, hauu... Hiroshi's[r]
+penis is... hinn...! So much, ii..."[pcms]
 
 *5534|
 [fc]
-乱暴に動かしてる時と違って、マヤちゃんの膣内の肉[r]
-を押し広げる感覚が、また別の快感を俺のチンコに与[r]
-えてくる。[pcms]
+Moving gently unlike before, the sensation of spreading the[r]
+flesh inside Maya-chan's vagina gave a different pleasure to[r]
+my cock.[pcms]
 
 *5535|
 [fc]
-脳ミソそのものがシビれてくるような感じがしてきて、[r]
-それが段々とチンコに伝わっていく。[pcms]
+I started to feel a tingling sensation as if my brain itself[r]
+was numbing, and it gradually spread to my cock.[pcms]
 
 *5536|
 [fc]
-[ns]大倉[nse]
-「はぁっ、く……ふ、ぅ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Haa, ku... fu, uu..."[pcms]
 
 *5537|
 [fc]
 [vo_may s="maya0464"]
-[ns]摩耶[nse]
-「んぁ、はあぁ……っ！　う、くぅんっ……！」[pcms]
+[ns]Maya[nse]
+"Nhaa, haaa...! Uu, kuun...!"[pcms]
 
 *5538|
 [fc]
-チンコを出し入れする度に、マヤちゃんはカワイイ声[r]
-を上げる。[pcms]
+With every thrust of my cock, Maya-chan let out cute moans.[pcms]
 
 *5539|
 [fc]
-その声に反応して、激しくなろうとする腰の動きと、[r]
-限界を越えて弾けようとするチンコを抑えるのに、[r]
-俺は必死だった。[pcms]
+The sound of her voice made me struggle to control my hips[r]
+from moving violently and my cock from bursting past its[r]
+limit.[pcms]
 
 *5540|
 [fc]
 [vo_may s="maya0465"]
-[ns]摩耶[nse]
-「ヒロシと……んっ、く、はっ……とけて、ひとつに[r]
-　……あっ、んぅっ……！　なった、みたい……」[pcms]
+[ns]Maya[nse]
+"With Hiroshi... nnh, ku, hah... melting together into[r]
+one... ah, nnuh...! It feels like that..."[pcms]
 
 *5541|
 [fc]
-[ns]大倉[nse]
-「おれも……そんなかんじ、する……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Me too... I feel the same way..."[pcms]
 
 *5542|
 [fc]
 [vo_may s="maya0466"]
-[ns]摩耶[nse]
-「いうぅっ……！　ほん、と……？　ヒロシ、も……[r]
-　ふぁ、ぁんっ……！　おなじ、こと……ふはっ、く、[r]
-　ひんっ……！　おもってるの……」[pcms]
+[ns]Maya[nse]
+"Iyuuu...! Really...? Hiroshi too... faa, aanh...! You're[r]
+thinking the same thing... fuhah, ku, hinn...!"[pcms]
 
 *5543|
 [fc]
-[ns]大倉[nse]
-「うん……なんか、こころまで、ひとつになったみた[r]
-　いだ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Yeah... It's like our hearts have become one too..."[pcms]
 
 *5544|
 [fc]
 [vo_may s="maya0467"]
-[ns]摩耶[nse]
-「あっ、はぁっ、ひぐぅっ……！！」[pcms]
+[ns]Maya[nse]
+"Ah, haa, higuu...!!"[pcms]
 
 *5545|
 [fc]
-マヤちゃんを見つめて言った途端、彼女は小さな悲鳴[r]
-を上げて、オマンコを狭くし、俺のチンコをキツく[r]
-締め上げた。[pcms]
+The moment I said that while looking at Maya-chan, she let[r]
+out a small scream and tightened her pussy around my cock.[pcms]
 
 *5546|
 [fc]
-脳ミソが爆発するような快感を与えられて、目の前に[r]
-チカチカと星が飛び始めると、チンコは俺の意志より[r]
-も先に限界を超え、精液を吐き出してしまっていた。[pcms]
+Given an explosive pleasure as if my brain was bursting,[r]
+stars began to flicker before my eyes, and my cock surpassed[r]
+its limit and ejaculated before I could even think.[pcms]
 
 ;[射精フラA]
 ;イベントCG射精差分
@@ -867,305 +852,297 @@
 
 *5547|
 [fc]
-[ns]大倉[nse]
-「うぁっ……あっ、うあぁ～～～……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Uwaah... Ahh, uwaah~~~..."[pcms]
 
 *5548|
 [fc]
 [vo_may s="maya0468"]
-[ns]摩耶[nse]
-「ふあぁ……くぁ、あぁっ……」[pcms]
+[ns]Maya[nse]
+"Fuaah... qua, aahh..."[pcms]
 
 *5549|
 [fc]
-チンコの中に残っていた、ほんのちょっとの精液まで[r]
-搾り取るように蠢き、マヤちゃんのオマンコは、俺が[r]
-吐き出したモノを全部飲み込んでいく。[pcms]
+As if wringing out even the last bit of semen left inside my[r]
+cock, Maya-chan's pussy swallowed everything I had released.[pcms]
 
 *5550|
 [fc]
 [vo_may s="maya0469"]
-[ns]摩耶[nse]
-「く、ふ……ヒロシの、スペルマ……は、あぁ……こ[r]
-　んなに……」[pcms]
+[ns]Maya[nse]
+"Ku, fu... Hiroshi's sperm is so..."[pcms]
 
 *5551|
 [fc]
-俺が射精している間、マヤちゃんは薄く笑い、腹の辺[r]
-りをトロンとした目で見つめていた。[pcms]
+While I was ejaculating, Maya-chan smiled faintly and gazed[r]
+at her belly with a dazed look in her eyes.[pcms]
 
 *5552|
 [fc]
 [vo_may s="maya0470"]
-[ns]摩耶[nse]
-「ぁう……ふふ……」[pcms]
+[ns]Maya[nse]
+"Auu... fufu..."[pcms]
 
 *5553|
 [fc]
-[ns]大倉[nse]
-「ふっ……は、ふぁ……」[pcms]
+[ns]Ookura[nse]
+"Fuh... ha, faa..."[pcms]
 
 *5554|
 [fc]
-もういっかい……。[r]
-もういっかいしたい……。[pcms]
+I want to do it again... I want to do it one more time...[pcms]
 
 *5555|
 [fc]
-けど、マヤちゃん、はじめてだったし……。[r]
-また、なかせたくない……。[pcms]
+But it was Maya-chan's first time... I don't want to make[r]
+her come again...[pcms]
 
 *5556|
 [fc]
-けど、だしたい……。[r]
-マヤちゃんのオマンコのなかに、だしたい……！[pcms]
+But I want to release it... I want to release it inside[r]
+Maya-chan's pussy...![pcms]
 
 *5557|
 [fc]
-マヤちゃんを苦しめたくない。[r]
-腹の底に残る欲望を吐き出したい。[pcms]
+I don't want to hurt Maya-chan. I want to let out the desire[r]
+remaining at the bottom of my stomach.[pcms]
 
 *5558|
 [fc]
-俺の頭の中で、その２つの気持ちがぶつかり合ってい[r]
-たが、自分よりマヤちゃんの方が大事だという、当た[r]
-り前のコトにやっと気づいて、体を離そうとした。[pcms]
+In my head, these two feelings clashed against each other,[r]
+but finally realizing that Maya-chan was more important than[r]
+myself was obvious. I tried to pull away from her body.[pcms]
 
 *5559|
 [fc]
 [vo_may s="maya0471"]
-[ns]摩耶[nse]
-「や……」[pcms]
+[ns]Maya[nse]
+"No..."[pcms]
 
 *5560|
 [fc]
-体を離そうとしているのを感じたのか、マヤちゃんは[r]
-俺の手を握って引き留めた。[pcms]
+Perhaps sensing that I was trying to pull away, Maya-chan[r]
+grabbed my hand and held me back.[pcms]
 
 [evcg storage="HEV117e"][trans_c cross time=301]
 
 *5561|
 [fc]
 [vo_may s="maya0472"]
-[ns]摩耶[nse]
-「はなれるのは、いや……そのまま、して……」[pcms]
+[ns]Maya[nse]
+"I don't want you to leave... stay like this..."[pcms]
 
 *5562|
 [fc]
-[ns]大倉[nse]
-「……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"..."[pcms]
 
 *5563|
 [fc]
-マヤちゃんに切なげな目で見つめられて、薄れかけて[r]
-いた俺の欲望は、また大きく膨らみ始めて、腰はもう[r]
-動き出してしまっていた。[pcms]
+Being gazed at with such a pained look by Maya-chan, my[r]
+fading desire began to swell again, and my hips had already[r]
+started moving on their own.[pcms]
 
 *5564|
 [fc]
 [vo_may s="maya0473"]
-[ns]摩耶[nse]
-「んぅっ……！　はっ、あぅんっ……！！　」[pcms]
+[ns]Maya[nse]
+"Nn...! Ha, ahn...!!"[pcms]
 
 *5565|
 [fc]
-さっき出した俺の精液と、マヤちゃんのオマンコ汁が[r]
-混ざり合って、湿った音が体の間で弾ける。[pcms]
+The semen I had just released and Maya-chan's pussy juices[r]
+mixed together, creating wet sounds between our bodies.[pcms]
 
 *5566|
 [fc]
-[ns]大倉[nse]
-「マヤちゃんのオマンコ……さっきよりヌルヌルして[r]
-　て……もっときもちよく、なってるよ……っ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Maya-chan's pussy... it's even slipperier than before... it[r]
+feels even better...!!"[pcms]
 
 *5567|
 [fc]
 [vo_may s="maya0474"]
-[ns]摩耶[nse]
-「わたしも……ひ、いぁっ……！！　さっきより、ヒ[r]
-　ロシのペニス……やっ、くあぁっ……！　ちかく、[r]
-　かんじる……っ！！」[pcms]
+[ns]Maya[nse]
+"Me too... hi, yah...!! Hiroshi's penis... no, ah...! I can[r]
+feel it getting closer...!!"[pcms]
 
 *5568|
 [fc]
-マヤちゃんのオマンコに、チンコを出し入れすればす[r]
-るほど、俺の頭の中は白く、何も考えられなくなって[r]
-いき、腰は勝手に動きを速くしていった。[pcms]
+The more I thrust my cock in and out of Maya-chan's pussy,[r]
+the whiter my mind became, unable to think of anything else,[r]
+and my hips sped up their movements on their own.[pcms]
 
 [evcg storage="HEV117f"][trans_c cross time=301]
 
 *5569|
 [fc]
 [vo_may s="maya0475"]
-[ns]摩耶[nse]
-「んくうぅっ……！！　あっ、ふっ、うぐぅっ……！！[r]
-　そ、なに……はぁっ、はっ、ぃうぅっ……！！[r]
-　いっしょ、けんめい……されたら……っ！」[pcms]
+[ns]Maya[nse]
+"Nkuu...!! Ah, fu, uguu...!! So, what... haah, ha, iuu...!![r]
+If you do it with all your might...!"[pcms]
 
 *5570|
 [fc]
-[ns]大倉[nse]
-「ゴメンね、マヤちゃん……っ！！　でも、きもちよ[r]
-　すぎて……っ！！　こしがとまんない……っ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"I'm sorry, Maya-chan...!! But it feels too good...!! I[r]
+can't stop my hips...!!"[pcms]
 
 *5571|
 [fc]
-俺の言葉に、苦しげに喘ぎながら、マヤちゃんは大き[r]
-く首を横に振った。[pcms]
+While gasping in pain, Maya-chan shook her head vigorously[r]
+in response to my words.[pcms]
 
 *5572|
 [fc]
 [vo_may s="maya0476"]
-[ns]摩耶[nse]
-「ぁくぅっ……！！　……うれ、しいの……ヒロシが、[r]
-　ふあぁっ……！　きもちいい、って、ひぁっ……！！[r]
-　いって、はぁうっ……！！　くれるから……！」[pcms]
+[ns]Maya[nse]
+"Akuu...!! ...I'm happy... because Hiroshi is feeling[r]
+good... haah...! Saying it feels good... haaah...!!"[pcms]
 
 *5573|
 [fc]
-[ns]大倉[nse]
-「マヤちゃん……っ！！」[pcms]
+[ns]Ookura[nse]
+"Maya-chan...!!"[pcms]
 
 *5574|
 [fc]
-マヤちゃんの手を強く握り返して、俺はさらに激しく、[r]
-彼女のオマンコに突き入れた。[pcms]
+Gripping Maya-chan's hand tightly, I thrust even more[r]
+fiercely into her pussy.[pcms]
 
 *5575|
 [fc]
-その動きで、マヤちゃんの膣内に流し込んだ俺の精液が[r]
-掻き出され、彼女の尻と床を汚していく。[pcms]
+With that movement, the semen I had poured into Maya-chan's[r]
+vagina was scraped out, dirtying her ass and the floor.[pcms]
 
 *5576|
 [fc]
 [vo_may s="maya0477"]
-[ns]摩耶[nse]
-「や、はぁっ……！！　ヴァギナの、おくに……ひぁ、[r]
-　ぁはぁっ……！！　ひび、く……っ！！」[pcms]
+[ns]Maya[nse]
+"Ya, haah...!! Deep in the vagina... hia, ahah...!! It's[r]
+quivering...!!"[pcms]
 
 *5577|
 [fc]
-[ns]大倉[nse]
-「くぁっ……！！　マヤちゃん……そんな、オマンコ[r]
-　……うごかしたら、おれ……っ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Quah...!! Maya-chan... if you move your pussy like that,[r]
+I'm going to...!!"[pcms]
 
 *5578|
 [fc]
-チンコにまとわりつくように蠢く、マヤちゃんのオマ[r]
-ンコの膣内からの刺激に、俺の目の前にまた星が飛び[r]
-始めた。[pcms]
+The stimulation from the wriggling inside Maya-chan's pussy[r]
+clinging to my cock made stars start to appear before my[r]
+eyes again.[pcms]
 
 *5579|
 [fc]
 [vo_may s="maya0478"]
-[ns]摩耶[nse]
-「ヒロ、シ……っ！　また、いっしょに……あっ、く[r]
-　はぁっ……！！　いっしょに、とけて……わたしと、[r]
-　ひっ、んぁんっ……！！　ひとつに、なって……！」[pcms]
+[ns]Maya[nse]
+"Hiroshi...! Let's come together again... ah, kuhah...!![r]
+Melt together with me, and become one...!"[pcms]
 
 *5580|
 [fc]
-[ns]大倉[nse]
-「あぁ……なるよ……ひとつに……っ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Ah... we will become one...!!"[pcms]
 
 *5581|
 [fc]
 [vo_may s="maya0479"]
-[ns]摩耶[nse]
-「あっ、あふあぁっ……！！　とけ、る……んぃっ、[r]
-　ひぅんっ……！！　わたし、も……っ！　ふぁっ、[r]
-　あぁっ……！！」[pcms]
+[ns]Maya[nse]
+"Ah, afuahh...!! Melting... niih, hiun...!! Me too...! Fwah,[r]
+ahh...!!"[pcms]
 
 *5582|
 [fc]
-マヤちゃんに体をピッタリとくっつけて、限界までこ[r]
-み上げていた精液を、俺はオマンコの一番奥で吐き出[r]
-させた。[pcms]
+Pressing my body tightly against Maya-chan's, I let out the[r]
+semen that had been building up to its limit deep inside her[r]
+pussy.[pcms]
 
 [メスフラ]
 
 *5583|
 [fc]
-[ns]大倉[nse]
-「マヤちゃん……っ！！！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Maya-chan...!!!!"[pcms]
 
 *5584|
 [fc]
 [vo_may s="maya0480"]
-[ns]摩耶[nse]
-「ひぁっ、ふゃはあぁっ……！！！」[pcms]
+[ns]Maya[nse]
+"Hiah, fyahahh...!!! "[pcms]
 
 *5585|
 [fc]
-膣奥に向かって、チンコが吐き出した精液が[r]
-流し込まれると、１回目の時と違って、マヤちゃんは[r]
-叫ぶような声を上げて、大きく体をのけ反らせた。[pcms]
+As the semen ejaculated from my cock was poured deep into[r]
+her vagina, unlike the first time, Maya-chan let out a[r]
+scream-like voice and arched her body greatly.[pcms]
 
 *5586|
 [fc]
-[ns]大倉[nse]
-「は、あっ……く……！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Ha, ah... ku...!"[pcms]
 
 *5587|
 [fc]
 [vo_may s="maya0481"]
-[ns]摩耶[nse]
-「あっ……ひ、ぅ……んうぅ……！」[pcms]
+[ns]Maya[nse]
+"Ah... hi, u... nunuu...!"[pcms]
 
 *5588|
 [fc]
-残りの一滴まで残さずマヤちゃんの膣奥に出し切って[r]
-から、俺はチンコを引き抜き、彼女の体から離れた。[pcms]
+After releasing every last drop deep into Maya-chan's[r]
+vagina, I pulled out my cock and moved away from her body.[pcms]
 
 *5589|
 [fc]
-[ns]大倉[nse]
-「ふはっ……はっ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Fuhah... hah..."[pcms]
 
 *5590|
 [fc]
-マヤちゃんのオマンコはポッカリと口を開け、その中[r]
-から、俺の出した大量の精液が、ゆっくりと溢れ出し[r]
-てくる。[pcms]
+Maya-chan's pussy was left gaping open, and from inside it[r]
+slowly overflowed the large amount of semen I had released.[pcms]
 
 *5591|
 [fc]
 [vo_may s="maya0482"]
-[ns]摩耶[nse]
-「く、ぁ……ぅ……」[pcms]
+[ns]Maya[nse]
+"Ku, ah... u..."[pcms]
 
 *5592|
 [fc]
-虚ろな目をしてグッタリとなったマヤちゃんの隣へ、[r]
-急激に襲ってきた疲れに耐えきれず、倒れ込むように[r]
-俺は横になった。[pcms]
+Lying next to Maya-chan who had become limp with vacant eyes[r]
+due to exhaustion, I too lay down beside her as fatigue hit[r]
+me suddenly.[pcms]
 
 *5593|
 [fc]
-[ns]大倉[nse]
-「はぁ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Haa..."[pcms]
 
 *5594|
 [fc]
-段々と興奮と快感が薄れていって、頭と体が落ち着い[r]
-てくると、途端にまぶたが重くなってくる。[pcms]
+As the excitement and pleasure gradually faded away and my[r]
+head and body calmed down, my eyelids started to feel heavy[r]
+all at once.[pcms]
 
 *5595|
 [fc]
-[ns]大倉[nse]
-「んん……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Nnn..."[pcms]
 
 *5596|
 [fc]
-マヤちゃんを抱きかかえるようにして、俺は自分の体[r]
-を彼女にくっつけ、半分閉まりかけの目をつぶった。[pcms]
+Holding Maya-chan as if embracing her, I pressed my body[r]
+against hers and closed my half-shut eyes.[pcms]
 
 ;//------------------------------------------------
 [if exp="tf.scene_mode==1"]
 	[jump storage="b_scene.ks" target=*back_from_SR]
 ;	[link storage=sceneAgain]もう一度見る[endlink]
 ;	[link storage=sceneList]一覧に戻る[endlink]
-;	[s]
+[pcms]
 [endif]
 
 *KAISOU_PASS
@@ -1180,4 +1157,4 @@
 
 [jump storage="jingujiroute12220.ks" target=*jingujiroute12220_TOP]
 
-;//－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+;//

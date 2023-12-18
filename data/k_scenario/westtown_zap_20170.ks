@@ -29,9 +29,8 @@
 
 *13621|
 [fc]
-[ns]半裸の男[nse]
-「おんなぁ～～……おんなぁ～～！！[r]
-　おっさんはぁ～～じゃまぁ～～！！」[pcms]
+[ns]Half-naked man[nse]
+"Women~~... Women~~!! Get out of the way, old man~~!!"[pcms]
 
 ;//SE:人を殴る
 
@@ -44,9 +43,9 @@
 
 *13622|
 [fc]
-[ns]菅生[nse]
-「うぉっ！！　イッてぇ！！[r]
-　ブッ殺すぞこのヤロ！！　オラァ！！」[pcms]
+[ns]Sugou[nse]
+"Whoa!! It hurts!! I'll kill you, you bastard!! Come at[r]
+me!!"[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
@@ -62,9 +61,9 @@
 *13623|
 [fc]
 [vo_nag s="nagasaki0150"]
-[ns]千尋[nse]
-「離れなさいよッ！！　気持ち悪い！！[r]
-　あっちに行って……このっ！！」[pcms]
+[ns]Chihiro[nse]
+"Get away from me!! You're disgusting!! Go over there... you[r]
+jerk!!"[pcms]
 
 ;//SE:人を殴る
 
@@ -75,15 +74,13 @@
 
 *13624|
 [fc]
-トイレから外に出たあたしが目にしたのは、[r]
-長崎さんとオジサンが協力して、ヘンな人と[r]
-戦っている所だった。[pcms]
+What I saw when I stepped out of the bathroom was Nagasaki-[r]
+san and the old man cooperating to fight a strange person.[pcms]
 
 *13625|
 [fc]
-二人は本当に殺すくらいの勢いで殴ったりしている。[r]
-けど、殴られている人はまるで気にしてないみたいに、[r]
-二人に抵抗している。[pcms]
+They were hitting with enough force to kill. But the person[r]
+being hit didn't seem to care at all and was resisting them.[pcms]
 
 ;//SE:人を殴る
 
@@ -97,108 +94,104 @@
 *13626|
 [fc]
 [vo_nag s="nagasaki0151"]
-[ns]千尋[nse]
-「ぐぅ……！！」[pcms]
+[ns]Chihiro[nse]
+"Guu...!!"[pcms]
 
 *13627|
 [fc]
 [vo_hay s="hayami0337"]
-[ns]ありす[nse]
-「長崎さん！！」[pcms]
+[ns]Alice[nse]
+"Nagasaki-san!!"[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *13628|
 [fc]
-ヘンな人は、長崎さんに抱きついて、[r]
-首筋に噛み付いた。[pcms]
+The strange person hugged Nagasaki-san and bit her on the[r]
+neck.[pcms]
 
 [ChrSetEx layer=4 chbase="etc01"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *13629|
 [fc]
-[ns]半裸の男[nse]
-「うがぁ～～おんなぁ～～！[r]
-　うまそうぅ～～」[pcms]
+[ns]Half-naked man[nse]
+"Ugh~~ women~~! Looks tasty~~"[pcms]
 
 *13630|
 [fc]
 [vo_hay s="hayami0338"]
-[ns]ありす[nse]
-「長崎さん！　大丈夫！？[r]
-　あの人……何考えているの！？」[pcms]
+[ns]Arisu[nse]
+"Nagasaki-san! Are you okay!? What is that person[r]
+thinking!?"[pcms]
 
 *13631|
 [fc]
-長崎さんに駆け寄ると、首を押さえて、[r]
-辛そうな声で返事をしてくる。[pcms]
+When I rushed over to Nagasaki-san, she was holding her neck[r]
+and replied with a pained voice.[pcms]
 
 [ChrSetEx layer=4 chbase="naga_n05"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *13632|
 [fc]
 [vo_nag s="nagasaki0152"]
-[ns]千尋[nse]
-「うぅ……き、気をつけて……。[r]
-　アイツ、マトモじゃ無い……」[pcms]
+[ns]Chihiro[nse]
+"Ugh... be careful... That guy, he's not sane..."[pcms]
 
 *13633|
 [fc]
-噛まれた首の傷は、そんなに深くはなさそうだった[r]
-けど、そんなことをされたショックからか、[r]
-長崎さんの声は少し弱々しかった。[pcms]
+The bite on Nagasaki-san's neck didn't seem too deep, but[r]
+perhaps from the shock of what happened, her voice sounded a[r]
+bit weak.[pcms]
 
 [ChrSetEx layer=4 chbase="sugo_k05"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *13634|
 [fc]
-[ns]菅生[nse]
-「オイ！　オッパイちゃん！！　[r]
-　手ぇ貸せ！　早く！！　コイツ、あそこから[r]
-　突き落とすぞ！！」[pcms]
+[ns]Sugou[nse]
+"Hey! Tits girl!! Help me out! Hurry up!! We're going to[r]
+push this guy off from there!!"[pcms]
 
 *13635|
 [fc]
 [vo_hay s="hayami0339"]
-[ns]ありす[nse]
-「え……！？」[pcms]
+[ns]Arisu[nse]
+"Eh...!?"[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *13636|
 [fc]
-オジサンが見つめる先には、エスカレーターがある。[r]
-突き落とすと言うことは、あそこしかない。[pcms]
+Where the old man was looking, there was an escalator. The[r]
+only place to push off would be there.[pcms]
 
 *13637|
 [fc]
-あそこから、下に突き落とす……？[r]
-そんな事したら、いくらヘンな人でも、[r]
-死んじゃうじゃない……！！[pcms]
+Pushing off from there, down below...? Even if it's a[r]
+strange person, they could die...!![pcms]
 
 *13638|
 [fc]
-あたし、そんなこと出来ないよ……。[pcms]
+I can't do something like that...[pcms]
 
 *13639|
 [fc]
-その事に賛成できなくて、その場でじっとしている[r]
-あたしに、オジサンが怒鳴りつける。[pcms]
+Unable to agree with that, I stood still, and the old man[r]
+yelled at me.[pcms]
 
 [ChrSetEx layer=4 chbase="sugo_k05"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *13640|
 [fc]
-[ns]菅生[nse]
-「ンダァ！？　クソガキ！！[r]
-　オメコ舐められて力抜けたんかァ？[r]
-　クソッ！！　もう頼まねぇよ！！　オラァ！」[pcms]
+[ns]Sugou[nse]
+"What!? You little shit!! Did getting your pussy licked make[r]
+you lose your strength? Damn it!! I won't ask for your help[r]
+anymore!! Come on!"[pcms]
 
 *13641|
 [fc]
 [vo_hay s="hayami0340"]
-[ns]ありす[nse]
-「なっ……」[pcms]
+[ns]Arisu[nse]
+"Wha..."[pcms]
 
 ;//SE:人を殴る
 
@@ -211,14 +204,13 @@
 
 *13642|
 [fc]
-[ns]半裸の男[nse]
-「ぐぁ～～……、どけよぉ～～おっさん～～！！」[pcms]
+[ns]Half-naked man[nse]
+"Gah~~... move it, old man~~!!"[pcms]
 
 *13643|
 [fc]
-[ns]菅生[nse]
-「テメェはもう黙ってろ！！　オラァ！　[r]
-　くたばれ！！」[pcms]
+[ns]Sugou[nse]
+"You shut up already!! Come on! Die!!"[pcms]
 
 ;//SE:人を殴る
 
@@ -231,20 +223,20 @@
 
 *13644|
 [fc]
-[ns]菅生[nse]
-「コイツでトドメだ！！　死ねやオラァ！！」[pcms]
+[ns]Sugou[nse]
+"This is the end for you!! Die, damn it!!"[pcms]
 
 *13645|
 [fc]
-オジサンはヘンな人をエスカレーターの前まで[r]
-追いつめて、そこで一度大きく息を吸ったあと、[r]
-体重を乗せた蹴りを、ヘンな人に叩き込んだ。[pcms]
+The old man cornered the strange person in front of the[r]
+escalator, took a deep breath, and then kicked with all his[r]
+weight into the strange person.[pcms]
 
 *13646|
 [fc]
 [vo_hay s="hayami0341"]
-[ns]ありす[nse]
-「いやぁあっ！！」[pcms]
+[ns]Arisu[nse]
+"No wayyy!!"[pcms]
 
 ;//SE:人を殴る
 
@@ -255,8 +247,8 @@
 
 *13647|
 [fc]
-[ns]半裸の男[nse]
-「ぐぉ……、あ……」[pcms]
+[ns]Half-naked man[nse]
+"Guh... ah..."[pcms]
 
 ;//SE:ガラガラ
 
@@ -266,23 +258,22 @@
 
 *13648|
 [fc]
-蹴られたヘンな人は、小さく唸りながら、[r]
-エスカレーターの手すりを乗り越えて、[r]
-下の階へと転がり落ちていった。[pcms]
+The kicked strange person groaned softly as they tumbled[r]
+over the escalator handrail and fell down to the lower[r]
+floor.[pcms]
 
 *13649|
 [fc]
-大きな派手な音が聞こえてすぐ、[r]
-うなり声はまるで聞こえなくなった。[pcms]
+A loud crash was heard almost immediately, and then the[r]
+groaning stopped completely.[pcms]
 
 *13650|
 [fc]
-死んじゃったの？　[r]
-あの人……。[pcms]
+Did they die? That person...[pcms]
 
 *13651|
 [fc]
-このオジサン、やっぱり人殺しだ！！[pcms]
+This old man, he's really a murderer!![pcms]
 
 ;//♪：bgm005 stop
 [fadeoutbgm time=1][wb]
@@ -292,199 +283,193 @@
 *13652|
 [fc]
 [vo_hay s="hayami0342"]
-[ns]ありす[nse]
-「お……落ちた……？　落ちた……！！[r]
-　いやぁあぁぁああああぁあぁ！！！」[pcms]
+[ns]Arisu[nse]
+"Oh... they fell...? They fell...!! Nooooooo!!"[pcms]
 
 [ChrSetEx layer=4 chbase="naga_n03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *13653|
 [fc]
 [vo_nag s="nagasaki0153"]
-[ns]千尋[nse]
-「人殺し！！　[r]
-　アンタもアイツらの仲間じゃないの？[r]
-　なんでそんなイカレた事出来るのっ！！」[pcms]
+[ns]Chihiro[nse]
+"Murderer!! Are you also one of their group? How can you do[r]
+such a crazy thing!!"[pcms]
 
 *13654|
 [fc]
-長崎さんが叫んだように、このオジサンはやっぱり、[r]
-あのヘンな人達の仲間なんだ！！[pcms]
+Just as Nagasaki-san screamed, this old man must be one of[r]
+those strange people's group after all!![pcms]
 
 *13655|
 [fc]
-そうでなきゃ、簡単に人を刺したり、[r]
-高い所から突き落としたり出来ない！！[pcms]
+If not, he couldn't have easily stabbed someone or pushed[r]
+them off from a high place!![pcms]
 
 [ChrSetEx layer=4 chbase="sugo_k03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *13656|
 [fc]
-[ns]菅生[nse]
-「今はンな事いってる余裕ねぇだろ！！　[r]
-　アイツらに殺される前に、黙らせてるだけだッ！！[r]
-　正当防衛よ！　正当防衛！！」[pcms]
+[ns]Sugou[nse]
+"We don't have the luxury to talk about that now!! We're[r]
+just silencing them before they kill us!! It's self-defense![r]
+Self-defense!!"[pcms]
 
 [ChrSetEx layer=4 chbase="sugo_k05"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *13657|
 [fc]
-[ns]菅生[nse]
-「それよりヤツらァ……どっから入ってきやがった！[r]
-　クソダラァ！！　出てこいオラァ！！　[r]
-　皆殺しにしてやっからよォ！！」[pcms]
+[ns]Sugou[nse]
+"More importantly, where did those bastards come in from![r]
+Damn slackers!! Come out already!! I'll kill you all!!"[pcms]
 
 *13658|
 [fc]
-オジサンの言うとおり、あたし達三人でこの階には[r]
-あのヘンな人達が入ってこられないようにした筈。[pcms]
+Just as the old man said, we three should have secured this[r]
+floor so that those strange people couldn't enter.[pcms]
 
 *13659|
 [fc]
-あの人達がこっちに登って来られないのも、この目で[r]
-ちゃんと見た。[pcms]
+I saw with my own eyes that they couldn't climb up here.[pcms]
 
 *13660|
 [fc]
-それでも、どこかからか、この階に入ってきている。[pcms]
+Yet somehow, they've entered this floor from somewhere.[pcms]
 
 [ChrSetEx layer=4 chbase="sugo_k03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *13661|
 [fc]
-[ns]菅生[nse]
-「クソッ！！　上か！！　上の階から降りて[r]
-　来てやがんだ！　行くぞテメェら！！[r]
-　俺様の前を歩け！！」[pcms]
+[ns]Sugou[nse]
+"Damn it!! The top floor!! They must have come down from[r]
+above! Let's go, you lot!! Walk in front of me!!"[pcms]
 
 [ChrSetEx layer=4 chbase="naga_n03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *13662|
 [fc]
 [vo_nag s="nagasaki0154"]
-[ns]千尋[nse]
-「何でアンタの前を！！　男の癖に！！[r]
-　アタシ達を楯にするつもりね！？」[pcms]
+[ns]Chihiro[nse]
+"Why should I walk in front of you!? You're a man!! You're[r]
+planning to use us as shields, aren't you!?"[pcms]
 
 [ChrSetEx layer=4 chbase="sugo_k03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *13663|
 [fc]
-[ns]菅生[nse]
-「ツベコベ言うんじゃねェ！[r]
-　テメェらもさっきのヤツみたいに、ぶっ殺すぞ！！[r]
-　俺様ァ、人刺すなんざ何も怖くねぇんだよ！！」[pcms]
+[ns]Sugou[nse]
+"Don't give me lip! If you don't want to end up like that[r]
+last guy, keep quiet and walk!! I'm not afraid of stabbing[r]
+people, you hear me!!"[pcms]
 
 *13664|
 [fc]
-オジサンはそう叫びながら、[r]
-あたし達の近くに駆け寄って、ナイフをちらつかせる。[pcms]
+The old man shouted this as he ran up to us and flashed his[r]
+knife.[pcms]
 
 [ChrSetEx layer=4 chbase="naga_n03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *13665|
 [fc]
 [vo_nag s="nagasaki0155"]
-[ns]千尋[nse]
-「くっ……また、それ……！？[r]
-　アンタはソレがないと、何も出来ないの！？[r]
-　この……卑怯者！！」[pcms]
+[ns]Chihiro[nse]
+"Ugh... that again...!? Can't you do anything without it!?[r]
+You coward!!"[pcms]
 
 [ChrSetEx layer=4 chbase="sugo_k03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *13666|
 [fc]
-[ns]菅生[nse]
-「なんとでも言え！！　俺様が助かりゃそれで[r]
-　いいんだ！！　さっさと前歩けこのスベタ！！　[r]
-　上だァ……上行くぞ！　オラァ！」[pcms]
+[ns]Sugou[nse]
+"Say whatever you want!! As long as I survive, that's all[r]
+that matters!! Move it, you slippery brat!! We're going[r]
+up... Move it!"[pcms]
 
 *13667|
 [fc]
 [vo_hay s="hayami0343"]
-[ns]ありす[nse]
-「長崎さん……今は言うこと聞くしかないよ……。[r]
-　このオジサン、マジで何するかわからないから……」[pcms]
+[ns]Alice[nse]
+"Nagasaki-san... right now we have no choice but to listen[r]
+to him... This old man, we really don't know what he might[r]
+do..."[pcms]
 
 [ChrSetEx layer=4 chbase="naga_n01"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *13668|
 [fc]
 [vo_nag s="nagasaki0156"]
-[ns]千尋[nse]
-「……」[pcms]
+[ns]Chihiro[nse]
+"..."[pcms]
 ;//◎無言でありすに対してうなずく
 
 *13669|
 [fc]
-長崎さんは、仕方ないといった様子でうなずいて、[r]
-あたしの手を握って、オジサンの前に立って、[r]
-エスカレーターに向かって歩き始めた。[pcms]
+Nagasaki-san nodded as if she had no choice, took my hand,[r]
+stood in front of the old man, and started walking towards[r]
+the escalator.[pcms]
 
 [ChrSetEx layer=4 chbase="sugo_k02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *13670|
 [fc]
-[ns]菅生[nse]
-「ヒヒッ……最初からそうやって、大人しくしてりゃ[r]
-　いいんだよ！！　なんか出てきたら、[r]
-　俺様の楯として役に立ってくれよォ……」[pcms]
+[ns]Sugou[nse]
+"Heh heh... If only you'd been this obedient from the[r]
+start!! If anything comes out, make sure you serve well as[r]
+my shield..."[pcms]
 
 [ChrSetEx layer=4 chbase="naga_n02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *13671|
 [fc]
 [vo_nag s="nagasaki0157"]
-[ns]千尋[nse]
-「……最低のクソ野郎ね……。[r]
-　何かチャンスが有ったら、二人で逃げましょう……」[pcms]
+[ns]Chihiro[nse]
+"...You're the lowest of the low... If we get the chance,[r]
+let's escape together..."[pcms]
 ;//◎小さく呟く
 
 *13672|
 [fc]
 [vo_hay s="hayami0344"]
-[ns]ありす[nse]
-「長崎さん……首……血が……」[pcms]
+[ns]Arisu[nse]
+"Nagasaki-san... your neck... there's blood..."[pcms]
 
 *13673|
 [fc]
-首筋に血を滲ませたまま、[r]
-独り言の様に呟く長崎さんの横顔は、[r]
-何か考えがある、といった雰囲気だった。[pcms]
+With blood seeping from her neck, Nagasaki-san's profile as[r]
+she muttered to herself seemed to suggest she had some sort[r]
+of plan.[pcms]
 
 [ChrSetEx layer=4 chbase="naga_n04"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *13674|
 [fc]
 [vo_nag s="nagasaki0158"]
-[ns]千尋[nse]
-「大丈夫よ……」[pcms]
+[ns]Chihiro[nse]
+"It's okay..."[pcms]
 
 [ChrSetEx layer=4 chbase="sugo_k03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *13675|
 [fc]
-[ns]菅生[nse]
-「さっさと行けっつってんだよ！！[r]
-　何ゴチャゴチャ言ってんだよ！！　オラ！」[pcms]
+[ns]Sugou[nse]
+"I said move it!! What are you babbling about!! Hurry up!"[pcms]
 
 [ChrSetEx layer=4 chbase="naga_n02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *13676|
 [fc]
 [vo_nag s="nagasaki0159"]
-[ns]千尋[nse]
-「フン……。じゃあ……行きましょう……」[pcms]
+[ns]Chihiro[nse]
+"Hmph... Well then... let's go..."[pcms]
 
 *13677|
 [fc]
-あたし達は、オジサンに脅されて、[r]
-楯として使われる事になってしまった。[pcms]
+We were threatened by the old man and ended up being used as[r]
+shields.[pcms]
 
 *13678|
 [fc]
-もう、イヤだ……。[r]
-なんであたし、こんな目に遭うの……？[pcms]
+I'm so tired of this... Why do I have to go through[r]
+something like this...?[pcms]
 
 ;//♪：bgm009 fadeout
 [fadeoutbgm time=1000]

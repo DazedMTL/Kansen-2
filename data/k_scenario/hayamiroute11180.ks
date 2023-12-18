@@ -25,57 +25,57 @@
 
 *4007|
 [fc]
-[ns]大倉[nse]
-「……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"..."[pcms]
 
 *4008|
 [fc]
-なんか、暑くなってきたな……。[r]
-ココに隠れてから、どんぐらい経ったんだ……？[pcms]
+It's getting hot... How long have we been hiding here...?[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
 *4009|
 [fc]
-隙間から見える地面は、目が痛くなるほど、陽に白く[r]
-照らされている。[pcms]
+The ground visible through the gap is so brightly lit by the[r]
+sun that it hurts my eyes.[pcms]
 
 *4010|
 [fc]
-動いた気配がして、速水を見ると、俺を不安げな顔で[r]
-見つめていた。[pcms]
+Feeling a movement, I look at Hayami, who is staring at me[r]
+with an anxious face.[pcms]
 
 [ChrSetEx layer=4 chbase="hayami_t05"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *4011|
 [fc]
 [vo_hay s="hayami0878"]
-[ns]ありす[nse]
-「……」[pcms]
+[ns]Arisu[nse]
+"..."[pcms]
 
 [ChrSetEx layer=4 chbase="hayami_d01"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *4012|
 [fc]
-安心させるように、背中を軽くポンポンとしてやると、[r]
-速水はまた、俺の胸に顔を埋めた。[pcms]
+To reassure her, I gently pat her back, and Hayami buries[r]
+her face in my chest again.[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *4013|
 [fc]
-速水の体、大丈夫なのか……？[r]
-速く病院に連れてってやりてーけど……。[pcms]
+I wonder if Hayami's body is okay... I want to take her to[r]
+the hospital quickly...[pcms]
 
 *4014|
 [fc]
-俺らが隠れた車の周りには、だいぶ数は少なくなった[r]
-けど、まだ何人か、イカレ野郎がウロついていた。[pcms]
+Though the number has decreased significantly, there are[r]
+still a few crazed guys lurking around the car we're hiding[r]
+in.[pcms]
 
 *4015|
 [fc]
-足引っかけて転ばして、その隙に外に出るか……？[r]
-けど、そうするにしても、もうちょっと数が減って[r]
-くれねーとツライな……。[pcms]
+Should I trip them and make a break for it during the[r]
+confusion...? But even then, it's going to be tough unless[r]
+their numbers decrease a bit more...[pcms]
 
 ;//♪：bgm012 stop
 [fadeoutbgm time=502]
@@ -87,281 +87,274 @@
 
 *4016|
 [fc]
-[ns]大倉[nse]
-「！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"!!"[pcms]
 
 *4017|
 [fc]
-車体と地面の隙間から、ウロつくイカレ野郎の足を、[r]
-とっとといなくなれと思いながら見ていると、突然、[r]
-ケータイがメールの着信音を鳴らし始めた。[pcms]
+As I watch the feet of the crazed guys loitering from the[r]
+gap between the car and the ground, wishing they would[r]
+disappear, suddenly, my cell phone started ringing with an[r]
+email notification.[pcms]
 
 *4018|
 [fc]
-この曲、母さんからだ……！[r]
-無事だったのか……。[pcms]
+This tune, it's from mom...! Is she safe...?[pcms]
 
 ;//♪：bgm011
 [bgm storage="bgm011"]
 
 *4019|
 [fc]
-俺は慌ててポケットに手を突っ込み、母さんから送ら[r]
-れてきた、件名の無いメールを表示させた。[pcms]
+I hurriedly reach into my pocket and display the email[r]
+without a subject line sent from mom.[pcms]
 
 *4020|
 [fc]
-〔Ｓｕｂ：　　　　　　　　　　〕[pcms]
+></Sub:>[pcms]
 
 *4021|
 [fc]
-〔浩無事。にゅーすの病気にお父さんもかかったみた[r]
-い変な人達が。たくさん内に入ってきてて怖い〕[pcms]
+[Hiroshi is safe. Strange people who seem to have caught the[r]
+disease on the news. Many are coming inside and it's scary][pcms]
 
 *4022|
 [fc]
-内……？[r]
-家、か……？[pcms]
+Inside...? She means home, right...?[pcms]
 
 *4023|
 [fc]
-家ん中に頭イカレたヤツが入ってきてんのか……！？[r]
-それに、父さんが病気って……。[pcms]
+Has some crazy guy broken into our house...!? And dad has[r]
+caught the disease...[pcms]
 
 *4024|
 [fc]
-〔今押し入れに隠れてる見つかるかも知れない、お父[r]
-さんはもう助からないかも知れない。ニューすで結っ[r]
-ていたから〕[pcms]
+[I'm hiding in the closet now, might be found, dad might not[r]
+make it. Tied up because of the news][pcms]
 
 *4025|
 [fc]
-〔浩が帰る乃待ってます、お母さんは大丈夫です心配[r]
-　しないで、絶対無事に帰って〕[pcms]
+[Waiting for Hiroshi to come home, mom is okay don't worry,[r]
+definitely come back safely][pcms]
 
 *4026|
 [fc]
-件名が無く、変換も、改行も、句読点もおかしいのを[r]
-見ると、押し入れに隠れて、震える手でメールを文字[r]
-を打ったのがわかる。[pcms]
+Seeing the email without a subject line, with strange[r]
+conversions, line breaks, and punctuation, I can tell she[r]
+typed it while hiding in the closet with trembling hands.[pcms]
 
 [cutin_int][trans_c cross time=300]
 
 *4027|
 [fc]
-近くにいるなら、すぐに家に戻って母さんを助け出し[r]
-てやりたいけど、それは不可能だ。[pcms]
+If she were nearby, I'd rush back home to rescue mom right[r]
+away, but that's impossible.[pcms]
 
 *4028|
 [fc]
-家の中に入ってきてるイカレ野郎が出て行くか、[r]
-救助隊が来るまで、母さんが逃げ切ってくれるのを[r]
-願うコトしかできない。[pcms]
+All I can do is hope that mom can escape until either the[r]
+crazed guy leaves the house or rescue teams arrive.[pcms]
 
 *4029|
 [fc]
-母さん……。[r]
-頼むから、俺が帰るまで無事でいてくれよ……。[r]
-俺、絶対に帰るから……。[pcms]
+Mom... Please be safe until I get back... I will definitely[r]
+return...[pcms]
 
 [ChrSetEx layer=4 chbase="hayami_t06"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *4030|
 [fc]
 [vo_hay s="hayami0879"]
-[ns]ありす[nse]
-「ヒロシ……！」[pcms]
+[ns]Alice[nse]
+"Hiroshi...!"[pcms]
 ;//◎小声
 
 *4031|
 [fc]
-[ns]大倉[nse]
-「……？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"...?"[pcms]
 
 *4032|
 [fc]
-怖がってるような顔で、俺の後ろを見てい[r]
-る速水の視線を追うと、イカレ野郎が何人も、こっち[r]
-に向かって歩いてきていた。[pcms]
+Following Hayami's gaze, which seems scared as she looks[r]
+behind me, I see several crazed guys walking towards us.[pcms]
 
 *4033|
 [fc]
-チッ……！[r]
-着信音に反応しやがったのか……。[pcms]
+Tch...! Did they react to the ringtone...?[pcms]
 
 *4034|
 [fc]
-せっかく少なくなったイカレ野郎の数が、どんどん[r]
-増えていく。[pcms]
+The number of crazed guys, which had finally decreased, is[r]
+increasing again.[pcms]
 
 *4035|
 [fc]
-コイツらが諦めて車から離れるまで、また長い時間、[r]
-待たなきゃならないコトにウンザリしてると、どこか[r]
-から、ヘリコプターが飛んでる音が聞こえてきた。[pcms]
+As I'm getting fed up with waiting for these guys to give up[r]
+and move away from the car, I hear the sound of a helicopter[r]
+flying somewhere.[pcms]
 
 ;//[]SE：ヘリコプターのローター音
 [se0 storage="SE12"]
 
 *4036|
 [fc]
-[ns]大倉[nse]
-「もしかして、救助隊か……？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Could it be the rescue team...?"[pcms]
 
 *4037|
 [fc]
-屋上の上をグルグル回ってるらしく、ヘリの音とライ[r]
-トが、遠くなったり近づいたりを繰り返している。[pcms]
+The helicopter seems to be circling above the rooftop, with[r]
+its sound and lights getting farther and closer repeatedly.[pcms]
 
 *4038|
 [fc]
-上空を飛ぶヘリの音に反応して、車の周りにいたヤツ[r]
-らが、[pcms]
+Reacting to the sound of the helicopter flying overhead, the[r]
+guys around the car...[pcms]
 
 *4039|
 [fc]
-よしッ……！[r]
-そのまま、そのまま行け……。[r]
-全員こっから消えろ……！[pcms]
+Alright...! Keep going, just like that. Everyone disappear[r]
+from here...![pcms]
 
 *4040|
 [fc]
-隙間から見えるヤツらの足が、ヘリの音を追って１人、[r]
-また１人と離れていき、とうとう俺らが隠れてる車の[r]
-周りから、イカレ野郎は全員いなくなった。[pcms]
+The feet of those guys visible through the gap start to move[r]
+away one by one following the sound of the helicopter until[r]
+finally, all the crazed guys around the car we were hiding[r]
+in are gone.[pcms]
 
 *4041|
 [fc]
-[ns]大倉[nse]
-「よし、出るぞ速水！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Alright, let's go out Hayami!"[pcms]
 
 [ChrSetEx layer=4 chbase="hayami_t05"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *4042|
 [fc]
 [vo_hay s="hayami0880"]
-[ns]ありす[nse]
-「うん……！」[pcms]
+[ns]Arisu[nse]
+"Yeah...!"[pcms]
 
 *4043|
 [fc]
-車の下から這って出て、開放感に大きく息を吸い込ん[r]
-だ俺は、ふいに強いライトの光で照らされて、眩しさ[r]
-に目を細め、顔を逸らした。[pcms]
+Crawling out from under the car and taking a deep breath of[r]
+relief, I was suddenly illuminated by a strong light and[r]
+squinted my eyes from the glare, turning my face away.[pcms]
 
 *4044|
 [fc]
-[ns]大倉[nse]
-「う……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Ugh..."[pcms]
 
 [ChrSetEx layer=4 chbase="hayami_t04"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *4045|
 [fc]
 [vo_hay s="hayami0881"]
-[ns]ありす[nse]
-「ヒロシ、ヘリコプターこっちくる！」[pcms]
+[ns]Arisu[nse]
+"Hiroshi, the helicopter is coming this way!"[pcms]
 
 *4046|
 [fc]
-手でライトの光を遮りながら空を見上げると、ヘリが[r]
-機体をフラフラさせながら、こっちへ向かってくるの[r]
-がわかった。[pcms]
+Shielding my eyes from the light with my hand and looking up[r]
+at the sky, I could see the helicopter wobbling towards us.[pcms]
 
 *4047|
 [fc]
-[ns]大倉[nse]
-「……？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"…?"[pcms]
 
 *4048|
 [fc]
-眩しい光の中、ヘリの機体から、何かがボロボロと[r]
-落ちていくのに、俺は気づいた。[pcms]
+In the blinding light, I noticed something falling from the[r]
+helicopter's body.[pcms]
 
 *4049|
 [fc]
-なに落としてんだ？　アレ……。[r]
-飛び方も安定してねーし……。[r]
-気流が激しいとかか……？[pcms]
+What are they dropping? That... The way it's flying isn't[r]
+stable either... Is it because of turbulent air currents...?[pcms]
 
 *4050|
 [fc]
-もしかしたら救助隊じゃないかもしれない、と俺は[r]
-ヘリを疑ったけど、コレが助かるチャンスなのは間違[r]
-いない。[pcms]
+Even though I'm suspicious of the helicopter not being a[r]
+rescue team, there's no doubt this is a chance for[r]
+salvation.[pcms]
 
 *4051|
 [fc]
-今を逃したら、今度のチャンスがいつになるかわから[r]
-ないし、もしかしたら、次は無いかもしれない。[pcms]
+If we miss this opportunity now, who knows when the next one[r]
+will comeif there even is a next time.[pcms]
 
 *4052|
 [fc]
-俺はそう考え、さっきまで隠れていた車の屋根の上に[r]
-乗り、大きく両手を振って、助けてくれとヘリに[r]
-アピールした。[pcms]
+With that thought in mind, I climbed onto the roof of the[r]
+car we had been hiding under and waved my hands vigorously[r]
+to signal for help from the helicopter.[pcms]
 
 [ChrSetEx layer=4 chbase="hayami_t09"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *4053|
 [fc]
 [vo_hay s="hayami0882"]
-[ns]ありす[nse]
-「あっ……！」[pcms]
+[ns]Arisu[nse]
+"Ah...!"[pcms]
 
 *4054|
 [fc]
-[ns]大倉[nse]
-「オ、オイ！　どこ行くんだよ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Hey! Where are you going?!"[pcms]
 
 *4055|
 [fc]
-必死のアピールに気づかなかったのか、ヘリは俺らの[r]
-頭の上を通り過ぎていった。[pcms]
+Whether they didn't notice my desperate signaling or not,[r]
+the helicopter flew right past us overhead.[pcms]
 
 *4056|
 [fc]
-[ns]大倉[nse]
-「クソッ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Damn it!!"[pcms]
 
 [ChrSetEx layer=4 chbase="hayami_t06"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *4057|
 [fc]
 [vo_hay s="hayami0883"]
-[ns]ありす[nse]
-「あのヘンなひとたちと、[r]
-　おんなじにおもわれたのかな……」[pcms]
+[ns]Arisu[nse]
+"I wonder if they thought we were the same as those weird[r]
+people..."[pcms]
 
 *4058|
 [fc]
-屋上を完全に通り過ぎたヘリは、フェンスの向こうで、[r]
-急激に高度を下げていき、俺らから見えなくなった。[pcms]
+The helicopter that had completely passed over the rooftop[r]
+rapidly decreased its altitude beyond the fence and[r]
+disappeared from our sight.[pcms]
 
 *4059|
 [fc]
-イカレ野郎は全部、フェンスの前に集まって下を覗き[r]
-込み、ヘリの行方を追っている。[pcms]
+All the crazies gathered in front of the fence, peering down[r]
+and following the helicopter's path.[pcms]
 
 *4060|
 [fc]
-[ns]大倉[nse]
-「……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"..."[pcms]
 
 *4061|
 [fc]
-俺らの方に飛んできてたんだから、絶対、手ぇ振って[r]
-たのわかっただろ……！！[pcms]
+I'm sure they must have seen us waving our hands since they[r]
+flew towards us...!![pcms]
 
 *4062|
 [fc]
-なのに、なんでシカトすんだよ……！！[pcms]
+So why are they ignoring us...!![pcms]
 
 *4063|
 [fc]
 [vo_hay s="hayami0884"]
-[ns]ありす[nse]
-「どうする？　ヒロシ……」[pcms]
+[ns]Alice[nse]
+"What should we do? Hiroshi..."[pcms]
 
 *4064|
 [fc]
-[ns]大倉[nse]
-「あぁ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Ah..."[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
@@ -377,72 +370,71 @@
 
 *4065|
 [fc]
-[ns]大倉[nse]
-「……？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"…?"[pcms]
 
 *4066|
 [fc]
-突然、何かが爆発するような音が聞こえて、そっちに[r]
-目をやると、青空に黒い煙が拡がっていくのが見えた。[pcms]
+Suddenly, a sound like an explosion was heard, and when I[r]
+looked in that direction, I could see black smoke spreading[r]
+in the blue sky.[pcms]
 
 *4067|
 [fc]
-[ns]大倉[nse]
-「なんだ……？」[pcms]
+[ns]Ookura[nse]
+"What's that...?"[pcms]
 
 *4068|
 [fc]
-イカレ野郎が集まるフェンスの、数メートル手前に置[r]
-いてある車まで行き、屋根に上ってみると、向こうの[r]
-ビルの真ん中辺りから、黒い煙と火が上がっている。[pcms]
+When I went to a car a few meters in front of the fence[r]
+where the crazies were gathering and climbed onto the roof,[r]
+I could see black smoke and flames rising from around the[r]
+middle of a building on the other side.[pcms]
 
 *4069|
 [fc]
-もしかして……。[r]
-ヘリコプターが突っ込んだとか……？[r]
-それとも、ガス爆発とか……。[pcms]
+Could it be... Did the helicopter crash into it? Or was it a[r]
+gas explosion...?[pcms]
 
 *4070|
 [fc]
-向こうのビルが突然、爆発したコトに、ワケがわから[r]
-ずキョトンとしてると、フェンスの前にいるイカレ野[r]
-郎も、同じようにポカンとしていた。[pcms]
+As I stood dumbfounded by the sudden explosion of the[r]
+building on the other side, the crazies in front of the[r]
+fence also looked just as stunned.[pcms]
 
 *4071|
 [fc]
-今なら、コッソリ逃げれば、アイツら追ってこねーん[r]
-じゃねーか……？[pcms]
+If we sneak away now, maybe those guys won't follow us...?[pcms]
 
 *4072|
 [fc]
-安全にココから逃げられるかもしれない……。[r]
-けど、どうしよう……。[r]
-どっか隠れられるようなトコ……。[pcms]
+It might be possible to escape safely from here... But what[r]
+should we do... Somewhere to hide...[pcms]
 
 *4073|
 [fc]
-[ns]大倉[nse]
-「あれ……？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Huh...?"[pcms]
 
 *4074|
 [fc]
-どこへ逃げるか考えてる最中、フェンスの向こうに見[r]
-えてる道に、テレビで見たコトがある、軍用車っぽい[r]
-トラックとか車が何台か走ってるのに気づいた。[pcms]
+While thinking about where to escape, I noticed some trucks[r]
+and vehicles that looked like military ones I had seen on TV[r]
+driving on the road beyond the fence.[pcms]
 
 *4075|
 [fc]
-自衛隊、か……？[r]
-そういや、あのニュースで、救助のために自衛隊が[r]
-出動したとか言ってたな……。[pcms]
+The Self-Defense Forces, maybe...? Come to think of it, the[r]
+news did say that the Self-Defense Forces were deployed for[r]
+rescue operations...[pcms]
 
 *4076|
 [fc]
-だとしたら、今度こそ助かるかも……！[r]
-だったら……。[pcms]
+If that's the case, we might really be saved this time...![r]
+In that case...[pcms]
 
 ;//ブロック１１１９０へ
 
 [jump storage="hayamiroute11190.ks" target=*hayamiroute11190_TOP]
 
-;//－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+;//

@@ -1,11 +1,11 @@
-;//■ブロック１０２３０：『AIR－BRIDGE』
+;//■ブロック１０２３０：『AIRBRIDGE』
 ;//◎…アフレコ時の注意、または指示
 
 *westtown_main10230_TOP
 ;[debug_win]
 ;[eval exp="f.nowfile = 'なうwesttown_main10230'"]
 ;[debug_win_end]
-;<SceneSet ＡＩＲ－ＢＲＩＤＧＥ>
+;<SceneSet ＡＩＲＢＲＩＤＧＥ>
 
 ;//〆West1-ED
 ;//ブロック１０２３０
@@ -25,13 +25,13 @@
 
 *10891|
 [fc]
-イカレ野郎が出てくることもなく、短い通路の先にあ[r]
-る渡り廊下までは、すぐに辿り着いた。[pcms]
+We managed to reach the short corridor leading to the[r]
+crosswalk without encountering any crazed guys.[pcms]
 
 *10892|
 [fc]
-けど、そこまで来て俺らは、速水を助けるための方法[r]
-を、一から考え直さなきゃならなくなった。[pcms]
+But once we got there, we had to rethink our plan to save[r]
+Hayami from scratch.[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
@@ -40,33 +40,33 @@
 
 *10893|
 [fc]
-[ns]大倉[nse]
-「…………」[pcms]
+[ns]Ookura[nse]
+"..."[pcms]
 
 ;//★ＢＧＳ：ゲートB
 [cutin storage="BGS01b"][trans_c cross time=500]
 
 *10894|
 [fc]
-『Ｗｅｓｔｇａｔｅ』と上の部分に書かれている、３[r]
-階と渡り廊下の継ぎ目には、頑丈そうなシャッターが[r]
-降ろされていた。[pcms]
+The junction between the third floor and the crosswalk,[r]
+labeled "Westgate" above, was sealed off by a sturdy-looking[r]
+shutter.[pcms]
 
 *10895|
 [fc]
-開けるための装置はすぐに見つかったが、血まみれに[r]
-なっているボタンを何回押しても、シャッターは全然[r]
-開こうとしない。[pcms]
+Although we quickly found the device to open it, no matter[r]
+how many times we pressed the blood-covered button, the[r]
+shutter wouldn't budge.[pcms]
 
 *10896|
 [fc]
-多分、ボタンの下にある『手動ロック』と表記された[r]
-鍵穴が、『閉』の方に傾いているせいだろう。[pcms]
+Probably because the keyhole labeled "manual lock"[r]
+underneath the button was tilted towards "closed".[pcms]
 
 *10897|
 [fc]
-[ns]大倉[nse]
-「クソッ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Damn it!!"[pcms]
 
 ;//SE：シャッターを蹴る音（？）
 [se0 storage="SE19"]
@@ -77,66 +77,63 @@
 *10898|
 [fc]
 [ns]？？？[nse]
-「ま゛んこかあ゛ぁ～～……？　まん゛こぉ～～……[r]
-　ま゛ぁん゛こぉ～～～……っ！！」[pcms]
+"Pussy, huh~...? Pussy~... Pussy~~...!!"[pcms]
 
 *10899|
 [fc]
 [ns]？？？[nse]
-「お゛れた゛あ゛ぁ～～……お゛れか゛、さい゛しょ[r]
-　に゛ぃ～～……あ゛たらしい゛ま゛ん゛こぉ、つか[r]
-　う゛んた゛よお゛ぉ～～～……っ！！」[pcms]
+"I'm gonna be the first one~... to use that fresh new pussy,[r]
+yeah~~...!!"[pcms]
 
 *10900|
 [fc]
-[ns]大倉[nse]
-「……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"..."[pcms]
 
 ;//SE：シャッターを叩く音（？）
 [se0 storage="SE19"]
 
 *10901|
 [fc]
-蹴った時の音に反応したのか、シャッターの向こう側[r]
-から、今までに散々聴いた、気味の悪いザラついた声[r]
-が聞こえてくる。[pcms]
+The sound of my kick seemed to trigger a response from[r]
+beyond the shutter, as a creepy, grating voice that I had[r]
+heard all too often began to echo through.[pcms]
 
 *10902|
 [fc]
-俺はそこで初めて、誰かがこのシャッターを開かない[r]
-ようにした理由がわかった。[pcms]
+It was then that I first understood why someone had made[r]
+sure this shutter wouldn't open.[pcms]
 
 *10903|
 [fc]
-よく見ると装置の周りの壁に、血の付いた手でこすっ[r]
-たような痕がついていた。[pcms]
+Looking closer, there were marks on the walls around the[r]
+device that looked like they were smeared with bloody hands.[pcms]
 
 *10904|
 [fc]
-ここの鍵を持った誰かが、ヤツらに襲われながらも、[r]
-渡り廊下にいるイカレ野郎を閉め出すために、必死で[r]
-手動ロックを作動させたんだろう。[pcms]
+Someone with the key must have desperately activated the[r]
+manual lock to keep out the crazed guys in the crosswalk[r]
+while being attacked.[pcms]
 
 *10905|
 [fc]
-でも、１階にイカレ野郎が大勢いたことを考えると、[r]
-彼か彼女か知らないけど、ケガをしてまでそのヒトが[r]
-やったことは、ムダに終わったようだ。[pcms]
+But considering how many crazed guys were on the first[r]
+floor, whether it was a he or a she, their efforts seemed to[r]
+have been in vain despite their injuries.[pcms]
 
 *10906|
 [fc]
-特に、速水を助けるためにここに来た俺にとっては、[r]
-ムダどころか、余計なことをしてくれた、としか思え[r]
-なかった。[pcms]
+Especially for me, who came here to save Hayami, it felt[r]
+like not just a waste, but an unnecessary complication.[pcms]
 
 *10907|
 [fc]
-[ns]大倉[nse]
-「……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"..."[pcms]
 
 *10908|
 [fc]
-速水……。[pcms]
+Hayami...[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]
@@ -168,9 +165,9 @@
 *10909|
 [fc]
 [vo_hay s="hayami0044"]
-[ns]ありす[nse]
-「バカって言った方がバカだもんね！　ヒロシのバー[r]
-　カバーカ！！」[pcms]
+[ns]Alice[nse]
+"The one who calls another stupid is the stupid one![r]
+Hiroshi, you big dummy!!"[pcms]
 ;//◎流用するため、録る必要なし
 
 ;//BKACKOUT
@@ -184,8 +181,8 @@
 *10910|
 [fc]
 [vo_hay s="hayami0085"]
-[ns]ありす[nse]
-「甘いものは別腹だも～ん」[pcms]
+[ns]Arisu[nse]
+"Sweets go in a separate stomach~"[pcms]
 ;//◎流用するため、録る必要なし
 
 ;//BKACKOUT
@@ -202,9 +199,9 @@
 *10911|
 [fc]
 [vo_hay s="hayami0011"]
-[ns]ありす[nse]
-「んじゃ、卒業したあと、３人でもっとオモシロそう[r]
-　なとこ行こうよ。海外でもいいしさ」[pcms]
+[ns]Alice[nse]
+"Then after we graduate, let's go somewhere even more fun,[r]
+just the three of us. Even going abroad would be nice."[pcms]
 ;//◎流用するため、録る必要なし
 
 ;//♪：bgm010 fadeout
@@ -232,11 +229,11 @@
 
 *10912|
 [fc]
-３人……。[pcms]
+The three of us...[pcms]
 
 *10913|
 [fc]
-俺は速水の言葉を思い出して、ユウに目を向けた。[pcms]
+Remembering Hayami's words, I turned my gaze towards Yuu.[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
@@ -244,67 +241,66 @@
 
 *10914|
 [fc]
-俺の少し後ろに立ち、ボンヤリとした顔をして、ユウ[r]
-は閉じられたシャッターの一ヶ所を、ジーッと見つめ[r]
-ている。[pcms]
+Standing slightly behind me with a vacant expression, Yuu[r]
+was intently staring at a particular spot on the closed[r]
+shutter.[pcms]
 
 *10915|
 [fc]
-[ns]大倉[nse]
-「……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"..."[pcms]
 
 *10916|
 [fc]
-カゼなのか何なのか知らねーけど……。[r]
-正直、今のユウはあんまり頼りにならねぇ……。[pcms]
+Whether it's a cold or something else... Honestly, Yuu isn't[r]
+very reliable right now...[pcms]
 
 *10917|
 [fc]
-俺が速水を助けてやらなきゃ……。[r]
-こんなトコで、いつまでもウダウダやってるヒマなん[r]
-かねぇ……！[pcms]
+I have to save Hayami... There's no time to dawdle here...![pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *10918|
 [fc]
-今いる人間の中で、一番信用できそうな女の人に、俺[r]
-は。[pcms]
+To the woman who seemed most trustworthy among us now, I[r]
+said...[pcms]
 
 [ChrSetEx layer=4 chbase="anza_n05"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *10919|
 [fc]
-[ns]大倉[nse]
-「すいません、先に屋上へ行っててくれませんか？[r]
-　なんだったら、そのまま逃げてもらってもいいんで」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Excuse me, could you go ahead to the rooftop? If you want,[r]
+you can escape from there."[pcms]
 
 [ChrSetEx layer=4 chbase="anza_n09"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *10920|
 [fc]
 [vo_anz s="anzai0110"]
-[ns]女[nse]
-「……あなたは？」[pcms]
+[ns]Female[nse]
+"...Who are you?"[pcms]
 
 *10921|
 [fc]
-[ns]大倉[nse]
-「下に戻って、１階から向こうのビルに行きます」[pcms]
+[ns]Ookura Hiroshi[nse]
+"I'm going back down and heading to the building across from[r]
+the first floor."[pcms]
 
 [ChrSetEx layer=4 chbase="anza_n07"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *10922|
 [fc]
 [vo_anz s="anzai0111"]
-[ns]女[nse]
-「無茶よ、そんなの！　１階にも、エントランスにも、[r]
-　おかしな人達が大勢いたのを忘れたの！？」[pcms]
+[ns]Female[nse]
+"That's crazy! Have you forgotten that there were lots of[r]
+strange people on the first floor and in the entrance!?"[pcms]
 
 *10923|
 [fc]
-[ns]大倉[nse]
-「俺１人だったらなんとか……」[pcms]
+[ns]Ookura[nse]
+"If it's just me alone, somehow..."[pcms]
 
 ;//SE：ケータイの着信音（？）
 [se0 storage="SE01" loop=true]
@@ -315,17 +311,17 @@
 
 *10924|
 [fc]
-突然、ポケットから場違いな音楽が鳴り響き、慌てて[r]
-ケータイを取り出してみると、画面には『速水』と表[r]
-示されていた。[pcms]
+Suddenly, an out-of-place ringtone blared from my pocket,[r]
+and when I hastily took out my cell phone, it displayed[r]
+"Hayami".[pcms]
 
 [ChrSetEx layer=4 chbase="nanasi_n04"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *10925|
 [fc]
 [vo_mob s="girl0002"]
-[ns]少女[nse]
-「くふっ……ふはっ！　あははっ！　あはははは！！」[pcms]
+[ns]Girl[nse]
+"Kufu... Fuhah! Ahahaha! Ahahahaha!!"[pcms]
 
 [cutin_int][trans_c cross time=300]
 
@@ -334,37 +330,35 @@
 
 *10926|
 [fc]
-辺りに響き渡る着信音に反応したかのように、今まで[r]
-女の人としか喋らなかった女の子が、急に大声で笑い[r]
-出した。[pcms]
+The ringing seemed to catch her attention as if on cue;[r]
+until now, she had only spoken with women, but suddenly she[r]
+burst into loud laughter.[pcms]
 
 *10927|
 [fc]
 [vo_mob s="girl0003"]
-[ns]少女[nse]
-「はははははっ！　あはっ……ふふっ……くふふ……[r]
-　あっはははは！！」[pcms]
+[ns]Girl[nse]
+"Hahahahaha! Ahah... Fufu... Kufufu... Ahahahaha!!"[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *10928|
 [fc]
-呆気にとられた俺らの注目の中、彼女は天井を仰いで、[r]
-フラフラとよろめきながら、お嬢様の方へと近寄って[r]
-いく。[pcms]
+In the midst of our stunned attention, she looked up at the[r]
+ceiling and staggered towards the young lady while laughing.[pcms]
 
 [ChrSetEx layer=2 chbase="nanasi_n06"][ChrSetXY layer=2 x=0 y=0]
 [ChrSetEx layer=3 chbase="jinguji_n04"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
 
 *10929|
 [fc]
-そしてクルッと回りながら手を振り上げ、お嬢様の顔[r]
-を目がけて振り下ろした。[pcms]
+And then she spun around and swung her hand down towards the[r]
+young lady's face.[pcms]
 
 *10930|
 [fc]
-[ns]大倉[nse]
-「オ、オイ！」[pcms]
+[ns]Ookura[nse]
+"Hey!"[pcms]
 
 ;//SE：打撃音（？）
 [se1 storage="SE20"]
@@ -377,55 +371,55 @@
 *10931|
 [fc]
 [vo_may s="maya0085"]
-[ns]お嬢様[nse]
-「んぅっ……！」[pcms]
+[ns]Young Lady[nse]
+"Ngh...!"[pcms]
 
 *10932|
 [fc]
 [vo_mob s="girl0004"]
-[ns]少女[nse]
-「ふふふははっ！！　あはっははっは！！　くふふっ[r]
-　……くく……くぁははははっ！！」[pcms]
+[ns]Girl[nse]
+"Fufuhaha!! Ahahhahah!! Kufufu... Kuk... Kwahahaha!!"[pcms]
 
 ;//SE：打撃音（？）
 [se1 storage="SE20"]
 
 *10933|
 [fc]
-女の子は手を振り上げ、お嬢様の顔を狙って振り下ろ[r]
-すのを繰り返し続けた。[pcms]
+The girl kept swinging her hand down at the young lady's[r]
+face repeatedly.[pcms]
 
 *10934|
 [fc]
-見ている限りは、女の子の手にはあんまり力が込めら[r]
-れていないように見えるが、叩かれる度に、お嬢様の[r]
-体は大きく揺れた。[pcms]
+From what I could see, it didn't seem like there was much[r]
+force in the girl's hand, but with every hit, the young[r]
+lady's body shook violently.[pcms]
 
 [ChrSetEx layer=4 chbase="anza_n12"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *10935|
 [fc]
 [vo_anz s="anzai0112"]
-[ns]女[nse]
-「何してるの！　やめなさい！！」[pcms]
+[ns]Female[nse]
+"What are you doing! Stop it!!"[pcms]
 
 *10936|
 [fc]
-理解できない行動に、呆気にとられていた女の人が我[r]
-に返ったように叫んで、女の子に向かっていく。[pcms]
+The woman who had been stunned by the incomprehensible[r]
+behavior shouted as if coming back to her senses and moved[r]
+towards the girl.[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *10937|
 [fc]
-けど、それより速く、お嬢様のハスキーが女の子に飛[r]
-びかかった。[pcms]
+But faster than her, the young lady's husky dog leaped at[r]
+the girl.[pcms]
 
 *10938|
 [fc]
 [vo_mob s="girl0005"]
-[ns]少女[nse]
-「あはっあははっ、はっ、ひっ、ひははっ！！」[pcms]
+[ns]Girl[nse]
+"Ahahahah, hah, hih, hihaha!!"[pcms]
 
 ;//SE：打撃音（？）
 [se1 storage="SE20"]
@@ -434,39 +428,38 @@
 
 *10939|
 [fc]
-[ns]ジョン[nse]
-「グァフッ……！！」[pcms]
+[ns]John[nse]
+"Guaf...!!"[pcms]
 
 *10940|
 [fc]
-けどハスキーは、女の子が振り下ろした手をもろに目[r]
-に受け、地面に叩きつけられた。[pcms]
+But the husky was struck squarely in the eye by the girl's[r]
+swinging hand and was slammed to the ground.[pcms]
 
 [quake_bg 元time=1000 xy m]
 
 *10941|
 [fc]
 [vo_anz s="anzai0113"]
-[ns]女[nse]
-「うぅっ！！」[pcms]
+[ns]Female[nse]
+"Ugh!!"[pcms]
 
 *10942|
 [fc]
-ハスキーに続いて止めに入った女の人も、見境無く振[r]
-り回されるようになった女の子の手を食らい、吹き飛[r]
-ばされて、壁に叩きつけられた。[pcms]
+The woman who tried to intervene after the husky was also[r]
+struck by the girl's wildly swinging hand, blown away, and[r]
+slammed against the wall.[pcms]
 
 [ChrSetEx layer=4 chbase="nanasi_n06"][ChrSetXY layer=4 x=160 y=0][trans_c cross time=150]
 
 *10943|
 [fc]
 [vo_mob s="girl0006"]
-[ns]少女[nse]
-「ふぁははっ、あっははははは！！　ひぃーっははは[r]
-　ははははは！！」[pcms]
+[ns]Girl[nse]
+"Fahahah, ahahahahaha!! Hii-hahahahaha!!"[pcms]
 
 ;//状況継続
 
 [jump storage="westtown_main10240.ks" target=*westtown_main10240_TOP]
 
-;//－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+;//

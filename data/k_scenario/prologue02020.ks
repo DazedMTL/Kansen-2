@@ -31,17 +31,17 @@
 
 *7074|
 [fc]
-人影が入っていった店は、どうやら俺らが行った、あ[r]
-のメイド喫茶らしかった。[pcms]
+The shop that the figure entered seemed to be the maid cafe[r]
+we had visited.[pcms]
 
 *7075|
 [fc]
-俺は急いで扉を開け、中に飛び込んだ。[pcms]
+I hurriedly opened the door and jumped inside.[pcms]
 
 *7076|
 [fc]
-[ns]大倉[nse]
-「すいません、あの……！！」[pcms]
+[ns]Ookura[nse]
+"Excuse me, um...!!"[pcms]
 
 ;//♪：stop
 [fadeoutbgm time=1000][wb]
@@ -64,360 +64,340 @@
 *7077|
 [fc]
 [vo_mob s="madeA0005"]
-[ns]メイドＡ[nse]
-「あぅっ……ぅぐっ、んぐうぅ……い、やぁっ……！！[r]
-　やめ……助け、あぐっ！　……誰かぁっ！！」[pcms]
+[ns]Maid A[nse]
+"Ah...ugh, nguu...no, stop...help, agu! ...someone!!"[pcms]
 
 *7078|
 [fc]
-確かに、そこにヒトはいた。[pcms]
+Indeed, there were people there.[pcms]
 
 *7079|
 [fc]
-でも、何があったのかを話し合っていたり、ケガした[r]
-人間の応急処置をしていたりというような、俺の期待[r]
-していた光景はそこには無かった。[pcms]
+But the scene I had hoped for, where people were discussing[r]
+what happened or administering first aid to the injured, was[r]
+not there.[pcms]
 
 *7080|
 [fc]
-[ns]太った青年[nse]
-「しろ゛いおな゛か……お゛いしそう゛～……たへ゛[r]
-　てい゛い……？　い゛いよね゛……？　あ゛～～～[r]
-　んむ……」[pcms]
+[ns]Overweight Young Man[nse]
+"Such a white belly...looks delicious...shall I eat it...?[r]
+Is it okay...? Ah~~~ nmu..."[pcms]
 
 *7081|
 [fc]
 [vo_mob s="madeA0006"]
-[ns]メイドＡ[nse]
-「あっ、ぎいぃっ……！！　うぁっ、はっぐ！　うぅ、[r]
-　やめて、えぇ……！！」[pcms]
+[ns]Maid A[nse]
+"Ah, gyii...!! Uwa, hag! Uu, stop it, ehh...!!"[pcms]
 
 *7082|
 [fc]
-[ns]男子学生１[nse]
-「はあ゛ぁ～～……はあ゛ぁ～～……も゛うい゛っか[r]
-　い……もう゛いっかい゛ぃ～～……」[pcms]
+[ns]Male Student 1[nse]
+"Haa~~...haa~~...once more...one more time~~..."[pcms]
 
 *7083|
 [fc]
 [vo_mob s="madeB0001"]
-[ns]メイドＢ[nse]
-「ぅぐ……あっ、ぅ……んうぅ……」[pcms]
+[ns]Maid B[nse]
+"Ugu...ah, u...nuuu..."[pcms]
 
 *7084|
 [fc]
-店の中では見覚えのある顔の女が、何人かの男によっ[r]
-てたかって犯されていた。[pcms]
+In the shop, a familiar-faced woman was being raped by[r]
+several men.[pcms]
 
 *7085|
 [fc]
-まるで現実感の無いその状況を、ただでさえ混乱して[r]
-いる頭で理解できるワケもなく、俺は突っ立ったまま、[r]
-目の前の凶行をただ眺め続けていた。[pcms]
+Unable to comprehend the surreal situation with my already[r]
+confused mind, I just stood there, continuing to watch the[r]
+atrocity unfold before me.[pcms]
 
 *7086|
 [fc]
-[ns]出腹の中年男[nse]
-「く゛ふう゛ぅ～～……わかい゛おんな゛の゛まんこ[r]
-　……しま゛りか゛い゛いなあ゛ぁ～～……く゛ふふ[r]
-　う゛ぅ～～」[pcms]
+[ns]Middle-aged man with a potbelly[nse]
+"Gufuu~~...young woman's pussy...it's so tight~~...gufufu[r]
+uuu~~"[pcms]
 
 *7087|
 [fc]
 [vo_mob s="madeA0007"]
-[ns]メイドＡ[nse]
-「お、願っ……ぁぐっ！　助け、てぇ……っ！！」[pcms]
+[ns]Maid A[nse]
+"Please, I beg...agu! Help me...!!"[pcms]
 
 *7088|
 [fc]
-四つん這いにされ、腹の出た中年の男に後ろから犯さ[r]
-れている女が、俺を見つけて片手を伸ばし、悲痛な声[r]
-をあげて助けてを求めてくる。[pcms]
+The woman who was being raped from behind by a middle-aged[r]
+man with a protruding belly reached out one hand towards me[r]
+and cried out in agony for help.[pcms]
 
 *7089|
 [fc]
-[ns]眼鏡の中年男[nse]
-「まんし゛る、あ゛んな゛にたらして……きも゛ちよ[r]
-　さそうた゛な゛あぁ～……うしろ゛から゛、おま゛[r]
-　んこされるの゛……すきな゛んた゛あぁ～～」[pcms]
+[ns]Middle-aged man with glasses[nse]
+"Panties getting so wet...looks like it feels good...you[r]
+like being fucked from behind, don't you~~..."[pcms]
 
 *7090|
 [fc]
 [vo_mob s="madeA0008"]
-[ns]メイドＡ[nse]
-「ち、違っ……んぐっ！　く、はぁうっ……！！　こ[r]
-　んなの、好きじゃ……ぅはっ……！！」[pcms]
+[ns]Maid A[nse]
+"No, that's wrong...ngu! Ku, haa...!! I don't like this kind[r]
+of thing...uha...!!"[pcms]
 
 *7091|
 [fc]
-[ns]太った青年[nse]
-「ぁむ……んく゛……んく゛うう゛ぅ～～……っ！！」[pcms]
+[ns]Overweight Young Man[nse]
+"Amu...ngu...nguuuu~~...!!"[pcms]
 
 *7092|
 [fc]
 [vo_mob s="madeA0009"]
-[ns]メイドＡ[nse]
-「いぎいいぃぃぃっ！！！　……くはぁっ……ハァッ[r]
-　ハァッ……」[pcms]
+[ns]Maid A[nse]
+"Igiiiiii!! ...kuhaa...Haa Haa..."[pcms]
 
 *7093|
 [fc]
-[ns]眼鏡の中年男[nse]
-「かんし゛てる゛う゛ぅ～～……すきな゛んだぁ……[r]
-　い゛たくされ゛て、お゛まんこするの゛……すきな[r]
-　んた゛あ゛ぁ～～」[pcms]
+[ns]Middle-aged man with glasses[nse]
+"You're enjoying it~~...you like it...being hurt and fucked[r]
+in the pussy...you like it~~..."[pcms]
 
 *7094|
 [fc]
-ニタニタ笑いながら耳元で囁く眼鏡の男に、弱々しく[r]
-言い返していた女は、突然大きく目を見開き、すごい[r]
-勢いで後ろの男に顔を向けた。[pcms]
+As the man with glasses whispered in her ear with a smirk,[r]
+the weakly retorting woman suddenly widened her eyes and[r]
+turned her face towards the man behind her with great force.[pcms]
 
 *7095|
 [fc]
 [vo_mob s="madeA0010"]
-[ns]メイドＡ[nse]
-「そこダメぇっ！！　指入れ……イヤアァァッ！！！」[pcms]
+[ns]Maid A[nse]
+"Not there! Don't put your finger in...NOOO!!"[pcms]
 
 ;//ＳＥ：しめった音
 [se1 storage="SE52"]
 
 *7096|
 [fc]
-[ns]出腹の中年男[nse]
-「く゛ふぁあ゛～～……ま゛んこ、しま゛ったそ゛ぉ[r]
-　……けつの゛あな゛に、つっこまれ゛て……まんこ、[r]
-　きつくな゛りやか゛ったぁ！」[pcms]
+[ns]Middle-aged man with a potbelly[nse]
+"Gufaa~~...pussy's so tight...getting fucked in the ass[r]
+makes the pussy even tighter!"[pcms]
 
 *7097|
 [fc]
 [vo_mob s="madeA0011"]
-[ns]メイドＡ[nse]
-「ひっ！　ぅぎいぃっ！！　……やめ……広げ、ない[r]
-　で……あっ、がぁっ！　んぐうぅ……っ！！」[pcms]
+[ns]Maid A[nse]
+"Hik! Ugyii!! ...stop...don't spread it...ah, gaa![r]
+Nguuu...!!"[pcms]
 
 *7098|
 [fc]
-[ns]眼鏡の中年男[nse]
-「あ゛なるも゛、きもちい゛いんた゛……い゛ん゛ら[r]
-　んて、ほんとにい゛るんた゛ぁ……な゛い゛てみろ[r]
-　よぉ……めすふ゛たぁ……な゛けよお゛ぉ～～」[pcms]
+[ns]Middle-aged man with glasses[nse]
+"The ass feels good too, doesn't it...getting penetrated[r]
+really does feel good for women...cry out for me, you[r]
+bitch...show me~~"[pcms]
 
 *7099|
 [fc]
 [vo_mob s="madeA0012"]
-[ns]メイドＡ[nse]
-「うぁ、あぁっ！　んうぅ……あっ、ぐうぅっ！！」[pcms]
+[ns]Maid A[nse]
+"Uwa, aah! Nuuu...ah, guuu!!"[pcms]
 
 *7100|
 [fc]
-[ns]大倉[nse]
-「…………」[pcms]
+[ns]Ookura Hiroshi[nse]
+"..."[pcms]
 
 *7101|
 [fc]
-助けた方が……いや、でもこれ……なんかの撮影とか[r]
-……でもそんなワケ……大変……大変だよな……？[r]
-でもどうすんだ……そうだ……速水とユウは……。[pcms]
+I should help her...no, but this is...some kind of filming[r]
+or something...but that can't be right...it's[r]
+serious...serious, right? But what should I do? That's[r]
+right...Hayami and Yuuki are...[pcms]
 
 *7102|
 [fc]
-両脇にいる速水とユウを見ても、俺と同じように呆気[r]
-にとられて、突っ立ったまま眺めているだけだった。[pcms]
+Looking at Hayami and Yuuki on either side of me, they were[r]
+just as stunned as I was and stood there just watching.[pcms]
 
 *7103|
 [fc]
-[ns]男子学生２[nse]
-「う゛はあ゛ぁ～～……お゛れのた゛した、せい゛し[r]
-　……まん゛こから゛、あふれ゛てきたあ゛ぁ～～[r]
-　……く゛ちょく゛ちょいってる゛せ゛えぇ～～」[pcms]
+[ns]Male Student 2[nse]
+"Uvhaa~~...my semen is overflowing from the pussy~~...it's[r]
+getting all wet and sticky~~"[pcms]
 
 *7104|
 [fc]
 [vo_mob s="madeB0002"]
-[ns]メイドＢ[nse]
-「ぅ、んぐ……んっ、くふ……はっ、ぅあ……」[pcms]
+[ns]Maid B[nse]
+"U, ngu...nnh, kufu...haa, uwa..."[pcms]
 
 *7105|
 [fc]
-[ns]男子学生１[nse]
-「あ゛、よた゛れ……つは゛ぁ……つは゛、お゛いし[r]
-　い゛ぃ……」[pcms]
+[ns]Male Student 1[nse]
+"Ah, it's melting away...tsuhaa...tsuha, so tasty..."[pcms]
 
 *7106|
 [fc]
-[ns]痩せた青年[nse]
-「ああ゛ぁぁ～～……めいと゛さんの゛かみ……さら[r]
-　さら゛て゛、きも゛ちい゛ぃよお゛ぉ～～」[pcms]
+[ns]Thin Young Man[nse]
+"Aaaah~~...maid-san's hair is so silky and feels so good~~"[pcms]
 
 *7107|
 [fc]
-店の奥で犯されている女は、髪の毛でオナニーされて[r]
-も、顔を舐め回されても、まるで抵抗する様子は無く、[r]
-群がる男達に良いようにされていた。[pcms]
+The woman being raped in the back of the shop was being used[r]
+by the men as they pleased, whether they masturbated with[r]
+her hair or licked her face; she showed no sign of[r]
+resistance.[pcms]
 
 *7108|
 [fc]
-女の目は虚ろで、口元はだらしなく開いていて、既に[r]
-正気を失っているようにも見える。[pcms]
+The woman's eyes were vacant, and her mouth hung open[r]
+slackly; she seemed to have already lost her sanity.[pcms]
 
 *7109|
 [fc]
 [vo_mob s="madeB0003"]
-[ns]メイドＢ[nse]
-「あ～……あっ、んぅ……んっ、ふはっ……」[pcms]
+[ns]Maid B[nse]
+"Aaah...ahh, nuu...nnh, fuhah..."[pcms]
 
 *7110|
 [fc]
-[ns]男子学生１[nse]
-「ね゛えぇ～～……も゛っと、くれよぉ……つは゛ぁ[r]
-　……つは゛、の゛ませてくれえ゛ぇ～～……」[pcms]
+[ns]Male Student 1[nse]
+"Hey~~ give me more...tsuhaa...tsuha, let me drink it~~..."[pcms]
 
 *7111|
 [fc]
-顔を舐め回していた男子学生は、長く伸ばした舌を女[r]
-の開いた口の中に挿し込み、蠢かせる。[pcms]
+The male student licking her face thrust his long tongue[r]
+into her open mouth and wriggled it around.[pcms]
 
 *7112|
 [fc]
-その横で、不健康そうに痩せた男が、アレに女の髪を[r]
-巻き付けて擦り、さらに空いた手で掴んだ髪の毛で、[r]
-先端を撫でながら、だらしない顔をして天井を仰いだ。[pcms]
+Next to him, an unhealthy-looking thin man wrapped her hair[r]
+around his dick to rub it and stroked the tip with the hair[r]
+he grabbed while looking up at the ceiling with a slack[r]
+face.[pcms]
 
 *7113|
 [fc]
-[ns]男子学生１[nse]
-「ん゛う゛ぅ～～……へ゜ちゃっ、ふ゜ちゅ……」[pcms]
+[ns]Male Student 1[nse]
+"Nuuu~~...pecha, puchu..."[pcms]
 
 *7114|
 [fc]
 [vo_mob s="madeB0004"]
-[ns]メイドＢ[nse]
-「ん、ぁ……は、ぉ……えぁ……あぁー……」[pcms]
+[ns]Maid B[nse]
+"Nnh, ah...haa, ohh...eahh...aah-..."[pcms]
 
 *7115|
 [fc]
-[ns]痩せた青年[nse]
-「あう゛ぅ～～……そん゛な……さきっほ゜、こしょ[r]
-　こしょ……され゛たら゛あぁ～～……て゛ちゃうよ[r]
-　お゛ぉう゛！！」[pcms]
+[ns]Thin Young Man[nse]
+"Auvuu~~...if you tickle such a sensitive spot like that~~[r]
+I'm gonna cum ohhh~~!"[pcms]
 
 *7116|
 [fc]
-何度、逃げようとして捕まったのか、女の着ているメ[r]
-イド服は、あちこちが引き裂かれてボロボロになって[r]
-いた。[pcms]
+How many times she tried to escape and was caught, the maid[r]
+outfit she wore was torn here and there and had become[r]
+ragged.[pcms]
 
 *7117|
 [fc]
-[ns]男子学生２[nse]
-「あ゛あぁぁ～～……て゛る゛うぅ～～……な゛かに[r]
-　……ま゛んこの゛なかにた゛すそ゛おぉ～～！」[pcms]
+[ns]Male Student 2[nse]
+"Aaaah~~ I'm cumming inside~~ right in the pussy~~!"[pcms]
 
 *7118|
 [fc]
 [vo_mob s="madeB0005"]
-[ns]メイドＢ[nse]
-「ぅぐ……ぁ、えぅ……ふはっ……うぁ……」[pcms]
+[ns]Maid B[nse]
+"Ugu...ah, euh...fuhah...uwa..."[pcms]
 
 *7119|
 [fc]
-[ns]男子学生１[nse]
-「くちゃ……れる……にちゃ……ん゛ん゛～～……」[pcms]
+[ns]Male Student 1[nse]
+"It's getting mushy and wet~~ nnn~~..."[pcms]
 
 *7120|
 [fc]
-[ns]痩せた青年[nse]
-「た゛めた゛よおぉ～～……！　おしっこのあ゛な、[r]
-　よわい゛から゛あぁ～～……ま゛た……かみ゛のけ、[r]
-　よこ゛しちゃう゛よお゛ぉ～～！！」[pcms]
+[ns]Thin Young Man[nse]
+"You can't do that~~! The pee hole is delicate~~ ah~~ I'm[r]
+gonna mess up your hair again ohhh~~!!"[pcms]
 
 *7121|
 [fc]
-俺らが見た時には濃紺だった服の色は、男達の精液で[r]
-粘り気のある濁った白色に変えられていた。[pcms]
+The color of the uniform that was dark blue when we saw it[r]
+had been changed to a sticky white color by the men's semen.[pcms]
 
 *7122|
 [fc]
-今まで何人の男に、何度犯されてきたのかを想像して、[r]
-俺は吐きそうになり、思わず口を押さえた。[pcms]
+Imagining how many men had raped her how many times made me[r]
+feel like vomiting, and I instinctively covered my mouth.[pcms]
 
 *7123|
 [fc]
-[ns]出腹の中年男[nse]
-「く゛っ……く゛う゛ぅっ……う゛あ゛ぁ～～て゛る[r]
-　うぅ～～……に゛んしん゛させてやる゛から゛な[r]
-　あ゛ぁ～～！！」[pcms]
+[ns]Middle-aged man with a potbelly[nse]
+"Guhh...guvuuu~ I'm cumming inside you~ I'll make you[r]
+pregnant ah~~!!"[pcms]
 
 *7124|
 [fc]
 [vo_mob s="madeA0013"]
-[ns]メイドＡ[nse]
-「いやぁっ！！　おねがい、なかはぁ……ほんとに、[r]
-　にんしんしちゃうぅ……！！　ぬいてぇ！　おねが[r]
-　いだからぁっ！！」[pcms]
+[ns]Maid A[nse]
+"No, please, not inside... I'll really get pregnant...! Pull[r]
+it out! Please, I'm begging you...!"[pcms]
 
 *7125|
 [fc]
-[ns]眼鏡の中年男[nse]
-「めすふ゛たなの゛に……なかた゛しは、い゛やなん[r]
-　た゛ぁ……し゛ゃあ、かお゛に……かおに゛、かけ[r]
-　てあけ゛るよお゛ぉ～～！」[pcms]
+[ns]Middle-aged man with glasses[nse]
+"You're such a bitch... You don't like it inside, huh...[r]
+Well then, I'll just... I'll cum on your face~~!"[pcms]
 
 *7126|
 [fc]
-[ns]太った青年[nse]
-「んく゛い゛ぃぃ～～～……っ！！　……きれ゛な゛[r]
-　いぃ……お゛なかすい゛てるの゛に……たへ゛れ゛[r]
-　ないよお゛ぉ～～」[pcms]
+[ns]Fat Young Man[nse]
+"Nnguiii~~~...!! ...It's so clean... even though it's[r]
+sucking me in... I can't eat it~~"[pcms]
 
 *7127|
 [fc]
-男達の呻き声と荒くなった呼吸の音が大きくなり、同[r]
-時に体の動きも激しくなり始めた。[pcms]
+The men's moans and ragged breathing grew louder, and at the[r]
+same time, their movements became more intense.[pcms]
 
 *7128|
 [fc]
-[ns]男子学生２[nse]
-「あ゛ぁ～～……う゛あぁ～～……な゛かた゛しいぃ[r]
-　……あ゛ぁ～～な゛かた゛しいぃ～～～……っ！！」[pcms]
+[ns]Male Student 2[nse]
+"Aaah~~... uvaah~~... it's so tight inside... aah~~ it's so[r]
+tight~~~...!!"[pcms]
 
 *7129|
 [fc]
 [vo_mob s="madeB0006"]
-[ns]メイドＢ[nse]
-「あっ、うぅっ……んっ、はぐ……ふっ、はぁっ……」[pcms]
+[ns]Maid B[nse]
+"Ah, uuh... nnh, hag... fuh, haa..."[pcms]
 
 *7130|
 [fc]
-[ns]痩せた青年[nse]
-「はあ゛ぁぁ～～っ……！！　こ゛めんね゛、め゛い[r]
-　と゛さん……かみ゛のけ、よこ゛しちゃう゛けと゛[r]
-　おぉ……た゛って、きも゛ちい゛ぃから゛ぁ～～！」[pcms]
+[ns]Thin Young Man[nse]
+"Haaaah~~~...!! Sorry, maid-san... I'm gonna mess up your[r]
+hair but ohhh... it feels so good~~~!"[pcms]
 
 *7131|
 [fc]
-[ns]出腹の中年男[nse]
-「お゛おあ゛ぁ～～……た゛すそ゛おぉ～～……も゛[r]
-　らしたら゛ぁ……つき゛は、けつあ゛なに、た゛し[r]
-　てやる゛うぅ～～……」[pcms]
+[ns]Middle-aged man with a potbelly[nse]
+"Oooh~~... I'm cumming inside~~... next time, I'll cum in[r]
+your ass~~!"[pcms]
 
 *7132|
 [fc]
 [vo_mob s="madeA0014"]
-[ns]メイドＡ[nse]
-「いやあぁっ！！　やめてっ、ぬいてえぇっ！！」[pcms]
+[ns]Maid A[nse]
+"No, stop it, pull it out!!"[pcms]
 
 *7133|
 [fc]
-[ns]眼鏡の中年男[nse]
-「ほら゛あ゛ぁ……かお゛あけ゛ろよぉ……かけら゛[r]
-　れないた゛ろ゛おぉ～～……」[pcms]
+[ns]Middle-aged man with glasses[nse]
+"Come on, open your face... you can't get away from it~~..."[pcms]
 
 *7134|
 [fc]
-男達はまるで示し合わせたように、それぞれ犯してい[r]
-る女に、一斉に精液をブチ撒けた。[pcms]
+The men, as if on cue, simultaneously splattered their semen[r]
+on the women they were raping.[pcms]
 
 ;//★ホワイトフラッシュ　早め
 ;//★ホワイトフラッシュ　早め
@@ -431,88 +411,88 @@
 
 *7135|
 [fc]
-[ns]男子学生２[nse]
-「あ゛ああ゛ぁぁぁ～～～……っ！！」[pcms]
+[ns]Male Student 2[nse]
+"Aaaaah~~~...!!"[pcms]
 
 *7136|
 [fc]
 [vo_mob s="madeB0007"]
-[ns]メイドＢ[nse]
-「んうぅ……う、ふぁ……」[pcms]
+[ns]Maid B[nse]
+"Nuuu... uh, fah..."[pcms]
 
 *7137|
 [fc]
-[ns]痩せた青年[nse]
-「あ゛ぁ～～……あ゛ぁ～～……お゛あぁ～～！！」[pcms]
+[ns]Thin Young Man[nse]
+"Aaah~~... aaah~~... ooh~~!!"[pcms]
 
 *7138|
 [fc]
-[ns]出腹の中年男[nse]
-「んお゛お゛おぉぉぉ～～～……っ！！」[pcms]
+[ns]Middle-aged man with a potbelly[nse]
+"Noooohhh~~~...!!"[pcms]
 
 *7139|
 [fc]
 [vo_mob s="madeA0015"]
-[ns]メイドＡ[nse]
-「いやあああぁぁぁっ！！！！」[pcms]
+[ns]Maid A[nse]
+"No, nooooooo!!!"[pcms]
 
 *7140|
 [fc]
-[ns]眼鏡の中年男[nse]
-「ん゛ふう゛うぅぅ～～～……っ！！」[pcms]
+[ns]Middle-aged man with glasses[nse]
+"Nfuuuuh~~~...!!"[pcms]
 
 *7141|
 [fc]
-絶叫して大口を開けた女は、眼鏡の男の射精をまとも[r]
-に口の中に受け、呼吸困難になったのか、顔を真っ赤[r]
-にしてのたうち回った。[pcms]
+The woman who screamed and opened her mouth wide received[r]
+the man with glasses' ejaculation directly into her mouth,[r]
+and seemed to have difficulty breathing as she writhed[r]
+around with her face turning red.[pcms]
 
 *7142|
 [fc]
 [vo_mob s="madeA0016"]
-[ns]メイドＡ[nse]
-「げほっ！　ぉえぇっ！！　ごぼっ！！　ぜはーっ！！[r]
-　がはっ！！　ぜはーっ！！　うげえぇっ！！」[pcms]
+[ns]Maid A[nse]
+"Geho! Oeeh!! Goboh!! Zeha-!! Gaha!! Zeha-!! Ugeehh!!"[pcms]
 
 *7143|
 [fc]
-苦しみもがく彼女に死を感じた俺は、ようやく頭が回[r]
-転しだして、とにかく彼女達を助けないと、という考[r]
-えに行き着いた。[pcms]
+Feeling the presence of death in the struggling woman, my[r]
+mind finally started to work and I realized that I had to[r]
+help them no matter what.[pcms]
 
 *7144|
 [fc]
-[ns]大倉[nse]
-「は、速水！　警察に電話！　俺がアイツら引きつけ[r]
-　るから、ユウはあの子達を外に出せ！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Ha, Hayami! Call the police! I'll distract them, you get[r]
+those girls outside!"[pcms]
 
 *7145|
 [fc]
 [vo_kob s="koba0094"]
-[ns]小林[nse]
-「む、無理だよ！！　こんなに大勢、どうやって……」[pcms]
+[ns]Kobayashi[nse]
+"It's impossible! With so many people, how can we..."[pcms]
 
 *7146|
 [fc]
-[ns]大倉[nse]
-「無理でもなんでやるんだよッ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"We have to do it even if it's impossible!"[pcms]
 
 *7147|
 [fc]
-俺は手近にあった椅子を掴み、まだ彼女達を犯そうと[r]
-しているヤツらを黙らせようと、まず目の前の、鈍重[r]
-そうな男に狙いを定めた。[pcms]
+I grabbed a chair nearby and aimed at the sluggish-looking[r]
+man in front of me to silence those who were still trying to[r]
+rape the girls.[pcms]
 
 *7148|
 [fc]
-[ns]大倉[nse]
-「ダラアァッ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Take this!!"[pcms]
 
 *7149|
 [fc]
-椅子の背もたれを男の脳天に叩き込み、さらに背もた[r]
-れの横の部分で、こめかみ辺りを殴りつけて弾き飛ば[r]
-す。[pcms]
+I smashed the backrest of the chair onto the man's head and[r]
+then struck him near the temple with the side of the[r]
+backrest to knock him away.[pcms]
 
 ;//ＳＥ：人を殴る
 [se0 storage="SE20"]
@@ -530,77 +510,77 @@
 
 *7150|
 [fc]
-[ns]太った青年[nse]
-「か゛っ……！！」[pcms]
+[ns]Fat Young Man[nse]
+"Gah...!!"[pcms]
 
 *7151|
 [fc]
-その俺の行動をまるで無視して、女の口にアレをねじ[r]
-込もうとしていた眼鏡の男に、掴んでいた椅子を顔面[r]
-目がけて投げつけた。[pcms]
+Ignoring my actions, I threw the chair I was holding at the[r]
+face of the man with glasses who was trying to force his[r]
+thing into the woman's mouth.[pcms]
 
 *7152|
 [fc]
-[ns]眼鏡の中年男[nse]
-「ふ゛く゛ぅっ……！！」[pcms]
+[ns]Middle-aged man with glasses[nse]
+"Fbguh...!!"[pcms]
 
 *7153|
 [fc]
-続けて近くのテーブルに載っていた水差しを引っ掴ん[r]
-で、放心したような顔で膝立ちになっているデブのオ[r]
-ヤジの脳天を、ガラスの部分でカチ割ってやった。[pcms]
+Then I grabbed a water pitcher from a nearby table and[r]
+cracked it over the head of the dazed fat old man who was[r]
+kneeling down, using the glass part.[pcms]
 
 ;//ＳＥ：ガラス瓶の割れる音
 [se0 storage="SE66"]
 
 *7154|
 [fc]
-[ns]大倉[nse]
-「ドラアァッ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Take this!!"[pcms]
 
 *7155|
 [fc]
-[ns]出腹の中年男[nse]
-「あ゛か゛っ……！！」[pcms]
+[ns]Middle-aged man with a potbelly[nse]
+"Agah...!!"[pcms]
 
 ;//ＳＥ：どさっ
 [se0 storage="SE23"]
 
 *7156|
 [fc]
-頭から床に崩れ落ちて動かなくなったオヤジを見て、[r]
-俺はユウに指示を出した。[pcms]
+Seeing the old man collapse to the floor motionless from the[r]
+head down, I gave instructions to Yuu.[pcms]
 
 ;//♪：００３_咆吼　stop
 [fadeoutbgm time=1000]
 
 *7157|
 [fc]
-[ns]大倉[nse]
-「ユウ！　この子頼んだ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Yuu! Take care of this girl!!"[pcms]
 
 *7158|
 [fc]
 [vo_kob s="koba0095"]
-[ns]小林[nse]
-「う、うん！」[pcms]
+[ns]Kobayashi[nse]
+"Yes, got it!"[pcms]
 
 *7159|
 [fc]
-持っていた水差しをブン投げて、天井を見つめたまま[r]
-ヨタヨタとウロついていた痩せた男の頭に命中させて[r]
-から、俺は次の武器を探して周りに目を走らせた。[pcms]
+After hitting the thin man who was staggering around while[r]
+staring at the ceiling with the water pitcher I had thrown,[r]
+I looked around for another weapon.[pcms]
 
 *7160|
 [fc]
 [vo_mob s="madeA0017"]
-[ns]メイドＡ[nse]
-「フフッ……アハッ！　アハハッ！」[pcms]
+[ns]Maid A[nse]
+"Heheh... Ahah! Ahaha!"[pcms]
 
 *7161|
 [fc]
-[ns]大倉[nse]
-「！？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"!?"[pcms]
 
 ;//♪：００2_感染 Extreme　Ver. フェードイン
 ;//♪：bgm009
@@ -608,8 +588,8 @@
 
 *7162|
 [fc]
-次の武器にテーブルを掴んだ俺の後ろで、場にそぐわ[r]
-ない笑い声があがった。[pcms]
+Behind me, as I grabbed a table for a weapon, an out-of-[r]
+place laugh erupted.[pcms]
 
 ;//★HEV001c
 [evcg storage="HEV001c"][trans_c cross time=301]
@@ -617,47 +597,45 @@
 *7163|
 [fc]
 [vo_mob s="madeA0018"]
-[ns]メイドＡ[nse]
-「あのこだぁ……あのこがきたぁ……あたしが、さい[r]
-　しょにめぇつけたんだから……ぜったい、あたしの[r]
-　だもんねー……」[pcms]
+[ns]Maid A[nse]
+"That girl... she came... I was the first one to spot her...[r]
+she's definitely mine..."[pcms]
 
 *7164|
 [fc]
 [vo_kob s="koba0096"]
-[ns]小林[nse]
-「ヒ、ヒロ、この子……」[pcms]
+[ns]Kobayashi[nse]
+"Hi-Hiro, this girl..."[pcms]
 
 *7165|
 [fc]
 [vo_mob s="madeA0019"]
-[ns]メイドＡ[nse]
-「ねー、えっちしよ……？　あたしのせいふく、かし[r]
-　たげるからぁ……れずせっていで、ね……？」[pcms]
+[ns]Maid A[nse]
+"Hey, wanna have sex...? I'll lend you my uniform... let's[r]
+set it to lesbian mode, okay...?"[pcms]
 
 *7166|
 [fc]
-彼女の目から、段々と正気の色が消えていくのが見え[r]
-るようで、俺は思わず後ずさって、後ろのテーブルに[r]
-ケツをぶつけた。[pcms]
+I could see the sanity fading from her eyes, and I[r]
+instinctively stepped back, bumping into a table behind me.[pcms]
 
 *7167|
 [fc]
 [vo_mob s="madeB0008"]
-[ns]メイドＢ[nse]
-「ねー……えっち、しようよぉ……なまでいいし……[r]
-　なかだしも、していいからぁ……」[pcms]
+[ns]Maid B[nse]
+"Hey... let's have sex... raw is fine... and you can cum[r]
+inside too..."[pcms]
 
 *7168|
 [fc]
-[ns]大倉[nse]
-「と、とにかく、外に連れだせ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Anyway, get her outside!!"[pcms]
 
 *7169|
 [fc]
-もう一人の女の声で我に返った俺は、怯えた顔で後ず[r]
-さりながら女を見下ろしているユウに怒鳴って、テー[r]
-ブルを抱え上げた。[pcms]
+Snapping back to reality by another woman's voice, I shouted[r]
+at Yuu who was looking down at the woman with a scared face[r]
+while backing away and lifted up the table.[pcms]
 
 ;//ＳＥ：ガラガラ
 [se0 storage="SE62"]
@@ -665,36 +643,36 @@
 *7170|
 [fc]
 [vo_hay s="hayami0112"]
-[ns]ありす[nse]
-「いやあぁぁっ！！！！」[pcms]
+[ns]Alice[nse]
+"No, nooooo!!!"[pcms]
 
 *7171|
 [fc]
-[ns]大倉[nse]
-「！？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"!?"[pcms]
 
 *7172|
 [fc]
-突然の悲鳴に振り向くと、店内のどこかに潜んでいた[r]
-らしい男が、速水に抱きつこうとして失敗し、床に倒[r]
-れ込んでいた。[pcms]
+Suddenly hearing a scream, I turned around to see a man who[r]
+seemed to have been hiding somewhere in the store trying to[r]
+grab Hayami and failing, falling to the floor.[pcms]
 
 *7173|
 [fc]
 [vo_hay s="hayami0113"]
-[ns]ありす[nse]
-「きゃぁっ！！」[pcms]
+[ns]Alice[nse]
+"Kyaa!"[pcms]
 
 *7174|
 [fc]
-[ns]大倉[nse]
-「大人しく寝てろ、この……マヌケ野郎ッ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Lie down quietly, you... idiot!!"[pcms]
 
 *7175|
 [fc]
-速水の足にすがりつこうとしていた男の背中に、抱え[r]
-ていたテーブルを叩きつけ、さらにミゾオチの辺りを[r]
-狙って蹴り上げる。[pcms]
+I slammed the table I was holding onto the back of the man[r]
+who was trying to cling to Hayami's legs, and then aimed a[r]
+kick at his groin.[pcms]
 
 ;//ＳＥ：人を殴る
 [se0 storage="SE20"]
@@ -703,58 +681,56 @@
 
 *7176|
 [fc]
-[ns]男子学生２[nse]
-「く゛ほ゛ぁっ……！！」[pcms]
+[ns]Male Student 2[nse]
+"Guh...!!"[pcms]
 
 *7177|
 [fc]
-[ns]大倉[nse]
-「大丈夫か！？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Are you okay!?"[pcms]
 
 *7178|
 [fc]
-恐怖で声が出せなくなっているようで、速水は俺の腕[r]
-にしがみついて、無言で何度も頷いた。[pcms]
+It seemed that fear had rendered her voiceless, and Hayami[r]
+clung to my arm, nodding silently several times.[pcms]
 
 *7179|
 [fc]
-[ns]大倉[nse]
-「ユウ！　急い、で……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Yuu! Hurry up..."[pcms]
 
 *7180|
 [fc]
-女を外へ連れ出した様子のないユウを見ると、女を犯[r]
-していた男達が全員、こっちへユラユラと歩いてくる[r]
-のを見て、固まっていた。[pcms]
+Looking at Yuu, who hadn't taken the woman outside, I froze[r]
+as I saw all the men who had been assaulting her now[r]
+staggering towards us.[pcms]
 
 *7181|
 [fc]
-[ns]太った青年[nse]
-「あぁ～……な゛んか、はら゛へった゛なぁ……あ゛[r]
-　いつ゛、い゛ろか゛しろく゛て、う゛まそう゛……」[pcms]
+[ns]Overweight Young Man[nse]
+"Ahh... I'm kinda hungry... that looks delicious..."[pcms]
 
 *7182|
 [fc]
-[ns]痩せた青年[nse]
-「あの゛こ゛も、めい゛と゛ふくか゛、に゛あいそ゛[r]
-　うた゛なあぁ～～……かみ゛のけも、すこ゛くき゛[r]
-　れいた゛し゛いぃ～～……」[pcms]
+[ns]Thin Young Man[nse]
+"That girl... the maid outfit suits her so well... and her[r]
+hair is so pretty..."[pcms]
 
 *7183|
 [fc]
-近づいてくる男達の中には、俺が椅子や水差しで叩き[r]
-のめしたヤツも、混じっている。[pcms]
+Among the approaching men were those I had knocked down with[r]
+chairs and a water pitcher.[pcms]
 
 *7184|
 [fc]
-たった今、テーブルを叩きつけたヤツも、もう立ち上[r]
-がろうとしていた。[pcms]
+The guy I had just hit with the table was already trying to[r]
+get up.[pcms]
 
 *7185|
 [fc]
-死んじまってもいいぐらいのつもりでやったのに……。[r]
-なんで、平気な顔してんだ……？[r]
-あんなに血ぃ出てんのに……。[pcms]
+I had hit him with the intention that it wouldn't matter if[r]
+he died... Why is he still making a calm face...? Even[r]
+though he's bleeding so much...[pcms]
 
 ;//ＳＥ：しめった音
 [se0 storage="SE52"]
@@ -762,13 +738,13 @@
 *7186|
 [fc]
 [vo_kob s="koba0097"]
-[ns]小林[nse]
-「わわっ……！」[pcms]
+[ns]Kobayashi[nse]
+"Wah...!"[pcms]
 
 *7187|
 [fc]
-四つん這いで近寄る女に、ユウは手首を掴まれて小さ[r]
-く呻いた。[pcms]
+Yuu let out a small groan as she was grabbed by the wrist by[r]
+a woman crawling on all fours.[pcms]
 
 ;//ＳＥ：しめった音
 [se0 storage="SE52"]
@@ -776,44 +752,44 @@
 *7188|
 [fc]
 [vo_mob s="madeA0020"]
-[ns]メイドＡ[nse]
-「どうしてにげるのぉ……？　ねー……えっちしよう[r]
-　よぉ……」[pcms]
+[ns]Maid A[nse]
+"Why are you running away...? Hey... let's have sex..."[pcms]
 
 *7189|
 [fc]
-女は血走った目をいっぱいに見開き、興奮したように[r]
-鼻息を荒くして、ユウににじり寄っていく。[pcms]
+The woman's eyes were bloodshot, wide open with excitement,[r]
+and she breathed heavily through her nose as she crept[r]
+closer to Yuu.[pcms]
 
 *7190|
 [fc]
-[ns]大倉[nse]
-「……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"..."[pcms]
 
 *7191|
 [fc]
-コイツら……レイプされてたあの女も、全員……普通[r]
-じゃない……。[pcms]
+These people... including that woman who was raped, all of[r]
+them... they're not normal...[pcms]
 
 *7192|
 [fc]
-人間じゃ、ない……。[pcms]
+They're not human...[pcms]
 
 *7193|
 [fc]
-[ns]大倉[nse]
-「逃げろ……逃げろユウっ！！」[pcms]
+[ns]Ookura[nse]
+"Run... Run, Yuu!!"[pcms]
 
 *7194|
 [fc]
 [vo_kob s="koba0098"]
-[ns]小林[nse]
-「う、うんっ！！」[pcms]
+[ns]Kobayashi[nse]
+"Okay, okay!!"[pcms]
 
 *7195|
 [fc]
-片手で速水を抱きかかえ、もう片手でユウの腕を引き、[r]
-俺は急いでメイド喫茶だった場所を飛び出した。[pcms]
+With one arm cradling Hayami and the other pulling Yuu's[r]
+arm, I rushed out of what used to be a maid caf.[pcms]
 
 [sysbt_meswin clear]
 
@@ -826,7 +802,7 @@
 	[jump storage="b_scene.ks" target=*back_from_SR]
 ;	[link storage=sceneAgain]もう一度見る[endlink]
 ;	[link storage=sceneList]一覧に戻る[endlink]
-;	[s]
+;[pcms]
 [endif]
 
 *KAISOU_PASS
@@ -837,4 +813,4 @@
 
 [jump storage="prologue02030.ks" target=*prologue02030_TOP]
 
-;//－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+;//

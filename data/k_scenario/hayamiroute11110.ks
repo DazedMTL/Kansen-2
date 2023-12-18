@@ -25,183 +25,181 @@
 
 *3292|
 [fc]
-[ns]大倉[nse]
-「あれ……？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Huh...?"[pcms]
 
 *3293|
 [fc]
-屋上へ出て、暗い中をウロついているイカレ集団に、[r]
-構え直そうとしたシャベルを自分が持ってないコトに、[r]
-俺は初めて気づいた。[pcms]
+Stepping out onto the rooftop, I realized for the first time[r]
+that I didn't have my shovel with me as I was about to face[r]
+a group of crazies lurking in the dark.[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
 *3294|
 [fc]
-[ns]大倉[nse]
-「チッ！　どっかに落としたのか、クソ……！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Tch! Did I drop it somewhere, damn it...!"[pcms]
 
 *3295|
 [fc]
-多分、さっきのトイレで落としたんだな……。[pcms]
+Probably dropped it back at the restroom...[pcms]
 
 *3296|
 [fc]
-ユウたちと合流するのに、また渡り廊下まで行かなく[r]
-ちゃなんねーのに……。[pcms]
+To meet up with Yuu and the others, I have to go back across[r]
+the corridor again...[pcms]
 
 *3297|
 [fc]
-しかも、あそこのシャッターが開くまで、どっかに隠[r]
-れてねーと。[pcms]
+Moreover, I have to hide somewhere until that shutter opens[r]
+up.[pcms]
 
 *3298|
 [fc]
-武器無しで、こん中を移動するのはキツイよな……。[pcms]
+Moving around here without a weapon is going to be tough...[pcms]
 
 *3299|
 [fc]
-[ns]大倉[nse]
-「……速水、来い」[pcms]
+[ns]Ookura Hiroshi[nse]
+"...Hayami, come here."[pcms]
 
 *3300|
 [fc]
-ボンヤリ突っ立ってたらイカレ野郎が寄ってくる、と[r]
-考えた俺は、速水の手を引いて、近くの壁際にある車[r]
-の陰に隠れた。[pcms]
+Thinking that standing around dazed would attract the[r]
+crazies, I grabbed Hayami's hand and hid with her behind a[r]
+car near the wall.[pcms]
 
 *3301|
 [fc]
-[ns]大倉[nse]
-「ふーっ……どうすっかな……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Phew... What to do now..."[pcms]
 
 [ChrSetEx layer=4 chbase="hayami_t05"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *3302|
 [fc]
 [vo_hay s="hayami0713"]
-[ns]ありす[nse]
-「ヒロシ、ゆうきは？　いっしょじゃないの？」[pcms]
+[ns]Alice[nse]
+"Hiroshi, where's Yuuki? Aren't you together?"[pcms]
 
 *3303|
 [fc]
-[ns]大倉[nse]
-「あぁ……途中ではぐれちまった。合流したくても、[r]
-　渡り廊下のシャッターが閉まってて、向こうのビル[r]
-　に行けねーんだ」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Yeah... We got separated along the way. Even if I want to[r]
+meet up, the corridor shutter is closed, and I can't get to[r]
+the other building."[pcms]
 
 [ChrSetEx layer=4 chbase="hayami_t06"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *3304|
 [fc]
 [vo_hay s="hayami0714"]
-[ns]ありす[nse]
-「じゃあ、おいてっちゃうの……？」[pcms]
+[ns]Arisu[nse]
+"So, we're leaving them behind...?"[pcms]
 
 *3305|
 [fc]
-[ns]大倉[nse]
-「まさか……。多分、９時か１０時ぐらいに、あそこ[r]
-　のシャッターがまた開くはずだ」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Of course not... Probably around 9 or 10 o'clock, that[r]
+shutter should open again."[pcms]
 
 *3306|
 [fc]
-[ns]大倉[nse]
-「だから、その時間になったらまた向こうに行って、[r]
-　ユウとかと合流する。ただな……」[pcms]
+[ns]Ookura[nse]
+"So when that time comes, we'll head over there again and[r]
+meet up with Yuu and the others. But still..."[pcms]
 
 [ChrSetEx layer=4 chbase="hayami_t05"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *3307|
 [fc]
 [vo_hay s="hayami0715"]
-[ns]ありす[nse]
-「……なに？」[pcms]
+[ns]Arisu[nse]
+"...What?"[pcms]
 
 *3308|
 [fc]
-[ns]大倉[nse]
-「渡り廊下のシャッターが開くまで、どこで待ってる[r]
-　かってコトなんだよ。こっちのビルに、安全に隠れ[r]
-　られるようなトコ、あるか？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"It's about where to wait until the corridor shutter opens.[r]
+Is there a place in this building where we can safely hide?"[pcms]
 
 [ChrSetEx layer=4 chbase="hayami_d01"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *3309|
 [fc]
-視線を地面に落とし、斜めに首を傾げて記憶を探って[r]
-いた速水は、しばらくして、俺に目を戻して首を横に[r]
-振った。[pcms]
+Hayami, who had been searching her memory with her gaze cast[r]
+down and her head tilted, eventually looked back at me and[r]
+shook her head.[pcms]
 
 *3310|
 [fc]
-[ns]大倉[nse]
-「だよな……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"I figured..."[pcms]
 
 *3311|
 [fc]
-クソ……。[r]
-どっかにねーのかな……。[r]
-イカレたヤツらに見つからないようなトコ……。[pcms]
+Damn it... Is there nowhere to hide...? A place where we[r]
+won't be found by those crazies...[pcms]
 
 *3312|
 [fc]
-見える範囲に目を走らせてる内、俺は周りに転がって[r]
-るモノに目を付けた。[pcms]
+As I scanned the area within sight, I noticed something[r]
+lying around.[pcms]
 
 *3313|
 [fc]
-[ns]大倉[nse]
-「車……車ん中に隠れようぜ」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Let's hide inside a car..."[pcms]
 
 [ChrSetEx layer=4 chbase="hayami_t05"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *3314|
 [fc]
 [vo_hay s="hayami0716"]
-[ns]ありす[nse]
-「え……？」[pcms]
+[ns]Arisu[nse]
+"Eh...?"[pcms]
 
 *3315|
 [fc]
-[ns]大倉[nse]
-「ここに停まってる車だよ。窓が壊れてなくて、鍵が[r]
-　開いてるヤツ探して、朝まで隠れとこう」[pcms]
+[ns]Ookura Hiroshi[nse]
+"The cars parked here. Let's find one with unbroken windows[r]
+and unlocked doors and hide until morning."[pcms]
 
 *3316|
 [fc]
-[ns]大倉[nse]
-「窓が割れてなきゃ、アイツらに開けられるコトも[r]
-　ねーし、少し寝られるだろ」[pcms]
+[ns]Ookura Hiroshi[nse]
+"If the windows aren't broken, they won't be able to open[r]
+it, and we might get some sleep."[pcms]
 
 [ChrSetEx layer=4 chbase="hayami_d01"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *3317|
 [fc]
 [vo_hay s="hayami0717"]
-[ns]ありす[nse]
-「うん、そうだね……」[pcms]
+[ns]Arisu[nse]
+"Yeah, that's true..."[pcms]
 
 *3318|
 [fc]
-[ns]大倉[nse]
-「……どうした、調子悪ぃのか？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"...What's wrong, feeling sick?"[pcms]
 
 [ChrSetEx layer=4 chbase="hayami_t05"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *3319|
 [fc]
 [vo_hay s="hayami0718"]
-[ns]ありす[nse]
-「ううん、ちょっとあたまがボーッとするだけ」[pcms]
+[ns]Alice[nse]
+"No, just feeling a bit spaced out."[pcms]
 ;//◎ごまかすように笑いながら
 
 *3320|
 [fc]
-[ns]大倉[nse]
-「そうか……じゃぁ、中に入れそうな車、探そうぜ」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Alright... let's look for a car we can get into."[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *3321|
 [fc]
-うなずいて返した速水の手を引いて、横倒しになった[r]
-り、上下が逆になっている車の陰に隠れながら動いて、[r]
-俺らは中に隠れられそうな車を探した。[pcms]
+Pulling Hayami's hand, who nodded in response, we moved[r]
+while hiding behind overturned or flipped cars, searching[r]
+for one we could hide inside.[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
@@ -216,153 +214,149 @@
 
 *3322|
 [fc]
-[ns]大倉[nse]
-「コレもダメか、クソッ……！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"This one's no good either, damn it...!"[pcms]
 
 *3323|
 [fc]
-散々探して回ったけど、マトモな形で残ってるのはあ[r]
-んまりなくて、しかも、都合良くドアの鍵が開いてる[r]
-車は一台も無かった。[pcms]
+Despite our extensive search, there weren't many cars left[r]
+intact, and none of them conveniently had their doors[r]
+unlocked.[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
 *3324|
 [fc]
-なんだよ……。[r]
-１台ぐらい、あってもいいじゃねーかバカ野郎……。[r]
-ビルん中に戻った方がいいか……？[pcms]
+What the hell... There should be at least one, damn it...[r]
+Should we go back inside the building...?[pcms]
 
 [ChrSetEx layer=4 chbase="hayami_t05"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *3325|
 [fc]
 [vo_hay s="hayami0719"]
-[ns]ありす[nse]
-「ヒロシ……ヒロシ……！」[pcms]
+[ns]Alice[nse]
+"Hiroshi... Hiroshi...!"[pcms]
 ;//◎小声
 
 *3326|
 [fc]
-[ns]大倉[nse]
-「え？」[pcms]
+[ns]Ookura[nse]
+"Huh?"[pcms]
 
 [ChrSetEx layer=4 chbase="hayami_t06"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *3327|
 [fc]
 [vo_hay s="hayami0720"]
-[ns]ありす[nse]
-「こっちにきてる……！」[pcms]
+[ns]Alice[nse]
+"They're coming this way...!"[pcms]
 ;//◎小声
 
 *3328|
 [fc]
-ドアを開けようとガタガタやってる音を聞かれたのか、[r]
-速水の指さす方に目を向けると、何人かのイカレ野郎[r]
-が、俺らがいる方へ近づいてきていた。[pcms]
+Maybe they heard us trying to open the door because when I[r]
+looked in the direction Hayami was pointing, several crazies[r]
+were approaching our location.[pcms]
 
 *3329|
 [fc]
-[ns]大倉[nse]
-「ココに隠れろ……！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Hide here...!"[pcms]
 
 [ChrSetEx layer=4 chbase="hayami_t05"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *3330|
 [fc]
 [vo_hay s="hayami0721"]
-[ns]ありす[nse]
-「え……！？」[pcms]
+[ns]Arisu[nse]
+"Eh...!?"[pcms]
 ;//◎小声
 
 *3331|
 [fc]
-[ns]大倉[nse]
-「いいから早く……！！」[pcms]
+[ns]Ookura[nse]
+"Just hurry...!!"[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *3332|
 [fc]
-俺は咄嗟に、目の前にある車高の高い４ＷＤ車の下に[r]
-速水を押し込み、それから自分も潜り込んだ。[pcms]
+In a split second, I pushed Hayami under a tall 4WD vehicle[r]
+nearby and then crawled in myself.[pcms]
 
 *3333|
 [fc]
-[ns]大倉[nse]
-「……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"..."[pcms]
 
 *3334|
 [fc]
 [vo_hay s="hayami0722"]
-[ns]ありす[nse]
-「……」[pcms]
+[ns]Arisu[nse]
+"..."[pcms]
 
 *3335|
 [fc]
-息を潜めて様子を窺っていると、俺らが潜り込んで[r]
-少ししてから、車体の底と地面との隙間に数人分の足[r]
-が見えて、それが周りをグルグルとウロつきだす。[pcms]
+As we held our breath and watched, shortly after we hid,[r]
+several pairs of feet appeared in the gap between the bottom[r]
+of the car and the ground, starting to wander around.[pcms]
 
 *3336|
 [fc]
-[ns]大倉[nse]
-「もっとこっち来い……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Come closer to me..."[pcms]
 
 *3337|
 [fc]
-ヤツらから見えなくなるように、できるだけ真ん中へ[r]
-寄ろうと、俺は速水の腕を引いて促し、自分の方へ寄[r]
-せる。[pcms]
+To avoid being seen by them, I pulled Hayami's arm towards[r]
+me as much as possible toward the center.[pcms]
 
 *3338|
 [fc]
-こっちに寄ってきた速水は、そこまでしなくていいっ[r]
-てぐらい、仰向けになっている俺の体にピッタリくっ[r]
-つき、肩の辺りに頭を乗せてきた。[pcms]
+Hayami came close enough that she didn't need to do so,[r]
+pressing tightly against my body lying on my back and[r]
+resting her head near my shoulder.[pcms]
 
 *3339|
 [fc]
-[ns]大倉[nse]
-「オイ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Hey..."[pcms]
 
 *3340|
 [fc]
 [vo_hay s="hayami0723"]
-[ns]ありす[nse]
-「……」[pcms]
+[ns]Arisu[nse]
+"..."[pcms]
 
 *3341|
 [fc]
-まるで腕枕をしてやってるような体勢になって、速水[r]
-から伝わってくる体の柔らかさと温度に、俺の心臓の[r]
-動きが妙に速くなり始める。[pcms]
+In a position that felt like I was giving her a pillow with[r]
+my arm, the softness and warmth of Hayami's body transmitted[r]
+to me started making my heartbeat strangely quicken.[pcms]
 
 *3342|
 [fc]
-[ns]大倉[nse]
-「……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"..."[pcms]
 
 *3343|
 [fc]
-自分の中に急に出てきた違和感をごまかすように、[r]
-俺は頭を動かして、周りの様子がどうなってるのかを[r]
-窺った。[pcms]
+To distract myself from the sudden discomfort that arose[r]
+within me, I moved my head to check out the surroundings.[pcms]
 
 *3344|
 [fc]
-クソ……。[r]
-さっきより増えてんじゃねーかよ……！[r]
-コレじゃ、しばらく出られねーな……。[pcms]
+Damn... Are there more of them than before...? We can't get[r]
+out for a while...[pcms]
 
 *3345|
 [fc]
-車体の底と地面との隙間から見える部分は、何本もの[r]
-ひとの足で埋め尽くされていた。[pcms]
+The space visible between the bottom of the car and the[r]
+ground was filled with numerous people's feet.[pcms]
 
 *3346|
 [fc]
-俺らは少しの音も出さないように息を潜め、この車の[r]
-周りに群がっているイカレ野郎が、どこかへ消えるま[r]
-でひたすら待った。[pcms]
+We held our breath, making as little noise as possible, and[r]
+simply waited for the crazed crowd surrounding the car to[r]
+disappear somewhere.[pcms]
 
 ;//♪：bgm011 fadeout
 [fadeoutbgm time=1000]
@@ -373,4 +367,4 @@
 
 [jump storage="hayamiroute11120.ks" target=*hayamiroute11120_TOP]
 
-;//－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+;//

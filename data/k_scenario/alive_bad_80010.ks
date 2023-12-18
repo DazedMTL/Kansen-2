@@ -27,194 +27,185 @@
 
 *2088|
 [fc]
-[ns]マニア風の男[nse]
-「あ～……そ゛れ～……みた゛こと゛ない～～……」[pcms]
+[ns]Mania-style Man[nse]
+"Ahh... that's... something I've never seen before..."[pcms]
 
 *2089|
 [fc]
 [vo_nao s="naomi0038"]
-[ns]直美[nse]
-「あっ！！」[pcms]
+[ns]Naomi[nse]
+"Ah!!"[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
 *2090|
 [fc]
-直美の手には、まだ残された武器が握られている。[pcms]
+In Naomi's hand, a weapon still remained clutched.[pcms]
 
 *2091|
 [fc]
-その唯一の武器は、一瞬の気の迷いからその場に立ち[r]
-つくしてしまった直美の身体から、[r]
-奪い取られてしまった。[pcms]
+That sole weapon was snatched away from Naomi's body, which[r]
+had frozen in place due to a moment of hesitation.[pcms]
 
 *2092|
 [fc]
-[ns]マニア風の男[nse]
-「い゛いなぁ～～……これ゛ぇ～～……」[pcms]
+[ns]Mania-style Man[nse]
+"Niceee... this is great..."[pcms]
 
 *2093|
 [fc]
-直美から武器を奪った男は、[r]
-涎を垂らしながら、嬉しそうな笑みを浮かべ、[r]
-ソレに見入っていた。[pcms]
+The man who took the weapon from Naomi, with drool dripping,[r]
+wore a pleased smile as he gazed at it.[pcms]
 
 *2094|
 [fc]
 [vo_nao s="naomi0039"]
-[ns]直美[nse]
-「かっ……返しなさい！！」[pcms]
+[ns]Naomi[nse]
+"Gi... Give it back!!"[pcms]
 
 *2095|
 [fc]
-[ns]マニア風の男[nse]
-「え゛ぁ～～……」[pcms]
+[ns]Mania-style Man[nse]
+"Ehhhh..."[pcms]
 
 *2096|
 [fc]
-この武器を失ってしまったら、今後は素手で感染者達[r]
-を相手にしなければならなくなる。[pcms]
+If she lost this weapon, she would have to face the infected[r]
+with her bare hands from now on.[pcms]
 
 *2097|
 [fc]
-直美の脳裏に、ついさっきの光景が――。[r]
-自動小銃を奪い、それを器用に使いこなす、感染者の[r]
-姿が。[pcms]
+In Naomi's mind flashed the scene from just moments agothe[r]
+image of an infected person skillfully wielding the[r]
+automatic rifle they had snatched away.[pcms]
 
 *2098|
 [fc]
-焦り、手を伸ばした直美だが、時すでに遅かった。[r]
-銃はすでに、感染者の手によって奪い取られてしまっ[r]
-ていた。[pcms]
+Naomi reached out in desperation, but it was already too[r]
+late. The gun had been taken by the hands of the infected.[pcms]
 
 *2099|
 [fc]
 [vo_nao s="naomi0040"]
-[ns]直美[nse]
-「かえ……きゃぁぁあぁぁぁぁ！！」[pcms]
+[ns]Naomi[nse]
+"Give it ba... kyaaahhh!!"[pcms]
 
 [ChrSetEx layer=4 chbase="etc01"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *2100|
 [fc]
-[ns]太った男[nse]
-「お゛まんこなめ゛るぅ～～……ゆひ゛いれ゛る～～、[r]
-　ちんこ゛いれ゛るぅ～～！！」[pcms]
+[ns]Fat Man[nse]
+"I'm gonna lick your pussy... slide in my fingers... shove[r]
+in my cock!!"[pcms]
 
 [ChrSetEx layer=4 chbase="etc03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *2101|
 [fc]
-[ns]鼻の大きい男[nse]
-「あし゛ぃ～～……う゛まそぉ～～！！[r]
-　あ゛ぁ～～……！！」[pcms]
+[ns]Man with a big nose[nse]
+"Ahh... that feels so good... Ahhh...!!"[pcms]
 
 [ChrSetEx layer=4 chbase="etc04"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *2102|
 [fc]
-[ns]半裸の男[nse]
-「つ゛かま゛えた゛ぁ～～……おま゛え、おま゛んこ、[r]
-　みせろ゛よぉ～～……おん゛な゛た゛ろぉ～～？」[pcms]
+[ns]Half-naked man[nse]
+"I've got you now... Show me your pussy, you're a woman,[r]
+aren't you?"[pcms]
 
 *2103|
 [fc]
 [vo_nao s="naomi0041"]
-[ns]直美[nse]
-「はっ……あ、ああっ……いやぁぁぁぁぁぁあぁ！！」[pcms]
+[ns]Naomi[nse]
+"No... ah, ahh... nooooo!!"[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *2104|
 [fc]
-銃を奪った感染者に気を取られた直美の体に、さらに[r]
-数を増した感染者達がまとわりつく。[pcms]
+Naomi, distracted by the infected who had stolen the gun,[r]
+was now swarmed by even more of the infected.[pcms]
 
 *2105|
 [fc]
-感染者に押し倒され、ただ悲鳴を上げ抵抗するだけの[r]
-直美の瞳に、津波の様に押し寄せる感染者の群れが[r]
-反射する。[pcms]
+Pushed down by the infected, all Naomi could do was scream[r]
+and resist as the horde reflected in her eyes like an[r]
+oncoming tsunami.[pcms]
 
 *2106|
 [fc]
-直美の顔から、血の気が引いていく。[r]
-感染者の群れに自分がこの後、何をされるのか[r]
-理解した為か。[pcms]
+The color drained from Naomi's face as she realized what the[r]
+horde of infected would do to her next.[pcms]
 
 [ChrSetEx layer=4 chbase="etc03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *2107|
 [fc]
-[ns]鼻ピアスの男[nse]
-「あ～～……あたら゛しい゛おん゛なか゛ぁ～～？[r]
-　ふく゛、し゛ゃまた゛ぁ～～！」[pcms]
+[ns]Man with a Nose Piercing[nse]
+"Ahh... a new woman? Strip her down!"[pcms]
 
 [ChrSetEx layer=4 chbase="etc04"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *2108|
 [fc]
-[ns]痩せた男[nse]
-「まんこた゛せえぇ～～～……っ！！」[pcms]
+[ns]Thin Man[nse]
+"I want that pussy...!!"[pcms]
 
 [ChrSetEx layer=4 chbase="etc02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *2109|
 [fc]
-[ns]バンダナの青年[nse]
-「はあぁぁ～～～っ……はあぁぁ～～～っ……」[pcms]
+[ns]Young Man with a Bandana[nse]
+"Haaaah... haaaah..."[pcms]
 
 *2110|
 [fc]
 [vo_nao s="naomi0042"]
-[ns]直美[nse]
-「うわぁあああ！！　いやぁぁあ！！[r]
-　離せぇっ！！　やめろぉぉぉお！！」[pcms]
+[ns]Naomi[nse]
+"Uwaaaah!! Nooo!! Let go of me!! Stop it!!"[pcms]
 
 [ChrSetEx layer=4 chbase="etc01"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *2111|
 [fc]
-[ns]破れたスラックスの男[nse]
-「か゛おみせ゛てぇ～～……あぁ～～……」[pcms]
+[ns]Man with Torn Slacks[nse]
+"Show me that... ahh..."[pcms]
 
 [ChrSetEx layer=4 chbase="etc02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *2112|
 [fc]
-[ns]パンツ一枚の男[nse]
-「あ゛な゛……っ！　[r]
-　はあ゛ぁ～～あな゛ぁ～～……っ！！」[pcms]
+[ns]A man in just underwear[nse]
+"That's it... haaah... that's it...!!"[pcms]
 
 *2113|
 [fc]
 [vo_nao s="naomi0043"]
-[ns]直美[nse]
-「うわっ……ああぁあっ！！　いやぁぁぁぁっ！！[r]
-　はなせぇぇぇぇ！！！　あ――ッ！」[pcms]
+[ns]Naomi[nse]
+"Uwah... ahhh!! Noooo!! Let me goooo!!! Ah--!"[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *2114|
 [fc]
-直美を中心にして、感染者の大群が、[r]
-まるで津波のように押し寄せてくる。[pcms]
+A massive swarm of infected converged on Naomi like a[r]
+tsunami.[pcms]
 
 *2115|
 [fc]
-直美は手足を振り乱し抵抗するが、彼らの異常な力の[r]
-前には、まるで無力だった。[pcms]
+Naomi flailed her limbs in resistance, but against their[r]
+abnormal strength, she was utterly powerless.[pcms]
 
 [fadeoutbgm time=1000]
 
 *2116|
 [fc]
-映画や漫画のヒーローだったら、逃げ出す事が出来た[r]
-だろう。[pcms]
+If she were a hero from a movie or comic book, she might[r]
+have been able to escape.[pcms]
 
 *2117|
 [fc]
-直美が、映画や漫画のヒーローだったなら。[pcms]
+If Naomi had been a hero from a movie or comic book.[pcms]
 
 ;//BLACKOUT
 

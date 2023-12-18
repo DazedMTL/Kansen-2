@@ -28,43 +28,43 @@
 
 *6622|
 [fc]
-[ns]担任[nse]
-「それから集合場所だが……」[pcms]
+[ns]Homeroom Teacher[nse]
+"And then, regarding the meeting place..."[pcms]
 
 *6623|
 [fc]
-修業旅行が明後日に迫ったということもあって、６時[r]
-間目後のホームルームは、全てそれについての話だっ[r]
-た。[pcms]
+With the training trip approaching the day after tomorrow,[r]
+the homeroom period after the sixth period was all about[r]
+that.[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
 *6624|
 [fc]
-集合場所は、俺、速水、ユウが行き帰りに通っている[r]
-道の近くになった。[r]
-多分、高速道路の入り口が近いからだろう。[pcms]
+The meeting place ended up being near the road that I,[r]
+Hayami, and Yuu use to go back and forth. Probably because[r]
+it's close to the highway entrance.[pcms]
 
 *6625|
 [fc]
-ウチから近くて助かった……。[r]
-あそこなら、多少寝過ごしても遅れを取り戻せる……。[pcms]
+It's close to my house, which is a relief... If I oversleep[r]
+a bit, I can still make up for lost time...[pcms]
 
 *6626|
 [fc]
-寝過ごして集合時間に遅れた場合、修業旅行期間中は[r]
-登校してこないとならないらしい。[pcms]
+If you oversleep and are late for the meeting time, it seems[r]
+you have to attend school during the training trip period.[pcms]
 
 *6627|
 [fc]
-授業の延長として行くから、修業旅行に来ない人間は[r]
-いつも通り登校して課題をやっていろ、ということだ[r]
-そうだ。[pcms]
+Since it's an extension of classes, those who don't come on[r]
+the training trip have to attend school as usual and work on[r]
+assignments.[pcms]
 
 *6628|
 [fc]
-それだけは絶対イヤだ……。[r]
-明日の夜は早く寝よう……。[pcms]
+I absolutely don't want that... I'll go to bed early[r]
+tomorrow night...[pcms]
 
 [sysbt_meswin clear]
 
@@ -85,14 +85,14 @@
 *6629|
 [fc]
 [vo_hay s="hayami0049"]
-[ns]ありす[nse]
-「明後日だけど、一回ここに集まらない？[r]
-　それから一緒に行こうよ」[pcms]
+[ns]Arisu[nse]
+"It's the day after tomorrow, but why don't we meet up here[r]
+once? Then we can go together."[pcms]
 
 *6630|
 [fc]
-[ns]大倉[nse]
-「あぁ、俺はいいぜ、それで」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Ah, I'm fine with that."[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
@@ -104,40 +104,40 @@
 *6631|
 [fc]
 [vo_kob s="koba0042"]
-[ns]小林[nse]
-「２人とも、寝坊しないでね。時間に遅れたら置いて[r]
-　かれるんだから」[pcms]
+[ns]Kobayashi[nse]
+"Both of you, don't oversleep. If you're late, we'll leave[r]
+without you."[pcms]
 
 *6632|
 [fc]
-[ns]大倉[nse]
-「わかってるよ。俺だって、旅行に行かずに課題なん[r]
-　て、死んでもやりたくねぇ」[pcms]
+[ns]Ookura Hiroshi[nse]
+"I know. I'd rather die than do assignments instead of going[r]
+on the trip."[pcms]
 
 [ChrSetEx layer=3 chbase="koba_n12"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
 
 *6633|
 [fc]
 [vo_kob s="koba0043"]
-[ns]小林[nse]
-「一応、電話してあげるよ。心配だし」[pcms]
+[ns]Kobayashi[nse]
+"Just in case, I'll give you a call. I'm worried."[pcms]
 
 *6634|
 [fc]
-[ns]大倉[nse]
-「どんだけ信用無いんだよ、俺は……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"How little trust do you have in me..."[pcms]
 
 *6635|
 [fc]
 [vo_hay s="hayami0050"]
-[ns]ありす[nse]
-「あたしも電話する～！　なんなら、家までお迎えに[r]
-　行ってあげよっか？」[pcms]
+[ns]Arisu[nse]
+"I'll call too~! Or should I come pick you up at your[r]
+house?"[pcms]
 
 *6636|
 [fc]
-[ns]大倉[nse]
-「俺は子供か！」[pcms]
+[ns]Ookura[nse]
+"Am I a child or what!"[pcms]
 
 [ChrSetEx layer=2 chbase="hayami_n12"][ChrSetXY layer=2 x=0 y=0]
 [ChrSetEx layer=3 chbase="koba_n07"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
@@ -145,16 +145,16 @@
 *6637|
 [fc]
 ;[vo_hay s="hayami_koba0000"]
-;[ns]ありす＆小林[nse]
+[ns]Arisu & Kobayashi[nse]
 ;mm ボイス合成がうまくいかないのでここは速水のみのボイス＆名前にしておく
 [vo_hay s="hayami_koba0000_hayami"]
-[ns]ありす[nse]
-「今頃？」[pcms]
+[ns]Alice[nse]
+"You're asking now?"[pcms]
 
 *6638|
 [fc]
-[ns]大倉[nse]
-「…………」[pcms]
+[ns]Ookura Hiroshi[nse]
+"..."[pcms]
 
 [fadeoutbgm time=502]
 [sysbt_meswin clear]
@@ -165,4 +165,4 @@
 
 [jump storage="prologue0071.ks" target=*prologue0071_TOP]
 
-;//－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+;//

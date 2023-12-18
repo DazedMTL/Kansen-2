@@ -28,62 +28,63 @@
 
 *6816|
 [fc]
-アーケードになっている商店街には、観光客目当ての[r]
-土産物屋や飲食店、地元の人間の為の飲み屋やゲーム[r]
-センターなどが立ち並んでいる。[pcms]
+The arcade-like shopping district was lined with souvenir[r]
+shops and eateries aimed at tourists, as well as bars and[r]
+game centers for the locals.[pcms]
 
 *6817|
 [fc]
-店そのものは珍しくはないけど、俺らの街にあるのと[r]
-は、全部規模が違っていた。[pcms]
+The shops themselves weren't unusual, but everything was on[r]
+a different scale compared to what we had in our town.[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
 *6818|
 [fc]
-このゲームセンター、デケェなぁ……。[r]
-見たことないゲームとかあるんだろうなー……。[pcms]
+This game center is huge... I wonder if they have games I've[r]
+never seen before...[pcms]
 
 *6819|
 [fc]
-田舎モン丸出しで、キョロキョロと周りの店を珍しげ[r]
-に見回しながらも、俺とユウはどこへ行くかでモメ続[r]
-けていた。[pcms]
+Looking like a country bumpkin, I gawked at the surrounding[r]
+stores with Yuu, even as we continued to argue about where[r]
+to go next.[pcms]
 
 [stop_se0]
 
 *6820|
 [fc]
-[ns]大倉[nse]
-「デカイんだろ？　そのショッピングモール。見て回[r]
-　るの時間かかるじゃねーかよ」[pcms]
+[ns]Ookura Hiroshi[nse]
+"It's huge, right? That shopping mall. It's gonna take time[r]
+to look around."[pcms]
 
 [ChrSetEx layer=4 chbase="koba_n03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *6821|
 [fc]
 [vo_kob s="koba0064"]
-[ns]小林[nse]
-「だったら、お茶するだけなんだから、メイド喫茶は[r]
-　あとでもいいじゃない」[pcms]
+[ns]Kobayashi[nse]
+"Then, since we're just going for tea, we can save the maid[r]
+cafe for later, can't we?"[pcms]
 
 *6822|
 [fc]
-[ns]大倉[nse]
-「早く終わるんなら、メイド喫茶が先でいいだろ」[pcms]
+[ns]Ookura Hiroshi[nse]
+"If it's going to be quick, we might as well go to the maid[r]
+cafe first."[pcms]
 
 [ChrSetEx layer=4 chbase="koba_n11"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *6823|
 [fc]
 [vo_kob s="koba0065"]
-[ns]小林[nse]
-「先にショッピングモール行きたいのー！」[pcms]
+[ns]Kobayashi[nse]
+"I want to go to the shopping mall first!"[pcms]
 
 *6824|
 [fc]
-子供みたいにダダをこねるユウの顔を、速水は苦笑し[r]
-ながら、からかうように覗き込んだ。[pcms]
+Hayami chuckled wryly at Yuu's childlike tantrum, teasingly[r]
+peering into her face.[pcms]
 
 [chara_int_ layer=4]
 [ChrSetEx layer=2 chbase="koba_n11"][ChrSetXY layer=2 x=0 y=0]
@@ -92,156 +93,156 @@
 *6825|
 [fc]
 [vo_hay s="hayami0077"]
-[ns]ありす[nse]
-「あれ～？　裕樹さ、あたしとヒロシに“旅行先で言[r]
-　い争いしないでね？　ボクが恥ずかしいから”って[r]
-　言ってなかったっけ？」[pcms]
+[ns]Arisu[nse]
+"Huh? Yuuki, didn't you tell Hiroshi and me 'not to argue[r]
+while on the trip because it's embarrassing for you'?"[pcms]
 
 *6826|
 [fc]
-[ns]大倉[nse]
-「おっ！　速水イイこと言った！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Oh! Hayami said something good!"[pcms]
 
 [ChrSetEx layer=2 chbase="koba_n12"][ChrSetXY layer=2 x=0 y=0][trans_c cross time=150]
 
 *6827|
 [fc]
 [vo_kob s="koba0066"]
-[ns]小林[nse]
-「それは、だって……」[pcms]
+[ns]Kobayashi[nse]
+"But that's because..."[pcms]
 
 *6828|
 [fc]
-何も言えずに口ごもっていたユウは、急に俺に向かっ[r]
-て握った手をつきだした。[pcms]
+Yuu, at a loss for words, suddenly thrust her clenched hand[r]
+towards me.[pcms]
 
 [ChrSetEx layer=2 chbase="koba_n07"][ChrSetXY layer=2 x=0 y=0][trans_c cross time=150]
 
 *6829|
 [fc]
 [vo_kob s="koba0067"]
-[ns]小林[nse]
-「ジャ、ジャンケン！　ジャンケンで決めようよ！」[pcms]
+[ns]Kobayashi[nse]
+"Let's, let's do rock-paper-scissors! Let's decide with[r]
+rock-paper-scissors!"[pcms]
 
 *6830|
 [fc]
-[ns]大倉[nse]
-「……上等だ、叩きのめしてやる！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"...Fine by me, I'll crush you!"[pcms]
 
 [ChrSetEx layer=2 chbase="koba_n12"][ChrSetXY layer=2 x=0 y=0][trans_c cross time=150]
 
 *6831|
 [fc]
-俺はその場で両足を大きく開いて踏ん張り、体を限界[r]
-までひねって、右手に力と全神経を集中させた。[pcms]
+I spread my legs wide on the spot, braced myself, twisted my[r]
+body to its limit, and concentrated all my power and nerves[r]
+into my right hand.[pcms]
 
 *6832|
 [fc]
-[ns]大倉[nse]
-「ハアアアアァァァァァ……ッ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Haaaaaaah...!!"[pcms]
 
 [ChrSetEx layer=2 chbase="koba_n07"][ChrSetXY layer=2 x=0 y=0][trans_c cross time=150]
 
 *6833|
 [fc]
 [vo_kob s="koba0068"]
-[ns]小林[nse]
-「ジャーンケーン……」[pcms]
+[ns]Kobayashi[nse]
+"Rock-paper..."[pcms]
 
 *6834|
 [fc]
-[ns]大倉[nse]
-「セアァッ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Scissors!"[pcms]
 
 [ChrSetEx layer=3 chbase="hayami_b12"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
 
 *6835|
 [fc]
 [vo_hay s="hayami0078"]
-[ns]ありす[nse]
-「大げさだなぁ、もう……」[pcms]
+[ns]Arisu[nse]
+"You're so dramatic... really..."[pcms]
 
 *6836|
 [fc]
-空を切り裂きながら放たれたユウのハサミは、硬く握[r]
-られた俺の拳によって完膚無きまでに砕け散った。[pcms]
+Yuu's scissors, thrown with a slicing motion through the[r]
+air, were utterly shattered by my tightly clenched fist.[pcms]
 
 [ChrSetEx layer=2 chbase="koba_n06"][ChrSetXY layer=2 x=0 y=0][trans_c cross time=150]
 
 *6837|
 [fc]
-[ns]大倉[nse]
-「しゃーコラァ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Take that!!"[pcms]
 
 *6838|
 [fc]
 [vo_kob s="koba0069"]
-[ns]小林[nse]
-「……」[pcms]
+[ns]Kobayashi[nse]
+"..."[pcms]
 
 [ChrSetEx layer=3 chbase="hayami_b01"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
 
 *6839|
 [fc]
-泣きそうな顔になっているユウの横で、勝負に勝って[r]
-小躍りしている俺を見て、速水は呆れ顔で溜息をつい[r]
-ていた。[pcms]
+Next to a nearly tearful Yuu, Hayami sighed in exasperation[r]
+at me, who was jumping around in victory.[pcms]
 
 *6840|
 [fc]
 [vo_hay s="hayami0079"]
-[ns]ありす[nse]
-「そんなに喜ぶほど行きたいもん？　メイド喫茶って。[r]
-　意味わかんないんですけど」[pcms]
+[ns]Arisu[nse]
+"Are you that excited to go? To a maid cafe? I don't get[r]
+it."[pcms]
 
 *6841|
 [fc]
-[ns]大倉[nse]
-「そりゃオマエ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Well you see..."[pcms]
 
 [ChrSetEx layer=2 chbase="koba_n12"][ChrSetXY layer=2 x=0 y=0][trans_c cross time=150]
 
 *6842|
 [fc]
 [vo_kob s="koba0070"]
-[ns]小林[nse]
-「時間も無いし、行こうよ……」[pcms]
+[ns]Kobayashi[nse]
+"We don't have much time, let's go..."[pcms]
 
 *6843|
 [fc]
-ガッカリした顔で歩き出したユウの頭を、速水は優し[r]
-く撫でてやり、優しい声で慰め始めた。[pcms]
+Hayami gently stroked the disappointed Yuu's head and began[r]
+to comfort her with a kind voice.[pcms]
 
 *6844|
 [fc]
 [vo_hay s="hayami0080"]
-[ns]ありす[nse]
-「早めに切り上げて、ショッピングモール行こ、ね？」[pcms]
+[ns]Alice[nse]
+"We'll wrap up early and go to the shopping mall, okay?"[pcms]
 
 *6845|
 [fc]
 [vo_kob s="koba0071"]
-[ns]小林[nse]
-「うん……」[pcms]
+[ns]Kobayashi[nse]
+"Yeah..."[pcms]
 
 [chara_int_ layer=2][chara_int_ layer=3][trans_c cross time=150]
 
 *6846|
 [fc]
-ちゃんとジャンケンして勝ったのに、これじゃまるで[r]
-俺が悪者みたいじゃねーか……。[r]
-なんか理不尽じゃねぇ……？[pcms]
+Even though I won fair and square in rock-paper-scissors,[r]
+this makes it seem like I'm the bad guy... Isn't that[r]
+unreasonable...?[pcms]
 
 *6847|
 [fc]
-[ns]大倉[nse]
-「……」[pcms]
+[ns]Ookura[nse]
+"..."[pcms]
 
 *6848|
 [fc]
-俺の心は急速にメイド喫茶熱を失っていったが、かと[r]
-いって、今更『先にショッピングモール行ってもいい[r]
-ぜ』とも言えず、半分ヤケになって２人を追った。[pcms]
+My enthusiasm for the maid cafe rapidly cooled off, but I[r]
+couldn't bring myself to say "Let's go to the shopping mall[r]
+first" now, so I half-heartedly followed the two of them.[pcms]
 
 [sysbt_meswin clear]
 
@@ -252,4 +253,4 @@
 
 [jump storage="prologue01310.ks" target=*prologue01310_TOP]
 
-;//－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+;//

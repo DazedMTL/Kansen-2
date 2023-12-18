@@ -27,157 +27,154 @@
 
 *1213|
 [fc]
-[ns]大倉[nse]
-「速水っ！！　俺……俺っ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Hayami!! I... I...!"[pcms]
 
 *1214|
 [fc]
 [vo_hay s="hayami1053"]
-[ns]ありす[nse]
-「やっ！！　なっ！　何！？」[pcms]
+[ns]Arisu[nse]
+"No!! Wha-! What!?"[pcms]
 
 *1215|
 [fc]
-揺れる大きな胸と、白く輝く肌。[r]
-柔らかそうな、唇。[pcms]
+Her large, swaying breasts and her shining white skin. Those[r]
+soft-looking lips.[pcms]
 
 *1216|
 [fc]
-今、目の前に立つ速水に対して俺は、[r]
-自分でも気が付かなかった感情が呼び覚まされた。[pcms]
+Right now, standing before me, Hayami has awakened feelings[r]
+in me that I hadn't even realized were there.[pcms]
 
 *1217|
 [fc]
-俺は速水の事が……好きだったんだ。[r]
-そうでなきゃ……、こんな……。[pcms]
+I... I must have been in love with Hayami. Otherwise... why[r]
+would I...?[pcms]
 
 *1218|
 [fc]
-速水とセックスしたいなんて……。[pcms]
+I want to have sex with Hayami...[pcms]
 
 *1219|
 [fc]
-そんなこと思わない筈だ！[pcms]
+There's no way I should be thinking such things![pcms]
 
 *1220|
 [fc]
-[ns]大倉[nse]
-「速水！　俺、お前の事が好きだ！！[r]
-　お前を見て俺、こんなに……こんなになってるんだ！[r]
-　だから……今ここで……セックスさせてくれ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Hayami! I love you!! Seeing you like this... it makes me[r]
+feel so... so much! So... let's have sex right here, right[r]
+now!!"[pcms]
 
 *1221|
 [fc]
 [vo_hay s="hayami1054"]
-[ns]ありす[nse]
-「え……！？　ち、ちょっと！！　何……ヒロシ！！[r]
-　どうしたの！？　ちょっと……きゃあっ！」[pcms]
+[ns]Alice[nse]
+"Eh...!? Wait!! What... Hiroshi!! What's gotten into you!?[r]
+Wait... kyaa!"[pcms]
 
 ;//＠小林表示省略
 *1222|
 [fc]
 [vo_kob s="koba0535"]
-[ns]小林[nse]
-「あぁ～……！！　ヒロ！　何やってるの！！」[pcms]
+[ns]Kobayashi[nse]
+"Ahh~...!! Hiro! What are you doing!!"[pcms]
 
 *1223|
 [fc]
 [vo_may s="maya0771"]
-[ns]摩耶[nse]
-「あ……」[pcms]
+[ns]Maya[nse]
+"Ah..."[pcms]
 
 ;//★画面揺らし
 [quake_bg 元time=200 xy m]
 
 *1224|
 [fc]
-ユウに突き飛ばされた摩耶ちゃんは、床に頭を[r]
-打ち付けて、気を失ってしまったのか、[r]
-動かなくなってしまった。[pcms]
+Maya-chan, pushed away by Yuu, hit her head on the floor and[r]
+seemed to have lost consciousness, not moving at all.[pcms]
 
 ;//＠メード服のまま
 [ChrSetEx layer=4 chbase="koba_m04"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *1225|
 [fc]
 [vo_kob s="koba0536"]
-[ns]小林[nse]
-「ヒロっ！　ダメだよ……！」[pcms]
+[ns]Kobayashi[nse]
+"Hiro! Stop it...!"[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *1226|
 [fc]
-大慌てで近寄ってきたユウは、[r]
-速水に抱き付いていた俺を無理に引き離そうと、[r]
-速水の腕を引っ張り始めた。[pcms]
+In a panic, Yuu came closer and started pulling on Hayami's[r]
+arm, trying to forcibly separate me from her as I clung to[r]
+her.[pcms]
 
 *1227|
 [fc]
 [vo_hay s="hayami1055"]
-[ns]ありす[nse]
-「きゃあぁぁぁぁぁ！！」[pcms]
+[ns]Arisu[nse]
+"Kyaaaahhhhh!!"[pcms]
 
 *1228|
 [fc]
-[ns]大倉[nse]
-「な……なんだよ……ユウ！　お前も速水の事……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Wha- what the... Yuu! You too like Hayami...?"[pcms]
 
 *1229|
 [fc]
-もしかしてユウも、俺と同じように速水の事が好きで、[r]
-セックスしたかったんだろうか。[pcms]
+Could it be that Yuu also likes Hayami just like me and[r]
+wanted to have sex with her?[pcms]
 
 *1230|
 [fc]
-そして、俺から速水を奪おうとしているのか。[pcms]
+And now she's trying to take Hayami away from me.[pcms]
 
 *1231|
 [fc]
-[ns]大倉[nse]
-「クソッ、ユウ！　俺の方が先だ！[r]
-　速水は俺のもんだ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Damn it, Yuu! I was first! Hayami is mine!!"[pcms]
 
 [ChrSetEx layer=4 chbase="hayami_q02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *1232|
 [fc]
 [vo_hay s="hayami1056"]
-[ns]ありす[nse]
-「ち……ちょっと……二人ともやめてよ！！[r]
-　あっ！　いやぁぁあぁ！！」[pcms]
+[ns]Arisu[nse]
+"Wait... both of you stop it!! Ah! Noooo!!"[pcms]
 
 [ChrSetEx layer=4 chbase="koba_m04"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *1233|
 [fc]
 [vo_kob s="koba0537"]
-[ns]小林[nse]
-「うわぁ……！」[pcms]
+[ns]Kobayashi[nse]
+"Uwah...!"[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *1234|
 [fc]
-速水を奪おうとしているユウを突き飛ばし、[r]
-ようやく俺は、速水を独り占め出来る状態になった。[pcms]
+After pushing away Yuu who was trying to take Hayami, I[r]
+finally got to have her all to myself.[pcms]
 
 ;//★画面揺らし
 [quake_bg 元time=200 xy m]
 
 *1235|
 [fc]
-速水は、誰にも渡さねー……。[r]
-それが、ユウであってもだ！[pcms]
+Hayami won't be handed over to anyone... not even if it's[r]
+Yuu![pcms]
 
 *1236|
 [fc]
-[ns]大倉[nse]
-「速水！！　ヤらせてくれ！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Hayami!! Let me do it!"[pcms]
 
 [ChrSetEx layer=4 chbase="hayami_q02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *1237|
 [fc]
 [vo_hay s="hayami1057"]
-[ns]ありす[nse]
-「やっ……！！　ヒロシ！！　やめてぇっ！」[pcms]
+[ns]Alice[nse]
+"No...!! Hiroshi!! Stop it!"[pcms]
 
 ;消し
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -205,14 +202,14 @@
 
 *1238|
 [fc]
-速水の付けていた水着の、オマンコと胸を隠している[r]
-所を引っ張って、無理矢理露出させた。[pcms]
+I pulled at the swimsuit covering Hayami's pussy and[r]
+breasts, exposing them against her will.[pcms]
 
 *1239|
 [fc]
-ピンク色をした乳首と、濡れて光るオマンコと、[r]
-太ももに伝う愛液に、俺はもう爆発寸前だったチンコ[r]
-を、強引にねじ込んだ。[pcms]
+Her pink nipples and her glistening wet pussy, along with[r]
+the love juices trickling down her thighs, had my dick about[r]
+to explode as I forcefully thrust it inside.[pcms]
 
 *KAISOU_START
 
@@ -225,155 +222,144 @@
 *1240|
 [fc]
 [vo_hay s="hayami1058"]
-[ns]ありす[nse]
-「ぎっ……いやぁぁっ！！　こんなの酷いよ！！[r]
-　ヒロシのバカ！！　うあぁぁぁ！！」[pcms]
+[ns]Arisu[nse]
+"Gah... nooo!! This is terrible!! You idiot Hiroshi!![r]
+Uwaaahhh!!"[pcms]
 
 *1241|
 [fc]
-[ns]大倉[nse]
-「あ、ああぁ……速水ぃっ！　速水ぃっ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Ah, aahh... Hayami! Hayami!!"[pcms]
 
 *1242|
 [fc]
-速水のオマンコは、ネットの画像で見たオマンコなん[r]
-かより全然綺麗な色をしていて、中から透明な液を流[r]
-しながら、チンコを痛いほど締め上げてきていた。[pcms]
+Hayami's pussy was a much more beautiful color than any I'd[r]
+seen in pictures online, and as it squeezed my dick[r]
+painfully tight, it leaked clear fluid from inside.[pcms]
 
 *1243|
 [fc]
-[ns]大倉[nse]
-「速水……お前の、キツいッ！？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Hayami... you're so tight!?"[pcms]
 
 *1244|
 [fc]
 [vo_hay s="hayami1059"]
-[ns]ありす[nse]
-「いっ……ぎぃっ……そ、そうよ！！[r]
-　だから……何っ！！　ぎいっ！　く……苦しいっ！」[pcms]
+[ns]Alice[nse]
+"It's... biku... yes!! That's why... what!? Muku! It's...[r]
+suffocating!"[pcms]
 
 *1245|
 [fc]
-俺は……、[r]
-速水と、こんな形で……。[pcms]
+I am... with Hayami, in this way...[pcms]
 
 *1246|
 [fc]
-でも……！！[r]
-俺は速水とヤッてんだ！！[pcms]
+But...!! I'm having sex with Hayami!![pcms]
 
 *1247|
 [fc]
-[ns]大倉[nse]
-「はっ……ははっ！！　俺……速水とヤッてんだ！[r]
-　あはははっ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Ha... hahaha!! I'm doing it with Hayami! Ahahaha!!"[pcms]
 
 *1248|
 [fc]
-あれ……？[r]
-でも、たしか……速水は誰か、知らない奴らに、[r]
-犯されていた様な……？[pcms]
+Wait...? But, surely... Hayami was being violated by some[r]
+strangers, wasn't she...?[pcms]
 
 *1249|
 [fc]
-じゃあ、アレは……？[pcms]
+Then, what was that...?[pcms]
 
 *1250|
 [fc]
-アレは、何だったんだ？[r]
-夢？[pcms]
+What was that? A dream?[pcms]
 
 *1251|
 [fc]
-[ns]大倉[nse]
-「お前……さっき誰かに犯されてなかったか？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"You... weren't you just violated by someone?"[pcms]
 
 *1252|
 [fc]
 [vo_hay s="hayami1060"]
-[ns]ありす[nse]
-「ぐっ……あぁっ……あっ……、何言って……んっ！[r]
-　私は……ヒロシが……初めてなのっ……！！」[pcms]
+[ns]Alice[nse]
+"Guh... ahh... ah... what are you saying... nn! I'm... with[r]
+Hiroshi for the first time...!!"[pcms]
 ;//↑※ボイス加工？
 
 *1253|
 [fc]
-[ns]大倉[nse]
-「だってお前……たしか……ん……？[r]
-　あれ……？　俺、何言ってんだ？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"But you were surely... huh? Wait...? What am I saying?"[pcms]
 
 *1254|
 [fc]
-確か、速水は俺の前で……？[r]
-何されてたんだっけ……！？[pcms]
+Surely, in front of me, Hayami was...? What was happening to[r]
+her again...!?[pcms]
 
 *1255|
 [fc]
-速水が何かされていたような気がして、[r]
-それが何だったか思い出そうとすると、突然目の前が[r]
-テレビの砂嵐みたいにちらつきだした。[pcms]
+As I tried to remember what had happened to Hayami, feeling[r]
+like she had been subjected to something, my vision suddenly[r]
+started flickering like TV static.[pcms]
 
 *1256|
 [fc]
-[ns]大倉[nse]
-「うっ……うぁぁあっ！？　クソッ！！[r]
-　なんだぁぁっ！　うあぁぁっ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Ugh... uwaahh!? Damn it!! What the hell! Uwaaahhh!!"[pcms]
 
 *1257|
 [fc]
 [vo_hay s="hayami1061"]
-[ns]ありす[nse]
-「うぁっ！　……んううっ！！」[pcms]
+[ns]Alice[nse]
+"Uwah! ...nuuhh!!"[pcms]
 ;//↑※ボイス加工？
 
 *1258|
 [fc]
-そうだな……。[r]
-こんなにキツイし……。[pcms]
+That's right... It's so tight...[pcms]
 
 *1259|
 [fc]
-別にいいか！！[r]
-他の事なんか、考えたくない！！[pcms]
+It doesn't matter!! I don't want to think about anything[r]
+else!![pcms]
 
 *1260|
 [fc]
-俺は……速水とヤッてんだっ！！[r]
-もう、それでいいっ！[pcms]
+I'm having sex with Hayami!! That's enough for me![pcms]
 
 *1261|
 [fc]
 [vo_hay s="hayami1062"]
-[ns]ありす[nse]
-「あっ……あたっ……し……、[r]
-　んっ！　……あぐっ！」[pcms]
+[ns]Alice[nse]
+"Ah... that's... me..., nn! ...aguh!"[pcms]
 ;//↑※ボイス加工？
 
 *1262|
 [fc]
-[ns]大倉[nse]
-「ははっ……あはははっ……！[r]
-　お前、何いってんだ！？　気持ちいいのか？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Haha... hahahaha...! What are you saying!? Does it feel[r]
+good?"[pcms]
 
 *1263|
 [fc]
-速水は、俺とセックスして悦んでくれている。[pcms]
+Hayami is enjoying having sex with me.[pcms]
 
 *1264|
 [fc]
-そう思うと、速水のオマンコにきつく締め上げられて[r]
-いるチンコに、血と神経が集まった様な感じがした。[pcms]
+Thinking that, I felt as if blood and nerves were gathering[r]
+in my dick, which was tightly squeezed by Hayami's pussy.[pcms]
 
 *1265|
 [fc]
-[ns]大倉[nse]
-「うっ……うあぁっ……お前のオマンコ……締まる！[r]
-　す……すげぇっ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Ugh... uwaahh... your pussy... it's so tight! Amazing!!"[pcms]
 
 *1266|
 [fc]
-温かく絡みつく濡れた感覚に俺は、もっと強い刺激を[r]
-求めようと、さらに激しく、腰を突き動かした。[pcms]
+The warm, wet sensation wrapped around me made me seek even[r]
+stronger stimulation, and I thrust my hips more fiercely.[pcms]
 
 ;//★HEV608b.bmp
 [evcg storage="HEV608b"][trans_c cross time=301]
@@ -381,73 +367,72 @@
 *1267|
 [fc]
 [vo_hay s="hayami1063"]
-[ns]ありす[nse]
-「あぎっ……あぁっ……ヒロ……シ……！[r]
-　ヒロシの……おち、んちんっ！　すごっ……い！」[pcms]
+[ns]Arisu[nse]
+"Agh... ah... Hiro...shi...! Hiroshi's... dick! It's[r]
+amazing!"[pcms]
 
 *1268|
 [fc]
-初めてと言う割には、ダラダラと愛液を垂らし、[r]
-俺のチンコを熱く締め付けるオマンコは、[r]
-最初に感じていた固さが徐々に無くなってきていた。[pcms]
+For her first time, her pussy was dripping with love juices,[r]
+tightly gripping my dick, but the initial tightness was[r]
+gradually fading.[pcms]
 
 *1269|
 [fc]
-[ns]大倉[nse]
-「なんだよ、速水！　もっと……もっと締めてくれよ！[r]
-　さっきみたいに……強く締めてくれよ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"What's the matter, Hayami! Tighten up more... like you did[r]
+before... squeeze it hard!!"[pcms]
 
 *1270|
 [fc]
 [vo_hay s="hayami1064"]
-[ns]ありす[nse]
-「やぁあぁぁっ！！　そんなこと……あぁぁっ！！[r]
-　どうするのか……分からないよぉっ！[r]
-　熱いっ……中があついぃ！！」[pcms]
+[ns]Alice[nse]
+"Yaaahhh!! I can't... ahhhh!! I don't know what to do! It's[r]
+hot... it's so hot inside!!"[pcms]
 
 *1271|
 [fc]
-いつしか速水の顔からは、痛みを堪えている様な険し[r]
-さが消えて、虚ろに開いた口からは一筋の涎が、[r]
-こぼれ落ちていた。[pcms]
+Before long, the pained expression on Hayami's face had[r]
+vanished, and a single strand of drool spilled from her[r]
+slackened mouth.[pcms]
 
 *1272|
 [fc]
-息も絶え絶えに喘ぐ速水と、ただ快楽を求めて、[r]
-獣の様に腰を振る俺に、いつの間にか全裸になった[r]
-ユウが近づいてきていた。[pcms]
+Gasping for breath, Hayami and I, who was simply seeking[r]
+pleasure, were approached by Yuuki, who had somehow become[r]
+completely naked.[pcms]
 
 *1273|
 [fc]
 [vo_kob s="koba0538"]
-[ns]小林[nse]
-「ボク……ボク……もう……我慢出来ないよ！」[pcms]
+[ns]Kobayashi[nse]
+"I... I can't hold back anymore!"[pcms]
 
 *1274|
 [fc]
-[ns]大倉[nse]
-「……！！　ゆ、ユウ……！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"...!! Y-Yuuki...!!"[pcms]
 
 *1275|
 [fc]
-顔に似合わないチンコを大きく腫れ上がらせて、[r]
-先から我慢汁を垂れ流したユウが、[r]
-俺から速水を奪おうと、割り込もうとしてきた。[pcms]
+Yuuki, with a dick swollen beyond what his face would[r]
+suggest, dripping pre-cum, tried to wedge himself in and[r]
+take Hayami away from me.[pcms]
 
 *1276|
 [fc]
-[ns]大倉[nse]
-「うわっ！！　なんだよ、ユウ！！　やめろっ！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Whoa!! What are you doing, Yuuki!! Stop it!"[pcms]
 
 *1277|
 [fc]
-ユウ……一体どうしたんだっ……。[r]
-でも、速水はわたさねぇっ！[pcms]
+Yuuki... what happened to you... But I won't hand over[r]
+Hayami![pcms]
 
 *1278|
 [fc]
-[ns]大倉[nse]
-「クソッ……やめろユウ！　うあっ！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Damn it... stop it Yuuki! Uwah!"[pcms]
 
 ;//ここから佐藤改造
 
@@ -462,9 +447,9 @@
 
 *1279|
 [fc]
-速水を渡すまいとして、ユウを突き飛ばしたが、[r]
-よほど我慢ができなかったのか、俺と速水の結合部に、[r]
-そのいきり立ったチンコを強引にねじ込んだ。[pcms]
+I pushed Yuuki away, trying not to hand over Hayami, but he[r]
+was so desperate that he forcefully jammed his erect dick[r]
+into the place where Hayami and I were joined.[pcms]
 
 ;//★HEV609b a+速水のけぞり
 [evcg storage="HEV609b"][trans_c cross time=301]
@@ -472,229 +457,222 @@
 *1280|
 [fc]
 [vo_hay s="hayami1065"]
-[ns]ありす[nse]
-「あ……あがぁぁぁあぁぁぁっ！！　くっ……苦しっ！[r]
-　あぁぁ……うあぁっ！！」[pcms]
+[ns]Alice[nse]
+"Ah... agaaahhh!! It's so tight! Ahhh... uwaahh!!"[pcms]
 
 *1281|
 [fc]
-[ns]大倉[nse]
-「きっ……キツイっ！！　ユウっ……何するんだ！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"It's so tight!! Yuuki... what are you doing!"[pcms]
 
 ;//★HEV609c
 [evcg storage="HEV609c"][trans_c cross time=301]
 
 *1282|
 [fc]
-速水の少し緩まったオマンコには、粘った泡が弾ける[r]
-音と共に、俺のとユウのチンコが埋まっていった。[pcms]
+Hayami's slightly loosened pussy made a popping sound as[r]
+both mine and Yuuki's dicks were buried inside.[pcms]
 
 *1283|
 [fc]
 [vo_hay s="hayami1066"]
-[ns]ありす[nse]
-「あぎぃっ！　そ……そん……な……、二本もっ……！[r]
-　ぎいいいぃぃっ！　裂けちゃう！」[pcms]
+[ns]Arisu[nse]
+"Agiih! To... to do such a thing... two dicks...! Giiiihh![r]
+I'm going to tear!"[pcms]
 
 *1284|
 [fc]
 [vo_kob s="koba0539"]
-[ns]小林[nse]
-「あぁぁ……温かい……温かいよ！　ヒロぉ！[r]
-　ヒロの……硬いよぉ！！」[pcms]
+[ns]Kobayashi[nse]
+"Ahh... it's warm... it's so warm! Hiro! Hiro's is so[r]
+hard!!"[pcms]
 
 *1285|
 [fc]
-[ns]大倉[nse]
-「……！？　ユウ……お前……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"...!? Yuuki... you..."[pcms]
 
 *1286|
 [fc]
 [vo_kob s="koba0540"]
-[ns]小林[nse]
-「ぼ、ボクの……ヒロのに擦れてる……！」[pcms]
+[ns]Kobayashi[nse]
+"My... mine is rubbing against Hiro's...!"[pcms]
 
 *1287|
 [fc]
-ユウは速水の腰を抱えて、必死に腰を振りながら、[r]
-俺を真っ赤な顔をして見つめ、涙を流していた。[pcms]
+Yuuki held Hayami's waist and frantically moved his hips[r]
+while looking at me with a flushed face and tears streaming[r]
+down.[pcms]
 
 *1288|
 [fc]
 [vo_kob s="koba0541"]
-[ns]小林[nse]
-「ボクのが……ヒロのに当たって……あうぅ……！！[r]
-　凄いよぉっ！！　あぁ～っ！！　ヒロ……ヒロぉ！[r]
-　ボクのおちんちん……ヒロのに擦れてる……！！」[pcms]
+[ns]Kobayashi Yuuki[nse]
+"Mine is touching Hiro's... ahh...!! It's amazing!! Ahh~!![r]
+Hiro... Hiro! My dick is rubbing against yours...!!"[pcms]
 
 *1289|
 [fc]
 [vo_hay s="hayami1067"]
-[ns]ありす[nse]
-「んあぁあっ……オマンコがっ！　あぐぅうっ！」[pcms]
+[ns]Alice[nse]
+"Nnahh... my pussy! Aguuuhh!"[pcms]
 
 *1290|
 [fc]
-俺の名を叫びながら、腰を乱暴に振り乱しているユウ。[r]
-その瞳には、速水じゃなくて、俺の顔が映っている。[pcms]
+Yuuki was wildly shaking his hips while calling out my name.[r]
+In his eyes, it wasn't Hayami he saw, but my face.[pcms]
 
 *1291|
 [fc]
-ユウは、もしかして……、速水じゃなくて……。[r]
-俺の事が……！？[pcms]
+Could it be that Yuuki doesn't care about Hayami... but[r]
+about me!?[pcms]
 
 *1292|
 [fc]
-ユウは、男……。[r]
-俺も……男……。[pcms]
+Yuuki is a man... I'm also a man...[pcms]
 
 *1293|
 [fc]
-ユウは確かに中性的で、可愛い顔をしている。[r]
-でもユウは、男だ。[pcms]
+Yuuki certainly has an androgynous and cute face. But Yuuki[r]
+is a man.[pcms]
 
 *1294|
 [fc]
-俺は……俺はどうしたら……！？[r]
-それより、速水とユウのに擦れて……。[pcms]
+What should I do...? More importantly, rubbing against[r]
+Hayami and Yuuki...[pcms]
 
 *1295|
 [fc]
-[ns]大倉[nse]
-「うあぁっ……き……キツイ！！　ユウ……抜いて、[r]
-　くれっ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Uwahh... it's so tight!! Yuuki... pull out, please..."[pcms]
 
 *1296|
 [fc]
 [vo_kob s="koba0542"]
-[ns]小林[nse]
-「いっ……嫌だ！！　ボクは……このまま……、[r]
-　このまま、ヒロを感じていたいんだ！！[r]
-　ボクは……ヒロの事が……好きなんだ！」[pcms]
+[ns]Kobayashi[nse]
+"No way!! I want to stay like this... I want to keep feeling[r]
+Hiro!! I... I love Hiro!"[pcms]
 
 *1297|
 [fc]
 [vo_hay s="hayami1068"]
-[ns]ありす[nse]
-「いやぁぁっ……お腹苦しいっ！　ヒロシも……、[r]
-　ユウもっ……もう抜いてぇ！！　やだぁ！[r]
-　こんなの……いやだよ！！」[pcms]
+[ns]Arisu[nse]
+"No wayyy... my stomach hurts! Hiroshi too... Yuuki too...[r]
+pull out already!! Noo! I don't want this!!"[pcms]
 
 *1298|
 [fc]
 [vo_kob s="koba0543"]
-[ns]小林[nse]
-「あううぅっ……あはぁ……あははぁ～～！[r]
-　ボク……ヒロとえっちしてるぅ～～……！！」[pcms]
+[ns]Kobayashi[nse]
+"Auuuhh... ahaha... ahahahaa~! I'm having sex with Hiro~!!"[pcms]
 
 *1299|
 [fc]
-[ns]大倉[nse]
-「うあぁっ……はっ……はっ……あぁぁっ！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Uwahh... hah... hah... ahhhh!"[pcms]
 
 *1300|
 [fc]
-速水の中で猛烈に擦り上げられる俺のチンコは、[r]
-もう爆発寸前になっていた。[pcms]
+My dick being furiously rubbed inside Hayami was on the[r]
+verge of exploding.[pcms]
 
 *1301|
 [fc]
-速水の苦しそうなあえぎ声と、ユウの切ない声。[r]
-そして、きつく締め上げる速水の中と、[r]
-その中で擦り合わされるユウのチンコ。[pcms]
+The painful moans of Hayami and the plaintive cries of[r]
+Yuuki. And the tightness of Hayami squeezing around us and[r]
+Yuuki's dick rubbing against mine.[pcms]
 
 *1302|
 [fc]
-それらからいっぺんに与えられる強烈な刺激は、[r]
-つま先から頭のてっぺんまで痺れさせた。[pcms]
+The intense stimulation from all these sources sent tingles[r]
+from my toes to the top of my head.[pcms]
 
 *1303|
 [fc]
-快楽に痺れ、麻痺した俺の頭は、[r]
-速水が俺のことを好きだって事も、[r]
-ヒロが男だって事も、全てどうでも良くなっていた。[pcms]
+Numb with pleasure, my mind didn't care anymore that Hayami[r]
+liked me or that Yuuki was a man. Everything else seemed[r]
+irrelevant.[pcms]
 
 *1304|
 [fc]
-今のこの気持ち良さがずっと続けばいい。[r]
-俺の頭は、もうそれしか考えられなくなっていた。[pcms]
+All that mattered was this incredible feeling. That was all[r]
+my mind could focus on now.[pcms]
 
 ;//★HEV609d 速水白目　主人公喜び　コバ困り
 [evcg storage="HEV609d"][trans_c cross time=301]
 
 *1305|
 [fc]
-[ns]大倉[nse]
-「あははっ……あっははは！！　もういいや！！[r]
-　気持ちよけりゃそれでいいや！！[r]
-　気持ちいいぞ！！　二人とも！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Ahaha... ahahaha!! It doesn't matter anymore!! As long as[r]
+it feels good, that's all that matters!! It feels good!![r]
+Both of you!!"[pcms]
 
 *1306|
 [fc]
 [vo_hay s="hayami1069"]
-[ns]ありす[nse]
-「あた、し、もっ……お腹の中……二人に掻き回され[r]
-　てっ……あはぁあぁっ！！　気持ちいいっ！！[r]
-　あた、まっ……真っ白にっ……ぁあっ！」[pcms]
+[ns]Arisu[nse]
+"I'm also... my insides are being stirred by two people...[r]
+ahhaaahh!! It feels good!! My head's going blank... ahh!"[pcms]
 
 *1307|
 [fc]
 [vo_kob s="koba0544"]
-[ns]小林[nse]
-「ヒロぉ～……大好きだよっ！！　ヒロぉ！！[r]
-　凄いよぉっ！！　ぼ、ボク……もう……あっ！」[pcms]
+[ns]Kobayashi[nse]
+"Hiro~ I love you so much!! Hiro!! It's amazing!! I'm about[r]
+to... ah!"[pcms]
 
 *1308|
 [fc]
-速水のオマンコが締め付け、ユウのチンコが俺のを[r]
-擦り上げる。[pcms]
+Hayami's pussy clenched tightly, and Yuuki's dick rubbed[r]
+mine up.[pcms]
 
 *1309|
 [fc]
-速水の中からは三人の体液が合わさり、[r]
-垂れ落ちて、床に水たまりを広げていく。[pcms]
+The bodily fluids of all three of us mixed together inside[r]
+Hayami, dripping down and spreading into a puddle on the[r]
+floor.[pcms]
 
 *1310|
 [fc]
 [vo_kob s="koba0545"]
-[ns]小林[nse]
-「うぁぁあ……おちんちんの裏が擦れて……、[r]
-　ヒロの熱いのがぁ……！」[pcms]
+[ns]Kobayashi[nse]
+"Uwaaahh... the underside of my dick is rubbing against[r]
+it..., Hiro's heat is..."[pcms]
 
 *1311|
 [fc]
 [vo_hay s="hayami1070"]
-[ns]ありす[nse]
-「あたし……もう……あっ……ダメっ……、[r]
-　飛んじゃうよぉっ！！　あっ……ああっ！！」[pcms]
+[ns]Alice[nse]
+"I'm already... ah... I can't take it..., I'm going to fly[r]
+away!! Ahh... ahhh!!"[pcms]
 
 ;//★HEV609e みんな困ってるの
 [evcg storage="HEV609e"][trans_c cross time=301]
 
 *1312|
 [fc]
-[ns]大倉[nse]
-「うあっ……俺も……もうっ！！　うっ……あぁっ！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Uwahh... me too... I'm about to!! Ugh... ahh!"[pcms]
 
 *1313|
 [fc]
 [vo_hay s="hayami1071"]
-[ns]ありす[nse]
-「イヤッ……いやぁぁあぁあっ！！　ああぁあっ！[r]
-　真っ白っ！！　あはっ……あははははあっ！！[r]
-　あ――ッ！！」[pcms]
+[ns]Arisu[nse]
+"No... nooooo!! Ahhh! It's all white!! Ahah... ahahahaha!![r]
+Ah--!!"[pcms]
 
 *1314|
 [fc]
 [vo_kob s="koba0546"]
-[ns]小林[nse]
-「出ちゃう！！　ヒロのに擦れて……ボク……ボク！[r]
-　もう……うわぁぁぁぁぁぁッ！！」[pcms]
+[ns]Kobayashi[nse]
+"It's coming out!! Rubbing against Hiro's... I... I! It's[r]
+too much... uwaahhhhh!!"[pcms]
 
 *1315|
 [fc]
-[ns]大倉[nse]
-「くっ……お、俺もっ……うぉぉぉっ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Kuh... I, too... uwoooohh!!"[pcms]
 
 ;[射精フラA]
 ;イベントCG射精差分
@@ -708,18 +686,17 @@
 *1316|
 [fc]
 [vo_hay s="hayami1072"]
-[ns]ありす[nse]
-「うあぁぁぁぁ！！　お腹の中に二人のがぁっ！[r]
-　あついぃぃぃっ！！　二人の赤ちゃん、[r]
-　できちゃうっ！」[pcms]
+[ns]Arisu[nse]
+"Uwaaaahh!! Inside my belly, both of their cum! It's so[r]
+hot!! We might make babies!!"[pcms]
 
 
 *1317|
 [fc]
 [vo_kob s="koba0547"]
-[ns]小林[nse]
-「うぁぁぁあっ！！　ヒロのせーしっ！！[r]
-　あついぃっ！！　おちんちん……熱いっ！」[pcms]
+[ns]Kobayashi[nse]
+"Uwaaaahh!! Hiro's semen!! It's hot!! My cock... it's so[r]
+hot!"[pcms]
 
 ;//★HEV609g
 [evcg storage="HEV609g"][trans_c cross time=301]
@@ -727,62 +704,60 @@
 
 *1318|
 [fc]
-速水と俺達の結合部分からは、白く濁った精子が、[r]
-泡を立てて吹き出していた。[pcms]
+From the place where Hayami and we were joined, cloudy white[r]
+semen was frothing and spilling out.[pcms]
 
 *1319|
 [fc]
-俺とユウの精液が混ざり合って、速水のオマンコから[r]
-大量に溢れだし、ゆっくりと流れ落ちて、[r]
-床に広がっていった。[pcms]
+My and Yuu's semen mixed together, overflowing from Hayami's[r]
+pussy in large amounts, slowly flowing down and spreading on[r]
+the floor.[pcms]
 
 *1320|
 [fc]
-[ns]大倉[nse]
-「うあぁぁっ……、あぁ……はっ……はあっ……、[r]
-　す、すげえ……、死ぬかと思った……。[r]
-　おい……？　速水？　ユウ？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Uwaaahh... ah... hah... haaah... that was amazing...[r]
+thought I was gonna die... Hey...? Hayami? Yuu?"[pcms]
 
 *1321|
 [fc]
 [vo_hay s="hayami1073"]
-[ns]ありす[nse]
-「うあ……ああ……」[pcms]
+[ns]Alice[nse]
+"Uwah... ahh..."[pcms]
 
 *1322|
 [fc]
 [vo_kob s="koba0548"]
-[ns]小林[nse]
-「あ……あ……」[pcms]
+[ns]Kobayashi[nse]
+"Ah... ah..."[pcms]
 
 ;//★黒画面
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
 *1323|
 [fc]
-ひとしきり叫んだ速水とユウは、そのまま気を失って[r]
-しまったのか、大きく息を吸い込んだあと、[r]
-すぐに動かなくなってしまった。[pcms]
+After a bout of screaming, Hayami and Yuu seemed to have[r]
+lost consciousness; they took a deep breath and then stopped[r]
+moving.[pcms]
 
 *1324|
 [fc]
-俺……速水と……それに、ユウと……、[r]
-セックスしちまった……。[pcms]
+I... had sex with Hayami... and with Yuu...[pcms]
 
 *1325|
 [fc]
-でも、気持ちいいな……。[pcms]
+But it felt good...[pcms]
 
 *1326|
 [fc]
-セックス……もっとしたい……。[pcms]
+I want to have more sex...[pcms]
 
 ;//------------------------------------------------
 [if exp="tf.scene_mode==1"]
 	[jump storage="b_scene.ks" target=*back_from_SR]
 ;	[link storage=sceneAgain]もう一度見る[endlink]
 ;	[link storage=sceneList]一覧に戻る[endlink]
-;	[s]
+[pcms]
 [endif]
 
 *KAISOU_PASS

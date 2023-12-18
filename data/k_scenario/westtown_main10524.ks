@@ -27,8 +27,8 @@
 
 *12387|
 [fc]
-“ª‚Ì’†‚É‹“‚ª‚Á‚Ä‚¢‚½Œó•â‚Ì’†‚ÌA‚Ç‚ê‚ğ‚Á‚Äs‚¯[r]
-‚Î‚¢‚¢‚Ì‚©A‰´‚Í‚·‚®‚ÉŒˆ‚ß‚é‚±‚Æ‚ª‚Å‚«‚È‚©‚Á‚½B[pcms]
+I couldn't immediately decide which of the options in my[r]
+head to take with me.[pcms]
 
 ;mm ’Ç‰Á
 [cutin_int]
@@ -38,9 +38,9 @@
 *12388|
 [fc]
 [vo_anz s="anzai0214"]
-[ns]‚İ‚«[nse]
-uƒqƒƒV‚­‚ñA‰½‚µ‚Ä‚é‚ÌIH@‘‚­“¦‚°‚È‚¢‚ÆˆÍ‚Ü[r]
-@‚ê‚é‚í‚æIIv[pcms]
+[ns]Mikki[nse]
+"Hiroshi-kun, what are you doing!? We need to hurry and[r]
+escape before we're surrounded!!"[pcms]
 
 ;êŠ<ImageFade 6,60,OFF,OFF>
 
@@ -50,13 +50,13 @@
 
 *12389|
 [fc]
-[ns]‘å‘q[nse]
-uccs‚±‚¤Aƒ}ƒ„‚¿‚á‚ñIv[pcms]
+[ns]Ookura Hiroshi[nse]
+"...Let's go, Maya-chan!"[pcms]
 
 *12390|
 [fc]
-‰´‚Í‚Á‚Äs‚­‚±‚Æ©‘Ì‚ğ’ú‚ß‚ÄAƒ}ƒ„‚¿‚á‚ñ‚Ì˜r‚ğ[r]
-ˆø‚¢‚Äo“ü‚èŒû‚Ö‘–‚Á‚½B[pcms]
+I gave up on taking anything and pulled Maya-chan's arm as[r]
+we ran towards the exit.[pcms]
 
 ;//[fadeoutbgm time=502]
 ;//[stop_se0]
@@ -69,4 +69,4 @@
 ;//ƒuƒƒbƒN‚P‚O‚T‚R‚O‚Ö
 [jump storage="westtown_main10530.ks" target=*westtown_main10530_TOP]
 
-;//||||||||||||||||||||||||||||||||||||||||
+;//

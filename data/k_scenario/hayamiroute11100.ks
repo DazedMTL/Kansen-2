@@ -28,14 +28,14 @@
 
 *3271|
 [fc]
-[ns]大倉[nse]
-「速水……ッ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Hayami...!"[pcms]
 
 *3272|
 [fc]
-真っ暗な中で、蠢くイカレ集団の影にモミクチャに[r]
-されながら、俺は掴んだ速水の手を離さないように、[r]
-強く握りしめた。[pcms]
+In the pitch darkness, while being jostled by the writhing[r]
+mad crowd, I gripped Hayami's hand that I had grabbed,[r]
+making sure not to let go.[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
@@ -43,46 +43,45 @@
 *3273|
 [fc]
 [vo_hay s="hayami0709"]
-[ns]ありす[nse]
-「ヒロシ……！」[pcms]
+[ns]Arisu[nse]
+"Hiroshi...!"[pcms]
 
 *3274|
 [fc]
-速水の声が聞こえるのと同時に、俺の手が強く握り返[r]
-されるのを感じた。[pcms]
+At the same time I heard Arisu's voice, I felt my hand being[r]
+gripped back strongly.[pcms]
 
 *3275|
 [fc]
-ココまできて、コイツを助けられないなんて、[r]
-冗談じゃねー……。[pcms]
+Having come this far, it's no joke that I can't save her...[pcms]
 
 *3276|
 [fc]
-絶対、速水と、ユウと、マヤちゃんと、みんなで坂田[r]
-に帰る……！！[pcms]
+I will definitely return to Sakata with Hayami, Yuu, Maya-[r]
+chan, and everyone...!![pcms]
 
 *3277|
 [fc]
-[ns]大倉[nse]
-「速水！！　絶対一緒に帰るぞッ！！」[pcms]
+[ns]Ookura[nse]
+"Hayami!! We're definitely going back together!!"[pcms]
 
 [ChrSetEx layer=4 chbase="hayami_t04"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *3278|
 [fc]
 [vo_hay s="hayami0710"]
-[ns]ありす[nse]
-「うんっ……！」[pcms]
+[ns]Arisu[nse]
+"Yeah...!"[pcms]
 
 *3279|
 [fc]
-俺は姿勢を低くして、速水の腕を引っ張りながら、密[r]
-集するイカレ野郎の中を、力任せに泳ぐようにかき分[r]
-けて進み、女子ベンから抜け出した。[pcms]
+I crouched low and, while pulling on Hayami's arm, swam[r]
+through the dense crowd of crazies with brute force and[r]
+escaped from the women's restroom.[pcms]
 
 *3280|
 [fc]
-[ns]大倉[nse]
-「だらぁぁぁぁぁああああああッ！！！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Daaaaaaaahhhhhhhhhhh!!!"[pcms]
 
 ;//[]BG表示
 ;//★ＢＧ：トイレ付近東B
@@ -95,15 +94,15 @@
 
 *3281|
 [fc]
-[ns]大倉[nse]
-「ぶはぁっ……！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Buhah...!!"[pcms]
 
 [ChrSetEx layer=4 chbase="hayami_t06"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *3282|
 [fc]
 [vo_hay s="hayami0711"]
-[ns]ありす[nse]
-「きゃぁっ！！」[pcms]
+[ns]Arisu[nse]
+"Kyaaah!!"[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
@@ -111,52 +110,53 @@
 
 *3283|
 [fc]
-俺も速水も、イカレ集団にもみくちゃにされはした。[pcms]
+Both Hayami and I were jostled by the mad crowd.[pcms]
 
 *3284|
 [fc]
-けど、薄明かりの中に見える自分の体には、[r]
-目立つ傷はどこにもついてないし、痛い所も無かった。[pcms]
+But in the dim light, I could see my body had no noticeable[r]
+wounds, and there was no pain anywhere.[pcms]
 
 *3285|
 [fc]
-暗くてよく見えないだけで、どっかケガしてるかも[r]
-しれねーけどな……。[pcms]
+It's dark and hard to see clearly, so there might be[r]
+injuries somewhere...[pcms]
 
 *3286|
 [fc]
-けど、体が動くうちは諦めねー……。[r]
-絶対に助かってやる……！[pcms]
+But as long as my body can move, I won't give up... I will[r]
+definitely survive...![pcms]
 
 *3287|
 [fc]
-[ns]大倉[nse]
-「立てるか？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Can you stand?"[pcms]
 
 *3288|
 [fc]
-蠢く影の塊が、ユラユラ揺れながら近づいてきてるの[r]
-に気づいた俺は、ムリヤリ飛び出した時の勢いでコケ[r]
-た速水を、急いで引っ張り上げて立ちあがらせた。[pcms]
+Noticing the writhing mass of shadows approaching with a[r]
+swaying motion, I quickly pulled up Hayami, who had fallen[r]
+due to the momentum of our forced escape, and made her[r]
+stand.[pcms]
 
 [ChrSetEx layer=4 chbase="hayami_t02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *3289|
 [fc]
-[ns]大倉[nse]
-「逃げるぞ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"We're running!!"[pcms]
 
 [ChrSetEx layer=4 chbase="hayami_t08"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *3290|
 [fc]
 [vo_hay s="hayami0712"]
-[ns]ありす[nse]
-「う、うん！」[pcms]
+[ns]Arisu[nse]
+"Y-Yes!"[pcms]
 
 *3291|
 [fc]
-俺らはまた、手を握り合い、短い方の通路を走り抜け、[r]
-屋上への階段を駆け上った。[pcms]
+We held hands again and ran through the shorter passage,[r]
+racing up the stairs to the rooftop.[pcms]
 
 ;//♪：bgm009 fadeout
 [fadeoutbgm time=1000]
@@ -167,4 +167,4 @@
 
 [jump storage="hayamiroute11110.ks" target=*hayamiroute11110_TOP]
 
-;//－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+;//

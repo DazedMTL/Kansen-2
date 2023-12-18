@@ -15,31 +15,30 @@
 
 *800|
 [fc]
-[ns]鼻の大きい男[nse]
-「んへ゛ぇァ～～……あし゛ぃ～～……あし゛、[r]
-　あんよ゛～～……」[pcms]
+[ns]Man with a big nose[nse]
+"Nheee~... it's hot~... my legs~..."[pcms]
 
 *801|
 [fc]
-[ns]太った男[nse]
-「ま゛ってよ゛ぉ～～……あ゛はぁ～～……」[pcms]
+[ns]Fat Man[nse]
+"Wait up~... ahh~..."[pcms]
 
 *802|
 [fc]
 [vo_nao s="naomi0022"]
-[ns]直美[nse]
-「くっ……！」[pcms]
+[ns]Naomi[nse]
+"Ugh...!"[pcms]
 
 *803|
 [fc]
-何人もの感染者が、直美の足下に這い寄り、[r]
-絡みつく。[pcms]
+Several infected individuals crawl towards Naomi's feet,[r]
+entangling themselves around her.[pcms]
 
 *804|
 [fc]
-直美の脳裏に、ついさっき見た光景が蘇る。[r]
-感染者に襲われ、感染者の仲間になってしまった、[r]
-分隊の事を。[pcms]
+The scene Naomi had witnessed just moments ago flashes back[r]
+in her mind. The squad being attacked by the infected and[r]
+turning into one of them.[pcms]
 
 ;//★雄叫び
 [se0 storage="SE48"]
@@ -47,21 +46,22 @@
 *805|
 [fc]
 [vo_mob s="zenra0001"]
-[ns]全裸の女[nse]
-「き゛ぃぃ゛ぃ～～……、こ゛のみ゛ぃ～～……、[r]
-　あ゛たしと゛……え゛っちしよ～～……？」[pcms]
+[ns]Naked Woman[nse]
+"Giiii~... this body~... do you want to have sex with[r]
+me~...?"[pcms]
 
 *806|
 [fc]
-[ns]背の高い男[nse]
-「おめこぉ～～……お゛おおお～～……」[pcms]
+[ns]Tall man[nse]
+"Pussy~... ooooh~..."[pcms]
 
 ;//バッドエンド救済ポイント6
 ;AutoSave 6
 
 *807|
 [fc]
-直美に迫る感染者達が数を増していく。[pcms]
+The number of infected approaching Naomi continues to[r]
+increase.[pcms]
 
 ;//井：暗転にしますよ
 ;//井：暗転は止めます
@@ -83,7 +83,7 @@
 ;[link storage="alive_bad_80000.ks" target=*alive_bad_80000_TOP]直美は銃を用いて感染者を追い払おうとした[endlink]
 ;[link storage="alive_60060.ks"     target=*alive_60060_TOP    ]直美は感染者達を避け、目の前の建物へと走った[endlink]
 ;[link storage="alive_bad_80010.ks"                            ]直美は、迫る感染者達の足下に狙いを定めた[endlink]
-;[s]
+;[pcms]
 
 
 
@@ -91,9 +91,9 @@
 [fc]
 [pcms_sel]
 
-[eval exp="f.seltext02 = '直美は銃を用いて感染者を追い払おうとした'"]
-[eval exp="f.seltext04 = '直美は感染者達を避け、目の前の建物へと走った'"]
-[eval exp="f.seltext06 = '直美は、迫る感染者達の足下に狙いを定めた'"]
+[eval exp="f.seltext02 = 'Naomi tried to drive away the infected with a gun'"]
+[eval exp="f.seltext04 = 'Naomi avoided the infected and ran towards the building in front of her'"]
+[eval exp="f.seltext06 = 'Naomi aimed at the feet of the approaching infected'"]
 
 [if exp="tf.sys_sub == 0 || tf.選択肢ログ表示してね == 1"]
 	;選択肢内容をバックログに表記。改行コード必須。

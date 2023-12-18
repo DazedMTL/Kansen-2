@@ -24,48 +24,46 @@
 
 *10985|
 [fc]
-どうすんだ……。[r]
-どっちにすりゃいい……？[pcms]
+"What should I do... Which one should I choose...?"[pcms]
 
 *10986|
 [fc]
-俺はどっちを取るか迷い続け、電話にも出ず、女の子[r]
-を止めることもしないで、その場に突っ立ったままで[r]
-いた。[pcms]
+"I continued to hesitate about which to choose, didn't[r]
+answer the phone, didn't stop the girl, and just stood there[r]
+frozen in place."[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
 *10987|
 [fc]
-[ns]大倉[nse]
-「あ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Ah..."[pcms]
 
 *10988|
 [fc]
-いつまでも踏ん切りがつかないでいる俺の横を抜けて、[r]
-ユウが女の子の方へ走っていく。[pcms]
+"As I remained indecisive, Yuuki ran past me towards the[r]
+girl."[pcms]
 
 *10989|
 [fc]
-[ns]大倉[nse]
-「……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"..."[pcms]
 
 *10990|
 [fc]
-まだ切れずに着信音が鳴ってるってことは、今までま[r]
-るでかからなかった電話が、普通に繋がるようになっ[r]
-たに違いない。[pcms]
+"The fact that the ringtone is still going means that the[r]
+phone, which never got calls before, must now be able to[r]
+connect normally."[pcms]
 
 *10991|
 [fc]
-それなら、速水にはあとでこっちからかけ直すとして、[r]
-今はとりあえず、目の前の問題を片付けよう。[pcms]
+"With that in mind, I'll call Hayami back later. For now, I[r]
+should deal with the problem in front of me."[pcms]
 
 *10992|
 [fc]
-ようやくそう決心した俺は、まだ着信音を鳴らし続け[r]
-るケータイを、そのままポケットに突っ込んで、ユウ[r]
-に加勢するために彼女を追って走った。[pcms]
+"Finally resolved, I shoved my still-ringing phone into my[r]
+pocket and ran after Yuuki to help her."[pcms]
 
 ;//♪：bgm011 fadeout
 [fadeoutbgm time=1000]
@@ -80,4 +78,4 @@
 
 [jump storage="westtown_bad_30030.ks" target=*westtown_bad_30030_TOP]
 
-;//－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+;//

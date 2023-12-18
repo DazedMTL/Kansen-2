@@ -28,7 +28,7 @@
 ;[link storage="westtown_main10522.ks" target=*westtown_main10522_TOP]電池式ランタンを手に取った[endlink]
 ;[link storage="westtown_main10523.ks" target=*westtown_main10523_TOP]非常持ち出し袋を引っ掴んだ[endlink]
 ;[link storage="westtown_main10524.ks" target=*westtown_main10524_TOP]どちらも必要そうだが……[endlink]
-;[s]
+;[pcms]
 
 
 
@@ -36,9 +36,9 @@
 [fc]
 [pcms_sel]
 
-[eval exp="f.seltext02 = '電池式ランタンを手に取った'"]
-[eval exp="f.seltext04 = '非常持ち出し袋を引っ掴んだ'"]
-[eval exp="f.seltext06 = 'どちらも必要そうだが……'"]
+[eval exp="f.seltext02 = 'Picked up a battery-powered lantern'"]
+[eval exp="f.seltext04 = 'I grabbed the emergency carry-out bag'"]
+[eval exp="f.seltext06 = 'It seems like we need both'"]
 
 [if exp="tf.sys_sub == 0 || tf.選択肢ログ表示してね == 1"]
 	;選択肢内容をバックログに表記。改行コード必須。

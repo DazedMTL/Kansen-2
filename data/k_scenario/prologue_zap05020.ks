@@ -46,119 +46,119 @@
 *7846|
 [fc]
 [vo_anz s="anzai0013"]
-[ns]みき[nse]
-「ハァ……」[pcms]
+[ns]Mikki[nse]
+"Haa..."[pcms]
 
 *7847|
 [fc]
-これで何回目かしら……。[r]
-部屋に泊まった時は、必ず寝坊するんだから……。[pcms]
+"I wonder how many times this has happened... Whenever I[r]
+stay over, I always end up oversleeping..."[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
 *7848|
 [fc]
-起こしてくれると思って、いい気になってるのね……。[r]
-結婚したらどうなるのかしら……。[pcms]
+"Thinking you'll wake me up, getting all comfortable with[r]
+it... What would happen if we got married, I wonder..."[pcms]
 
 *7849|
 [fc]
 [vo_anz s="anzai0014"]
-[ns]みき[nse]
-「結婚考えてるのは、わたしだけだけど……」[pcms]
+[ns]Mikki[nse]
+"Though I'm the only one thinking about marriage..."[pcms]
 ;//◎ボソッと
 
 *7850|
 [fc]
-商店街の中を、パート先の千台市総合病院へ向かって[r]
-歩きながら、わたしは思わず、そう口に出してしまっ[r]
-ていた。[pcms]
+Walking through the shopping district towards my part-time[r]
+job at Chidai City General Hospital, I found myself[r]
+muttering those words without realizing it.[pcms]
 
 *7851|
 [fc]
-今年、看護専門学校を卒業した人間の中で、看護師と[r]
-してどこかの病院に就職しなかったのは私だけだった。[pcms]
+Among those who graduated from nursing school this year, I[r]
+was the only one who didn't take a job as a nurse at some[r]
+hospital.[pcms]
 
 *7852|
 [fc]
-今は恋人の、克也と結婚した時のために、時間の不規[r]
-則な看護師でなく、医療事務のパートをすることに、[r]
-わたしは決めた。[pcms]
+Now, for when I marry my boyfriend, Katsuya, I've decided to[r]
+work part-time in medical administration instead of as a[r]
+nurse with irregular hours.[pcms]
 
 *7853|
 [fc]
-研究者として、一日中、研究のことを考えている彼み[r]
-たいな人は、わたしがしっかりサポートしてあげなく[r]
-ては駄目だと思ったから。[pcms]
+I thought that for someone like him, who spends all day[r]
+engrossed in his research, it's essential that I provide[r]
+solid support.[pcms]
 
 *7854|
 [fc]
-実際、今日だってわたしが起こさなかったら、克也は[r]
-完全に遅刻だった。[pcms]
+In fact, if I hadn't woken him up today, Katsuya would have[r]
+been completely late.[pcms]
 
 *7855|
 [fc]
-でも、結婚を考えてるのは、今のところわたしだけ。[r]
-どう考えているのか、克也は何も言わない。[r]
-わたしも、彼に聞くことはなかった。[pcms]
+But as of now, I'm the only one thinking about marriage.[r]
+Katsuya hasn't said anything about it, and I haven't asked[r]
+him either.[pcms]
 
 *7856|
 [fc]
-もし、克也に全くその気が無かったら、と思うと怖く[r]
-て、今までずっと聞けないでいた。[pcms]
+The thought that Katsuya might not be interested at all is[r]
+scary, and that's why I've never been able to ask him.[pcms]
 
 *7857|
 [fc]
 [vo_anz s="anzai0015"]
-[ns]みき[nse]
-「ハァ……」[pcms]
+[ns]Mikki[nse]
+"Haa..."[pcms]
 
 *7858|
 [fc]
-克也はどう思ってるんだろう……。[r]
-わたしと同じ気持ちでいてくれてるのかしら……。[pcms]
+I wonder what Katsuya is thinking... Does he feel the same[r]
+way as I do...?[pcms]
 
 *7859|
 [fc]
 [vo_anz s="anzai0016"]
-[ns]みき[nse]
-「……」[pcms]
+[ns]Mikki[nse]
+"..."[pcms]
 ;//◎録る必要なし
 
 *7860|
 [fc]
-今日は久しぶりに、彼の仕事が終わった後、会って食[r]
-事をする約束をしていたのを思い出して、わたしは２[r]
-人の将来について考えるのをやめた。[pcms]
+Remembering that today, after a long time, we had made plans[r]
+to meet after his work and have dinner together, I stopped[r]
+thinking about our future.[pcms]
 
 *7861|
 [fc]
-３週間も前から楽しみにしてたんだから、わざわざ気[r]
-が滅入ること考えなくてもいいわよね……。[pcms]
+I've been looking forward to it for three weeks now, so[r]
+there's no need to bring myself down with such thoughts...[pcms]
 
 *7862|
 [fc]
 [vo_anz s="anzai0017"]
-[ns]みき[nse]
-「忘れてないといいけど……」[pcms]
+[ns]Mikki[nse]
+"I hope he hasn't forgotten..."[pcms]
 
 *7863|
 [fc]
-慌てて行ったからな……。[r]
-でも、きっと覚えていてくれるはず……。[r]
-約束してくれたのは、克也の方だし……。[pcms]
+I rushed out in a hurry... But surely he remembers. After[r]
+all, it was Katsuya who made the promise...[pcms]
 
 *7864|
 [fc]
 [vo_anz s="anzai0018"]
-[ns]みき[nse]
-「忘れてたら、それを楯に取るって手もあるわね……」[pcms]
+[ns]Mikki[nse]
+"If he's forgotten, I could use that as leverage..."[pcms]
 
 *7865|
 [fc]
-本当にそうした時、克也がどんな顔をするのか想像し[r]
-て、浮かんだ彼の顔に苦笑しながら、私はパート先の[r]
-病院へ向かった。[pcms]
+Imagining what kind of face Katsuya would make if I really[r]
+did that, I chuckled at the thought of his expression as I[r]
+headed to the hospital for my part-time job.[pcms]
 
 [sysbt_meswin clear]
 [fadeoutbgm time=502]
@@ -170,4 +170,4 @@
 
 [jump storage="prologue01100.ks" target=*prologue01100_TOP]
 
-;//－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+;//

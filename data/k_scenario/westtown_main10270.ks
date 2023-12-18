@@ -15,9 +15,9 @@
 
 *11142|
 [fc]
-エスカレーターのすぐ近くにあった階段を上り、新鮮[r]
-な空気が流れてくるのを感じて、俺は深呼吸しながら、[r]
-屋上への出入り口をくぐった。[pcms]
+I climbed the stairs right next to the escalator, felt the[r]
+fresh air flowing in, and took a deep breath as I passed[r]
+through the entrance to the rooftop.[pcms]
 
 ;//BGM 005
 ;//[bgm storage="BGM***"]
@@ -34,50 +34,51 @@
 
 *11143|
 [fc]
-ビルの外に出て、開放感を味わう俺らの前に拡がって[r]
-いたのは、満天の星空にそぐわない光景だった。[pcms]
+Stepping outside the building and savoring the sense of[r]
+freedom, what spread before us was a sight unfit for the[r]
+star-filled sky above.[pcms]
 
 *11144|
 [fc]
-[ns]大倉[nse]
-「スゲェな、こりゃ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Wow, this is something..."[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
 *11145|
 [fc]
-屋上に停めてあった、ここへ来た客のものらしい車が[r]
-全部、横になったり、逆さまになったり、重なったり[r]
-していて、ヒドイ有様だった。[pcms]
+The cars parked on the rooftop, seemingly belonging to the[r]
+guests who had come here, were all in a terrible[r]
+stateflipped on their sides, upside down, or piled on top[r]
+of each other.[pcms]
 
 *11146|
 [fc]
-中には、持ち主のことを思うとかわいそうになってく[r]
-るぐらい、ほとんど原型をとどめてない車もある。[pcms]
+Some cars were so badly damaged that I felt sorry for their[r]
+owners, barely retaining their original shape.[pcms]
 
 *11147|
 [fc]
-[ns]大倉[nse]
-「あれ、結構高い車だよなー……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Hey, those are pretty expensive cars..."[pcms]
 
 [ChrSetEx layer=4 chbase="nanasi_n05"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *11148|
 [fc]
 [vo_mob s="girl0020"]
-[ns]少女[nse]
-「寒い……」[pcms]
+[ns]Girl[nse]
+"It's cold..."[pcms]
 
 *11149|
 [fc]
-屋上へ辿り着くまでの間、暴れていたのがウソのよう[r]
-に大人しく、黙りこくって着いてきていた女の子が、[r]
-ここで口を開いた。[pcms]
+The girl who had been quietly following us, as if the[r]
+commotion on our way here was a lie, finally spoke up.[pcms]
 
 *11150|
 [fc]
-寒いと言い続けている彼女に、女の人が近づいて額に[r]
-手を当てる。[pcms]
+A woman approached the girl who kept saying she was cold and[r]
+placed her hand on her forehead.[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 [ChrSetEx layer=2 chbase="anza_n08"][ChrSetXY layer=2 x=0 y=0]
@@ -86,273 +87,267 @@
 *11151|
 [fc]
 [vo_anz s="anzai0134"]
-[ns]女[nse]
-「少し熱があるみたいね……。向こうで休んでましょ[r]
-　う、ね？」[pcms]
+[ns]Female[nse]
+"It seems you have a bit of a fever... Let's rest over[r]
+there, okay?"[pcms]
 
 [chara_int_ layer=2][chara_int_ layer=3][trans_c cross time=150]
 
 *11152|
 [fc]
-女の子はうなずいて、女の人と一緒に上ってきた階段[r]
-の方へ戻っていった。[pcms]
+The girl nodded and went back towards the stairs she had[r]
+come up with the woman.[pcms]
 
 [ChrSetEx layer=4 chbase="koba_n01"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *11153|
 [fc]
 [vo_kob s="koba0209"]
-[ns]小林[nse]
-「ヒロー！　みてあれ、すごいよ！」[pcms]
+[ns]Kobayashi[nse]
+"Hiro! Look at that, it's amazing!"[pcms]
 
 *11154|
 [fc]
-屋上の縁に取り付けられたフェンスによじ登って、遠[r]
-くの方を見ているユウに、俺は近寄っていった。[pcms]
+I approached Yuu, who was climbing up the fence installed at[r]
+the edge of the rooftop, looking far into the distance.[pcms]
 
 *11155|
 [fc]
-[ns]大倉[nse]
-「なんか見えたか？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Did you see something?"[pcms]
 
 *11156|
 [fc]
 [vo_kob s="koba0210"]
-[ns]小林[nse]
-「ホラあれ！」[pcms]
+[ns]Kobayashi[nse]
+"Look over there!"[pcms]
 
 *11157|
 [fc]
-[ns]大倉[nse]
-「……？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"...?"[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *11158|
 [fc]
-ユウが指さした方を見ると、立ち並ぶ建物の向こうに、[r]
-メチャクチャに破壊された街並みが見えている。[pcms]
+Looking in the direction Yuu was pointing, I could see a[r]
+townscape utterly destroyed beyond the row of buildings.[pcms]
 
 *11159|
 [fc]
-暗くてハッキリとはわからないが、目をこらして見る[r]
-と、倒壊した建物としてない建物の境目が、緩いカー[r]
-ブを描いているように見える。[pcms]
+It was dark and not clear, but focusing my eyes, I could see[r]
+the boundary between collapsed buildings and those still[r]
+standing seemed to trace a gentle curve.[pcms]
 
 *11160|
 [fc]
-もしかしたら、もっと上から見ると大きな円形になっ[r]
-ているのかもしれなかった。[pcms]
+Perhaps from higher up, it might even form a large circle.[pcms]
 
 *11161|
 [fc]
-[ns]大倉[nse]
-「向こうはどうなってんだ……？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"What's happened over there...?"[pcms]
 
 *11162|
 [fc]
-反対側まで歩いて行ってみると、その方向に見える街[r]
-並みは、前にここで見た時の景色と変わっていない。[pcms]
+Walking to the opposite side, the townscape visible in that[r]
+direction hadn't changed from what I had seen here before.[pcms]
 
 *11163|
 [fc]
-けど、建物にも、街頭にも灯りが点いてなくて、音も[r]
-無く、ひとがいるような、言ってみれば生活感のよう[r]
-なものは全然無い。[pcms]
+But there were no lights in the buildings or on the[r]
+streetlights, no sound, and no sign of people or what you[r]
+might call a sense of life.[pcms]
 
 *11164|
 [fc]
-[ns]大倉[nse]
-「ゴーストタウン、ってヤツか」[pcms]
+[ns]Ookura Hiroshi[nse]
+"A ghost town, huh."[pcms]
 
 [ChrSetEx layer=4 chbase="koba_n01"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *11165|
 [fc]
 [vo_kob s="koba0211"]
-[ns]小林[nse]
-「あそこにいたひとたちは、どこいったんだろうね。[r]
-　どこかににげたのかな」[pcms]
+[ns]Kobayashi[nse]
+"I wonder where all those people went. Did they escape[r]
+somewhere?"[pcms]
 
 *11166|
 [fc]
-[ns]大倉[nse]
-「どこ行ったって言や、クラスのヤツらもどこ行った[r]
-　んだ？　バスん中には、俺ら３人しかいなかったん[r]
-　だよな」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Where could they have gone? Even our classmates are[r]
+missing. There were only three of us in the bus."[pcms]
 
 [ChrSetEx layer=4 chbase="koba_n12"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *11167|
 [fc]
 [vo_kob s="koba0212"]
-[ns]小林[nse]
-「そういえば、そうだね。ほんと、みんなどこいった[r]
-　んだろう……」[pcms]
+[ns]Kobayashi[nse]
+"Now that you mention it, yeah. Really, where did everyone[r]
+go...?"[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *11168|
 [fc]
-単純に、俺ら３人より先に目が覚めて、どこかに逃げ[r]
-たのか……。[pcms]
+Simply put, did they wake up before us three and escape[r]
+somewhere...?[pcms]
 
 *11169|
 [fc]
-それとも、救助隊が来て、どこかの病院に運び込まれ[r]
-たのか……。[pcms]
+Or were they rescued by a team and taken to some[r]
+hospital...?[pcms]
 
 *11170|
 [fc]
-けど、そうだとしたら、なんで俺ら３人だけバスの中[r]
-に残されてたんだ……。[r]
-死んだと思われたのか……？[pcms]
+But if that's the case, why were only us three left inside[r]
+the bus... Were we thought to be dead...?[pcms]
 
 *11171|
 [fc]
-いや……。[r]
-ただ気絶してるだけなら、さっきのあの子みたいに、[r]
-プロが見れば生きてるってわかるはずだ……。[pcms]
+No... If it was just unconsciousness like that girl earlier,[r]
+professionals would be able to tell we were alive...[pcms]
 
 *11172|
 [fc]
-やっぱり自分の足でどこかに逃げたのか……？[r]
-ヤツらはプロじゃないから、俺ら３人が死んでると勘[r]
-違いして……。[pcms]
+So did they escape on their own feet...? Maybe they mistook[r]
+us three for dead because they're not professionals...[pcms]
 
 *11173|
 [fc]
-だいたい、なんだってこんなことになってるんだ……。[r]
-あの光と揺れはなんだったんだ……？[r]
-地震だったのか……？[pcms]
+Anyway, why has this happened...? What was that light and[r]
+shaking...? Was it an earthquake...?[pcms]
 
 *11174|
 [fc]
-けど、すぐ近くの商店街の状態から考えて、地震だっ[r]
-たら物凄くデカイやつだ……。[pcms]
+But considering the state of the nearby shopping district,[r]
+if it was an earthquake, it must have been a huge one...[pcms]
 
 *11175|
 [fc]
-そんなデカイ地震だったんなら、この街全部がブッ壊[r]
-れててもおかしくない……。[r]
-でも実際は、ブッ壊れてる場所はまちまちだ……。[pcms]
+If it really was such a big earthquake, it wouldn't be[r]
+strange if this entire city was destroyed... But in reality,[r]
+only certain areas are wrecked...[pcms]
 
 *11176|
 [fc]
-地震じゃないんだとしたら、一体なにが……。[pcms]
+If it's not an earthquake, then what on earth could it[r]
+be...?[pcms]
 
 *11177|
 [fc]
-答えの出ない疑問を、延々、頭の中でこねくり回して[r]
-いる俺の目に、あるものが映った。[pcms]
+As I endlessly turned these unanswered questions over in my[r]
+mind, something caught my eye.[pcms]
 
 *11178|
 [fc]
-向こうのビルのスロープか……。[pcms]
+The slope of that building over there...[pcms]
 
 *11179|
 [fc]
-[ns]大倉[nse]
-「……」[pcms]
+[ns]Ookura[nse]
+"..."[pcms]
 
 *11180|
 [fc]
-向こうのビルのスロープ……？[pcms]
+The slope of that building over there...?[pcms]
 
 *11181|
 [fc]
-[ns]大倉[nse]
-「あ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Ah..."[pcms]
 
 *11182|
 [fc]
-そうだ……。[r]
-そうだよな……。[pcms]
+That's right... Of course...[pcms]
 
 *11183|
 [fc]
-３階の渡り廊下が使えないとわかった時に、どうして[r]
-これにすぐ気がつかなかったのかと、俺は冷静さを失[r]
-いやすい自分が情けなくなった。[pcms]
+When we realized we couldn't use the third-floor corridor,[r]
+why didn't I think of this immediately? I felt pathetic for[r]
+my tendency to lose composure easily.[pcms]
 
 *11184|
 [fc]
-スロープで下まで降りて、それから向こうのビルのス[r]
-ロープを上がって、屋上から入ればいいんだよ……。[pcms]
+We can go down using the slope and then climb up the slope[r]
+of that building over there to enter from the rooftop...[pcms]
 
 *11185|
 [fc]
-これなら、渡り廊下を使わなくたって、向こうのビル[r]
-に入れんじゃねーか……！[pcms]
+This way, even without using the corridor, we can get into[r]
+that building...![pcms]
 
 [ChrSetEx layer=4 chbase="koba_n12"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *11186|
 [fc]
-[ns]大倉[nse]
-「オイ、ユウ！　向こうのビルに行けるぞ！　これで[r]
-　速水を助けられる！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Hey Yuu! We can get to that building over there! With this,[r]
+we can save Hayami!"[pcms]
 
 [ChrSetEx layer=4 chbase="koba_n04"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *11187|
 [fc]
 [vo_kob s="koba0213"]
-[ns]小林[nse]
-「ヒロ、あれ……」[pcms]
+[ns]Kobayashi[nse]
+"Hiro, that..."[pcms]
 
 *11188|
 [fc]
-俺が言うのをシカトして、ユウは非常階段の下の方を[r]
-指し示した。[pcms]
+Ignoring what I said, Yuu pointed down towards the lower[r]
+part of the emergency staircase.[pcms]
 
 *11189|
 [fc]
-フェンスを少しよじ登り、ビルの下を覗き込むと、非[r]
-常階段の一番下には扉があり、その周りに大勢の人間[r]
-がウロついている。[pcms]
+Climbing up the fence a bit and peering down at the bottom[r]
+of the building, I saw a door at the bottom of the emergency[r]
+staircase with many people milling around it.[pcms]
 
 *11190|
 [fc]
-よく見ると、非常階段の傍だけじゃなく、ビルの周り[r]
-を大勢の人間がウロついていた。[pcms]
+Looking closely, not just near the emergency staircase but[r]
+all around the building were many people wandering about.[pcms]
 
 *11191|
 [fc]
-[ns]大倉[nse]
-「アレ、もしかして……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Those people, could they possibly be..."[pcms]
 
 *11192|
 [fc]
-そう思って耳を澄ましてみれば、闇の中をノロノロと[r]
-蠢く人影から、低い呻き声が聞こえてくる。[pcms]
+When I strained my ears, I could hear low moaning sounds[r]
+coming from the shadows of people writhing slowly in the[r]
+darkness.[pcms]
 
 *11193|
 [fc]
-アレ……。[r]
-全部、頭のイカレたヤツだ……。[pcms]
+Those... They're all crazed people...[pcms]
 
 *11194|
 [fc]
-あんなにいるんじゃ、スロープを使って向こうのビル[r]
-に行くのなんかムリじゃねーか……！！[pcms]
+With so many of them, it's impossible to use the slope to[r]
+get to the other building...!![pcms]
 
 *11195|
 [fc]
-[ns]大倉[nse]
-「クソッ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Damn it!!"[pcms]
 
 [ChrSetEx layer=4 chbase="koba_n12"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *11196|
 [fc]
-向こうのビルに行く方法をまた潰されて、俺は怒りで[r]
-叫び、フェンスを蹴り飛ばした。[pcms]
+Having our way to the other building blocked again, I yelled[r]
+out in anger and kicked the fence.[pcms]
 
 *11197|
 [fc]
-これでまた速水を助けるのが遅くなっちまう……。[r]
-ノンビリしてるヒマなんか無ぇってのに……！！[pcms]
+This will delay us in rescuing Hayami again... We don't have[r]
+time to dilly-dally...!![pcms]
 
 ;//♪：bgm012 stop
 [fadeoutbgm time=1][wb]
@@ -360,8 +355,8 @@
 *11198|
 [fc]
 [vo_mob s="girl0021"]
-[ns]少女[nse]
-「ぅあああぁぁわぁああぁっ！！！！」[pcms]
+[ns]Girl[nse]
+"Aaaaahhhhhhh!!!"[pcms]
 ;//◎泣きながら
 
 [ChrSetEx layer=4 chbase="koba_n07"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -372,204 +367,200 @@
 *11199|
 [fc]
 [vo_anz s="anzai0135"]
-[ns]女[nse]
-「だっ、誰か来てっ！！」[pcms]
+[ns]Female[nse]
+"Someone, please come!!"[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *11200|
 [fc]
-女の人の叫ぶ声に、俺とユウは顔を見合わせ、慌てて[r]
-階段へと走った。[pcms]
+Yuuki and I exchanged glances at the woman's scream and[r]
+hurriedly ran towards the stairs.[pcms]
 
 *11201|
 [fc]
-[ns]大倉[nse]
-「！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"!!"[pcms]
 
 [ChrSetEx layer=4 chbase="nanasi_n07"][ChrSetXY layer=4 x=160 y=0][trans_c cross time=150]
 
 *11202|
 [fc]
-さっきまで大人しかった女の子は、またワケのわから[r]
-ないことを喚き散らしながら、女の人の上に馬乗りに[r]
-なっていた。[pcms]
+The girl who had been quiet until now was once again[r]
+screaming incomprehensibly and had mounted the woman.[pcms]
 
 *11203|
 [fc]
 [vo_mob s="girl0022"]
-[ns]少女[nse]
-「うっ、ひぐっ……おま、えがぁ……っ！！　うぅっ、[r]
-　おまえなんかぁ、いなきゃよかったんだぁ！！　う[r]
-　ああああっぁぁぁあぁぁ！！」[pcms]
+[ns]Girl[nse]
+"Ugh, biku... you...!! Ugh, if only you weren't here...[r]
+Aaaaahhhhh!!"[pcms]
 ;//◎泣きながら
 
 *11204|
 [fc]
 [vo_mob s="girl0023"]
-[ns]少女[nse]
-「ううぅぅううぅっ……ごめ……ごめんなさぁあ……[r]
-　ひぐっ、ふぐぅぅっ……うまれてこなきゃ……アタ[r]
-　シ、なんか……しねばいいんだぁ……っ！！」[pcms]
+[ns]Girl[nse]
+"Uuuuuh... sorry... sorry... biku, muku... I shouldn't have[r]
+been born... I should just die...!!"[pcms]
 ;//◎泣きながら
 
 *11205|
 [fc]
-泣き喚きながら、女の子は大きく口を開け、女の人の[r]
-首筋に顔を近づけていく。[pcms]
+Crying and wailing, the girl opened her mouth wide and[r]
+brought her face close to the woman's neck.[pcms]
 
 *11206|
 [fc]
 [vo_anz s="anzai0136"]
-[ns]女[nse]
-「お願い！　やめて！！」[pcms]
+[ns]Female[nse]
+"Please! Stop!!"[pcms]
 
 *11207|
 [fc]
 [vo_mob s="girl0024"]
-[ns]少女[nse]
-「ああぁぁあぁがぁぁぁわああっぁあっぁ！！！！」[pcms]
+[ns]Girl[nse]
+"Aaaahhhgaaawaaahhhhh!!!"[pcms]
 
 *11208|
 [fc]
-体を押し戻して、女の人は必死に抵抗するが、女の子[r]
-はお構いなしに顔を近づけ、剥き出しにした歯は、も[r]
-う首筋に届く寸前だった。[pcms]
+The woman pushed back with all her might, desperately[r]
+resisting, but the girl kept bringing her face closer, her[r]
+bared teeth almost reaching the woman's neck.[pcms]
 
 *11209|
 [fc]
-[ns]大倉[nse]
-「やめろッ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Stop it!!"[pcms]
 
 *11210|
 [fc]
 [vo_mob s="girl0025"]
-[ns]少女[nse]
-「ひぃっ！！　ひやあぁあぁはあぁぁっ！！」[pcms]
+[ns]Girl[nse]
+"Hiiii!! Hyaaaahhaaahh!!"[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *11211|
 [fc]
-俺とユウが２人に駆け寄っていくと、女の子はビクッ[r]
-と体を震わせて、奇声をあげながら、床を這うように[r]
-して壁際まで逃げていった。[pcms]
+As Yuuki and I rushed towards the two, the girl twitched and[r]
+let out a strange cry, crawling on the floor towards the[r]
+wall to escape.[pcms]
 
 *11212|
 [fc]
 [vo_mob s="girl0026"]
-[ns]少女[nse]
-「ひっ……ひいぃっ……！」[pcms]
+[ns]Girl[nse]
+"Hii... hiii...!"[pcms]
 
 *11213|
 [fc]
-真冬に薄着のままで外にいるかのように、彼女は体を[r]
-縮こまらせてガタガタ震え、庇うように頭と体を腕で[r]
-覆っている。[pcms]
+Shivering as if she were outside in thin clothes in the[r]
+middle of winter, she curled up, covering her head and body[r]
+with her arms as if to shield herself.[pcms]
 
 *11214|
 [fc]
-[ns]大倉[nse]
-「大丈夫ですか？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Are you okay?"[pcms]
 
 [ChrSetEx layer=4 chbase="anza_n09"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *11215|
 [fc]
 [vo_anz s="anzai0137"]
-[ns]女[nse]
-「ええ……」[pcms]
+[ns]Female[nse]
+"Yes..."[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *11216|
 [fc]
-涙を流しながら、怯えた目でこっちを見ている女の子[r]
-に、俺は意識して、ゆっくりと近づいていった。[pcms]
+Tears streaming down her face, the frightened girl looked at[r]
+me, and I consciously approached her slowly.[pcms]
 
 [ChrSetEx layer=4 chbase="nanasi_n07"][ChrSetXY layer=4 x=160 y=0][trans_c cross time=150]
 
 *11217|
 [fc]
-[ns]大倉[nse]
-「大丈夫、落ち着いて。何もしないから」[pcms]
+[ns]Ookura Hiroshi[nse]
+"It's okay, calm down. I won't do anything."[pcms]
 
 [ChrSetEx layer=4 chbase="nanasi_n06"][ChrSetXY layer=4 x=160 y=0][trans_c cross time=150]
 
 *11218|
 [fc]
 [vo_mob s="girl0027"]
-[ns]少女[nse]
-「ひぃぃいぃやぁあははあははああぁあはぁはっ！！」[pcms]
+[ns]Girl[nse]
+"Hiiiiyahahahahahahaahh!!"[pcms]
 
 *11219|
 [fc]
-あと２，３歩という所まで近づくと、目からボロボロ[r]
-涙をこぼしたまま、彼女は大口を開けて笑い出した。[pcms]
+As I got within two or three steps of her, she burst into[r]
+laughter with tears still streaming down her face.[pcms]
 
 [chara_int][trans_c cross time=150]
 [se0 storage="SE48"]
 
 *11220|
 [fc]
-彼女の笑い声をキッカケに、どこからか集団で念仏を[r]
-唱えているかのような、一定のリズムで流れる低い音[r]
-が聞こえてきた。[pcms]
+The sound of her laughter triggered a low, rhythmic sound[r]
+that seemed like a group chanting prayers from somewhere.[pcms]
 
 *11221|
 [fc]
-[ns]大倉[nse]
-「なんの音だ？　コレ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"What's that sound? This..."[pcms]
 
 *11222|
 [fc]
-辺りを見回していると、それまで外にいたらしいお嬢[r]
-様が、ハスキーと一緒に駆け込んできた。[pcms]
+Looking around, a young lady who seemed to have been outside[r]
+ran in with Husky.[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_n08"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *11223|
 [fc]
 [vo_may s="maya0088"]
-[ns]お嬢様[nse]
-「き、来た……！」[pcms]
+[ns]Young Lady[nse]
+"They're here...!"[pcms]
 
 *11224|
 [fc]
-[ns]大倉[nse]
-「来た、って……？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Here, as in...?"[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 [cutin storage="cut006"][trans_c cross time=500]
 
 *11225|
 [fc]
-お嬢様が見ている方に目を向けると、車用のスロープ[r]
-からイカレ野郎の大群が、唸り声と共に姿を現すのが[r]
-見えた。[pcms]
+Looking in the direction the young lady was staring at, I[r]
+saw a horde of crazed people appearing with groaning sounds[r]
+from the car slope.[pcms]
 
 *11226|
 [fc]
-[ns]大倉[nse]
-「クソ……先に下へ逃げてください！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Damn... Please escape downstairs first!!"[pcms]
 
 ;[chara_int_ layer=4][trans_c cross time=150]
 
 *11227|
 [fc]
-女の人に言いながら、俺は素早く周りの壁に目を走ら[r]
-せて、目的のものを見つけ出した。[pcms]
+Telling the woman this, I quickly scanned the surrounding[r]
+walls and found what I was looking for.[pcms]
 
 *11228|
 [fc]
-[ns]大倉[nse]
-「よし……っ！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Alright...!"[pcms]
 
 *11229|
 [fc]
-今までにも何度か使った、『非常時用シャッター手動[r]
-閉鎖装置』に駆け寄って、俺はもう慣れてしまったや[r]
-り方で、屋上への出入り口にシャッターを降ろした。[pcms]
+Rushing to the "Emergency Shutter Manual Closure Device"[r]
+which I had used several times before, I lowered the shutter[r]
+to the rooftop entrance with a practiced motion.[pcms]
 
 ;//SE：シャッターの閉まる音（？）
 [se0 storage="SE16"]
@@ -584,4 +575,4 @@
 
 [jump storage="westtown_main10280.ks" target=*westtown_main10280_TOP]
 
-;//－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+;//

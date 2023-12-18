@@ -25,36 +25,36 @@
 
 *10782|
 [fc]
-１０分ぐらい経ち、俺が焦り始めた頃、初めは女の人[r]
-のものしか聞こえてこなかった声に、もう１人別の人[r]
-間の声が混ざり始めた。[pcms]
+About ten minutes had passed, and just as I was starting to[r]
+get anxious, another person's voice began to mix with the[r]
+woman's voice that I had initially heard.[pcms]
 
 *10783|
 [fc]
-[ns]ジョン[nse]
-「グルルルルルッ……！」[pcms]
+[ns]John[nse]
+"Grrrrrrr...!"[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
 *10784|
 [fc]
-その声が聞こえたのか、ハスキーは今度は鼻にしわを[r]
-寄せて唸りだした。[pcms]
+The husky started to growl, wrinkling its nose upon hearing[r]
+that voice.[pcms]
 
 *10785|
 [fc]
-お嬢様に優しく頭を撫でられて、ハスキーは唸るのを[r]
-やめたが、鼻にはしわを寄せたままでいる。[pcms]
+As the lady gently stroked its head, the husky stopped[r]
+growling but kept its nose wrinkled.[pcms]
 
 *10786|
 [fc]
-[ns]大倉[nse]
-「……？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"…?"[pcms]
 
 *10787|
 [fc]
-警戒するようなヤツが中にいるのか……？[r]
-つーか、ここに連れてきたのはオマエじゃねーか……。[pcms]
+Is there someone inside on guard...? But then again, weren't[r]
+you the one who brought us here...?[pcms]
 
 ;//♪：bgm005 stop
 [fadeoutbgm time=1][wb]
@@ -64,78 +64,77 @@
 
 *10788|
 [fc]
-ハスキーの反応に首を傾げていると、女の子を１人連[r]
-れて、女の人がトイレから出てきた。[pcms]
+As I tilted my head in confusion at the husky's reaction, a[r]
+woman came out of the restroom with a girl in tow.[pcms]
 
 [ChrSetEx layer=2 chbase="anza_n05"][ChrSetXY layer=2 x=0 y=0]
 [ChrSetEx layer=3 chbase="nanasi_n02"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
 
 *10789|
 [fc]
-女の子は目の周りを赤くして、時たま喉を詰まらせて[r]
-いる。[pcms]
+The girl had red-rimmed eyes and occasionally choked up.[pcms]
 
 *10790|
 [fc]
-[ns]大倉[nse]
-「この子１人ですか？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Is it just this child?"[pcms]
 
 [ChrSetEx layer=2 chbase="anza_n07"][ChrSetXY layer=2 x=0 y=0][trans_c cross time=150]
 
 *10791|
 [fc]
 [vo_anz s="anzai0102"]
-[ns]女[nse]
-「ええ。変な人達に追いかけられて、ずっとここに隠[r]
-　れていたみたい」[pcms]
+[ns]Female[nse]
+"Yes. It seems she was being chased by some strange people[r]
+and has been hiding here all this time."[pcms]
 
 *10792|
 [fc]
-[ns]大倉[nse]
-「そうですか……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"I see..."[pcms]
 
 *10793|
 [fc]
-もしかしたらこの子も、俺らが今までに見たようなも[r]
-のに、出くわしちまったのかもしれねーな……。[pcms]
+Maybe this child also encountered something like what we've[r]
+seen before...[pcms]
 
 *10794|
 [fc]
-あんなことするヤツらに、しかも大勢で追いかけられ[r]
-たら、そりゃ泣きたくもなるよな……。[pcms]
+If she was chased by a group of those kinds of people, it's[r]
+no wonder she'd want to cry...[pcms]
 
 *10795|
 [fc]
-気の毒に思いながら女の子に目を向けると、彼女は盗[r]
-み見るように俺のことを見ていた。[pcms]
+Feeling sorry for her, I looked at the girl, and she glanced[r]
+at me as if stealing a look.[pcms]
 
 *10796|
 [fc]
-[ns]大倉[nse]
-「ケガとかは無い？」[pcms]
+[ns]Ookura[nse]
+"Are you hurt anywhere?"[pcms]
 
 [ChrSetEx layer=3 chbase="nanasi_n05"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
 
 *10797|
 [fc]
 [vo_mob s="girl0000"]
-[ns]少女[nse]
-「……」[pcms]
+[ns]Girl[nse]
+"..."[pcms]
 
 *10798|
 [fc]
-女の子は俺から目を逸らし、恥ずかしそうにうつむい[r]
-て、小さくうなずいた。[pcms]
+The girl averted her eyes from me, blushed shyly, looked[r]
+down, and gave a small nod.[pcms]
 
 *10799|
 [fc]
-[ns]大倉[nse]
-「そう、良かった」[pcms]
+[ns]Ookura Hiroshi[nse]
+"That's good, thank goodness."[pcms]
 
 *10800|
 [fc]
-そう言って笑う俺をチラッと見て、女の子は顔を赤く[r]
-し、さっきより深くうつむいた。[pcms]
+Smiling at my words, the girl glanced at me again and[r]
+blushed even more deeply, bowing her head.[pcms]
 
 ;[chara_int_ layer=2][chara_int_ layer=3][trans_c cross time=150]
 [ChrSetEx layer=2 chbase="koba_n01"][ChrSetXY layer=2 x=0 y=0][trans_c cross time=150]
@@ -143,104 +142,106 @@
 *10801|
 [fc]
 [vo_kob s="koba0185"]
-[ns]小林[nse]
-「きにいられちゃったみたいだね」[pcms]
+[ns]Kobayashi[nse]
+"It seems she's taken a liking to you."[pcms]
 
 [ChrSetEx layer=3 chbase="nanasi_n02"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
 
 *10802|
 [fc]
-女の子の様子を見て、近くにいたユウが無表情で言う。[pcms]
+Yuuki said expressionlessly, observing the girl's behavior[r]
+from nearby.[pcms]
 
 [ChrSetEx layer=3 chbase="nanasi_n05"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
 
 *10803|
 [fc]
-そのユウをチラッと見て、女の子も同じように無表情[r]
-で、すぐに目を逸らした。[pcms]
+The girl glanced at Yuuki and quickly looked away with the[r]
+same expressionless face.[pcms]
 
 [ChrSetEx layer=2 chbase="koba_n12"][ChrSetXY layer=2 x=0 y=0][trans_c cross time=150]
 
 *10804|
 [fc]
 [vo_kob s="koba0186"]
-[ns]小林[nse]
-「……ボクはきらわれたみたい」[pcms]
+[ns]Kobayashi[nse]
+"...It seems I'm disliked."[pcms]
 
 *10805|
 [fc]
-[ns]大倉[nse]
-「まぁまぁ。普段は俺よりモテてんだからいいだろ？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Well, well. You're usually more popular than me, so it's[r]
+fine, right?"[pcms]
 
 *10806|
 [fc]
-不満そうな顔で言うユウを笑っていると、それまで静[r]
-かにしていたハスキーが、急にまた唸りだした。[pcms]
+As I laughed at Yuuki's dissatisfied face, the husky that[r]
+had been quiet until now suddenly started growling again.[pcms]
 
 *10807|
 [fc]
-[ns]ジョン[nse]
-「グルルルルルッ！！」[pcms]
+[ns]John[nse]
+"Grrrrrrr!!"[pcms]
 
 [ChrSetEx layer=2 chbase="koba_n07"][ChrSetXY layer=2 x=0 y=0][trans_c cross time=150]
 
 *10808|
 [fc]
-女の子を睨みつけ、歯を剥き出しにしているハスキー[r]
-に、お嬢様がしゃがんで話しかけながら、背中を撫で[r]
-てなだめる。[pcms]
+The lady squatted down to talk to the husky, which was[r]
+glaring at the girl and baring its teeth, while stroking its[r]
+back to calm it down.[pcms]
 
 [ChrSetEx layer=3 chbase="nanasi_n02"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
 
 *10809|
 [fc]
-お嬢様のその様子を見て、女の子は汚い物でもみるよ[r]
-うな目つきで見下ろした。[pcms]
+Seeing the lady's actions, the girl looked down on her with[r]
+eyes as if she were looking at something filthy.[pcms]
 
 *10810|
 [fc]
-この子、犬が嫌いなのかな……。[r]
-それとも怖いのか……？[pcms]
+I wonder if this child dislikes dogs... Or is she scared of[r]
+them...?[pcms]
 
 *10811|
 [fc]
-アイツはアイツで、彼女のなにが気に入らないんだ……。[r]
-この子がいることを教えたかったんじゃないのか……？[pcms]
+What is it that he doesn't like about her...? Did he want to[r]
+let us know that this child was here...?[pcms]
 
 [ChrSetEx layer=2 chbase="koba_n12"][ChrSetXY layer=2 x=0 y=0][trans_c cross time=150]
 
 *10812|
 [fc]
 [vo_kob s="koba0187"]
-[ns]小林[nse]
-「ねえ、なまえはなんていうの？」[pcms]
+[ns]Kobayashi[nse]
+"Hey, what's your name?"[pcms]
 
 [cutin_int][trans_c cross time=300]
 
 *10813|
 [fc]
-相変わらず不満そうな顔のユウに質問されて、彼女は[r]
-サッと女の人の後ろに身を隠した。[pcms]
+Asked by Yuuki, who still had a dissatisfied look on her[r]
+face, the girl quickly hid behind the woman.[pcms]
 
 [ChrSetEx layer=2 chbase="koba_n04"][ChrSetXY layer=2 x=0 y=0][trans_c cross time=150]
 
 *10814|
 [fc]
 [vo_kob s="koba0188"]
-[ns]小林[nse]
-「……」[pcms]
+[ns]Kobayashi[nse]
+"..."[pcms]
 
 *10815|
 [fc]
-あからさまに避けられ、不機嫌そうな顔に変わったユ[r]
-ウを見て、彼女は女の人にボソボソと耳打ちをした。[pcms]
+Seeing Yuuki's obvious avoidance and her mood turning sour,[r]
+the girl whispered something to the woman.[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *10816|
 [fc]
-女の人は彼女に一言二言返してから、お嬢様の方へ歩[r]
-いていった。[pcms]
+The woman responded with a few words to her before walking[r]
+towards the lady.[pcms]
 
 [ChrSetEx layer=2 chbase="anza_n05"][ChrSetXY layer=2 x=0 y=0]
 [ChrSetEx layer=3 chbase="jinguji_n03"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
@@ -248,13 +249,13 @@
 *10817|
 [fc]
 [vo_anz s="anzai0103"]
-[ns]女[nse]
-「ちょっとこの子を見ていてくれる？」[pcms]
+[ns]Female[nse]
+"Could you please watch this child for a moment?"[pcms]
 
 *10818|
 [fc]
-お嬢様がうなずくのを見て、女の人は今度は俺とユウ[r]
-に近づいてきた。[pcms]
+The lady nodded in agreement, and the woman then approached[r]
+me and Yuuki.[pcms]
 
 [chara_int_ layer=2][chara_int_ layer=3]
 [ChrSetEx layer=4 chbase="anza_n05"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -262,20 +263,20 @@
 *10819|
 [fc]
 [vo_anz s="anzai0104"]
-[ns]女[nse]
-「ごめんなさい、ちょっといいかしら？」[pcms]
+[ns]Female[nse]
+"Excuse me, may I have a moment?"[pcms]
 
 *10820|
 [fc]
-[ns]大倉[nse]
-「はい……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Yes..."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *10821|
 [fc]
-俺はユウと顔を見合わせ、首を傾げながら、先を行く[r]
-女の人のあとをついていった。[pcms]
+I exchanged glances with Yuuki, tilting our heads in[r]
+confusion before following the woman who had walked ahead.[pcms]
 
 ;//[fadeoutbgm time=502]
 ;//[stop_se0]
@@ -287,4 +288,4 @@
 
 [jump storage="westtown_main10200.ks" target=*westtown_main10200_TOP]
 
-;//－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+;//

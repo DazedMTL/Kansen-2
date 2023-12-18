@@ -30,27 +30,27 @@
 
 *13843|
 [fc]
-[ns]菅生[nse]
-「クソォ……どっから出てきたんだ、アイツら……。[r]
-　見つけたらブッ殺してやんぜ……」[pcms]
+[ns]Sugou[nse]
+"Damn it... Where did those guys come from... If I find[r]
+them, I'll kill them..."[pcms]
 
 *13844|
 [fc]
-オジサンはあたし達二人を楯にして、[r]
-自分はその後ろで悪態を吐いていた。[pcms]
+The old man used the two of us as shields, cursing from[r]
+behind us.[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
 *13845|
 [fc]
-武器を持ってるんだから、[r]
-一番前を歩いてもいいのに……。[pcms]
+Even though he has a weapon, he could at least walk in[r]
+front...[pcms]
 
 *13846|
 [fc]
 [vo_hay s="hayami0345"]
-[ns]ありす[nse]
-「何であたし達が……、こんな楯みたいに……」[pcms]
+[ns]Arisu[nse]
+"Why do we have to be used like shields..."[pcms]
 ;//◎ささやく様に。
 
 [ChrSetEx layer=4 chbase="naga_n02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -58,69 +58,67 @@
 *13847|
 [fc]
 [vo_nag s="nagasaki0160"]
-[ns]千尋[nse]
-「あんな顔して、臆病者なのよ……」[pcms]
+[ns]Chihiro[nse]
+"With that look on his face, he's just a coward..."[pcms]
 ;//◎ささやく様に
 
 *13848|
 [fc]
-長崎さんはあたりを警戒しながら、[r]
-あたしと同じような事を考えたのか、そう呟いた。[pcms]
+Nagasaki-san, while being cautious of our surroundings,[r]
+seemed to think the same thing and muttered it.[pcms]
 
 *13849|
 [fc]
 [vo_hay s="hayami0346"]
-[ns]ありす[nse]
-「最低……。あんな人、初めて見た……」[pcms]
+[ns]Alice[nse]
+"The worst... I've never seen someone like that before..."[pcms]
 
 [ChrSetEx layer=4 chbase="naga_n01"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *13850|
 [fc]
 [vo_nag s="nagasaki0161"]
-[ns]千尋[nse]
-「今は我慢するのよ……。あのナイフさえ何とか[r]
-　出来れば、アタシがやっつけてみせるから……」[pcms]
+[ns]Chihiro[nse]
+"We just have to endure for now... Once we deal with that[r]
+knife, I'll take him down..."[pcms]
 
 *13851|
 [fc]
-未だ真正面を見つめたまま、[r]
-あたしと顔を合わせないままで、優しい声で、[r]
-でも、力強く囁いた。[pcms]
+Still facing straight ahead, without looking at me, she[r]
+whispered in a gentle voice, yet firmly.[pcms]
 
 [ChrSetEx layer=4 chbase="sugo_k03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *13852|
 [fc]
-[ns]菅生[nse]
-「ナァにゴチャゴチャ言ってんだよ、オメェら！」[pcms]
+[ns]Sugou[nse]
+"What the hell are you two babbling about?!"[pcms]
 
 [ChrSetEx layer=4 chbase="naga_n03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *13853|
 [fc]
 [vo_hay s="hayami_nagasaki0001"]
-[ns]ありす＆千尋[nse]
-「何でもないです！」[pcms]
+[ns]Arisu & Chihiro[nse]
+"It's nothing!"[pcms]
 ;//◎怒った様に大きな声で
 
 *13854|
 [fc]
-二人で一緒に叫んだあと、[r]
-思わず顔を見合わせたあたし達は、[r]
-お互い声に出さない様に、笑った。[pcms]
+After shouting together, we inadvertently looked at each[r]
+other and laughed without making a sound.[pcms]
 
 [ChrSetEx layer=4 chbase="naga_n02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *13855|
 [fc]
-うっすらと微笑みながら、長崎さんはあたしに[r]
-ウィンクをして、軽くガッツポーズを取って見せた。[pcms]
+With a faint smile, Nagasaki-san winked at me and showed a[r]
+light fist pump.[pcms]
 
 *13856|
 [fc]
-さっきまでは、顔も合わせたくなかったけど、[r]
-こうやっていると、長崎さんはやっぱり頼りになる。[pcms]
+Until just now, I didn't even want to look at her face, but[r]
+being like this, Nagasaki-san is still reliable.[pcms]
 
 ;//♪：bgm012 stop
 [fadeoutbgm time=1][wb]
@@ -136,21 +134,19 @@
 
 *13857|
 [fc]
-[ns]菅生[nse]
-「……ヤツらか！！　どこだァ！！　出て来やがれ！[r]
-　卑怯モンがよっ！！　コラァ！！」[pcms]
+[ns]Sugou[nse]
+"...Them!! Where are they!! Come out! You cowards!! Hey!!"[pcms]
 
 *13858|
 [fc]
-オジサンは、声の威勢はいいものの、[r]
-相変わらずあたし達の後ろに隠れるようにして[r]
-叫んでいる。[pcms]
+The old man, while sounding brave, was still hiding behind[r]
+us as he shouted.[pcms]
 
 *13859|
 [fc]
 [vo_hay s="hayami0347"]
-[ns]ありす[nse]
-「卑怯者って……。自分だってそうじゃない……」[pcms]
+[ns]Alice[nse]
+"Calling others cowards... He's one to talk..."[pcms]
 ;//◎囁くように
 
 [ChrSetEx layer=4 chbase="naga_n01"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -158,55 +154,53 @@
 *13860|
 [fc]
 [vo_nag s="nagasaki0162"]
-[ns]千尋[nse]
-「ねえ、あそこ……。エスカレーターに作った[r]
-　バリケード、壊されてる……」[pcms]
+[ns]Chihiro[nse]
+"Hey, over there... The barricade we made on the escalator[r]
+has been destroyed..."[pcms]
 
 *13861|
 [fc]
-長崎さんが指さす先は、[r]
-二階に登ってきてすぐに封鎖した筈の、[r]
-下りエスカレーターだった。[pcms]
+Nagasaki-san pointed towards the down escalator that we had[r]
+blocked off right after coming up to the second floor.[pcms]
 
 *13862|
 [fc]
-そこは、あたし達が乱暴に積み上げた品物とかが[r]
-さらに乱暴にはねのけられていた。[pcms]
+There, the items we had piled up roughly were even more[r]
+violently scattered aside.[pcms]
 
 *13863|
 [fc]
 [vo_hay s="hayami0348"]
-[ns]ありす[nse]
-「さっき見た時は大丈夫だと思ったのに……」[pcms]
+[ns]Alice[nse]
+"I thought it was okay when I checked earlier..."[pcms]
 
 [ChrSetEx layer=4 chbase="sugo_k05"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *13864|
 [fc]
-[ns]菅生[nse]
-「畜生！！　上かァ！！　もう許さねぇ！！[r]
-　俺様のテリトリー、ウロチョロしくさって！！[r]
-　絶対皆殺しにしてやるぜ！！　上、行くぞ！」[pcms]
+[ns]Sugou[nse]
+"Damn it!! They're upstairs, aren't they!! I won't forgive[r]
+them!! They're wandering around my territory!! I'll kill[r]
+them all!! Let's go up!"[pcms]
 
 *13865|
 [fc]
 [vo_hay s="hayami0349"]
-[ns]ありす[nse]
-「ちょ……ちょっと！[r]
-　あんまり押さないで……」[pcms]
+[ns]Alice[nse]
+"Wait... Don't push so much..."[pcms]
 
 *13866|
 [fc]
-[ns]菅生[nse]
-「いいから、黙って歩け！！」[pcms]
+[ns]Sugou[nse]
+"Just shut up and walk!!"[pcms]
 
 [ChrSetEx layer=4 chbase="naga_n01"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *13867|
 [fc]
 [vo_nag s="nagasaki0163"]
-[ns]千尋[nse]
-「チッ……」[pcms]
+[ns]Chihiro[nse]
+"Tch..."[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 

@@ -15,14 +15,13 @@
 
 *1177|
 [fc]
-俺達は、千尋に導かれるまま、イーストタウンを歩き[r]
-周り、安西さんの彼氏を捜したが、どこにもその姿を[r]
-見つける事は出来なかった。[pcms]
+Guided by Chihiro, we walked around East Town looking for[r]
+Anzai-san's boyfriend, but we couldn't find him anywhere.[pcms]
 
 *1178|
 [fc]
-そして、最後に、今まで訪れていなかった[r]
-『フィットネスクラブ』の中を見てみる事にした。[pcms]
+Then, at last, we decided to check inside the "Fitness[r]
+Club," a place we hadn't visited yet.[pcms]
 
 ;//＠：東棟・四階
 
@@ -42,16 +41,16 @@
 *1179|
 [fc]
 [vo_anz s="anzai0421"]
-[ns]みき[nse]
-「ここにもいないわ……」[pcms]
+[ns]Mikki[nse]
+"He's not here either..."[pcms]
 
 [ChrSetEx layer=3 chbase="hayami_s04"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
 *1180|
 [fc]
 [vo_hay s="hayami1048"]
-[ns]ありす[nse]
-「あ、奥にプールみたいなのあるよ？[r]
-　入ってみようか？」[pcms]
+[ns]Alice[nse]
+"Ah, there's something like a pool in the back. Shall we go[r]
+in?"[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
@@ -59,51 +58,50 @@
 *1181|
 [fc]
 [vo_nag s="nagasaki0415"]
-[ns]千尋[nse]
-「そうね……ちょうどあそこに、水着があるわ、[r]
-　安西さん、ちょっと彼氏探すの休憩にしない？」[pcms]
+[ns]Chihiro[nse]
+"That's right... There are swimsuits over there, Anzai-san,[r]
+why don't we take a break from looking for your boyfriend?"[pcms]
 
 [ChrSetEx layer=5 chbase="anza_d03"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 *1182|
 [fc]
 [vo_anz s="anzai0422"]
-[ns]みき[nse]
-「そうね……。これだけ探してもいないんだもの……、[r]
-　どうせ克也は、また私をほっぽって、仕事に……。[r]
-　ぐすっ……私なんて……どうでも……ぐすっ……」[pcms]
+[ns]Mikki[nse]
+"That might be good... We've searched this much and he's not[r]
+here... Katsuya is probably ignoring me again for work...[r]
+*sniffle*... I'm just... whatever... *sniffle*..."[pcms]
 
 [ChrSetEx layer=3 chbase="jinguji_h02"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
 *1183|
 [fc]
 [vo_may s="maya0767"]
-[ns]摩耶[nse]
-「泣くな……、　いい歳してみっともない……。[r]
-　とりあえず気分を変えてみたらどうだ……」[pcms]
+[ns]Maya[nse]
+"Don't cry... It's unbecoming of your age... Why don't you[r]
+try to change your mood for now..."[pcms]
 
 [ChrSetEx layer=3 chbase="hayami_s08"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
 *1184|
 [fc]
 [vo_hay s="hayami1049"]
-[ns]ありす[nse]
-「そうだよ、みきさん、気分変えて、その後また[r]
-　一緒に探しに行こうよ！」[pcms]
+[ns]Arisu[nse]
+"That's right, Mikki-san, let's change your mood and then we[r]
+can look for him together again!"[pcms]
 
 [ChrSetEx layer=5 chbase="anza_d03"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 *1185|
 [fc]
 [vo_anz s="anzai0423"]
-[ns]みき[nse]
-「そうね……、分かったわ……」[pcms]
+[ns]Mikki[nse]
+"Okay... I understand..."[pcms]
 
 *1186|
 [fc]
-[ns]大倉[nse]
-「……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"..."[pcms]
 
 *1187|
 [fc]
-なんだこの会話……。[r]
-こいつらは、一体何がしたいんだ？[pcms]
+What is this conversation... What do they really want to do?[pcms]
 
 [chara_int_ layer=5][chara_int_ layer=3][trans_c cross time=150]
 [ChrSetEx layer=4 chbase="koba_m02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -111,45 +109,45 @@
 *1188|
 [fc]
 [vo_kob s="koba0534"]
-[ns]小林[nse]
-「ボクもなんだか汗かいちゃったみたいだし、[r]
-　混ざってこようかな……」[pcms]
+[ns]Kobayashi[nse]
+"I seem to have worked up a sweat too, maybe I'll join[r]
+in..."[pcms]
 
 *1189|
 [fc]
-[ns]大倉[nse]
-「ユウ……お前まで……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Yuuki... even you..."[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *1190|
 [fc]
-それまで安西さんの彼氏を捜す事に必死になっていた[r]
-はずのみんなは、速水の一言で、プールで泳ぐ事に[r]
-なってしまった。[pcms]
+Despite being so focused on searching for Anzai-san's[r]
+boyfriend until now, everyone decided to go swimming in the[r]
+pool at Hayami's suggestion.[pcms]
 
 *1191|
 [fc]
-みんなの行動が不可解で、[r]
-ただ首を捻るばかりの俺の前に、速水と、速水に手を[r]
-引かれた摩耶ちゃんが近づいてきた。[pcms]
+Their actions were incomprehensible, and all I could do was[r]
+scratch my head as Hayami and Maya-chan, led by her hand,[r]
+approached me.[pcms]
 
 *1192|
 [fc]
 [vo_hay s="hayami1050"]
-[ns]ありす[nse]
-「ねー、ヒロシ～♪　これ、どう思う？」[pcms]
+[ns]Arisu[nse]
+"Hey, Hiroshi~♪ What do you think about this?"[pcms]
 
 *1193|
 [fc]
 [vo_may s="maya0768"]
-[ns]摩耶[nse]
-「……恥ずかしい……」[pcms]
+[ns]Maya[nse]
+"...It's embarrassing..."[pcms]
 
 *1194|
 [fc]
-[ns]大倉[nse]
-「お……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Oh..."[pcms]
 
 ;//速水　　ビキニ
 ;//順宮司　すくみず
@@ -161,9 +159,9 @@
 
 *1195|
 [fc]
-普段見慣れた水着とは違う、ちょっと露出の多い水着[r]
-を着た速水と、初めてみる白いスクール水着に身を[r]
-包んだ摩耶ちゃん。[pcms]
+Hayami in a slightly more revealing swimsuit than usual and[r]
+Maya-chan wrapped in a white school swimsuit that I was[r]
+seeing for the first time.[pcms]
 
 [fadeoutbgm time=502]
 
@@ -174,40 +172,40 @@
 
 *1196|
 [fc]
-その二人の姿を見ていると、またあの虫が、[r]
-俺の頭の中を這い回った。[pcms]
+Looking at the two of them, that bug started crawling around[r]
+in my head again.[pcms]
 
 *1197|
 [fc]
-ガサガサと蠢くソレは、俺の頭の中の何かを食い破っ[r]
-たような感じと共に、それまで抑えていた感情が、[r]
-いっぺんに吹き出した。[pcms]
+The wriggling thing seemed to tear through something in my[r]
+head, and the emotions I had been suppressing burst forth[r]
+all at once.[pcms]
 
 [赤フラ]
 
 
 *1198|
 [fc]
-視界が歪み、目の前が真っ白になった直後、[r]
-俺の目に映る全てが、キラキラと輝き始めた。[pcms]
+My vision distorted, and everything turned white. Right[r]
+after that, everything I saw started to sparkle.[pcms]
 
 *1199|
 [fc]
-見る物全てが七色に輝いて見える。[r]
-速水の肌も、摩耶ちゃんの肌も、全てが輝いて見える。[pcms]
+Everything I looked at shone with seven colors. Hayami's[r]
+skin and Maya-chan's skin, everything looked radiant.[pcms]
 
 *1200|
 [fc]
-その輝きは、俺の目と脊髄を突き抜けて、[r]
-モノを刺激した。[pcms]
+The brilliance pierced through my eyes and spine,[r]
+stimulating it.[pcms]
 
 [ChrSetEx layer=3 chbase="hayami_q08"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
 
 *1201|
 [fc]
 [vo_hay s="hayami1051"]
-[ns]ありす[nse]
-「ヒロシ……？　どうしたの？」[pcms]
+[ns]Alice[nse]
+"Hiroshi...? What's wrong?"[pcms]
 
 [赤フラ]
 
@@ -217,54 +215,51 @@
 *1202|
 [fc]
 [vo_may s="maya0769"]
-[ns]摩耶[nse]
-「……どうした……？」[pcms]
+[ns]Maya[nse]
+"...What's wrong...?"[pcms]
 
 [赤フラ]
 
 *1203|
 [fc]
-速水と、摩耶ちゃんの甘ったるい声が、[r]
-俺の脳みそを揺さぶっている。[pcms]
+The sweet voices of Hayami and Maya-chan shook my brain.[pcms]
 
 *1204|
 [fc]
-[ns]大倉[nse]
-「うっ……うぅぅっ……うあぁっ！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Ugh... uuuuh... ughhh!"[pcms]
 
 [赤フラ]
 
 *1205|
 [fc]
 [vo_hay s="hayami1052"]
-[ns]ありす[nse]
-「……？」[pcms]
+[ns]Arisu[nse]
+"...?"[pcms]
 
 *1206|
 [fc]
 [vo_may s="maya0770"]
-[ns]摩耶[nse]
-「……」[pcms]
+[ns]Maya[nse]
+"..."[pcms]
 
 *1207|
 [fc]
-二人の姿と、二人の声に俺の脳みそと、[r]
-全身の血が、頭と下半身に集中して、[r]
-そのどちらももう、爆発寸前だった。[pcms]
+The sight and voices of the two girls made my brain and all[r]
+the blood in my body rush to my head and lower half, both on[r]
+the verge of exploding.[pcms]
 
 *1208|
 [fc]
-この女達……。[r]
-うぅ……。[r]
-頭が割れそうだ……。[pcms]
+These women... Ugh... My head feels like it's splitting...[pcms]
 
 *1209|
 [fc]
-このままじゃおかしくなっちまう……。[pcms]
+I'm going to lose it if this continues...[pcms]
 
 *1210|
 [fc]
-もう限界だ……っ！[pcms]
+I'm at my limit...![pcms]
 
 [fadeoutbgm time=1000]
 
@@ -274,6 +269,6 @@
 
 [jump storage="alive_60130.ks" target=*alive_60130_TOP]
 
-;//－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+;//
 
 

@@ -26,248 +26,239 @@
 
 *9208|
 [fc]
-上の階に辿り着くと、エスカレーターの降り口の横に、[r]
-胸のデカイ女が立っていた。[pcms]
+When I reached the upper floor, next to the escalator exit,[r]
+a woman with big breasts was standing.[pcms]
 
 [ChrSetEx layer=4 chbase="hayami_t06"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *9209|
 [fc]
 [vo_hay s="hayami0916"]
-[ns]巨乳の女[nse]
-「ヒロシ……！？」[pcms]
+[ns]Busty Woman[nse]
+"Hiroshi...!?"[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
 *9210|
 [fc]
-どっかで見たことがある気がするその女は、俺を見て[r]
-驚いたような顔をして、後ずさりする。[pcms]
+The woman, who I felt I had seen somewhere before, looked[r]
+surprised to see me and stepped back.[pcms]
 
 *9211|
 [fc]
-[ns]大倉[nse]
-「あ゛ぁ～～～……？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Ah...?"[pcms]
 
 *9212|
 [fc]
-なんで、おれのなまえしってんだ？　このおんな……。[r]
-おれのこと、しってんのか……？[pcms]
+Why does she know my name? This woman... Does she know[r]
+me...?[pcms]
 
 *9213|
 [fc]
-けど、おれも、このおんなのこと、しってるきが[r]
-すんだよなー……。[pcms]
+But, I also feel like I know her...[pcms]
 
 [ChrSetEx layer=4 chbase="hayami_o01"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *9214|
 [fc]
 [vo_hay s="hayami0917"]
-[ns]巨乳の女[nse]
-「いや……こないで……！」[pcms]
+[ns]Busty Woman[nse]
+"No... don't come closer...!"[pcms]
 
 *9215|
 [fc]
-俺が近づいていくと、その距離と同じくらい、[r]
-女は後ずさりする。[pcms]
+As I approached, she stepped back as much as the distance[r]
+between us.[pcms]
 
 [ChrSetEx layer=4 chbase="hayami_o02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *9216|
 [fc]
 [vo_hay s="hayami0918"]
-[ns]巨乳の女[nse]
-「っ……！！」[pcms]
+[ns]Busty Woman[nse]
+"Ah...!!"[pcms]
 ;//◎走って逃げようとする
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *9217|
 [fc]
-その内、女は背を向けて走りだそうとして、俺は腕を[r]
-掴んで止め、自分の方へ引き寄せた。[pcms]
+Eventually, the woman turned her back to run away, but I[r]
+grabbed her arm to stop her and pulled her towards me.[pcms]
 
 [ChrSetEx layer=4 chbase="hayami_o02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *9218|
 [fc]
-よっぽど見られたくないのか、女は必死になって、[r]
-俺から顔を隠そうとする。[pcms]
+Desperate not to be seen, the woman tried hard to hide her[r]
+face from me.[pcms]
 
 *9219|
 [fc]
-だれだったっけ……。[r]
-おもいだせねーんだけど、たしかに、しってるやつの[r]
-ようなきがするんだよな……。[pcms]
+Who was it again...? I can't remember, but I'm sure I know[r]
+her...[pcms]
 
 *9220|
 [fc]
-もっと、ちゃんとかおをみれば、[r]
-おもいだせるかもしれねー……。[pcms]
+If I could get a better look at her face, maybe I'd[r]
+remember...[pcms]
 
 *9221|
 [fc]
 [vo_hay s="hayami0919"]
-[ns]巨乳の女[nse]
-「やだぁ……はなしてよぉ……！」[pcms]
+[ns]Busty Woman[nse]
+"No... let go of me...!"[pcms]
 ;//◎泣き始める
 
 *9222|
 [fc]
-泣きながら、腕を掴む手を振り払おうとする女を、[r]
-両肩を掴んで逃げられないようにして、俺は顔を覗き[r]
-込んだ。[pcms]
+While crying, the woman tried to shake off my hand that was[r]
+grabbing her arm. I held both her shoulders so she couldn't[r]
+escape and peered into her face.[pcms]
 
 [ChrSetEx layer=4 chbase="hayami_d02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *9223|
 [fc]
 [vo_hay s="hayami0920"]
-[ns]巨乳の女[nse]
-「うぅ～……」[pcms]
+[ns]Busty Woman[nse]
+"Uuu..."[pcms]
 ;//◎泣いている
 
 *9224|
 [fc]
-[ns]大倉[nse]
-「……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"..."[pcms]
 
 *9225|
 [fc]
-涙で濡れた女の顔を見つめてる内に、俺の頭の中に、[r]
-誰かの笑顔が浮かび始めた。[pcms]
+As I stared at the tear-stained face of the woman, someone's[r]
+smiling face began to surface in my mind.[pcms]
 
 *9226|
 [fc]
-わらった、かお……。[pcms]
+A smiling face...[pcms]
 
 *9227|
 [fc]
-けーきをたべて、しあわせそうな……。[pcms]
+Eating cake, looking so happy...[pcms]
 
 *9228|
 [fc]
-はやみの、かお……。[pcms]
+The face of Hayami...[pcms]
 
 *9229|
 [fc]
-[ns]大倉[nse]
-「はやみ……？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Hayami...?"[pcms]
 
 [ChrSetEx layer=4 chbase="hayami_d02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *9230|
 [fc]
 [vo_hay s="hayami0921"]
-[ns]ありす[nse]
-「ふ、ぅ……うぅ……」[pcms]
+[ns]Alice[nse]
+"Huh... uuu..."[pcms]
 ;//◎泣いている
 
 *9231|
 [fc]
-そうだ……。[r]
-こいつは、はやみだ……。[pcms]
+That's right... This is Hayami...[pcms]
 
 *9232|
 [fc]
-なんで、こんなとこに……。[r]
-それに、なんでないてんだ……？[pcms]
+Why is she here...? And why is she crying...?[pcms]
 
 *9233|
 [fc]
-[ns]大倉[nse]
-「おい゛、と゛う゛した……？[r]
-　なんかあ゛ったの゛か……？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Hey, what's wrong...? Did something happen...?"[pcms]
 
 *9234|
 [fc]
 [vo_hay s="hayami0922"]
-[ns]ありす[nse]
-「ぐす……ぅ……」[pcms]
+[ns]Alice[nse]
+"Sniff... uhh..."[pcms]
 ;//◎泣いている
 
 *9235|
 [fc]
-[ns]大倉[nse]
-「な゛ぁ……なんて゛な゛いてんた゛よ……[r]
-　きい゛てやる゛から゛、いってみ゛……？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Hey... why are you crying...? Tell me, I'll listen..."[pcms]
 
 *9236|
 [fc]
 [vo_hay s="hayami0923"]
-[ns]ありす[nse]
-「ぅ……うぅ～……」[pcms]
+[ns]Alice[nse]
+"Uhh... uuu..."[pcms]
 ;//◎泣いている
 
 *9237|
 [fc]
-[ns]大倉[nse]
-「……」[pcms]
+[ns]Ookura[nse]
+"..."[pcms]
 
 *9238|
 [fc]
-少し待ってみても、何も言おうとしない速水に、俺は[r]
-イラつき始めていた。[pcms]
+Even after waiting a bit, Hayami wouldn't say anything, and[r]
+I was starting to get irritated.[pcms]
 
 *9239|
 [fc]
-なんだよ……。[r]
-なぐさめてやろうとおもってんのに……。[r]
-なんで、なにもいわねーんだよ……！[pcms]
+What's the matter...? I'm trying to comfort you... Why won't[r]
+you say anything...![pcms]
 
 *9240|
 [fc]
-頭に血が上ってくるのを感じた瞬間、心臓が一つ、[r]
-大きくドクンと鳴り、視界がガクンと揺れた。[pcms]
+The moment I felt my blood rush to my head, my heart thumped[r]
+loudly once, and my vision shook violently.[pcms]
 
 *9241|
 [fc]
-[ns]大倉[nse]
-「う……く……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Ugh... kuh..."[pcms]
 
 [ChrSetEx layer=4 chbase="hayami_d01"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *9242|
 [fc]
 [vo_hay s="hayami0924"]
-[ns]巨乳の女[nse]
-「……？」[pcms]
+[ns]Busty Woman[nse]
+"...?"[pcms]
 
 *9243|
 [fc]
-なんだ……？[r]
-なに、ないてんだ？　このおんな……。[pcms]
+What's this...? Why is she crying? This woman...[pcms]
 
 *9244|
 [fc]
-[ns]大倉[nse]
-「へっ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Heh..."[pcms]
 
 *9245|
 [fc]
-そうか……。[r]
-おれのちんこがほしくて、[r]
-ないておねだりってわけだ……。[pcms]
+So that's it... She wants my dick and is crying to beg for[r]
+it...[pcms]
 
 *9246|
 [fc]
-ちょうど、やりたくなってきたし……。[r]
-このおんなのおまんこ、つかってやるか……！[pcms]
+I'm getting in the mood too... Maybe I'll use this woman's[r]
+pussy![pcms]
 
 *9247|
 [fc]
-[ns]大倉[nse]
-「ははっ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Haha!!"[pcms]
 
 [ChrSetEx layer=4 chbase="hayami_o02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *9248|
 [fc]
 [vo_hay s="hayami0925"]
-[ns]巨乳の女[nse]
-「きゃあぁっ！！」[pcms]
+[ns]Busty Woman[nse]
+"Kyaaah!!"[pcms]
 
 ;//♪：bgm009　fadeOUT
 [fadeoutbgm time=1000]
 
 *9249|
 [fc]
-俺は両肩を掴んだまま、女をその場に押し倒し、[r]
-上に覆い被さった。[pcms]
+I pushed the woman down on the spot while still holding her[r]
+shoulders and covered her with my body.[pcms]
 
 ;//------------------------------------------------
 *KAISOU_INT
@@ -297,622 +288,579 @@
 *9250|
 [fc]
 [vo_hay s="hayami0926"]
-[ns]巨乳の女[nse]
-「やぁっ！！　やめてヒロシっ！！」[pcms]
+[ns]Busty Woman[nse]
+"No!! Stop it, Hiroshi!!"[pcms]
 
 *9251|
 [fc]
-[ns]大倉[nse]
-「おま゛ん゛こぉ～～……おま゛えの゛お゛まんこ、[r]
-　つかってや゛る゛よお゛ぉ～～～……っ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Your pussy~... I'm gonna use your pussy~...!!"[pcms]
 
 *9252|
 [fc]
 [vo_hay s="hayami0927"]
-[ns]巨乳の女[nse]
-「いやっ！！　やだぁっ！！　やめてよぉ！！[r]
-　さわんないでぇっ！！」[pcms]
+[ns]Busty Woman[nse]
+"No!! Noo!! Stop it!! Don't touch me!!"[pcms]
 
 *9253|
 [fc]
-[ns]大倉[nse]
-「うせ゛～なあぁ～～～……っ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Shut up~...!!"[pcms]
 
 *9254|
 [fc]
-スカートを押さえ、体を殴りつけてくる女の手を、[r]
-俺は片手で両方の手首を掴んで、動きを止めた。[pcms]
+While holding down her skirt, the woman tried to hit me with[r]
+her hands, but I grabbed both of her wrists with one hand[r]
+and stopped her movements.[pcms]
 
 *9255|
 [fc]
 [vo_hay s="hayami0928"]
-[ns]巨乳の女[nse]
-「いたぁい！！　いたいよヒロシ！！[r]
-　はなしてよぉ！！」[pcms]
+[ns]Busty Woman[nse]
+"It hurts!! It hurts, Hiroshi!! Let go of me!!"[pcms]
 
 *9256|
 [fc]
-[ns]大倉[nse]
-「とっとと、お゛まんこた゛せよ゛ぉ、[r]
-　おら゛あ゛ぁ～～～……っ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Hurry up and spread your pussy, damn it~...!!"[pcms]
 
 *9257|
 [fc]
 [vo_hay s="hayami0929"]
-[ns]巨乳の女[nse]
-「いやあぁああぁっ！！」[pcms]
+[ns]Busty Woman[nse]
+"Noooaaaahhh!!"[pcms]
 
 *9258|
 [fc]
-空いてる手でスカートをめくり上げた瞬間、嗅ぎ慣れ[r]
-た臭いが漂ってきて、もうパンツが脱がされたオマン[r]
-コが現れた。[pcms]
+The moment I flipped up her skirt with my free hand, a[r]
+familiar scent wafted through the air, and her pussy,[r]
+already without panties, was exposed.[pcms]
 
 *9259|
 [fc]
-[ns]大倉[nse]
-「んん゛～～……？[r]
-　おま゛えの゛おまん゛こ、な゛んかせーしの゛[r]
-　に゛おいか゛すんな゛あ゛ぁ～～～……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Hmm~...? Your pussy, it smells kinda fishy~..."[pcms]
 
 *9260|
 [fc]
 [vo_hay s="hayami0930"]
-[ns]巨乳の女[nse]
-「やぁっ！！　いやあぁあっ！！」[pcms]
+[ns]Busty Woman[nse]
+"No!! Stop it!!"[pcms]
 
 *9261|
 [fc]
-[ns]大倉[nse]
-「い゛やか゛ってる゛くせに゛ぃ、[r]
-　もうと゛っかて゛いっは゜つ、[r]
-　やってきてんし゛ゃねーかよ゛おぉ～～～……！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Even though you're saying no, your wet pussy is telling me[r]
+you want it~...!!"[pcms]
 
 *9262|
 [fc]
 [vo_hay s="hayami0931"]
-[ns]巨乳の女[nse]
-「やられちゃったんだよっ！！　ヒロシが……[r]
-　ヒロシが、はやくたすけにきてくれないからぁ！！」[pcms]
+[ns]Busty Woman[nse]
+"It's because I was attacked!! It's because you, Hiroshi...[r]
+you didn't come to save me quickly enough!!"[pcms]
 
 *9263|
 [fc]
-[ns]大倉[nse]
-「ほかの゛やつに゛やら゛せたんた゛から゛ぁ、[r]
-　おれ゛にも゛、おま゛んこに゛なかた゛し[r]
-　させろ゛よ゛お゛ぉ～～～……っ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Since you let another guy do it, let me cum inside your[r]
+pussy too~...!!"[pcms]
 
 *9264|
 [fc]
 [vo_hay s="hayami0932"]
-[ns]巨乳の女[nse]
-「なのに……！[r]
-　やっと、たすけにきてくれたとおもったのに……！[r]
-　なんでヒロシまで、こんなことするのぉっ！！」[pcms]
+[ns]Busty Woman[nse]
+"And yet...! I thought you finally came to save me...! Why[r]
+are you doing this too, Hiroshi?!"[pcms]
 
 *9265|
 [fc]
-[ns]大倉[nse]
-「ま゛ってろ゛ぉ～～……[r]
-　すく゛、おまえ゛の゛た゛いすきな゛ちん゛こ、[r]
-　いれ゛てやる゛からな゛あ゛ぁ～～～……っ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Just wait~... I'll put in your favorite dick soon[r]
+enough~...!!"[pcms]
 
 *9266|
 [fc]
-俺は空いた片手でベルトを外し、ズボンとパンツを[r]
-下ろして、硬くなり始めていたチンコを解放した。[pcms]
+I unbuckled my belt with my free hand, pulled down my pants[r]
+and underwear, and freed my dick that had started to harden.[pcms]
 
 *9267|
 [fc]
-[ns]大倉[nse]
-「ふはぁははあ゛ぁ～～～……っ！！」[pcms]
+[ns]Ookura[nse]
+"Fuhahaha~...!!"[pcms]
 
 *9268|
 [fc]
 [vo_hay s="hayami0933"]
-[ns]巨乳の女[nse]
-「やだぁっ！！　やだよ、ヒロシぃっ！！[r]
-　やめてえぇっ！！」[pcms]
+[ns]Busty Woman[nse]
+"No!! I don't want this, Hiroshi!! Stop it!!"[pcms]
 
 [evcg storage="HEV308b"][trans_c cross time=301]
 
 *9269|
 [fc]
-皮膚が裂けそうなぐらい硬く張り詰め、脈打って震え[r]
-るチンコを見てわめく女に、俺は興奮を煽られながら、[r]
-オマンコに先端を押し当てた。[pcms]
+As the woman screamed at the sight of my dick, throbbing and[r]
+straining as if it might burst, I pressed the tip against[r]
+her pussy, further excited by her cries.[pcms]
 
 *9270|
 [fc]
 [vo_hay s="hayami0934"]
-[ns]巨乳の女[nse]
-「いやあぁああぁあぁっ！！！！」[pcms]
+[ns]Busty Woman[nse]
+"Nooooo!!"[pcms]
 
 *9271|
 [fc]
-挿れさせないとでも言うかのようなオマンコの抵抗に、[r]
-俺は口の端を吊り上げながら、強引に、そしてワザと[r]
-ゆっくり、女の膣内にチンコをねじ込んでいった。[pcms]
+Despite the resistance of her pussy as if refusing to let me[r]
+in, I lifted the corner of my mouth and forced my dick[r]
+inside her slowly and deliberately.[pcms]
 
 [evcg storage="HEV308c"][trans_c cross time=301]
 
 *9272|
 [fc]
 [vo_hay s="hayami0935"]
-[ns]巨乳の女[nse]
-「うぃいぎいいぃぃいいいぁあああぁあっ！！！！」[pcms]
+[ns]Busty Woman[nse]
+"Aiiieeee!!"[pcms]
 
 *9273|
 [fc]
-[ns]大倉[nse]
-「う゛へぇあ゛ぁ～～～[r]
-　ははぁはあ゛ぁ～～～……っ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Uheee~... Hahaha~...!!"[pcms]
 
 *9274|
 [fc]
-付け根まで押し込んだチンコを、きつくてギチギチな[r]
-オマンコが包み込む。[pcms]
+My dick pushed in all the way to the base, enveloped by her[r]
+tight, clenching pussy.[pcms]
 
 *9275|
 [fc]
-伝わってくるその肉の感触と、血管が切れそうなぐら[r]
-いの興奮で、俺のチンコは思わず、精液をブチ撒けそ[r]
-うになった。[pcms]
+The sensation of her flesh around it and the excitement so[r]
+intense I felt like my veins might burst almost made me[r]
+ejaculate on the spot.[pcms]
 
 *9276|
 [fc]
-[ns]大倉[nse]
-「ははあ゛ぁ～～～あふ゛ね゛え゛ぇ～～～……っ！！[r]
-　い゛くとこた゛ったせ゛え゛ぇ～～～……っ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Hahaa~... It's so damn good~...!!"[pcms]
 
 *9277|
 [fc]
 [vo_hay s="hayami0936"]
-[ns]巨乳の女[nse]
-「ひっ、ぎ……っ！！　はぐっ、うぅ……っ！！」[pcms]
+[ns]Busty Woman[nse]
+"Hik...! Hagu... Uuuh...!!"[pcms]
 
 *9278|
 [fc]
-[ns]大倉[nse]
-「はあ゛ぁ～～～……っ！！[r]
-　すく゛た゛したんし゛ゃぁ、はあぁ～～～……っ！！[r]
-　つま゛んね゛～から゛な゛あぁ～～～……っ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Haaa~...!! You're so damn tight~... Haaa~...!!"[pcms]
 
 *9279|
 [fc]
 [vo_hay s="hayami0937"]
-[ns]巨乳の女[nse]
-「うぐぅっ！！　く、あっ！！　あぐっ！！[r]
-　ひ、あぁっ！！」[pcms]
+[ns]Busty Woman[nse]
+"Uguu!! Kuh... Aguu!! Hi, aahh!!"[pcms]
 
 *9280|
 [fc]
-腰を動かし、オマンコに出し入れし始めたが、一度、[r]
-出そうになったのを抑えてる俺のチンコは、そんなに[r]
-長くはガマンできそうになかった。[pcms]
+I started moving my hips, thrusting in and out of her pussy,[r]
+but my dick, which had almost come earlier, didn't seem like[r]
+it could hold out much longer.[pcms]
 
 *9281|
 [fc]
 [vo_hay s="hayami0938"]
-[ns]巨乳の女[nse]
-「うぐっ！！　ふ、ぐ……っ！！　ふはっ、いぅっ！！[r]
-　んぃいっ！！　はっ、うぅっ……」[pcms]
+[ns]Busty Woman[nse]
+"Uguh!! Fuu... Huh! Eeek! Niih! Haah, uuh..."[pcms]
 
 *9282|
 [fc]
-[ns]大倉[nse]
-「はあ゛ぁ～～～……っ！！　むね゛ゆら゛して、[r]
-　よか゛ってんし゛ゃね゛～よお゛ぉ～～～……っ！！[r]
-　はあ゛ぁ～～～……っ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Haaa~...!! Your tits are shaking, you must be feeling[r]
+good~... Haaa~...!!"[pcms]
 
 *9283|
 [fc]
-体を叩きつけるたびに、目の前で揺れるデカイ胸を、[r]
-俺は空いてる手で鷲掴みにしてやった。[pcms]
+Every time I slammed into her body, her big breasts swayed[r]
+before my eyes, and I grabbed them with my free hand.[pcms]
 
 *9284|
 [fc]
-指や掌を押し返す胸の弾力に、俺の興奮をさらに煽ら[r]
-れて、苦しそうに顔を歪める女に、もっと激しく体を[r]
-叩きつけ、オマンコを抉った。[pcms]
+The resilience of her breasts pushing back against my[r]
+fingers and palm only fueled my excitement further, and I[r]
+pounded into her even harder, twisting into her pussy.[pcms]
 
 *9285|
 [fc]
 [vo_hay s="hayami0939"]
-[ns]巨乳の女[nse]
-「ふぇ……ひぐっ！！　いっ！！　うぅっ……[r]
-　ぐ、ふはっ！！　はぐぅっ！！」[pcms]
+[ns]Busty Woman[nse]
+"Fee... Higuh! Eek! Uuuh... Guh, fuhah! Haguu!"[pcms]
 
 *9286|
 [fc]
-[ns]大倉[nse]
-「はあ゛ぁ～～～……っ！！　ははっ！！[r]
-　おま゛んこきも゛ちよ゛すき゛て、[r]
-　な゛いてんの゛かぁ～～……？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Haaa~...!! Are you crying because your pussy feels too[r]
+good~...?"[pcms]
 
 *9287|
 [fc]
 [vo_hay s="hayami0940"]
-[ns]巨乳の女[nse]
-「ひぐうぅっ！！　ぐすっ、ふぐぅっ！！　くはっ！！[r]
-　うぅ～～……ふえぇっ……うぐっ、ふうぅっ！！」[pcms]
+[ns]Busty Woman[nse]
+"Higuuuh!! Gusuh, fuguu! Kuhah! Uuu~... Fueeh... Uguh,[r]
+fuuuh!"[pcms]
 
 *9288|
 [fc]
-[ns]大倉[nse]
-「お゛まえ、やり゛ま゛んた゛なあぁ～～～……っ！！[r]
-　なら゛、おま゛んこに゛ぃ、な゛かた゛し[r]
-　しま゛くってやる゛せ゛えぇ～～～……っ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"You're such a slut~...!! Then let me fill your pussy with[r]
+cum~...!!"[pcms]
 
 *9289|
 [fc]
-いつからか、女の口から漏れてくる音に、泣き声が[r]
-混じり始めていた。[pcms]
+Before I knew it, the sounds leaking from the woman's mouth[r]
+began to mix with sobs.[pcms]
 
 *9290|
 [fc]
-実際、女の目には涙が溜まり、潤んで揺れている。[pcms]
+In fact, tears were welling up in her eyes, glistening and[r]
+trembling.[pcms]
 
 *9291|
 [fc]
 [vo_hay s="hayami0941"]
-[ns]巨乳の女[nse]
-「う、っぐ……！！　どうして！？　どうしてよ！！[r]
-　どうしてヒロシまで……んぃっ、んうぅっ！！」[pcms]
+[ns]Busty Woman[nse]
+"Ugh... Why?! Why?! Why are you doing this too, Hiroshi...[r]
+Nihh, nuuuh!"[pcms]
 
 *9292|
 [fc]
-悲しそうに光る目で、俺の顔を見つめていた女は、[r]
-突然、表情を変え、大声で怒鳴りだした。[pcms]
+With eyes shining sadly, the woman who had been staring at[r]
+my face suddenly changed her expression and yelled loudly.[pcms]
 
 *9293|
 [fc]
 [vo_hay s="hayami0942"]
-[ns]巨乳の女[nse]
-「あたし……ふ、ぐぅ……っ！！[r]
-　……ヒロシは、しんゆうだとおもってた！！[r]
-　おもってたんだからっ……んっ、くうぅ……っ！！」[pcms]
+[ns]Busty Woman[nse]
+"I thought... Fugh... that you were my trusted friend! I[r]
+believed that... Nnh, kuuuh!"[pcms]
 
 *9294|
 [fc]
-[ns]大倉[nse]
-「はあ゛ぁ～～～っ……あ゛ぁ～～……？[r]
-　な゛にきれ゛てんた゛ぁ、おま゛え゛ぇ～～……[r]
-　はあ゛ぁ～～～っ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Haaa~... What? Why are you getting mad at me~... Haaa~..."[pcms]
 
 *9295|
 [fc]
 [vo_hay s="hayami0943"]
-[ns]巨乳の女[nse]
-「なんでっ……！！　んぐぅっ！！　なんで、あんな[r]
-　ひとたちとっ……ぐ、うぅ……っ！！　おんなじこと、[r]
-　するのぉ……っ！！」[pcms]
+[ns]Busty Woman[nse]
+"Why...!! Nguuh! Why would you do the same thing as those[r]
+people... Guh, uuh!"[pcms]
 
 *9296|
 [fc]
-女の目に溜まった涙が、俺がオマンコを突いた衝撃で[r]
-こぼれていくのを見て、熱をもっていた脳が、急激に[r]
-冷めていくように感じた。[pcms]
+As tears spilled from the woman's eyes with each thrust into[r]
+her pussy, I felt the heat in my brain suddenly cool down.[pcms]
 
 *9297|
 [fc]
-おれ……。[r]
-おれ、なにしてんだ……？[pcms]
+What am I doing...?[pcms]
 
 *9298|
 [fc]
-ホントは、このおんなに、こんなコトしちゃ[r]
-いけなかったんじゃないのか……。[pcms]
+Was I not supposed to do this to this woman?[pcms]
 
 *9299|
 [fc]
-このおんなを、なかしたら……。[r]
-いけなかったんじゃないのか……？[pcms]
+If I made this woman cry... Was that wrong?[pcms]
 
 *9300|
 [fc]
 [vo_hay s="hayami0944"]
-[ns]巨乳の女[nse]
-「ぐっ、うぅ～……ばかぁ～～……っ！！[r]
-　はふ、んぐっ！　……きらい……きらいだよぉ！！[r]
-　ヒロシなんかぁ～～……っ！！」[pcms]
+[ns]Busty Woman[nse]
+"Ughh~... You idiot~! Huff, ngh! ...I hate you... I hate you[r]
+so much, Hiroshi~!"[pcms]
 
 *9301|
 [fc]
-[ns]大倉[nse]
-「……」[pcms]
+[ns]Ookura[nse]
+"..."[pcms]
 
 *9302|
 [fc]
-……？[r]
-なに、かんがえてたんだ？　おれ……。[pcms]
+What was I thinking? Me...[pcms]
 
 *9303|
 [fc]
-あぁ、そうだ……。[r]
-このおんなのむねが、えろいってことだよな……！[pcms]
+Ah, that's right... It's because this woman's breasts are so[r]
+erotic![pcms]
 
 *9304|
 [fc]
-俺は空いてる手で女の服を掴み、引き千切るように、[r]
-何回も思いっきり引っ張った。[pcms]
+I grabbed the woman's clothes with my free hand and pulled[r]
+hard as if to rip them off several times.[pcms]
 
 *9305|
 [fc]
 [vo_hay s="hayami0945"]
-[ns]巨乳の女[nse]
-「んぅっ！！」[pcms]
+[ns]Busty Woman[nse]
+"Nnh!"[pcms]
 
 [evcg storage="HEV308d"][trans_c cross time=301]
 
 *9306|
 [fc]
-ボタンが千切れ、シャツがはだけると、ブラに包まれ[r]
-たデカイ胸が２つ、現れた。[pcms]
+As buttons flew off and the shirt came undone, two large[r]
+breasts wrapped in a bra were revealed.[pcms]
 
 *9307|
 [fc]
-ブラをずり上げ、剥き出してやると、ピンク色の乳首[r]
-をてっぺんに載せた胸は、見ただけで重いとわかるよ[r]
-うな揺れ方をした。[pcms]
+When I pushed up the bra and exposed them, the pink nipples[r]
+atop her breasts swayed heavily with their weight.[pcms]
 
 *9308|
 [fc]
-[ns]大倉[nse]
-「はぁ～～っはははあ゛ぁ～～～……っ！！[r]
-　きょに゛ゅう゛か゛すってほしそう゛に゛、[r]
-　ふ゜るんふ゜るんしてるせ゛えぇ～～～……っ！！」[pcms]
+[ns]Ookura[nse]
+"Haaah~ Hahaha~...!! You look like you want me to fondle[r]
+these huge, jiggling breasts~...!!"[pcms]
 
 *9309|
 [fc]
-揺れるデカイ胸を、俺はまた鷲掴みにして乱暴に揉み、[r]
-乳首をつまみ、ひねり上げる。[pcms]
+I roughly grabbed her swaying large breasts again, kneading[r]
+them violently, pinching and twisting her nipples.[pcms]
 
 *9310|
 [fc]
 [vo_hay s="hayami0946"]
-[ns]巨乳の女[nse]
-「いぎぃっ！！　っあぐ、ああぁあっ！！　ひぁっ、[r]
-　いううぅっ！！」[pcms]
+[ns]Busty Woman[nse]
+"Igii!! Aguh, ahhhh!! Hiaa, iuuu!!"[pcms]
 
 *9311|
 [fc]
-[ns]大倉[nse]
-「おい゛、やりま゛～～ん……！！[r]
-　いつも゛、この゛て゛けーちちゆら゛して、[r]
-　お゛とこさそってんた゛ろ゛ぉ～～……？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Hey, don't get carried away...!! You're always shaking[r]
+those big tits, seducing men, aren't you~...?"[pcms]
 
 *9312|
 [fc]
 [vo_hay s="hayami0947"]
-[ns]巨乳の女[nse]
-「ち、ちがっ、んはぁっ！！　……ちが、よぉ……[r]
-　んっ、ぐ、ひうぅっ！！」[pcms]
+[ns]Busty Woman[nse]
+"Th-that's not, nhaa!! ...not it, I... ngh, guh, hiuu!!"[pcms]
 
 *9313|
 [fc]
-[ns]大倉[nse]
-「この゛ちちて゛、な゛んほ゛んの゛ちんこ、[r]
-　ぬ゛いてやったんた゛よ゛お゛ぉ～～～……！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"With these tits, how many dicks have you milked, huh~...?!"[pcms]
 
 *9314|
 [fc]
 [vo_hay s="hayami0948"]
-[ns]巨乳の女[nse]
-「ひんっ！！　いっ、うぁっ！！　……ひど、いよ[r]
-　……ど、して、ひぐぅっ！！　……そんなこと、[r]
-　いうのぉ……？」[pcms]
+[ns]Busty Woman[nse]
+"Hinn!! Ii, uahh!! ...That's cruel... why, why do you say[r]
+such things... higuu...?"[pcms]
 
 *9315|
 [fc]
-[ns]大倉[nse]
-「おれ゛の゛ちんこも゛、ぬ゛いてもら゛う[r]
-　から゛なぁ～～……その゛ま゛えに、おまんこに゛[r]
-　た゛してやる゛けと゛よお゛ぉ～～～……っ！！」[pcms]
+[ns]Ookura[nse]
+"Because I'm going to have you milk my dick too~... But[r]
+before that, I'll give it to your pussy~...!!"[pcms]
 
 *9316|
 [fc]
 [vo_hay s="hayami0949"]
-[ns]巨乳の女[nse]
-「はぁっ、は、うぐっ！！　……ヒ、ロシ、ひぁ、[r]
-　んくぅっ！！　もしかして……」[pcms]
+[ns]Busty Woman[nse]
+"Haa, ha, uguh!! ...Hiroshi, hia, nkuu!! Could it be...?"[pcms]
 
 *9317|
 [fc]
-それまで騒いでた女が急に黙り、口から漏れるのは[r]
-空気だけになった。[pcms]
+The noisy woman suddenly fell silent, and all that leaked[r]
+from her mouth was air.[pcms]
 
 [evcg storage="HEV308d"][trans_c cross time=301]
 
 *9318|
 [fc]
-気持ち良すぎて死んだのかと思ったが、[r]
-女は俺を見つめて、また悲しそうな顔をした。[pcms]
+I thought she might have died from pleasure, but then she[r]
+looked at me and made a sad face again.[pcms]
 
 *9319|
 [fc]
 [vo_hay s="hayami0950"]
-[ns]巨乳の女[nse]
-「そ、か……ヒロ、シも……もう……」[pcms]
+[ns]Busty Woman[nse]
+"So, Hiroshi too... is already..."[pcms]
 
 *9320|
 [fc]
-[ns]大倉[nse]
-「おま゛んこた゛けし゛ゃね゛～そ゛ぉ～～……[r]
-　くちに゛も゛ぉ、けつの゛あな゛にも゛ぉ、[r]
-　しぬほと゛た゛してやるから゛なぁ～～……っ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"It's not just your pussy~... I'll give it to your mouth and[r]
+your ass hole until you die~...!!"[pcms]
 
 *9321|
 [fc]
 [vo_hay s="hayami0951"]
-[ns]巨乳の女[nse]
-「それな、ら……あいてが、ヒロシ、で……[r]
-　よか、たかも……あんな、あたまの……おかし、[r]
-　ひと……やだ、もん……」[pcms]
+[ns]Busty Woman[nse]
+"If that's the case... maybe if it's with Hiroshi... it[r]
+might have been okay... with someone so messed up in the[r]
+head... I don't want that..."[pcms]
 
 *9322|
 [fc]
-[ns]大倉[nse]
-「……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"..."[pcms]
 
 *9323|
 [fc]
 [vo_hay s="hayami0952"]
-[ns]巨乳の女[nse]
-「ま……ヒロシ、なら……ゆる、さなくも、ないかな[r]
-　……どうせ、なら……も、と、やさし、く……[r]
-　してほしかった、けど……」[pcms]
+[ns]Busty Woman[nse]
+"Well... if it's Hiroshi... maybe I don't mind... If only[r]
+you could have been gentler..."[pcms]
 
 *9324|
 [fc]
-悲しそうだった顔が微笑みに変わると、女のオマン[r]
-コから、狭いのとは違う締め付けを感じるようになり、[r]
-口からはまた、喘ぎ声が聞こえるようになった。[pcms]
+As her sad face turned into a smile, I felt a different kind[r]
+of tightness from her pussy, and once again, moans could be[r]
+heard from her mouth.[pcms]
 
 *9325|
 [fc]
 [vo_hay s="hayami0953"]
-[ns]巨乳の女[nse]
-「んっ、ふ、ふぁ……っ！　は、はく……っ！[r]
-　んぅっ！　ふはっ、はぁっ……」[pcms]
+[ns]Busty Woman[nse]
+"Nn, fu, fuaa...! Ha, haku...! Nuu! Fuhah, haa..."[pcms]
 
 *9326|
 [fc]
-[ns]大倉[nse]
-「ちんこぉ、しめ゛つけてんそ゛ぉ、お゛ぃ～～……[r]
-　おま゛んこ、いきそうな゛の゛かあぁ～～～……？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Your pussy's clamping down on my dick, huh? Are you about[r]
+to cum~...?"[pcms]
 
 *9327|
 [fc]
 [vo_hay s="hayami0954"]
-[ns]巨乳の女[nse]
-「は、あぅ……だ、て……むね、いっぱい……ぅんっ、[r]
-　く、あぁっ……！　いじる、だもん……」[pcms]
+[ns]Busty Woman[nse]
+"Ha, auh... because you're playing with my breasts so[r]
+much... unhh, kuh, ahh...!"[pcms]
 
 *9328|
 [fc]
-おまんこ、しめちまうぐらい、ちち、いじられんの、[r]
-すきみてーだな、このおんな……。[pcms]
+It seems this woman likes having her breasts played with so[r]
+much that her pussy clamps shut.[pcms]
 
 *9329|
 [fc]
-オマンコが締まるぐらい、胸をイジられるのが、この[r]
-女は好きらしい。[pcms]
+She seems to like having her breasts played with enough to[r]
+make her pussy clamp down.[pcms]
 
 *9330|
 [fc]
-だったらと、俺は重そうに揺れる胸の先で尖る、ピン[r]
-ク色の乳首に吸い付き、口の中で舐め回してやった。[pcms]
+With that in mind, I sucked on the pointed pink nipples of[r]
+her heavy swaying breasts and licked them inside my mouth.[pcms]
 
 *9331|
 [fc]
-[ns]大倉[nse]
-「ん゛ん～～……ち゛ゅう゛ぅっ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Nnn~... chuuu!!"[pcms]
 
 *9332|
 [fc]
 [vo_hay s="hayami0955"]
-[ns]巨乳の女[nse]
-「ひあぁっ！！　んっ、くぅんっ！！　はぅ、んふ、[r]
-　ふぁ、あぁっ！！」[pcms]
+[ns]Busty Woman[nse]
+"Hiaa!! Nn, kuun!! Hau, nfu, faa, ahh!!"[pcms]
 
 *9333|
 [fc]
-女の目が、俺に吸い付かれてる乳首を見つめてるのに[r]
-気づいて、口を離し、空いてる手で胸を押し上げた。[pcms]
+Noticing that the woman's eyes were fixed on the nipple I[r]
+was sucking on, I let go and pushed up her breasts with my[r]
+free hand.[pcms]
 
 *9334|
 [fc]
-[ns]大倉[nse]
-「おま゛えも゛、ちくひ゛なめ゛ろ゛よぉ～～[r]
-　ほら゛あぁ～～～……っ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"You lick your nipples too~ Here you go~...!!"[pcms]
 
 *9335|
 [fc]
 [vo_hay s="hayami0956"]
-[ns]巨乳の女[nse]
-「は、ぁ……へぁ、えあぁ～～～……」[pcms]
+[ns]Busty Woman[nse]
+"Ha, a... hea, eaaah~...!"[pcms]
 
 *9336|
 [fc]
-女は言われるままに、口元に近づけられた、硬く尖っ[r]
-た自分の乳首を舐め、俺の舌も舐めた。[pcms]
+As told, the woman licked her own hard pointed nipples[r]
+brought close to her mouth and licked my tongue as well.[pcms]
 
 *9337|
 [fc]
 [vo_hay s="hayami0957"]
-[ns]巨乳の女[nse]
-「はっ、えぅ、ぺちゃっ……えあぁ……」[pcms]
+[ns]Busty Woman[nse]
+"Hah, eu, pechaa... eaaah..."[pcms]
 
 *9338|
 [fc]
-[ns]大倉[nse]
-「ひ゜ちゃっ、へ゜ちゃぁ……[r]
-　ん゛はぁ……ん゛ん～～……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Pichaa, pechaa... nhaa... nnn~..."[pcms]
 
 *9339|
 [fc]
 [vo_hay s="hayami0958"]
-[ns]巨乳の女[nse]
-「んんっ、ぺちゃ……へはっ、は、ぺちゃぁ……」[pcms]
+[ns]Busty Woman[nse]
+"Nnn, pechaa... hehah, ha, pechaa..."[pcms]
 
 *9340|
 [fc]
-俺と女の舌は、いつの間にか乳首から離れ、お互いの[r]
-舌を舐め合っていた。[pcms]
+Before we knew it, our tongues had moved away from the[r]
+nipples and were licking each other instead.[pcms]
 
 *9341|
 [fc]
-そして引き合うように、俺と女の口はほんのちょっと[r]
-の間、重なり合って、また離れた。[pcms]
+And as if being drawn together, our mouths briefly[r]
+overlapped before separating again.[pcms]
 
 *9342|
 [fc]
 [vo_hay s="hayami0959"]
-[ns]巨乳の女[nse]
-「……えへ」[pcms]
+[ns]Busty Woman[nse]
+"...Ehe"[pcms]
 
 *9343|
 [fc]
-[ns]大倉[nse]
-「へっ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Heh..."[pcms]
 
 *9344|
 [fc]
 [vo_hay s="hayami0960"]
-[ns]巨乳の女[nse]
-「あはっ……あはは……っ！」[pcms]
+[ns]Busty Woman[nse]
+"Ahaha... ahaha...!"[pcms]
 
 *9345|
 [fc]
-[ns]大倉[nse]
-「ふははっ！　はははっ！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Fuhaha! Hahaha!"[pcms]
 
 *9346|
 [fc]
-口が離れると、女は急に笑いだし、俺もつられるよう[r]
-にして、笑い声を上げた。[pcms]
+As our mouths separated, the woman suddenly burst into[r]
+laughter and I found myself laughing along with her.[pcms]
 
 *9347|
 [fc]
 [vo_hay s="hayami0961"]
-[ns]巨乳の女[nse]
-「あっはははっ！　ふふっ、あはははっ！」[pcms]
+[ns]Busty Woman[nse]
+"Ahahaha! Fufu, ahahaha!"[pcms]
 
 *9348|
 [fc]
-[ns]大倉[nse]
-「ははっ！　くっく……くははははっ！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Haha! Kukku... kuhahaha!"[pcms]
 
 *9349|
 [fc]
-今度は笑い合いながら、俺は女のオマンコを抉り続け、[r]
-出るに任せて、膣内に何回も精液をブチ撒けた。[pcms]
+While laughing together, I continued to ravage her pussy and[r]
+let myself cum inside her over and over again.[pcms]
 
 *9350|
 [fc]
-女は何回ブチ撒けても、もっと出せと言うかのように、[r]
-オマンコで俺のチンコを締め上げた。[pcms]
+No matter how many times I came inside her, she seemed to[r]
+want more as she kept tightening her pussy around my dick.[pcms]
 
 ;//whiteEOUT
 ;[bg storage="white"][trans_c cross time=1000]
@@ -920,35 +868,36 @@
 
 *9351|
 [fc]
-お互いの体を貪り合ううち、俺の視界は段々とボヤけ、[r]
-白くなり、それと一緒に、色んな感覚が薄れていった。[pcms]
+As we devoured each other's bodies, my vision gradually[r]
+blurred and whitened until various sensations began to fade[r]
+away.[pcms]
 
 *9352|
 [fc]
-その内、近くにあるはずの顔も見えないぐらい、視界[r]
-は真っ白になったが、俺は女とずっと繋がったまま、[r]
-いつまでも笑い合い続けた。[pcms]
+Eventually, even the face that should have been close by[r]
+became invisible as my vision turned completely white. But I[r]
+remained connected with the woman and we kept laughing[r]
+together forever.[pcms]
 
 *9353|
 [fc]
 [vo_hay s="hayami0962"]
-[ns]巨乳の女[nse]
-「あははっ、ふふっ……んっ、はぅ……くふっ、[r]
-　んぁんっ……！　うぁ、あはっ、あはははっ！[r]
-　ぅんっ！　ひぅっ！　……ふふっ、うふふっ……」[pcms]
+[ns]Busty Woman[nse]
+"Ahaha! Fufu... nnh, hau... kufu, nhan...! Uaah, ahaha! Unh![r]
+Hiuh! ...Fufu, ufufu..."[pcms]
 
 *9354|
 [fc]
-[ns]大倉[nse]
-「はぁっ、はぁっ……ははっ、はははっ！　はふっ、[r]
-　ふぁははっ！　はぁっ……ふははっ、ははははっ！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Haa, haa... haha, hahaha! Hafu, fahahaha! Haa... fuhaha,[r]
+hahaha!"[pcms]
 
 ;//------------------------------------------------
 [if exp="tf.scene_mode==1"]
 	[jump storage="b_scene.ks" target=*back_from_SR]
 ;	[link storage=sceneAgain]もう一度見る[endlink]
 ;	[link storage=sceneList]一覧に戻る[endlink]
-;	[s]
+[pcms]
 [endif]
 
 *KAISOU_PASS
@@ -967,4 +916,4 @@
 
 ;//ゲームオーバー
 
-;//－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+;//

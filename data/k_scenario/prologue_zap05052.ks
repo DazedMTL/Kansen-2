@@ -21,14 +21,13 @@
 
 *8074|
 [fc]
-その男性はわたしの肩に手を置いたまま、低く呻き続[r]
-けているだけで、何かをしようとはしない。[pcms]
+The man keeps his hand on my shoulder and continues to groan[r]
+lowly, without making any move to do something.[pcms]
 
 *8075|
 [fc]
-男性が何のつもりで肩を叩いたのか、理解できずに困[r]
-惑しているわたしに、もう一人の男性がすぐそこまで[r]
-近づいてきていた。[pcms]
+I'm confused, unable to understand why the man tapped my[r]
+shoulder, as another man approaches me from nearby.[pcms]
 
 ;//井：一旦赤フェードで飛ばす
 ;//メッセージウインドウも消してみよう
@@ -47,7 +46,7 @@
 ;[link storage="prologue_zap05053.ks" target=*prologue_zap05053_TOP]肩に置かれた手を振り払って逃げる[endlink]
 ;[link storage="prologue_zap05054.ks" target=*prologue_zap05054_TOP]目の前の男を突き飛ばして逃げる[endlink]
 ;[link storage="prologue_zap05055.ks" target=*prologue_zap05055_TOP]逃げ道を探る[endlink]
-;[s]
+;[pcms]
 
 ;	;//----------------------------------------------------------
 ;	*prologue_zap05052_SEL1
@@ -67,9 +66,9 @@
 [fc]
 [pcms_sel]
 
-[eval exp="f.seltext02 = '肩に置かれた手を振り払って逃げる'"]
-[eval exp="f.seltext04 = '目の前の男を突き飛ばして逃げる'"]
-[eval exp="f.seltext06 = '逃げ道を探る'"]
+[eval exp="f.seltext02 = 'Shake off the hand on your shoulder and run away'"]
+[eval exp="f.seltext04 = 'Push the man in front of you and run away'"]
+[eval exp="f.seltext06 = 'Look for an escape route'"]
 
 [if exp="tf.sys_sub == 0 || tf.選択肢ログ表示してね == 1"]
 	;選択肢内容をバックログに表記。改行コード必須。

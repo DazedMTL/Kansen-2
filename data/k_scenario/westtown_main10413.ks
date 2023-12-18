@@ -27,65 +27,64 @@
 *12312|
 [fc]
 [vo_anz s="anzai0211"]
-[ns]みき[nse]
-「えぇ！？　一旦、戻った方が……」[pcms]
+[ns]Mikki[nse]
+"Eh!? Maybe we should go back..."[pcms]
 
 *12313|
 [fc]
-[ns]大倉[nse]
-「いいから！　アイツらがこっちに気づかないうちに[r]
-　早く！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Just do it! Hurry, before they notice us!!"[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
 *12314|
 [fc]
-半裸と全裸の集団の右脇を走り抜けても、俺らに気づ[r]
-いているのはあの子１人だけだった。[pcms]
+Even as we dashed past the group of half-naked and naked[r]
+people, only that girl seemed to notice us.[pcms]
 
 *12315|
 [fc]
-[ns]大倉[nse]
-「先行ってください！！　ユウ、急げ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Go ahead!! Yuu, hurry up!!"[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *12316|
 [fc]
-他に気づいたヤツが近寄ってくることを警戒して、み[r]
-んなを先に行かせてる最中、あの子の顔が３人を追っ[r]
-て動くのを見て、俺は胸が苦しくなった。[pcms]
+While I was making sure no one else noticed and sent[r]
+everyone ahead, I saw her face following the three of them,[r]
+and my chest tightened.[pcms]
 
 *12317|
 [fc]
-頭がイカレちまっても、記憶が無くなるワケじゃない[r]
-のか……？[pcms]
+Even if your mind goes crazy, it doesn't mean you lose your[r]
+memories, right...?[pcms]
 
 *12318|
 [fc]
-あんな目に遭っても、忘れることができねーってコト[r]
-だよな……。[pcms]
+That means... even after going through such an ordeal, you[r]
+can't forget...[pcms]
 
 *12319|
 [fc]
-３人が行ってしまったあと、彼女は俺に顔を向けて、[r]
-また手を伸ばした。[pcms]
+After the three of them had gone, she turned her face[r]
+towards me and reached out her hand again.[pcms]
 
 *12320|
 [fc]
 [vo_mob s="girl0091"]
-[ns]少女[nse]
-「へはぁあ゛ぁ～～……」[pcms]
+[ns]Girl[nse]
+"Hehehaaah~..."[pcms]
 
 *12321|
 [fc]
-[ns]大倉[nse]
-「ゴメンな……」[pcms]
+[ns]Ookura[nse]
+"I'm sorry..."[pcms]
 
 *12322|
 [fc]
-俺は拳を固く握りしめて、彼女に背を向け、先に行っ[r]
-た３人を追って走った。[pcms]
+I clenched my fist tightly, turned my back on her, and ran[r]
+after the three who had gone ahead.[pcms]
 
 ;//BKACKOUT
 ;消し無し[chara_int]
@@ -104,8 +103,8 @@
 
 *12323|
 [fc]
-ずっと着信音を鳴らし続けているケータイを取り出し、[r]
-出てみると、速水の不安げな声が聞こえてきた。[pcms]
+I took out my cell phone that had been ringing incessantly,[r]
+and when I answered, I heard Arisu's anxious voice.[pcms]
 
 [stop_se0]
 [stop_se1]
@@ -113,72 +112,72 @@
 *12324|
 [fc]
 [vo_hay s="hayami0160"]
-[ns]ありす[nse]
-「ヒロシ……？」[pcms]
+[ns]Arisu[nse]
+"Hiroshi...?"[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
 *12325|
 [fc]
-[ns]大倉[nse]
-「速水か！？　どうした！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Hayami!? What's wrong!"[pcms]
 
 *12326|
 [fc]
 [vo_hay s="hayami0161"]
-[ns]ありす[nse]
-「あのおとこのひと、なんかヘンなの……。アーケー[r]
-　ドであった、おんなのこも……」[pcms]
+[ns]Arisu[nse]
+"That man, he's acting strange... And the girl we met at the[r]
+arcade too..."[pcms]
 
 *12327|
 [fc]
-[ns]大倉[nse]
-「変……変って？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Strange... What do you mean by strange?"[pcms]
 
 *12328|
 [fc]
 [vo_hay s="hayami0162"]
-[ns]ありす[nse]
-「おねがい、ヒロシ……はやくたすけにきて……」[pcms]
+[ns]Alice[nse]
+"Please, Hiroshi... come help me quickly..."[pcms]
 ;//◎はやくたすけにきて……＝涙声
 
 *12329|
 [fc]
-[ns]大倉[nse]
-「あぁ、もうすぐ行く！　今から武器を取りに行って、[r]
-　それからすぐ行くから！」[pcms]
+[ns]Ookura[nse]
+"Ah, I'll be there soon! I'm going to grab a weapon, and[r]
+then I'll come right away!"[pcms]
 
 *12330|
 [fc]
 [vo_hay s="hayami0163"]
-[ns]ありす[nse]
-「まってるから。じゃあね」[pcms]
+[ns]Alice[nse]
+"I'll be waiting. Bye then."[pcms]
 ;//◎慌てた調子で
 
 *12331|
 [fc]
-[ns]大倉[nse]
-「あ、オイ！　速水！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Hey, wait! Hayami!!"[pcms]
 
 *12332|
 [fc]
-あのオッサンか女が近くに来たのか、速水は慌てた様[r]
-子で、一方的に電話を切ってしまった。[pcms]
+Whether that old man or woman got close or not, Hayami cut[r]
+off the call in a panic.[pcms]
 
 *12333|
 [fc]
-変……変ってなんだ……？[r]
-まさか、あのオッサンと女が病気になったんじゃ……。[pcms]
+Strange... What does she mean by strange...? Don't tell me[r]
+that old man and woman got sick...[pcms]
 
 *12334|
 [fc]
-[ns]大倉[nse]
-「……急がねーとヤバイな」[pcms]
+[ns]Ookura[nse]
+"...I need to hurry or it's going to be bad."[pcms]
 
 *12335|
 [fc]
-俺はケータイをポケットに突っ込んで、目的の場所へ[r]
-走った。[pcms]
+I shoved my cell phone into my pocket and ran towards my[r]
+destination.[pcms]
 
 ;//♪：bgm005 stop
 ;[fadeoutbgm time=1][wb]
@@ -208,4 +207,4 @@
 ;//ブロック１０５００へ
 [jump storage="westtown_main10500.ks" target=*westtown_main10500_TOP]
 
-;//－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+;//

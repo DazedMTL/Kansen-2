@@ -16,26 +16,25 @@
 
 *1641|
 [fc]
-俺はそのことを直美に伝えようと、口から手をふりほ[r]
-どいて叫ぼうとした。[pcms]
+I tried to tell Naomi about it, shaking off the hand from my[r]
+mouth to shout.[pcms]
 
 *1642|
 [fc]
-……ん？[r]
-あいつら、たしか俺らに襲い掛かってきてた……？[pcms]
+...Huh? Weren't they attacking us just now?[pcms]
 
 *1643|
 [fc]
-声だしたらマズイか？[pcms]
+Would it be bad if I raised my voice?[pcms]
 
 *1644|
 [fc]
-でも……。[pcms]
+But...[pcms]
 
 ;//通常選択肢
 ;[link storage="alive_bad_80040.ks" target=*alive_bad_80040_TOP]手を無理に引き離してでも、直美に教える[endlink]
 ;[link storage="alive_60210.ks"     target=*alive_60210_TOP    ]めんどくさいので黙っている[endlink]
-;[s]
+;[pcms]
 
 
 ;	*60200_muri
@@ -56,8 +55,8 @@
 [fc]
 [pcms_sel]
 
-[eval exp="f.seltext02 = '手を無理に引き離してでも、直美に教える'"]
-[eval exp="f.seltext04 = 'めんどくさいので黙っている'"]
+[eval exp="f.seltext02 = 'Even if I have to forcibly pull my hands away, I will tell Naomi'"]
+[eval exp="f.seltext04 = 'I\'ll stay quiet because it\'s bothersome'"]
 
 [if exp="tf.sys_sub == 0 || tf.選択肢ログ表示してね == 1"]
 	;選択肢内容をバックログに表記。改行コード必須。

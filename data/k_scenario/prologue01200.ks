@@ -49,13 +49,13 @@
 *6799|
 [fc]
 [vo_hay s="hayami0074"]
-[ns]ありす[nse]
-「やっと着いた～！　ん～っ、なんか空気が違ーう！」[pcms]
+[ns]Alice[nse]
+"Finally arrived~! Mmm, the air feels different here!"[pcms]
 
 *6800|
 [fc]
-[ns]大倉[nse]
-「ホント、違う街ってカンジ～！」[pcms]
+[ns]Ookura[nse]
+"Really, it feels like a different city!"[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
@@ -64,51 +64,58 @@
 *6801|
 [fc]
 [vo_kob s="koba0060"]
-[ns]小林[nse]
-「そりゃそうでしょ……」[pcms]
+[ns]Kobayashi[nse]
+"Well, of course..."[pcms]
 
 *6802|
 [fc]
-全国的にも有名な商店街の近くで俺達はバスを降り、[r]
-修業旅行最初の自由行動となった。[pcms]
+We got off the bus near a nationally famous shopping[r]
+district, marking the start of our first free time on this[r]
+training trip.[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *6803|
 [fc]
-[ns]担任[nse]
-「いいかー、これから自由行動になるが、ここを出発[r]
-　するのは１８時！　だから、遅くても１０分前には[r]
-　ここに戻ってくること！　いいなー！」[pcms]
+[ns]Homeroom Teacher[nse]
+"Listen up, we're about to have some free time, but we're[r]
+leaving here at 18:00! So make sure you're back here at[r]
+least 10 minutes before that! Got it?!"[pcms]
 
 *6804|
 [fc]
-[ns]全員[nse]
-「はーい！」[pcms]
+[ns]Ookura Hiroshi - Male
+Hayami Arisu - Female
+Jinguuji Maya - Female
+Kobayashi Yuuki - Female
+Anzai Mikki - Female
+Nagasaki Chihiro - Female
+Sugou Ryuuya - Male
+Tsuruta Naomi - Female[nse]
+"Yes!"[pcms]
 
 *6805|
 [fc]
-いま１６時か……。[r]
-２時間ないな……。[pcms]
+It's 16:00 now... Less than two hours left...[pcms]
 
 [ChrSetEx layer=2 chbase="koba_n01"][ChrSetXY layer=2 x=0 y=0]
 [ChrSetEx layer=3 chbase="hayami_b01"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
 
 *6806|
 [fc]
-[ns]大倉[nse]
-「あんまり時間ねーから、チャッチャと行こうぜ」[pcms]
+[ns]Ookura Hiroshi[nse]
+"We don't have much time, so let's get going quickly."[pcms]
 
 *6807|
 [fc]
 [vo_hay s="hayami0075"]
-[ns]ありす[nse]
-「最初どこ行く～？」[pcms]
+[ns]Arisu[nse]
+"Where should we go first?"[pcms]
 
 *6808|
 [fc]
-[ns]大倉[nse]
-「そりゃオマエ、メイド喫茶だろ」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Obviously, we're going to a maid caf."[pcms]
 
 [ChrSetEx layer=2 chbase="koba_n12"][ChrSetXY layer=2 x=0 y=0]
 [ChrSetEx layer=3 chbase="hayami_b12"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
@@ -116,50 +123,50 @@
 *6809|
 [fc]
 [vo_kob s="koba0061"]
-[ns]小林[nse]
-「えー、ショッピングモールにしようよー」[pcms]
+[ns]Kobayashi[nse]
+"Eh, let's go to the shopping mall instead."[pcms]
 
 *6810|
 [fc]
-[ns]大倉[nse]
-「いや、メイド喫茶だな」[pcms]
+[ns]Ookura Hiroshi[nse]
+"No, it's gotta be the maid caf."[pcms]
 
 [ChrSetEx layer=2 chbase="koba_n03"][ChrSetXY layer=2 x=0 y=0][trans_c cross time=150]
 
 *6811|
 [fc]
 [vo_kob s="koba0062"]
-[ns]小林[nse]
-「ショッピングモールー」[pcms]
+[ns]Kobayashi[nse]
+"Shopping mall"[pcms]
 
 *6812|
 [fc]
-[ns]大倉[nse]
-「メイド喫茶！」[pcms]
+[ns]Ookura[nse]
+"Maid caf!"[pcms]
 
 [ChrSetEx layer=2 chbase="koba_n11"][ChrSetXY layer=2 x=0 y=0][trans_c cross time=150]
 
 *6813|
 [fc]
 [vo_kob s="koba0063"]
-[ns]小林[nse]
-「ショッピングモール！」[pcms]
+[ns]Kobayashi[nse]
+"Shopping mall!"[pcms]
 
 [ChrSetEx layer=3 chbase="hayami_b01"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
 
 *6814|
 [fc]
 [vo_hay s="hayami0076"]
-[ns]ありす[nse]
-「まぁまぁ、とりあえず歩こ、ね」[pcms]
+[ns]Arisu[nse]
+"Come on, let's just start walking for now, okay?"[pcms]
 
 ;消し無し[chara_int]
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
 *6815|
 [fc]
-速水に背中を押され、俺はユウと睨み合ったまま、商[r]
-店街へ向かって歩き出した。[pcms]
+Pushed by Hayami from behind, I started walking towards the[r]
+shopping district while still glaring at Yuuki.[pcms]
 
 [sysbt_meswin clear]
 
@@ -168,4 +175,4 @@
 
 [jump storage="prologue01300.ks" target=*prologue01300_TOP]
 
-;//－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+;//

@@ -19,8 +19,8 @@
 *1920|
 [fc]
 [vo_nao s="naomi_1tuika0001"]
-[ns]直美[nse]
-「うっ……ぐあっ……」[pcms]
+[ns]Naomi[nse]
+"Ugh... guah..."[pcms]
 
 [quake_bg 元time=200 xy m]
 
@@ -28,50 +28,49 @@
 
 *1921|
 [fc]
-[ns]大倉[nse]
-「うおっ！　あぶねえっ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Whoa! That was close!!"[pcms]
 
 *1922|
 [fc]
-このままじゃ……まじでどっかにぶつかっちまう！[pcms]
+If this keeps up... we're seriously going to crash into[r]
+something![pcms]
 
 *1923|
 [fc]
-うんてんなんてしたことないけど……、[r]
-おれがかわりにうんてんするしかない！[pcms]
+I've never driven before, but... I have no choice but to[r]
+take over the driving![pcms]
 
 *1924|
 [fc]
-[ns]大倉[nse]
-「なおみっ！　おれが……おれがかわるっ！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Naomi! I'll... I'll take over!"[pcms]
 
 *1925|
 [fc]
 [vo_nao s="naomi_1tuika0002"]
-[ns]直美[nse]
-「え……お前……運転……で、出来るのか……？[r]
-　ぐっ……うあっ！？」[pcms]
+[ns]Naomi[nse]
+"Eh... You... can you even drive...? Guh... ugh!?"[pcms]
 
 *1926|
 [fc]
-[ns]大倉[nse]
-「んなこと……どうでもいいだろっ！[r]
-　もう……みてらんねぇよ！！　かわれ！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"That doesn't matter right now! I can't just stand by and[r]
+watch!! Switch with me!"[pcms]
 
 [evcg storage="NEV500c"][trans_c cross time=301]
 
 *1927|
 [fc]
 [vo_nao s="naomi_1tuika0003"]
-[ns]直美[nse]
-「……あっ……！？　よっ……よせっ！！[r]
-　やめろぉっ！！」[pcms]
+[ns]Naomi[nse]
+"...Ah...!? Stop... stop it!! Don't do it!!"[pcms]
 
 *1928|
 [fc]
-直美から、ハンドルだけを奪い、操作をしようとした。[r]
-しかし、俺が急に動いたせいで、直美の腕は激しく[r]
-左右にぶれてしまった。[pcms]
+I tried to take only the steering wheel from Naomi and[r]
+control it. However, because of my sudden movement, Naomi's[r]
+arms swung violently from side to side.[pcms]
 
 [evcg storage="NEV500g"][trans_c cross time=301]
 
@@ -80,26 +79,26 @@
 *1929|
 [fc]
 [vo_nao s="naomi_1tuika0004"]
-[ns]直美[nse]
-「くぅっ……ぎっ……うわぁっ！！[r]
-　いやぁぁあぁっ！！」[pcms]
+[ns]Naomi[nse]
+"Kuh... gih... uwaah!! Nooo!!"[pcms]
 
 *1930|
 [fc]
-[ns]大倉[nse]
-「うわっ……うわぁぁぁぁっ！！！！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Uwah... uwaaaahhhhh!!!!"[pcms]
 
 [quake_bg 元time=1000 xy l]
 
 *1931|
 [fc]
-直美は叫びながら、大きくハンドルを回し続け、[r]
-トラックも、俺の身体も大きく左右に揺すぶられた。[pcms]
+While Naomi screamed, she continued to turn the steering[r]
+wheel sharply, and both the truck and my body were violently[r]
+shaken from side to side.[pcms]
 
 *1932|
 [fc]
-左右も上下も分からなくなった俺の目の前には、[r]
-大きな建物が迫っていた。[pcms]
+I lost all sense of left, right, up, and down, and a large[r]
+building loomed in front of me.[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]
@@ -129,8 +128,8 @@
 
 *1933|
 [fc]
-[ns]大倉[nse]
-「…………」[pcms]
+[ns]Ookura Hiroshi[nse]
+"..."[pcms]
 
 ;//★ＳＥ：雄叫び
 [se0 storage="SE48"]
@@ -140,14 +139,12 @@
 
 *1934|
 [fc]
-なんだ……？[r]
-まっくらだ……。[r]
-さっきまで、あんなにあかるかったのに……。[pcms]
+What's this...? It's pitch black... It was so bright just a[r]
+moment ago...[pcms]
 
 *1935|
 [fc]
-あつい……。[r]
-おれのまわりで、なんかもえてる……？[pcms]
+It's hot... Is something burning around me...?[pcms]
 
 ;//★夜空
 ;消し
@@ -155,20 +152,19 @@
 
 *1936|
 [fc]
-きれーなそらだな……。[r]
-おれ、なんでこんなとこでねてんだ……？[pcms]
+The sky is so clear... Why am I sleeping here...?[pcms]
 
 *1937|
 [fc]
-たしか、おれ……。[pcms]
+I'm sure I was...[pcms]
 
 *1938|
 [fc]
-すごくはやいなにかにのってた……。[pcms]
+Riding on something very fast...[pcms]
 
 *1939|
 [fc]
-なんで……？[pcms]
+Why...?[pcms]
 
 ;//＠：商店街
 ;//★ＢＧ：商店街崩壊B（夜）
@@ -180,148 +176,140 @@
 
 *1940|
 [fc]
-なんだこれ……。[pcms]
+What is this...?[pcms]
 
 *1941|
 [fc]
-そうだ……。[r]
-たしか、だれかといっしょにいたはず……。[pcms]
+That's right... I was supposed to be with someone...[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
 *1942|
 [fc]
-おんなと……おとこ……。[r]
-いっしょに、なにかしようっていってた……。[pcms]
+A woman and a man... We were going to do something[r]
+together...[pcms]
 
 *1943|
 [fc]
-あれ……なんでおれのからだ、ぼろぼろなんだ？[r]
-あかいのも、いっぱいでてるのに……。[pcms]
+Why is my body all battered? There's so much red flowing[r]
+out...[pcms]
 
 *1944|
 [fc]
-でも、からだ……かるいな……。[pcms]
+But my body feels light...[pcms]
 
 *1945|
 [fc]
-て……まっかだ。[pcms]
+My hands... are bright red.[pcms]
 
 *1946|
 [fc]
-あかい……。[r]
-あかい？[pcms]
+Red... Red?[pcms]
 
 *1947|
 [fc]
-そうだ……おれのとなりに、はらをまっかにした、[r]
-おんながいたはずだ。[pcms]
+That's right... There was a woman beside me with her belly[r]
+turned bright red.[pcms]
 
 *1948|
 [fc]
-あれは……どこに？[pcms]
+Where is she now...?[pcms]
 
 ;//★カットイン　横転したトラック
 ;//＠背景＆BGSともに見当たらず
 
 *1949|
 [fc]
-[ns]大倉[nse]
-「あ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Ah..."[pcms]
 
 *1950|
 [fc]
-横倒しになったトラックの近くには、真っ黒になった、[r]
-人形が転がっていた。[pcms]
+Near the overturned truck, there were charred dolls[r]
+scattered around.[pcms]
 
 *1951|
 [fc]
-女の形をしたのが３つと、男の形をしたのが、１つ。[r]
-合わせて４つの人形が、燃えて真っ黒になって転がっ[r]
-ていた。[pcms]
+There were three dolls shaped like women and one shaped like[r]
+a man. In total, four dolls were burned black and lying[r]
+around.[pcms]
 
 *1952|
 [fc]
-その人形には、見覚えがあった。[r]
-でも、それがいったいなんだったのかは、[r]
-まるで思い出せない。[pcms]
+I recognized those dolls. But I couldn't remember at all[r]
+what they were.[pcms]
 
 *1953|
 [fc]
-でも真っ黒になって燃え上がる人形を見ていると、[r]
-不思議と涙が出て、止まらなかった。[pcms]
+Yet as I looked at the blackened, burning dolls, tears[r]
+strangely began to flow and wouldn't stop.[pcms]
 
 *1954|
 [fc]
-どうしてだろう。[r]
-なんで、なみだがでるんだろう。[pcms]
+Why is that? Why are tears coming out?[pcms]
 
 *1955|
 [fc]
-にんぎょうがもえたって、おれにはぜんぜん、[r]
-かんけいないはずなのに。[pcms]
+Even if the dolls are burned, it shouldn't matter to me at[r]
+all.[pcms]
 
 *1956|
 [fc]
-でも……。[r]
-なんだかさみしいな……。[pcms]
+But... I feel so lonely...[pcms]
 
 *1957|
 [fc]
-おれ、ひとり……。[pcms]
+I'm alone...[pcms]
 
 *1958|
 [fc]
-なんか、まわりにいっぱいいたはずなのに……。[pcms]
+I thought there were many around me before...[pcms]
 
 *1959|
 [fc]
-さみしいな……。[pcms]
+I feel so lonely...[pcms]
 
 ;//★雄叫び
 [se0 storage="SE48"]
 
 *1960|
 [fc]
-[ns]大倉[nse]
-「ともだち……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Friends..."[pcms]
 
 *1961|
 [fc]
-ひとがたくさんいる……。[pcms]
+There are so many people...[pcms]
 
 *1962|
 [fc]
-あそこにいけば、おれもなかまにいれてくれるかな。[r]
-おれは、みんなとたのしくしていたいんだ。[pcms]
+If I go there, will they let me join them? I want to have[r]
+fun with everyone.[pcms]
 
 *1963|
 [fc]
-ひとりはいやだ。[pcms]
+I don't want to be alone.[pcms]
 
 *1964|
 [fc]
-あそこにいけば……。[r]
-あのなかのよかったやつらと……。[r]
-また……。[pcms]
+If I go there... With those good people from before...[r]
+Again...[pcms]
 
 *1965|
 [fc]
-また、あえる。[r]
-きっと、そう。[pcms]
+I can meet them again. Surely, that's true.[pcms]
 
 *1966|
 [fc]
-たのしかったあのかんじが、[r]
-あのひとたちからしてくる。[pcms]
+The feeling of fun I had was coming from those people.[pcms]
 
 *1967|
 [fc]
-あのひとたちといっしょに……。[pcms]
+With those people...[pcms]
 
 *1968|
 [fc]
-うちにかえろう……。[pcms]
+Let's go home...[pcms]
 
 ;//★aliveルートクリア
 

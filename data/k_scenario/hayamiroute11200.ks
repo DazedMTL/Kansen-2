@@ -38,27 +38,26 @@
 
 *4130|
 [fc]
-久しぶりだな……。[pcms]
+It's been a while...[pcms]
 
 *4131|
 [fc]
-１年に１回、必ず訪れる木の下で足を止めて、[r]
-俺はみんなの顔を思い浮かべた。[pcms]
+Once a year, I stop under the tree we always visited and[r]
+think of everyone's faces.[pcms]
 
 *4132|
 [fc]
-悪ぃな……。[r]
-ホントは、月に１回ぐらいは来たいんだけど、[r]
-中々そうもいかなくてな……。[pcms]
+Sorry... I really want to come here at least once a month,[r]
+but it's not so easy...[pcms]
 
 *4133|
 [fc]
-マメができて、潰れてを繰り返してゴツゴツになった[r]
-掌を、木に向けて俺は笑った。[pcms]
+My palms, rough and calloused from blisters that formed and[r]
+burst, I smile towards the tree.[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
-;//BKACKOUT－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+;//BKACKOUT
 ;//※回想シーン（画像はセピア？）
 
 [evcg storage="NEV103c"][trans_c cross time=2000]
@@ -66,13 +65,14 @@
 
 *4134|
 [fc]
-俺と速水を助けたのは、やっぱり自衛隊だった。[pcms]
+It was indeed the Self-Defense Forces that saved me and[r]
+Hayami.[pcms]
 
 *4135|
 [fc]
-その自衛隊に連れてかれた、廃業寸前だったという[r]
-病院を利用した救護施設で、俺と速水は暮らすコトに[r]
-なった。[pcms]
+Taken by the Self-Defense Forces, we ended up living in a[r]
+relief facility that utilized a hospital which was on the[r]
+verge of closing down.[pcms]
 
 ;//[]BG表示
 ;//★ＢＧ：
@@ -85,42 +85,41 @@
 
 *4136|
 [fc]
-他人を食い、犯すという行動を人間にさせる[r]
-奇病は、ＵＮＫＮＯＷＮ－ＬＶ４というウイルスが[r]
-原因だという報道がされた。[pcms]
+The strange disease that caused humans to eat and violate[r]
+others was reported to be caused by a virus known as[r]
+UNKNOWN-LV4.[pcms]
 
 *4137|
 [fc]
-この、日本には存在しなかったウイルスが、どういう[r]
-経緯でこの国に入ってきたのか、なんでかはわからな[r]
-いが、特定されるコトは無かった。[pcms]
+How this virus, which did not exist in Japan, entered the[r]
+country is unknown, but it was never identified.[pcms]
 
 *4138|
 [fc]
-致死率が９９％とされたウイルスだったが、速水も、[r]
-救護施設に連れてこられていた他の感染者や、感染の[r]
-疑いがある人間も、死ぬことはなかった。[pcms]
+Although the virus had a reported mortality rate of 99%,[r]
+neither Hayami nor other infected people or those suspected[r]
+of infection brought to the relief facility died.[pcms]
 
 *4139|
 [fc]
-それというのも、どこかの研究所で密かに研究されて[r]
-いたらしい、このウイルスに対するワクチンが、騒動[r]
-が一段落した直後から出回り始めたからだった。[pcms]
+This was because a vaccine against this virus, which seemed[r]
+to have been secretly researched in some laboratory, began[r]
+to circulate shortly after the turmoil settled down.[pcms]
 
 *4140|
 [fc]
-けど、そのワクチンは根治させるほどの力を持った[r]
-ものじゃなく、せいぜい発症や、病気の進行をを遅ら[r]
-せるぐらいの効果しかなかった。[pcms]
+However, the vaccine wasn't powerful enough to cure[r]
+completely; at best, it could only slow down the onset and[r]
+progression of the disease.[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
 ;//BKACKOUT
 *4140a|
 [fc]
-救護施設で暮らしながら、俺も速水もユウたちとの[r]
-再会を待っていたが、いつまで経っても会うことは[r]
-できなかった。[pcms]
+While living at the relief facility, both me and Hayami[r]
+waited for a reunion with Yuu and the others, but it never[r]
+came to be.[pcms]
 
 ;//[]BG表示（グランドシティ全景？）
 ;//★ＢＧ：
@@ -130,32 +129,33 @@
 
 *4141|
 [fc]
-俺は、救護施設を警護する自衛隊員に、ショッピング[r]
-モールへユウたちを捜しに行ったヒトに、アイツらが[r]
-助かったのかどうか聞いて欲しいと頼んでみた。[pcms]
+I asked a Self-Defense Force member guarding the relief[r]
+facility to inquire about people who went to search for Yuu[r]
+and the others at the shopping mall, to see if they had[r]
+survived.[pcms]
 
 *4142|
 [fc]
-それからしばらくして、あのショッピングモールには、[r]
-何度か捜索隊が派遣されたそうだが、生存者は１人も[r]
-いなかったと、俺が頼んだ自衛隊員から聞かされた。[pcms]
+After some time, I was told by the Self-Defense Force member[r]
+I asked that search parties had been sent several times to[r]
+that shopping mall, but no survivors were found.[pcms]
 
 *4143|
 [fc]
-他にも、日本に駐留している軍隊が、ウイルスの感染[r]
-が拡大するのを止めるため、東北地方全域を爆撃した[r]
-という話も聞いた。[pcms]
+I also heard that military forces stationed in Japan bombed[r]
+the entire Tohoku region to stop the spread of the virus[r]
+infection.[pcms]
 
 *4144|
 [fc]
-その爆撃の後、生存者が全くと言っていいほど見つか[r]
-らなかった、とも。[pcms]
+After the bombing, it was said that virtually no survivors[r]
+were found.[pcms]
 
 *4145|
 [fc]
-俺はその後、救護施設のヒトに、母さんがどこかの施[r]
-設にいないか、何度も問い合わせてもらったが、見つ[r]
-かったという答えは、とうとう聞けなかった。[pcms]
+Afterwards, I repeatedly inquired through people at the[r]
+relief facility whether my mother was in some facility[r]
+somewhere, but I never got an answer that she was found.[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
@@ -169,56 +169,59 @@
 
 *4146|
 [fc]
-親友も、親も亡くした俺と速水は、そのまま、救護施[r]
-設での生活を続けた。[pcms]
+Having lost both friends and parents, Hayami and I continued[r]
+to live at the relief facility.[pcms]
 
 *4147|
 [fc]
-騒動の直後は国がマトモに機能してなくて、強盗集団[r]
-が出たりもして、酷い時には、警護の自衛隊員と銃撃[r]
-戦になることもあった。[pcms]
+Right after the commotion, the country wasn't functioning[r]
+properly, and there were even bands of robbers; at worst[r]
+times, there were gunfights with the Self-Defense Forces[r]
+guarding us.[pcms]
 
 *4148|
 [fc]
-けど、１ヶ月、２ヶ月と、時間が経つにつれて、国の[r]
-機能が、ゆっくりだけど回復してきて、ウイルスに対[r]
-するワクチンも、どんどん良い物が開発されていった。[pcms]
+But as one month, two months passed, the functions of the[r]
+country slowly recovered, and better vaccines against the[r]
+virus were developed.[pcms]
 
 *4149|
 [fc]
-今では、非感染者に投与すれば、感染を完全に防げる[r]
-ようになり、全世界に流通していると、施設のニュー[r]
-スで聞いた。[pcms]
+Nowadays, if administered to non-infected people, it can[r]
+completely prevent infection, and it's being distributed[r]
+worldwide, I heard on the facility's news.[pcms]
 
 *4150|
 [fc]
-けど、最新のワクチンでも、既に感染してる人間の[r]
-体内にいるウイルスを、完全に排除するコトはできな[r]
-いらしかった。[pcms]
+But even with the latest vaccine, it seems impossible to[r]
+completely eliminate the virus already present in infected[r]
+people's bodies.[pcms]
 
 *4151|
 [fc]
-ウイルスの活動を最大限に抑えるコトができる。[r]
-まだ改良の余地はあり、研究は日夜続けられている。[pcms]
+The vaccine can suppress the activity of the virus to the[r]
+maximum extent. There is still room for improvement, and[r]
+research continues day and night.[pcms]
 
 *4152|
 [fc]
-そんな報道を聞いても、俺には気休めにしか聞こえな[r]
-かった。[pcms]
+Even hearing such reports, it sounded like mere consolation[r]
+to me.[pcms]
 
 *4153|
 [fc]
-速水が感染前の状態になることはないと、断言された[r]
-のも同然だからだった。[pcms]
+Because it was almost certain that Hayami would never return[r]
+to her pre-infection state.[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
 ;//BKACKOUT
 *4153a|
 [fc]
-施設に来てから１年近く経った頃、国の復興事業で労[r]
-働力の需要が急激に増えた、という話を聞いて、俺は[r]
-仕事を探し、働き始めた。[pcms]
+Nearly a year after coming to the facility, I heard that[r]
+there was a sudden increase in demand for labor due to[r]
+national reconstruction projects, so I started looking for[r]
+work and began working.[pcms]
 
 ;//[]BG表示
 ;//★ＢＧ：
@@ -229,21 +232,23 @@
 
 *4154|
 [fc]
-仕事を始めてすぐに、俺と速水は施設を出て、復興事[r]
-業に関わる労働者のために、国や企業に用意された[r]
-仮設住宅に移った。[pcms]
+Soon after starting work, Hayami and I left the facility and[r]
+moved into temporary housing prepared by the government and[r]
+corporations for workers involved in reconstruction[r]
+projects.[pcms]
 
 *4155|
 [fc]
-仕事で汗を流し、帰れば速水の笑顔が待っている。[pcms]
+Sweating at work and then coming home to Hayami's smiling[r]
+face...[pcms]
 
 
 [evcg storage="NEV103d"][trans_c cross time=1000]
 
 *4156|
 [fc]
-そんな生活に幸せを感じ始めた頃、速水が段々とやつ[r]
-れ始め、笑顔も弱々しくなっていった。[pcms]
+I began to feel happiness in such a life when gradually[r]
+Hayami started to waste away, and her smile became weaker.[pcms]
 
 
 ;//コメントアウトは佐藤追加
@@ -255,10 +260,10 @@
 *4157|
 [fc]
 [vo_hay s="hayami0897"]
-[ns]ありす[nse]
-「ねえ、ヒロシ……ショッピングモールにね、[r]
-　ともだちがいるの……。すごく、なかがよかった[r]
-　ともだち……。いつも、いっしょにいたの……」[pcms]
+[ns]Arisu[nse]
+`Hey, Hiroshi... At the shopping mall, you know, I had[r]
+friends... We were really close friends... We were always[r]
+together...[pcms]
 
 ;//[]BG表示
 ;//★ＢＧ：
@@ -269,70 +274,69 @@
 
 *4158|
 [fc]
-衰弱してくのと同時に、ウイルスのせいなのか、速水[r]
-は時々、記憶が混同してるような様子を見せた。[pcms]
+As she weakened, perhaps due to the virus, Hayami sometimes[r]
+showed signs of confused memories.[pcms]
 
 [cutin storage="NEV103h"][trans_c cross time=1000]
 
 *4159|
 [fc]
 [vo_hay s="hayami0898"]
-[ns]ありす[nse]
-「あそこに、つれてって……？　あたし、ともだちに、[r]
-　あいたいの……。　いいよね……？　ヒロシ……」[pcms]
+[ns]Alice[nse]
+`Can you take me there...? I want to see my friends... It's[r]
+okay, right...? Hiroshi...[pcms]
 
 *4160|
 [fc]
-[ns]大倉[nse]
-「そうだな……じゃぁ、今週の休みに行ってみるか？」[pcms]
+[ns]Ookura Hiroshi[nse]
+`Yeah... Then how about we go there on my day off this week?[pcms]
 
 *4161|
 [fc]
 [vo_hay s="hayami0899"]
-[ns]ありす[nse]
-「…………どこに？　でかけるなら、あたしもつれ[r]
-　てってほしいな～」[pcms]
+[ns]Arisu[nse]
+`...Where? If you're going out, I want you to take me with[r]
+you~[pcms]
 
 *4162|
 [fc]
-[ns]大倉[nse]
-「あ、あぁ、モチロン、オマエも一緒に連れてくよ」[pcms]
+[ns]Ookura Hiroshi[nse]
+`Ah, yeah, of course, I'll take you with me.[pcms]
 
 [cutin storage="NEV103i"][trans_c cross time=1000]
 
 *4163|
 [fc]
 [vo_hay s="hayami0900"]
-[ns]ありす[nse]
-「びょういんいがいに、おでかけするの、ひさし[r]
-　ぶりだね♪」[pcms]
+[ns]Arisu[nse]
+`It's been a while since we've gone out somewhere other than[r]
+the hospital♪[pcms]
 
 *4164|
 [fc]
-[ns]大倉[nse]
-「あぁ、そうだな」[pcms]
+[ns]Ookura Hiroshi[nse]
+`Yeah, that's true.[pcms]
 
 *4165|
 [fc]
 [vo_hay s="hayami0901"]
-[ns]ありす[nse]
-「なにきていこっかな～♪」[pcms]
+[ns]Alice[nse]
+`What should I wear~♪[pcms]
 
 *4166|
 [fc]
-[ns]大倉[nse]
-「……」[pcms]
+[ns]Ookura Hiroshi[nse]
+`...[pcms]
 
 *4167|
 [fc]
-考えたくはなかったが、体調や振る舞いから、速水は[r]
-もう長くないんじゃないかと、俺は感じていた。[pcms]
+I didn't want to think about it, but from her condition and[r]
+behavior, I felt that Hayami might not have long left.[pcms]
 
 *4168|
 [fc]
-だから俺は、どんな小さいコトでも、速水の望みを叶[r]
-えてやりたくて、千台の、あのショッピングモールに[r]
-行くコトを決めた。[pcms]
+That's why I wanted to fulfill even her smallest wishes, so[r]
+I decided we would go to that shopping mall in Chitai.[pcms]
 
 ;消し無し[chara_int_ layer=3]
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -340,13 +344,13 @@
 ;//BKACKOUT
 *4168a|
 [fc]
-その週の土曜日、俺は速水を車椅子に乗せて、千台へ[r]
-向かった。[pcms]
+On that Saturday of the week, I put Hayami in a wheelchair[r]
+and headed for Chitai.[pcms]
 
 *4169|
 [fc]
-その途中でも、速水はあそこに友達がいる、友達に会[r]
-いたい、と言い続けていた。[pcms]
+Even on the way there, Hayami kept saying she had friends[r]
+there and wanted to see them.[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 ;//BKACKOUT;//[]BG表示
@@ -359,15 +363,15 @@
 
 *4170|
 [fc]
-あのショッピングモールは、周囲を黒とオレンジの柵[r]
-で取り囲まれていて、俺と速水以外のひとの姿は１つ[r]
-も無かった。[pcms]
+That shopping mall was surrounded by black and orange[r]
+fences, and there was no one else around except for me and[r]
+Hayami.[pcms]
 
 *4171|
 [fc]
-悪いとは思ったが、警備してるような人間もいないの[r]
-をいいことに、俺は傾いてる柵を蹴りとばし、隙間を[r]
-拡げて、敷地の中へ速水を運び込んだ。[pcms]
+Feeling bad about it but seeing no one around to guard it as[r]
+an opportunity, I kicked down a leaning fence to widen a gap[r]
+and carried Hayami into the premises.[pcms]
 
 [evcg storage="NEV103e"][trans_c cross time=2000]
 ;//佐藤追加
@@ -375,25 +379,25 @@
 *4172|
 [fc]
 [vo_hay s="hayami0902"]
-[ns]ありす[nse]
-「あ～、いけないんだ～」[pcms]
+[ns]Arisu[nse]
+`Ah~, we shouldn't be doing this~[pcms]
 
 *4173|
 [fc]
-[ns]大倉[nse]
-「俺とオマエだけの秘密な」[pcms]
+[ns]Ookura Hiroshi[nse]
+`It'll be our little secret.[pcms]
 
 *4174|
 [fc]
 [vo_hay s="hayami0903"]
-[ns]ありす[nse]
-「ふふ……」[pcms]
+[ns]Arisu[nse]
+`Hehe...[pcms]
 
 *4175|
 [fc]
-車椅子ごとは入れなかったから、俺は速水をお姫様の[r]
-ように抱えて、ショッピングモールの前にある広場を[r]
-歩いた。[pcms]
+Since we couldn't enter with the wheelchair, I carried[r]
+Hayami princess-style across the plaza in front of the[r]
+shopping mall.[pcms]
 
 ;消し
 [bg storage="bg400b" x=-400 y=0][trans_c cross time=1000]
@@ -401,26 +405,26 @@
 
 *4176|
 [fc]
-これが爆撃のあった証拠なのか、地面のあちこちに[r]
-抉られたような穴が開いていて、ショッピングモール[r]
-のビルも、だいぶ破壊されている。[pcms]
+Whether it was evidence of bombing or not, there were holes[r]
+gouged out here and there on the ground, and the building of[r]
+the shopping mall was also heavily damaged.[pcms]
 
 *4177|
 [fc]
 [vo_hay s="hayami0904"]
-[ns]ありす[nse]
-「ここ、いいな……。おろして、ヒロシ……」[pcms]
+[ns]Arisu[nse]
+"I like it here... Put me down, Hiroshi..."[pcms]
 
 *4178|
 [fc]
-[ns]大倉[nse]
-「ん……」[pcms]
+[ns]Ookura[nse]
+"Hmm..."[pcms]
 
 *4179|
 [fc]
-あんなコトになる前は、いろんなヒトがココで休んだ[r]
-はずの、途中で折れてしまっている太い木の下に、[r]
-俺は抱えていた速水を降ろし、座らせた。[pcms]
+Under a thick tree that had broken halfway, where various[r]
+people must have rested before that incident happened, I put[r]
+down Hayami, whom I was carrying, and made her sit.[pcms]
 
 [evcg storage="NEV103d"][trans_c cross time=2000]
 ;//佐藤追加
@@ -428,21 +432,22 @@
 *4180|
 [fc]
 [vo_hay s="hayami0905"]
-[ns]ありす[nse]
-「しずかだね……」[pcms]
+[ns]Arisu[nse]
+"It's so quiet..."[pcms]
 
 *4181|
 [fc]
-[ns]大倉[nse]
-「あぁ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Yeah..."[pcms]
 
 ;//♪：bgm010 stop
 [fadeoutbgm time=1000]
 
 *4182|
 [fc]
-広場の中を、あんなコトがあったとは思えないような、[r]
-爽やかな秋の風が、２人の間を吹き抜けていく。[pcms]
+A refreshing autumn breeze that made it hard to believe that[r]
+such a thing had happened blew through the plaza between the[r]
+two of us.[pcms]
 
 ;//♪：bgmED001
 [bgm storage="bgmED001"]
@@ -450,26 +455,27 @@
 *4183|
 [fc]
 [vo_hay s="hayami0906"]
-[ns]ありす[nse]
-「あたしが、しんだら……ちょっとでいいから、ほね、[r]
-　ここにうめてくれない……？」[pcms]
+[ns]Arisu[nse]
+"When I die... could you bury my bones here, even just a[r]
+little bit?"[pcms]
 
 *4184|
 [fc]
-[ns]大倉[nse]
-「なんだよ、急に。縁起でもねーこと言うなよ」[pcms]
+[ns]Ookura Hiroshi[nse]
+"What's with that all of a sudden? Don't say such unlucky[r]
+things."[pcms]
 
 *4185|
 [fc]
 [vo_hay s="hayami0907"]
-[ns]ありす[nse]
-「おねがい……そうすれば、ともだちとも、ヒロシ[r]
-　とも、いっしょにいられるきがするから……」[pcms]
+[ns]Arisu[nse]
+"Please... I feel like that way, I can be with my friends[r]
+and with Hiroshi..."[pcms]
 
 *4186|
 [fc]
-[ns]大倉[nse]
-「……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"..."[pcms]
 
 [evcg storage="NEV103e"][trans_c cross time=2000]
 ;//佐藤追加
@@ -477,55 +483,52 @@
 *4187|
 [fc]
 [vo_hay s="hayami0908"]
-[ns]ありす[nse]
-「あたし、ほんとにうれしかったよ……あのとき、[r]
-　ヒロシがたすけにきてくれて……」[pcms]
+[ns]Arisu[nse]
+"I was really happy... that time when Hiroshi came to save[r]
+me..."[pcms]
 
 *4188|
 [fc]
 [vo_hay s="hayami0909"]
-[ns]ありす[nse]
-「だから、いまも、いっしょにいられるし……[r]
-　それに……」[pcms]
+[ns]Arisu[nse]
+"That's why I can still be with you now... and also..."[pcms]
 
 [evcg storage="NEV103d"][trans_c cross time=2000]
 ;//佐藤追加
 
 *4189|
 [fc]
-速水はホッペタを赤くし、微笑んで、恥ずかしそうに[r]
-うつむいた。[pcms]
+Hayami blushed, smiled shyly, and looked down embarrassed.[pcms]
 
 *4190|
 [fc]
 [vo_hay s="hayami0910"]
-[ns]ありす[nse]
-「……いままでずっと、ありがとう……。[r]
-　ヒロシのこと、ずっとすきでいるから……。[r]
-　あたしのこと、わすれないでね……」[pcms]
+[ns]Alice[nse]
+"...Thank you for everything up until now... I will always[r]
+love Hiroshi... Don't forget about me..."[pcms]
 
 *4191|
 [fc]
-[ns]大倉[nse]
-「ヘッ、バーカ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Heh, idiot..."[pcms]
 
 *4192|
 [fc]
-勝手に溢れようとする涙を見られないように、速水を[r]
-胸に抱きしめた。[pcms]
+To avoid having my tears seen, I hugged Hayami close to my[r]
+chest.[pcms]
 
 *4193|
 [fc]
-間違いなく、速水にはバレてたはずだが、アイツは[r]
-何も言わなかった。[pcms]
+It must have been obvious to Hayami, but she didn't say[r]
+anything.[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
 ;//BKACKOUT
 *4193a|
 [fc]
-千台から帰って間もなく、速水は微笑みながら、眠る[r]
-ように静かに息を引き取った。[pcms]
+Not long after returning from Chitai, Hayami passed away[r]
+quietly in her sleep with a smile on her face.[pcms]
 
 ;//[]BG表示
 ;//★ＢＧ：
@@ -535,27 +538,27 @@
 
 *4194|
 [fc]
-あまり気が乗らなかったが、速水の望みでもあるし、[r]
-もしかしたらあの世でユウに会いやすくなるかもと、[r]
-俺はアイツの骨の一部を、あの木の下に埋めた。[pcms]
+Although I wasn't too keen on it, it was Hayami's wish, and[r]
+maybe it would make it easier for her to meet Yuu in the[r]
+afterlife, so I buried a part of her bones under that tree.[pcms]
 
 [evcg storage="NEV103f"][trans_c cross time=1000]
 
 *4195|
 [fc]
-[ns]大倉[nse]
-「またな……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"See you again..."[pcms]
 
 *4196|
 [fc]
-そして、誰もいない、静けさと風に包まれた朽ちた[r]
-ビルと、折れた大木は、速水と、あの時ココで別れた[r]
-ユウたちの墓標となった。[pcms]
+And then, the deserted building surrounded by silence and[r]
+wind and the broken tree became the grave markers for Hayami[r]
+and Yuu and those who parted here at that time.[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
-;//BKACKOUT－－－－－－－－－－－－－－－－－－－－
-;//－－－－－－－－－－－－－－－－－－－－
+;//BKACKOUT
+;//
 ;//[]BG表示
 ;//★ＢＧ：
 ;[bg storage="white"][trans_c cross time=2000]
@@ -564,96 +567,99 @@
 
 *4197|
 [fc]
-あれから毎年、ひとも、国すらも見捨てたこの場所を[r]
-訪れて、誰に咎められることもなく、俺らは速水と[r]
-ユウたちに手を合わせた。[pcms]
+Since then, every year, we visited this place abandoned by[r]
+people and even countries, and without anyone to blame us,[r]
+we paid our respects to Hayami and Yuu.[pcms]
 
 ;//[bg storage="bg05a"][trans_c cross time=1000]
 ;//コメントアウトは佐藤
 
 *4198|
 [fc]
-いまだに建物は取り壊されることもなく、同じ場所に[r]
-建ち続けている。[pcms]
+The building still stands in the same place without being[r]
+demolished to this day.[pcms]
 
 *4199|
 [fc]
-けど、周りの草木は生長して、全ての生命が死に絶え[r]
-たような荒廃した光景は、だいぶ様変わりしていた。[pcms]
+But the surrounding vegetation has grown, and the scene of[r]
+desolation as if all life had died out has changed[r]
+significantly.[pcms]
 
 *4200|
 [fc]
-ヘタに人の手が入るよりか、こういう方がアイツらも[r]
-落ち着くだろ……。[pcms]
+I guess they'd rest more peacefully this way than if humans[r]
+tampered with it...[pcms]
 
 *4201|
 [fc]
 [vo_mob s="onnanoko_b0001"]
 [ns]？？？[nse]
-「はい！」[pcms]
+"Yes!"[pcms]
 
 *4202|
 [fc]
-[ns]大倉[nse]
-「ん……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Hmm..."[pcms]
 
 *4203|
 [fc]
-目の前に差し出された、野花を持った手の先に目を向[r]
-けると、そこには、速水の面影が残った笑顔があった。[pcms]
+Looking at the hand holding wildflowers extended in front of[r]
+me, there was a smile reminiscent of Hayami's.[pcms]
 
 [evcg storage="NEV010"][trans_c cross time=3000]
 ;//上記はテスト用
 
 *4204|
 [fc]
-[ns]大倉[nse]
-「キレイな花、見つけてきたな。[r]
-　じゃあ、そこに置いて」[pcms]
+[ns]Ookura Hiroshi[nse]
+"You found some beautiful flowers. Go ahead and place them[r]
+there."[pcms]
 
 *4205|
 [fc]
 [vo_mob s="onnanoko0001"]
-[ns]女の子[nse]
-「はーい」[pcms]
+[ns]Girl[nse]
+"Yes!"[pcms]
 
 *4206|
 [fc]
-折れた所から、新しい枝を伸ばし始めている木の下に、[r]
-摘んできた花を置き、俺のマネをして、その子も、[r]
-小さな手を合わせた。[pcms]
+The tree that had started to grow new branches from the[r]
+broken spot now had flowers placed under it, and the girl[r]
+followed my lead by putting her small hands together in[r]
+prayer.[pcms]
 
 *4207|
 [fc]
-[ns]大倉[nse]
-「……よし、帰ろうか、ありす」[pcms]
+[ns]Ookura Hiroshi[nse]
+"...Alright, shall we go home, Arisu?"[pcms]
 
 *4208|
 [fc]
 [vo_hay s="hayami0911"]
-[ns]ありす[nse]
-「うん！」[pcms]
+[ns]Arisu[nse]
+"Yeah!"[pcms]
 
 *4209|
 [fc]
-[ns]大倉[nse]
-「じゃぁ、ご挨拶して？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Then, shall we say goodbye?"[pcms]
 
 *4210|
 [fc]
 [vo_hay s="hayami0912"]
-[ns]ありす[nse]
-「ママとママのお友だち、バイバイ！」[pcms]
+[ns]Arisu[nse]
+"Bye-bye Mama and Mama's friends!"[pcms]
 
 *4211|
 [fc]
-無邪気に笑う娘を抱きかかえ、俺は速水が眠る大木と、[r]
-ユウたちが眠るショッピングモールに別れを告げた。[pcms]
+Holding my daughter who laughed innocently in my arms, I bid[r]
+farewell to the big tree where Hayami rests and the shopping[r]
+mall where Yuu and the others rest.[pcms]
 
 *4212|
 [fc]
-[ns]大倉[nse]
-「またな……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"See you again..."[pcms]
 
 [fadeoutbgm time=3000]
 [stop_se0]
@@ -694,4 +700,4 @@
 [returntitle]
 
 ;//速水ルート・トゥルーエンド
-;//－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+;//

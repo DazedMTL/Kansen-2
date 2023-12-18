@@ -26,8 +26,9 @@
 
 *10822|
 [fc]
-女の人はすぐ傍の入り口から本屋へ入って、奥の壁際[r]
-にあるレジカウンターの手前で足を止めた。[pcms]
+The woman entered the bookstore through the entrance nearby[r]
+and stopped in front of the cash register counter by the[r]
+back wall.[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
@@ -39,8 +40,8 @@
 
 *10823|
 [fc]
-[ns]大倉[nse]
-「どうしたんですか？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"What's wrong?"[pcms]
 
 
 ;mm レイヤ0使ってるからキャラの0は3に
@@ -50,121 +51,118 @@
 *10824|
 [fc]
 [vo_anz s="anzai0105"]
-[ns]女[nse]
-「あの子のことで、ちょっとね……」[pcms]
+[ns]Female[nse]
+"It's about that child, just a little thing..."[pcms]
 
 *10825|
 [fc]
-そう言って、女の人は申し訳なさそうな顔をユウに向[r]
-けた。[pcms]
+As she said this, the woman turned to Yuu with an apologetic[r]
+face.[pcms]
 
 [ChrSetEx layer=5 chbase="anza_n16"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *10826|
 [fc]
 [vo_anz s="anzai0106"]
-[ns]女[nse]
-「あの子、あなたのことが怖いらしいの。理由はわか[r]
-　らないんだけれど……」[pcms]
+[ns]Female[nse]
+"That child seems to be scared of you. I don't know why..."[pcms]
 
 [ChrSetEx layer=3 chbase="koba_n03"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
 
 *10827|
 [fc]
 [vo_kob s="koba0189"]
-[ns]小林[nse]
-「ボク、なにもしてないけど」[pcms]
+[ns]Kobayashi[nse]
+"But I haven't done anything."[pcms]
 
 *10828|
 [fc]
-むくれるユウに、女の人は子供に言い聞かせるように、[r]
-ゆっくりと、優しい声で言う。[pcms]
+The woman spoke to the sulking Yuu in a slow, gentle voice,[r]
+as if explaining to a child.[pcms]
 
 [ChrSetEx layer=5 chbase="anza_n03"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *10829|
 [fc]
 [vo_anz s="anzai0107"]
-[ns]女[nse]
-「もちろん、それはわかってるわ。だから、そのまま[r]
-　そっとしておいてあげて。離れた所から見守る感じ[r]
-　で、守ってあげて欲しいの」[pcms]
+[ns]Female[nse]
+"Of course, I understand that. So please, just leave them be[r]
+for now. I want you to protect them from a distance, just[r]
+watch over them."[pcms]
 
 [ChrSetEx layer=3 chbase="koba_n05"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
 
 *10830|
 [fc]
 [vo_kob s="koba0190"]
-[ns]小林[nse]
-「……」[pcms]
+[ns]Kobayashi[nse]
+"..."[pcms]
 
 *10831|
 [fc]
-自分を避けている女を守れ、というのが納得いかない[r]
-ようで、ユウは顔を女の人から顔を逸らして、返事を[r]
-しないで黙っている。[pcms]
+Yuu, not satisfied with being told to protect the girl who[r]
+was avoiding him, turned his face away from the woman and[r]
+remained silent without replying.[pcms]
 
 [ChrSetEx layer=5 chbase="anza_n07"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *10832|
 [fc]
-ユウの態度に困った顔になって、女の人は助けを求め[r]
-るように俺を見た。[pcms]
+Seeing Yuu's attitude, the woman looked at me with a[r]
+troubled expression as if seeking help.[pcms]
 
 *10833|
 [fc]
-[ns]大倉[nse]
-「……えーっと、つかず離れず、ってカンジでいいん[r]
-　ですか？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"...Uh, so keep a respectful distance, is that right?"[pcms]
 
 [ChrSetEx layer=5 chbase="anza_n02"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 
 *10834|
 [fc]
 [vo_anz s="anzai0108"]
-[ns]女[nse]
-「ええ。大変だと思うけれど、お願いね」[pcms]
+[ns]Female[nse]
+"Yes. I know it's hard, but please."[pcms]
 
 [chara_int_ layer=5][trans_c cross time=150]
 [ChrSetEx layer=3 chbase="koba_n04"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
 
 *10835|
 [fc]
-ホッとしたように笑顔になって、本屋から出て行った[r]
-女の人を追おうとした俺を、ユウが睨みつけていた。[pcms]
+With a relieved smile, the woman left the bookstore, and as[r]
+I tried to follow her, Yuu glared at me.[pcms]
 
 *10836|
 [fc]
-[ns]大倉[nse]
-「？　なんだよ」[pcms]
+[ns]Ookura Hiroshi[nse]
+"? What is it?"[pcms]
 
 *10837|
 [fc]
 [vo_kob s="koba0191"]
-[ns]小林[nse]
-「べつに！」[pcms]
+[ns]Kobayashi[nse]
+"Nothing!"[pcms]
 
 [chara_int_ layer=3][trans_c cross time=150]
 
 *10838|
 [fc]
-吐き捨てるように言ってそっぽを向き、ユウは俺を置[r]
-いて、早足で本屋を出て行った。[pcms]
+Yuu turned away as if spitting out the words and quickly[r]
+left the bookstore, leaving me behind.[pcms]
 
 *10839|
 [fc]
-[ns]大倉[nse]
-「……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"..."[pcms]
 
 *10840|
 [fc]
-あの子に避けられたのが、そんなに気に入らなかった[r]
-のか……。[pcms]
+Was he so upset about being avoided by that child...[pcms]
 
 *10841|
 [fc]
-自分になびかない女はキライ、とか……？[r]
-ユウって、そういうヤツだったっけ……。[pcms]
+Does he dislike women who don't fawn over him...? Was Yuu[r]
+always that kind of guy...?[pcms]
 
 [sysbt_meswin clear]
 
@@ -173,4 +171,4 @@
 
 [jump storage="westtown_main10210.ks" target=*westtown_main10210_TOP]
 
-;//－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+;//

@@ -27,15 +27,15 @@
 *12286|
 [fc]
 [vo_anz s="anzai0210"]
-[ns]みき[nse]
-「囮！？　そんなことしたら貴男が……！！」[pcms]
+[ns]Mikki[nse]
+"A decoy!? If you do that, you'll...!!"[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
 *12287|
 [fc]
-[ns]大倉[nse]
-「このままじゃ全員捕まる！　急いで！！」[pcms]
+[ns]Ookura[nse]
+"At this rate, we'll all get caught! Hurry up!!"[pcms]
 
 ;//BKACKOUT
 ;消し無し[chara_int]
@@ -43,9 +43,8 @@
 
 *12288|
 [fc]
-俺はエスカレーターを駆け下りながらケータイを取り[r]
-出し、振って見せながら、ヤツらの左脇を走って通り[r]
-抜けた。[pcms]
+As I dashed down the escalator, I took out my cell phone,[r]
+waved it to show them, and ran past their left side.[pcms]
 
 ;//BG表示
 ;//★ＢＧ：フキヌケ付近２ＦC
@@ -57,9 +56,9 @@
 
 *12289|
 [fc]
-[ns]大倉[nse]
-「オイ！！　こっちだイカレ野郎ッ！！　来てみろ！！[r]
-　来いよオラッ！！」[pcms]
+[ns]Ookura[nse]
+"Hey!! Over here, you crazy bastards!! Come on!! Come at[r]
+me!!"[pcms]
 
 [se0 storage="SE48"]
 
@@ -67,32 +66,33 @@
 
 *12290|
 [fc]
-俺の怒鳴る声に反応して、半裸と全裸の集団が一斉に[r]
-こっちに顔を向け、ノロノロと動き出す。[pcms]
+Reacting to my shouting, a group of half-naked and fully[r]
+naked people turned their faces towards us and started[r]
+moving sluggishly.[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
 *12291|
 [fc]
-[ns]大倉[nse]
-「こっちだよ！！　追いついてみろホラッ！！」[pcms]
+[ns]Ookura[nse]
+"This way!! Try and catch up, come on!!"[pcms]
 
 *12292|
 [fc]
-エスカレーターから俺の様子を窺っているアンザイさ[r]
-んに、早く行けと手で合図すると、３人は吹き抜けの[r]
-方へ走っていった。[pcms]
+When I signaled Anzai-san, who was watching from the[r]
+escalator, to go quickly, the three of them ran towards the[r]
+atrium.[pcms]
 
 *12293|
 [fc]
-よし……！[r]
-あとは、適当なトコでダッシュで逃げりゃいいな……。[pcms]
+Alright...! Now I just need to find a good spot to dash[r]
+away...[pcms]
 
 *12294|
 [fc]
-[ns]大倉[nse]
-「どうしたノロマ野郎！！　そんだけいて、１人も追[r]
-　いつけねーのかドン亀！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"What's the matter, slowpokes!! With so many of you, can't[r]
+even one catch up, you turtles!!"[pcms]
 
 [cutin_int][trans_c cross time=300]
 
@@ -102,8 +102,8 @@
 
 *12295|
 [fc]
-しばらくの間、つかず離れずの距離をキープしたまま、[r]
-俺は長い通路をイカレ集団と一緒に歩いた。[pcms]
+For a while, I kept a moderate distance and walked down the[r]
+long corridor with the crazy group.[pcms]
 
 ;//BG表示
 ;//★ＢＧ：トイレ付近A
@@ -115,36 +115,35 @@
 
 *12296|
 [fc]
-[ns]大倉[nse]
-「この辺でいいだろ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"This should be far enough..."[pcms]
 
 *12297|
 [fc]
-長い通路の一番奥、トイレの少し手前で、俺はヤツら[r]
-に背中を向けて、仲間の３人がいるはずの店を目指し、[r]
-全力でダッシュした。[pcms]
+At the very end of the long corridor, just before the[r]
+toilets, I turned my back to them and dashed towards the[r]
+store where my three companions should be.[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
 *12298|
 [fc]
-[ns]大倉[nse]
-「切れちまったな……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"They've lost me..."[pcms]
 
 *12299|
 [fc]
-途中で確認した着信履歴には、速水のケータイ番号が[r]
-表示されていた。[pcms]
+The call history I checked on the way showed Hayami's cell[r]
+phone number.[pcms]
 
 *12300|
 [fc]
-一応、ケータイをかけられる状態ってことか……。[r]
-けどそれじゃ、絶対に無事だとは言えねーよな……。[r]
-安全なトコにいてくれりゃいいけど……。[pcms]
+That means I can call her... But that doesn't guarantee[r]
+she's safe... I hope she's in a safe place...[pcms]
 
 *12301|
 [fc]
-ケータイをポケットにしまい、俺は先を急いだ。[pcms]
+I put the cell phone back in my pocket and hurried on.[pcms]
 
 ;//[fadeoutbgm time=502]
 ;//[stop_se0]
@@ -173,4 +172,4 @@
 ;//ブロック１０４１２へ
 [jump storage="westtown_main10412.ks" target=*westtown_main10412_TOP]
 
-;//－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+;//

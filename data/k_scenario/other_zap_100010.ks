@@ -24,64 +24,62 @@
 *6134|
 [fc]
 [vo_mob s="nanasse0001"]
-[ns]七瀬[nse]
-「はぁ……はぁ……ちひろさん……[r]
-　どこ……どこにいるんですかぁ……」[pcms]
+[ns]Nanase[nse]
+"Haa... haa... Chihiro-san... where... where are you...?"[pcms]
 
 *6135|
 [fc]
-ふらつく足取りで七瀬が向かったのは、[r]
-通い慣れた学園だった。[pcms]
+With unsteady steps, Nanase headed towards the familiar[r]
+school.[pcms]
 
 *6136|
 [fc]
-思うことは唯一つ、千尋に会うこと。[r]
-会って、存分に犯し、犯される――ただそれだけ。[pcms]
+The only thing on her mind was to meet Chihiro. To meet her,[r]
+to ravish her, and to be ravished--that was all.[pcms]
 
 *6137|
 [fc]
 [vo_mob s="nanasse0002"]
-[ns]七瀬[nse]
-「んくっ、ふぁ……はぁ、ああ……[r]
-　ちひろさん……ちひろさぁん……」[pcms]
+[ns]Nanase[nse]
+"Nngh, fah... haa, aah... Chihiro-san... Chihiro-saaan..."[pcms]
 
 *6138|
 [fc]
-暴徒と化した近隣住民に襲われ、犯された身体は、[r]
-おさまることを知らない性欲で渦巻いていた。[pcms]
+Her body, assaulted and violated by the rampaging neighbors,[r]
+was swirling with an insatiable sexual desire.[pcms]
 
 *6139|
 [fc]
-次々とペニスに貫かれ、[r]
-ドクドクと精液を流し込まれ、[r]
-何度も何度も絶頂を味わった身体。[pcms]
+Penetrated by one penis after another, filled with spurts of[r]
+semen, her body experienced climax over and over again.[pcms]
 
 *6140|
 [fc]
-それでもまだ、絶頂を求めている。[pcms]
+Yet still, it craved for more climaxes.[pcms]
 
 *6141|
 [fc]
 [vo_mob s="nanasse0003"]
-[ns]七瀬[nse]
-「ちひろさん……ちひろさん……ああ、[r]
-　ちひろさんにしてほしいの……ちひろさぁん……」[pcms]
+[ns]Nanase[nse]
+"Chihiro-san... Chihiro-san... aah, I want Chihiro-san to do[r]
+it... Chihiro-saaan..."[pcms]
 
 *6142|
 [fc]
-千尋に植え付けられた、女同士でのみ味わえる快感。[r]
-それを求め、七瀬の足は自然と学園へと向かっていた。[r]
-学園へ行けば、千尋と会える――そう考えて。[pcms]
+The pleasure that could only be experienced between women,[r]
+implanted by Chihiro, was what she sought, and Nanase's feet[r]
+naturally headed towards the school. She thought she could[r]
+meet Chihiro if she went to the school.[pcms]
 
 *6143|
 [fc]
-いや、考えてもいないのかもしれない。[r]
-いつも千尋に抱かれる場所が学園だから……[r]
-ただそれだけの、本能にも似た行動なのかもしれない。[pcms]
+Or maybe she wasn't thinking at all. It was always at the[r]
+school where Chihiro embraced her... perhaps it was just an[r]
+action similar to instinct.[pcms]
 
 *6144|
 [fc]
-だが……。[pcms]
+But...[pcms]
 
 ;//井：一旦、メッセージ窓消します
 
@@ -101,78 +99,74 @@
 *6145|
 [fc]
 [vo_mob s="nanasse0004"]
-[ns]七瀬[nse]
-「あ……ああ……ちひろさん……？」[pcms]
+[ns]Nanase[nse]
+"Ah... aah... Chihiro-san...?"[pcms]
 
 *6146|
 [fc]
-たどり着いた学園には、千尋の姿はおろか、[r]
-人影のひとつも見当たらない。[pcms]
+At the school she finally reached, there was no sign of[r]
+Chihiro, not even a shadow of anyone else.[pcms]
 
 *6147|
 [fc]
 [vo_mob s="nanasse0005"]
-[ns]七瀬[nse]
-「ちひろさん……どこ……？[r]
-　どこにいるの……？[r]
-　ちひろさん……ちひろさん……！」[pcms]
+[ns]Nanase[nse]
+"Chihiro-san... where...? Where are you...? Chihiro-san...[r]
+Chihiro-san...!"[pcms]
 
 *6148|
 [fc]
-ふらふらと、学園内をさまよい歩く七瀬。[r]
-どこかから響いてくる悲鳴と嬌声が、[r]
-広い校庭を風と共に渡っていく。[pcms]
+Wandering aimlessly inside the school, Nanase staggered[r]
+around. Screams and moans echoed from somewhere, drifting[r]
+across the wide schoolyard with the wind.[pcms]
 
 *6149|
 [fc]
-だが、そんな声もすでに七瀬の耳には届かなくなって[r]
-いるようで、ただひたすらに千尋の姿を求めてさまよ[r]
-っている。[pcms]
+But such voices no longer reached Nanase's ears; she just[r]
+wandered desperately seeking Chihiro's figure.[pcms]
 
 *6150|
 [fc]
 [vo_mob s="nanasse0006"]
-[ns]七瀬[nse]
-「ああ……はぁぁ……ふぁ、はぁ、はぁ……あふっ、[r]
-　くうぅ……あつい……からだ、あついよぉぉ……[r]
-　だれかぁ……おねがいぃ……」[pcms]
+[ns]Nanase[nse]
+"Aah... haaa... fah, haa, haa... ahfuh, kuuu... my body's[r]
+hot, so hot... someone please..."[pcms]
 
 *6151|
 [fc]
-淀み、濁った瞳で落ち着きなく周囲を見渡し、人影を[r]
-求める。[pcms]
+With clouded and restless eyes, she looked around for[r]
+someone's figure.[pcms]
 
 *6152|
 [fc]
 [vo_mob s="nanasse0007"]
-[ns]七瀬[nse]
-「あ……ひぅぅ……だれか……だれかぁ……だれか[r]
-　いないのぉ……？　だれでもいいから、ほしいの、[r]
-　オチンチンでもオマンコでも……ふうぅんっ！」[pcms]
+[ns]Nanase[nse]
+"Ah... hiuuu... someone... is there anyone there...? Anyone[r]
+is fine, I want it, whether it's a dick or a pussy...[r]
+fuuuhn!"[pcms]
 
 *6153|
 [fc]
-へなへなと、崩れ落ちるようにしてその場に座り込ん[r]
-でしまう七瀬。[pcms]
+Weakly collapsing to the ground, Nanase sat down.[pcms]
 
 *6154|
 [fc]
-指先は自然と秘所へと伸び、ブルマの上からでもはっ[r]
-きりと分かるほどに濡れたそこを弄り始めた。[pcms]
+Her fingers naturally reached for her secret place, and she[r]
+began to play with herself through her bloomers, which were[r]
+clearly wet even from the outside.[pcms]
 
 *6155|
 [fc]
 [vo_mob s="nanasse0008"]
-[ns]七瀬[nse]
-「ふぁっ、あっ、はひっ……くふぅぅっ！[r]
-　んひっ、はぁっ、あああっ！」[pcms]
+[ns]Nanase[nse]
+"Fahh, ahh, hihh... kufuuu! Nhih, haaah, aaaaah!"[pcms]
 
 *6156|
 [fc]
 [vo_mob s="nanasse0009"]
-[ns]七瀬[nse]
-「オマンコのおく……ジンジンするのに……[r]
-　ああっ、ゆびじゃ……たりないぃ！」[pcms]
+[ns]Nanase[nse]
+"My pussy's inside... it's tingling... aahh, fingers aren't[r]
+enough!"[pcms]
 
 ;//SE：草むらが揺れる音（？）
 [se0 storage="SE56"]
@@ -180,41 +174,38 @@
 *6157|
 [fc]
 [vo_mob s="nanasse0010"]
-[ns]七瀬[nse]
-「！？　だれ？　だれかいるの！？」[pcms]
+[ns]Nanase[nse]
+"!? Who's there? Is someone there!?"[pcms]
 
 *6158|
 [fc]
-[ns]男子生徒[nse]
-「うわっ！？　あ……ご、ごめんなさい！[r]
-　見るつもりじゃ……っていうか……あなたも……」[pcms]
+[ns]Male Student[nse]
+"Wow!? Ah... so-sorry! I didn't mean to look... I mean...[r]
+you too..."[pcms]
 
 *6159|
 [fc]
 [vo_mob s="nanasse0011"]
-[ns]七瀬[nse]
-「ふふ……うふふ……やっと、やっとみつけたぁ……[r]
-　ねえ……しよ♪　ねえぇ……オマンコ、[r]
-　オチンチンでいっぱいにしてぇ？」[pcms]
+[ns]Nanase[nse]
+"Fufu... ufufu... finally found someone... hey... let's do[r]
+it♪ Heyyy... fill my pussy up with your dick?"[pcms]
 
 *6160|
 [fc]
-[ns]男子生徒[nse]
-「だ……駄目ですよ、そんなの……[r]
-　やめましょう……ね？」[pcms]
+[ns]Male Student[nse]
+"No... that's not right, we shouldn't do this... okay?"[pcms]
 
 *6161|
 [fc]
 [vo_mob s="nanasse0012"]
-[ns]七瀬[nse]
-「ふふふ……だぁめ♪　わたしといっしょに[r]
-　キモチよくなろうよぉ……[r]
-　オチンチンでじゅぽじゅぽしてよぉぉっ！」[pcms]
+[ns]Nanase[nse]
+"Fufufu... no way♪ Let's feel good together... pump me with[r]
+your dick hard and fast!"[pcms]
 
 *6162|
 [fc]
-[ns]男子生徒[nse]
-「うわ……あ……あああぁぁぁぁぁぁっ！！」[pcms]
+[ns]Male Student[nse]
+"Uwah... ah... aaaaaaahhh!!"[pcms]
 
 ;//♪：bgm011　stop
 [fadeoutbgm time=1][wb]
@@ -248,100 +239,90 @@
 *6163|
 [fc]
 [vo_mob s="nanasse0013"]
-[ns]七瀬[nse]
-「ふあ……あ、ああ……あうううううんっ！[r]
-　はぁぁ……はいってるぅ……オマンコの中……[r]
-　オチンチンはいってるぅぅ……」[pcms]
+[ns]Nanase[nse]
+"Fuaa... ah, aah... auuuuuun! Haaaah... it's inside me...[r]
+the dick is inside my pussy..."[pcms]
 
 *6164|
 [fc]
-[ns]男子生徒[nse]
-「うあ……ううう……！」[pcms]
+[ns]Male Student[nse]
+"Uwa... uuuu...!"[pcms]
 
 *6165|
 [fc]
 [vo_mob s="nanasse0014"]
-[ns]七瀬[nse]
-「うふふ……おっきいのにキレイないろのおちんちん[r]
-　だったけど……もしかして、はじめてだった……？」[pcms]
+[ns]Nanase[nse]
+"Ufufu... such a big and pretty colored dick but... could it[r]
+be your first time?"[pcms]
 
 *6166|
 [fc]
-[ns]男子生徒[nse]
-「うっ……くぅぅ……[r]
-　そ、そんな……そんなこと……」[pcms]
+[ns]Male Student[nse]
+"Ugh... kuuu... that's not... such a thing..."[pcms]
 
 *6167|
 [fc]
 [vo_mob s="nanasse0015"]
-[ns]七瀬[nse]
-「あははははは、かわいい～♪[r]
-　はじめてだったんだぁ♪[r]
-　オチンチン、はじめてつかったんだぁ♪」[pcms]
+[ns]Nanase[nse]
+"Ahahahaha, how cute~♪ It was your first time♪ You used your[r]
+dick for the first time♪"[pcms]
 
 *6168|
 [fc]
 [vo_mob s="nanasse0016"]
-[ns]七瀬[nse]
-「あはぁ、どーてーチンチンもらっちゃったぁ♪[r]
-　んくっ、うふっ、ふぅぅんっ……[r]
-　オマンコのなかでオチンチンぴくぴくしてるよぉ♪」[pcms]
+[ns]Nanase[nse]
+"Ahaha, I got your virgin dick♪ Nghk, ufuh, fuuun... your[r]
+dick is twitching inside my pussy♪"[pcms]
 
 *6169|
 [fc]
 [vo_mob s="nanasse0017"]
-[ns]七瀬[nse]
-「ど～ぉ？　はじめてのオマンコ、キモチイイ？[r]
-　わたしのオマンコぐちゅぐちゅで、[r]
-　キモチイイでしょ？　んくっ……あっ、はふぅっ」[pcms]
+[ns]Nanase[nse]
+"How is it? Does your first pussy feel good? My pussy is so[r]
+wet and squishy, it feels good right? Nghk... ah, hafuuu"[pcms]
 
 *6170|
 [fc]
-[ns]男子生徒[nse]
-「うくっ、はっ、んんんっ……[r]
-　だ、駄目だ、こんなの……こんなことしてたら、[r]
-　あの連中みたいに、おかしくなって……くぅっ！」[pcms]
+[ns]Male Student[nse]
+"Ughk, hah, nnnnnh... that's bad, doing this kind of thing[r]
+will make me go crazy like those guys... kuuu!"[pcms]
 
 *6171|
 [fc]
 [vo_mob s="nanasse0018"]
-[ns]七瀬[nse]
-「あら、どうして？[r]
-　いいじゃない、キモチイイんだから……[r]
-　ふぅっ、はぁっ、あっ、あんんっ！」[pcms]
+[ns]Nanase[nse]
+"Oh why? It's fine because it feels good... fuuhh, haaah,[r]
+ah, annnh!"[pcms]
 
 *6172|
 [fc]
 [vo_mob s="nanasse0019"]
-[ns]七瀬[nse]
-「はひっ、ひっ、ひぐぅっ！[r]
-　おくまで……おくにあたってるぅ！」[pcms]
+[ns]Nanase[nse]
+"Hihh, hihh, higuuuh! It's hitting deep inside me!"[pcms]
 
 *6173|
 [fc]
-[ns]男子生徒[nse]
-「うわぁぁっ、グニグニって……[r]
-　チンポに絡みついて……っ！[r]
-　くぅっ……ぅぅぅっ！」[pcms]
+[ns]Male Student[nse]
+"Uwaaaahh, it's wriggling around my dick...! Kuuuhh...[r]
+uuuuh!"[pcms]
 
 *6174|
 [fc]
 [vo_mob s="nanasse0020"]
-[ns]七瀬[nse]
-「んはっ、はっ、はくぅっ……[r]
-　んんっ、オチンチンおっきくなってきてるぅ……[r]
-　ふぅぅっ、オマンコのなかいっぱいに……ひぅんっ！」[pcms]
+[ns]Nanase[nse]
+"Nhhahh, hahh, hakuhh... Nnnh, your dick is getting bigger[r]
+inside me... fuuuhh, filling up my pussy inside... hiuun!"[pcms]
 
 *6175|
 [fc]
-[ns]男子生徒[nse]
-「あっ、あぐっ……んあっ、はっ……うああっ！」[pcms]
+[ns]Male Student[nse]
+"Ah, aguhh... n-ahh, hahh... uaaaah!"[pcms]
 
 *6176|
 [fc]
 [vo_mob s="nanasse0021"]
-[ns]七瀬[nse]
-「くひっ！　んくっ、ふっ……はひっ、ひぅぅっ！」[pcms]
+[ns]Nanase[nse]
+"Kuhik! Nghk, fuhh... hihh, hiuuuh!"[pcms]
 
 ;[射精フラA]
 ;イベントCG射精差分
@@ -351,59 +332,57 @@
 
 *6177|
 [fc]
-ビクビクと、七瀬がまたがった男子生徒の腰が激しく[r]
-跳ね、悲鳴にも似た叫びがその口から噴き出した。[pcms]
+The hips of the male student Nanase was straddling jerked[r]
+violently as he let out a scream that resembled a cry of[r]
+agony.[pcms]
 
 *6178|
 [fc]
 [vo_mob s="nanasse0022"]
-[ns]七瀬[nse]
-「あぁん……あついぃ……[r]
-　おなかのなか、せいえきでてるぅ……[r]
-　もうでちゃったの？　はやいよぉ……♪」[pcms]
+[ns]Nanase[nse]
+"Aaahn... it's hot... my stomach is filled with semen... did[r]
+you already come? That was quick..."[pcms]
 
 *6179|
 [fc]
-[ns]男子生徒[nse]
-「はぁ……はぁ……うっ、ううう……」[pcms]
+[ns]Male Student[nse]
+"Haa... haa... ugh, uuuu..."[pcms]
 
 *6180|
 [fc]
 [vo_mob s="nanasse0023"]
-[ns]七瀬[nse]
-「あぁん……もうっ、オマンコのなかで[r]
-　オチンチンなえてきちゃってるじゃないのぉ。[r]
-　ダメよ、まだまだなんだから……」[pcms]
+[ns]Nanase[nse]
+"Aaahn... come on now, your dick is getting soft inside my[r]
+pussy. That won't do; we're not done yet..."[pcms]
 
 *6181|
 [fc]
 [vo_mob s="nanasse0024"]
-[ns]七瀬[nse]
-「ひとりでキモチよくなるなんて、ダメなんだからぁ。[r]
-　もっとわたしもキモチよくしてよぉ」[pcms]
+[ns]Nanase[nse]
+"It's not nice to feel good all by yourself. Make me feel[r]
+good too"[pcms]
 
 *6182|
 [fc]
 [vo_mob s="nanasse0025"]
-[ns]七瀬[nse]
-「おとこのこでしょう？[r]
-　さっきまでわたしをおかしてたひとたちは……[r]
-　もっともっと、まんぞくさせてくれたのにぃ」[pcms]
+[ns]Nanase[nse]
+"You're a boy aren't you? The people who were raping me[r]
+until just now made me feel much more satisfied..."[pcms]
 
 *6183|
 [fc]
-眉間に皺を寄せ、これ以上ないほど不満そうな顔にな[r]
-る七瀬。[pcms]
+Nanase furrowed her brows, her face the very picture of[r]
+dissatisfaction.[pcms]
 
 *6184|
 [fc]
-そんな表情に圧されてか、男子生徒の表情が情けなく[r]
-歪む。[pcms]
+Perhaps intimidated by her expression, the male student's[r]
+face twisted pitifully.[pcms]
 
 *6185|
 [fc]
-そんな男子生徒を見つめながら、その尻にあてがわれた[r]
-七瀬の手が、男子生徒の尻をなぞり……[pcms]
+While staring at the male student, Nanase's hand, which was[r]
+placed on his butt, began to trace it...[pcms]
 
 ;//★ＣＧ：男子学生を押し倒し騎乗位になる七瀬　差分：Ａ
 [evcg storage="HEV912c"][trans_c cross time=301]
@@ -411,80 +390,73 @@
 *6186|
 [fc]
 [vo_mob s="nanasse0026"]
-[ns]七瀬[nse]
-「えいっ！」[pcms]
+[ns]Nanase[nse]
+"Ei!"[pcms]
 
 *6187|
 [fc]
-[ns]男子生徒[nse]
-「あうっ、う、うわっ！」[pcms]
+[ns]Male Student[nse]
+"Auh, ugh, uwah!"[pcms]
 
 *6188|
 [fc]
 [vo_mob s="nanasse0027"]
-[ns]七瀬[nse]
-「あはは～♪　オチンチンビクってなったぁ♪[r]
-　おしりのあなにゆびいれられて、[r]
-　キモチイイの～？」[pcms]
+[ns]Nanase[nse]
+"Ahaha~♪ Your dick twitched♪ Does it feel good having a[r]
+finger in your ass?"[pcms]
 
 *6189|
 [fc]
-[ns]男子生徒[nse]
-「うくっ、あ、あぃ……ぃぅぅ……っ！」[pcms]
+[ns]Male Student[nse]
+"Ukuh, ah, aii...uuu...!"[pcms]
 
 *6190|
 [fc]
 [vo_mob s="nanasse0028"]
-[ns]七瀬[nse]
-「ここ？　こっち？　こっちのほうがキモチイイ～？[r]
-　あははっ、おしりのなかグニグニ～♪」[pcms]
+[ns]Nanase[nse]
+"Here? This side? Does this side feel better~? Ahaha, your[r]
+insides are squishing~♪"[pcms]
 
 *6191|
 [fc]
-[ns]男子生徒[nse]
-「あくっ、ひっ……うあっ、あっ、あああっ！」[pcms]
+[ns]Male Student[nse]
+"Akkuh, hih...uah, ah, aaaaah!"[pcms]
 
 *6192|
 [fc]
 [vo_mob s="nanasse0029"]
-[ns]七瀬[nse]
-「あふっ、ひぁっ、きゃふっ、くぅんっ！[r]
-　うあっ、はっ、はふっ……ひぁぁっ！」[pcms]
+[ns]Nanase[nse]
+"Afuh, hiah, kyafuh, kuun! Uah, hah, hafuh...hiaaah!"[pcms]
 
 *6193|
 [fc]
 [vo_mob s="nanasse0030"]
-[ns]七瀬[nse]
-「うんんっ、またオチンチンおっきくなって……[r]
-　ああっ、ひゃうぅっ！」[pcms]
+[ns]Nanase[nse]
+"Unnh, your dick is getting bigger again... aahh, hyauuun!"[pcms]
 
 *6194|
 [fc]
 [vo_mob s="nanasse0031"]
-[ns]七瀬[nse]
-「んあっ、はひっ、いいっ！　もっとこすって……[r]
-　オマンコのかべもおくもいっぱい……[r]
-　オチンチンでこすってぇっ！」[pcms]
+[ns]Nanase[nse]
+"Nahh, hahih, good! Rub more... rub against the walls and[r]
+depths of my pussy with your dick!"[pcms]
 
 *6195|
 [fc]
-[ns]男子生徒[nse]
-「くっ、ぐぅぅ……っ！[r]
-　ああっ、も、もう……っ！」[pcms]
+[ns]Male Student[nse]
+"Kuh, guuu...! Aahh, I'm...I'm already...!"[pcms]
 
 *6196|
 [fc]
 [vo_mob s="nanasse0032"]
-[ns]七瀬[nse]
-「ふぁっ、はぁっ、ああんっ！　うふ……イクの？[r]
-　またオマンコのなかでドピュドピュしちゃうの？[r]
-　あぅぅ……いいよ、いっぱいだしてぇ……っ！」[pcms]
+[ns]Nanase[nse]
+"Fahh, hahh, aaahn! Ufu...are you coming? Are you going to[r]
+spurt inside my pussy again? Auu...go ahead, let it out..."[pcms]
 
 *6197|
 [fc]
-[ns]男子生徒[nse]
-「くぁっ！　そんな奥まで指……っ！[r]
-　ひぅっ！　ぐっ……あぅぅっ！」[pcms]
+[ns]Male Student[nse]
+"Quah! Your finger is so deep...! Hiuu! Guh...auuu!"[pcms]
 
 ;[射精フラA]
 ;イベントCG射精差分
@@ -495,37 +467,33 @@
 *6198|
 [fc]
 [vo_mob s="nanasse0033"]
-[ns]七瀬[nse]
-「んくっ！　はうっ！　[r]
-　ああっ、はっ、あふぅぅっ……！[r]
-　あんっ、ふぁ……あはぁ……」[pcms]
+[ns]Nanase[nse]
+"Nkuh! Hauh! Aaahh, hah, afuuu...! Ahn, fah...ahaha..."[pcms]
 
 *6199|
 [fc]
 [vo_mob s="nanasse0034"]
-[ns]七瀬[nse]
-「ああ……またいっぱいでたね……♪[r]
-　おなかのなかせいえきでいっぱいだよぉ♪　[r]
-　オマンコのすみずみに、せいえきしみちゃうぅ♪」[pcms]
+[ns]Nanase[nse]
+"Aah...you came a lot again...♪ My stomach is full of semen♪[r]
+It's seeping into every corner of my pussy♪"[pcms]
 
 *6200|
 [fc]
-[ns]男子生徒[nse]
-「うぁ……ぁぁ……は……はぐ……ぅぅぅ……」[pcms]
+[ns]Male Student[nse]
+"Ua...aa...ha...hagu...uuu..."[pcms]
 
 *6201|
 [fc]
 [vo_mob s="nanasse0035"]
-[ns]七瀬[nse]
-「ほら、みえる……？　ちょっと動かすだけで、[r]
-　トロトロってせいえきあふれてくよ♪[r]
-　オマンコから、キミのせいえきが……」[pcms]
+[ns]Nanase[nse]
+"Look, can you see it...? Just a little movement and the[r]
+semen overflows. From my pussy, your semen is..."[pcms]
 
 *6202|
 [fc]
-[ns]男子生徒[nse]
-「くぅ……は……ああ……も、もう……もうやめ……[r]
-　こんなの……こんなのは……」[pcms]
+[ns]Male Student[nse]
+"Ku...ha...aaah...stop...stop it already...this is...this is[r]
+too much..."[pcms]
 
 ;//★ＣＧ：男子学生を押し倒し騎乗位になる七瀬　差分：Ａ
 [evcg storage="HEV912c"][trans_c cross time=301]
@@ -533,173 +501,157 @@
 *6203|
 [fc]
 [vo_mob s="nanasse0036"]
-[ns]七瀬[nse]
-「あぅんっ、そんなのだめぇ。[r]
-　だって、キミばっかりイってるなんでずるぅい。[r]
-　わたしがイクまでダメよ♪」[pcms]
+[ns]Nanase[nse]
+"Auhn! No way. It's not fair for you to come all by[r]
+yourself. You can't stop until I come too♪"[pcms]
 
 *6204|
 [fc]
-[ns]男子生徒[nse]
-「ひ……うぐっ、あ……ぎぃ……っ」[pcms]
+[ns]Male Student[nse]
+"Hi...uguh, ah...gii...!"[pcms]
 
 *6205|
 [fc]
 [vo_mob s="nanasse0037"]
-[ns]七瀬[nse]
-「うふふ……いいかおしてるぅ♪　だいじょーぶ♪　[r]
-　すぐにやみつきになっちゃうから……[r]
-　わたしもそうだったよ♪」[pcms]
+[ns]Nanase[nse]
+"Ufufu...you're making such a nice face♪ Don't worry♪ You'll[r]
+get addicted to it soon... I did too♪"[pcms]
 
 *6206|
 [fc]
 [vo_mob s="nanasse0038"]
-[ns]七瀬[nse]
-「いっぱいのおとこのひとたちにおかされて……[r]
-　キモチよくなって……はぁ、おもいだしたら、[r]
-　おなかのおくがムズムズって……♪」[pcms]
+[ns]Nanase[nse]
+"Raped by so many men...feeling good...haa, just thinking[r]
+about it makes my insides tingle♪"[pcms]
 
 *6207|
 [fc]
 [vo_mob s="nanasse0039"]
-[ns]七瀬[nse]
-「ほらぁ、はやくオチンチンかたくしてよぉ！[r]
-　オマンコズンズンついてよぉ！」[pcms]
+[ns]Nanase[nse]
+"Come on, make your dick hard again! Pound my pussy hard!"[pcms]
 
 *6208|
 [fc]
-[ns]男子生徒[nse]
-「も、もう……もう無理……二回も出して……」[pcms]
+[ns]Male Student[nse]
+"I can't anymore...I've already come twice..."[pcms]
 
 *6209|
 [fc]
 [vo_mob s="nanasse0040"]
-[ns]七瀬[nse]
-「あははははは、そんなわけないじゃん♪[r]
-　まだまだでるでしょ？[r]
-　ほらほらこんどはチクビもかな♪」[pcms]
+[ns]Nanase[nse]
+"Ahahaha, that's impossible♪ You can still come more, right?[r]
+Look, this time I'll even play with your nipples♪"[pcms]
 
 *6210|
 [fc]
-[ns]男子生徒[nse]
-「ひっ……うぁっ！　あっ、くぅっ……！」[pcms]
+[ns]Male Student[nse]
+"Hih...uah! Ah, kuh...!"[pcms]
 
 *6211|
 [fc]
 [vo_mob s="nanasse0041"]
-[ns]七瀬[nse]
-「あははははははは♪[r]
-　ほらオチンチンかたくなってきた♪」[pcms]
+[ns]Nanase[nse]
+"Ahahahahaha♪ Look, your dick is getting hard again♪"[pcms]
 
 *6212|
 [fc]
 [vo_mob s="nanasse0042"]
-[ns]七瀬[nse]
-「ドロドロオマンコきもちいいでしょ？[r]
-　わたしのあいえきと[r]
-　キミのせいえきでドロドロの！」[pcms]
+[ns]Nanase[nse]
+"Does my sloppy pussy feel good? It's all gooey with my love[r]
+juices and your semen!"[pcms]
 
 *6213|
 [fc]
-[ns]男子生徒[nse]
-「くひっ……ぃぎ……ぁぁ……」[pcms]
+[ns]Male Student[nse]
+"Kuhik...igii...aaah..."[pcms]
 
 *6214|
 [fc]
 [vo_mob s="nanasse0043"]
-[ns]七瀬[nse]
-「んくっ、くふっ、はっ、あくぅ……[r]
-　もっともっと、[r]
-　オチンチンぎゅうぎゅうしてあげるよ♪」[pcms]
+[ns]Nanase[nse]
+"Nkuh, kufuh, hah, akuu... I'll squeeze your dick even[r]
+tighter♪"[pcms]
 
 *6215|
 [fc]
 [vo_mob s="nanasse0044"]
-[ns]七瀬[nse]
-「オマンコのヒダヒダで[r]
-　オチンチンつぶれちゃうくらい……[r]
-　ぎゅうっ、ぎゅううっ……って♪」[pcms]
+[ns]Nanase[nse]
+"With the folds of my pussy until your dick feels like it's[r]
+going to be crushed... gyuuu, gyuuuu...♪"[pcms]
 
 *6216|
 [fc]
-[ns]男子生徒[nse]
-「ぎひっ……んあっ、ああっ……[r]
-　痛っ、締まる……ぅぐ……っ！」[pcms]
+[ns]Male Student[nse]
+"Gihik...nahh, ahhhh... It hurts, it's tightening...ugu...!"[pcms]
 
 *6217|
 [fc]
 [vo_mob s="nanasse0045"]
-[ns]七瀬[nse]
-「はぁっ、ぁぁんっ！　ふぁっ、くふっ、んんっ！[r]
-　はふっ、ふぅん……っ！[r]
-　ああっ、イイっ、イイよぉ……っ！」[pcms]
+[ns]Nanase[nse]
+"Hahh, aahn! Fahh, kufuh, nnn! Hafuh, fuun...! Aaahh, it[r]
+feels good, it feels so good...!"[pcms]
 
 *6218|
 [fc]
 [vo_mob s="nanasse0046"]
-[ns]七瀬[nse]
-「もっとうごいてっ……[r]
-　もっとオマンコズンズンしてぇっ！」[pcms]
+[ns]Nanase[nse]
+"Move more... Pound my pussy harder!"[pcms]
 
 *6219|
 [fc]
 [vo_mob s="nanasse0047"]
-[ns]七瀬[nse]
-「おなかのおくやぶれるくらい……[r]
-　いっぱいいっぱい……きひっ！　ひゃぅぅんっ！」[pcms]
+[ns]Nanase[nse]
+"Like you're going to tear apart the depths of my stomach...[r]
+more and more... kihik! Hyauuun!"[pcms]
 
 *6220|
 [fc]
-ガクガクと痙攣するようにして腰を動かす男子生徒。[pcms]
+The male student moved his hips in convulsions as if they[r]
+were spasming.[pcms]
 
 *6221|
 [fc]
-その動きにあわせ、上から腰を叩きつける[r]
-七瀬の口からは、とめどなく嬌声が溢れ出し、[r]
-無人の学園内に響き渡る。[pcms]
+With each movement he made, Nanase pounded down from above.[r]
+Endless moans spilled from her lips and echoed through the[r]
+empty school.[pcms]
 
 *6222|
 [fc]
 [vo_mob s="nanasse0048"]
-[ns]七瀬[nse]
-「んひっ！　きゃうっ、はあっ、はふぅんっ！[r]
-　ああっ！　オチンチンのさきが……はいるっ！[r]
-　はいっちゃうぅんっ！」[pcms]
+[ns]Nanase[nse]
+"Nhih! Kyauh, hahh, hafuun! Aaah! The tip of your dick is[r]
+going in! It's going in!"[pcms]
 
 *6223|
 [fc]
 [vo_mob s="nanasse0049"]
-[ns]七瀬[nse]
-「おなかのおくっ……[r]
-　しきゅうまではいっちゃうぅっ！[r]
-　あぐっ、ふぁっ！　ぎひぃぃぃっ！」[pcms]
+[ns]Nanase[nse]
+"The depths of my stomach... it's reaching my womb! Aguh,[r]
+fah! Gihiiii!"[pcms]
 
 *6224|
 [fc]
-[ns]男子生徒[nse]
-「うあっ、ひっ……ぐぁっ、かっ……[r]
-　はふっ、はふぅぅっ！」[pcms]
+[ns]Male Student[nse]
+"Uahh, hih...guahh, kah... hafuh, hafuuu!"[pcms]
 
 *6225|
 [fc]
 [vo_mob s="nanasse0050"]
-[ns]七瀬[nse]
-「いっ……イイっ！　イクっ！　イっちゃうぅっ！[r]
-　せいえきいっぱいのオマンコで……イクっ！[r]
-　イクのぉぉっ！」[pcms]
+[ns]Nanase[nse]
+"Ihh...It feels good! I'm coming! I'm going to come! With my[r]
+pussy full of semen...I'm coming! I'm cominggg!"[pcms]
 
 *6226|
 [fc]
-[ns]男子生徒[nse]
-「ぐぁっ！　ひぎっ、がっ……ああああああっ！」[pcms]
+[ns]Male Student[nse]
+"Guah! Higik, gah...aaaaaaaah!"[pcms]
 
 *6227|
 [fc]
 [vo_mob s="nanasse0051"]
-[ns]七瀬[nse]
-「あうっ！　ひぃっ……イっ……ああっ！　くふっ！[r]
-　イクっ！　うぁっ！　はひっ……ぃぃぃ……[r]
-　ぃああああぁぁぁぁぁぁぁっっ！！！」[pcms]
+[ns]Nanase[nse]
+"Auh! Hiih...I'm coming...aaah! Kufuh! I'm coming! Uahh![r]
+Hihh...iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii!!!"[pcms]
 
 ;[射精フラA]
 ;イベントCG射精差分
@@ -710,27 +662,26 @@
 *6228|
 [fc]
 [vo_mob s="nanasse0052"]
-[ns]七瀬[nse]
-「ぅぁ……ぁ、ぁんっ……イっ……ちゃったぁ……♪[r]
-　オマンコのおくのおく……しきゅうにいっぱい……[r]
-　せいえきだされて……はぁぁ……」[pcms]
+[ns]Nanase[nse]
+"Ua...ahn...I came...♪ The very depths of my pussy...my womb[r]
+is filled with semen...haaa..."[pcms]
 
 *6229|
 [fc]
 [vo_mob s="nanasse0053"]
-[ns]七瀬[nse]
-「あつい……あついよぉ……[r]
-　からだのまんなか……やけどしちゃいそう……♪」[pcms]
+[ns]Nanase[nse]
+"It's hot...it's so hot inside me...like the center of my[r]
+body is burning up...♪"[pcms]
 
 *6230|
 [fc]
-緩んだ子宮口から精液を流し込まれ、[r]
-その快感にビクビクと身体を打ち震えさせる七瀬。[r]
-欲望で淀んだ瞳に、満足そうな色が浮かぶ。[pcms]
+Nanase's body trembled as she was filled with semen through[r]
+her relaxed cervix. A look of satisfaction appeared in her[r]
+lust-clouded eyes.[pcms]
 
 *6231|
 [fc]
-だが……[pcms]
+But...[pcms]
 
 ;//★ＣＧ：男子学生を押し倒し騎乗位になる七瀬　差分：Ａ
 [evcg storage="HEV912c"][trans_c cross time=301]
@@ -738,71 +689,65 @@
 *6232|
 [fc]
 [vo_mob s="nanasse0054"]
-[ns]七瀬[nse]
-「んきゅっ！　ふぁ……あっ、あんっ！[r]
-　オチンチン……またおおきく……っ！[r]
-　はひっ、いっ、くひぃっ！」[pcms]
+[ns]Nanase[nse]
+"Nkyuh! Fah...ahh, ahn! Your dick is getting bigger again![r]
+Hihik, ihk, kuhii!"[pcms]
 
 *6233|
 [fc]
-[ns]男子生徒[nse]
-「ふっ……ふぅぅっ！[r]
-　もっと……もっとしゃせいするっ！[r]
-　もっとオマンコずぷずぷするっ！」[pcms]
+[ns]Male Student[nse]
+"Fuh...fuuh! More...I'm going to ejaculate more! I'm going[r]
+to thrust into your pussy more!"[pcms]
 
 *6234|
 [fc]
-すぐに七瀬の瞳から満足の色は消え去り、底知れない[r]
-渇望に取って代わった。[pcms]
+The look of satisfaction quickly vanished from Nanase's[r]
+eyes, replaced by an insatiable craving.[pcms]
 
 *6235|
 [fc]
-そして、それは男子生徒の剥き出しになった瞳にも浮[r]
-かび上がり――[pcms]
+And that same craving surfaced in the exposed eyes of the[r]
+male student--[pcms]
 
 *6236|
 [fc]
-[ns]男子生徒[nse]
-「うぐっ！　はっ、はっ、あぐっ、おおっ！」[pcms]
+[ns]Male Student[nse]
+"Uguh! Hah, hah, aguh, ooh!"[pcms]
 
 *6237|
 [fc]
 [vo_mob s="nanasse0055"]
-[ns]七瀬[nse]
-「ひぁっ！　はぐっ！　あひっ、きゃふぅっ！[r]
-　んあっ、はひっ……ぐぅっ……ぅぅうんっ！」[pcms]
+[ns]Nanase[nse]
+"Hiyah! Haguh! Ahih, kyafuu! Nnah, hahih...guuh...uun!"[pcms]
 
 *6238|
 [fc]
 [vo_mob s="nanasse0056"]
-[ns]七瀬[nse]
-「オチンチンっ！[r]
-　もっともっとオチンチン～～～～～～っ！！」[pcms]
+[ns]Nanase[nse]
+"Dick! More and more dick~~~~~~!!"[pcms]
 
 *6239|
 [fc]
-白目を剥き、ゴポゴポと膣口から精液を吐き出しなが[r]
-ら必死で腰を振る七瀬。[pcms]
+Nanase, with her eyes rolled back, desperately gyrated her[r]
+hips while spewing semen from her vaginal opening.[pcms]
 
 *6240|
 [fc]
-その下で七瀬の膣内をペニスで擦り上げ、突き上げる[r]
-男子生徒は、口の端から泡を吹き出しながら、勝手な[r]
-快感を貪ろうとする。[pcms]
+Beneath her, the male student rubbed and thrust his penis[r]
+inside Nanase's vagina, foaming at the mouth as he greedily[r]
+indulged in his own pleasure.[pcms]
 
 *6241|
 [fc]
-[ns]男子生徒[nse]
-「ひぐっ！　あっ！　がぁぁっ！[r]
-　うぐっ、ふぅぅっ！」[pcms]
+[ns]Male Student[nse]
+"Higuh! Ah! Gaah! Uguh, fuuuh!"[pcms]
 
 *6242|
 [fc]
 [vo_mob s="nanasse0057"]
-[ns]七瀬[nse]
-「あはっ！　あんっ、きゃひぃっ！　オマンコっ！[r]
-　おおっ……お、オマンコぉぉっ！[r]
-　オチンチンで……もっとぉぉぉっ！」[pcms]
+[ns]Nanase[nse]
+"Ahah! Ahn, kyahi! Pussy! Ooh...oh, my pussy! With your[r]
+dick...moreeee!"[pcms]
 
 ;//♪：m05　fade
 [fadeoutbgm time=1000]
@@ -815,21 +760,22 @@
 
 *6243|
 [fc]
-悲鳴とも怒号とも快感ともとれない――強いて言うな[r]
-ら獣のうなりでもと言うような声が、学園を渡る風に[r]
-乗り、崩壊した街へと流れていく。[pcms]
+A voice that could be taken for a scream, a shout of anger,[r]
+or pleasuremore aptly described as a beast's growlcarried[r]
+on the wind across the school and flowed into the ruined[r]
+city.[pcms]
 
 *6244|
 [fc]
-だが、誰も気にとめはしないだろう。[r]
-街中が、そんな声に満ち満ちているのだから。[pcms]
+But no one would pay it any mind. The city was already[r]
+filled with such cries.[pcms]
 
 ;//------------------------------------------------
 [if exp="tf.scene_mode==1"]
 	[jump storage="b_scene.ks" target=*back_from_SR]
 ;	[link storage=sceneAgain]もう一度見る[endlink]
 ;	[link storage=sceneList]一覧に戻る[endlink]
-;	[s]
+[pcms]
 [endif]
 
 *KAISOU_PASS

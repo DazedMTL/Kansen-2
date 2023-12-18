@@ -23,8 +23,8 @@
 
 *7232|
 [fc]
-[ns]大倉[nse]
-「なんだ？　コレ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"What's this...?"[pcms]
 
 ;//＠：広場
 ;//BG：崩壊した商店街
@@ -41,18 +41,18 @@
 
 *7233|
 [fc]
-裏口手前の庭園には、患者の乗っていない何台ものス[r]
-トレッチャーや、点滴を吊すスタンドが散乱していた。[pcms]
+In the garden in front of the back entrance, there were[r]
+several stretchers without patients and IV stands scattered[r]
+about.[pcms]
 
 *7234|
 [fc]
-なんだってこんな所に、こんな物が大量に散らばって[r]
-るんだ……？[pcms]
+Why are there so many things like this scattered around[r]
+here...?[pcms]
 
 *7235|
 [fc]
-俺らが目を覚ます前に、いったいなにが起こったんだ[r]
-ろう……。[pcms]
+What on earth happened before we woke up...?[pcms]
 
 ;//特殊BGS消去
 ;//[cutin storage="BGS001" x=0 y=0]
@@ -69,62 +69,63 @@
 *7236|
 [fc]
 [vo_kob s="koba0103"]
-[ns]小林[nse]
-「ヒロ！！」[pcms]
+[ns]Kobayashi[nse]
+"Hiro!!"[pcms]
 
 *7237|
 [fc]
-[ns]大倉[nse]
-「オマエら……」[pcms]
+[ns]Ookura[nse]
+"You guys..."[pcms]
 
 *7238|
 [fc]
-振り向くと、不安そうな顔で俺を見つめている、速水[r]
-とユウの姿があった。[pcms]
+When I turned around, I saw Hayami and Yuu looking at me[r]
+with anxious faces.[pcms]
 
 *7239|
 [fc]
-[ns]大倉[nse]
-「あの人どうしたんだよ」[pcms]
+[ns]Ookura Hiroshi[nse]
+"What happened to that person?"[pcms]
 
 [ChrSetEx layer=2 chbase="koba_n12"][ChrSetXY layer=2 x=0 y=0][trans_c cross time=150]
 
 *7240|
 [fc]
 [vo_kob s="koba0104"]
-[ns]小林[nse]
-「うん……」[pcms]
+[ns]Kobayashi[nse]
+"Yeah..."[pcms]
 
 *7241|
 [fc]
-ユウと目を合わせて、速水が頷く。[pcms]
+Yuu and I made eye contact, and Hayami nodded.[pcms]
 
 [ChrSetEx layer=3 chbase="hayami_t05"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
 
 *7242|
 [fc]
 [vo_hay s="hayami0117"]
-[ns]ありす[nse]
-「あの人……急にウゥ～ッ！　ってうなりだして、そ[r]
-　れに、すごいガタガタ震えてるの……。あたしたち[r]
-　じゃどうにもできないし、怖くて……」[pcms]
+[ns]Arisu[nse]
+"That person... suddenly started groaning 'Uuu~!' and then,[r]
+they started shaking violently... We couldn't do anything[r]
+about it, and it was scary..."[pcms]
 
 *7243|
 [fc]
-ユウはともかく、速水ならキモが据わってるから、残[r]
-しても大丈夫だと思ったんだけど……。[pcms]
+Yuu is one thing, but I thought Hayami would be calm enough[r]
+to leave behind... Or maybe I just forgot... that she's a[r]
+woman... I don't usually think about it...[pcms]
 
 *7244|
 [fc]
-いや、俺が忘れてただけか……。[r]
-コイツが女だって……。[r]
-普段は意識しねぇからな……。[pcms]
+No, maybe I just forgot... That she's a woman... I usually[r]
+don't think about it...[pcms]
 
 *7245|
 [fc]
-[ns]大倉[nse]
-「……とにかく、すぐに医者に報せに行こうぜ。今の[r]
-　話じゃ、傷が悪化してるみてーだし」[pcms]
+[ns]Ookura Hiroshi[nse]
+"...Anyway, let's go report to a doctor immediately. From[r]
+what you've said, it seems like the injury is getting[r]
+worse."[pcms]
 
 ;//＠：無し
 ;//BLACKOUT
@@ -133,8 +134,8 @@
 
 *7246|
 [fc]
-散乱しているストレッチャーを避けながら、俺らは出[r]
-入り口の自動ドアをくぐった。[pcms]
+Weaving through the scattered stretchers, we passed through[r]
+the automatic doors of the entrance.[pcms]
 
 [sysbt_meswin clear]
 [fadeoutbgm time=502][wb]
@@ -162,12 +163,12 @@
 
 *7247|
 [fc]
-俺の期待は、また裏切られた。[pcms]
+My expectations were betrayed once again.[pcms]
 
 *7248|
 [fc]
-ちゃんとした人間がいると思っていた病院の中には、[r]
-メイド喫茶と全く同じ光景があった。[pcms]
+Inside the hospital, where I thought there would be proper[r]
+people, was a scene exactly like that of a maid caf.[pcms]
 
 *KAISOU_START
 
@@ -179,358 +180,352 @@
 
 *7249|
 [fc]
-[ns]腕にギプスの患者[nse]
-「かんごふさぁん……ほらぁ、くちあけてよぉ……ち[r]
-　んぽつっこめれないだろぉ……？」[pcms]
+[ns]Patient with a cast on the arm[nse]
+"Nurse-san... come on, open your mouth... I can't put my[r]
+dick in if you don't..."[pcms]
 
 *7250|
 [fc]
 [vo_mob s="nurse0000"]
-[ns]ナース[nse]
-「いあああぁっ！！　お願い！　やめてください、こ[r]
-　んなこと……！！」[pcms]
+[ns]Nurse[nse]
+"Aaaaah!! Please! Stop it, don't do this...!!"[pcms]
 
 *7251|
 [fc]
-[ns]頭に包帯の患者[nse]
-「おらぁ……ぬげよ、おとなしくよぉ……！！」[pcms]
+[ns]Patient with a bandage on their head[nse]
+"Hey... take it off, be good...!!"[pcms]
 
 *7252|
 [fc]
-[ns]老患者[nse]
-「ほれほれぇ……したぎもぬいでしまおうのぅ……」[pcms]
+[ns]Elderly Patient[nse]
+"Here we go... let's take off your underwear too..."[pcms]
 
 *7253|
 [fc]
 [vo_mob s="nurse0001"]
-[ns]ナース[nse]
-「やめてください！！　みんな正気に戻って！！」[pcms]
+[ns]Nurse[nse]
+"Please stop!! Everyone come back to your senses!!"[pcms]
 
 *7254|
 [fc]
-ここでも、看護師らしい女１人を、何人もの男がよっ[r]
-てたかって犯していた。[pcms]
+Here too, a nurse-like woman was being assaulted by several[r]
+men.[pcms]
 
 *7255|
 [fc]
-１人……。[r]
-そうだ……看護師が１人だけだ……。[r]
-なら、他の看護師はどこへ行ったんだ……？[pcms]
+One person... That's right... there's only one nurse... So[r]
+where did the other nurses go...?[pcms]
 
 *7256|
 [fc]
-それを考えて、どうして裏口の前にストレッチャーが[r]
-散乱していたのか、わかった気がした。[pcms]
+Thinking about it, I felt like I understood why there were[r]
+stretchers scattered in front of the back entrance.[pcms]
 
 *7257|
 [fc]
-他の看護師は、患者を連れて逃げたのか……？[r]
-なら、このひとは逃げ遅れたのかもしれない……。[pcms]
+Did the other nurses escape with the patients...? Then, this[r]
+person might have been left behind...[pcms]
 
 *7258|
 [fc]
-[ns]傷跡が見える患者[nse]
-「かんごふさんのはだぁ……すべすべだぁ……」[pcms]
+[ns]Patient with visible scars[nse]
+"Nurse-san's skin... so smooth..."[pcms]
 
 *7259|
 [fc]
 [vo_mob s="nurse0002"]
-[ns]ナース[nse]
-「ひっ……！」[pcms]
+[ns]Nurse[nse]
+"Hii...!"[pcms]
 
 *7260|
 [fc]
-入院着の前をはだけさせ、下腹部の傷跡を晒している[r]
-男に、ナニを腹に擦りつけられ、看護師が小さく悲鳴[r]
-をあげた。[pcms]
+A man with scars on his lower abdomen exposed by his[r]
+hospital gown was rubbing his thing against her stomach, and[r]
+the nurse let out a small scream.[pcms]
 
 *7261|
 [fc]
-[ns]頭に包帯の患者[nse]
-「かんごふさん……ちゅぱぁ……きれいな、おっぱい[r]
-　だなぁ……ぁむ……っちゅ、ちゃぷっ……」[pcms]
+[ns]Patient with a bandage on their head[nse]
+"Nurse-san... slurp... such beautiful breasts... amu...[r]
+chup..."[pcms]
 
 *7262|
 [fc]
 [vo_mob s="nurse0003"]
-[ns]ナース[nse]
-「ひぁっ！！　やっ、やめ……っ！！」[pcms]
+[ns]Nurse[nse]
+"Hiaa!! Stop, please...!!"[pcms]
 
 *7263|
 [fc]
-頭に包帯を巻いた男には胸を、老人の患者には股間を[r]
-吸われ、看護師がそれから逃れようともがく。[pcms]
+The man with a bandage on his head sucked on her breasts[r]
+while an elderly patient sucked on her crotch, and the nurse[r]
+struggled to escape.[pcms]
 
 ;//ＳＥ：しめった音　ループ
 [se0 storage="SE52" loop=true]
 
 *7264|
 [fc]
-[ns]老患者[nse]
-「じゅる、ぷちゅぅ……んん～～……ひさびさのめす[r]
-　じるは、またかくべつじゃのぅ……！」[pcms]
+[ns]Elderly Patient[nse]
+"Slurp, puchu... mmm~... It's been a while since I've had[r]
+female juices, they're special indeed..."[pcms]
 
 *7265|
 [fc]
 [vo_mob s="nurse0004"]
-[ns]ナース[nse]
-「いやっ、いやあぁぁぁっ！！！！」[pcms]
+[ns]Nurse[nse]
+"No, nooo!!"[pcms]
 
 *7266|
 [fc]
-[ns]傷跡が見える患者[nse]
-「おへそにだしてあげようかぁ～～……」[pcms]
+[ns]Patient with visible scars[nse]
+"Shall I cum on your belly button~..."[pcms]
 
 *7267|
 [fc]
 [vo_mob s="nurse0005"]
-[ns]ナース[nse]
-「いやぁ……お願い、許してぇ……」[pcms]
+[ns]Nurse[nse]
+"No... please, have mercy..."[pcms]
 
 *7268|
 [fc]
-呆然と立ちつくす俺ら３人をよそに、頭のイカレた患[r]
-者と逃げ遅れたらしい看護師の、エロＤＶＤによくあ[r]
-るようなナースプレイは続けられた。[pcms]
+While we three stood there dumbfounded, the deranged patient[r]
+and the seemingly left-behind nurse continued with a nurse[r]
+play scene like something out of an adult DVD.[pcms]
 
 *7269|
 [fc]
-そういうものを、現実に自分の目で見ることになるな[r]
-んて、今この時まで、俺は想像もしていなかった。[pcms]
+I had never imagined that I would see such things in reality[r]
+until this very moment.[pcms]
 
 *7270|
 [fc]
-[ns]腕にギプスの患者[nse]
-「かんごふさぁん……ちんこのちょうしわるいんだぁ[r]
-　……ぬいて、なおしてくれよぉ～～……」[pcms]
+[ns]Patient with a cast on the arm[nse]
+"Nurse-san... my dick feels bad... take it off and fix it[r]
+for me~..."[pcms]
 
 *7271|
 [fc]
 [vo_mob s="nurse0006"]
-[ns]ナース[nse]
-「いや……いやぁ……っ！！」[pcms]
+[ns]Nurse[nse]
+"No... nooo...!!"[pcms]
 
 *7272|
 [fc]
-頭がイカレたせいで痛みを感じていないのか、片腕に[r]
-ギプスをはめた男は、両手で看護師の頭をガッチリと[r]
-固定し、ナニをゆっくりと近づけていった。[pcms]
+Whether he couldn't feel pain because his head was messed up[r]
+or not, the man with a cast on one arm firmly held the[r]
+nurse's head with both hands and slowly brought his thing[r]
+closer.[pcms]
 
 *7273|
 [fc]
-[ns]腕にギプスの患者[nse]
-「あぁ～……かんごふさぁん……はいってくよぉ……[r]
-　ほらぁ～……」[pcms]
+[ns]Patient with a cast on the arm[nse]
+"Ahh~... Nurse-san... it's going in... look~..."[pcms]
 
 *7274|
 [fc]
 [vo_mob s="nurse0007"]
-[ns]ナース[nse]
-「いぁ……ぁえっ……！！」[pcms]
+[ns]Nurse[nse]
+"No... ah..."[pcms]
 ;//◎いや……やめっ……！！（口を開けた状態で）
 
 *7275|
 [fc]
-興奮に目をギラつかせて、多分わざと、ギプスの男は[r]
-看護師の口の中に、ゆっくりとナニを押し込んでいっ[r]
-た。[pcms]
+With his eyes glittering with excitement, probably on[r]
+purpose, the man with the cast slowly pushed his thing into[r]
+the nurse's mouth.[pcms]
 
 *7276|
 [fc]
 [vo_mob s="nurse0008"]
-[ns]ナース[nse]
-「んおおおぉぉほおぉぉっ！！！！」[pcms]
+[ns]Nurse[nse]
+"Noooohh!!"[pcms]
 
 *7277|
 [fc]
-[ns]腕にギプスの患者[nse]
-「ほぉらぁ～……ぜんぶはいったよぉ～……かんごふ[r]
-　さぁん……」[pcms]
+[ns]Patient with a cast on the arm[nse]
+"Here~... it's all in now~... Nurse-san..."[pcms]
 
 *7278|
 [fc]
-うまく呼吸が出来ずに、目を見開いて苦しむ看護師の[r]
-様子を楽しむかのように、ギプスの男はゆっくりと腰[r]
-を動かし、ナニを出し入れする。[pcms]
+Unable to breathe properly and struggling with wide-open[r]
+eyes, the nurse seemed to be suffering as the man with the[r]
+cast enjoyed himself while slowly moving his hips in and[r]
+out.[pcms]
 
 *7279|
 [fc]
 [vo_mob s="nurse0009"]
-[ns]ナース[nse]
-「ぉぶうううぅぅぅっ！！　ぐちゅぅっ……んううう[r]
-　うぅぅ～～～……っ！！」[pcms]
+[ns]Nurse[nse]
+"Obuuuuu!! Guchuuu... nuuuu~...!!"[pcms]
 
 *7280|
 [fc]
-[ns]腕にギプスの患者[nse]
-「あぁ～～……かんごふさんの、やらしいかお……ち[r]
-　んこにくるぅ～……」[pcms]
+[ns]Patient with a cast on the arm[nse]
+"Ahh~... Nurse-san's lewd face... it's getting to my[r]
+dick..."[pcms]
 
 *7281|
 [fc]
 [vo_mob s="nurse0010"]
-[ns]ナース[nse]
-「ぶちゅうぅっ……！！　んぼおぉぉ……っ！！　」[pcms]
+[ns]Nurse[nse]
+"Buchuuu...!! Nboooohh...!!"[pcms]
 
 *7282|
 [fc]
-涙を流し、苦しさに顔を歪め、それでも看護師は逃げ[r]
-ようとするのをやめなかった。[pcms]
+Tears streaming down her face, contorting with pain, the[r]
+nurse still didn't stop trying to escape.[pcms]
 
 *7283|
 [fc]
-だが、女の力で４人の男から逃げられるワケもなく、[r]
-男達の、看護師を犯そうとする手は、全く止まろうと[r]
-はしなかった。[pcms]
+But a woman's strength was no match for four men, and their[r]
+hands, intent on violating the nurse, did not stop at all.[pcms]
 
 *7284|
 [fc]
-[ns]老患者[nse]
-「ごふぅ……こんなに、めすじるをたれながしおって[r]
-　……のみきれんわぃ～………」[pcms]
+[ns]Elderly Patient[nse]
+"Gofuu... to let so much female juice drip down like this...[r]
+I can't drink it all up~..."[pcms]
 
 *7285|
 [fc]
-[ns]頭に包帯の患者[nse]
-「きもちいぃ……？　かんごふさぁん、ちくびかたく[r]
-　なってるよぉ……」[pcms]
+[ns]Patient with a bandage on their head[nse]
+"Does it feel good...? Nurse-san, your nipples are getting[r]
+hard..."[pcms]
 
 *7286|
 [fc]
 [vo_mob s="nurse0011"]
-[ns]ナース[nse]
-「んぐうぅっ！　……ぶちゅぅっ、ちゅぼぉっ！！[r]
-　おぇっ、ぐちゅうぅっ！！」[pcms]
+[ns]Nurse[nse]
+"Nguuuh! ...Buchuu, chuboo!! Oeh, guchuuu!!"[pcms]
 
 *7287|
 [fc]
-[ns]傷跡が見える患者[nse]
-「かんごふさんのおなか……おれので、ぬるぬるして[r]
-　きたぁ～……いぃ～……」[pcms]
+[ns]Patient with visible scars[nse]
+"Nurse-san's belly... it's getting all slippery with my[r]
+stuff... eee~..."[pcms]
 
 *7288|
 [fc]
-[ns]腕にギプスの患者[nse]
-「あぁ～～いぃよぉ～～……ちんこのちょうし、よく[r]
-　なってきたよぉ……かんごふさぁん……」[pcms]
+[ns]Patient with a cast on the arm[nse]
+"Ahh~~ it feels good~~... my dick's getting better... Nurse-[r]
+san..."[pcms]
 
 *7289|
 [fc]
 [vo_mob s="nurse0012"]
-[ns]ナース[nse]
-「んうぅっ！！　んおぉっ！！　ぢゅぐっ、ぢゅぼぉ[r]
-　……んっぐ、ぶちゅっ、ちゅぶぅっ！！」[pcms]
+[ns]Nurse[nse]
+"Nuuuh!! Nohh!! Jyugu, jyubo... nngu, buchu, chubuu!!"[pcms]
 
 *7290|
 [fc]
-高まってきたのか、ムリヤリ咥えさせている男の呼吸[r]
-が荒くなり、ナニの出し入れも段々と速まっていく。[pcms]
+The man forcing her to give oral was breathing roughly as if[r]
+he was getting more excited, and the pace of his thrusts was[r]
+quickening.[pcms]
 
 *7291|
 [fc]
-続いて他の男達もに、段々と呼吸を荒くしていき、看[r]
-護師への責めを激しくしていった。[pcms]
+Following suit, the other men also began to breathe more[r]
+heavily, intensifying their assault on the nurse.[pcms]
 
 *7292|
 [fc]
-[ns]老患者[nse]
-「こんなに、まめをふくらませおってぇ……ゆびもき[r]
-　つく、しめつけよるぅ……ほんに、いやらしいおめ[r]
-　こじゃぁ……」[pcms]
+[ns]Elderly Patient[nse]
+"Such swollen beans... my fingers are tight, squeezing...[r]
+truly a lewd pussy..."[pcms]
 
 *7293|
 [fc]
 [vo_mob s="nurse0013"]
-[ns]ナース[nse]
-「んぐうぅっ！！　ぐちゅっ、んぢゅぶっ！！　うぶ[r]
-　うぅっ！！　ぉぐっ、ぐぶうぅっ！！」[pcms]
+[ns]Nurse[nse]
+"Nguuuh!! Guchu, ndjubu!! Ubu uuh!! Ogu, gubuuu!!"[pcms]
 
 *7294|
 [fc]
-老人に激しく指を出し入れされ、クリトリスを責めら[r]
-れて、看護師が体を大きく震わせた。[pcms]
+The nurse's body shook violently as the elderly patient[r]
+roughly fingered her and tormented her clitoris.[pcms]
 
 *7295|
 [fc]
-その姿にニタァと笑う老人の横で、傷跡の見える男が[r]
-ウットリとした顔で、看護師の腹に激しくナニを擦り[r]
-つけている。[pcms]
+Next to the grinning elderly patient, the man with visible[r]
+scars rubbed his thing against the nurse's belly with a[r]
+blissful expression.[pcms]
 
 *7296|
 [fc]
-[ns]傷跡が見える患者[nse]
-「はあぁ～～……うらすじぃ……おなかで、こすると[r]
-　……きもちいぃよぉ～……！」[pcms]
+[ns]Patient with visible scars[nse]
+"Haaah~~... when I rub it against your belly... it feels so[r]
+good~~...!"[pcms]
 
 *7297|
 [fc]
-[ns]頭に包帯の患者[nse]
-「んぐ、んぅぐ……ちゅぱぁっ……んいぃぃ～っ……」[pcms]
+[ns]Patient with a bandage on the head[nse]
+"Ngu, nngu... chupaa... niiii~~!"[pcms]
 
 *7298|
 [fc]
 [vo_mob s="nurse0014"]
-[ns]ナース[nse]
-「んううぅぅっ！！　んっぐぅ……ぢゅぶうぅっ！！[r]
-　んうぅっ！　んううぅぅっ！！」[pcms]
+[ns]Nurse[nse]
+"Nuuuuuh!! Nnguu... jyubuuu!! Nuuuh! Nuuuuuh!!"[pcms]
 
 *7299|
 [fc]
-頭に包帯の男が、口に含んで弄んでいた乳首から離れ、[r]
-今度は強く噛んで挟み、そのまま引っ張って、首を震[r]
-わせて責め続ける。[pcms]
+The man with a bandage on his head moved from the nipple he[r]
+had been playing with in his mouth to biting and pinching it[r]
+hard, then pulling and shaking her neck as he continued to[r]
+torment her.[pcms]
 
 *7300|
 [fc]
-それに苦痛を感じて呻く看護師に、口に突っ込んでい[r]
-る男は興奮したのか、腰の動きを速くし、さらに激し[r]
-く出し入れする。[pcms]
+The nurse groaned in pain, and the man inside her mouth got[r]
+excited and sped up his hip movements, thrusting even more[r]
+vigorously.[pcms]
 
 *7301|
 [fc]
-[ns]腕にギプスの患者[nse]
-「かんごふさんのくち、すごくいぃよぉ～……！　ち[r]
-　んこ、なおりそうだぁ～……！！」[pcms]
+[ns]Patient with a cast on the arm[nse]
+"Nurse-san's mouth feels so good~~...! My dick might get[r]
+healed~~...!!"[pcms]
 
 *7302|
 [fc]
 [vo_mob s="nurse0015"]
-[ns]ナース[nse]
-「ぐぶっ！！　んぼぉっ！！　ぢゅぷっ、ぐちゅっ、[r]
-　ぼちゅぅっ！！　ぢゅぼぉっ！！」[pcms]
+[ns]Nurse[nse]
+"Gubu!! Nboh!! Jyupu, guchu, bochu!! Jyubo!!"[pcms]
 
 *7303|
 [fc]
-看護師の腹にナニを擦りつけていた、傷跡の見える男[r]
-が一際大きく呻き、腰を震わせた。[pcms]
+The patient with visible scars who had been rubbing his[r]
+thing against the nurse's belly let out a particularly loud[r]
+moan and shook his hips.[pcms]
 
 *7304|
 [fc]
-[ns]傷跡が見える患者[nse]
-「はあぁ～……ああぁぁ～～～……っ！！！！」[pcms]
+[ns]Patient with visible scars[nse]
+"Haaah... aahhh~~~...!!!!"[pcms]
 
 *7305|
 [fc]
-男が撒き散らした大量の精液は、看護師の腹一面を覆[r]
-い、糸を引いて床に垂れ落ちていく。[pcms]
+The large amount of semen sprayed by the man covered the[r]
+nurse's belly and dripped down to the floor in strands.[pcms]
 
 *7306|
 [fc]
-[ns]腕にギプスの患者[nse]
-「あぁ～なおるぅ～～……ちんこなおるよぉ～……！！[r]
-　かんごふさぁん……！！」[pcms]
+[ns]Patient with a cast on the arm[nse]
+"Ahh~ it's healing~~... my dick is healing~~...!! Nurse-[r]
+san...!!"[pcms]
 
 *7307|
 [fc]
 [vo_mob s="nurse0016"]
-[ns]ナース[nse]
-「ぢゅぐっ！！　ぢゅっ、ぶぢゅっ！！　んぶっ、ぷ[r]
-　ぢゅっ、ぢゅぼぉっ！！　んぶおぉっ！！」[pcms]
+[ns]Nurse[nse]
+"Jyugu!! Jyu, bujyu!! Nbu, jyu, jyubo!! Nbuohh!!"[pcms]
 
 *7308|
 [fc]
-ギプスの男は腰を深く落とし、ナニを根元まで押し込[r]
-んで、看護師の口の奥深く、喉へ直接射精した。[pcms]
+The man with a cast thrust his hips deeply, pushing his[r]
+thing to the base into the nurse's mouth and ejaculating[r]
+directly into her throat.[pcms]
 
 ;//SE止め
 [stop_se0]
@@ -546,14 +541,14 @@
 
 *7309|
 [fc]
-[ns]腕にギプスの患者[nse]
-「ううぅぅああぁぁ～～～……！！！！」[pcms]
+[ns]Patient with a cast on the arm[nse]
+"Uuuuahhh~~~...!!!!"[pcms]
 
 *7310|
 [fc]
 [vo_mob s="nurse0017"]
-[ns]ナース[nse]
-「おぼおおおおぉぉぉぉぉっ！！！！！！」[pcms]
+[ns]Nurse[nse]
+"Obouoooooohhhhh!!!!!"[pcms]
 
 ;//★HEV002b
 [白フラ]
@@ -562,87 +557,83 @@
 
 *7311|
 [fc]
-男は何度か腰を痙攣させ、精液を最後の一滴まで出し[r]
-切ってから、こぼれないようにといった風に、看護師[r]
-の口からゆっくりとナニを引き抜いた。[pcms]
+After several convulsions of his hips and emptying every[r]
+last drop of semen, the man with a cast slowly pulled his[r]
+thing out of the nurse's mouth as if to prevent any[r]
+spillage.[pcms]
 
 *7312|
 [fc]
 [vo_mob s="nurse0018"]
-[ns]ナース[nse]
-「ぅがぁはっ！！　げぇっ！！　うぇげえぇっ！！[r]
-　げほっごほがはっ！！　うえぇっ！！」[pcms]
+[ns]Nurse[nse]
+"Ugahah!! Geheh!! Uwegeehh!! Gehogohahah!! Uwehh!!"[pcms]
 
 *7313|
 [fc]
-咳き込みながら精液を吐き出している看護師の頭の上[r]
-で、ギプスの男は虚ろな目をして、宙を見つめて喘い[r]
-でいた。[pcms]
+As the nurse coughed up semen above her head, the man with a[r]
+cast looked vacantly into space, panting heavily.[pcms]
 
 ;//★HEV002c
 [evcg storage="HEV002c"][trans_c cross time=301]
 
 *7314|
 [fc]
-[ns]腕にギプスの患者[nse]
-「ぜぇっ……！！　はあぁ～～っ……ぜぇっ……！！[r]
-　はあぁ～～っ……」[pcms]
+[ns]Patient with a cast on the arm[nse]
+"Zeeh...!! Haah~~... zeeh...!! Haah~~..."[pcms]
 
 *7315|
 [fc]
-快感の余韻にひたっているかと思われた男の様子は、[r]
-段々と危険なものへと変わっていった。[pcms]
+The man's demeanor, which seemed to be basking in the[r]
+afterglow of pleasure, gradually turned into something more[r]
+dangerous.[pcms]
 
 *7316|
 [fc]
-[ns]腕にギプスの患者[nse]
-「ぜはっ……！！　ぜはっ……！！　ぜはっ……！！[r]
-　ぼええぇぇぇっ……！！」[pcms]
+[ns]Patient with a cast on the arm[nse]
+"Zehah...!! Zehah...!! Zehah...!! Boeeeee~~~...!!"[pcms]
 
 *7317|
 [fc]
-ギプスの男は、胃の中にあったものを盛大にブチ撒け[r]
-ながら、前のめりに倒れ、そのままピクリとも動かな[r]
-くなった。[pcms]
+The man with a cast vomited up everything in his stomach in[r]
+a grand display before collapsing forward and becoming[r]
+completely motionless.[pcms]
 
 *7318|
 [fc]
-[ns]大倉[nse]
-「…………」[pcms]
+[ns]Ookura Hiroshi[nse]
+"..."[pcms]
 
 *7319|
 [fc]
-死んだ……？[r]
-死んだのか……？[pcms]
+Is he dead...? Did he die...?[pcms]
 
 *7320|
 [fc]
-背中が上下していないことからも、死んだかどうかは[r]
-ともかく、呼吸をしていないのは間違い。[pcms]
+Since there was no movement in his back, whether he was dead[r]
+or not, he certainly wasn't breathing.[pcms]
 
 *7321|
 [fc]
-にも関わらず、他の男達はまるで気にする素振りを見[r]
-せずに、看護師の口とアソコへ、ナニを押し込もうと[r]
-している。[pcms]
+Nevertheless, the other men showed no concern and continued[r]
+to push their things into the nurse's mouth and pussy.[pcms]
 
 *7322|
 [fc]
-いまだに彼女以外の看護師や、医者が出てくる気配は[r]
-なく、俺は頭の中で、この病院にまともな人間は残っ[r]
-てない、と判断した。[pcms]
+There was still no sign of any other nurses or doctors[r]
+coming out, and I concluded in my mind that there were no[r]
+sane people left in this hospital.[pcms]
 
 *7323|
 [fc]
-いつまでもココにいたって意味はない……。[r]
-イカレた人間が増える前に、さっさと出よう……。[pcms]
+There's no point in staying here forever... Before more[r]
+crazy people show up, I should get out quickly...[pcms]
 
 ;//------------------------------------------------
 [if exp="tf.scene_mode==1"]
 	[jump storage="b_scene.ks" target=*back_from_SR]
 ;	[link storage=sceneAgain]もう一度見る[endlink]
 ;	[link storage=sceneList]一覧に戻る[endlink]
-;	[s]
+[pcms]
 [endif]
 
 *KAISOU_PASS
@@ -660,59 +651,61 @@
 *7324|
 [fc]
 [vo_hay s="hayami0118"]
-[ns]ありす[nse]
-「ちょ、ちょっと裕樹！　なに考えてんの！？　こん[r]
-　な時に！！」[pcms]
+[ns]Arisu[nse]
+"Hey, wait a minute Yuuki! What are you thinking?! At a time[r]
+like this?!"[pcms]
 
 *7325|
 [fc]
-速水の声に我に返ってユウを見ると、すまなそうな顔[r]
-をして両手で股間を押さえ、少し前屈みになっていた。[pcms]
+When I came to my senses and looked at Yuuki, she had an[r]
+apologetic face and was holding her crotch with both hands,[r]
+slightly bent forward.[pcms]
 
 [ChrSetEx layer=2 chbase="koba_n09"][ChrSetXY layer=2 x=0 y=0][trans_c cross time=150]
 
 *7326|
 [fc]
 [vo_kob s="koba0105"]
-[ns]小林[nse]
-「ご、ごめん……」[pcms]
+[ns]Kobayashi[nse]
+"I'm sorry..."[pcms]
 
 *7327|
 [fc]
-カワイらしい見た目のせいで、そういう男の部分を感[r]
-じさせないユウが、この状況で、そっちの方向へ頭を[r]
-働かせていたことが、俺には驚きだった。[pcms]
+It was surprising to me that Yuuki, with her cute appearance[r]
+that didn't seem to have a male part, was letting her mind[r]
+go in that direction in this situation.[pcms]
 
 *7328|
 [fc]
-[ns]大倉[nse]
-「いや……とにかく、さっさとここを離れようぜ。こ[r]
-　れ以上、ここにいてもムダだ」[pcms]
+[ns]Ookura Hiroshi[nse]
+"No... anyway, let's get out of here quickly. It's pointless[r]
+to stay here any longer."[pcms]
 
 *7329|
 [fc]
-看護師と、彼女に群がる男達に背を向けて、俺が入り[r]
-口の方へ歩き出すと、速水がそれを引き留めた。[pcms]
+As I turned my back on the nurse and the men swarming around[r]
+her and started walking towards the entrance, Hayami held me[r]
+back.[pcms]
 
 [ChrSetEx layer=3 chbase="hayami_t06"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
 
 *7330|
 [fc]
 [vo_hay s="hayami0119"]
-[ns]ありす[nse]
-「ねぇ、良いの？　あの女の人、助けなくて……」[pcms]
+[ns]Alice[nse]
+"Hey, is it okay? Not helping that woman..."[pcms]
 
 *7331|
 [fc]
-[ns]大倉[nse]
-「喫茶店の女、見てなかったのか？　助けようとした[r]
-　俺らを襲おうとしたんだぞ？　……それに」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Didn't you see the woman at the cafe? She tried to attack[r]
+us when we tried to help her... Besides,"[pcms]
 
 *7332|
 [fc]
-奥の病室の方や階段、その他の至る所から、大勢の患[r]
-者や見舞客らしき人間、医者、清掃員が姿を現したの[r]
-に気がつき、その集団を俺はアゴで示した。[pcms]
+I noticed a large number of patients, visitors, doctors, and[r]
+cleaners emerging from the back rooms, staircases, and[r]
+everywhere else, and I pointed them out with my chin.[pcms]
 
 [se0 storage="SE48"]
 
@@ -722,27 +715,27 @@
 *7333|
 [fc]
 [vo_hay s="hayami0120"]
-[ns]ありす[nse]
-「！！」[pcms]
+[ns]Arisu[nse]
+"!!"[pcms]
 ;//◎息を飲む
 
 *7334|
 [fc]
-男達に責められ続け、呻いている看護師に、現れた集[r]
-団は引き寄せられるように近づいていく。[pcms]
+The group that appeared was drawn towards the moaning nurse[r]
+who was continuously blamed by the men.[pcms]
 
 *7335|
 [fc]
-[ns]大倉[nse]
-「あんな人数、まともに相手できるワケねぇ。俺らが[r]
-　同じ目に遭っちまう」[pcms]
+[ns]Ookura Hiroshi[nse]
+"There's no way we can deal with that many people. We'd end[r]
+up with the same fate."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *7336|
 [fc]
-俺は速水とユウの腕を引き、ヤツらに目を付けられる[r]
-前に、急いで病院を出た。[pcms]
+I pulled on Hayami and Yuu's arms and hurried out of the[r]
+hospital before those guys could set their eyes on us.[pcms]
 
 [sysbt_meswin clear]
 [fadeoutbgm time=502]
@@ -752,4 +745,4 @@
 
 [jump storage="prologue02050.ks" target=*prologue02050_TOP]
 
-;//－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+;//

@@ -22,36 +22,35 @@
 *7053|
 [fc]
 [vo_hay s="hayami0110"]
-[ns]ありす[nse]
-「なに、これ……」[pcms]
+[ns]Arisu[nse]
+"What is this...?"[pcms]
 
 *7054|
 [fc]
-バスの外の世界にあったのも、俺が想像していたもの[r]
-ではなかった。[pcms]
+The world outside the bus wasn't what I had imagined either.[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
 *7055|
 [fc]
-自由行動の時に俺ら３人が通った商店街は見る影も無[r]
-くなっていて、テレビでみた戦後直後の日本のように、[r]
-全てが崩壊していた。[pcms]
+The shopping district we three had passed through during our[r]
+free time was now unrecognizable, looking like Japan just[r]
+after the war, with everything in ruins.[pcms]
 
 *7056|
 [fc]
-[ns]大倉[nse]
-「誰もいねーな……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"There's no one around..."[pcms]
 
 *7057|
 [fc]
-俺らが通った時にはたくさんの人で賑わっていた商店[r]
-街だが、今は誰一人歩いていない。[pcms]
+The shopping district, once bustling with many people when[r]
+we passed through, was now completely deserted.[pcms]
 
 *7058|
 [fc]
-商店街だけじゃなく、見渡せる範囲の場所に人影は全[r]
-く無い。[pcms]
+Not just the shopping district, but there was no sign of[r]
+people as far as the eye could see.[pcms]
 
 [chara_int_ layer=4]
 [ChrSetEx layer=2 chbase="koba_n12"][ChrSetXY layer=2 x=0 y=0]
@@ -60,86 +59,85 @@
 *7059|
 [fc]
 [vo_kob s="koba0093"]
-[ns]小林[nse]
-「クラスのみんなもいなくなってたよね……」[pcms]
+[ns]Kobayashi[nse]
+"Everyone from our class is gone too..."[pcms]
 
 *7060|
 [fc]
-確かにユウの言うとおり、俺が目を覚ました時には、[r]
-バスの中にはクラスのヤツらは誰もいなかった。[pcms]
+Indeed, just as Yuu said, when I woke up, there was no one[r]
+from our class on the bus.[pcms]
 
 *7061|
 [fc]
-バスの中の色々な所に血が付いていたから、ケガをし[r]
-たヤツは少なくないはずだ。[pcms]
+There was blood in various places inside the bus, so there[r]
+must have been quite a few injured.[pcms]
 
 *7062|
 [fc]
-なのに、アイツらどこ行ったんだ……？[r]
-いや、それより……。[pcms]
+But where did they all go...? No, more importantly...[pcms]
 
 *7063|
 [fc]
-[ns]大倉[nse]
-「いったい、何があったんだ……？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"What on earth happened...?"[pcms]
 
 *7064|
 [fc]
-俺ら３人以外の世界中の人間が全員、一瞬にして死ん[r]
-でしまったんじゃないか。[pcms]
+It's as if everyone in the world, except for us three, died[r]
+in an instant.[pcms]
 
 *7065|
 [fc]
-そんなことを考えてしまうぐらい、周りには人の気配[r]
-が無く、なんの音も聞こえてこない。[pcms]
+The absence of any human presence or sound made me think[r]
+such a thing.[pcms]
 
 *7066|
 [fc]
-辺りに漂う不気味な静けさに、急に不安にかられた俺[r]
-は、思わず誰かいないか呼びかけていた。[pcms]
+Overwhelmed by a sudden anxiety due to the eerie silence[r]
+around me, I found myself calling out for someone.[pcms]
 
 *7067|
 [fc]
-[ns]大倉[nse]
-「すいませーーーん！！　誰かいませんかーーー！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Excuse me---!! Is anyone there---!!"[pcms]
 
 *7068|
 [fc]
-俺の声は商店街の間に虚しく反響するだけで、誰も姿[r]
-を現さなかった。[pcms]
+My voice only echoed emptily through the shopping district,[r]
+with no one appearing in response.[pcms]
 
 [ChrSetEx layer=3 chbase="hayami_t06"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
 
 *7069|
 [fc]
 [vo_hay s="hayami0111"]
-[ns]ありす[nse]
-「ヒロシ、あれ……」[pcms]
+[ns]Alice[nse]
+"Hiroshi, look over there..."[pcms]
 
 *7070|
 [fc]
-[ns]大倉[nse]
-「……？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"...?"[pcms]
 
 [ChrSetEx layer=2 chbase="koba_n07"][ChrSetXY layer=2 x=0 y=0][trans_c cross time=150]
 
 *7071|
 [fc]
-速水が指さす方を見ると、遠くに小さく見える人影が、[r]
-フラつきながらどこかの店に入っていくのがわかった。[pcms]
+Looking in the direction Hayami was pointing, I could see a[r]
+small figure staggering into a store in the distance.[pcms]
 
 *7072|
 [fc]
-[ns]大倉[nse]
-「ちょっと行ってみよう」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Let's go check it out."[pcms]
 
 [chara_int_ layer=2][chara_int_ layer=3][trans_c cross time=150]
 
 *7073|
 [fc]
-自分ら以外の人間を見て安心したのと、何があったの[r]
-かを聞きたくて、目指す場所へ向かう俺の足は自然と[r]
-早くなった。[pcms]
+Seeing someone other than ourselves brought relief, and[r]
+eager to find out what had happened, my steps naturally[r]
+quickened toward our destination.[pcms]
 
 [sysbt_meswin clear]
 
@@ -152,4 +150,4 @@
 
 [jump storage="prologue02020.ks" target=*prologue02020_TOP]
 
-;//－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+;//

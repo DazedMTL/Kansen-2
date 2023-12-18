@@ -23,60 +23,60 @@
 
 *12302|
 [fc]
-[ns]大倉[nse]
-「チッ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Tch..."[pcms]
 
 *12303|
 [fc]
-エスカレーター横にしゃがんで、３階の降り口辺りを[r]
-見上げると、頭のイカレたヤツらの姿が見え隠れして[r]
-いた。[pcms]
+Crouching beside the escalator and looking up around the[r]
+third-floor exit, I could catch glimpses of those crazy[r]
+guys.[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
 *12304|
 [fc]
-普通に行ったら、上から見つけられちまうかもな……。[r]
-どうする……。[pcms]
+If I go normally, they might spot me from above... What to[r]
+do...[pcms]
 
 *12305|
 [fc]
-後ろを見ると、おびき出した集団の何人かが、俺を見[r]
-失ったせいなのか、曲がり角の辺りをウロついていた。[pcms]
+Looking back, some of the group I had lured out were[r]
+wandering around the corner, probably because they lost[r]
+sight of me.[pcms]
 
 *12306|
 [fc]
-急がねーと、俺に気がついてまた追ってくる……。[r]
-クソ……。[r]
-コレでなんとかゴマかされてくれ……！[pcms]
+I need to hurry, or they'll notice me and start chasing[r]
+again... Damn... Hope this fools them...![pcms]
 
 *12307|
 [fc]
-とっさの思いつきで、効果があるのかは自分でも疑問[r]
-だったが、少しでも自分が見えなくなればいいと、俺[r]
-は床に這いつくばって進んだ。[pcms]
+It was a spur-of-the-moment idea, and even I doubted its[r]
+effectiveness, but hoping to become less visible, I crawled[r]
+on the floor and moved forward.[pcms]
 
 *12308|
 [fc]
-[ns]大倉[nse]
-「頼むから俺に気づくなよ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Please don't notice me..."[pcms]
 
 *12309|
 [fc]
-なかなか前に進まない、自分のヘタクソなほふく全身[r]
-にイライラしながら、完全に３階から見えなくなる所[r]
-まで、俺はなんとか辿り着いた。[pcms]
+While getting irritated with my own clumsy creeping, I[r]
+somehow managed to reach a spot where I was completely out[r]
+of sight from the third floor.[pcms]
 
 *12310|
 [fc]
-[ns]大倉[nse]
-「ヘッドスライディングでもした方が良かったんじゃ[r]
-　ねーのか？　コレ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Would it have been better to do a head slide or something?[r]
+This..."[pcms]
 
 *12311|
 [fc]
-妙に息が切れているのを情けなく思いながら、俺は立[r]
-ち上がって、この通路の並びにあるはずの店へ走った。[pcms]
+Feeling pathetic for being so out of breath, I stood up and[r]
+ran towards the store that should be in this corridor.[pcms]
 
 ;//[fadeoutbgm time=502]
 ;//[stop_se0]
@@ -89,4 +89,4 @@
 ;//ブロック１０５００へ
 [jump storage="westtown_main10500.ks" target=*westtown_main10500_TOP]
 
-;//－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+;//

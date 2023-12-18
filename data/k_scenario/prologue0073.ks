@@ -17,23 +17,22 @@
 
 *6647|
 [fc]
-‰½•ª‚¾H@¡ccB[pcms]
+What time is it? Now...[pcms]
 
 *6648|
 [fc]
-ƒP[ƒ^ƒC‚ğè‚Éæ‚Á‚ÄŠÔ‚ğŒ©‚Ä‚İ‚é‚ÆA‰´‚Ì“ª‚Ì’†[r]
-‚ÅŒˆ‚ß‚½ƒŠƒ~ƒbƒg‚Å‚ ‚é‚V‚P‚O•ª‚ÍA‚P‚O•ª‘O‚ÉŠù[r]
-‚É‰ß‚¬‚Ä‚¢‚½B[pcms]
+When I grab my cellphone to check the time, it's already 10[r]
+minutes past the 7:10 limit I had set in my mind.[pcms]
 
 *6649|
 [fc]
-[ns]‘å‘q[nse]
-u‚¤J‚Ÿ‚ÁI@ƒ„ƒxƒFIIv[pcms]
+[ns]Ookura Hiroshi[nse]
+"Ugh! Crap!!"[pcms]
 
 *6650|
 [fc]
-‰´‚Í”ò‚Ñ‹N‚«Aˆø‚«‚¿‚¬‚é‚®‚ç‚¢‚Ì¨‚¢‚ÅA•”‰®’…‚ğ[r]
-’E‚¬‹‚Á‚½B[pcms]
+I jump up and strip off my room clothes with enough force to[r]
+tear them.[pcms]
 
 [fadeoutbgm time=502]
 [stop_se0]
@@ -43,4 +42,4 @@
 
 [jump storage="prologue0075.ks" target=*prologue0075_TOP]
 
-;//||||||||||||||||||||||||||||||||||||||||
+;//

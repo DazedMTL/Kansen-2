@@ -16,8 +16,8 @@
 
 *3784|
 [fc]
-[ns]大倉[nse]
-「ん……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Mmm..."[pcms]
 
 ;//[]BG表示
 ;//★ＢＧ：屋上・展望台東A
@@ -33,8 +33,8 @@
 
 *3785|
 [fc]
-[ns]大倉[nse]
-「ふぁ……あ～……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Fah... Ah~..."[pcms]
 
 
 ;mm 追加
@@ -42,138 +42,134 @@
 
 *3786|
 [fc]
-いつものアラームで目を覚ました俺の頭は、大して[r]
-寝てないのに、妙にスッキリとしていた。[pcms]
+I woke up to the usual alarm, and although I hadn't slept[r]
+much, my head felt unusually clear.[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
 *3787|
 [fc]
-俺は立ち上がってシャッターに近づき、外の様子を[r]
-窺った。[pcms]
+I stood up and approached the shutter to take a look[r]
+outside.[pcms]
 
 *3788|
 [fc]
-なんでか、いつもより眩しく感じる陽の光の下では、[r]
-相変わらず、イカレ野郎が大勢ウロついてて、マトモ[r]
-な人間がいる様子は無い。[pcms]
+For some reason, the sunlight felt brighter than usual, and[r]
+as always, there were plenty of crazies wandering around,[r]
+with no sign of any sane people.[pcms]
 
 [ChrSetEx layer=4 chbase="hayami_t04"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *3789|
 [fc]
 [vo_hay s="hayami0854"]
-[ns]ありす[nse]
-「おはよ……」[pcms]
+[ns]Arisu[nse]
+"Good morning..."[pcms]
 
 *3790|
 [fc]
-声をかけられてそっちへ顔を向けると、体を起こした[r]
-速水が、ニッコリ笑って俺を見ていた。[pcms]
+When I turned towards the voice, Hayami, who had just sat[r]
+up, was smiling brightly at me.[pcms]
 
 *3791|
 [fc]
-[ns]大倉[nse]
-「おう、おはよ」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Hey, good morning."[pcms]
 
 *3792|
 [fc]
-俺はシャッターの前から戻って、また速水の隣に腰を[r]
-下ろした。[pcms]
+I moved away from the shutter and sat down next to Hayami[r]
+again.[pcms]
 
 *3793|
 [fc]
-[ns]大倉[nse]
-「えっと……からだ、だいじょうぶか？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"So... are you feeling okay?"[pcms]
 
 [ChrSetEx layer=4 chbase="hayami_t01"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *3794|
 [fc]
 [vo_hay s="hayami0855"]
-[ns]ありす[nse]
-「うん、へーき……」[pcms]
+[ns]Arisu[nse]
+"Yeah, I'm fine..."[pcms]
 
 *3795|
 [fc]
-微笑む速水の顔は、なんでか、昨日までのとは少し[r]
-違って、柔らかくなったように見える。[pcms]
+Hayami's smiling face seemed somehow softer than it was[r]
+yesterday.[pcms]
 
 *3796|
 [fc]
-そんな速水を見てると、こっちの顔まで柔[r]
-らかくなってくるように、俺は感じていた。[pcms]
+Looking at Hayami made me feel like my own face was[r]
+softening as well.[pcms]
 
 ;//[]SE：エレベーターの到着音（？）
 [se0 storage="SE17"]
 
 *3797|
 [fc]
-[ns]大倉[nse]
-「お……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Oh..."[pcms]
 
 *3798|
 [fc]
-頭の上から響いてきた音に、エレベーターの方を振り[r]
-返ると、今まで動いてなかったエレベーターの扉が開[r]
-いた。[pcms]
+The sound from above made me turn towards the elevator, and[r]
+the doors, which hadn't been moving until now, opened.[pcms]
 
 *3799|
 [fc]
-中には誰も乗ってなくて、扉は俺らを待つように、[r]
-ずっと開いたままになっている。[pcms]
+There was no one inside, and the doors stayed open as if[r]
+waiting for us.[pcms]
 
 *3800|
 [fc]
-そうだ……。[r]
-そういや、だれかとあおうって、おもってたんだ[r]
-よな……。[pcms]
+That's right... I remember I was planning to meet someone...[pcms]
 
 *3801|
 [fc]
-だれだっけ……。[r]
-だれと、あおうとしてたんだっけな……。[pcms]
+Who was it...? Who was I supposed to meet again...?[pcms]
 
 *3802|
 [fc]
-[ns]大倉[nse]
-「……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"..."[pcms]
 
 *3803|
 [fc]
-あー、なまえ、でてこねー……。[r]
-けど、たしか、むこうのビルにいるんだよな……。[pcms]
+Ah, the name isn't coming to me... But I'm sure they're in[r]
+that building over there...[pcms]
 
 *3804|
 [fc]
-[ns]大倉[nse]
-「いこう、はやみ」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Let's go, Hayami."[pcms]
 
 [ChrSetEx layer=4 chbase="hayami_t05"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *3805|
 [fc]
 [vo_hay s="hayami0856"]
-[ns]ありす[nse]
-「……？　どこに……？」[pcms]
+[ns]Arisu[nse]
+"...? Where to...?"[pcms]
 
 *3806|
 [fc]
-[ns]大倉[nse]
-「ちょっと、ひとにあうんだ。やくそくしてて」[pcms]
+[ns]Ookura Hiroshi[nse]
+"I have to meet someone. I made a promise."[pcms]
 
 [ChrSetEx layer=4 chbase="hayami_t04"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *3807|
 [fc]
 [vo_hay s="hayami0857"]
-[ns]ありす[nse]
-「うん……あたしも、いく……」[pcms]
+[ns]Arisu[nse]
+"Yeah... I'll go too..."[pcms]
 
 *3808|
 [fc]
-立ち上がり、自然に手を繋いで、俺らはエレベーター[r]
-に乗り込んだ。[pcms]
+We stood up, naturally held hands, and boarded the elevator[r]
+together.[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
@@ -185,18 +181,19 @@
 
 *3809|
 [fc]
-俺らは３階でエレベーターを下り、なんでか、うまく[r]
-動かない足を引きずるようにして、渡り廊下を歩く。[pcms]
+We got off the elevator on the third floor and walked down[r]
+the corridor, dragging our feet as if they wouldn't move[r]
+properly.[pcms]
 
 *3810|
 [fc]
-途中、何人かの、俺らと同じようにフラフラとウロつ[r]
-いてるヤツとすれ違った。[pcms]
+On the way, we passed by several people who were staggering[r]
+around just like us.[pcms]
 
 *3811|
 [fc]
-けど、ソイツらはまるでこっちに気づいてないかのよ[r]
-うに、何も無い空中を見つめて通り過ぎていった。[pcms]
+But they seemed completely unaware of us, staring into empty[r]
+space as they passed by.[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
@@ -211,133 +208,128 @@
 
 *3812|
 [fc]
-渡り廊下を出て、もう一つの方の建物に入ると、急に[r]
-風が吹き始めて、布なのか、黒く薄っぺらい何かが、[r]
-目の前をヒラヒラと飛んでいった。[pcms]
+Exiting the corridor and entering another building, a sudden[r]
+gust of wind began to blow, and something black and thin,[r]
+perhaps cloth, fluttered past us.[pcms]
 
 [ChrSetEx layer=4 chbase="hayami_t05"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *3813|
 [fc]
 [vo_hay s="hayami0858"]
-[ns]ありす[nse]
-「なに、このにおい……」[pcms]
+[ns]Alice[nse]
+"What's this smell...?"[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
 *3814|
 [fc]
-[ns]大倉[nse]
-「なんだろ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"What is it...?"[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *3815|
 [fc]
-そのまま真っ直ぐ歩いてくと、角を左に曲がった先を、[r]
-所々に小さい火が燃えている、何かの黒コゲの残骸が[r]
-塞いでいた。[pcms]
+As we walked straight ahead and turned left at the corner,[r]
+we saw small fires burning here and there among the charred[r]
+remains of something.[pcms]
 
 *3816|
 [fc]
-プロペラらしいものがついてるコトから、多分、ヘリ[r]
-コプターだろうと俺は考えた。[pcms]
+From the propeller-like object attached to it, I figured it[r]
+was probably a helicopter.[pcms]
 
 *3817|
 [fc]
-けど、なんで、こんなとこに……？[r]
-なんかあったのかな……。[pcms]
+But why is it here...? Did something happen...?[pcms]
 
 *3818|
 [fc]
-ニュースでいってた、あのびょうきと、かんけーあん[r]
-のかな……。[pcms]
+I remember the news talking about that disease, could it be[r]
+related...?[pcms]
 
 *3819|
 [fc]
-そういや、おれら、しんでねーな……。[r]
-あのニュースじゃ、すぐしぬとかって、[r]
-いってたのに……。[pcms]
+Come to think of it, we're not dead... The news said it[r]
+would kill you quickly...[pcms]
 
 *3820|
 [fc]
-死ぬこともイカレることもなく、速水と手を繋いで歩[r]
-いてるのが妙に面白く感じて、俺の口から、勝手に笑[r]
-い声が漏れ始めた。[pcms]
+The fact that Hayami and I were walking hand in hand without[r]
+dying or going crazy struck me as oddly amusing, and[r]
+laughter started to escape from my mouth involuntarily.[pcms]
 
 ;//♪：bgm002 stop
 [fadeoutbgm time=1][wb]
 
 *3821|
 [fc]
-[ns]大倉[nse]
-「ふ……くくっ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Heh... kuku..."[pcms]
 
 [ChrSetEx layer=4 chbase="hayami_t09"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *3822|
 [fc]
 [vo_hay s="hayami0859"]
-[ns]ありす[nse]
-「なに？　なんでわらってんの？　ヒロシ」[pcms]
+[ns]Arisu[nse]
+"What? Why are you laughing? Hiroshi"[pcms]
 
 ;//♪：bgm009
 [bgm storage="bgm009"]
 
 *3823|
 [fc]
-[ns]大倉[nse]
-「いや、だって……ぷふっ、くははっ……！[r]
-　はははっ！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"No, it's just... pffft, kuhaha...! Hahaha!"[pcms]
 
 [ChrSetEx layer=4 chbase="hayami_t04"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *3824|
 [fc]
 [vo_hay s="hayami0860"]
-[ns]ありす[nse]
-「ふふっ、も～、な～に～？　あはっ、こっちまで[r]
-　わらっちゃうから、ふふはっ！　やめてよ～」[pcms]
+[ns]Arisu[nse]
+"Fufu, come on, what~? Ahaha, you're making me laugh too,[r]
+stop it~"[pcms]
 
 *3825|
 [fc]
-[ns]大倉[nse]
-「だ、だって……くっくっく……なんか、おかしくね？[r]
-　ぶふはっ！　はははははっ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"But... kkk... isn't it funny? Bwahaha! Hahahahaha!!"[pcms]
 
 [ChrSetEx layer=4 chbase="hayami_t04"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *3826|
 [fc]
 [vo_hay s="hayami0861"]
-[ns]ありす[nse]
-「あはっ、あっははは！　やめてよヒロシ～！[r]
-　ふふはははっ！　ふふっ、あははっ！[r]
-　やめてってば～！」[pcms]
+[ns]Arisu[nse]
+"Ahaha, ahahaha! Stop it Hiroshi~! Fuhahaha! Fufu, ahaha![r]
+Stop it already~!"[pcms]
 
 ;//同じ表情なので、こっちはコメントアウト
 ;//[ChrSetEx layer=4 chbase="hayami_t04"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *3827|
 [fc]
-[ns]大倉[nse]
-「ははははははっ！！　ははっ、ぶははっ！！[r]
-　は、はらいてーっ！！　ははははっはははっは！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Hahahahahaha!! Hahah, buhaha!! Ha, my stomach hurts!![r]
+Hahahahahahaha!!"[pcms]
 
 ;//[ChrSetEx layer=4 chbase="hayami_t09"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *3828|
 [fc]
 [vo_hay s="hayami0862"]
-[ns]ありす[nse]
-「あははっ、あーっはははっ！！　ふふ、くふふ……[r]
-　ぷふっ！　ぷははははっはははっはっはっは！！」[pcms]
+[ns]Alice[nse]
+"Ahaha, ahhahaha!! Fufu, kufufu... pffft![r]
+Puhahahahahahahaha!!"[pcms]
 
 *3829|
 [fc]
-元はヘリコプターだったらしいモノに、通路を塞がれ[r]
-てるために、俺らはすぐ近くのエスカレーターで４階[r]
-に向かった。[pcms]
+Because our path was blocked by what seemed to be the[r]
+remains of a helicopter, we took an escalator nearby to head[r]
+to the fourth floor.[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
@@ -352,14 +344,14 @@
 
 *3830|
 [fc]
-４階に上がって、２人で笑いながら、同じようにウロ[r]
-ついてるヤツらの間を、会う約束をした人間を捜して[r]
-歩く。[pcms]
+We went up to the fourth floor and searched for the person I[r]
+had promised to meet while laughing among others who were[r]
+wandering around just like us.[pcms]
 
 *3831|
 [fc]
-俺は自分が誰に会うつもりだったのか、思い出そうと[r]
-したけど、そのヒトの名前は全然出てこなかった。[pcms]
+I tried to remember who I was supposed to meet but couldn't[r]
+recall their name at all.[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
@@ -368,57 +360,59 @@
 *3832|
 [fc]
 [vo_hay s="hayami0863"]
-[ns]ありす[nse]
-「あ、おとしもの……」[pcms]
+[ns]Arisu[nse]
+"Ah, someone dropped something..."[pcms]
 
 *3833|
 [fc]
-[ns]大倉[nse]
-「ん……？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Hmm...?"[pcms]
 
 *3834|
 [fc]
-速水の指さす先に、どっかで見たコトあるような[r]
-トートバッグと、髪飾りのようなモノが落ちている。[pcms]
+At the end of Hayami's pointed finger, there was a tote bag[r]
+and something that looked like a hair ornament that I felt I[r]
+had seen somewhere before.[pcms]
 
 *3835|
 [fc]
-他にも、トートバッグがブチ撒けたらしい、割れた茶[r]
-色のビンや、手帳、小物入れが散らばっていた。[pcms]
+There were also other items scattered around, apparently[r]
+from the tote bag being spilled open, including a broken[r]
+brown bottle, a notebook, and a small case.[pcms]
 
 ;//[]SE：発砲音・遠くから（？）
 [se0 storage="SE09"]
 
 *3836|
 [fc]
-誰かの落とし物を眺めがら歩いてると、どこかから、[r]
-何かが破裂するような乾いた音が聞こえてきた。[pcms]
+As we walked, looking at someone's lost items, we heard a[r]
+dry sound like something bursting from somewhere.[pcms]
 
 ;//[]SE：発砲音・断続的・遠くから（？）
 [se0 storage="SE10"]
 
 *3837|
 [fc]
-[ns]大倉[nse]
-「なんだ？　このおと……。下からだよな？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"What's that sound...? It's coming from below, right?"[pcms]
 
 [ChrSetEx layer=4 chbase="hayami_t01"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *3838|
 [fc]
 [vo_hay s="hayami0864"]
-[ns]ありす[nse]
-「うん……いってみよっか……」[pcms]
+[ns]Arisu[nse]
+"Yeah... should we go check it out...?"[pcms]
 
 *3839|
 [fc]
-[ns]大倉[nse]
-「あぁ、いってみよーぜ」[pcms]
+[ns]Ookura[nse]
+"Ah, let's go see."[pcms]
 
 *3840|
 [fc]
-聞こえてくる音を追って、俺らはすぐ近くにあった[r]
-エスカレーターで、また３階へと戻った。[pcms]
+Following the sound we heard, we took the nearby escalator[r]
+back down to the third floor.[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
@@ -433,115 +427,115 @@
 
 *3841|
 [fc]
-[ns]大倉[nse]
-「あれ……？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Huh...?"[pcms]
 
 *3842|
 [fc]
-エスカレーターを下りてくると、渡り廊下へ通じる長[r]
-い方の通路に、自分と同じような制服を着てる男が、[r]
-仰向けに倒れていた。[pcms]
+As we descended the escalator, we saw a man wearing the same[r]
+uniform as us lying on his back in the long corridor leading[r]
+to the walkway.[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
 *3843|
 [fc]
-[ns]大倉[nse]
-「あれ、うちのせいとじゃね……？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Hey, isn't that our school uniform...?"[pcms]
 
 [ChrSetEx layer=4 chbase="hayami_t05"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *3844|
 [fc]
 [vo_hay s="hayami0865"]
-[ns]ありす[nse]
-「ほんとだ……だれだろうね……」[pcms]
+[ns]Arisu[nse]
+"Really... I wonder who it is..."[pcms]
 
 *3845|
 [fc]
 [ns]？？？[nse]
-「動くなっ！！」[pcms]
+"Don't move!!"[pcms]
 
 [ChrSetEx layer=4 chbase="hayami_t06"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *3846|
 [fc]
-顔を見ようと、倒れてるソイツに近づこうとする俺ら[r]
-に、誰かが大声で怒鳴りつける。[pcms]
+As we tried to approach the fallen guy to see his face,[r]
+someone yelled at us loudly.[pcms]
 
 *3847|
 [fc]
-立ち止まり、倒れてる男に向けていた目を上げると、[r]
-通路の先に迷彩服を着た男が立っていて、怒ったよう[r]
-な顔で俺らを睨んでいた。[pcms]
+Stopping in our tracks and looking up from the fallen man,[r]
+we saw a man in camouflage standing at the end of the[r]
+corridor, glaring at us with an angry face.[pcms]
 
 *3848|
 [fc]
-[ns]大倉[nse]
-「……？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"...?"[pcms]
 
 *3849|
 [fc]
-[ns]自衛隊員１[nse]
-「自衛隊の者だ！　私の言う事が理解できるなら、[r]
-　２人共、手を上げろっ！！」[pcms]
+[ns]Self-Defense Force Member 1[nse]
+"I'm with the Self-Defense Forces! If you understand what[r]
+I'm saying, both of you, raise your hands!!"[pcms]
 
 *3850|
 [fc]
-あの男が何を必死になってるのかがわからなくて、[r]
-俺は速水と顔を見合わせ、首を傾げてから、繋いでな[r]
-い方の手を軽く上げて見せた。[pcms]
+Not understanding why the man was so desperate, I exchanged[r]
+glances with Hayami and tilted my head before lightly[r]
+raising my unlinked hand to show him.[pcms]
 
 *3851|
 [fc]
-[ns]自衛隊員１[nse]
-「生存者発見！　生存者発見！　ただちに保護する！！[r]
-　搬送の準備急げ！！」[pcms]
+[ns]Self-Defense Force Member 1[nse]
+"Survivors found! Survivors found! Prepare for immediate[r]
+protection and transport!!"[pcms]
 
 *3852|
 [fc]
-腕に付けていたトランシーバーみたいな物に、男はま[r]
-た大声を出して、俺らの方に駆け寄ってきた。[pcms]
+The man shouted loudly into something like a transceiver[r]
+attached to his arm and then started running towards us.[pcms]
 
 *3853|
 [fc]
-[ns]自衛隊員１[nse]
-「私についてくるんだ。君達を出口まで連れて行く」[pcms]
+[ns]Self-Defense Force Member 1[nse]
+"Follow me. I'll take you to the exit."[pcms]
 
 *3854|
 [fc]
-[ns]大倉[nse]
-「でぐち……？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Exit...?"[pcms]
 
 *3855|
 [fc]
 [vo_hay s="hayami0866"]
-[ns]ありす[nse]
-「あ……あたしたち、たすかったんじゃない……？」[pcms]
+[ns]Arisu[nse]
+"Ah... did we just get saved...?"[pcms]
 
 *3856|
 [fc]
-[ns]自衛隊員１[nse]
-「そうだ、助かったんだよ。これから安全な場所まで[r]
-　連れて行くから、私についてくるんだ」[pcms]
+[ns]Self-Defense Force Member 1[nse]
+"Yes, you're saved. I'll take you to a safe place now, so[r]
+follow me."[pcms]
 
 *3857|
 [fc]
-[ns]大倉[nse]
-「やったな……」[pcms]
+[ns]Ookura[nse]
+"We did it..."[pcms]
 
 [ChrSetEx layer=4 chbase="hayami_t04"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *3858|
 [fc]
 [vo_hay s="hayami0867"]
-[ns]ありす[nse]
-「うん……」[pcms]
+[ns]Alice[nse]
+"Yeah..."[pcms]
 
 *3859|
 [fc]
-俺と速水は笑い合って、先を歩き始めた迷彩服の男の[r]
-後ろを、繋いだ手を振りながらついていった。[pcms]
+Hayami and I laughed together and followed behind the man in[r]
+camouflage, swinging our linked hands as we went.[pcms]
 
 ;//♪：bgm009 fadeout
 [fadeoutbgm time=1000]
@@ -553,46 +547,46 @@
 
 *3860|
 [fc]
-[ns]大倉[nse]
-「ん、ぅ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Mmm, uhh..."[pcms]
 
 *3861|
 [fc]
-自衛隊の、トラックみたいな車に乗せられて、俺らは[r]
-救護施設へ向かって運ばれていた。[pcms]
+We were put into a truck-like vehicle by the Self-Defense[r]
+Forces and were being transported to a medical facility.[pcms]
 
 *3862|
 [fc]
-助かって気が抜けたのか、強烈な睡魔に襲われて、[r]
-俺の目は半分閉じかけていた。[pcms]
+Perhaps because we were relieved to be saved, I was attacked[r]
+by an intense sleepiness and my eyes were half-closed.[pcms]
 
 ;//[]SE：発砲音・断続的・遠くから（？）
 [se0 storage="SE10"]
 
 *3863|
 [fc]
-頭を振り、なんとか目を開けようとしたけど、[r]
-この睡魔には到底勝てそうもなかった。[pcms]
+I shook my head trying to keep my eyes open, but it seemed[r]
+impossible to win against this drowsiness.[pcms]
 
 *3864|
 [fc]
-繋いだままの手から伝わってくる、速水の掌の温かさ[r]
-と安心感も、睡魔に負けそうになってる原因になって[r]
-いた。[pcms]
+The warmth and reassurance of Hayami's palm transmitted[r]
+through our linked hands was also contributing to my[r]
+struggle against sleepiness.[pcms]
 
 *3865|
 [fc]
-[ns]大倉[nse]
-「うぅ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Ugh..."[pcms]
 
 ;//[]SE：発砲音・断続的・遠くから（？）
 [se0 storage="SE10"]
 
 *3866|
 [fc]
-すぐ近くで、ヒトの動く気配と同時に、腕に針で刺さ[r]
-れるような痛みを感じて、俺は閉じかけだった目を[r]
-見開いた。[pcms]
+I felt a pain like a needle being stuck into my arm along[r]
+with the sensation of someone moving nearby, and I forced my[r]
+half-closed eyes wide open.[pcms]
 
 ;//[]イベントCG表示
 [evcg storage="NEV103a"][trans_c cross time=501]
@@ -602,68 +596,69 @@
 
 *3867|
 [fc]
-目を開くと、俺の肩に頭を乗せ、寝息を立てる速水の[r]
-顔が合った。[pcms]
+When I opened my eyes, I saw Hayami's face resting on my[r]
+shoulder, breathing softly in sleep.[pcms]
 
 *3868|
 [fc]
-安らかな寝顔で、自分に身を預けてる速水を見てると、[r]
-幸せな気分で満たされていく。[pcms]
+Looking at Hayami's peaceful sleeping face, trusting me[r]
+completely, filled me with a sense of happiness.[pcms]
 
 *3869|
 [fc]
-体も心も一つになれた相手が、速水でホントに良かっ[r]
-たと、俺は改めて嬉しく思った。[pcms]
+I was glad all over again that Hayami was the one I could[r]
+become one with in body and soul.[pcms]
 
 [evcg storage="NEV103b"][trans_c cross time=501]
 
 *3870|
 [fc]
 [vo_hay s="hayami0868"]
-[ns]ありす[nse]
-「ん……」[pcms]
+[ns]Arisu[nse]
+"Mmm..."[pcms]
 
 [evcg storage="NEV103a"][trans_c cross time=501]
 
 *3871|
 [fc]
-薄く目を開けた速水は、見つめてる俺に気づいて、[r]
-微笑んでみせると、また目を閉じて寝息を立て始めた。[pcms]
+Hayami opened her eyes slightly, noticed me staring at her,[r]
+smiled briefly, then closed her eyes again and resumed her[r]
+soft breathing.[pcms]
 
 *3872|
 [fc]
-[ns]大倉[nse]
-「……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"..."[pcms]
 
 *3873|
 [fc]
-俺は速水と結ばれた幸せと同時に、大切なものを無く[r]
-した悲しさも感じていた。[pcms]
+I felt both the happiness of being united with Hayami and[r]
+the sadness of having lost something important.[pcms]
 
 *3874|
 [fc]
-速水の他にもう１人、大事な存在がいたはずだけど、[r]
-俺にはそれが誰なのか、ボンヤリとした輪郭以外、[r]
-何も思い出せないでいた。[pcms]
+There was supposed to be another important person besides[r]
+Hayami, but all I could remember was a vague outline; I[r]
+couldn't recall who it was.[pcms]
 
 *3875|
 [fc]
-はやみにとっても、たいせつなひとだったと、[r]
-おもうんだけど……。[pcms]
+I think it was someone important to Hayami too...[pcms]
 
 *3876|
 [fc]
-だれだったっけな……。[r]
-おとこか、おんなかも、おもいだせねー……。[pcms]
+Who was it...? I can't even remember if it was a man or a[r]
+woman...[pcms]
 
 ;//[]SE：発砲音・断続的（？）
 [se0 storage="SE11"]
 
 *3877|
 [fc]
-速水の寝顔を見つめながら、考え事をしていた俺は、[r]
-頭はほとんど動いてないし、目もこれ以上は開けてら[r]
-れなそうだと考えて、起きてるコトを諦めた。[pcms]
+As I lay there thinking while staring at Hayami's sleeping[r]
+face, my head wasn't moving much anymore, and it seemed like[r]
+I couldn't keep my eyes open any longer, so I gave up on[r]
+staying awake.[pcms]
 
 ;//♪：bgm010 fadeout
 [fadeoutbgm time=1000]
@@ -674,82 +669,81 @@
 ;//BKACKOUT
 *3877a|
 [fc]
-目を閉じてすぐに、また誰かが、俺らの方へ近づいて[r]
-くるのを感じた。[pcms]
+Right after closing my eyes, I felt someone approaching us[r]
+again.[pcms]
 
 ;//♪：bgm012
 [bgm storage="bgm012"]
 
 *3878|
 [fc]
-病気にかかってる速水を、誰かが殺しに来たんじゃな[r]
-いかと不安になって、俺はムリヤリ、閉じたばっかり[r]
-の目を開けた。[pcms]
+Anxious that someone might have come to kill Hayami, who was[r]
+sick, I forced my just-closed eyes open again.[pcms]
 
 ;//[]イベントCG表示
 [evcg storage="NEV103a"][trans_c cross time=501]
 
 *3879|
 [fc]
-速水はちゃんと俺の隣にいたけど、さっきの安らかな[r]
-寝顔と違って、顔をしかめていた。[pcms]
+Hayami was still next to me but unlike her peaceful sleeping[r]
+face from before, she was grimacing.[pcms]
 
 *3880|
 [fc]
 [vo_hay s="hayami0869"]
-[ns]ありす[nse]
-「んんっ……」[pcms]
+[ns]Arisu[nse]
+"Nnnh..."[pcms]
 
 *3881|
 [fc]
-目の前に立った、白衣の男に注射をされて、速水が[r]
-小さく呻く。[pcms]
+A man in a white coat gave Hayami an injection and she let[r]
+out a small moan.[pcms]
 
 *3882|
 [fc]
-なにしてんだ、このやろう……。[r]
-はやみに……。[r]
-おれのはやみに、さわるんじゃねーっ……！！[pcms]
+What are you doing, you bastard... To my Hayami... Don't you[r]
+dare touch my Hayami...!![pcms]
 
 *3883|
 [fc]
-注射をしてる白衣の男を突き飛ばそうと、壁にもたれ[r]
-かかっていた体を起こした瞬間、俺の口の中に、[r]
-小さい、何かの粒を押し込まれた。[pcms]
+As I tried to push away the man in the white coat who was[r]
+giving an injection, the moment I lifted my body that was[r]
+leaning against the wall, something small, some kind of[r]
+granule, was pushed into my mouth.[pcms]
 
 *3884|
 [fc]
-[ns]大倉[nse]
-「んぐっ……！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Ngh...!"[pcms]
 
 *3885|
 [fc]
-同時に、肩の辺りに、また針で刺されるような痛みを[r]
-俺は感じた。[pcms]
+At the same time, I felt a pain like being pricked with a[r]
+needle around my shoulder.[pcms]
 
 *3886|
 [fc]
-[ns]大倉[nse]
-「く、そ……っ！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Damn it...!"[pcms]
 
 *3887|
 [fc]
-少ししてから、段々と体がシビレてきて、浮き上がる[r]
-ような感覚が現れた。[pcms]
+After a little while, my body started to tingle and I began[r]
+to feel a sensation as if I was floating up.[pcms]
 
 *3888|
 [fc]
-そのまま空中へ浮かび上がって、速水から離れていっ[r]
-てしまうような不安を感じた俺は、繋いでいた手を[r]
-強く握りしめた。[pcms]
+Fearing that I would float away into the air and be[r]
+separated from Hayami, I gripped the hand I was holding even[r]
+tighter.[pcms]
 
 ;//[]SE：発砲音・断続的（？）
 [se0 storage="SE11"]
 
 *3889|
 [fc]
-[ns]大倉[nse]
-「はや、み……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Hayami..."[pcms]
 
 ;//whiteEOUT
 ;[chara_int][bg storage="white"][trans_c cross time=3000]
@@ -757,8 +751,9 @@
 
 *3890|
 [fc]
-視界がどんどん白くなってくる中、速水が手を握り返[r]
-してくる感覚に安心し、俺はまた目を閉じた。[pcms]
+As my vision gradually whitened, I felt reassured by the[r]
+sensation of Hayami gripping my hand back, and I closed my[r]
+eyes again.[pcms]
 
 ;//♪：bgm012 fadeout
 [fadeoutbgm time=1000]
@@ -768,4 +763,4 @@
 
 [jump storage="hayamiroute11170.ks" target=*hayamiroute11170_TOP]
 
-;//－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+;//

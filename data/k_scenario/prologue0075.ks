@@ -23,21 +23,20 @@
 
 *6660|
 [fc]
-[ns]盛田[nse]
-「この時の陽子の心情はぁ……」[pcms]
+[ns]Morita[nse]
+"Yoko's feelings at this time are..."[pcms]
 
 *6661|
 [fc]
-[ns]大倉[nse]
-「ねむ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Sleepy..."[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
 *6662|
 [fc]
-相変わらず眠くなる授業だな……。[r]
-人にものを教えるってことに向いてないんじゃないの[r]
-か？　このオッサン……。[pcms]
+As usual, it's a class that makes me sleepy... Isn't this[r]
+old man unsuited to teach people anything?[pcms]
 
 [sysbt_meswin clear]
 ;消し無し[chara_int]
@@ -50,17 +49,17 @@
 
 *6663|
 [fc]
-早いとこ今日が終わって、明日にならねーかな……。[pcms]
+I wish today would end quickly and tomorrow would come...[pcms]
 
 *6664|
 [fc]
-明日の今頃は、どこにいるかな……。[r]
-まだバスの中か……。[r]
-それとも、速水とユウと３人で遊び回ってるか……。[pcms]
+I wonder where I'll be this time tomorrow... Still on the[r]
+bus...? Or maybe running around having fun with Hayami and[r]
+Yuu...[pcms]
 
 *6665|
 [fc]
-楽しくなればいいけどな、修業旅行……。[pcms]
+I hope the training trip turns out to be fun...[pcms]
 
 [fadeoutbgm time=502]
 [stop_se0]
@@ -70,4 +69,4 @@
 
 [jump storage="prologue0080.ks" target=*prologue0080_TOP]
 
-;//－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+;//

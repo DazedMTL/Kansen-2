@@ -13,14 +13,13 @@
 
 *4848|
 [fc]
-あんまり息をしないようにして、エスカレーターを降[r]
-りてくると、途中から煙が薄くなったような気がした。[pcms]
+Trying not to breathe too much, I descended the escalator[r]
+and felt the smoke thinning out halfway down.[pcms]
 
 *4849|
 [fc]
-３階まであと少しという所まで来ると、呼吸が少し楽[r]
-になるのを感じて、俺はしゃがむのをやめて[r]
-立ち上がった。[pcms]
+As I got close to the third floor, breathing became a bit[r]
+easier, so I stopped crouching and stood up.[pcms]
 
 ;//[]BG表示
 ;//★ＢＧ：ペットショップA
@@ -34,20 +33,22 @@
 
 *4850|
 [fc]
-[ns]大倉[nse]
-「あれ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Huh...?"[pcms]
 
 *4851|
 [fc]
-３階に着くと、スプリンクラーが作動していて、天井[r]
-のあちこちから、水のシャワーが床へ降り注いでいた。[pcms]
+When I reached the third floor, the sprinklers were[r]
+activated, and showers of water were pouring down from[r]
+various parts of the ceiling onto the floor.[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
 *4852|
 [fc]
-火事になりかけてすぐに作動したのか、床も棚も水浸[r]
-しになっていて、燃えてる所はどこにも無かった。[pcms]
+It seemed the fire had been extinguished quickly after[r]
+starting, as the floors and shelves were soaked, with no[r]
+signs of fire anywhere.[pcms]
 
 ;//[]SE：アナウンス前の告知音（？）
 ;//※ピンポンパンポーン
@@ -55,59 +56,58 @@
 
 *4853|
 [fc]
-[ns]大倉[nse]
-「……？」[pcms]
+[ns]Ookura[nse]
+"...?"[pcms]
 
 *4854|
 [fc]
 [vo_mob s="ana0001"]
-[ns]館内アナウンス[nse]
-『ウエストタウンにご来店のお客様に、[r]
-　ご案内申し上げます』[pcms]
+[ns]In-house Announcement[nse]
+"Attention to all customers at West Town,"[pcms]
 
 *4855|
 [fc]
 [vo_mob s="ana0002"]
-[ns]館内アナウンス[nse]
-『現在、ウエストタウン内の設備が一部、問題が発生[r]
-　している為、ただいまより、ウエストタウンの点検[r]
-　を行わせて頂きます』[pcms]
+[ns]In-house Announcement[nse]
+"Currently, there is a problem with some of the facilities[r]
+inside West Town, so we will now be conducting an[r]
+inspection."[pcms]
 
 *4856|
 [fc]
 [vo_mob s="ana0003"]
-[ns]館内アナウンス[nse]
-『係員がご案内いたしますので、３階、ウエストゲー[r]
-　ト、または、１階、エントランスから、イーストタ[r]
-　ウンへご移動ください』[pcms]
+[ns]In-house Announcement[nse]
+"Please follow the guidance of our staff and move to East[r]
+Town via the third floor West Gate or the first floor[r]
+Entrance."[pcms]
 
 *4857|
 [fc]
 [vo_mob s="ana0004"]
-[ns]館内アナウンス[nse]
-『ウエストタウンでお買い物中のお客様におかれまし[r]
-　ては、大変、ご迷惑をおかけしますが、ご理解、[r]
-　ご協力頂けますよう、お願い申し上げます』[pcms]
+[ns]In-house Announcement[nse]
+"We apologize for any inconvenience this may cause to our[r]
+customers shopping at West Town and ask for your[r]
+understanding and cooperation."[pcms]
 
 *4858|
 [fc]
 [vo_mob s="ana0005"]
-[ns]館内アナウンス[nse]
-『ウエストタウンにご来店のお客様に、[r]
-　ご案内申し上げます……』[pcms]
+[ns]In-house Announcement[nse]
+"Attention to all customers at West Town..."[pcms]
 ;//◎録る必要なし（上のものを流用）
 
 *4859|
 [fc]
-[ns]大倉[nse]
-「３階ウエストゲート……って、[r]
-　あの渡り廊下のトコか？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Third floor West Gate... is that the place with the[r]
+walkway?"[pcms]
 
 *4860|
 [fc]
-綺麗な声のアナウンスが繰り返される中、[r]
-エスカレーターを出て右の、短い方の通路に出ると、[r]
-渡り廊下のシャッターが開いているのが見えた。[pcms]
+Amidst the repeated announcements in a beautiful voice, I[r]
+exited the escalator to the right and into the shorter[r]
+corridor, where I could see that the walkway's shutter was[r]
+open.[pcms]
 
 ;//★ＢＧＳ：ゲート
 ;消し
@@ -116,55 +116,53 @@
 
 *4861|
 [fc]
-[ns]大倉[nse]
-「シャッターが開いてる……！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"The shutter's open...!"[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *4862|
 [fc]
-これで向こうのビルに行ける……。[r]
-速水を助けられるし、外にも出られる……！[pcms]
+This means I can get to the building across and save Hayami,[r]
+and also get outside...![pcms]
 
 [ChrSetEx layer=4 chbase="koba_m08"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *4863|
 [fc]
 [vo_kob s="koba0431"]
-[ns]小林[nse]
-「け゛ほっこ゛ほ……ひろ゛、おぉ～～……こ゛ほっ、[r]
-　か゛はっ……！」[pcms]
+[ns]Kobayashi[nse]
+"*cough* *cough*... Hiro... ooh~... *cough*, *gasp*...!"[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *4864|
 [fc]
-せき込むユウの声に振り向くと、低い呻き声や足音と[r]
-一緒に、イカレ集団が俺らを追って、エスカレーター[r]
-を降りてくるのが見えた。[pcms]
+Turning towards Yuuki's coughing voice, I saw a group of[r]
+crazies chasing after us, descending the escalator with low[r]
+groans and footsteps.[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_n01"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *4865|
 [fc]
-[ns]大倉[nse]
-「行こう！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Let's go!"[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *4866|
 [fc]
-俺はマヤちゃんの腕を引いて、スプリンクラーのシャ[r]
-ワーに濡れながら、渡り廊下へと急いだ。[pcms]
+I grabbed Maya-chan's arm and hurried towards the walkway,[r]
+getting drenched by the sprinkler showers.[pcms]
 
 ;//BKACKOUT
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
 *4867|
 [fc]
-全員、どっちかのビルに移動したのか、前に見た時に[r]
-いた大量のイカレ野郎は、渡り廊下から一人残らず[r]
-いなくなっていた。[pcms]
+All of them must have moved to one of the buildings because[r]
+none of the crazies I saw before were left in the walkway.[pcms]
 
 ;//[]BG表示
 ;//★ＢＧ：エアブリッジ：夜
@@ -177,117 +175,111 @@
 
 *4868|
 [fc]
-両側がガラス張りになっている渡り廊下を、速水が[r]
-いるはずのビルに向かって、俺らはひたすら走った。[pcms]
+We ran non-stop through the glass-enclosed walkway towards[r]
+the building where Hayami was supposed to be.[pcms]
 
 *4869|
 [fc]
-ガラスの向こうに見える空は、もう完全に明るくなっ[r]
-ている。[pcms]
+The sky visible beyond the glass had completely brightened[r]
+up.[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
 *4870|
 [fc]
-真ん中辺りの、円形になってる場所を通り過ぎた時、[r]
-後ろからユウの呼ぶ声が聞こえてきた。[pcms]
+As we passed through the circular area in the middle, I[r]
+heard Yuuki calling from behind.[pcms]
 
 *4871|
 [fc]
 [vo_kob s="koba0432"]
-[ns]小林[nse]
-「ひろ゛お゛ぉ～～……ひろ゛の゛、の゛んて゛み゛[r]
-　たぁい……ほ゛くの゛くちに、た゛してぇ～～……[r]
-　ひろ゛の、の゛ま゛せてえ゛ぇ～～～……！」[pcms]
+[ns]Kobayashi[nse]
+"Hiro~... I want to see your face... let me taste your[r]
+mouth, I want your pussy~..."[pcms]
 
 *4872|
 [fc]
-[ns]大倉[nse]
-「……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"..."[pcms]
 
 *4873|
 [fc]
-渡り廊下を出て、出入り口の周りに目を走らせると、[r]
-向こう側にあったのと同じ、フタ付きの開閉装置が壁[r]
-に取り付けられていた。[pcms]
+Exiting the walkway and scanning around the entrance, I saw[r]
+a closing device with a lid on the wall, just like on the[r]
+other side.[pcms]
 
 *4874|
 [fc]
-こっちのシャッターを担当したヒトは、鍵を閉める前[r]
-にイカレ野郎にやられてしまったのか、ボタンを隠す[r]
-フタが開けっ放しになっていた。[pcms]
+The person in charge of this shutter must have been attacked[r]
+by crazies before they could lock it because the cover[r]
+hiding the button was left open.[pcms]
 
 [ChrSetEx layer=4 chbase="koba_m02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *4875|
 [fc]
 [vo_kob s="koba0433"]
-[ns]小林[nse]
-「ね゛え゛ぇ～～……ひろの゛、と゛んなあし゛か゛[r]
-　する゛の゛お゛ぉ～～……？　[r]
-　の゛ま゛せてよおぉ～～～……！」[pcms]
+[ns]Kobayashi[nse]
+"Hey~... why are you being so mean~? Let me taste you~..."[pcms]
 
 *4876|
 [fc]
-俺は少し、笑いながら近づいてくるユウの顔を見つめ[r]
-てから、『閉』と書かれたボタンを押し込んだ。[pcms]
+I looked at Yuuki's face approaching with a bit of a smile[r]
+and then pressed the button marked "Close."[pcms]
 
 ;//[]SE：シャッターの閉まる音（？）
 [se0 storage="SE16"]
 
 *4877|
 [fc]
-こっちのビルまであと数メートルのところで、ユウの[r]
-進路を、シャッターが完全に遮った。[pcms]
+Just a few meters away from this building, the shutter[r]
+completely blocked Yuuki's path.[pcms]
 
 [ChrSetEx layer=4 chbase="koba_m06"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *4878|
 [fc]
 [vo_kob s="koba0434"]
-[ns]小林[nse]
-「あれ゛ぇ、ひろ゛お゛ぉ～～～……？　と゛こいっ[r]
-　たの゛ぉ、ね゛え゛ぇ～～……」[pcms]
+[ns]Kobayashi[nse]
+"Hey, Hiro~... where did you go~...?"[pcms]
 
 *4879|
 [fc]
-向こう側から、シャッターを叩きながら俺を呼ぶ、[r]
-ユウの声が聞こえてくる。[pcms]
+From the other side, I could hear Yuuki's voice calling and[r]
+banging on the shutter.[pcms]
 
 *4880|
 [fc]
-[ns]大倉[nse]
-「……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"..."[pcms]
 
 *4881|
 [fc]
-ユウ……。[r]
-ずっと一緒にいたのに、なんでオマエだけ病気に[r]
-なっちまったんだ……。[pcms]
+Yuuki... We were always together; why did you have to be the[r]
+only one to get sick...?[pcms]
 
 *4882|
 [fc]
-外にいる時に、ウイルスに感染したってわかってれば、[r]
-こんなトコに来ないで、オマエを助けることを考えた[r]
-のに……。[pcms]
+If I had known you were infected with the virus while we[r]
+were outside, I wouldn't have come here; I would have[r]
+thought about saving you...[pcms]
 
 *4883|
 [fc]
-[ns]大倉[nse]
-「……速水を助けたら、救助隊連れて戻ってくるから、[r]
-　それまで待っててくれ」[pcms]
+[ns]Ookura Hiroshi[nse]
+"...After I save Hayami, I'll come back with a rescue team,[r]
+so wait for me until then."[pcms]
 
 *4884|
 [fc]
-多分わかってないだろうと思いながら、そう声を[r]
-かけて、まだ呼び続けるユウの声を背中に受けながら、[r]
-俺はシャッターに背を向けた。[pcms]
+Thinking he probably didn't understand, I called out to him[r]
+and turned my back on the shutter with Yuuki's voice still[r]
+calling behind me.[pcms]
 
 [ChrSetEx layer=4 chbase="koba_m08"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *4885|
 [fc]
 [vo_kob s="koba0435"]
-[ns]小林[nse]
-「ひろ゛ぉ、と゛こお゛ぉ～～……？　ね゛えぇ～～、[r]
-　いし゛わる゛しないて゛よ゛お゛ぉ～～……」[pcms]
+[ns]Kobayashi[nse]
+"Hiro~ where are you~? Hey~, don't be mean~..."[pcms]
 
 ;//♪：bgm009 fadeout
 [fadeoutbgm time=1000]
@@ -297,8 +289,9 @@
 ;//BKACKOUT
 *4885a|
 [fc]
-取りあえず、一番上から探して行こうと、俺らは短い[r]
-通路を進み、近い方のエスカレーターに辿り着いた。[pcms]
+We decided to start searching from the top floor and[r]
+proceeded down the short corridor to reach the nearby[r]
+escalator.[pcms]
 
 ;//[]BG表示
 ;//★ＢＧ：階段付近東A
@@ -314,88 +307,86 @@
 
 *4886|
 [fc]
-[ns]大倉[nse]
-「あれ？　コイツ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Huh? This girl..."[pcms]
 
 *4887|
 [fc]
-４階へ上るエスカレーターの前に、目を見開いたまま、[r]
-仰向けに床に横たわっているその女に、俺は見覚えが[r]
-あった。[pcms]
+In front of the escalator leading up to the fourth floor,[r]
+there lay a woman on her back with her eyes wide open; I[r]
+recognized her.[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
 *4888|
 [fc]
-イカレ野郎から逃げるために、ココへ向かってる最中、[r]
-商店街で会ったあの女だった。[pcms]
+She was the woman I met in the shopping district while we[r]
+were heading here to escape from crazies.[pcms]
 
 *4889|
 [fc]
-[ns]大倉[nse]
-「オイ……」[pcms]
+[ns]Ookura[nse]
+"Hey..."[pcms]
 
 *4890|
 [fc]
-コイツも病気になってるかもしれないと、俺は傍まで[r]
-行かないで、シャベルで体をつついてみたが、[r]
-女はなんの反応もしない。[pcms]
+Thinking she might also be sick, I didn't approach her but[r]
+poked her body with a shovel. She didn't react at all.[pcms]
 
 *4891|
 [fc]
-息をしてないみたいで、背中や腹を見ても、動いてる[r]
-様子は無い。[pcms]
+She didn't seem to be breathing, and there was no movement[r]
+in her back or stomach either.[pcms]
 
 *4892|
 [fc]
-[ns]大倉[nse]
-「死んでんのか……？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Is she dead...?"[pcms]
 
 *4893|
 [fc]
-慎重に近づき、急に腕を動かして引っかいてこないよ[r]
-うに、女の腕の、肘の辺りを踏みつけて、俺は女の手[r]
-首に指を当ててみた。[pcms]
+Cautiously approaching and making sure she wouldn't suddenly[r]
+move her arm to scratch me, I stepped on her arm near her[r]
+elbow and felt for her wrist pulse.[pcms]
 
 *4894|
 [fc]
-脈が無ぇ……。[r]
-死んでんだよな？　コレ……。[pcms]
+No pulse... She's dead, isn't she? This...[pcms]
 
 *4895|
 [fc]
-頭がイカレたヤツらにやられたのか、それとも、速水[r]
-をさらったオッサンにやられたのか……。[pcms]
+Was she done in by those crazies or by that old man who took[r]
+Hayami...?[pcms]
 
 *4896|
 [fc]
-まさか、速水も……。[pcms]
+I hope not Hayami too...[pcms]
 
 *4897|
 [fc]
-俺は慌てて周りを見回してみたが、近くに速水らしい[r]
-人間は倒れてない。[pcms]
+I frantically looked around, but there was no one resembling[r]
+Hayami collapsed nearby.[pcms]
 
 *4898|
 [fc]
-この辺じゃないってだけで、このビルのどっかで倒れ[r]
-てんのかもしれねー……。[pcms]
+Just because she's not around here doesn't mean she hasn't[r]
+collapsed somewhere else in this building...[pcms]
 
 *4899|
 [fc]
-急がねーと……。[pcms]
+We need to hurry...[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_n06"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *4900|
 [fc]
-[ns]大倉[nse]
-「行こう」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Let's go."[pcms]
 
 *4901|
 [fc]
-焦りを感じ始めた俺は、マヤちゃんを促して、早足で[r]
-４階へと向かった。[pcms]
+Feeling the urgency, I urged Maya-chan and we quickly made[r]
+our way to the fourth floor.[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
@@ -403,4 +394,4 @@
 
 [jump storage="jingujiroute12090.ks" target=*jingujiroute12090_TOP]
 
-;//－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+;//

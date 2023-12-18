@@ -39,7 +39,7 @@
 ;[link storage="westtown_bad_30090.ks" target=*westtown_bad_30090_TOP]ウゼーけど、助けてやるか……[endlink]
 ;[link storage="hayamiroute11040.ks"   target=*hayamiroute11040_TOP  ]自業自得だ、ザマーミロ！[endlink]
 ;[link storage="westtown_bad_30110.ks" target=*westtown_bad_30110_TOP]ロクでもねーオッサンだ、しかたねー……でも……[endlink]
-;[s]
+;[pcms]
 
 
 ;	*11030_save
@@ -58,9 +58,9 @@
 [fc]
 [pcms_sel]
 
-[eval exp="f.seltext02 = 'ウゼーけど、助けてやるか……'"]
-[eval exp="f.seltext04 = '自業自得だ、ザマーミロ！'"]
-[eval exp="f.seltext06 = 'ロクでもねーオッサンだ、しかたねー……でも……'"]
+[eval exp="f.seltext02 = 'Annoying, but I guess I\'ll help'"]
+[eval exp="f.seltext04 = 'You got what you deserved, serves you right!'"]
+[eval exp="f.seltext06 = 'He\'s a good-for-nothing old man, can\'t be helped But'"]
 
 [if exp="tf.sys_sub == 0 || tf.選択肢ログ表示してね == 1"]
 	;選択肢内容をバックログに表記。改行コード必須。

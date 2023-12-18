@@ -21,15 +21,16 @@
 
 *10527|
 [fc]
-予想通り、壁に付いていた『非常時用シャッター手動[r]
-閉鎖装置』を作動させて、俺はシャッターを降ろした。[pcms]
+As expected, I activated the "Emergency Shutter Manual[r]
+Closure Device" attached to the wall and lowered the[r]
+shutter.[pcms]
 
 *10528|
 [fc]
-[ns]大倉[nse]
-「向こうの階段のシャッター閉めてくるから、アイツ[r]
-　らの仲間が来たら、あのヒトらを連れて、先に上に[r]
-　逃げてくれ」[pcms]
+[ns]Ookura Hiroshi[nse]
+"I'm going to close the shutter on the staircase over there.[r]
+If those guys' friends come, take them and escape to the[r]
+upper floor ahead of us."[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
@@ -40,13 +41,13 @@
 *10529|
 [fc]
 [vo_kob s="koba0161"]
-[ns]小林[nse]
-「う、うん……」[pcms]
+[ns]Kobayashi[nse]
+"Y-Yes..."[pcms]
 
 *10530|
 [fc]
-不安そうな顔をするユウの肩を叩き、頼むぞと念を押[r]
-してから、俺はもう一つの階段へ走った。[pcms]
+I patted Yuu's anxious-looking shoulder, pressed her with a[r]
+'please', and then ran towards another staircase.[pcms]
 
 ;//♪：bgm018 fadeout
 [fadeoutbgm time=1000]
@@ -59,13 +60,14 @@
 
 *10531|
 [fc]
-１階みたいに店の中にイカレ野郎がいるんじゃないか[r]
-と、俺は周りに注意を向けながら走った。[pcms]
+Worried that there might be crazies inside the shops like on[r]
+the first floor, I ran while keeping an eye on my[r]
+surroundings.[pcms]
 
 *10532|
 [fc]
-けど、どの店の中にも、生き返った死体が転がってい[r]
-たエスカレーターの周りにも、ひとの姿は無かった。[pcms]
+But there was no one around any of the shops, nor around the[r]
+escalators littered with reanimated corpses.[pcms]
 
 ;//BG表示
 ;//★ＢＧ：階段付近Ａ
@@ -88,31 +90,32 @@
 ;//校正：『下』で合ってるのか
 *10532a|
 [fc]
-この下のシャッターは閉めてねーから、ちょっと不安[r]
-だな……。[pcms]
+I'm a bit worried since we haven't closed the shutter[r]
+below...[pcms]
 
 *10533|
 [fc]
-２階に入れないのがわかったら、３階に行くかもしれ[r]
-ない……。[pcms]
+If they realize they can't get into the second floor, they[r]
+might head to the third...[pcms]
 
 *10534|
 [fc]
-３階に行って、速水がいる方のビルに行っちまったら、[r]
-助けるのが難しくなりそうだ……。[pcms]
+If they go to the third floor and end up in the building[r]
+where Hayami is, it's going to be tough to help...[pcms]
 
 *10535|
 [fc]
-ヤク中かもしれないオッサンと、死んでも生き返るイ[r]
-カレ野郎……。[pcms]
+A junkie old man and crazies who come back to life even[r]
+after dying...[pcms]
 
 *10536|
 [fc]
-最悪の組み合わせだな……。[pcms]
+It's the worst combination...[pcms]
 
 *10537|
 [fc]
-早いトコ３階に行って、シャッター閉めねーと……。[pcms]
+We need to get to the third floor quickly and close that[r]
+shutter...[pcms]
 
 ;//BKACKOUTBG表示
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -128,14 +131,14 @@
 *10538|
 [fc]
 [vo_kob s="koba0162"]
-[ns]小林[nse]
-「よかった、もどってきて……」[pcms]
+[ns]Kobayashi[nse]
+"Thank goodness, you came back..."[pcms]
 
 *10539|
 [fc]
-[ns]大倉[nse]
-「３階行くぞ。上のシャッターも閉めなきゃなんねー[r]
-　からな」[pcms]
+[ns]Ookura Hiroshi[nse]
+"We're heading to the third floor. We have to close the[r]
+shutter up there too."[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
@@ -143,16 +146,15 @@
 
 *10540|
 [fc]
-[ns]大倉[nse]
-「向こうの階段、１階のシャッターは閉めてねーんだ。[r]
-　あの辺にいたヤツらが、３階に上がってくるかもし[r]
-　れない」[pcms]
+[ns]Ookura Hiroshi[nse]
+"The shutter on the first floor staircase over there hasn't[r]
+been closed. Those guys might come up to the third floor."[pcms]
 
 *10541|
 [fc]
-[ns]大倉[nse]
-「３階があんなヤツらで埋まっちまったら、速水を助[r]
-　けるのがキビシくなるからな」[pcms]
+[ns]Ookura Hiroshi[nse]
+"If the third floor gets filled with those crazies, it'll be[r]
+tough to save Hayami."[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 [ChrSetEx layer=2 chbase="anza_n08"][ChrSetXY layer=2 x=0 y=0]
@@ -161,294 +163,291 @@
 *10542|
 [fc]
 [vo_anz s="anzai0081"]
-[ns]女[nse]
-「シャッターを閉めるのはいいけれど、彼女を助けた[r]
-　あと、どうやってここから出るか、それは考えてあ[r]
-　るの？」[pcms]
+[ns]Female[nse]
+"It's fine to close the shutter, but have you thought about[r]
+how we're going to get out of here after saving her?"[pcms]
 
 *10543|
 [fc]
-[ns]大倉[nse]
-「……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"..."[pcms]
 
 *10544|
 [fc]
-ヤツらを近づけないこと、速水を助けることだけを考[r]
-えていて、そこをすっかり忘れていた俺は、女の人の[r]
-質問に答えることができなかった。[pcms]
+Caught up in not letting them get close and saving Hayami, I[r]
+had completely forgotten about our exit plan and couldn't[r]
+answer the woman's question.[pcms]
 
 [ChrSetEx layer=2 chbase="anza_n16"][ChrSetXY layer=2 x=0 y=0][trans_c cross time=150]
 
 *10545|
 [fc]
 [vo_anz s="anzai0082"]
-[ns]女[nse]
-「彼女を助けたくて焦るのもわかるけれど、少し落ち[r]
-　着いた方がいいわ」[pcms]
+[ns]Female[nse]
+"I understand you're in a hurry to save her, but it might be[r]
+better to calm down a bit."[pcms]
 
 *10546|
 [fc]
-落ち着いたトーンで、他人事みたいに言う女の人に腹[r]
-が立って、俺は思わずデカイ声を出していた。[pcms]
+Annoyed by the woman's detached tone as if it were someone[r]
+else's problem, I inadvertently raised my voice.[pcms]
 
 *10547|
 [fc]
-[ns]大倉[nse]
-「あのオッサンはヤク中かもしれねーんだ！　落ち着[r]
-　いてるヒマなんか無ぇッ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"That old man might be a junkie! There's no time to stay[r]
+calm!!"[pcms]
 
 [ChrSetEx layer=2 chbase="anza_n05"][ChrSetXY layer=2 x=0 y=0][trans_c cross time=150]
 
 *10548|
 [fc]
 [vo_anz s="anzai0083"]
-[ns]女[nse]
-「……そう、それで焦ってるのね」[pcms]
+[ns]Female[nse]
+"...I see, so that's why you're panicking."[pcms]
 
 *10549|
 [fc]
-俺に怒鳴りつけられて、女の人はなぜか、納得がいっ[r]
-たような顔になった。[pcms]
+After being yelled at by me, the woman somehow looked as if[r]
+she had come to an understanding.[pcms]
 
 *10550|
 [fc]
 [vo_anz s="anzai0084"]
-[ns]女[nse]
-「ごめんなさい。わたしが覚醒剤の話をしたから、誤[r]
-　解させてしまったみたいね」[pcms]
+[ns]Female[nse]
+"I'm sorry. It seems I caused a misunderstanding by bringing[r]
+up the topic of stimulants."[pcms]
 
 *10551|
 [fc]
-[ns]大倉[nse]
-「……？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"...?"[pcms]
 
 *10552|
 [fc]
 [vo_anz s="anzai0085"]
-[ns]女[nse]
-「確かに、あの男の人は興奮状態だったけれど、覚醒[r]
-　剤は摂取してないと思うわ」[pcms]
+[ns]Female[nse]
+"Indeed, that man was in an excited state, but I don't think[r]
+he had taken any stimulants."[pcms]
 
 *10553|
 [fc]
 [vo_anz s="anzai0086"]
-[ns]女[nse]
-「もし覚醒剤を摂取していたら、あんな風に理性的に[r]
-　行動することはできないはずよ」[pcms]
+[ns]Female[nse]
+"If he had taken stimulants, he wouldn't be able to act so[r]
+rationally."[pcms]
 
 *10554|
 [fc]
-[ns]大倉[nse]
-「理性的？　あれが？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Rational? That was rational?"[pcms]
 
 *10555|
 [fc]
 [vo_anz s="anzai0087"]
-[ns]女[nse]
-「トラックが突っ込んできた時、あのひとは素早く車を[r]
-　避けたうえに、向こうの建物へ逃げ込んで、シャッ[r]
-　ターを降ろしたわ」[pcms]
+[ns]Female[nse]
+"When that truck came crashing in, he quickly dodged the car[r]
+and escaped into the building across from us, lowering the[r]
+shutter."[pcms]
 ;//◎避けた＝よけた
 
 *10556|
 [fc]
 [vo_anz s="anzai0088"]
-[ns]女[nse]
-「自分を追ってこられないようにシャッターを閉める[r]
-　なんて、そんなこと、覚醒剤を摂取している人間が[r]
-　できるはずがないのよ」[pcms]
+[ns]Female[nse]
+"Closing the shutter to prevent being followed is not[r]
+something a person on stimulants could do."[pcms]
 
 *10557|
 [fc]
 [vo_anz s="anzai0089"]
-[ns]女[nse]
-「ちゃんと通じるような会話もしていたし、あのひとは[r]
-　薬物中毒ではないと思うわ」[pcms]
+[ns]Female[nse]
+"He was also able to hold a coherent conversation; I don't[r]
+think he's a drug addict."[pcms]
 
 *10558|
 [fc]
-[ns]大倉[nse]
-「……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"..."[pcms]
 
 *10559|
 [fc]
-俺は医者でもヤク中でもねーから、薬のことはよくわ[r]
-からないし、あのオッサンがヤク中かどうかもわから[r]
-ない……。[pcms]
+I'm neither a doctor nor a junkie, so I don't know much[r]
+about drugs, and I can't tell if that old man is a junkie or[r]
+not...[pcms]
 
 *10560|
 [fc]
-でも、アイツは速水を人質に取って、ナイフで脅して、[r]
-おまけに体を触りやがった……。[pcms]
+But that guy took Hayami hostage, threatened her with a[r]
+knife, and even touched her body...[pcms]
 
 *10561|
 [fc]
-あのオッサンがヤク中でもそうじゃなくても、速水が[r]
-危ないことには変わりねーんだ……。[pcms]
+No matter if that old man is a junkie or not, it doesn't[r]
+change the fact that Hayami is in danger...[pcms]
 
 [ChrSetEx layer=2 chbase="anza_n10"][ChrSetXY layer=2 x=0 y=0][trans_c cross time=150]
 
 *10562|
 [fc]
 [vo_anz s="anzai0090"]
-[ns]女[nse]
-「それに向こうも、こっちと同じ状況になっているか[r]
-　もしれないわよ？」[pcms]
+[ns]Female[nse]
+"Besides, the situation over there might be the same as[r]
+here, right?"[pcms]
 
 *10563|
 [fc]
-[ns]大倉[nse]
-「……？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"...?"[pcms]
 
 [ChrSetEx layer=2 chbase="anza_n08"][ChrSetXY layer=2 x=0 y=0][trans_c cross time=150]
 
 *10564|
 [fc]
 [vo_anz s="anzai0091"]
-[ns]女[nse]
-「あのおかしな人達が、こっちの建物にだけいるとは[r]
-　限らないわ」[pcms]
+[ns]Female[nse]
+"It's not certain that those strange people are only in this[r]
+building."[pcms]
 
 [ChrSetEx layer=3 chbase="koba_n04"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
 
 *10565|
 [fc]
 [vo_kob s="koba0163"]
-[ns]小林[nse]
-「そうだ……あのひとたち、さいしょからこのビルに[r]
-　いたみたいだし、むこうのビルにも、かくれてた[r]
-　かのうせいはあるよ」[pcms]
+[ns]Kobayashi[nse]
+"That's right... Those people seemed to have been in this[r]
+building from the start, so there's a possibility they were[r]
+hiding in the other building too."[pcms]
 
 *10566|
 [fc]
 [vo_anz s="anzai0092"]
-[ns]女[nse]
-「わたし達と同じ様に、おかしな人に対処するのに手[r]
-　一杯で、彼女や追いかけていった女の子に何かする[r]
-　場合じゃなくなっているかもしれないわ」[pcms]
+[ns]Female[nse]
+"Just like us, they might be too busy dealing with those[r]
+strange people to do anything to her or the girl who chased[r]
+after her."[pcms]
 
 [ChrSetEx layer=3 chbase="koba_n02"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
 
 *10567|
 [fc]
 [vo_kob s="koba0164"]
-[ns]小林[nse]
-「そのドサクサにまぎれたら、けっこうかんたんに、[r]
-　ありすをたすけられるかもしれないね」[pcms]
+[ns]Kobayashi[nse]
+"In all this confusion, we might be able to save Arisu quite[r]
+easily."[pcms]
 
 [ChrSetEx layer=2 chbase="anza_n17"][ChrSetXY layer=2 x=0 y=0][trans_c cross time=150]
 
 *10568|
 [fc]
-ユウが見せた脳天気な笑顔に毒気を抜かれた俺は、大[r]
-きく息をついて、はやる気持ちを抑え込んだ。[pcms]
+The carefree smile Yuu showed me took the edge off my anger,[r]
+and I took a deep breath to calm my racing heart.[pcms]
 
 *10569|
 [fc]
-[ns]大倉[nse]
-「……あのシャッターは一度閉めたら、ちゃんとした[r]
-　方法でやらないと、開けられないらしい。注意書き[r]
-　にそう書いてあった」[pcms]
+[ns]Ookura Hiroshi[nse]
+"...Once that shutter is closed, it seems we can't open it[r]
+again without doing it properly. That's what it said in the[r]
+warning note."[pcms]
 
 [ChrSetEx layer=3 chbase="koba_n07"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
 
 *10570|
 [fc]
 [vo_kob s="koba0165"]
-[ns]小林[nse]
-「じゃあ、でられないじゃん……どうするの？」[pcms]
+[ns]Kobayashi[nse]
+"Then we can't get out... What are we going to do?"[pcms]
 
 *10571|
 [fc]
-[ns]大倉[nse]
-「ユウ、地図出してくれ」[pcms]
+[ns]Ookura[nse]
+"Yuu, bring out the map."[pcms]
 
 [ChrSetEx layer=3 chbase="koba_n12"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
 
 *10572|
 [fc]
-俺はユウに手渡された地図を拡げて、建物の構造をも[r]
-う一度確認した。[pcms]
+I spread out the map handed to me by Yuu and checked the[r]
+structure of the building once more.[pcms]
 
 *10573|
 [fc]
-[ns]大倉[nse]
-「スロープ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Slope..."[pcms]
 
 *10574|
 [fc]
-俺は地図の端に書かれている、『※スロープは徒歩で[r]
-は絶対に立ち入らないでください』という文章に目を[r]
-留めた。[pcms]
+I focused on the text at the edge of the map that read,[r]
+"※Please do not enter the slope on foot under any[r]
+circumstances."[pcms]
 
 *10575|
 [fc]
-そうだ……。[r]
-屋上が駐車場なら、下の道から上がって来るためのス[r]
-ロープがあって当たり前だよな……。[pcms]
+That's right... If the rooftop is a parking lot, then it's[r]
+only natural that there would be a slope leading up from the[r]
+road below...[pcms]
 
 *10576|
 [fc]
-ってことは、そこを歩いて下りていけば、建物の外に[r]
-出られるはず……。[pcms]
+That means if we walk down there, we should be able to get[r]
+outside the building...[pcms]
 
 *10577|
 [fc]
-[ns]大倉[nse]
-「屋上のこのスロープから、歩いて下りてける。ここ[r]
-　からなら、多分、外に出られる」[pcms]
+[ns]Ookura Hiroshi[nse]
+"We can walk down from this slope on the rooftop. From here,[r]
+we can probably get outside."[pcms]
 
 [ChrSetEx layer=2 chbase="anza_n05"][ChrSetXY layer=2 x=0 y=0][trans_c cross time=150]
 
 *10578|
 [fc]
 [vo_anz s="anzai0093"]
-[ns]女[nse]
-「こういう建物には必ず非常階段があるから、それを[r]
-　使うこともできるわね」[pcms]
+[ns]Female[nse]
+"Buildings like this always have emergency stairs, so we[r]
+could use those as well."[pcms]
 
 [ChrSetEx layer=3 chbase="koba_n08"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
 
 *10579|
 [fc]
 [vo_kob s="koba0166"]
-[ns]小林[nse]
-「ヘリコプターもとんでるかもね」[pcms]
+[ns]Kobayashi[nse]
+"There might even be helicopters flying around."[pcms]
 
 *10580|
 [fc]
-[ns]大倉[nse]
-「ヘリ？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Helicopters?"[pcms]
 
 [ChrSetEx layer=3 chbase="koba_n01"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
 
 *10581|
 [fc]
 [vo_kob s="koba0167"]
-[ns]小林[nse]
-「ニュースでよくやってない？　さいがいがおこった[r]
-　ときに、そらからうつしてたりするでしょ」[pcms]
+[ns]Kobayashi[nse]
+"Don't they do it all the time on the news? Broadcasting[r]
+from the sky when a disaster happens."[pcms]
 
 *10582|
 [fc]
-[ns]大倉[nse]
-「そうか……これがニュースになってないワケねーか[r]
-　らな。テレビ局かなんかのヘリに、助けてもらえる[r]
-　かもしれない」[pcms]
+[ns]Ookura Hiroshi[nse]
+"I see... So this hasn't made the news yet. Maybe we could[r]
+get help from a TV station's helicopter or something."[pcms]
 
 *10583|
 [fc]
 [vo_kob s="koba0168"]
-[ns]小林[nse]
-「じゃあ、３かいのわたりろうかをとおって、むこう[r]
-　のビルにいって、ありすをたすけて……」[pcms]
+[ns]Kobayashi[nse]
+"Then, let's go through the corridor on the third floor and[r]
+head to the building across to save Arisu..."[pcms]
 
 *10584|
 [fc]
-[ns]大倉[nse]
-「屋上から逃げる、ってカンジだな。スロープと非常[r]
-　階段、どっち使うかは、行ってから決めっか。その[r]
-　時、安全に行ける方で」[pcms]
+[ns]Ookura Hiroshi[nse]
+"It feels like we're escaping from the rooftop. We'll decide[r]
+whether to use the slope or the emergency stairs once we get[r]
+there. At that time, we'll choose whichever is safer."[pcms]
 
 [chara_int_ layer=2][chara_int_ layer=3]
 [ChrSetEx layer=4 chbase="jinguji_n01"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -456,57 +455,57 @@
 *10585|
 [fc]
 [vo_may s="maya0075"]
-[ns]お嬢様[nse]
-「助けられるとは限らない……」[pcms]
+[ns]Young Lady[nse]
+"It's not certain that we'll be saved..."[pcms]
 
 *10586|
 [fc]
-それまで黙っていたお嬢様が、冷たく突き放すように[r]
-言うのに、俺は顔をしかめた。[pcms]
+I frowned at the young lady's cold and dismissive comment[r]
+after she had been silent until now.[pcms]
 
 *10587|
 [fc]
 [vo_may s="maya0076"]
-[ns]お嬢様[nse]
-「どうやって助けるかも決まってないのに……」[pcms]
+[ns]Young Lady[nse]
+"We haven't even decided how to save her..."[pcms]
 
 *10588|
 [fc]
-[ns]大倉[nse]
-「それは……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"That is..."[pcms]
 
 *10589|
 [fc]
 [vo_may s="maya0077"]
-[ns]お嬢様[nse]
-「向こうに行ったら、また勝手に焦りだして、勝手に[r]
-　行動するんじゃないの……」[pcms]
+[ns]Young Lady[nse]
+"Once we get there, you'll probably start panicking and[r]
+acting on your own again..."[pcms]
 
 *10590|
 [fc]
-[ns]大倉[nse]
-「……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"..."[pcms]
 
 *10591|
 [fc]
 [vo_may s="maya0078"]
-[ns]お嬢様[nse]
-「ミイラ取りがミイラになる、っていう言葉、知って[r]
-　る……？」[pcms]
+[ns]Young Lady[nse]
+"Do you know the saying, 'The one who sets out to capture a[r]
+mummy often ends up becoming one'?"[pcms]
 
 *10592|
 [fc]
-[ns]大倉[nse]
-「……じゃぁなんか、うまい方法であるのか？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"...So do you have a better idea then?"[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_n03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *10593|
 [fc]
 [vo_may s="maya0079"]
-[ns]お嬢様[nse]
-「そんなの知らない……。まず自分の安全を確保した[r]
-　方がいい、っていうことはわかるけど……」[pcms]
+[ns]Young Lady[nse]
+"I don't know about that... But I do understand that it's[r]
+better to ensure our own safety first..."[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 [ChrSetEx layer=2 chbase="anza_n08"][ChrSetXY layer=2 x=0 y=0]
@@ -515,69 +514,69 @@
 *10594|
 [fc]
 [vo_anz s="anzai0094"]
-[ns]女[nse]
-「わたしもそれに賛成。状況がわからないのに無闇に[r]
-　動いたら、危険なだけでいいことは無いと思うわ。[r]
-　それに向こうは刃物を持ってるし」[pcms]
+[ns]Female[nse]
+"I agree with that. It's dangerous to move recklessly[r]
+without understanding the situation. Besides, they have[r]
+knives over there."[pcms]
 
 [ChrSetEx layer=3 chbase="koba_n01"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
 
 *10595|
 [fc]
 [vo_kob s="koba0169"]
-[ns]小林[nse]
-「まず、あんぜんかくにんしてから、おあしす、だね」[pcms]
+[ns]Kobayashi[nse]
+"First, let's confirm it's safe, then go save Arisu, right?"[pcms]
 
 *10596|
 [fc]
-[ns]大倉[nse]
-「オアシス……？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Oasis...?"[pcms]
 
 *10597|
 [fc]
-なんのことかわからず、しかめっ面で見る俺に、ユウ[r]
-はニコッと笑って返してきた。[pcms]
+Not understanding what she meant, I looked at Yuu with a[r]
+scowl, and she returned a smile.[pcms]
 
 [ChrSetEx layer=3 chbase="koba_n02"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
 
 *10598|
 [fc]
 [vo_kob s="koba0170"]
-[ns]小林[nse]
-「おさない、あわてない、しずかに、すばやく。ひな[r]
-　んくんれんのときに、せんせいがいってたでしょ？」[pcms]
+[ns]Kobayashi[nse]
+"Don't rush, don't panic, stay quiet, and move quickly.[r]
+Didn't the teacher say that during emergency drills?"[pcms]
 
 *10599|
 [fc]
-[ns]大倉[nse]
-「……憶えてねーよ、そんなもん」[pcms]
+[ns]Ookura Hiroshi[nse]
+"...I don't remember such a thing."[pcms]
 
 *10600|
 [fc]
-溜息をつきながら首を横に振るユウに、女の人はクス[r]
-クス笑った。[pcms]
+As Yuu shook her head with a sigh, the woman chuckled.[pcms]
 
 [ChrSetEx layer=2 chbase="anza_n01"][ChrSetXY layer=2 x=0 y=0][trans_c cross time=150]
 
 *10601|
 [fc]
 [vo_anz s="anzai0095"]
-[ns]女[nse]
-「あとは、地震に関する情報ね。あれが使えたらいい[r]
-　のだけれど……」[pcms]
+[ns]Female[nse]
+"Next is information about the earthquake. It would be great[r]
+if we could use that..."[pcms]
 
 *10602|
 [fc]
-女の人は、すぐ傍の吹き抜けの向こうに見える、壁に[r]
-設置された巨大なディスプレイを指して言った。[pcms]
+The woman pointed to a huge display installed on the wall[r]
+across from the atrium as she spoke.[pcms]
 
 [ChrSetEx layer=2 chbase="anza_n07"][ChrSetXY layer=2 x=0 y=0][trans_c cross time=150]
 
 *10603|
 [fc]
 [vo_anz s="anzai0096"]
-[ns]女[nse]
-「管理室みたいな所に行かないと、駄目かしらね……」[pcms]
+[ns]Female[nse]
+"I wonder if we need to go to a control room or something to[r]
+use it..."[pcms]
 
 ;//SE：メールの受信音（？）
 [se0 storage="SE03"]
@@ -587,14 +586,14 @@
 
 *10604|
 [fc]
-ディスプレイの電源を入れるスイッチかなにかがない[r]
-かと、周りを見回していると、俺のポケットから、こ[r]
-の場に似合わない音楽が聞こえだした。[pcms]
+As I looked around for a switch or something to turn on the[r]
+display, an out-of-place tune started playing from my[r]
+pocket.[pcms]
 
 *10605|
 [fc]
-[ns]大倉[nse]
-「メール？　まさか……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"An email? No way..."[pcms]
 
 [chara_int_ layer=2][chara_int_ layer=3][trans_c cross time=150]
 
@@ -602,105 +601,100 @@
 
 *10606|
 [fc]
-速水から送られてきたと思って、急いで受信したメー[r]
-ルを開いてみたが、表示されている名前は俺の母親の[r]
-ものだった。[pcms]
+I hurriedly opened the email I received, thinking it was[r]
+from Hayami, but the name displayed was my mother's.[pcms]
 
 *10607|
 [fc]
-母さんかよ……。[r]
-そういや、ウチの方はどうってんだろう……。[pcms]
+Mom, huh... I wonder how things are back home...[pcms]
 
 *10608|
 [fc]
-〔Ｓｕｂ：旅行はどう？〕[pcms]
+How's the trip?</Sub>[pcms]
 
 *10609|
 [fc]
-〔楽しくやってる？　お母さんも千台行きたいなあ！[r]
-オミヤゲよろしくね！〕[pcms]
+<Enjoying yourself? Mom wants to go to Sendai too! Don't[r]
+forget my souvenir!>[pcms]
 
 *10610|
 [fc]
-[ns]大倉[nse]
-「あれ……？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Huh...?"[pcms]
 
 *10611|
 [fc]
-ケータイ、通じなかったよな……。[r]
-メールが受信できるってことは、通じるようになった[r]
-のか……？[pcms]
+I thought cell phones weren't getting through... Does this[r]
+mean they're working now?[pcms]
 
 *10612|
 [fc]
-そう思ってウチへかけてみても、話し中の時の音が鳴[r]
-り続けるだけで、通じることはなかった。[pcms]
+But when I tried calling home, I only heard the busy signal[r]
+and couldn't get through.[pcms]
 
 *10613|
 [fc]
-ついでに速水にもかけてみたが、やっぱり通じること[r]
-はなかった。[pcms]
+I also tried calling Hayami, but still couldn't get through.[pcms]
 
 *10614|
 [fc]
-やっぱりダメか……。[r]
-じゃぁ、なんでこのメールは受信できたんだ……？[pcms]
+Still no good, huh... Then why was this email able to come[r]
+through?[pcms]
 
 *10615|
 [fc]
-メールの送信日時を見ると、今日の夕方１８時になっ[r]
-ていた。[pcms]
+When I checked the date and time of the email, it was marked[r]
+as today at 6 PM.[pcms]
 
 *10616|
 [fc]
-なんだこりゃ……。[r]
-ずいぶん遅れて届いてる……。[pcms]
+What's this... It arrived quite late...[pcms]
 
 *10617|
 [fc]
-そういえば前にテレビで聞いたな……。[r]
-戦争とか大地震があった時は、ケータイの発信とか、[r]
-メールの送受信が制限されるとかって……。[pcms]
+I remember hearing on TV before... During wars or major[r]
+earthquakes, cell phone transmissions and email send/receive[r]
+can be restricted...[pcms]
 
 *10618|
 [fc]
-ウチの方は、なにも起きてねーのかな……。[pcms]
+I wonder if nothing has happened back home...[pcms]
 
 *10619|
 [fc]
-送れはするけど届く、ということがわかった俺は、な[r]
-にかわかるかもしれないと考えて、母親に返信してお[r]
-くことにした。[pcms]
+Realizing that sending was possible but receiving was[r]
+uncertain, I decided to reply to my mother just in case she[r]
+knew something.[pcms]
 
 *10620|
 [fc]
-［Ｓｕｂ：Ｒｅ：旅行はどう？］[pcms]
+Re: How's the trip?</Sub>[pcms]
 
 *10621|
 [fc]
-［知ってるかもしれないけど、地震かなにかがあった[r]
-みたいで、こっちは大変なことになってる。いちおう[r]
-無事だから。］[pcms]
+<You might already know, but it seems like there was an[r]
+earthquake or something, and things are pretty bad here. I'm[r]
+safe for now.>[pcms]
 
 *10622|
 [fc]
-［ラジオもテレビもないから、なにが起きてるかわか[r]
-らない。ニュース見たら、なんて言ってたかメールで[r]
-送って］[pcms]
+<There's no radio or TV so I don't know what's happening. If[r]
+you've seen the news, please send me an email about what[r]
+they're saying.>[pcms]
 
 *10623|
 [fc]
-メールを送信すると、バッテリーの残りを示す３本の[r]
-線のうち、１本が消えた。[pcms]
+Sending the email caused one of the three lines indicating[r]
+battery life to disappear.[pcms]
 
 *10624|
 [fc]
-通じるようになった時に、ちゃんと使えるように節約[r]
-してかねーと……。[pcms]
+I need to conserve it for when communication is restored...[pcms]
 
 *10625|
 [fc]
-ムダに電話かけたり、メールするのはやめとこう……。[pcms]
+I'll stop making unnecessary phone calls and sending[r]
+emails...[pcms]
 
 [cutin_int][trans_c cross time=300]
 
@@ -709,38 +703,37 @@
 *10626|
 [fc]
 [vo_kob s="koba0171"]
-[ns]小林[nse]
-「もしかして、ありすから？」[pcms]
+[ns]Kobayashi[nse]
+"Could it be from Arisu?"[pcms]
 
 *10627|
 [fc]
-[ns]大倉[nse]
-「いや、母さんから。ニュースでこの地震のことやっ[r]
-　てたら、教えてくれって返しといた」[pcms]
+[ns]Ookura Hiroshi[nse]
+"No, it's from my mom. I just replied asking her to let me[r]
+know if the news is covering the earthquake."[pcms]
 
 [ChrSetEx layer=4 chbase="koba_n01"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *10628|
 [fc]
-ここから近い方のエスカレーターの場所を確認して、[r]
-俺は館内地図をユウに返した。[pcms]
+After checking the location of the nearest escalator, I[r]
+returned the map of the building to Yuu.[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *10629|
 [fc]
-向こうのエスカレーターでも良いけど、いなくなって[r]
-た動く死体が、戻ってくるかもしれねーからな……。[pcms]
+"We could use the other escalator, but the moving corpses[r]
+that were gone might come back..."[pcms]
 
 *10630|
 [fc]
-[ns]大倉[nse]
-「じゃぁ、行きましょう」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Well then, let's go."[pcms]
 
 *10631|
 [fc]
-速水……。[r]
-俺らが行くまで、無事でいてくれよ……。[pcms]
+Hayami... Please be safe until we get there...[pcms]
 
 [fadeoutbgm time=502]
 [stop_se0]
@@ -750,4 +743,4 @@
 
 [jump storage="westtown_main10130.ks" target=*westtown_main10130_TOP]
 
-;//－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+;//

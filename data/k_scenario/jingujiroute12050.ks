@@ -13,8 +13,8 @@
 
 *4535|
 [fc]
-『Ｎｏ．３』の映画館に一番近いエスカレーターを使[r]
-い、俺らは３階に降りた。[pcms]
+"We used the escalator closest to the 'No. 3' movie theater[r]
+and descended to the third floor."[pcms]
 
 ;//[]BG表示
 ;//★ＢＧ：ペットショップA
@@ -28,171 +28,170 @@
 
 *4536|
 [fc]
-３階は気味悪いぐらいに静まりかえっていて、前に来[r]
-た時に聞こえていた、檻の中の動物が吠える声や、暴[r]
-れる音は、一切聞こえてこない。[pcms]
+"The third floor was eerily quiet, and none of the sounds of[r]
+animals barking in cages or rioting that I had heard before[r]
+could be heard at all."[pcms]
 
 *4537|
 [fc]
-イカレ野郎も、見える部分には１人もいなくて、これ[r]
-ならすぐに上へ戻れそうだった。[pcms]
+"Not a single crazy guy was in sight, and it looked like we[r]
+could quickly head back upstairs."[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
 *4538|
 [fc]
-[ns]大倉[nse]
-「リードってのは、どの辺に置いてあるんだ……？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Where are the leads kept...?"[pcms]
 
 *4539|
 [fc]
-降り口の横の壁に取り付けられた案内図で、ペット用[r]
-のグッズを売ってる場所を探していると、どこからか、[r]
-何かが近づいてくる音が聞こえてきた。[pcms]
+"While searching for the pet goods section on the map[r]
+attached next to the exit, I heard the sound of something[r]
+approaching from somewhere."[pcms]
 
 *4540|
 [fc]
-[ns]大倉[nse]
-「なんだ……？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"What's that...?"[pcms]
 
 *4541|
 [fc]
-[ns]ジョン[nse]
-「グルルルルルルッ！！」[pcms]
+[ns]John[nse]
+"Grrrrrrrrr!!"[pcms]
 
 *4542|
 [fc]
-ハスキーが姿勢を低くして唸り出すのと同時に、エス[r]
-カレーターの右手、吹き抜けに面した通路の方から、[r]
-大きい犬が３頭、姿を現した。[pcms]
+"As the husky started growling with a low stance, three[r]
+large dogs appeared from the direction of the corridor[r]
+facing the atrium on the right side of the escalator."[pcms]
 
 ;//♪：bgm009
 [bgm storage="bgm009"]
 
 *4543|
 [fc]
-[ns]黒い大型犬[nse]
-「ク゛ァウア゛ッ！！」[pcms]
+[ns]Black large dog[nse]
+"Grrraaah!!"[pcms]
 
 *4544|
 [fc]
-[ns]大倉[nse]
-「うわぁッ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Whoa!!"[pcms]
 
 ;//[]SE：打撃音（？）
 [se0 storage="SE20"]
 
 *4545|
 [fc]
-[ns]ジョン[nse]
-「グルルルルルルッ！！」[pcms]
+[ns]John[nse]
+"Grrrrrrrrr!!"[pcms]
 
 *4546|
 [fc]
-襲いかかってきた真っ黒な犬に、ハスキーが体当たり[r]
-をカマして、俺はかろうじて助かった。[pcms]
+"The husky body-slammed the attacking black dog, and I[r]
+barely escaped harm."[pcms]
 
 *4547|
 [fc]
-[ns]大倉[nse]
-「ハァッ……ハァッ……！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Haa... Haa...!"[pcms]
 
 *4548|
 [fc]
-床に尻餅をついたまま後ずさりする俺と、固まったま[r]
-ま立ち尽くしているマヤちゃんの前に立ちはだかって、[r]
-ハスキーは３頭の犬を威嚇している。[pcms]
+"As I backed away while sitting on the floor, and Maya-chan[r]
+stood frozen in place, the husky stood in front of us,[r]
+intimidating the three dogs."[pcms]
 
 *4549|
 [fc]
-[ns]ジョン[nse]
-「グルルルルルルッ！！」[pcms]
+[ns]John[nse]
+"Grrrrrrrrr!!"[pcms]
 
 *4550|
 [fc]
-[ns]赤毛の大型犬[nse]
-「ウ゛ウゥゥゥゥウ゛ウ゛ッ……！！」[pcms]
+[ns]Red-haired large dog[nse]
+"Vvvvvvvv...!!"[pcms]
 
 *4551|
 [fc]
-３頭の犬は、フラフラと立ち位置を変えながら、唸り[r]
-声をあげて、俺らを見据えている。[pcms]
+"The three dogs, while changing their standing positions[r]
+unsteadily, growled and kept their eyes fixed on us."[pcms]
 
 *4552|
 [fc]
-そんな中、マヤちゃんが何かに気がついたような顔を[r]
-して、背負っていた非常持ち出し袋を下ろし、フタを[r]
-開けた。[pcms]
+"Amidst this, Maya-chan seemed to realize something, took[r]
+off her emergency carry bag, and opened the lid."[pcms]
 
 *4553|
 [fc]
-[ns]大倉[nse]
-「……？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"...?"[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_n07"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *4554|
 [fc]
 [vo_may s="maya0325"]
-[ns]摩耶[nse]
-「あった……！」[pcms]
+[ns]Maya[nse]
+"Found it...!"[pcms]
 
 *4555|
 [fc]
-袋の中をゴソゴソと掻き回していたマヤちゃんは、何[r]
-かを見つけて、手を引き抜いた。[pcms]
+"Maya-chan rummaged through the bag and pulled out something[r]
+she found."[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_n06"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *4556|
 [fc]
 [vo_may s="maya0326"]
-[ns]摩耶[nse]
-「んっ……！！」[pcms]
+[ns]Maya[nse]
+"Ngh...!!"[pcms]
 ;//◎体に力を入れた時に漏れた声ｏｒ息
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *4557|
 [fc]
-マヤちゃんは袋から取り出した銀色の包みを破き、そ[r]
-れをエレベーターホールの方へ、３頭の犬を掠めるよ[r]
-うにしてブン投げた。[pcms]
+"Maya-chan tore open a silver package she took out of the[r]
+bag and threw it towards the elevator hall, skimming past[r]
+the three dogs."[pcms]
 
 *4558|
 [fc]
-[ns]細面の大型犬[nse]
-「ウ゛ァウア゛ッ！！」[pcms]
+[ns]Narrow-faced large dog[nse]
+"Grrraaah!!"[pcms]
 
 *4559|
 [fc]
-[ns]黒い大型犬[nse]
-「ク゛ァルルッ！！」[pcms]
+[ns]Black large dog[nse]
+"Grrrluh!!"[pcms]
 
 *4560|
 [fc]
-３頭の犬は、自分の鼻先を掠めて飛んでいった銀色の[r]
-包みを、物凄い勢いで追って走っていく。[pcms]
+"The three dogs chased after the silver package that flew[r]
+past their noses with incredible speed."[pcms]
 
 *4561|
 [fc]
-[ns]大倉[nse]
-「アレは……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"That was..."[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_n01"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *4562|
 [fc]
 [vo_may s="maya0327"]
-[ns]摩耶[nse]
-「非常食……今なら行ける、急いで……！！」[pcms]
+[ns]Maya[nse]
+"Emergency food... We can go now, hurry...!!"[pcms]
 
 *4563|
 [fc]
-[ns]大倉[nse]
-「あ、う、うん……！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Ah, yeah, right...!"[pcms]
 
 *4564|
 [fc]
-俺は慌てて立ち上がって、３頭の犬が現れた方とは反[r]
-対の、長い方の通路へ向かって走った。[pcms]
+"I hurriedly stood up and ran towards the longer corridor[r]
+opposite from where the three dogs had appeared."[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
@@ -208,43 +207,45 @@
 
 *4565|
 [fc]
-[ns]大倉[nse]
-「アレか！？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Is that it!?"[pcms]
 
 *4566|
 [fc]
-長い通路を走りながら、左右に並ぶ棚に目を走らせて[r]
-いると、俺はいろんな色のヒモが幾つもブラ下がって[r]
-いるコーナーを見つけた。[pcms]
+"While running down the long corridor, I glanced at the[r]
+shelves on both sides and found a corner with various[r]
+colored strings hanging down."[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
 *4567|
 [fc]
-[ns]大倉[nse]
-「長めの方がいいよな。で、切れなそうなヤツ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"The longer ones are better, right? And ones that seem like[r]
+they won't break..."[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_n02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *4568|
 [fc]
 [vo_may s="maya0328"]
-[ns]摩耶[nse]
-「これがいいと思う……」[pcms]
+[ns]Maya[nse]
+"I think this one is good..."[pcms]
 
 *4569|
 [fc]
-[ns]大倉[nse]
-「じゃぁコレを……手と足に２本ずつぐらいか？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Then let's take this one... maybe two each for hands and[r]
+feet?"[pcms]
 
 *4570|
 [fc]
-ユウとアンザイさんの２人分のリードを取って、俺は[r]
-腕に巻き付けた。[pcms]
+"I took leads for both Yuu and Anzai-san and wrapped them[r]
+around my arms."[pcms]
 
 *4571|
 [fc]
-[ns]大倉[nse]
-「よし、上に戻ろう！」[pcms]
+[ns]Ookura[nse]
+"Alright, let's head back up!"[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
@@ -259,162 +260,161 @@
 
 *4572|
 [fc]
-俺らはもう１つのエスカレーターへ向かって、短い通[r]
-路を走った。[pcms]
+"We ran towards another escalator through a short corridor."[pcms]
 
 *4573|
 [fc]
-右手の長いカウンターの奥は、ガラス張りになってい[r]
-て、明るくなり始めた空が見えている。[pcms]
+"The back of the long counter on our right was made of[r]
+glass, showing the sky that was beginning to brighten."[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
 *4574|
 [fc]
-ユウもアンザイさんも、あとどれぐらい保つんだ……。[r]
-今日一日が限界か……。[r]
-それとも、もうちょっと余裕があんのか……。[pcms]
+"How much longer can Yuu and Anzai-san last...? Is today[r]
+their limit...? Or do they have a bit more leeway...?"[pcms]
 
 *4575|
 [fc]
-[ns]ジョン[nse]
-「グルルルルルルッ！！」[pcms]
+[ns]John[nse]
+"Grrrrrrrrr!!"[pcms]
 
 *4576|
 [fc]
-エスカレーターまでもう少しという所で、ハスキーが[r]
-急に立ち止まり、体を反転させて唸り始めた。[pcms]
+"Just a little further to the escalator, the husky suddenly[r]
+stopped, turned around, and began to growl."[pcms]
 
 *4577|
 [fc]
-[ns]大倉[nse]
-「！？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"!"[pcms]
 
 *4578|
 [fc]
-ハスキーの見ている方へ目を向けると、曲がり角から[r]
-姿を現した、口元を赤く染めた細長い顔の白い犬が、[r]
-猛スピードで俺らに迫ってきていた。[pcms]
+"Looking in the direction the husky was facing, a white dog[r]
+with a narrow face and blood-stained mouth appeared from[r]
+around the corner and was rapidly approaching us at high[r]
+speed."[pcms]
 
 *4579|
 [fc]
-[ns]細面の大型犬[nse]
-「カ゛ウ゛ルッ！！」[pcms]
+[ns]Narrow-faced large dog[nse]
+"Grrrulh!!"[pcms]
 
 *4580|
 [fc]
-飛びかかってきた白い犬を、俺はシャベルの柄を使っ[r]
-て受け止めた。[pcms]
+"I blocked the leaping white dog with the handle of my[r]
+shovel."[pcms]
 
 *4581|
 [fc]
-けど、白い犬の勢いは想像以上に強くて、俺は突き飛[r]
-ばされ、仰向けに床に倒れてしまった。[pcms]
+"But the force of the white dog was stronger than I[r]
+imagined, and I was pushed back, falling onto my back on the[r]
+floor."[pcms]
 
 *4582|
 [fc]
-[ns]大倉[nse]
-「クッ……！！」[pcms]
+[ns]Ookura[nse]
+"Guh...!!"[pcms]
 
 *4583|
 [fc]
-[ns]細面の大型犬[nse]
-「ク゛ァア゛ッ……！！」[pcms]
+[ns]Narrow-faced large dog[nse]
+"Grrraaah...!!"[pcms]
 
 *4584|
 [fc]
-俺にのしかかり、口を大きく開けた白い犬に、俺は頭[r]
-の中が真っ白になった。[pcms]
+"As the white dog loomed over me with its mouth wide open,[r]
+my mind went blank."[pcms]
 
 *4585|
 [fc]
-[ns]ジョン[nse]
-「ヴァゥウッ！！」[pcms]
+[ns]John[nse]
+"Vauuu!!"[pcms]
 
 *4586|
 [fc]
-[ns]細面の大型犬[nse]
-「カ゛フゥッ！！」[pcms]
+[ns]Narrow-faced large dog[nse]
+"Gafuu!!"[pcms]
 
 *4587|
 [fc]
-口元を血で赤くした細い顔が、俺の喉元を目がけて降[r]
-りてきた瞬間、白い犬はハスキーに飛びかかられて、[r]
-横へと吹っ飛んだ。[pcms]
+The moment the white dog with its mouth stained red aimed[r]
+for my throat, the husky leaped at it, knocking it sideways.[pcms]
 
 *4588|
 [fc]
-[ns]細面の大型犬[nse]
-「ウ゛ァルカ゛ア゛ァッ！！」[pcms]
+[ns]Narrow-faced large dog[nse]
+"Varugaah!!"[pcms]
 
 *4589|
 [fc]
-[ns]ジョン[nse]
-「ヴルルルルルッ！！」[pcms]
+[ns]John[nse]
+"Vrrrrrr!!"[pcms]
 
 *4590|
 [fc]
-ハスキーは白い犬と揉み合いながら、床を転げ回り、[r]
-どんどん俺らから離れていく。[pcms]
+The husky, while scuffling with the white dog, rolled on the[r]
+floor, moving further and further away from us.[pcms]
 
 *4591|
 [fc]
-[ns]大倉[nse]
-「引き離してくれてる……？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Is it trying to pull them away...?"[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_n07"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *4592|
 [fc]
 [vo_may s="maya0329"]
-[ns]摩耶[nse]
-「ジョン……！」[pcms]
+[ns]Maya[nse]
+"John...!"[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *4593|
 [fc]
-格闘の最中、白い犬が伸び上がった瞬間、喉が剥き出[r]
-しになったのを、ハスキーは見逃さなかった。[pcms]
+In the midst of the fight, when the white dog reared up,[r]
+exposing its throat, the husky didn't miss the chance.[pcms]
 
 *4594|
 [fc]
-[ns]ジョン[nse]
-「ヴァッ！！」[pcms]
+[ns]John[nse]
+"Vah!!"[pcms]
 
 *4595|
 [fc]
-[ns]細面の大型犬[nse]
-「カ゛ァア゛ウ゛ッ！！！！」[pcms]
+[ns]Narrow-faced large dog[nse]
+"Gaaauv!!!!"[pcms]
 
 *4596|
 [fc]
-ハスキーは白い犬の喉笛に喰らいつき、首を引きちぎ[r]
-るぐらいの勢いで、大きく頭を振った。[pcms]
+The husky bit into the white dog's windpipe and shook its[r]
+head violently as if to tear off its neck.[pcms]
 
 *4597|
 [fc]
-[ns]細面の大型犬[nse]
-「カ゛ハッ！！　ル゛ルゥア゛ア゛ァッ！！！！」[pcms]
+[ns]Narrow-faced large dog[nse]
+"Gahh!! Ruruuaaah!!!!"[pcms]
 
 *4598|
 [fc]
-ハスキーの牙はよっぽど深く食い込んでいるのか、白[r]
-い犬の体毛は、みるみるうちに赤く染まっていく。[pcms]
+The husky's fangs must have sunk deep because the white[r]
+dog's fur quickly turned red.[pcms]
 
 *4599|
 [fc]
-白い犬は逃れようと必死に暴れ回って、辺り一面に自[r]
-分の血を飛び散らせた。[pcms]
+The white dog desperately thrashed about, trying to escape,[r]
+splattering its blood all over the place.[pcms]
 
 *4600|
 [fc]
-[ns]ジョン[nse]
-「ヴァッッ！！」[pcms]
+[ns]John[nse]
+"Vahh!!"[pcms]
 
 *4601|
 [fc]
-[ns]細面の大型犬[nse]
-「ヴアァァッウウゥウヴッ！！」[pcms]
+[ns]Narrow-faced large dog[nse]
+"Vaaaauuuv!!"[pcms]
 
 
 ;mm 追加
@@ -425,14 +425,14 @@
 
 *4602|
 [fc]
-暴れる白い犬をハスキーが抑えてる間に、足を潰して[r]
-動けなくさせようと、シャベルを構え直した瞬間、カ[r]
-ウンターの奥から、強烈な光が射し込んできた。[pcms]
+While the husky held down the thrashing white dog, I readied[r]
+my shovel to crush its legs and immobilize it. At that[r]
+moment, a blinding light shone in from behind the counter.[pcms]
 
 *4603|
 [fc]
-[ns]大倉[nse]
-「なっ、なんだ！？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"What the...!?"[pcms]
 
 
 ;mm 追加 ヘリ使わなかったのなんでだっけ？もしかして時間帯が夜じゃない？
@@ -441,8 +441,9 @@
 
 *4604|
 [fc]
-俺の目を眩ませる光の塊は、爆音と一緒にこっちへ近[r]
-づいてきて、轟音と激しい揺れを引き起こした。[pcms]
+The mass of light that dazzled my eyes approached with a[r]
+loud explosion, causing a thunderous roar and violent[r]
+shaking.[pcms]
 
 ;//whiteEOUT
 [white_toplayer][trans_c cross time=500][hide_chara_int_w]
@@ -455,13 +456,13 @@
 *4605|
 [fc]
 [vo_may s="maya0330"]
-[ns]摩耶[nse]
-「きゃあぁっ！！」[pcms]
+[ns]Maya[nse]
+"Kyaaah!!"[pcms]
 
 *4606|
 [fc]
-[ns]大倉[nse]
-「うぉあああっ！！」[pcms]
+[ns]Ookura[nse]
+"Woaaaah!!"[pcms]
 
 ;//[]BG表示
 ;//★ＢＧ：トイレ付近A
@@ -477,97 +478,97 @@
 
 *4607|
 [fc]
-物凄い揺れと風圧に、俺とマヤちゃんは吹き飛ばされ、[r]
-床に投げ出された。[pcms]
+The tremendous shaking and wind pressure blew Maya-chan and[r]
+me away, throwing us onto the floor.[pcms]
 
 *4608|
 [fc]
-[ns]大倉[nse]
-「ぐ、ぅ……！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Guu...!!"[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
 *4609|
 [fc]
-ガラス張りになっている壁面を突き破って、ビルの中[r]
-に突っ込んできたのは、１台のヘリコプターだった。[pcms]
+Bursting through the glass walls, a helicopter had plunged[r]
+into the building.[pcms]
 
 *4610|
 [fc]
-突っ込んできた勢いで床を滑り、コクピットで通路の[r]
-半分を塞いだ状態で、ヘリは止まった。[pcms]
+Sliding across the floor from the impact, the helicopter[r]
+came to a stop, blocking half of the corridor with its[r]
+cockpit.[pcms]
 
 *4611|
 [fc]
-[ns]大倉[nse]
-「なんだよ、あのヘリ……！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"What's with that helicopter...!"[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_n08"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *4612|
 [fc]
 [vo_may s="maya0331"]
-[ns]摩耶[nse]
-「ジョン……！！」[pcms]
+[ns]Maya[nse]
+"John...!!"[pcms]
 
 *4613|
 [fc]
-ヘリに半分塞がれた通路の向こうに、この状況に動じ[r]
-ることなく、喉に喰らいついたまま、凄い勢いで暴れ[r]
-る白い犬を抑えているハスキーが見えていた。[pcms]
+On the other side of the corridor, half-blocked by the[r]
+helicopter, I could see the husky, still biting the white[r]
+dog's throat without being disturbed by the situation,[r]
+violently thrashing around.[pcms]
 
 *4614|
 [fc]
-マヤちゃんはすぐに立ち上がり、ハスキーがいる方へ[r]
-駆けだした。[pcms]
+Maya-chan immediately stood up and ran towards where the[r]
+husky was.[pcms]
 
 *4615|
 [fc]
-[ns]大倉[nse]
-「危ないから行っちゃダメだ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"It's dangerous, don't go there!!"[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_n06"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *4616|
 [fc]
 [vo_may s="maya0332"]
-[ns]摩耶[nse]
-「ジョン！！　戻って！！」[pcms]
+[ns]Maya[nse]
+"John!! Come back!!"[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *4617|
 [fc]
-叫びながらハスキーの方へ行こうとする彼女を、腰に[r]
-取りついて抑えていると、辺りにガソリンの臭いがし[r]
-始めた。[pcms]
+As she tried to go towards the husky while screaming, I held[r]
+her back by her waist. Then I began to smell gasoline in the[r]
+air.[pcms]
 
 *4618|
 [fc]
-コレ、ヤバイんじゃねーのか……！？[r]
-あのヘリから火が出たら……！！[pcms]
+This is bad... If that helicopter catches fire...!![pcms]
 
 *4619|
 [fc]
-[ns]大倉[nse]
-「逃げるんだ、マヤちゃん！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"We need to run, Maya-chan!!"[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_n09"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *4620|
 [fc]
 [vo_may s="maya0333"]
-[ns]摩耶[nse]
-「ジョン！！　お願い、戻って！！」[pcms]
+[ns]Maya[nse]
+"John!! Please, come back!!"[pcms]
 
 *4621|
 [fc]
-悲痛な声でハスキーを呼ぶマヤちゃんを、俺は脇に抱[r]
-えるようにして、すぐ近くのエスカレーターに向かっ[r]
-て走った。[pcms]
+With a pained voice, Maya-chan called for the husky. I held[r]
+her by my side and ran towards the nearby escalator.[pcms]
 
 *4622|
 [fc]
 [vo_may s="maya0334"]
-[ns]摩耶[nse]
-「ジョン！！　ジョン！！」[pcms]
+[ns]Maya[nse]
+"John!! John!!"[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
@@ -586,4 +587,4 @@
 [jump storage="jingujiroute12060.ks" target=*jingujiroute12060_TOP]
 
 ;//BKACKOUT
-;//－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+;//

@@ -24,16 +24,16 @@
 
 *1781|
 [fc]
-[ns]大倉[nse]
-「まぶしい……なんだこれ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"It's so bright... what is this...?"[pcms]
 
 [ChrSetEx layer=3 chbase="hayami_a07"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
 *1782|
 [fc]
 [vo_hay s="hayami1212"]
-[ns]ありす[nse]
-「あ～♪　ひとがたくさん～～……。[r]
-　なにかあるのかな～～」[pcms]
+[ns]Arisu[nse]
+"Ah~♪ There are so many people~... Is there some kind of[r]
+event~?"[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
@@ -41,97 +41,95 @@
 *1783|
 [fc]
 [vo_may s="maya0841"]
-[ns]摩耶[nse]
-「はだかなんかであるいて……。みっともない……」[pcms]
+[ns]Maya[nse]
+"Walking around naked... How shameful..."[pcms]
 
 [chara_int_ layer=2][chara_int_ layer=3][trans_c cross time=150]
 
 *1784|
 [fc]
-まぶしい光の差し込む、広い部屋に出ると、[r]
-そこはまるで祭りの時のように、人が沢山歩いていた。[pcms]
+When I stepped into the brightly lit, spacious room, it was[r]
+as crowded as a festival with many people walking around.[pcms]
 
 [ChrSetEx layer=4 chbase="turuta_a02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *1785|
 [fc]
 [vo_nao s="naomi0135"]
-[ns]直美[nse]
-「こんなに沢山……。[r]
-　この子達に襲って来なければいいけど……」[pcms]
+[ns]Naomi[nse]
+"There are so many... I hope they don't attack us..."[pcms]
 
 *1786|
 [fc]
-[ns]大倉[nse]
-「……？　おそう？　なんでだ？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"...? Attack? Why would they?"[pcms]
 
 [ChrSetEx layer=4 chbase="turuta_n05"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *1787|
 [fc]
 [vo_nao s="naomi0136"]
-[ns]直美[nse]
-「……突っ切るしかないか……っ！？」[pcms]
+[ns]Naomi[nse]
+"...We have no choice but to cut through...!?"[pcms]
 
 *1788|
 [fc]
-直美は俺の方を見て、ちょっと哀しそうな顔をして、[r]
-そう呟いた。[pcms]
+Naomi looked at me with a slightly sad face and muttered[r]
+that.[pcms]
 
 *1789|
 [fc]
-[ns]大倉[nse]
-「どうした……？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"What's wrong...?"[pcms]
 
 *1790|
 [fc]
-またすぐに大勢の人達の方へと向きを変えた直美が、[r]
-突然小さく叫んだ。[pcms]
+Naomi, who had just turned towards the crowd of people,[r]
+suddenly let out a small scream.[pcms]
 
 [ChrSetEx layer=4 chbase="turuta_n03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *1791|
 [fc]
 [vo_nao s="naomi0137"]
-[ns]直美[nse]
-「……何でもない……っ！？　きゃぁっ！」[pcms]
+[ns]Naomi[nse]
+"...It's nothing...! Kyaa!"[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *1792|
 [fc]
-直美のすぐ目の前には、喉が潰れたような声で唸る、[r]
-変なヤツらが群がってきていた。[pcms]
+Right in front of Naomi, a group of strange guys groaning[r]
+with crushed throats were swarming in.[pcms]
 
 *1793|
 [fc]
-足を引きずっていたり、腕がヘンな方に曲がっている[r]
-そいつらは、うなり声を上げて、直美に襲い掛かる。[pcms]
+Their legs dragging and arms bent in weird angles, they[r]
+growled and lunged at Naomi.[pcms]
 
 *1794|
 [fc]
-[ns]ベストを着た若者[nse]
-「お゛おぉあ゛あ゛ぁ～～～……っ！！！！」[pcms]
+[ns]Young person wearing a vest[nse]
+"Oooaaahhh~...!!!"[pcms]
 
 *1795|
 [fc]
-[ns]シャツ一枚の若者[nse]
-「く゛ぉおぉぉぉぉぉ～～！　お゛んな゛……！[r]
-　ま゛んこぉ～～……」[pcms]
+[ns]A young man in a single shirt[nse]
+"Gooohhh~! Woman...! Pussy~..."[pcms]
 
 *1796|
 [fc]
-[ns]破れたスーツの中年[nse]
-「お……おんなだ……へへぇ～～」[pcms]
+[ns]Middle-aged man in a torn suit[nse]
+"Oh... a woman... hehehe~"[pcms]
 
 *1797|
 [fc]
-[ns]学生服の男[nse]
-「あ～～……あたらしいおまんこ～～！」[pcms]
+[ns]School uniform (wearing) boy[nse]
+"Ahh~... a new pussy~!"[pcms]
 
 [ChrSetEx layer=4 chbase="turuta_d02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *1798|
 [fc]
 [vo_nao s="naomi0138"]
-[ns]直美[nse]
-「くそっ！　どいてなさいっ！」[pcms]
+[ns]Naomi[nse]
+"Damn it! Get out of the way!"[pcms]
 
 [se0 storage="SE20"]
 ;//★レッドフラッシュ
@@ -142,15 +140,15 @@
 
 *1799|
 [fc]
-[ns]ベストを着た若者[nse]
-「う゛ぁあぁあ～～……」[pcms]
+[ns]Young person wearing a vest[nse]
+"Uvaaahh~..."[pcms]
 
 [ChrSetEx layer=4 chbase="turuta_d04"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *1800|
 [fc]
 [vo_nao s="naomi0139"]
-[ns]直美[nse]
-「お前らなんかにっ……私はお前らなんかにはっ！」[pcms]
+[ns]Naomi[nse]
+"I won't let you... I won't let the likes of you...!"[pcms]
 
 [se0 storage="SE20"]
 ;//★レッドフラッシュ
@@ -161,15 +159,15 @@
 
 *1801|
 [fc]
-[ns]シャツ一枚の若者[nse]
-「あ゛か゛……」[pcms]
+[ns]A young man in a single shirt[nse]
+"Agha..."[pcms]
 
 *1802|
 [fc]
 [vo_nao s="naomi0140"]
-[ns]直美[nse]
-「お前らみたいなのに、負けてたまるかっ！！[r]
-　私は……お前らとは違うんだ！！」[pcms]
+[ns]Naomi[nse]
+"I refuse to lose to the likes of you!! I am different from[r]
+you all!!"[pcms]
 
 [se0 storage="SE20"]
 ;//★レッドフラッシュ
@@ -180,8 +178,8 @@
 
 *1803|
 [fc]
-[ns]学生服の男[nse]
-「おっぱいがぁ～～……おまんこが～……ぐあぁ～！」[pcms]
+[ns]School uniform (wearing) boy[nse]
+"Boobs~... pussy~... guaah~!"[pcms]
 
 [se0 storage="SE20"]
 [赤フラ]
@@ -190,8 +188,8 @@
 
 *1804|
 [fc]
-[ns]破れたスーツの中年[nse]
-「あがぁっ……えあぁ～～……」[pcms]
+[ns]Middle-aged man in a torn suit[nse]
+"Agahh... eahh~..."[pcms]
 
 [se0 storage="SE20"]
 [赤フラ]
@@ -199,30 +197,30 @@
 
 *1805|
 [fc]
-集まってきた男達を殴ったり、柔道技みたいなので[r]
-投げたりして追い払った直美は、肩で息をしていた。[pcms]
+Naomi, after fighting off the gathering men with punches and[r]
+judo-like throws, was breathing heavily.[pcms]
 
 [ChrSetEx layer=4 chbase="turuta_d04"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *1806|
 [fc]
 [vo_nao s="naomi0143"]
-[ns]直美[nse]
-「はっ……はあっ……お前らの仲間入りなんて……、[r]
-　そんなの、死んだ方がマシよ……。[r]
-　そうだ……あの男は……！？」[pcms]
+[ns]Naomi[nse]
+"Hah... haa... I'd rather die than join the likes of you...[r]
+That's right... where is that man...!?"[pcms]
 
 [ChrSetEx layer=4 chbase="koba_t04"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *1807|
 [fc]
 [vo_kob s="koba0578"]
-[ns]小林[nse]
-「あ～……あのおじさん、そとにでてった～……。[r]
-　こんなにまぶしいのに、へーきなのかなぁ……」[pcms]
+[ns]Kobayashi[nse]
+"Ah~... that old man went outside~... Even though it's so[r]
+bright, is he okay I wonder..."[pcms]
 
 *1808|
 [fc]
-[ns]大倉[nse]
-「まぶしいよな……ここ……。なんだってんだよ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"It's bright, isn't it... this place... What the hell is[r]
+going on..."[pcms]
 
 [chara_int_ layer=4]
 [ChrSetEx layer=2 chbase="koba_t04"][ChrSetXY layer=2 x=0 y=0]
@@ -230,9 +228,9 @@
 *1809|
 [fc]
 [vo_hay s="hayami1213"]
-[ns]ありす[nse]
-「みんながこっちにくるよ～♪　お～い！　あはは！[r]
-　あたしたちもまぜてくれるの～！？」[pcms]
+[ns]Arisu[nse]
+"Everyone is coming this way~♪ Hey~! Ahaha! Are you going to[r]
+include us too~!?"[pcms]
 
 ;消し
 [chara_int_ layer=2][chara_int_ layer=3][trans_c cross time=150]
@@ -240,47 +238,46 @@
 *1810|
 [fc]
 [vo_nao s="naomi0144"]
-[ns]直美[nse]
-「だっ、ダメよ！！　早くあの男を追いかけないと！[r]
-　クソッ……突っ切るわよ！！　私から離れないで！」[pcms]
+[ns]Naomi[nse]
+"No, that's bad!! We have to chase after that man quickly![r]
+Damn it... I'm cutting through!! Don't leave my side!"[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_b_03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *1811|
 [fc]
 [vo_may s="maya0842"]
-[ns]摩耶[nse]
-「あ……」[pcms]
+[ns]Maya[nse]
+"Ah..."[pcms]
 [chara_int][trans_c cross time=150]
 
 ;//＠ありす　出さない
 *1812|
 [fc]
 [vo_hay s="hayami1214"]
-[ns]ありす[nse]
-「あはは～！　らく～……」[pcms]
+[ns]Arisu[nse]
+"Ahaha~! It's easy~..."[pcms]
 
 *1813|
 [fc]
-[ns]大倉[nse]
-「あ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Ah..."[pcms]
 
 *1814|
 [fc]
-摩耶ちゃんと速水の手を握った直美は、[r]
-メチャクチャに壊れた入り口を目指して走り出した。[pcms]
+Naomi, holding Maya-chan and Hayami's hands, started running[r]
+towards the wildly destroyed entrance.[pcms]
 
 *1815|
 [fc]
-[ns]大倉[nse]
-「おれたちも……おいかけるか……。[r]
-　いくぞ……ユウ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"We should follow them too... Let's go... Yuu..."[pcms]
 
 [ChrSetEx layer=4 chbase="koba_t01"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *1816|
 [fc]
 [vo_kob s="koba0579"]
-[ns]小林[nse]
-「あはぁ～♪　まってよぉ～……」[pcms]
+[ns]Kobayashi[nse]
+"Ahaha~♪ Wait for me~..."[pcms]
 
 ;//BLACKOUT
 [black_toplayer][trans_c cross time=1000][hide_chara_int]

@@ -37,302 +37,284 @@
 
 *2119|
 [fc]
-[ns]破れたスラックスの男[nse]
-「まん゛このにお゛いがする～～……こ゛いつ゛、[r]
-　せって゛ぇ、おん゛なた゛ぁ～～……！」[pcms]
+[ns]Man with Torn Slacks[nse]
+"I can smell pussy... This one's definitely a woman...!"[pcms]
 
 *2120|
 [fc]
-[ns]パンツ一枚の男[nse]
-「あ゛な゛……っ！　おま゛んこ゛みせて゛ぇっ！」[pcms]
+[ns]A man in just underwear[nse]
+"Ah...! Show me your pussy!"[pcms]
 
 *2121|
 [fc]
-[ns]バンダナの青年[nse]
-「なん゛かくせえ゛ぇ～～……しょん゛へ゛んかぁ？[r]
-　とっち゛まえよ～～……こん゛なぁ～～……」[pcms]
+[ns]Young Man with a Bandana[nse]
+"Something stinks... Is it pee? Gotta catch it... this...!"[pcms]
 
 *2122|
 [fc]
-直美の体を求め、迫り来る沢山の手が、[r]
-硬い防護装備を撫で回す。[pcms]
+Many hands seeking Naomi's body reach out, caressing her[r]
+hard protective gear.[pcms]
 
 *2123|
 [fc]
-紅く濁った瞳や、嫌らしく歪んだ感染者の顔が、[r]
-直美の頭を護るヘルメットに押しつけられる。[pcms]
+Red, clouded eyes and the twisted faces of the infected[r]
+press against Naomi's helmet, protecting her head.[pcms]
 
 *2124|
 [fc]
-垂れ流された涎で汚れ、失われゆく視界の中、直美は[r]
-感染者達に全身を乱暴にまさぐり続けられ、ただ叫ぶ[r]
-事しか出来なかった。[pcms]
+Naomi's vision becomes obscured by the drool smeared on her,[r]
+and as she is roughly groped all over by the infected, all[r]
+she could do was scream.[pcms]
 
 *2125|
 [fc]
 [vo_nao s="naomi0044"]
-[ns]直美[nse]
-「いやああぁぁっ！！！！　離せぇぇっ！！[r]
-　触るなぁっ！！！」[pcms]
+[ns]Naomi[nse]
+"Nooo!! Let go!! Don't touch me!!"[pcms]
 
 *2126|
 [fc]
-[ns]破れたスラックスの男[nse]
-「こん゛なの゛し゛ゃま゛ぁ～～……！！[r]
-　あ゛ぁ～～……はす゛れろぉ～～……！！」[pcms]
+[ns]Man with Torn Slacks[nse]
+"This thing's in the way...!! Ahh... get it off...!!"[pcms]
 
 *2127|
 [fc]
-[ns]パンツ一枚の男[nse]
-「お゛まっ……おまん゛こっ……はあっ……はっ……、[r]
-　はや゛く゛ぅ～～……みせ゛て゛ぇ～～！」[pcms]
+[ns]A man in just underwear[nse]
+"Your pussy... pussy... haah... haah..., show it to me[r]
+quickly...!"[pcms]
 
 *2128|
 [fc]
-[ns]痩せた男[nse]
-「まんこぉ～～～……っ！！」[pcms]
+[ns]Thin Man[nse]
+"Pussy...!!"[pcms]
 
 *2129|
 [fc]
 [vo_nao s="naomi0045"]
-[ns]直美[nse]
-「うわぁあぁぁあぁ！！！！」[pcms]
+[ns]Naomi[nse]
+"Uwaaaahhh!!"[pcms]
 
 ;//★イベントＣＧ＿Ｂ
 [evcg storage="HEV801b"][trans_c cross time=301]
 
 *2130|
 [fc]
-感染者から身を守る為の防護服がきしみ、[r]
-繊維の引きちぎれる音と共に、直美の鍛えられた体が[r]
-露出する。[pcms]
+The protective suit meant to shield Naomi from infection[r]
+creaks, and as the fibers tear apart, Naomi's trained body[r]
+is exposed.[pcms]
 
 *2131|
 [fc]
-その姿は、直美を取り囲む感染者達を狂喜させた。[pcms]
+The sight sends the surrounding infected into a frenzy of[r]
+ecstasy.[pcms]
 
 *2132|
 [fc]
-[ns]破れたスラックスの男[nse]
-「あ゛ぁ～～……やっぱり゛おん゛なた゛ったぁ～！[r]
-　おまんこ゛たぁ～～！！」[pcms]
+[ns]Man with Torn Slacks[nse]
+"Ahh... I knew it was a woman! That pussy!!"[pcms]
 
 *2133|
 [fc]
-[ns]パンツ一枚の男[nse]
-「おあ゛～～……むね゛ぇ～～……て゛っけぇ～～！[r]
-　ひやけ゛ぇ～～……！」[pcms]
+[ns]A man in just underwear[nse]
+"Ohh... those breasts... so big! And tanned...!"[pcms]
 
 *2134|
 [fc]
-[ns]バンダナの青年[nse]
-「あ゛せくせぇ～～……あ゛～～……い゛いにおい゛[r]
-　ん゛ぁ～～～……」[pcms]
+[ns]Young man with a bandana[nse]
+"You smell so sexy... Ahh... such a good smell..."[pcms]
 
 *2135|
 [fc]
 [vo_nao s="naomi0046"]
-[ns]直美[nse]
-「いやぁあぁぁぁぁぁあ！！！　やめっ！　やめろっ！[r]
-　やめろぉ！！」[pcms]
+[ns]Naomi[nse]
+"Nooooo!!! Stop it! Stop! Stop it!!"[pcms]
 
 *2136|
 [fc]
-何十人もの感染者に群がられ、何十本もの手に身体中[r]
-をまさぐられ、着ていた服まで引きちぎられた直美の[r]
-顔が恐怖で歪む。[pcms]
+Surrounded by dozens of infected, groped by dozens of hands,[r]
+Naomi's face contorts in terror as even her clothes are torn[r]
+off.[pcms]
 
 *2137|
 [fc]
-周りを取り囲む男達の、まるで見せつける様にしてい[r]
-る男性器は大きく起きあがる。[pcms]
+The men surrounding her brandish their erect cocks as if[r]
+showing them off.[pcms]
 
 *2138|
 [fc]
-直美は、取り囲む感染者達が、自分を性欲のはけ口と[r]
-して照準を合わせた事を理解した。[pcms]
+Naomi realizes that the encircling infected have targeted[r]
+her as an outlet for their sexual desires.[pcms]
 
 *2139|
 [fc]
-『感染者の体液には、絶対に触れるな』[r]
-『保菌者との性交渉は、死を意味する』[pcms]
+"Do not come into contact with the bodily fluids of the[r]
+infected," "Sexual intercourse with carriers means death."[pcms]
 
 *2140|
 [fc]
-直美の脳を、僅か数時間前、[r]
-特に注意すべき事項として[r]
-聞かされた言葉が繰り返される。[pcms]
+Words that were emphasized to Naomi just a few hours ago as[r]
+matters of particular caution repeat in her mind.[pcms]
 
 *2141|
 [fc]
-そして、それは今まさに、[r]
-直美がされようとしている事。[pcms]
+And now, that is exactly what is about to be done to Naomi.[pcms]
 
 *2142|
 [fc]
-直美を取り囲む淫獣達は、彼女の体を求め、[r]
-次々と手を伸ばす。[pcms]
+The lustful beasts surrounding Naomi seek her body, reaching[r]
+out one after another.[pcms]
 
 *2143|
 [fc]
-名前も分からない、今日出会ったばかりの者達に、[r]
-犯される。[pcms]
+To be violated by those she just met today, whose names she[r]
+doesn't even know.[pcms]
 
 *2144|
 [fc]
-そのことは、直美の冷静さを容易に打ち砕いた。[pcms]
+This fact easily shatters Naomi's composure.[pcms]
 
 *2145|
 [fc]
 [vo_nao s="naomi0047"]
-[ns]直美[nse]
-「そっ……そんなっ！！　うわぁぁぁぁ！！！[r]
-　はなっ……、離せッ！！　お願いっ！！[r]
-　いやぁぁぁぁぁぁぁぁぁぁぁあ！！！」[pcms]
+[ns]Naomi[nse]
+"No... Noooo!! Let go... Please!! Nooooooo!!"[pcms]
 
 *2146|
 [fc]
-[ns]男前[nse]
-「おま゛え……みた゛しなみ゛……ちゃんと゛して、[r]
-　ねえな゛ぁ？　むた゛け゛のし゛ょりくらい゛～～、[r]
-　ちゃ゛んとしろよぉ～～」[pcms]
+[ns]Handsome[nse]
+"You... you've groomed yourself nicely, haven't you? At[r]
+least take care of your pubic hair..."[pcms]
 
 *2147|
 [fc]
-[ns]バンダナの青年[nse]
-「あせ゛のいい゛にお゛いか゛する゛ぅ～～……、[r]
-　う～～……あぁ～～……」[pcms]
+[ns]Young man with a bandana[nse]
+"I can smell the sweet scent of sweat... Uhh... Ahh..."[pcms]
 
 *2148|
 [fc]
-[ns]破れたスラックスの男[nse]
-「ふっき゛んわれ゛てる～～……お～～……」[pcms]
+[ns]Man with Torn Slacks[nse]
+"It's disgusting... Ohh..."[pcms]
 
 *2149|
 [fc]
 [vo_nao s="naomi0048"]
-[ns]直美[nse]
-「いやぁぁぁぁ！！　変態共がっ！！[r]
-　やめろぉっ！！　いやっ！！　触るなぁっ！」[pcms]
+[ns]Naomi[nse]
+"Noooo!! You perverts!! Stop it!! No!! Don't touch me!"[pcms]
 
 *2150|
 [fc]
-[ns]パンツ一枚の男[nse]
-「ひや゛けあ゛とぉ～～……いい゛っ！　おぉ～～！」[pcms]
+[ns]A man in just underwear[nse]
+"The tan lines are so nice! Ohh...!"[pcms]
 
 *2151|
 [fc]
-[ns]男前[nse]
-「ちくひ゛～～……お゛もったよりぴんく゛～～……、[r]
-　もし゛かして、おまえ゛、しょし゛ょかぁ～～？」[pcms]
+[ns]Handsome[nse]
+"Nipples... pinker than I thought... Maybe you're still a[r]
+virgin?"[pcms]
 
 *2152|
 [fc]
-[ns]痩せた男[nse]
-「あせ゛て゛～～……しっと゛りして゛きたぁ～～、[r]
-　かお゛もあかい゛し～～……かんし゛てんのぉ～？」[pcms]
+[ns]Thin Man[nse]
+"You're sweaty... and your face is red too... Are you[r]
+excited?"[pcms]
 
 *2153|
 [fc]
-[ns]パンツ一枚の男[nse]
-「あ゛～～、ちくひ゛たってる～～……、むね゛も、[r]
-　あかく゛なってき゛てる～～！！」[pcms]
+[ns]A man in just underwear[nse]
+"Ahh, your nipples are hard... and your breasts are getting[r]
+red too!!"[pcms]
 
 *2154|
 [fc]
 [vo_nao s="naomi0049"]
-[ns]直美[nse]
-「違うっ！　やぁぁぁっ……、言うなぁっ！」[pcms]
+[ns]Naomi[nse]
+"That's not true! Nooo... don't say that!"[pcms]
 
 *2155|
 [fc]
-大きく腫れ上がった男性器を震わせながら、直美の[r]
-鍛えられ、しかし柔らかな部分の残る身体を[r]
-まさぐり、眺めて嬌声を上げる感染者達。[pcms]
+The infected, their swollen cocks trembling, grope and gaze[r]
+at Naomi's trained yet still soft body, letting out moans of[r]
+pleasure.[pcms]
 
 *2156|
 [fc]
-狂喜に湧き上がる感染者と、それらに玩具の様に弄ば[r]
-れる直美。[pcms]
+The infected swell with ecstasy, while Naomi is toyed with[r]
+like an object.[pcms]
 
 *2157|
 [fc]
-[ns]男前[nse]
-「あ゛あ～～……まん゛こから゛におい゛してきたぁ、[r]
-　ぬれ゛てん゛のぉ～～？　ねぇ～～……」[pcms]
+[ns]Handsome[nse]
+"Ahh... I can smell it coming from your pussy, are you wet?[r]
+Hey..."[pcms]
 
 *2158|
 [fc]
 [vo_nao s="naomi0050"]
-[ns]直美[nse]
-「う、うそ、嘘！！　違う、違ううぅ！！」[pcms]
+[ns]Naomi[nse]
+"No, that's a lie! It's not true!!"[pcms]
 
 *2159|
 [fc]
-[ns]パンツ一枚の男[nse]
-「ちく゛ひ゛～～……せつ゛なそぉ～～……、[r]
-　さわっ゛てあけ゛よぉか゛ぁ～～？」[pcms]
+[ns]A man in just underwear[nse]
+"Nipples... they look so sensitive... should I touch them?"[pcms]
 
 *2160|
 [fc]
 [vo_nao s="naomi0051"]
-[ns]直美[nse]
-「やめっ！　ダメぇっ！！」[pcms]
+[ns]Naomi[nse]
+"Stop it! No!!"[pcms]
 
 *2161|
 [fc]
-[ns]破れたスラックスの男[nse]
-「こえ゛かわい゛ぃ～～……そろ゛そろ、おれも゛ぉ、[r]
-　いれ゛てぇ～～……おま゛んこ゛にぃ～～……、[r]
-　いれて゛ぇよぉ～～……」[pcms]
+[ns]Man with Torn Slacks[nse]
+"Your voice is so cute... It's about time for me too, to put[r]
+it in your pussy..."[pcms]
 
 *2162|
 [fc]
-[ns]痩せた男[nse]
-「あ゛ぁ～～……、おれ゛も、もう゛か゛まん、[r]
-　て゛きねぇ～～……」[pcms]
+[ns]Thin Man[nse]
+"Ahh... I can't hold back anymore..."[pcms]
 
 *2163|
 [fc]
 [vo_nao s="naomi0052"]
-[ns]直美[nse]
-「うわぁぁあぁぁぁっ！！　だっ……誰かっ！！[r]
-　助けてっ！！　こんなのっ……こんなの嫌だぁっ！」[pcms]
+[ns]Naomi[nse]
+"Uwaaahhh!! Someone!! Help me!! I don't want this... I hate[r]
+this!"[pcms]
 
 *2164|
 [fc]
-直美の叫び声は、感染者達の行動を制御するスイッチ[r]
-に触れてしまったのか、それまでただ身体をまさぐる[r]
-だけだったのが一斉に服をはぎ取る動きへと変わった。[pcms]
+Naomi's screams seem to have hit a switch controlling the[r]
+actions of the infected, as they shift from merely groping[r]
+her to tearing off her clothes all at once.[pcms]
 
 *2165|
 [fc]
-[ns]破れたスラックスの男[nse]
-「ぬか゛せぇ～～……せ゛んふ゛とっち゛まえぇ～～」[pcms]
+[ns]Man with Torn Slacks[nse]
+"Take it off... strip everything off..."[pcms]
 
 *2166|
 [fc]
-[ns]痩せた男[nse]
-「けつ゛もみ゛てぇ～～！！　おまん゛ことぉ～～、[r]
-　け゛つぅ～～！」[pcms]
+[ns]Thin Man[nse]
+"I want to see your butt too! Your pussy and your butt!"[pcms]
 
 *2167|
 [fc]
-[ns]男前[nse]
-「ひや゛けしたから゛た゛にふ゛っかけ゛ぇ～～……」[pcms]
+[ns]Handsome[nse]
+"I want to spray my cum on your tanned skin..."[pcms]
 
 *2168|
 [fc]
 [vo_nao s="naomi0053"]
-[ns]直美[nse]
-「助けてっ……助けてぇぇぇぇ！！」[pcms]
+[ns]Naomi[nse]
+"Help me... please help me!!"[pcms]
 
 ;//------------------------------------------------
 [if exp="tf.scene_mode==1"]
 	[jump storage="b_scene.ks" target=*back_from_SR]
 ;	[link storage=sceneAgain]もう一度見る[endlink]
 ;	[link storage=sceneList]一覧に戻る[endlink]
-;	[s]
+;[pcms]
 [endif]
 *KAISOU_PASS
 ;//------------------------------------------------

@@ -50,147 +50,138 @@
 *9379|
 [fc]
 [vo_mob s="kyami0001"]
-[ns]キャミソールの女[nse]
-「ね゛ぇ～～な゛め゛ていぃ～～……？[r]
-　この゛ちんちん、おい゛しそう゛～～……[r]
-　ねぇ～～い゛いて゛しょぉ～～……？」[pcms]
+[ns]Camisole Woman[nse]
+"Heyyy~... Can I lick it~...? This dick looks so tasty~...[r]
+Heyyy~... It's okay, right...?"[pcms]
 
 *9380|
 [fc]
-[ns]大倉[nse]
-「うわぁっ！！　やめろ！！　放せッ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Uwaa!! Stop it!! Let go!!"[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
 *9381|
 [fc]
 [vo_mob s="waitress0001"]
-[ns]ウェイトレス風の女[nse]
-「せーし、のみ゛たぁい……あ゛たしの゛おくちぃ、[r]
-　すきに゛つかってい゛いから゛ぁ～～……！[r]
-　ほら゛ぁ～～あ゛～～～ん……♪」[pcms]
+[ns]Waitress-style woman[nse]
+"I want to drink your semen... You can use my mouth however[r]
+you want~...! Come on~... Ahhhn...♪"[pcms]
 
 *9382|
 [fc]
-[ns]大倉[nse]
-「放せこの野郎……ッ！！　うあぁっ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Let go of me, damn it...!! Ughh!!"[pcms]
 
 *9383|
 [fc]
-女とは思えない、物凄い力で掴まれ、身動きが取れな[r]
-いまま、俺は床に引き倒されてしまった。[pcms]
+Seized with an incredible strength that didn't seem human, I[r]
+was unable to move and was pulled down to the floor.[pcms]
 
 *9384|
 [fc]
 [vo_mob s="kyami0002"]
-[ns]キャミソールの女[nse]
-「ちん゛ちんた゛してよ゛ぉ～～[r]
-　はや゛くう゛ぅ～～～……っ！！[r]
-　このちんんちん、たへ゛たい゛ぃ～～～……っ！！」[pcms]
+[ns]Camisole Woman[nse]
+"Give me your dick~... Hurry up~...!! I want to eat this[r]
+dick~...!!"[pcms]
 
 *9385|
 [fc]
 [vo_mob s="waitress0002"]
-[ns]ウェイトレス風の女[nse]
-「お゛ちんちん゛、おくちに゛い゛れ゛てぇ～～……[r]
-　おま゛んこみ゛たいに゛い、[r]
-　し゛ゅほ゛し゛ゅほ゛してえ゛ぇ～～～……っ！！」[pcms]
+[ns]Waitress-style woman[nse]
+"I want your cock in my mouth~... Just like a pussy, I want[r]
+to slurp and suck it~...!!"[pcms]
 
 *9386|
 [fc]
-[ns]大倉[nse]
-「やめ、ろぉ……ッ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Stop it...!!"[pcms]
 
 *9387|
 [fc]
-俺の抵抗をものともせず、引き倒した時と同じ、[r]
-物凄い力で、ベルトを、ズボンを、パンツを、２人の[r]
-女は引き裂きながら脱がし、アレを剥き出しにした。[pcms]
+Ignoring my resistance, with the same terrifying strength,[r]
+they tore off my belt, pants, and underwear, exposing my[r]
+dick.[pcms]
 
 *9388|
 [fc]
 [vo_mob s="waitress0003"]
-[ns]ウェイトレス風の女[nse]
-「あ゛はぁ～～て゛てきたあ゛ぁ～～～……っ！[r]
-　ん゛ふ～～……お゛ちん゛ちん、えっちな゛[r]
-　に゛おいか゛する゛うぅ～～～……っ！」[pcms]
+[ns]Waitress-style woman[nse]
+"Ahaa~... It's finally out~...! Nfu~... Your cock smells so[r]
+lewd~...!!"[pcms]
 
 *9389|
 [fc]
-剥き出しになった俺のアレを、ファミレスの店員みた[r]
-いなカッコした女は、ニタァと気持ち悪い笑顔を浮か[r]
-べながら、さすり、撫で、頬ずりをしてくる。[pcms]
+The woman dressed like a family restaurant waitress, with a[r]
+creepy smile on her face, began to stroke, caress, and rub[r]
+her cheek against my exposed dick.[pcms]
 
 *9390|
 [fc]
-[ns]大倉[nse]
-「やめ……やめろ……ッ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Stop... Stop it...!!"[pcms]
 
 *9391|
 [fc]
 [vo_mob s="kyami0003"]
-[ns]キャミソールの女[nse]
-「はぁ～～っ……へぁあ゛～～……」[pcms]
+[ns]Camisole Woman[nse]
+"Haa~... Heaaah~..."[pcms]
 
 *9392|
 [fc]
-デニムの短パンをはいた女は、口の端からヨダレを[r]
-垂らした顔を、もう１人の女が手にしてるアレに近づ[r]
-けて、荒くなった息を吐きかけてきた。[pcms]
+The woman in denim shorts approached the other woman's hand[r]
+holding my dick, drooling from the corner of her mouth and[r]
+breathing heavily.[pcms]
 
 *9393|
 [fc]
 [vo_mob s="waitress0004"]
-[ns]ウェイトレス風の女[nse]
-「ね゛ぇい゛ぃ～～……？[r]
-　おくちに゛いれ゛ても゛いぃ～～～……？[r]
-　え゛ぁ～～～……」[pcms]
+[ns]Waitress-style woman[nse]
+"Heyyy~...? Can I put it in my mouth~...? Ehh~...?"[pcms]
 
 *9394|
 [fc]
 [vo_mob s="kyami0004"]
-[ns]キャミソールの女[nse]
-「ちん゛ちん～～……へあ゛ぁ～～～……！」[pcms]
+[ns]Camisole Woman[nse]
+"Dick~... Heaah~...!"[pcms]
 
 *9395|
 [fc]
-[ns]大倉[nse]
-「！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"!!"[pcms]
 
 *9396|
 [fc]
-ほとんど同時に口を開け、出した舌を、女２人はアレ[r]
-に近づけていく。[pcms]
+Almost simultaneously, both women opened their mouths and[r]
+brought their tongues close to my dick.[pcms]
 
 *9397|
 [fc]
-その舌がツバで光るのを見て、俺は女子アナが[r]
-ニュースで言ってたコトを思い出した。[pcms]
+Seeing their tongues glistening with saliva, I remembered[r]
+what the female newscaster had said on the news.[pcms]
 
 *9398|
 [fc]
-“……暴徒によって次の様な被害に遭われた方に、[r]
-　ウイルスが伝染していることが……”[pcms]
+"...Those who have suffered the following damages by rioters[r]
+may be infected with the virus..."[pcms]
 
 *9399|
 [fc]
-“……血液、唾液など、暴徒の体液を浴びた方……”[pcms]
+"...Blood, saliva, and other bodily fluids from rioters..."[pcms]
 
 *9400|
 [fc]
-コイツら２人とも、絶対、頭がイカレる病気に[r]
-なってるはず……。[pcms]
+Both of these women must be sick with a disease that's[r]
+messed up their heads...[pcms]
 
 *9401|
 [fc]
-コイツらに舐められでもしたら……。[r]
-ウイルスが……。[r]
-うつる……！！[pcms]
+If they lick me... The virus... It could spread...!![pcms]
 
 *9402|
 [fc]
-[ns]大倉[nse]
-「やっ、やめろ！！　やめろぉおおぉッ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"No, stop it!! Get away from meee!!"[pcms]
 
 
 
@@ -204,424 +195,400 @@
 *9403|
 [fc]
 [vo_mob s="waitress0005"]
-[ns]ウェイトレス風の女[nse]
-「はむ……っちゅ、へ゜ちゃっ……っは、れぅ……[r]
-　ん゛、ちゅ……ん゛ふ……」[pcms]
+[ns]Waitress-style woman[nse]
+"Hamu... Chup, pechatt... Ha, reu... Nf, chu... Nfu..."[pcms]
 
 *9404|
 [fc]
 [vo_mob s="kyami0005"]
-[ns]キャミソールの女[nse]
-「れろぉ～～～……ん゛む、ふ゜ちゅっ……[r]
-　へはぁ……ん゛、ひ゜ちゃっ……」[pcms]
+[ns]Camisole Woman[nse]
+"Leroo~... Nmu, puchu... Hehaa... Nf, picha..."[pcms]
 
 *9405|
 [fc]
-ヌルッとした舌の感触が、先っぽ、棒の部分、先っぽ[r]
-の頂点と、アレの上を這い回る。[pcms]
+The slippery sensation of their tongues crawled over the[r]
+tip, the shaft, and the very top of my dick.[pcms]
 
 *9406|
 [fc]
-同時に、女の手が撫でさすり、陰嚢を揉んで、まるで[r]
-嬉しくない刺激を、俺のアレに強制的に与え続ける。[pcms]
+At the same time, their hands caressed and massaged my[r]
+balls, giving my dick unwanted stimulation.[pcms]
 
 *9407|
 [fc]
-[ns]大倉[nse]
-「やめろおぉおぉおぉぉああぁぁッ！！！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Stop it aaaaahhhhhhh!!!"[pcms]
 
 *9408|
 [fc]
-女たちの体の下から抜けだそうと、俺は必死になって[r]
-手足をバタつかせようとするが、凄い力で掴まれ、[r]
-押さえつけられて、ほとんど動かせないでいた。[pcms]
+Trying desperately to escape from beneath the women's[r]
+bodies, I flailed my limbs, but they held me down with[r]
+incredible strength, leaving me almost immobile.[pcms]
 
 *9409|
 [fc]
-ヤバイ……！！[r]
-うつる……！！[r]
-病気になっちまうッ……！！[pcms]
+This is bad...!! It could spread...!! I could get sick...!![pcms]
 
 *9410|
 [fc]
-[ns]大倉[nse]
-「やめろッ！！　離れろテメーらッ！！[r]
-　やめろおおぉおぉおぉぉッ！！！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Stop it!! Get off me you bastards!! Stop it[r]
+aaaaahhhhhhh!!!"[pcms]
 
 *9411|
 [fc]
 [vo_mob s="waitress0006"]
-[ns]ウェイトレス風の女[nse]
-「は、ん゛……ん゛ちゅ、へ゜ちゃっ、ちゅ……[r]
-　ふむ……ん゛ふぅ……」[pcms]
+[ns]Waitress-style woman[nse]
+"Ha, nf... Nchu, pechatt, chu... Fumu... Nfu..."[pcms]
 
 *9412|
 [fc]
 [vo_mob s="kyami0006"]
-[ns]キャミソールの女[nse]
-「な゛んて゛ぇ～～……？　ちん゛ちん゛、なんて゛[r]
-　たたな゛いの゛ぉ～～……？」[pcms]
+[ns]Camisole Woman[nse]
+"What's wrong~...? Why isn't your dick getting hard~...?"[pcms]
 
 *9413|
 [fc]
-拗ねたような声を出した短パンの女は、何かに気づい[r]
-たような顔をして、中指を口の中に挿し込んだ。[pcms]
+The shorts-wearing woman made a sulky voice as if she[r]
+realized something and then stuck her middle finger into her[r]
+mouth.[pcms]
 
 *9414|
 [fc]
 [vo_mob s="kyami0007"]
-[ns]キャミソールの女[nse]
-「ん゛むぅ……」[pcms]
+[ns]Camisole Woman[nse]
+"Nmuu..."[pcms]
 
 *9415|
 [fc]
-口の中に中指を出し入れして、アレにするように[r]
-舐め回しながら、ウェイトレス風の女は、意味ありげ[r]
-にニタニタと笑った。[pcms]
+Moving her finger in and out of her mouth and licking it as[r]
+if it were my dick, the waitress-style woman grinned[r]
+meaningfully.[pcms]
 
 *9416|
 [fc]
 [vo_mob s="waitress0007"]
-[ns]ウェイトレス風の女[nse]
-「はふ……ん゛っ、ちゅふ゜、へ゜ちゃぁ……」[pcms]
+[ns]Waitress-style woman[nse]
+"Hafu... Nf, chup, pechaa..."[pcms]
 
 *9417|
 [fc]
 [vo_mob s="kyami0008"]
-[ns]キャミソールの女[nse]
-「あ゛はぁ～～……」[pcms]
+[ns]Camisole Woman[nse]
+"Ahaa~..."[pcms]
 
 *9418|
 [fc]
-短パンの女が、開いた口から引き抜いた指には、[r]
-ベットリとツバがまとわりついてて、舌との間に[r]
-糸を引いている。[pcms]
+The shorts-wearing woman pulled her finger out of her mouth[r]
+covered in saliva, which stretched into strings between her[r]
+finger and tongue.[pcms]
 
 *9419|
 [fc]
-[ns]大倉[nse]
-「うぁあっ！！　やめろ、テメー……ッ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Uwahh!! Stop it, you bastards...!!"[pcms]
 
 *9420|
 [fc]
-その指に付いたツバを、肛門に塗りつけてきた[r]
-短パンの女は、俺の顔を見つめて口の端を吊り上げ、[r]
-目を細めた。[pcms]
+The shorts-wearing woman smeared the saliva from her finger[r]
+onto my anus and looked at me with a smirk and narrowed[r]
+eyes.[pcms]
 
 *9421|
 [fc]
-[ns]大倉[nse]
-「やめろ……テメー、やめねーとブッ殺すぞ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Stop it... You bastards, I'll kill you if you don't stop!!"[pcms]
 
 *9422|
 [fc]
 [vo_mob s="waitress0008"]
-[ns]ウェイトレス風の女[nse]
-「くふ……」[pcms]
+[ns]Waitress-style woman[nse]
+"Kufu..."[pcms]
 
 *9423|
 [fc]
-[ns]大倉[nse]
-「ぐぁっ！！　うあぁあああぁっ！！！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Guahh!! Uwaaaahhhhhhh!!!"[pcms]
 
 *9424|
 [fc]
-肛門を押し広げて、女の指がケツの中に入り込んできて、[r]
-周りの壁を擦って刺激する。[pcms]
+Forcing my anus open, the woman's finger penetrated inside[r]
+and stimulated the surrounding walls.[pcms]
 
 *9425|
 [fc]
-ありえないモノが体内に入ってきた感触と、初めて[r]
-感じる刺激に、俺は急に息苦しくなって、空気を[r]
-吸おうと喘いだ。[pcms]
+The sensation of something unthinkable entering my body and[r]
+the unfamiliar stimulation made me suddenly short of breath[r]
+as I gasped for air.[pcms]
 
 *9426|
 [fc]
-[ns]大倉[nse]
-「がはッ……！　はっ……！　はぁ……っ！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Gaha...! Ha...! Haa...!"[pcms]
 
 *9427|
 [fc]
 [vo_mob s="waitress0009"]
-[ns]ウェイトレス風の女[nse]
-「あ゛はぁ～～……！　お゛ちんちん゛、[r]
-　おっきくな゛ったあ゛ぁ～～～……っ！[r]
-　ひ゜くひ゜くして、おい゛しそぅ～～……♪」[pcms]
+[ns]Waitress-style woman[nse]
+"Ahaa~...! Your cock has gotten bigger~...! It's twitching[r]
+and looks so tasty~...♪"[pcms]
 
 *9428|
 [fc]
 [vo_mob s="kyami0009"]
-[ns]キャミソールの女[nse]
-「ふふぁふ……っ！　おしり゛の゛あな゛ぁ、[r]
-　きゅっきゅって、な゛ってる゛よ゛ぉ～～……っ？」[pcms]
+[ns]Camisole Woman[nse]
+"Fufafu...! Your ass is clenching tightly around it~...[r]
+Isn't it~...?"[pcms]
 
 *9429|
 [fc]
-恐怖と焦りでしぼんでいた俺のアレは、、女の指で[r]
-ケツの中をイジられて、突然、ガチガチに硬くなって[r]
-反り返った。[pcms]
+My dick, which had shrunk from fear and impatience, suddenly[r]
+became rock hard and curved back as the woman's finger toyed[r]
+with the inside of my butt.[pcms]
 
 *9430|
 [fc]
-そして、何秒も経たない内に、俺の意志を完全に無視[r]
-して、アレは突然、精液を漏らした。[pcms]
+And before even a few seconds had passed, completely[r]
+ignoring my will, my dick suddenly leaked semen.[pcms]
 
 *9431|
 [fc]
-[ns]大倉[nse]
-「うぁ……あ……！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Uwah...ah...!!"[pcms]
 
 *9432|
 [fc]
 [vo_mob s="kyami0010"]
-[ns]キャミソールの女[nse]
-「あ、せーしぃ～～……ぁむ、んちゅ……[r]
-　へ゜ちゃぁ……ん、くちゅ……んく……」[pcms]
+[ns]Camisole Woman[nse]
+"Ah, se-eexy~...am, nchu... pecha...n, kuchu...nku..."[pcms]
 
 *9433|
 [fc]
-棒部分を伝って流れていく精液を、短パンの女が舐め[r]
-取り、ウットリした表情で飲み込んだ。[pcms]
+The shorts-wearing woman licked up the semen flowing down[r]
+the shaft and swallowed it with a blissful expression.[pcms]
 
 *9434|
 [fc]
 [vo_mob s="kyami0011"]
-[ns]キャミソールの女[nse]
-「ん゛ふ～～……ん、ね゛え゛ぇ～～～[r]
-　も゛っとお゛ぉ～～～……っ！[r]
-　もっと、せーしの゛み゛たい゛ぃ～～～……っ！」[pcms]
+[ns]Camisole Woman[nse]
+"Nfu~...nn, nee-e-e~ more o-ooh~...! I want to drink more[r]
+se-men~...!"[pcms]
 
 *9435|
 [fc]
 [vo_mob s="waitress0010"]
-[ns]ウェイトレス風の女[nse]
-「い゛っは゜い、したけ゛る゛から゛ぁ～～……[r]
-　いっは゜い゛、いってえ゛ぇ～～～……♪」[pcms]
+[ns]Waitress-style woman[nse]
+"It's okay, it feels good~... It's okay, let it out~...♪"[pcms]
 
 *9436|
 [fc]
-[ns]大倉[nse]
-「はっ、が……ッ！！」[pcms]
+[ns]Ookura[nse]
+"Hah, ga...!!"[pcms]
 
 *9437|
 [fc]
-女の手と舌の動きは止まることなく、俺のアレとケツの[r]
-穴を刺激し続ける。[pcms]
+The woman's hand and tongue movements didn't stop,[r]
+continuing to stimulate my dick and the hole in my butt.[pcms]
 
 *9438|
 [fc]
-背筋に何回も電流のようなシビレが走り、[r]
-視界はチカチカと白い星が飛んで、[r]
-さらに腰は勝手に跳ね、のけ反った。[pcms]
+Electric-like tingles ran up my spine multiple times, white[r]
+stars flickered in my vision, and my hips involuntarily[r]
+jerked and arched back.[pcms]
 
 *9439|
 [fc]
-[ns]大倉[nse]
-「ぅあっ！！　んぐっ、ぐうぅっ！！」[pcms]
+[ns]Ookura[nse]
+"Uah!! Nguh, guuh!!"[pcms]
 
 *9440|
 [fc]
 [vo_mob s="waitress0011"]
-[ns]ウェイトレス風の女[nse]
-「あ゛はっ！　きも゛ちよ゛さそぅ～～……♪[r]
-　おしり゛、いぃの゛ぉ～～……？[r]
-　せーし、いっは゜いた゛してね゛ぇ～～……！」[pcms]
+[ns]Waitress-style woman[nse]
+"Ahah! It looks so pleasurable~... Does your butt feel[r]
+good~? Let out all your semen~...!"[pcms]
 
 *9441|
 [fc]
 [vo_mob s="kyami0012"]
-[ns]キャミソールの女[nse]
-「ん゛ん～～……ちゅふ゜っ、ちゅう゛ぅっ……！[r]
-　へ゜ちゃ、ひ゜ちゃぁっ……！[r]
-　ん゛っ、む゛、ちゅう゛ぅ……」[pcms]
+[ns]Camisole Woman[nse]
+"Nnh~...chup, chuuh...! Pecha, picha...! Nn, m, chuuh..."[pcms]
 
 *9442|
 [fc]
-[ns]大倉[nse]
-「はぐぅっ！！　ぉあっ！！　あがぁあっ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Haguuh!! Oah!! Agaah!!"[pcms]
 
 *9443|
 [fc]
-自分を襲ってくる刺激が快感だというコトが、俺は[r]
-ようやくわかった。[pcms]
+I finally understood that the stimulation attacking me was[r]
+pleasure.[pcms]
 
 *9444|
 [fc]
-けど、それがわかったところで、俺にはどうしようも[r]
-なかった。[pcms]
+But even with that understanding, there was nothing I could[r]
+do.[pcms]
 
 *9445|
 [fc]
-強すぎる快感で、俺の体は勝手に強ばって固まり、[r]
-女たちが抑えてなくても、逃げられないような状態に[r]
-なっていたからだった。[pcms]
+The overwhelming pleasure made my body stiffen[r]
+involuntarily, and even without the women holding me down, I[r]
+couldn't escape.[pcms]
 
 *9446|
 [fc]
-[ns]大倉[nse]
-「ぐぁあっ！！　ふっ、ふはっ！！　あがぁっ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Guahh!! Fuh, fuhah!! Agaah!!"[pcms]
 
 *9447|
 [fc]
 [vo_mob s="kyami0013"]
-[ns]キャミソールの女[nse]
-「ん゛っ、ちゅむ……た゛してぇ～～……へ゜ちゃっ、[r]
-　ふ゜ちゅ、ん゛ふ……も゛っと、のま゛せてぇ～～[r]
-　せーしぃ～～……」[pcms]
+[ns]Camisole Woman[nse]
+"Nn, chum...let it out~... pecha, puchu, nfu...more, let me[r]
+drink it~ se-exy~..."[pcms]
 
 *9448|
 [fc]
 [vo_mob s="waitress0012"]
-[ns]ウェイトレス風の女[nse]
-「はふ゜、んん……んむぅ、ふ゜ちゅっ……[r]
-　へ゜ちゃっ、えぅ、ん、えぁ～～……」[pcms]
+[ns]Waitress-style woman[nse]
+"Hapu, nnn...numu, puchu... pecha, eu, n, eah~..."[pcms]
 
 *9449|
 [fc]
-指を出し入れされ、穴の周りの壁を擦られるたびに、[r]
-フラッシュのように俺の視界はチカチカと白く光り、[r]
-ケツを中心に体内に熱が拡がっていく。[pcms]
+Each time her finger moved in and out and rubbed around the[r]
+hole, my vision flashed white like a strobe light, and heat[r]
+spread from my butt throughout my body.[pcms]
 
 *9450|
 [fc]
-俺は頭がおかしくなりそうで、何も考えることができ[r]
-なくなり、自分の体が前後左右上下の、どこを向いて[r]
-るのかもわからなくなっていた。[pcms]
+I felt like I was going crazy; I couldn't think of anything[r]
+and didn't even know which way my body was facingup, down,[r]
+left, right.[pcms]
 
 *9451|
 [fc]
-[ns]大倉[nse]
-「ぐ、ふぅっ！！　うぁあっ！！　はっ、がぁっ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Gu, fuuh!! Uwahh!! Hah, gahh!!"[pcms]
 
 *9452|
 [fc]
 [vo_mob s="kyami0014"]
-[ns]キャミソールの女[nse]
-「へぁ、えあ゛ぁ……はふ、せーしぃ……[r]
-　ん゛、ちゅ、へ゜ちゃぁ……せーしぃ～～……」[pcms]
+[ns]Camisole Woman[nse]
+"Hea, eahh...hafu, se-exy... nn, chu, pecha...se-exy~..."[pcms]
 
 *9453|
 [fc]
 [vo_mob s="waitress0013"]
-[ns]ウェイトレス風の女[nse]
-「お゛ちん゛ちん、は゜んは゜んた゛ぁ……♪[r]
-　い゛きそぅ～～……？　おちん゛ちん゛、[r]
-　いっちゃう゛ぅ～～～……？」[pcms]
+[ns]Waitress-style woman[nse]
+"Your cock is throbbing...♪ Does it feel like it's going to[r]
+cum~? Your cock is going to cum~...?"[pcms]
 
 *9454|
 [fc]
-[ns]大倉[nse]
-「おぁっ！！　おっ、ぐ、んおぉっ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Oahh!! Ohh, guh, nuohh!!"[pcms]
 
 *9455|
 [fc]
-逃げられない状態で、俺はされるがままに、拷問の[r]
-ように強制的に快感を与えられ続けて、アレはまた、[r]
-簡単に限界を越えた。[pcms]
+In an inescapable state, I was subjected to pleasure like[r]
+torture; my dick easily surpassed its limit again.[pcms]
 
 [evcg storage="HEV309b"][trans_c cross time=301]
 
 *9456|
 [fc]
-[ns]大倉[nse]
-「んぐうぅっ！！　ぐぅっ、んううぅっ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Nguuhh!! Guhh, nuuuhh!!"[pcms]
 
 *9457|
 [fc]
 [vo_mob s="waitress0014"]
-[ns]ウェイトレス風の女[nse]
-「あ゛はぁ～～い゛っちゃったぁ～～……♪[r]
-　おしり゛いし゛られて、い゛っちゃうな゛んてぇ、[r]
-　えっちな゛おちん゛ちん～～……♪」[pcms]
+[ns]Waitress-style woman[nse]
+"Ahaha~ you came~...♪ Getting your butt played with and[r]
+cumming like that, what a naughty cock~...♪"[pcms]
 
 *9458|
 [fc]
 [vo_mob s="kyami0015"]
-[ns]キャミソールの女[nse]
-「ちゅひ゜っ、ちゃふ゜……ん゛、は……[r]
-　い゛れ゛たいよ゛ぉ～～……ちん゛ちん、[r]
-　まんこに゛い゛れたぁい゛……」[pcms]
+[ns]Camisole Woman[nse]
+"Chupi, chafu...nn, ha... I want to insert it~...cock, I[r]
+want it in my pussy~..."[pcms]
 
 *9459|
 [fc]
-[ns]大倉[nse]
-「はっ、くはぁ……っ！！　ふはっ、はぁ……っ！！」[pcms]
+[ns]Ookura[nse]
+"Hah, kuhah...!! Fuhah, hah...!!"[pcms]
 
 *9460|
 [fc]
-視界がうっすらと白くなり、気絶するんじゃないかと[r]
-思うぐらい、激しくイッたはずだったが、なんでか、[r]
-俺は射精しなかった。[pcms]
+My vision went faintly white; I thought I was going to pass[r]
+out from cumming so intensely, but for some reason, I didn't[r]
+ejaculate.[pcms]
 
 *9461|
 [fc]
-けど、女たちはそれをフシギだとは思ってないらしく、[r]
-俺に快感を与えるのを、やめようとはしなかった。[pcms]
+But the women didn't seem to find that strange and didn't[r]
+stop giving me pleasure.[pcms]
 
 *9462|
 [fc]
 [vo_mob s="waitress0015"]
-[ns]ウェイトレス風の女[nse]
-「あ゛む、す゛ちゅっ……！　ちゅぶっ、ん゛、[r]
-　ちゅぅっ……へは、はぁっ……」[pcms]
+[ns]Waitress-style woman[nse]
+"Amu, suchu...! Chubu, nn, chu...heha, hah..."[pcms]
 
 *9463|
 [fc]
-[ns]大倉[nse]
-「や……や、め……っ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Stop...stop it...!"[pcms]
 
 *9464|
 [fc]
 [vo_mob s="kyami0016"]
-[ns]キャミソールの女[nse]
-「れるぅ、ひ゜ちゃっ、ん゛ちゅ、れろぉ～～……」[pcms]
+[ns]Camisole Woman[nse]
+"Relish it, picha, nchu, reroo~..."[pcms]
 
 *9465|
 [fc]
-[ns]大倉[nse]
-「は、ぐ……っ！！　んぐうぅうっ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Ha, guh...!! Nguuuhh!!"[pcms]
 
 *9466|
 [fc]
-あまりにも強い快感を、強制的に、休みなく与えられ[r]
-たせいなのか、俺の頭の働きは、段々と鈍くなって[r]
-きていた。[pcms]
+Perhaps due to the unceasingly strong pleasure forced upon[r]
+me, my mental faculties were gradually dulling.[pcms]
 
 *9467|
 [fc]
-その鈍くなった頭でも、自分はもう助からないんじゃ[r]
-ないかというコトは、俺は薄々、感づいていた。[pcms]
+Even with my dulled mind, I faintly realized that I might[r]
+not be saved anymore.[pcms]
 
 *9468|
 [fc]
 [vo_mob s="waitress0016"]
-[ns]ウェイトレス風の女[nse]
-「ん゛、ちゅぅっ……あ゛はぁ～～……♪[r]
-　か゛まんし゛る゛ぅ、おい゛ちぃ～～……♪」[pcms]
+[ns]Waitress-style woman[nse]
+"Nnh, chuu...ahah~...♪ You're holding back so well; it's[r]
+delicious~...♪"[pcms]
 
 *9469|
 [fc]
-ユウたちを、置き去りにするんじゃなかった……。[r]
-そうすれば、こんなコトには……。[pcms]
+I shouldn't have left Yuu and the others behind... If only I[r]
+hadn't done that...[pcms]
 
 *9470|
 [fc]
 [vo_mob s="kyami0017"]
-[ns]キャミソールの女[nse]
-「ん゛っ、ちゅぅ、ん゛む……ふはっ、はぁ～～……[r]
-　ね゛ぇ～～いれ゛てい゛ぃ～～……？[r]
-　ま゛んこに゛、ほしくな゛っちゃったぁ～～……」[pcms]
+[ns]Camisole Woman[nse]
+"Nnh, chu, nmu...fuhah, hah~... Hey~ can I insert it~...? My[r]
+pussy really wants it now~..."[pcms]
 
 *9471|
 [fc]
-速水……。[r]
-俺、もう、お前を助けらんねー……。[r]
-ゴメンな……。[pcms]
+Hayami... I can't save you anymore. I'm sorry...[pcms]
 
 *9472|
 [fc]
-[ns]大倉[nse]
-「んぐううぅぅううぅっ！！！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Nguuuuuuuuuuuuuuuh!!!!!"[pcms]
 
 ;//whiteEOUT
 [fadeoutbgm time=502]
@@ -630,24 +597,23 @@
 
 *9473|
 [fc]
-３回目の絶頂で、視界は真っ白になり、俺は体に力を[r]
-入れることが一切できなくなった。[pcms]
+At the third climax, my vision went completely white and I[r]
+lost all strength in my body.[pcms]
 
 *9474|
 [fc]
-速水……。[r]
-ユウ……。[pcms]
+Hayami... Yuu...[pcms]
 
 *9475|
 [fc]
-ゴメン……。[pcms]
+I'm sorry...[pcms]
 
 ;//------------------------------------------------
 [if exp="tf.scene_mode==1"]
 	[jump storage="b_scene.ks" target=*back_from_SR]
 ;	[link storage=sceneAgain]もう一度見る[endlink]
 ;	[link storage=sceneList]一覧に戻る[endlink]
-;	[s]
+[pcms]
 [endif]
 
 *KAISOU_PASS
@@ -668,4 +634,4 @@
 
 ;//ゲームオーバー
 
-;//－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+;//

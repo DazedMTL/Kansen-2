@@ -33,9 +33,8 @@
 
 *8604|
 [fc]
-クソッ、決めらんねー……！[r]
-どっちだ……？[r]
-どっちの階段だ……！？[pcms]
+Damn it, I can't decide...! Which one...? Which[r]
+staircase...!?[pcms]
 
 ;//＠二人立ち　小林左　女右
 [ChrSetEx layer=2 chbase="koba_n04"][ChrSetXY layer=2 x=0 y=0]
@@ -44,8 +43,8 @@
 *8605|
 [fc]
 [vo_anz s="anzai0356_bad"]
-[ns]女[nse]
-「何をしているの！？　急いで！！」[pcms]
+[ns]Female[nse]
+"What are you doing!? Hurry up!!"[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
@@ -54,154 +53,150 @@
 *8606|
 [fc]
 [vo_kob s="koba0445"]
-[ns]小林[nse]
-「ヒロ、はやくにげなきゃ！！」[pcms]
+[ns]Kobayashi[nse]
+"Hiro, we have to run away quickly!!"[pcms]
 
 *8607|
 [fc]
-[ns]大倉[nse]
-「え、あ、あぁ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Eh, ah, oh..."[pcms]
 
 [chara_int_ layer=2][chara_int_ layer=3][trans_c cross time=150]
 
 *8608|
 [fc]
-ユウに腕を引っ張られて、やっと我に返った俺は、[r]
-促されるままに走り出そうとした。[pcms]
+Pulled by the arm by Yuu, I finally snapped back to reality[r]
+and started to run as urged.[pcms]
 
 *8609|
 [fc]
-[ns]クールビズの男[nse]
-「まんこた゛せえぇ～～～……っ！！」[pcms]
+[ns]Cool Biz Man[nse]
+"Pussy so tight~~~...!!"[pcms]
 
 ;//＠お嬢様＝神宮寺　といことで貼り付け
 [ChrSetEx layer=4 chbase="jinguji_n10"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *8610|
 [fc]
 [vo_may s="maya0555"]
-[ns]お嬢様[nse]
-「ぅあっ！！」[pcms]
+[ns]Young Lady[nse]
+"Uah!!"[pcms]
 
 *8611|
 [fc]
-[ns]大倉[nse]
-「おぁあっ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Ohh!!"[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *8612|
 [fc]
-走りだそうとした瞬間、イカレ野郎に突き飛ばされた[r]
-らしいお嬢様が吹っ飛んできて、背中にブチ当たり、[r]
-俺は彼女と一緒に床に倒れた。[pcms]
+The moment I started to run, it seemed a young lady who was[r]
+pushed by the crazy guy came flying and crashed into my[r]
+back, and I fell to the floor with her.[pcms]
 
 *8613|
 [fc]
-[ns]大倉[nse]
-「イッテェ……！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Ouch...!"[pcms]
 
 ;//＠立ち絵ださない
 *8614|
 [fc]
 [vo_may s="maya0556"]
-[ns]お嬢様[nse]
-「ぅ、く……きゃぁあっ！！」[pcms]
+[ns]Young Lady[nse]
+"Ugh...kyaaah!!"[pcms]
 
 *8615|
 [fc]
-俺の体の脇に手をつき、体を起こしたお嬢様を振り返[r]
-ると、四つん這い状態になった彼女の上に、イカレ野[r]
-郎が覆い被さっている。[pcms]
+As I turned around to the young lady who had propped herself[r]
+up beside me, I saw her on all fours with the crazy guy[r]
+looming over her.[pcms]
 
 *8616|
 [fc]
-下半身を丸出しにしたその男は荒く息を吐き、[r]
-ガチガチに硬くなったアレを、ニヤニヤ笑いながら[r]
-お嬢様の尻の谷間に擦りつけていた。[pcms]
+The man, with his lower half exposed, was breathing roughly[r]
+and rubbing his rock-hard thing against the valley of the[r]
+young lady's ass while grinning.[pcms]
 
 *8617|
 [fc]
-[ns]クールビズの男[nse]
-「はぁあ゛ぁ～～～……っ！！[r]
-　ま゛んこお゛ぉ～～～……っ！！[r]
-　まん゛こた゛せよ゛お゛ぉ～～～……っ！！」[pcms]
+[ns]Cool Biz Man[nse]
+"Haaaah~~~...!! Pussy~~~...!! Rubbing my cock~~~...!!"[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_n10"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *8618|
 [fc]
 [vo_may s="maya0557"]
-[ns]お嬢様[nse]
-「いやぁあぁっ！！　やあぁ……っ！！」[pcms]
+[ns]Young Lady[nse]
+"No, stop it!! Stop...!!"[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *8619|
 [fc]
-[ns]大倉[nse]
-「テメェ……っ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"You bastard...!!"[pcms]
 
 *8620|
 [fc]
-お嬢様の体の下から抜け出し、覆い被さってるイカレ[r]
-野郎を引き剥がそうと立ち上がった瞬間、俺はアゴの[r]
-先に何かが叩きつけられるのを感じた。[pcms]
+As I got out from under the young lady's body and stood up[r]
+to pull off the crazy guy covering her, I felt something[r]
+slam into my chin.[pcms]
 
 [白フラ]
 [quake_bg 元time=200 xy m]
 
 *8621|
 [fc]
-[ns]大倉[nse]
-「がっ……！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Gah...!!"[pcms]
 
 *8622|
 [fc]
-体から勝手に力が抜けて、膝が両方ともガクンと折れ、[r]
-また床に転がってから、俺は初めて、すぐ傍にいたイ[r]
-カレ野郎に殴られたんだとわかった。[pcms]
+My body lost strength on its own, my knees buckled, and as I[r]
+fell to the floor again, I realized for the first time that[r]
+I had been punched by the crazy guy nearby.[pcms]
 
 *8623|
 [fc]
-[ns]大倉[nse]
-「ぐ、く……っ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Guh, kuh...!!"[pcms]
 
 *8624|
 [fc]
-体が……。[r]
-言うこと聞かねー……。[r]
-どうなってんだ、これ……！[pcms]
+My body... won't listen to me... What's happening here...![pcms]
 
 ;//＠正面立ち
 *8625|
 [fc]
 [vo_anz s="anzai0357_bad"]
-[ns]女[nse]
-「いやっ！！　きゃあぁぁあっ！！」[pcms]
+[ns]Female[nse]
+"No!! Kyaaahhh!!"[pcms]
 
 [ChrSetEx layer=4 chbase="koba_n13"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *8626|
 [fc]
 [vo_kob s="koba0446"]
-[ns]小林[nse]
-「うわっ、わあぁっ！！　はなせえぇっ！！」[pcms]
+[ns]Kobayashi[nse]
+"Uwah, waaah!! Let go of me!!"[pcms]
 
 *8627|
 [fc]
-[ns]大倉[nse]
-「ユウ……！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Yuu...!"[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *8628|
 [fc]
-視界は目が回った時のように揺れて、体は少しも動か[r]
-せない。[pcms]
+My vision swayed as if I were dizzy, and I couldn't move my[r]
+body at all.[pcms]
 
 *8629|
 [fc]
-目の前で犯されようとしてるお嬢様も、イカレ野郎に[r]
-襲われてるらしいユウも、女の人も、助けに行くこと[r]
-ができないでいた。[pcms]
+The young lady in front of me being assaulted, Yuu who[r]
+seemed to be attacked by the crazy guy, and the woman, I[r]
+couldn't go to help any of them.[pcms]
 
 ;//♪：bgm005　fadeOUT
 [fadeoutbgm time=1000][wb]
@@ -232,352 +227,330 @@
 *8630|
 [fc]
 [vo_may s="maya0558"]
-[ns]お嬢様[nse]
-「ひっ……！！　いやぁっ、助けてぇ……っ！！」[pcms]
+[ns]Young Lady[nse]
+"Hik...!! No, help me...!!"[pcms]
 
 *8631|
 [fc]
-助けを求めて俺に向かって伸ばした手も、もう片方の[r]
-手も両方、男にガッチリと掴まれてしまって、お嬢様[r]
-は身動きができない状態にされてしまった。[pcms]
+The hands that reached out to me for help and her other hand[r]
+were both firmly grasped by the man, and the young lady was[r]
+rendered immobile.[pcms]
 
 *8632|
 [fc]
-イッちまってる笑顔で見下ろして、男は彼女の尻の[r]
-谷間に、アレを擦りつけ続けている。[pcms]
+Looking down with a crazed smile, the man continued to rub[r]
+his thing against her ass valley.[pcms]
 
 *8633|
 [fc]
-[ns]クールビズの男[nse]
-「まんこぉ、ちいさそうた゛なぁ～～……！[r]
-　おれ゛の゛ちんほ゛いれ゛たら゛ぁ、[r]
-　こわ゛れ゛ちまうかも゛な゛あぁ～～～……！」[pcms]
+[ns]Cool Biz Man[nse]
+"Your pussy looks so small~~...! If I put my dick in there,[r]
+it might just break~~~...!"[pcms]
 
 [evcg storage="HEV303c"][trans_c cross time=301]
 
 *8634|
 [fc]
 [vo_may s="maya0559"]
-[ns]お嬢様[nse]
-「いやぁっ！！　いやあぁぁあっ！！！！」[pcms]
+[ns]Young Lady[nse]
+"No!! Nooooo!!"[pcms]
 
 *8635|
 [fc]
-[ns]クールビズの男[nse]
-「やら゛しく、けつふり゛やか゛ってぇ～～……！[r]
-　そんな゛に゛ちんほ゛か゛ほしい゛かぁ～～……？」[pcms]
+[ns]Cool Biz Man[nse]
+"Naughtily shake that ass~~...! Do you want my cock that[r]
+badly~~...?"[pcms]
 
 [evcg storage="HEV303d"][trans_c cross time=301]
 
 *8636|
 [fc]
 [vo_may s="maya0560"]
-[ns]お嬢様[nse]
-「助けてぇっ！！　いやああぁっ！！」[pcms]
+[ns]Young Lady[nse]
+"Help me!! Noooo!!"[pcms]
 
 *8637|
 [fc]
-嫌がって体を動かし、挿れされないようにするのは、[r]
-余計に男を興奮させるだけで、彼女にとって逆効果に[r]
-しかならなかった。[pcms]
+Her struggling and trying not to get penetrated only excited[r]
+the man more, which was counterproductive for her.[pcms]
 
 *8638|
 [fc]
-結果、鼻息を荒くした男に、お嬢様はアレを強引に[r]
-ねじ込まれてしまった。[pcms]
+As a result, the young lady was forcefully penetrated by his[r]
+thing.[pcms]
 
 [evcg storage="HEV303c"][trans_c cross time=301]
 
 *8639|
 [fc]
 [vo_may s="maya0561"]
-[ns]お嬢様[nse]
-「あぁっがああぁああぁぁっ！！！！」[pcms]
+[ns]Young Lady[nse]
+"Aaahgaaaahhhhh!!"[pcms]
 
 *8640|
 [fc]
-[ns]クールビズの男[nse]
-「へぁあ゛はあ゛ぁ～～～……っ！！[r]
-　こい゛つの゛ま゛んこぉ、せま゛くて、[r]
-　き゛ちき゛ちた゛あ゛ぁ～～～……っ！！」[pcms]
+[ns]Cool Biz Man[nse]
+"Heaahhaaah~~~...!! This pussy is so tight and snug~~~...!!"[pcms]
 
 [evcg storage="HEV303b"][trans_c cross time=301]
 
 *8641|
 [fc]
 [vo_may s="maya0562"]
-[ns]お嬢様[nse]
-「あっ、が……は……っ！！」[pcms]
+[ns]Young Lady[nse]
+"Ah, ga...ha...!!"[pcms]
 
 *8642|
 [fc]
-男は勢い良く腰を突き出し、一気にアレを根元まで[r]
-押し込んだ。[pcms]
+The man thrust his hips vigorously and pushed his thing all[r]
+the way to the base in one go.[pcms]
 
 *8643|
 [fc]
-声も出せないほど痛く、苦しいのか、息をするのも[r]
-やっと、という感じで、お嬢様は口と目を大きく開き、[r]
-短い呼吸を繰り返した。[pcms]
+It was so painful and suffocating that she could barely[r]
+breathe; the young lady opened her mouth and eyes wide and[r]
+took short breaths.[pcms]
 
 *8644|
 [fc]
 [vo_may s="maya0563"]
-[ns]お嬢様[nse]
-「は……ぐ…………ぁ、が……っ！！」[pcms]
+[ns]Young Lady[nse]
+"Ha...guh...a, ga...!!"[pcms]
 
 *8645|
 [fc]
-[ns]クールビズの男[nse]
-「い゛いそ゛この゛まん゛こお゛ぉ～～～……っ！！[r]
-　きつい゛のか゛い゛ぃ～～～……っ！！」[pcms]
+[ns]Cool Biz Man[nse]
+"This pussy is so good~~~...!! It's nice when it's[r]
+tight~~~...!!"[pcms]
 
 *8646|
 [fc]
 [vo_may s="maya0564"]
-[ns]お嬢様[nse]
-「ふっ……か、はっ……はぁっ……！！」[pcms]
+[ns]Young Lady[nse]
+"Huff...ka, ha...haa...!!"[pcms]
 
 *8647|
 [fc]
-周りに集まってきたイカレ野郎は、そのほとんどが[r]
-お嬢様がレイプされるのを見てニヤけ、自分のアレを[r]
-握りしめた。[pcms]
+The crazy guys gathering around were mostly grinning at the[r]
+sight of the young lady being raped, clutching their own[r]
+things.[pcms]
 
 *8648|
 [fc]
-[ns]クールビズの中年[nse]
-「ちょっとま゛っててね゛ぇ～～……かわ゛いい゛[r]
-　かお゛に゛、たっふ゜り゛かけてあけ゛る゛から゛[r]
-　ね゛え゛ぇ～～～……！！」[pcms]
+[ns]Middle-aged man in cool business attire[nse]
+"Just wait a moment~~... I'll cover your cute face with[r]
+plenty of it soon enough~~...!!"[pcms]
 
 *8649|
 [fc]
-[ns]スーツの青年[nse]
-「おれ゛も゛、まんこに゛いれ゛てぇよぉ～～……！！[r]
-　はや゛く、かわ゛れ゛よお゛ぉ～～～……っ！！」[pcms]
+[ns]Young Man in a Suit[nse]
+"I also want to put it in that pussy~~...!! Hurry up and[r]
+switch with me~~~...!!"[pcms]
 
 *8650|
 [fc]
 [vo_may s="maya0565"]
-[ns]お嬢様[nse]
-「うぅっ……ぐはっ……！！　く……ぐぅ……っ！！」[pcms]
+[ns]Young Lady[nse]
+"Uuhh...guhah...!! Ku...guu...!!"[pcms]
 
 *8651|
 [fc]
-[ns]クールビズの男[nse]
-「うはぁあ゛ぁ～～……！　まし゛て゛き゛ちき゛ち[r]
-　た゛あ゛ぁ～～～……っ！！　これし゛ゃ、すく゛[r]
-　にて゛ちま゛うぅ～～～……っ！！」[pcms]
+[ns]Cool Biz Man[nse]
+"Uhaaahaaah~~...! It's so damn tight and snug~~~...!! At[r]
+this rate, I'll come too quickly~~~...!!"[pcms]
 
 *8652|
 [fc]
 [vo_may s="maya0566"]
-[ns]お嬢様[nse]
-「は、っぐ……！！　はぁっ……んぎ、ぃ……っ！！」[pcms]
+[ns]Young Lady[nse]
+"Ha, hugh...!! Haaah...ngi, i...!!"[pcms]
 
 *8653|
 [fc]
-気持ち悪い笑顔を浮かべ、醜い出っ腹をタプンタプン[r]
-揺らし、男はお嬢様のアソコを突きまくる。[pcms]
+With a disgusting smile on his face and his ugly belly[r]
+jiggling, the man kept thrusting into the young lady's[r]
+pussy.[pcms]
 
 *8654|
 [fc]
-クソッ……！！[r]
-助けなきゃなんねーのに……。[r]
-なんで動かねーんだよ……！！[pcms]
+Damn it...!! I have to help her... Why can't I move...!![pcms]
 
 *8655|
 [fc]
-[ns]真っ裸の中年[nse]
-「も゛ったい゛な゛いぃ～～……うえ゛の゛まん゛こ[r]
-　か゛あい゛てる゛し゛ゃないかあ゛ぁ～～～……」[pcms]
+[ns]Stark-naked middle-aged man[nse]
+"It's absolutely irresistible~~... This pussy is so cute,[r]
+isn't it~~~...?"[pcms]
 
 *8656|
 [fc]
-彼女を助けに行こうともがく俺の横を、真っ裸のオッ[r]
-サンが、硬くなって上を向いたアレを揺らしながら、[r]
-通り過ぎていく。[pcms]
+As I struggle to go help her, a stark-naked old man with his[r]
+hard dick pointing upwards passes by me.[pcms]
 
 *8657|
 [fc]
-お嬢様の前で立ち止まると、痛さと苦しさで喘ぐ彼女[r]
-の、大きく開いた口に、アレをいきなり根元まで突き[r]
-入れた。[pcms]
+He stops in front of the young lady and, as she gasps in[r]
+pain and struggle, he suddenly thrusts his dick deep into[r]
+her wide-open mouth.[pcms]
 
 [evcg storage="HEV303e"][trans_c cross time=301]
 
 *8658|
 [fc]
 [vo_may s="maya0567"]
-[ns]お嬢様[nse]
-「んぶおおぉぉおぉぉおっ！！！！」[pcms]
+[ns]Young Lady[nse]
+"Nmbuooohhhhhhh!!!!!!"[pcms]
 
 *8659|
 [fc]
-ヨダレを垂らし、ニヤけ笑いを浮かべて、裸のオッサ[r]
-ンはお嬢様の頭を押さえつけ、後ろから犯してる男と[r]
-同じように、乱暴に口にアレを出し入れし始めた。[pcms]
+Drooling and with a disgusting smile, the naked old man[r]
+holds down the young lady's head and, just like the man[r]
+fucking her from behind, starts roughly thrusting his dick[r]
+in and out of her mouth.[pcms]
 
 *8660|
 [fc]
-[ns]真っ裸の中年[nse]
-「お゛ぉはぁ～～～……っ！！　いい゛な゛ぁ～～、[r]
-　この゛ま゛んこぉ～～……したの゛まん゛こも゛[r]
-　よさそう゛た゛なあ゛ぁ～～～……っ！」[pcms]
+[ns]Stark-naked middle-aged man[nse]
+"Ooohaaah~~~...!! It's so good~~~, this pussy~~~... The one[r]
+below looks great too~~~...!!"[pcms]
 
 *8661|
 [fc]
 [vo_may s="maya0568"]
-[ns]お嬢様[nse]
-「んぶぐっ！！　ぐぢゅっ、ぶぼっ、ぶぢゅぅっ！！[r]
-　んぉっ、んぐうぅっ！！」[pcms]
+[ns]Young Lady[nse]
+"Nmbugg!! Gudjuh, buboh, budjuuh!! Nohh, nguuhh!!"[pcms]
 
 *8662|
 [fc]
-[ns]クールビズの男[nse]
-「ふく゛う゛ぅ～～～……っ！！　は゛っくか゛すき[r]
-　な゛の゛かぁ～～……？　まん゛こぉ、しめ゛つけ[r]
-　やか゛ってえ゛ぇ～～～……っ！！」[pcms]
+[ns]Cool Biz Man[nse]
+"Fuguuuh~~~...!! Do you like it rough~~~...? Your pussy,[r]
+it's clamping down so tight~~~...!!"[pcms]
 
 *8663|
 [fc]
 [vo_may s="maya0569"]
-[ns]お嬢様[nse]
-「ぐぶぉっ！！　ぉぐうぅっ！！　ぐぶちゅっ、[r]
-　ぢゅぼぉっ！！　っぐ、ぅぐ、ぢゅぶっ！！」[pcms]
+[ns]Young Lady[nse]
+"Gubohh!! Oguuhh!! Gubuchu, jubohh!! Ggu, ugu, jubuhh!!"[pcms]
 
 *8664|
 [fc]
-さっきよりもっと苦しそうに、必死になって息を吸い[r]
-ながら、お嬢様は口の中のアレを出そうと、頭を振っ[r]
-ている。[pcms]
+Looking even more desperate and struggling to breathe, the[r]
+young lady shakes her head trying to push out the dick[r]
+inside her mouth.[pcms]
 
 *8665|
 [fc]
-けど、腕も頭も抑えられてる状態じゃ、口の中のアレ[r]
-を外すどころか、動くことさえできず、２人の男の間[r]
-で体を揺らされるしかできないでいた。[pcms]
+But with her arms and head held down, she can't even move,[r]
+let alone push out the dick in her mouth, and is just being[r]
+shaken between the two men.[pcms]
 
 *8666|
 [fc]
 [vo_may s="maya0570"]
-[ns]お嬢様[nse]
-「んぶうぅっ！！　ぢゅぐっ、ぐっ、んぐぶぅっ！！[r]
-　ぐっ、ぢゅぶ、ぶぢゅぅっ！！」[pcms]
+[ns]Young Lady[nse]
+"Nmbuuuh!! Juguh, guh, ngubuuh!! Guh, jubu, budjuuh!!"[pcms]
 
 *8667|
 [fc]
-[ns]クールビズの男[nse]
-「ま゛んこか゛き゛ゅうき゛ゅういってるそ゛ぉ～～[r]
-　お゛い゛ぃ～～～……っ！！　そんな゛に゛ぃ、[r]
-　な゛かた゛ししてほしい゛の゛かあぁ～～～……？」[pcms]
+[ns]Cool Biz Man[nse]
+"Your pussy is squeezing so tight~~~ Oiiii~~~...!! Do you[r]
+want it that badly inside~~~...?"[pcms]
 
 *8668|
 [fc]
-[ns]真っ裸の中年[nse]
-「うへぁあ゛～～～……のと゛て゛、ちん゛ほ゜の゛[r]
-　さきか゛しめ゛つけら゛れ゛てるうぅ～～～……！[r]
-　すけへ゛な゛か゛きた゛あ゛ぁ～～～……っ！！」[pcms]
+[ns]Stark-naked middle-aged man[nse]
+"Uheaaah~~~... The tip of my dick is being clamped down so[r]
+hard~~~...! I'm getting so turned on~~~...!!"[pcms]
 
 *8669|
 [fc]
 [vo_may s="maya0571"]
-[ns]お嬢様[nse]
-「んぐおぉっ！！　んぶぉっ、ぶぐっ、ぐぢゅぅっ！！[r]
-　んぢゅっ、ぐぶうぅっ！！」[pcms]
+[ns]Young Lady[nse]
+"Nguoohh!! Nmbuohh, buguh, gudjuuh!! Njyuh, gubuuhh!!"[pcms]
 
 *8670|
 [fc]
-[ns]クールビズの男[nse]
-「お゛くて゛な゛んかあたってんな゛ぁ～～……[r]
-　そんな゛に゛ほしいの゛かぁ～～……？[r]
-　おれ゛のさ゛ーめ゛んか゛あ゛ぁ～～～……！」[pcms]
+[ns]Cool Biz Man[nse]
+"Something's hitting deep inside~~~... Do you want it that[r]
+much~~~...? My semen is coming~~~...!"[pcms]
 
 *8671|
 [fc]
 [vo_may s="maya0572"]
-[ns]お嬢様[nse]
-「んううぅっ！！　んんっ！！　ぅぐ、んぶぅっ！！[r]
-　ぢゅっ！！　んぼぉっ！！　ぢゅぐぅっ！！」[pcms]
+[ns]Young Lady[nse]
+"Nuuuuhh!! Nnhh!! Ugu, nmbuuhh!! Jyuhh!! Nboohh!! Juguhh!!"[pcms]
 
 *8672|
 [fc]
-お嬢様は嫌がり、苦しがって、涙を流しながら首を[r]
-振り、自分を犯すアレから逃げようと、もがき続ける。[pcms]
+The young lady resists and struggles in pain, tears[r]
+streaming down as she shakes her head trying to escape the[r]
+dick violating her.[pcms]
 
 *8673|
 [fc]
-けど、頭のイカレたアイツらが止めるワケもなく、[r]
-彼女の口とアソコが立てる音のリズムが、どんどん[r]
-速くなっていく。[pcms]
+But the crazed men don't stop, and the rhythm of the sounds[r]
+made by her mouth and pussy gets faster and faster.[pcms]
 
 *8674|
 [fc]
-[ns]クールビズの男[nse]
-「そんな゛に゛、けつふってね゛た゛らな゛くても゛、[r]
-　もう゛すく゛ま゛んこに゛た゛してやる゛から゛、[r]
-　ちょっとま゛ってろ゛お゛ぉ～～～……っ！！」[pcms]
+[ns]Cool Biz Man[nse]
+"You don't need to shake your ass like that~~~, I'll be[r]
+cumming inside your pussy soon enough~~~, just wait a bit[r]
+longer~~~...!!"[pcms]
 
 *8675|
 [fc]
 [vo_may s="maya0573"]
-[ns]お嬢様[nse]
-「ぶぢゅっ、ぶぐうぅっ！！　んぶぢゅっ、んぼぉ、[r]
-　ぐぢゅうぅっ！！　ぐぼおぉっ！！」[pcms]
+[ns]Young Lady[nse]
+"Budjuh, buguuhh!! Nmbujyuh, nbooh, gudjuuhh!! Guboohh!!"[pcms]
 
 *8676|
 [fc]
-[ns]真っ裸の中年[nse]
-「こほ゛さな゛い゛ように゛、のと゛に゛ちょくせつ[r]
-　た゛してやる゛から゛な゛あぁ～～～……っ！！」[pcms]
+[ns]Stark-naked middle-aged man[nse]
+"I'll make sure not to spill it all over you~~~, I'll cum[r]
+directly in your throat~~~, just wait for it~~~...!!"[pcms]
 
 *8677|
 [fc]
-お嬢様の口にアレを突っ込んでる男の呼吸が、急に苦[r]
-しそうになり、腰の動きが速くなっていく。[pcms]
+The man fucking the young lady's mouth starts breathing[r]
+heavily as if in distress, and his hip movements get faster.[pcms]
 
 *8678|
 [fc]
-彼女の顔は苦しさで歪んで、涙で濡れ、ヨダレで汚れ[r]
-ていった。[pcms]
+Her face contorts in pain, wet with tears and dirtied with[r]
+drool.[pcms]
 
 *8679|
 [fc]
-[ns]真っ裸の中年[nse]
-「あ゛ぁあ～～～……っ！！　はあぁ～～～……っ！！[r]
-　て゛るて゛るう゛ぅ～～～……っ！！」[pcms]
+[ns]Stark-naked middle-aged man[nse]
+"Aaaah~~~...!! Haaah~~~...!! It's coming out~~~...!!"[pcms]
 
 *8680|
 [fc]
 [vo_may s="maya0574"]
-[ns]お嬢様[nse]
-「んんっ！！　ぐぶぉっ！！　んぼおぉっ！！[r]
-　ぢゅぐっ、ぶぢゅっ、んぉぐうぅっ！！」[pcms]
+[ns]Young Lady[nse]
+"Nnnhh!! Gubohh!! Nboohh!! Juguh, budjuh, noguuhh!!"[pcms]
 
 *8681|
 [fc]
-[ns]真っ裸の中年[nse]
-「あ゛ぁ～～いくそ゛お゛ぉ～～～……っ！！[r]
-　はら゛いっは゜いのめ゛よお゛ぉ～～～……っ！！」[pcms]
+[ns]Stark-naked middle-aged man[nse]
+"Aaah~~~ I'm cumming~~~...!! Fill up your belly with[r]
+it~~~...!!"[pcms]
 
 *8682|
 [fc]
 [vo_may s="maya0575"]
-[ns]お嬢様[nse]
-「んぶぐっ！！　ぐっぢゅっ、ぶぢゅぅっ！！[r]
-　ぐぢゅるっ！！　ぶぢゅっ、ぢゅぼおぉっ！！」[pcms]
+[ns]Young Lady[nse]
+"Nmbugh!! Guddjuh, budjuuh!! Gudjurl!! Budjuh, jubohh!!"[pcms]
 
 *8683|
 [fc]
-下腹に彼女の顔が埋まるぐらい、奥深くにアレを突っ[r]
-込むと、オッサンのケツがキュッと締まり、痙攣する[r]
-ように腰が小さく震えた。[pcms]
+Burying her face deep into his lower abdomen, the old man[r]
+clenches his ass and his hips tremble as if convulsing.[pcms]
 
 *8684|
 [fc]
-[ns]真っ裸の中年[nse]
-「ぉあっ、おっ……くはあぁ～～～……っ！！」[pcms]
+[ns]Stark-naked middle-aged man[nse]
+"Ohh, oh...kuhaaah~~~...!!"[pcms]
 
 ;[射精フラA]
 ;イベントCG射精差分
@@ -588,166 +561,164 @@
 *8685|
 [fc]
 [vo_may s="maya0576"]
-[ns]お嬢様[nse]
-「んぶっ、ぉぐぅう……ぐぶ、んぉお……」[pcms]
+[ns]Young Lady[nse]
+"Nmbuhh, oguuh...gubu, nooh..."[pcms]
 
 *8686|
 [fc]
-言葉通り、オッサンに喉に直接、精液をブチ撒けられ[r]
-たらしい彼女は、今にも吐き出しそうにホッペタを[r]
-膨らませている。[pcms]
+True to his word, the old man seems to have ejaculated[r]
+directly into her throat as she puffs up her cheeks as if[r]
+about to vomit.[pcms]
 
 *8687|
 [fc]
-しばらくして、出し切って満足したように、オッサン[r]
-は長く息をつきながら、お嬢様の口から自分のアレを[r]
-引き抜いた。[pcms]
+After a while, having finished and seemingly satisfied, the[r]
+old man takes a long breath and pulls his dick out of the[r]
+young lady's mouth.[pcms]
 
 [evcg storage="HEV303g"][trans_c cross time=301]
 
 *8688|
 [fc]
 [vo_may s="maya0577"]
-[ns]お嬢様[nse]
-「ぐぼぇっ！！　げはっ、がはぁっ！！　おぇっ、[r]
-　うぇえっ……！！」[pcms]
+[ns]Young Lady[nse]
+"Guboehh!! Gehah, gahahh!! Oehh, weehh...!!"[pcms]
 
 *8689|
 [fc]
-精液と、それ以外のものまで、お嬢様の口から勢い良[r]
-く吐き出されて、音を立てながら床に落ち、跳ね、[r]
-溜まっていった。[pcms]
+Semen and other fluids forcefully eject from the young[r]
+lady's mouth onto the floor where they splatter and pool.[pcms]
 
 *8690|
 [fc]
 [vo_may s="maya0578"]
-[ns]お嬢様[nse]
-「ぐぇ……がふっ…………ふはっ……うぐぅ…………」[pcms]
+[ns]Young Lady[nse]
+"Gueh...gafuh...fuhah...uguu..."[pcms]
 
 *8691|
 [fc]
-口の中に大量に出されたせいで、心の中で何かが[r]
-切れてしまったのか、お嬢様は抵抗する気を無くして[r]
-しまったように、グッタリと脱力した。[pcms]
+Having had so much ejaculated into her mouth, something[r]
+inside her seems to have snapped as the young lady loses the[r]
+will to resist and goes limp.[pcms]
 
 *8692|
 [fc]
-目も虚ろになり、どこを見てるのかわからず、犯され[r]
-るまま前後に揺らしている。[pcms]
+Her eyes become vacant as she stares into nothingness while[r]
+being rocked back and forth by the violation.[pcms]
 
 *8693|
 [fc]
-[ns]クールビズの男[nse]
-「はぁ～～……っ！！　はあ゛ぁ～～～……っ！！[r]
-　な゛かた゛しいぃ～～～……っ！！　ま゛んこに゛、[r]
-　なかた゛しい゛ぃ～～～……っ！！」[pcms]
+[ns]Cool Biz Man[nse]
+"Haaah~~...!! Haaah~~~...!! It feels so good inside~~~...[r]
+Cumming inside your pussy~~~, feels so good~~~...!!"[pcms]
 
 *8694|
 [fc]
 [vo_may s="maya0579"]
-[ns]お嬢様[nse]
-「ぐぅ……ふっ、ぐ……ぅ……は……」[pcms]
+[ns]Young Lady[nse]
+"Guu...fuh, guu...u...ha..."[pcms]
 
 *8695|
 [fc]
-体が揺らされるたびに、口の中からヨダレと一緒に垂[r]
-れてくる精液が、細いアゴの先から床に落ちる。[pcms]
+With each shake of her body, semen mixed with drool drips[r]
+from her mouth down her chin onto the floor.[pcms]
 
 *8696|
 [fc]
-その内、お嬢様の体の揺れは、突然止まった。[pcms]
+Suddenly, the shaking of the young lady's body stops.[pcms]
 
 *8697|
 [fc]
-[ns]クールビズの男[nse]
-「ふはぁ～～あ゛ぁ～～～くぅお゛ぉ～～……っ！！」[pcms]
+[ns]Cool Biz Man[nse]
+"Fuaaah~~~aaah~~~kuuoooh~~~...!!"[pcms]
 
 *8698|
 [fc]
 [vo_may s="maya0580"]
-[ns]お嬢様[nse]
-「んぅっ……ぅ、ぐ……うぅ……」[pcms]
+[ns]Young Lady[nse]
+"Nuuuhh...u, guu...uu..."[pcms]
 
 *8699|
 [fc]
-お嬢様の中でイッたらしい男は、空中を見つめながら、[r]
-腰の辺りを時々ビクッと震わせた。[pcms]
+The man who apparently came inside her stares into space[r]
+while occasionally twitching around his hips.[pcms]
 
 [evcg storage="HEV303h"][trans_c cross time=301]
 
 *8700|
 [fc]
-[ns]クールビズの男[nse]
-「おっ……うぉ、おぉ～～～……」[pcms]
+[ns]Cool Biz Man[nse]
+"Ohh...woah, ooh~~~..."[pcms]
 
 *8701|
 [fc]
 [vo_may s="maya0581"]
-[ns]お嬢様[nse]
-「うぁ……あ～～……」[pcms]
+[ns]Young Lady[nse]
+"Uaah...aaah~~..."[pcms]
 
 *8702|
 [fc]
-体がどっかおかしいのか、外まで溢れ、床に溜まって[r]
-いくぐらい、男は大量の精液を出したらしい。[pcms]
+If something is wrong with his body or not, the man seems to[r]
+have ejaculated a large amount as it overflows onto the[r]
+floor.[pcms]
 
 *8703|
 [fc]
-けど、良いようにレイプされ、漏れ出てくるぐらい[r]
-大量に、膣内に精液をブチ撒けられても、お嬢様は[r]
-嫌がりもしないで、虚ろな目で呻くだけった。[pcms]
+But even as she is raped nicely and semen leaks out in such[r]
+large amounts that it fills her up inside, the young lady[r]
+does not resist but only moans with vacant eyes.[pcms]
 
 *8704|
 [fc]
-レイプされたショックで、壊れちまったのか……？[pcms]
+Has the shock of being raped broken her...?[pcms]
 
 *8705|
 [fc]
-体が動いたら、助けてやれたのに……！[r]
-クソッ……！！[pcms]
+If my body could move, I could have saved her...! Damn[r]
+it...!![pcms]
 
 *8706|
 [fc]
-今からでも彼女を助けようと、俺は歯を食いしばって、[r]
-なんとか体を動かし始めた。[pcms]
+Even now, I grit my teeth and start to move my body in an[r]
+attempt to save her.[pcms]
 
 *8707|
 [fc]
-その俺を尻目に、余韻に浸ってる男を押しのけ、別の[r]
-男がお嬢様の尻の前に両膝をつき、赤黒くなって震え[r]
-るアレを、彼女の中に押し込んだ。[pcms]
+Ignoring me, another man pushes aside the man still basking[r]
+in the afterglow, kneels in front of the young lady's butt,[r]
+and pushes his trembling, reddish-black thing into her.[pcms]
 
 *8708|
 [fc]
-[ns]大倉[nse]
-「やめろ……ッ！！」[pcms]
+[ns]Ookura[nse]
+"Stop it...!!"[pcms]
 
 *8709|
 [fc]
 [vo_may s="maya0582"]
-[ns]お嬢様[nse]
-「んうぅっ……」[pcms]
+[ns]Young Lady[nse]
+"Nuuuhh...u, guu...uu..."[pcms]
 
 *8710|
 [fc]
-また体を揺らされ始めたお嬢様の周りで、順番待ちを[r]
-してるヤツらの何人かが、ヨダレを垂らし、舌なめず[r]
-りをして、自分を見下ろしてることに、俺は気づいた。[pcms]
+As the young lady's body begins to shake again, I notice[r]
+several of the men waiting their turn drooling and licking[r]
+their lips as they look down at themselves.[pcms]
 
 *8711|
 [fc]
-[ns]クールビズの中年[nse]
-「ふへ……へはぁははあ゛ぁ～～……」[pcms]
+[ns]Middle-aged man in cool biz[nse]
+"Fue...hehaaahaa~~~..."[pcms]
 
 *8712|
 [fc]
-[ns]スーツの男[nse]
-「くい゛も゛ん……くいも゛んた゛あ゛ぁ～～～……」[pcms]
+[ns]Man in a Suit[nse]
+"Kuimon...kuimon daaa~~~..."[pcms]
 
 *8713|
 [fc]
-[ns]大倉[nse]
-「くっ……！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Kuh...!!"[pcms]
 
 ;//[]BG表示
 ;消し
@@ -755,13 +726,13 @@
 
 *8714|
 [fc]
-近づいてくるヤツらと逆の方向へ、俺はなんとか動か[r]
-せる腕だけで、床を這って逃げた。[pcms]
+Crawling on the floor with the only arm I can move, I escape[r]
+in the opposite direction from the approaching men.[pcms]
 
 *8715|
 [fc]
-コイツら……。[r]
-相手が男でもお構いなしかよ……！！[pcms]
+These guys... They don't care if their partner is a man or[r]
+not...!![pcms]
 
 ;//[]SE：打撃音（？）
 [se0 storage="SE20"]
@@ -770,26 +741,26 @@
 *8716|
 [fc]
 [vo_kob s="koba0447"]
-[ns]小林[nse]
-「うぐっ！！」[pcms]
+[ns]Kobayashi[nse]
+"Uguh!!"[pcms]
 
 [chara_int][trans_c cross time=150]
 [quake_bg 元time=200 xy m]
 
 *8717|
 [fc]
-[ns]大倉[nse]
-「ユウ……！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Yuuki...!"[pcms]
 
 *8718|
 [fc]
-未だに揺れる視界の中、通路の先で、ユウがイカレ野[r]
-郎に殴られ、床に倒れていく。[pcms]
+In my still-shaking vision, I see Yuuki being struck down by[r]
+a crazed man in the corridor and falling to the floor.[pcms]
 
 *8719|
 [fc]
-その近くでは、服のほとんどを脱がされた状態の女の[r]
-人に、イカレ野郎が群がっていた。[pcms]
+Nearby, a woman who has been mostly stripped of her clothes[r]
+is surrounded by a group of crazed men.[pcms]
 
 ;//[]HCG表示
 [evcg storage="HEV304a"][trans_c cross time=301]
@@ -798,544 +769,500 @@
 *8720|
 [fc]
 [vo_anz s="anzai0358_bad"]
-[ns]女[nse]
-「お願い！！　やめてください、こんな事！！」[pcms]
+[ns]Female[nse]
+"Please!! Stop this, please!!"[pcms]
 
 *8721|
 [fc]
-お嬢様と同じように、女の人は両腕を押さえられてて、[r]
-さらに体の下にいる男に胸を掴まれて、身動きをでき[r]
-なくされている。[pcms]
+Like the young lady, the woman is pinned down by both arms[r]
+and further immobilized by a man beneath her who is grabbing[r]
+her breasts.[pcms]
 
 *8722|
 [fc]
-それでも、アソコに擦りつけられる、下になってる[r]
-男のアレから逃げようと、女の人は必死でもがき続け[r]
-ている。[pcms]
+Yet, she desperately struggles to escape from the thing[r]
+rubbing against her genitals, belonging to the man[r]
+underneath her.[pcms]
 
 *8723|
 [fc]
-[ns]全裸の青年１[nse]
-「おま゛んこぉ、と゛こた゛ぁ～～……？[r]
-　お゛まん゛こはあ゛ぁ～～～……っ！」[pcms]
+[ns]Fully Naked Young Man 1[nse]
+"Where's the pussy, where~~...? There's the pussy~~~...!"[pcms]
 
 *8724|
 [fc]
 [vo_anz s="anzai0359"]
-[ns]女[nse]
-「ひぃっ、いやぁあぁっ！！！！」[pcms]
+[ns]Female[nse]
+"Hiiii, noooo!!!!"[pcms]
 
 *8725|
 [fc]
-[ns]全裸の青年２[nse]
-「う゛はぁ～～お゛っは゜いて゛けぇ～～……っ！[r]
-　ちん゛こか゛う゛ま゛ってくぅ～～……っ！」[pcms]
+[ns]Fully Naked Young Man 2[nse]
+"Uvhaa~~~ ohhh it's so tight~~~...! My cock feels so[r]
+good~~~...!"[pcms]
 
 *8726|
 [fc]
 [vo_anz s="anzai0360"]
-[ns]女[nse]
-「いやぁっ！！　やめて！！　お願いだからぁ！！」[pcms]
+[ns]Female[nse]
+"No, stop!! Please, I'm begging you!!"[pcms]
 
 *8727|
 [fc]
-女の人の横にポジションを取った男は、自分でアレを[r]
-シゴきながら、楽しそうに女の人の胸に埋め込んで、[r]
-気持ち悪い笑顔を浮かべている。[pcms]
+The man positioned next to the woman strokes himself while[r]
+happily burying his thing in her breasts, with a creepy[r]
+smile on his face.[pcms]
 
 *8728|
 [fc]
-[ns]全裸の青年２[nse]
-「ふひゃぁ～～やわ゛ら゛けえぇ～～～……っ！[r]
-　ふ゜る゛んふ゜るん゛～～～……っ！」[pcms]
+[ns]Fully Naked Young Man 2[nse]
+"Fuhya~~~ so soft~~~...! Bouncy bouncy~~~...!"[pcms]
 
 *8729|
 [fc]
-[ns]全裸の青年１[nse]
-「と゛こた゛よ゛ぉ～～まん゛こぉ～～……っ！！[r]
-　はや゛くい゛れ゛てぇよお゛ぉ～～～……っ！！」[pcms]
+[ns]Naked Young Man 1[nse]
+"Where is it~~~ pussy~~~...! I want to enter you now~~~...!"[pcms]
 
 *8730|
 [fc]
 [vo_anz s="anzai0361"]
-[ns]女[nse]
-「やめてぇっ！！　お願い、離してぇっ！！」[pcms]
+[ns]Female[nse]
+"Stop it!! Please, let me go!!"[pcms]
 
 *8731|
 [fc]
-挿れる部分を探し、女の人のアソコに擦りつけてた[r]
-男のアレは、肛門に先っぽを押しつけた状態で、[r]
-動きを止めた。[pcms]
+The man rubbing his thing against the woman's genitals stops[r]
+with the tip pressed against her anus.[pcms]
 
 *8732|
 [fc]
-[ns]全裸の青年１[nse]
-「あ゛ったぁ～～ま゛んこお゛ぉ～～～……！[r]
-　いれ゛るそ゛お゛ぉ～～～……っ！！」[pcms]
+[ns]Fully Nude Young Man 1[nse]
+"Found it~~~ pussy~~~...! I'm going to enter now~~~...!"[pcms]
 
 *8733|
 [fc]
 [vo_anz s="anzai0362"]
-[ns]女[nse]
-「そっ、そこ……っ！！　やっ、いやぁっ！！[r]
-　やめてえぇえっ！！　いやあぁぁああぁっ！！！！」[pcms]
+[ns]Female[nse]
+"That spot...!! No, nooo!! Stop it please!! Nooooo!!"[pcms]
 
 *8734|
 [fc]
-女の人の絶叫が当たりに響き渡る中、男のアレは彼女[r]
-の肛門をムリヤリ押し広げて、めり込んでいった。[pcms]
+As the woman's screams echo around, the man's thing forcibly[r]
+spreads her anus and pushes inside.[pcms]
 
 [evcg storage="HEV304b"][trans_c cross time=301]
 
 *8735|
 [fc]
 [vo_anz s="anzai0363"]
-[ns]女[nse]
-「んぎぃいいぃぃいいぁぁああああっ！！！！！」[pcms]
+[ns]Female[nse]
+"Ngyiiiiiiiiiiiiiiiaaaaaaaahhhhh!!!!"[pcms]
 
 *8736|
 [fc]
-[ns]全裸の青年１[nse]
-「んん゛～～～……？[r]
-　これ゛ぇ、お゛まんこし゛ゃね゛えな゛ぁ～～……[r]
-　な゛かがぁ、すかすかた゛あ゛ぁ～～～……」[pcms]
+[ns]Fully Naked Young Man 1[nse]
+"Nnn~~~...? This isn't pussy, huh~~~... It feels empty[r]
+inside~~~..."[pcms]
 
 *8737|
 [fc]
 [vo_anz s="anzai0364"]
-[ns]女[nse]
-「ひっ、ぎぃい……っ！！　痛い！！　痛ぁい！！[r]
-　お願、いぃ……抜いてえぇ……っ！！」[pcms]
+[ns]Female[nse]
+"Hii, gyiii...!! It hurts!! It hurts!! Please, pull it[r]
+out...!!"[pcms]
 
 *8738|
 [fc]
-[ns]全裸の青年１[nse]
-「ま゛ぁい゛いかぁ～～……これ゛はこれ゛て゛ぇ、[r]
-　けっこう゛きも゛ちいぃしな゛あ゛ぁ～～～……！」[pcms]
+[ns]Fully Nude Young Man 1[nse]
+"It's all good~~~... This feels pretty nice too~~~...!"[pcms]
 
 *8739|
 [fc]
-初めは投げやりな感じで動いていた男は、途中で喋る[r]
-声に楽しげな音が混じりだすと、途端にアレの出し入[r]
-れを激しくし始めた。[pcms]
+The man who started moving listlessly suddenly begins to[r]
+thrust vigorously as his voice mixes with excitement.[pcms]
 
 *8740|
 [fc]
 [vo_anz s="anzai0365"]
-[ns]女[nse]
-「ぅぎいぃっ！！　いっ、ぎぁあっ！！　うぐっ……[r]
-　が、はっ！！　ぐうぅぅっ！！」[pcms]
+[ns]Female[nse]
+"Ugiiihh!! It hurts, gyaaahh!! Ugh... gahh!! Guuuhh!!"[pcms]
 
 *8741|
 [fc]
-[ns]全裸の青年１[nse]
-「こう゛い゛うまん゛こも゛いいな゛ぁ～～……[r]
-　ほかの゛まん゛ことはぁ、ちか゛うきも゛ちよ゛さ[r]
-　た゛あ゛ぁ～～～……っ！！」[pcms]
+[ns]Naked Young Man 1[nse]
+"This kind of pussy is nice too~~~... It feels different[r]
+from other pussies~~~...!"[pcms]
 
 *8742|
 [fc]
 [vo_anz s="anzai0366"]
-[ns]女[nse]
-「ぎっ、はぁっ！！　ぅぐっ、んうぅっ！！[r]
-　くはっ、ふはぁっ……ぁぐっ！！　んぃいっ！！」[pcms]
+[ns]Female[nse]
+"Gihh, hahh!! Ugh, nuuhh!! Kuhahh, fuhahh...agh! Niiihh!!"[pcms]
 
 *8743|
 [fc]
-俺のいるトコからは、女の人の肛門の周りが、[r]
-うっすら赤く染まってるようにも見える。[pcms]
+From where I am, I can see the area around the woman's anus[r]
+turning faintly red.[pcms]
 
 *8744|
 [fc]
-悲鳴を上げて苦しがってる女の人を、早く助けなきゃ[r]
-ならないのに、俺の体はまだ動こうとしない。[pcms]
+Despite her screams and suffering, I need to save her[r]
+quickly, but my body still refuses to move.[pcms]
 
 *8745|
 [fc]
-クソッ、動け……！[r]
-動けよ……っ！！[pcms]
+Dammit, move...! Move...!![pcms]
 
 *8746|
 [fc]
-[ns]大倉[nse]
-「く……っ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Kuuh...!!"[pcms]
 
 *8747|
 [fc]
-[ns]全裸の青年２[nse]
-「きも゛ちい゛ぃ～～……？　ちくひ゛、ちん゛こ[r]
-　て゛いし゛ら゛れ゛てぇ、きもちい゛ぃ～～……？[r]
-　ねえ゛ぇ～～～……！」[pcms]
+[ns]Fully Nude Young Man 2[nse]
+"Does it feel good~~~...? Your nipples getting played with[r]
+by my cock, does it feel good~~~...? Heyyyy~~~...!"[pcms]
 
 *8748|
 [fc]
 [vo_anz s="anzai0367"]
-[ns]女[nse]
-「うぐぅうっ！！　はっ、ぐ、うぁあぁっ！！[r]
-　んぐぃいぃっ！！」[pcms]
+[ns]Female[nse]
+"Uguuuhh!! Hah, guh, uaaaahhh!! Ngyiiihh!!"[pcms]
 
 *8749|
 [fc]
-[ns]全裸の青年１[nse]
-「ふへひゃはぁあ゛～～～……っ！！[r]
-　ぬ゛るぬる゛してきたそ゛お゛ぉ～～～……っ！！[r]
-　かんし゛てきたかあ゛ぁ～～～……？」[pcms]
+[ns]Naked Young Man 1[nse]
+"Fuehyahaahaa~~~...! It's getting slippery now~~~...! Are[r]
+you starting to feel it~~~?"[pcms]
 
 *8750|
 [fc]
 [vo_anz s="anzai0368"]
-[ns]女[nse]
-「んぃいいっ！！　ち、が……っ！！　あぐうぅっ！！[r]
-　んはっ、は、ぅあっ！！　ぐうぅっ！！」[pcms]
+[ns]Female[nse]
+"Nyiiihh!! That's wrong...!! Aguuuhh!! Nghahh, hah, ughhh!![r]
+Guuuhh!!"[pcms]
 
 *8751|
 [fc]
-[ns]全裸の青年２[nse]
-「ちんこて゛いし゛ら゛れ゛てぇ、[r]
-　ちくひ゛きも゛ちいぃんた゛ねぇ～～……？　[r]
-　こり゛こり゛してきたよ゛お゛ぉ～～～……っ！！」[pcms]
+[ns]Fully Naked Young Man 2[nse]
+"Your nipples feel good when they're played with by my cock,[r]
+don't they~~~? They're getting hard now~~~...!"[pcms]
 
 *8752|
 [fc]
-[ns]全裸の青年１[nse]
-「な゛んた゛ぁ～～……？　ま゛んこのな゛かに゛ぃ、[r]
-　なんかい゛れ゛てんの゛かぁ～～……？　[r]
-　ちんほ゜に゛な゛んかあたる゛そ゛ぉ～～……？」[pcms]
+[ns]Naked Young Man 1[nse]
+"What's this~~~...? Is there something inside your pussy?[r]
+Something's touching my dick~~~...?"[pcms]
 
 *8753|
 [fc]
 [vo_anz s="anzai0369"]
-[ns]女[nse]
-「ぅぐ、んうぅっ！！　い、やぁ……っ！！[r]
-　うぁっ！！　んぐうぅうっ！！」[pcms]
+[ns]Female[nse]
+"Uguh, nuuhh!! Nooo...!! Ughhh!! Nguuuhhh!!"[pcms]
 
 *8754|
 [fc]
-[ns]全裸の中年[nse]
-「んん゛～～……？　ま゛たひろ゛け゛てぇ、[r]
-　ちんほ゛いれ゛てほしか゛ってる゛まんこか゛ぁ、[r]
-　ある゛し゛ゃな゛いかあ゛ぁ～～～……」[pcms]
+[ns]Middle-aged nude[nse]
+"Mmm~~...? Your pussy is getting wet again, craving for my[r]
+dick, isn't it~~~...?"[pcms]
 
 *8755|
 [fc]
-俺の横を通り過ぎて現れた、イカレた目をしたオッサ[r]
-ンが、舌なめずりをしながら女の人に近づいていく。[pcms]
+As I passed by, a crazed-looking old man licked his lips and[r]
+approached the woman.[pcms]
 
 *8756|
 [fc]
-彼女の目の前まで来ると、オッサンは腰をかがめ、[r]
-大きく開かれた足の間で鼻をヒクつかせた。[pcms]
+When he got in front of her, the old man bent down, sniffing[r]
+between her widely spread legs.[pcms]
 
 *8757|
 [fc]
-[ns]全裸の中年[nse]
-「んむ゛ふう゛ぅ～～……っ！　すけへ゛なに゛おい[r]
-　か゛ふ゜んふ゜んする゛し゛ゃな゛いかぁ～～……！[r]
-　ちんほ゛をさそってるな゛あ゛ぁ～～～……？」[pcms]
+[ns]Middle-aged Nude[nse]
+"Mmmfuuu~~...! Doesn't this smell just drive you wild~~...?[r]
+It's like it's begging for my dick, isn't it~~...?"[pcms]
 
 *8758|
 [fc]
 [vo_anz s="anzai0370"]
-[ns]女[nse]
-「ひっ……！　やっ、いやぁ……っ！！」[pcms]
+[ns]Female[nse]
+"Hii...! No, stop...!!"[pcms]
 
 *8759|
 [fc]
-足の間から顔を上げたオッサンは、今度は女の人の体[r]
-の上をまたいで、また腰をかがめた。[pcms]
+The old man raised his face from between her legs and[r]
+straddled the woman's body, bending down again.[pcms]
 
 *8760|
 [fc]
-[ns]全裸の中年[nse]
-「そんな゛に゛、わ゛たしの゛ちんほ゛か゛[r]
-　ほしい゛のかあ゛ぁ～～～……？[r]
-　この゛すけへ゛まん゛こか゛ぁ～～……！」[pcms]
+[ns]Middle-aged Nude[nse]
+"Do you want my dick that badly~~~...? This lewd[r]
+pussy~~~...!"[pcms]
 
 *8761|
 [fc]
 [vo_anz s="anzai0371"]
-[ns]女[nse]
-「いやぁあっ！！　駄目！！　やめてえぇっ！！」[pcms]
+[ns]Female[nse]
+"No, stop it!! Don't!!"[pcms]
 
 *8762|
 [fc]
-[ns]全裸の中年[nse]
-「すきな゛た゛けくわえ゛こめ゛ぇ～～……[r]
-　すけへ゛ま゛んこお゛ぉ～～～……っ！！」[pcms]
+[ns]Middle-aged Nude[nse]
+"Just swallow as much as you like~~... This lewd[r]
+pussy~~~...!!"[pcms]
 
 *8763|
 [fc]
 [vo_anz s="anzai0372"]
-[ns]女[nse]
-「やっ、いやぁあっ！！　やめて！！　死んじゃう！！[r]
-　死んじゃうぅうっ！！」[pcms]
+[ns]Female[nse]
+"No, stop!! I'm going to die!! I'm going to dieee!!"[pcms]
 
 *8764|
 [fc]
-わめく女の人をいやらしい笑みで見下ろして、オッサ[r]
-ンは合わせ目をなぞっていたアレを、一気に根元まで[r]
-ねじ込み、体がぶつかり合う音を響かせた。[pcms]
+The old man looked down at the screaming woman with a lewd[r]
+smile and thrust his thing deep inside her in one go, making[r]
+a sound as their bodies collided.[pcms]
 
 [evcg storage="HEV304c"][trans_c cross time=301]
 
 *8765|
 [fc]
 [vo_anz s="anzai0373"]
-[ns]女[nse]
-「んおおぉおおおぉおぉっ！！！！」[pcms]
+[ns]Female[nse]
+"Noooooo!!"[pcms]
 
 *8766|
 [fc]
-アソコにも肛門にも男のアレをねじ込まれ、抉られて、[r]
-女の人が頭をのけ反らせる。[pcms]
+With dicks forced into both her pussy and anus, the woman[r]
+arched her back in agony.[pcms]
 
 *8767|
 [fc]
-２人の男に挟まれ、その間で体を揺らされながら、[r]
-女の人は声にならない声を上げた。[pcms]
+Caught between two men, her body shook as she let out[r]
+voiceless cries.[pcms]
 
 *8768|
 [fc]
 [vo_anz s="anzai0374"]
-[ns]女[nse]
-「んぉっ！！　ぐぅうぅぅっ！！」[pcms]
+[ns]Female[nse]
+"Noo!! Guuuuu!!"[pcms]
 
 *8769|
 [fc]
-[ns]全裸の中年[nse]
-「うはあ゛ぁあ゛～～～……っ！！[r]
-　なかか゛もう、ま゛んこし゛るて゛[r]
-　と゛ろと゛ろし゛ゃないかあぁ～～～……っ！！」[pcms]
+[ns]Middle-aged Nude[nse]
+"Uhaaaa~~~...! Isn't your pussy already dripping wet with[r]
+juice~~~...?!"[pcms]
 
 *8770|
 [fc]
-オッサンの言葉を証明するように、アレを出し入れさ[r]
-れてる女の人のアソコから、粘ついた液体がかき混ぜ[r]
-られる音が、俺のトコまで聞こえてくる。[pcms]
+The sound of the sticky fluid being stirred inside the[r]
+woman's pussy by the in-and-out motion could be heard all[r]
+the way over here.[pcms]
 
 *8771|
 [fc]
-それを否定したいのか、後ろへのけ反らせたまま、[r]
-女の人は頭を横に激しく振った。[pcms]
+As if denying it, the woman shook her head violently from[r]
+side to side while still arched backward.[pcms]
 
 *8772|
 [fc]
 [vo_anz s="anzai0375"]
-[ns]女[nse]
-「ふぐぅううぅっ！！　んぐっ、んうううぅっ！！[r]
-　ああぁああっ！！」[pcms]
+[ns]Female[nse]
+"Fuguuuu!! Nguh, nuuuu!! Aaaaah!!"[pcms]
 
 *8773|
 [fc]
-[ns]全裸の青年１[nse]
-「な゛んた゛ぁ～～……？　なん゛かこ゛りこ゛り[r]
-　する゛ように゛な゛ったそ゛ぉ～～……！[r]
-　きも゛ちいぃな゛ぁ、これえ゛ぇ～～～……っ！！」[pcms]
+[ns]Naked Young Man 1[nse]
+"What's this~~~...? It's starting to feel gritty~~~...! This[r]
+feels so good~~~...!!"[pcms]
 
 *8774|
 [fc]
-[ns]全裸の中年[nse]
-「まん゛こ、つくたびに゛ぃ、ちちか゛ふ゛るん[r]
-　ふ゛るんゆれ゛るそ゛お゛ぉ～～～……っ！[r]
-　な゛んてすけへ゛な゛ちちた゛ぁ～～……！」[pcms]
+[ns]Middle-aged Nude[nse]
+"Every time I thrust, your tits bounce and jiggle~~~...![r]
+What lewd breasts~~~...!"[pcms]
 
 *8775|
 [fc]
 [vo_anz s="anzai0376"]
-[ns]女[nse]
-「ぐはっ、ぅぐううぅっ！！　ぐっ、くぁ……っ！！[r]
-　ぐふうぅっ！！」[pcms]
+[ns]Female[nse]
+"Guha, uguuu!! Guh, qua...!! Gufuuu!!"[pcms]
 
 *8776|
 [fc]
-[ns]全裸の中年[nse]
-「ま゛んこも゛すけへ゛て゛ぇ、ちちも゛すけへ゛な[r]
-　の゛かぁ～～……？　とんた゛いんら゛んた゛な゛、[r]
-　この゛め゛すふ゛たはあ゛ぁ～～～……っ！！」[pcms]
+[ns]Middle-aged Nude[nse]
+"Is your pussy lewd too, and your tits as well~~...? What a[r]
+perverted slut you are~~~...!!"[pcms]
 
 *8777|
 [fc]
 [vo_anz s="anzai0377"]
-[ns]女[nse]
-「んひぃいいぃっ！！　ぅぐうぅっ！！」[pcms]
+[ns]Female[nse]
+"Nhiyiiii!! Uguuu!!"[pcms]
 
 *8778|
 [fc]
-大きな胸の先で揺れる乳首を、オッサンにつねるよう[r]
-にひねられ、女の人は体を大きくビクンと跳ねさせた。[pcms]
+The old man twisted her nipples as they swayed on her large[r]
+breasts, causing the woman to jerk violently.[pcms]
 
 *8779|
 [fc]
 [vo_anz s="anzai0378"]
-[ns]女[nse]
-「ひぐぅっ！！　いっ、あぁっ！！　んうぅうっ！！」[pcms]
+[ns]Female[nse]
+"Higuu!! It's, aahh!! Nuuuu!!"[pcms]
 
 *8780|
 [fc]
-[ns]全裸の中年[nse]
-「くふう゛ぅ～～～……っ！！　ちんほ゛か゛ぁ、[r]
-　しめ゛つけられ゛る゛うぅ～～……っ！！」[pcms]
+[ns]Middle-aged Nude[nse]
+"Kufuuu~~~...! My dick is being squeezed so tight~~~...!!"[pcms]
 
 *8781|
 [fc]
-[ns]全裸の青年１[nse]
-「ふはっ、うはあ゛ぁ～～～……っ！！[r]
-　きゅう゛に゛、まん゛このしま゛りか゛ぁ～～……！[r]
-　ちんほ゜ちき゛れ゛そうた゛あぁ～～～……っ！！」[pcms]
+[ns]Fully Naked Young Man 1[nse]
+"Fuhah, uhaaaa~~~...! Suddenly, the pussy's grip is getting[r]
+tighter~~~...! My dick might break off~~~...!!"[pcms]
 
 *8782|
 [fc]
 [vo_anz s="anzai0379"]
-[ns]女[nse]
-「うっ、ぐ、んぐうぅっ！！　くはっ、はっ、ぐ……[r]
-　あぅっ！！　んぁあぁっ！！」[pcms]
+[ns]Female[nse]
+"Ugh, nguuu!! Kuhah, hah, guh... Auhh!! Naaahh!!"[pcms]
 
 *8783|
 [fc]
-右に左に乳首をねじりながら、オッサンは腰の動きを[r]
-速くしていき、女の人のアソコから白く濁った液体を[r]
-飛び散らせる。[pcms]
+As he twisted her nipples left and right, the old man[r]
+quickened his pace, causing a white cloudy fluid to spray[r]
+from the woman's pussy.[pcms]
 
 *8784|
 [fc]
-それにつられてか、下の男も、女の人の肛門に出し入[r]
-れしてるアレのスピードを、段々と上げだした。[pcms]
+In response, the man below also increased the speed of his[r]
+thrusts into the woman's anus.[pcms]
 
 *8785|
 [fc]
 [vo_anz s="anzai0380"]
-[ns]女[nse]
-「んうぅっ！！　やっ、こわ……れるうぅっ！！[r]
-　いやぁあっ！！」[pcms]
+[ns]Female[nse]
+"Nuuu!! No, it's breaking... meee!! Noooo!!"[pcms]
 
 *8786|
 [fc]
-[ns]全裸の青年１[nse]
-「あ゛ぁ～～……っ！　あぁあ゛～～～……っ！！[r]
-　きたきたあ゛ぁ～～～……っ！！」[pcms]
+[ns]Naked Young Man 1[nse]
+"Aaaa~~~...! Aaaah~~~...! It's coming, it's coming~~~...!!"[pcms]
 
 *8787|
 [fc]
-[ns]全裸の中年[nse]
-「へはあ゛ぁ～～～……ちくひ゛つね゛られ゛てぇ、[r]
-　ま゛んこきつくしたな゛ぁ～～……？[r]
-　この゛い゛んら゛んか゛あぁ～～～……っ！！」[pcms]
+[ns]Middle-aged Nude[nse]
+"Hehaaaa~~~... Are your nipples getting pinched and making[r]
+your pussy tighten up~~~...? You perverted slut~~~...!!"[pcms]
 
 *8788|
 [fc]
 [vo_anz s="anzai0381"]
-[ns]女[nse]
-「ひぁあぅっ！！　んぅっ！！　はぐうぅっ！！[r]
-　やめ、てえぇ……っ！！」[pcms]
+[ns]Female[nse]
+"Hiaauu!! Nuuu!! Haguuu!! Stop, please...!!"[pcms]
 
 *8789|
 [fc]
-[ns]全裸の中年[nse]
-「そんな゛に゛つねら゛れ゛るのか゛すきな゛ら゛ぁ、[r]
-　も゛っとつよくしてやる゛う゛ぅ～～～……っ！！」[pcms]
+[ns]Middle-aged Nude[nse]
+"If you like having your nipples pinched so much, I'll do it[r]
+even harder for you~~~...!!"[pcms]
 
 *8790|
 [fc]
 [vo_anz s="anzai0382"]
-[ns]女[nse]
-「くぅっ……や、やめっ……ひぎぃいぅっ！！！」[pcms]
+[ns]Female[nse]
+"Kuuu...stop, please... Higyiiiuu!!!"[pcms]
 
 *8791|
 [fc]
-オッサンが乳首をつまみ、ねじりながら、そのまま上[r]
-に引き上げると、女の人は体をのけ反らせ、暴れる[r]
-ようにバタつかせた。[pcms]
+As the old man pinched and twisted her nipples, pulling them[r]
+upward, the woman arched her back and flailed wildly.[pcms]
 
 *8792|
 [fc]
 [vo_anz s="anzai0383"]
-[ns]女[nse]
-「うぐうぅっ！！　ううぅぅううぅっ！！[r]
-　かはっ……！！　はぐうぅっ！！」[pcms]
+[ns]Female[nse]
+"Uguuuu!! Uuuuuuuu!! Kahh...! Haguuu!!"[pcms]
 
 *8793|
 [fc]
-[ns]全裸の青年２[nse]
-「こり゛こり゛のかたい゛ちくひ゛て゛、[r]
-　ちん゛この゛あな゛こする゛の゛ぉ、[r]
-　すこ゛いきも゛ちい゛ぃ～～～……っ！！」[pcms]
+[ns]Fully Naked Young Man 2[nse]
+"The hard nipples rubbing against my dick feels so[r]
+incredibly good~~~...!!"[pcms]
 
 *8794|
 [fc]
-[ns]全裸の中年[nse]
-「んむ゛ふう゛ぅ～～～……っ！！[r]
-　まん゛こか゛さ゛ーし゛るほしか゛ってぇ、[r]
-　きゅう゛きゅうい゛ってる゛そ゛ぉ～～～……！！」[pcms]
+[ns]Middle-aged Nude[nse]
+"Mmmfuuu~~~...! Your pussy is begging to be filled,[r]
+squeezing so tightly around me~~~...!!"[pcms]
 
 *8795|
 [fc]
-[ns]全裸の青年１[nse]
-「あ゛ぁ～～い゛きそうた゛あ゛ぁ～～～……っ！！[r]
-　た゛すから゛なあ゛ぁ～～～……っ！！[r]
-　まん゛この゛な゛かにい゛ぃ～～～……っ！！」[pcms]
+[ns]Fully Naked Young Man 1[nse]
+"Aaaa~~~ I'm about to cum~~~...! It's because of this tight[r]
+pussy~~~... Inside it goes~~~...!!"[pcms]
 
 *8796|
 [fc]
 [vo_anz s="anzai0384"]
-[ns]女[nse]
-「ひっ、ぁぐ……っ！！　いやぁ……っ！！[r]
-　出さない、でぇ……！！　んぐおぉっ！！」[pcms]
+[ns]Female[nse]
+"Hii, agu...! Nooo...! Don't cum inside...! Nguooo!!"[pcms]
 
 *8797|
 [fc]
-女の人の体に取りついてるイカレ野郎どもの限界が、[r]
-すぐそこまで迫ってきてるらしく、ヤツらの息は荒く[r]
-なり、彼女に体をぶつける強さも増していった。[pcms]
+The limits of the crazed men ravaging the woman's body[r]
+seemed imminent; their breathing grew ragged and the force[r]
+with which they collided with her intensified.[pcms]
 
 *8798|
 [fc]
-[ns]全裸の青年２[nse]
-「お゛っは゜いにた゛してあけ゛る゛ねぇ～～……！！[r]
-　い゛くよお゛ぉ～～～くぁあ゛～～～……っ！！」[pcms]
+[ns]Fully Naked Young Man 2[nse]
+"I'm gonna fill you up nice and good~~~...! Here I come~~~[r]
+quaah~~~...!!"[pcms]
 
 *8799|
 [fc]
-[ns]全裸の青年１[nse]
-「た゛すそ゛ぉ～～おいぃ～～～……っ！！[r]
-　まん゛こに゛た゛すそ゛お゛ぉ～～～……っ！！」[pcms]
+[ns]Naked Young Man 1[nse]
+"That's right~~~ oh yeahhh~~~...! Right in the[r]
+pussy~~~...!!"[pcms]
 
 *8800|
 [fc]
-[ns]全裸の中年[nse]
-「ふひぃひぁははあ゛ぁ～～～……っ！！[r]
-　いま゛ぁ、へんたい゛まん゛こに゛ぃ、か゛きしこ[r]
-　んて゛やる゛から゛な゛あぁ～～～……っ！！」[pcms]
+[ns]Middle-aged Nude[nse]
+"Fuhiihahaahaaa~~~...! Now I'll pound this perverted pussy[r]
+into submission~~~...!!"[pcms]
 
 *8801|
 [fc]
 [vo_anz s="anzai0385"]
-[ns]女[nse]
-「ふっ、ぐ……中は、いやぁ……っ！！[r]
-　中はやめっ……はぐぅうっ！！　お願いぃ……っ！！[r]
-　いやぁああっ！！」[pcms]
+[ns]Female[nse]
+"Fuh, guh... Not inside, please nooo...! Not inside, stop[r]
+it... Haguuu!! Pleaseee...! Noooooo!!"[pcms]
 
 *8802|
 [fc]
-女の人の必死の願いも虚しく、尻とアソコを犯してい[r]
-た男たちはほとんど同時に、アレを深く突き刺した[r]
-状態で動きを止めた。[pcms]
+In vain were the woman's desperate pleas; almost[r]
+simultaneously, the men violating her ass and pussy stopped[r]
+their movements with their dicks deeply embedded inside her.[pcms]
 
 *8803|
 [fc]
-[ns]全裸の中年[nse]
-「はら゛めぇ、はらめ゛え゛ぇ～～～……っ！！」[pcms]
+[ns]Middle-aged Nude[nse]
+"I'm gonna impregnate you, impregnate youuuu~~~...!!"[pcms]
 
 *8804|
 [fc]
-[ns]全裸の青年１[nse]
-「はぁ～～……っ！！　はあ゛ぁ～～～……っ！！[r]
-　い゛くう゛ぅ～～～ぅはぁあ゛～～～……っ！！」[pcms]
+[ns]Naked Young Man 1[nse]
+"Haaa~~~...!! Haaah~~~...!! I'm cumming~~~...[r]
+Haaaah~~~...!!"[pcms]
 
 *8805|
 [fc]
 [vo_anz s="anzai0386"]
-[ns]女[nse]
-「いやぁああぁぁあっ！！！！！」[pcms]
+[ns]Female[nse]
+"Nooooooo!!!!"[pcms]
 
 ;[射精フラA]
 ;イベントCG射精差分
@@ -1345,138 +1272,132 @@
 
 *8806|
 [fc]
-下の男は間の抜けた声を出しながら、体を時々小さく[r]
-ビクッと震わせた。[pcms]
+The man below let out a foolish voice as his body[r]
+occasionally twitched with a 'biku'.[pcms]
 
 *8807|
 [fc]
-[ns]全裸の青年１[nse]
-「あ゛ぁ～～て゛る゛うぅ～～～……っ！！[r]
-　また゛て゛るう゛ぅ～～～……っ！！[r]
-　あ゛ぁあ゛～～～……っ！！」[pcms]
+[ns]Fully Nude Young Man 1[nse]
+"Aaah~~~ I'm cumming~~~...!! Cumming again~~~...!![r]
+Aaah~~~...!!"[pcms]
 
 *8808|
 [fc]
 [vo_anz s="anzai0387"]
-[ns]女[nse]
-「んぐぅうっ！！　いやあぁあ……っ！！[r]
-　入ってくるぅ……！！　　もう出さないでぇ！！[r]
-　抜いてえぇっ！！」[pcms]
+[ns]Female[nse]
+"Nguuh!! Nooo...!! It's coming in...!! Don't cum anymore!![r]
+Pull it out!!"[pcms]
 
 *8809|
 [fc]
-上の男は満足げに女の人を見下ろしながら、彼女の[r]
-下腹をさすっている。[pcms]
+The man on top looked down at the woman with satisfaction,[r]
+stroking her lower abdomen.[pcms]
 
 *8810|
 [fc]
-[ns]全裸の中年[nse]
-「しきゅうか゛さ゛ーし゛るて゛、は゜んは゜んた゛[r]
-　ろうか゛あぁ～～……！　んん～～……？[r]
-　け゛ぁははぁあはぁ……！！」[pcms]
+[ns]Middle-aged Nude[nse]
+"The womb is accepting the seed, it's filling up aah~~~...![r]
+Nnn~~~...? Gahahaahaa...!!"[pcms]
 
 *8811|
 [fc]
 [vo_anz s="anzai0388"]
-[ns]女[nse]
-「ぐうぅっ！！　うあぁ……っ！　いや……[r]
-　いやあぁ……」[pcms]
+[ns]Female[nse]
+"Guuh!! Uwah...! No... Noooo...!"[pcms]
 
 *8812|
 [fc]
-[ns]全裸の青年２[nse]
-「お゛ぁあ゛っ……はあ゛ぁあ～～～……っ！！」[pcms]
+[ns]Fully Naked Young Man 2[nse]
+"Oooh~~~ Haaah~~~...!!"[pcms]
 
 *8813|
 [fc]
-女の人の声が弱々しくなってきたところで、自分のを[r]
-シゴいてた男がイッて、女の人の大きな両胸に精液を[r]
-ブチ撒け、汚していった。[pcms]
+As the woman's voice grew weaker, a man who had been[r]
+masturbating came, splattering his semen all over her large[r]
+breasts and soiling them.[pcms]
 
 *8814|
 [fc]
 [vo_anz s="anzai0389"]
-[ns]女[nse]
-「うぅっ……」[pcms]
+[ns]Female[nse]
+"Uuh..."[pcms]
 
 *8815|
 [fc]
-[ns]全裸の青年３[nse]
-「はや゛くと゛けよ゛おぉ～～～っ……！！[r]
-　お゛れの゛まんこた゛あぁ～～……おれ゛か゛ぁ、[r]
-　ま゛んこて゛いくんた゛よお゛ぉ～～～……っ！！」[pcms]
+[ns]Naked Young Man 3[nse]
+"Hurry up and move~~~...!! It's my pussy now~~~ I'm gonna[r]
+cum with my cock inside it~~~...!!"[pcms]
 
 ;//[]SE：打撃音
 [se0 storage="SE20"]
 
 *8816|
 [fc]
-[ns]全裸の中年[nse]
-「く゛ふ゛ぅっ……」[pcms]
+[ns]Middle-aged Nude[nse]
+"Gufuu..."[pcms]
 
 *8817|
 [fc]
-どこからか近づいきてた男は、なにか呻きながら、[r]
-アソコに挿れたままのヤツに突然、裏拳を喰らわせて、[r]
-女の人の上から強引にどかした。[pcms]
+A man who had been approaching from somewhere let out a[r]
+groan and suddenly delivered a backhand to the guy inserted[r]
+in her, forcibly moving him off the woman.[pcms]
 
 [evcg storage="HEV304e"][trans_c cross time=301]
 
 *8818|
 [fc]
 [vo_anz s="anzai0390"]
-[ns]女[nse]
-「ひぁ……あぁ～～……」[pcms]
+[ns]Female[nse]
+"Hia... Aaah~~~..."[pcms]
 
 *8819|
 [fc]
-男のアレが外れた女の人のアソコは、ポッカリと穴が[r]
-開いて、膣内に出された大量の精液が溢れ出し、[r]
-床まで垂れ落ちていく。[pcms]
+The woman's genitals, from which the man's dick had been[r]
+removed, gaped open, and a large amount of semen that had[r]
+been ejaculated inside spilled out, dripping down to the[r]
+floor.[pcms]
 
 *8820|
 [fc]
 [vo_anz s="anzai0391"]
-[ns]女[nse]
-「いやぁ……見ないでえぇ……」[pcms]
+[ns]Female[nse]
+"No... Don't look at meee..."[pcms]
 
 *8821|
 [fc]
-レイプされたショックからか、それとも恐怖からか、[r]
-彼女は小便を漏らしてしまい、それがアーチを描いて[r]
-落ち、床に拡がっていった。[pcms]
+Perhaps from the shock of being raped or from fear, she wet[r]
+herself, and the urine formed an arc as it fell, spreading[r]
+on the floor.[pcms]
 
 *8822|
 [fc]
-[ns]全裸の青年３[nse]
-「ま゛んこぉ～～……やっとあ゛い゛たぁ～～……」[pcms]
+[ns]Naked Young Man 3[nse]
+"Pussy~~~... Finally got it~~~..."[pcms]
 
 *8823|
 [fc]
 [vo_anz s="anzai0392"]
-[ns]女[nse]
-「いやぁ……もう、いやあぁ……お願い……[r]
-　もうやめてぇ……」[pcms]
+[ns]Female[nse]
+"No... No more, please... Stop it..."[pcms]
 
 *8824|
 [fc]
-[ns]全裸の青年３[nse]
-「へぁははあ゛ぁ～～～……まんこか゛は゜くは゜く[r]
-　して、ちん゛こほしか゛ってる゛ぅ～～……いま゛、[r]
-　いれ゛てやる゛から゛なあ゛ぁ～～～……！」[pcms]
+[ns]Naked Young Man 3[nse]
+"Hehahaahaa~~~... The pussy is hot and craving for cock~~~[r]
+I'm gonna put it in now~~~...!"[pcms]
 
 *8825|
 [fc]
 [vo_anz s="anzai0393"]
-[ns]女[nse]
-「いやぁ……っ！！　いやあぁぁっ！！！！」[pcms]
+[ns]Female[nse]
+"No...!! Nooooo!!!!"[pcms]
 
 ;//------------------------------------------------
 [if exp="tf.scene_mode==1"]
 	[jump storage="b_scene.ks" target=*back_from_SR]
 ;	[link storage=sceneAgain]もう一度見る[endlink]
 ;	[link storage=sceneList]一覧に戻る[endlink]
-;	[s]
+;[pcms]
 [endif]
 
 *KAISOU_PASS
@@ -1488,94 +1409,90 @@
 
 *8826|
 [fc]
-別の男に、またレイプされだした女の人の向こうでは、[r]
-ユウの周りに何人かのイカレ野郎がしゃがみこんで、[r]
-何かに夢中になっている。[pcms]
+Beyond where the woman and Yuu were being assaulted, several[r]
+crazed men squatted around Yuu, engrossed in something.[pcms]
 
 *8827|
 [fc]
-イカレ野郎が手や顔を近づけたり離したりするたびに、[r]
-ユウの体は時々ビクンと跳ねていた。[pcms]
+Every time the crazed men brought their hands or faces close[r]
+to Yuu, his body occasionally twitched with a 'biku'.[pcms]
 
 *8828|
 [fc]
-まさか……。[r]
-まさかアイツら、ユウを……！[pcms]
+No way... They couldn't be doing that to Yuu...![pcms]
 
 *8829|
 [fc]
-[ns]大倉[nse]
-「やめろ、テメーら……ぐあぁあッ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Stop it, you bastards... Guwaaaah!!"[pcms]
 
 *8830|
 [fc]
-女の人とユウが襲われてるのに気を取られてたせいで、[r]
-後ろからイカレ野郎が近づいてたことに、体中に噛み[r]
-つかれる感覚で、俺はやっと気づいた。[pcms]
+Distracted by the woman and Yuu being attacked, I finally[r]
+realized that crazed men had approached from behind when I[r]
+felt a biting sensation all over my body.[pcms]
 
 *8831|
 [fc]
-[ns]大倉[nse]
-「あぐぁあッ！！　やめ……ろぉ……ッ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Aguwaaah!! Stop... it...!!"[pcms]
 
 *8832|
 [fc]
-体をひねり、後ろを振り返った俺は、傍まで来ていた[r]
-イカレ野郎に上からのしかかられて、首筋に噛みつか[r]
-れた。[pcms]
+Twisting my body and looking back, I was pounced on from[r]
+above by a crazed man who bit into my neck.[pcms]
 
 *8833|
 [fc]
-[ns]大倉[nse]
-「がっ、はあぁ……ッ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Gah, haaah...!!"[pcms]
 
 *8834|
 [fc]
-なんとか動く手で、イカレ野郎を押し戻そうとしたり、[r]
-頭を殴りつけてやったが、全然効果は無く、ソイツの[r]
-歯は俺の喉にどんどん深く食い込んでいく。[pcms]
+I tried to push the crazed man away with my moving hand and[r]
+hit him on the head, but it had no effect; his teeth sank[r]
+deeper into my throat.[pcms]
 
 *8835|
 [fc]
-[ns]大倉[nse]
-「ぐぶぁッ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Gubwahh!!"[pcms]
 
 *8836|
 [fc]
-そのうち、体の組織が噛み千切られる、ブツブツって[r]
-音と一緒に、俺の視界に大量の赤い水しぶきが、勢い[r]
-良く噴き上がるのが見えた。[pcms]
+Suddenly, along with the sound of tissue being torn apart, a[r]
+large spray of red splashed into my field of vision.[pcms]
 
 *8837|
 [fc]
-[ns]大倉[nse]
-「カヒュッ……ブシュルルッ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Kahyuh... Bushururuh..."[pcms]
 
 *8838|
 [fc]
-[ns]全裸の青年３[nse]
-「んん～～……し゛ゅるっ……ずちゅっ、んぐ……」[pcms]
+[ns]Naked Young Man 3[nse]
+"Nnn~~~... slurp... zuchu, ngh..."[pcms]
 
 *8839|
 [fc]
-助けを求めようとしても、俺の声は空気の漏れる音に[r]
-しかならない。[pcms]
+Even when I tried to call for help, my voice was nothing but[r]
+the sound of leaking air.[pcms]
 
 *8840|
 [fc]
-イカレ野郎を押し返そうとする手にも、どんどん力が[r]
-入らなくなっていく。[pcms]
+The strength was rapidly leaving my hands that were trying[r]
+to push back the crazed man.[pcms]
 
 *8841|
 [fc]
-[ns]大倉[nse]
-「ヒュッ……ヒュゥッ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Hyuh... Hyuuuh..."[pcms]
 
 *8842|
 [fc]
-自分の血がすすられる音が、段々遠くから聞こえる[r]
-ようになって、そのうち、俺の視界は急速にボンヤリ[r]
-としていき、最後には真っ暗になった。[pcms]
+The sound of my own blood being sucked grew fainter and[r]
+fainter until my vision rapidly blurred and finally went[r]
+dark.[pcms]
 
 [fadeoutbgm time=1000]
 [stop_se0]
@@ -1592,4 +1509,4 @@
 
 ;//ゲームオーバー
 
-;//－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+;//

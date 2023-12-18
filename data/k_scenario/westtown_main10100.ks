@@ -28,27 +28,27 @@
 
 *10468|
 [fc]
-１階に降り立ったイカレ野郎に、ユウが後ずさりしな[r]
-がら叫ぶ。[pcms]
+Yuuki retreats while screaming at the crazed guy who just[r]
+came down to the first floor.[pcms]
 
 *10469|
 [fc]
 [vo_kob s="koba0155"]
-[ns]小林[nse]
-「えいがとかゲームでもないのに、おかしいよこんな[r]
-　の！　しんだひとが、いきかえるはずない！！」[pcms]
+[ns]Kobayashi[nse]
+"This isn't a movie or a game, it's insane! Dead people[r]
+shouldn't be coming back to life!!"[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
 *10470|
 [fc]
-あとから起き上がったヤツも、次々と１階に降り立ち、[r]
-低く呻きながら俺らに近づいてくる。[pcms]
+The ones who got up later also descended to the first floor[r]
+one after another, groaning low as they approached us.[pcms]
 
 *10471|
 [fc]
-そのエスカレーターのヤツらの声に混じって、別の所[r]
-からも低い呻き声が聞こえ始めた。[pcms]
+Mixed with the voices of those on the escalator, low moans[r]
+began to be heard from elsewhere.[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 [ChrSetEx layer=2 chbase="koba_n13"][ChrSetXY layer=2 x=0 y=0]
@@ -57,8 +57,8 @@
 *10472|
 [fc]
 [vo_anz s="anzai0078"]
-[ns]女[nse]
-「こっちからも来たわ！！」[pcms]
+[ns]Female[nse]
+"They're coming from this way too!!"[pcms]
 
 [chara_int_ layer=2][chara_int_ layer=3][trans_c cross time=150]
 
@@ -68,47 +68,48 @@
 
 *10473|
 [fc]
-女の人の大声で振り返ると、何人ものイカレ野郎が、[r]
-階段の踊り場にいるのが見えた。[pcms]
+Turning around at the sound of a woman's loud voice, I could[r]
+see several crazed guys on the landing of the staircase.[pcms]
 
 *10474|
 [fc]
-呻き声や唸り声と一緒に、ソイツらが１階へと階段を[r]
-下りてくる。[pcms]
+Along with moans and growls, they started descending the[r]
+stairs to the first floor.[pcms]
 
 *10475|
 [fc]
-そのうち、周りの店や、もう一つの階段に通じている[r]
-長い通路の奥からも、同じような呻き声、唸り声が聞[r]
-こえ始めた。[pcms]
+Before long, similar moans and growls began to be heard from[r]
+around the shops and from the back of a long corridor[r]
+leading to another staircase.[pcms]
 
 *10476|
 [fc]
-見えてるヤツと声だけのヤツ、併せるとかなりの数の[r]
-イカレ野郎が、この１階にいることがわかった。[pcms]
+Combining the ones we could see with those we could only[r]
+hear, it was clear that a considerable number of crazed guys[r]
+were on this first floor.[pcms]
 
 *10477|
 [fc]
-囲まれたら、逃げるのは絶対にムリだ……[r]
-こんな大集団に捕まったら……。[pcms]
+If we get surrounded, there's absolutely no way to escape...[r]
+If we get caught by such a large group...[pcms]
 
 *10478|
 [fc]
-大量のイカレ野郎が自分の体に取りつく光景を想像し[r]
-て、俺は背中に寒気を感じた。[pcms]
+Imagining a scene where a mass of crazed guys clung to my[r]
+body, I felt a chill down my spine.[pcms]
 
 *10479|
 [fc]
-[ns]大倉[nse]
-「こっちだ！　走れッ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"This way! Run!!"[pcms]
 
 [cutin_int][trans_c cross time=300]
 
 *10480|
 [fc]
-唯一残った逃げ道に、どうかイカレ野郎がいませんよ[r]
-うに、と祈りながら、俺はもう一つの階段に向かって[r]
-長い通路を走った。[pcms]
+Praying that there wouldn't be any crazed guys left on our[r]
+only escape route, I ran towards another staircase down the[r]
+long corridor.[pcms]
 
 [fadeoutbgm time=1000]
 [stop_se0]
@@ -118,4 +119,4 @@
 
 [jump storage="westtown_main10110.ks" target=*westtown_main10110_TOP]
 
-;//－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+;//

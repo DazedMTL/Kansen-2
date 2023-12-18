@@ -23,133 +23,133 @@
 
 *10405|
 [fc]
-少し姿勢を低くして早足で進み、通路の突き当たりの、[r]
-Ｔ字路になっている所で俺は立ち止まって、角の向こ[r]
-うや周りを見回した。[pcms]
+I crouched down a little and quickened my pace, stopping at[r]
+the T-junction at the end of the corridor, where I looked[r]
+around the corner and surveyed the surroundings.[pcms]
 
 [ChrSetEx layer=4 chbase="koba_n04"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *10406|
 [fc]
 [vo_kob s="koba0149"]
-[ns]小林[nse]
-「こえがする……」[pcms]
+[ns]Kobayashi[nse]
+"I hear a voice..."[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
 *10407|
 [fc]
-[ns]大倉[nse]
-「ああ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Yeah..."[pcms]
 
 *10408|
 [fc]
-角を左に曲がって突き当たりに階段があるが、耳を澄[r]
-ますと、その方向から男のものらしい呻き声や唸り声[r]
-が聞こえてくる。[pcms]
+Turning left at the corner, there's a staircase at the dead[r]
+end, but straining my ears, I can hear groans and growls[r]
+that seem to be from a man coming from that direction.[pcms]
 
 *10409|
 [fc]
-物陰から階段の方を盗み見てみるが、イカレ集団の姿[r]
-は見えない。[pcms]
+Peeking towards the staircase from behind cover, I can't see[r]
+any sign of the crazed group.[pcms]
 
 *10410|
 [fc]
-[ns]大倉[nse]
-「ユウ、地図見せてくれ」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Yuuki, show me the map."[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *10411|
 [fc]
-ユウに手渡された地図を見ると、左に曲がった先にあ[r]
-る階段のすぐ傍に、上へ行けるエスカレーターがある。[pcms]
+Looking at the map handed to me by Yuuki, there's an[r]
+escalator that goes up right next to the staircase on the[r]
+left.[pcms]
 
 *10412|
 [fc]
-そこをさらに左に曲がり、突き当たった所にもう一つ[r]
-階段がある。[pcms]
+Turning further left there, there's another staircase at the[r]
+dead end.[pcms]
 
 *10413|
 [fc]
-その階段の所でもう一度左に曲がると、俺らが最初に[r]
-いたエレベーターホールに出る。[pcms]
+If we turn left again at that staircase, we'll come out at[r]
+the elevator hall where we were at first.[pcms]
 
 *10414|
 [fc]
-エレベーターの近くのエスカレーターは使いたくねー[r]
-からな……。[pcms]
+I don't want to use the escalator near the elevator...[pcms]
 
 *10415|
 [fc]
-残りの３つに、アイツらがいなけりゃいいけど……。[pcms]
+Hopefully, they're not at the remaining three...[pcms]
 
 *10416|
 [fc]
-俺はユウに地図を返し、角を左曲がって、近くの店か[r]
-らヤツらが出てこないか注意しながら進んだ。[pcms]
+I returned the map to Yuuki and turned left at the corner,[r]
+proceeding while being cautious not to let them emerge from[r]
+a nearby store.[pcms]
 
 *10417|
 [fc]
-短めの、とは言っても５０ｍぐらいはある通路の真ん[r]
-中辺りまで来た頃、後ろからヤツらが来てないかを確[r]
-認すると、ユウが立ち止まっているのに気がついた。[pcms]
+About halfway down the corridor, which is short but still[r]
+about 50 meters long, I checked behind us to see if they[r]
+were coming and noticed that Yuuki had stopped.[pcms]
 
 [ChrSetEx layer=4 chbase="koba_n05"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *10418|
 [fc]
 [vo_kob s="koba0150"]
-[ns]小林[nse]
-「…………」[pcms]
+[ns]Kobayashi[nse]
+"..."[pcms]
 
 *10419|
 [fc]
-服、というより衣装といったカンジのものが飾られて[r]
-いるショーウィンドウを、ユウはボンヤリした顔で見[r]
-上げていた。[pcms]
+Yuuki was staring blankly at a show window decorated with[r]
+clothes, or rather costumes.[pcms]
 
 *10420|
 [fc]
-[ns]大倉[nse]
-「オイ、ユウ……！　なにしてんだ……！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Hey, Yuuki...! What are you doing...!"[pcms]
 
 [ChrSetEx layer=4 chbase="koba_n07"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *10421|
 [fc]
 [vo_kob s="koba0151"]
-[ns]小林[nse]
-「え……？」[pcms]
+[ns]Kobayashi[nse]
+"Eh...?"[pcms]
 
 *10422|
 [fc]
-[ns]大倉[nse]
-「そんなモンに見とれてる場合じゃねーだろ……！[r]
-　行くぞ……！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"This is no time to be mesmerized by that stuff...! Let's[r]
+go...!"[pcms]
 
 [ChrSetEx layer=4 chbase="koba_n05"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *10423|
 [fc]
 [vo_kob s="koba0152"]
-[ns]小林[nse]
-「うん……」[pcms]
+[ns]Kobayashi[nse]
+"Yeah..."[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *10424|
 [fc]
-また歩き出そうとした瞬間、階段がある方から、さっ[r]
-きよりも大きな、雄叫びとも言えるような声が聞こえ[r]
-てきた。[pcms]
+Just as we were about to start walking again, a louder cry[r]
+than before, almost like a roar, came from the direction of[r]
+the staircase.[pcms]
 
 [se0 storage="SE48"]
 
 *10425|
 [fc]
 [ns]？？？[nse]
-「お゛おぉあ゛あ゛ぁ～～～……っ！！！！」[pcms]
+"Oooaaahhh...!!!"[pcms]
 
 ;//♪：bgm005 stop
 ;[fadeoutbgm time=1][wb]
@@ -158,66 +158,67 @@
 
 *10426|
 [fc]
-[ns]大倉[nse]
-「隠れろッ……！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Hide...!!"[pcms]
 
 *10427|
 [fc]
-俺はすぐに足を止め、急いで右手の店の中へみんなを[r]
-押し込み、物陰に飛び込んだ。[pcms]
+I immediately stopped in my tracks and quickly pushed[r]
+everyone into a store on the right hand side, diving into[r]
+hiding.[pcms]
 
 *10428|
 [fc]
-[ns]大倉[nse]
-「……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"..."[pcms]
 
 *10429|
 [fc]
-ヤツらが近づいてくる音を聞こうと耳を澄ましたが、[r]
-しばらくたっても、誰一人姿を現さなかった。[pcms]
+Listening for the sound of them approaching, no one appeared[r]
+even after a while.[pcms]
 
 *10430|
 [fc]
-呻き声や唸り声も、さっきの雄叫びを最後に、止まっ[r]
-てしまった。[pcms]
+The groaning and growling also stopped after that last roar.[pcms]
 
 *10431|
 [fc]
-けど、油断はできねーな……。[r]
-音を立てないようにして、俺らを待ち伏せてんのかも[r]
-しれねーし……。[pcms]
+But we can't let our guard down... They might be lying in[r]
+wait for us without making a sound...[pcms]
 
 *10432|
 [fc]
-俺も音を立てないように、慎重に店の出入り口まで進[r]
-んで、顔を少し出し、階段の方を盗み見る。[pcms]
+Being careful not to make any noise myself, I cautiously[r]
+moved up to the entrance of the store and peeked out a[r]
+little towards the staircase.[pcms]
 
 [ChrSetEx layer=4 chbase="koba_n14"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *10433|
 [fc]
 [vo_kob s="koba0153"]
-[ns]小林[nse]
-「だれもいないね」[pcms]
+[ns]Kobayashi[nse]
+"There's no one there."[pcms]
 
 *10434|
 [fc]
-いつの間に傍に来ていたのか、ユウが俺の後ろから階[r]
-段の方を覗き見ていた。[pcms]
+Yuuki had somehow come up beside me and was peeking towards[r]
+the staircase from behind me.[pcms]
 
 *10435|
 [fc]
-[ns]大倉[nse]
-「ああ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Yeah..."[pcms]
 
 ;//♪：bgm009 stop
 [fadeoutbgm time=1][wb]
 
 *10436|
 [fc]
-近くの店の中に隠れていないかどうか、注意深く周り[r]
-を見回してから、ユウと、物陰からこっちを見ている[r]
-彼女らにうなずいてみせて、俺は階段へと歩きだした。[pcms]
+After carefully checking around to make sure they weren't[r]
+hiding in a nearby store, I nodded to Yuuki and the girls[r]
+watching us from behind cover, and started walking towards[r]
+the staircase.[pcms]
 
 [fadeoutbgm time=1000]
 [stop_se0]
@@ -227,4 +228,4 @@
 
 [jump storage="westtown_main10070.ks" target=*westtown_main10070_TOP]
 
-;//－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+;//

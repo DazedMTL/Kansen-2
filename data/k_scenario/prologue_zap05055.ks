@@ -32,15 +32,15 @@
 
 *8100|
 [fc]
-迫ってくる男性に気を取られて、ぐずついていたわた[r]
-しは、肩に手を置く男性の目の焦点があっていること[r]
-に、まるで気がつかなかった。[pcms]
+Distracted by the approaching man, I didn't even notice his[r]
+gaze was fixed right on my shoulder as he placed his hand[r]
+there.[pcms]
 
 *8101|
 [fc]
 [vo_anz s="anzai0037"]
-[ns]みき[nse]
-「きゃあぁっ！！」[pcms]
+[ns]Mikki[nse]
+"Kyaaah!!"[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
@@ -48,52 +48,50 @@
 
 *8102|
 [fc]
-ただ置かれていた手はわたしの肩を強く掴んで、地面[r]
-に強引に引き倒した。[pcms]
+The hand that was merely placed on my shoulder now gripped[r]
+it tightly and forcefully pulled me down to the ground.[pcms]
 
 *8103|
 [fc]
 [vo_anz s="anzai0038"]
-[ns]みき[nse]
-「ぐ、うぅ……っ！！」[pcms]
+[ns]Mikki[nse]
+"Gu, uuh...!!"[pcms]
 
 *8104|
 [fc]
-[ns]唸る青年[nse]
-「う゛ぅ～～ふう゛～～っ……」[pcms]
+[ns]Roaring Young Man[nse]
+"Uvuu~~ fuuv~~..."[pcms]
 
 *8105|
 [fc]
-背中を強く打ち付けて、痛みと、うまくできなくなっ[r]
-た呼吸に苦しんでいる間に、数を増やした男性達に、[r]
-わたしの服は全て破り取られてしまった。[pcms]
+As I lay on the ground in pain, struggling to breathe, the[r]
+number of men increased, and they tore off all my clothes.[pcms]
 
 *8106|
 [fc]
-[ns]スーツの中年[nse]
-「し゛ゃまた゛な゛ぁ～～……ぬい゛し゛ま゛えよぉ[r]
-　……ふ゛らも゛ぉ、ほら゛ぁ～～……」[pcms]
+[ns]Middle-aged man in a suit[nse]
+"Shajamadan~~... nuishimae yo... buramoo, hora~~..."[pcms]
 
 *8107|
 [fc]
-[ns]唸る青年[nse]
-「あ゛ぁう゛ぉ～～……ふ゛あ゛ぁ～～……」[pcms]
+[ns]Roaring Young Man[nse]
+"Aaauvo~~... buaa~~..."[pcms]
 
 *8108|
 [fc]
 [vo_anz s="anzai0039"]
-[ns]みき[nse]
-「や、め……やぁ……」[pcms]
+[ns]Mikki[nse]
+"Stop... noo..."[pcms]
 
 *8109|
 [fc]
-[ns]学生服の青年[nse]
-「はあぁぁ～～～っ……はあぁぁ～～～っ……」[pcms]
+[ns]Young man in a school uniform[nse]
+"Haaa~~~... haaa~~~..."[pcms]
 
 *8110|
 [fc]
-[ns]丸出しの青年[nse]
-「あ゛ぁ～～な゛ぁ～～……っ！」[pcms]
+[ns]Young man in plain view[nse]
+"Aa~~ naa~~...!"[pcms]
 
 [fadeoutbgm time=502]
 [stop_se0]
@@ -127,202 +125,197 @@
 
 *8111|
 [fc]
-両足を大きく拡げた状態で、２人の男性に凄い力で固[r]
-定されてしまい、わたしのあそこはその人達のねっと[r]
-りとした視線に晒された。[pcms]
+With my legs spread wide, two men held me down with[r]
+incredible strength, exposing my pussy to their leering[r]
+gazes.[pcms]
 
 *8112|
 [fc]
-[ns]丸出しの青年[nse]
-「あなぁ～～……あぁなあぁ～～……っ」[pcms]
+[ns]Young man in plain view[nse]
+"Anaa~~... aanaa~~...!"[pcms]
 
 *8113|
 [fc]
-[ns]学生服の青年[nse]
-「はあ゛ぁぁ～～～っ……ん゛ふう゛ぅ～～～っ……」[pcms]
+[ns]Young man in a school uniform[nse]
+"Haaah~~~... nfuuvuu~~~..."[pcms]
 
 *8114|
 [fc]
-２人とも大きく目を見開いて、わたしのあそこから目[r]
-を離さず、肥大した局部を自分の手で擦り始めた。[pcms]
+Both men, with their eyes wide open, did not take their gaze[r]
+off my pussy as they began to rub their swollen members with[r]
+their hands.[pcms]
 
 *8115|
 [fc]
 [vo_anz s="anzai0040"]
-[ns]みき[nse]
-「ひ……や、あぁ……っ！！」[pcms]
+[ns]Mikki[nse]
+"Hi... no, aah...!!"[pcms]
 
 *8116|
 [fc]
-横では、あの唸るだけの男性が、隠す物の無くなった[r]
-わたしの胸に、局部を埋め込ませたり、擦りつけたり、[r]
-乳首を弾いて、弄ぶ。[pcms]
+The man who only roared now played with my bare breasts with[r]
+his member, rubbing it against them and flicking my nipples.[pcms]
 
 *8117|
 [fc]
-[ns]唸る青年[nse]
-「あ゛ぁ～～はあ゛ぁぁ～～～……」[pcms]
+[ns]Roaring Young Man[nse]
+"Aaa~~ haaa~~..."[pcms]
 
 *8118|
 [fc]
 [vo_anz s="anzai0041"]
-[ns]みき[nse]
-「や、め……っ！　お願い……やめて、くださいっ！[r]
-　こんなこと……！！」[pcms]
+[ns]Mikki[nse]
+"Stop it! Please... stop! Not like this...!!"[pcms]
 
 *8119|
 [fc]
-わたしの言葉なんかまるで聞こえていないかの様に、[r]
-男性はただ唸りながら、薄ら笑いを浮かべて、局部で[r]
-胸を弄び続ける。[pcms]
+As if he couldn't hear a word I said, the man just kept[r]
+growling and smirking as he continued to play with my[r]
+breasts with his member.[pcms]
 
 *8120|
 [fc]
-[ns]唸る青年[nse]
-「お゛ぉあ゛～～……う゛はぁ～～……」[pcms]
+[ns]Roaring Young Man[nse]
+"Ooaa~~... uvhaa~~..."[pcms]
 
 *8121|
 [fc]
-[ns]スーツの中年[nse]
-「ほら゛ぁ～～……くちあ゛けてぇ～～……」[pcms]
+[ns]Middle-aged man in a suit[nse]
+"Horaa~~... open your mouth~~..."[pcms]
 
 *8122|
 [fc]
-スーツの中年男性が、痛みを感じるぐらいに強い力で、[r]
-わたしの顔を押さえつけて、たるんだ腹と赤黒い局部[r]
-を目の前で揺らす。[pcms]
+The middle-aged man in a suit pressed my face down with such[r]
+force it hurt, swinging his saggy belly and reddish-black[r]
+member in front of me.[pcms]
 
 *8123|
 [fc]
 [vo_anz s="anzai0042"]
-[ns]みき[nse]
-「やめっ……いやぁっ！！」[pcms]
+[ns]Mikki[nse]
+"Stop it... nooo!!"[pcms]
 
 *8124|
 [fc]
-わたしの口にねじ込もうと近づけられた局部から、蒸[r]
-れた臭いが漂ってくる。[pcms]
+The steamy smell wafted towards me from the member he was[r]
+trying to force into my mouth.[pcms]
 
 *8125|
 [fc]
-拒むのに口を閉じているせいで、胸の悪くなる局部の[r]
-その臭いは、わたしの意志とは関係なく、鼻の中に充[r]
-満していく。[pcms]
+Because I kept my mouth shut in refusal, the nauseating[r]
+smell of his member filled my nostrils against my will.[pcms]
 
 *8126|
 [fc]
 [vo_anz s="anzai0043"]
-[ns]みき[nse]
-「んうぅっ！！　んんーーーっ！！！」[pcms]
+[ns]Mikki[nse]
+"Nnuuh!! Nnn---!!!"[pcms]
 
 *8127|
 [fc]
-[ns]スーツの中年[nse]
-「くちあ゛けてぇ～～……ほぉら゛ぁ～～……い゛っ[r]
-　は゜い、の゛ま゛せてあけ゛る゛からぁ～～……」[pcms]
+[ns]Middle-aged man in a suit[nse]
+"Open your mouth~~... hooraa~~... I'll make you open[r]
+it~~..."[pcms]
 
 *8128|
 [fc]
-局部からにじみ出てくるカウパー腺液が、頬、鼻、[r]
-まぶた、口になすりつけられる。[pcms]
+The Cowper's gland fluid oozing from his member smeared[r]
+across my cheek, nose, eyelids, and mouth.[pcms]
 
 *8129|
 [fc]
-そのうち鼻の中にまで入ってきて息が苦しくなり、口[r]
-を開けたせいで、中年の男のカウパー腺液を少し、[r]
-口の中に含んでしまった。[pcms]
+Eventually, it got into my nose making it hard to breathe,[r]
+and because I opened my mouth, I ended up tasting a bit of[r]
+the middle-aged man's Cowper's gland fluid.[pcms]
 
 *8130|
 [fc]
 [vo_anz s="anzai0044"]
-[ns]みき[nse]
-「うえぇっ！！　ぶふっ、ぶぇっ！！」[pcms]
+[ns]Mikki[nse]
+"Ueeh!! Bufu, bye!!"[pcms]
 
 *8131|
 [fc]
-[ns]スーツの中年[nse]
-「しゃぶんだよぉ～～……ほらぁ～～……」[pcms]
+[ns]Middle-aged man in a suit[nse]
+"Suck it~~... come on~~..."[pcms]
 
 *8132|
 [fc]
-唾液と一緒に慌てて吐き出したけれど、口の中から体[r]
-液の苦みは無くならなかった。[pcms]
+I spat it out hastily along with saliva, but the bitterness[r]
+of his body fluid didn't leave my mouth.[pcms]
 
 *8133|
 [fc]
-[ns]スーツの中年[nse]
-「あ゛ぁは～～……そん゛なに゛こすったら゛ぁ～～[r]
-　……て゛るぅ～～、て゛るよ゛ぉ～～……！！」[pcms]
+[ns]Middle-aged man in a suit[nse]
+"Aaahaa~~... if you resist like that~~... it'll come out,[r]
+it's coming out~~...!!"[pcms]
 
 *8134|
 [fc]
 [vo_anz s="anzai0045"]
-[ns]みき[nse]
-「んーーっ！！　んうぅーーっ！！！！」[pcms]
+[ns]Mikki[nse]
+"Nn--!! Nuuh--!!!"[pcms]
 
 *8135|
 [fc]
-[ns]スーツの中年[nse]
-「あ゛ぁ～～～……っ！　お゛ぅぁ……[r]
-　ん゛ふぅあ゛あぁ～～～……っ！！」[pcms]
+[ns]Middle-aged man in a suit[nse]
+"Aaa~~~~...! Oua... nfuuaaa~~~...!!"[pcms]
 
 *8136|
 [fc]
-それ自体に快感を覚えたのか、中年男性は腰を激しく[r]
-動かして、局部全体をわたしの顔に擦りつけ始めた。[pcms]
+Possibly feeling pleasure from the act itself, the middle-[r]
+aged man began to thrust his hips violently, rubbing his[r]
+entire member against my face.[pcms]
 
 *8137|
 [fc]
-[ns]唸る青年[nse]
-「あ゛ぁ～～～……はぁあ゛あ゛ぅ～～～……！」[pcms]
+[ns]Roaring Young Man[nse]
+"Aaa~~~~... haaaauu~~~...!"[pcms]
 
 *8138|
 [fc]
-[ns]丸出しの青年[nse]
-「あ゛な゛……っ！　[r]
-　はあ゛ぁ～～あな゛ぁ～～……っ！！」[pcms]
+[ns]Young man in plain view[nse]
+"Ana...! Haaa~~ ana~~...!!"[pcms]
 
 *8139|
 [fc]
-中年の男の動きに反応するかのように、他の男性達の[r]
-局部を擦る動きが激しくなり、わたしの体に先端をな[r]
-すりつけてくる。[pcms]
+As if responding to the middle-aged man's movements, the[r]
+other men's rubbing became more intense, and they started to[r]
+press their tips against my body.[pcms]
 
 *8140|
 [fc]
 [vo_anz s="anzai0046"]
-[ns]みき[nse]
-「んんっ、んう゛ぅっ！！！　んぅ、ぃやぁっ！！！」[pcms]
+[ns]Mikki[nse]
+"Nnn, nuvu!! Nuu, iyaa!!!"[pcms]
 
 *8141|
 [fc]
-[ns]学生服の青年[nse]
-「はあ゛ぁ～～……ふとも゛もぉ～～……ふともも゛、[r]
-　おい゛しそお゛ぉ～～……っ！！」[pcms]
+[ns]Young man in a school uniform[nse]
+"Haaa~~... futomomo~~... futomomo ishiso~~...!!"[pcms]
 
 *8142|
 [fc]
-[ns]スーツの中年[nse]
-「あ゛あぁぁ～～～……っ！！　くちて゛ぇ、うら゛[r]
-　すし゛こすら゛れるの゛ぉ……きくう゛ぅぅ～～～[r]
-　……あ゛ぁ～～い゛くう゛ぅ～～～……っ！！！」[pcms]
+[ns]Middle-aged man in a suit[nse]
+"Aaahaa~~~~...!! With your mouth, feeling the rubbing is so[r]
+good~~ nkuuvuu~~~... aaa~~ I'm coming~~~...!!"[pcms]
 
 *8143|
 [fc]
-ざらついた声で大きく叫ぶと、わたしの頭を押さえる[r]
-力をさらに強くして、中年男性は醜く出た腹と局部を[r]
-震わせた。[pcms]
+With a rough voice, he shouted loudly and pressed my head[r]
+down even harder, shaking his ugly protruding belly and[r]
+member.[pcms]
 
 *8144|
 [fc]
-[ns]スーツの中年[nse]
-「う゛ぁああ゛はあ゛あぁぁ～～～……っ！！！！」[pcms]
+[ns]Middle-aged man in a suit[nse]
+"Uvaaahaaaahaa~~~...!!!"[pcms]
 
 *8145|
 [fc]
 [vo_anz s="anzai0047"]
-[ns]みき[nse]
-「んん゛ううぅぅーーーっ！！！！」[pcms]
+[ns]Mikki[nse]
+"Nnuuuvuu---!!!"[pcms]
 
 
 ;[射精フラA]
@@ -332,110 +325,106 @@
 
 *8146|
 [fc]
-中年男性の局部から吐き出された大量の精液が、顔全[r]
-体に撒き散らされて、わたしはまた呼吸を止めなけれ[r]
-ばならなくなった。[pcms]
+A large amount of semen spewed from the middle-aged man's[r]
+member, splattering all over my face, forcing me to hold my[r]
+breath once again.[pcms]
 
 *8147|
 [fc]
-けれど、中年の男はお構いなしに、頭を押さえつけた[r]
-まま、精液まみれになったわたしの顔に局部を擦りつ[r]
-け続け、余韻に浸っている。[pcms]
+But the middle-aged man didn't care and continued to rub his[r]
+member on my semen-covered face while basking in the[r]
+afterglow.[pcms]
 
 *8148|
 [fc]
-[ns]スーツの中年[nse]
-「ん゛ふう゛う゛ぅぅ～～～……っ！！[r]
-　ぅはあ゛あぁぁ～～～……っ！！」[pcms]
+[ns]Middle-aged man in a suit[nse]
+"Nfuuvuuvuu~~~...! Uhaahaaaahaa~~~...!!"[pcms]
 
 *8149|
 [fc]
 [vo_anz s="anzai0048"]
-[ns]みき[nse]
-「んう゛ぅ……っ！！」[pcms]
+[ns]Mikki[nse]
+"Nuvu...!!"[pcms]
 
 *8150|
 [fc]
-頭を振って、顔の上に広がる精液を振り落とすことも[r]
-できず、息が続かなくなったわたしは、とうとう口を[r]
-開けてしまった。[pcms]
+Unable to shake off the semen that spread over my face by[r]
+shaking my head, I couldn't breathe and eventually opened my[r]
+mouth.[pcms]
 
 *8151|
 [fc]
 [vo_anz s="anzai0049"]
-[ns]みき[nse]
-「ぶはぁっ！！　……っけ゛ほぉっ！！　がはっ！！」[pcms]
+[ns]Mikki[nse]
+"Buhah!! ...Kehooh!! Gahh!!"[pcms]
 
 *8152|
 [fc]
-口を開け、空気を吸い込んだ瞬間、中年男性がいまだ[r]
-に擦りつけてくる局部に押し出された、口元にあった[r]
-精液が、口の中に流れ込んできた。[pcms]
+The moment I opened my mouth and inhaled, the semen that had[r]
+been on my lips, pushed out by the middle-aged man's still[r]
+rubbing member, flowed into my mouth.[pcms]
 
 *8153|
 [fc]
-喉を塞ぐ精液を、せき込んでも少ししか吐き出せずに、[r]
-けれどわたしの本能が呼吸することを優先したせいで、[r]
-残りは飲み込んでしまった。[pcms]
+Unable to cough out much of the semen blocking my throat,[r]
+but because my instincts prioritized breathing, I ended up[r]
+swallowing the rest.[pcms]
 
 *8154|
 [fc]
 [vo_anz s="anzai0050"]
-[ns]みき[nse]
-「け゛ほっ……っぐ……うえ゛ぇっ……」[pcms]
+[ns]Mikki[nse]
+"Keh...guh...ueeh..."[pcms]
 
 *8155|
 [fc]
-[ns]丸出しの青年[nse]
-「あ゛ぁ～～～……あ゛なぁ～～……[r]
-　あ゛ぁなあ゛ぁ～～～……」[pcms]
+[ns]Young man in plain view[nse]
+"Aaah~~...anaa~~... aahanaah~~..."[pcms]
 
 *8156|
 [fc]
-[ns]学生服の青年[nse]
-「かける゛そ゛ぉ～～……ふとも゛もに゛ぃ、かける[r]
-　そ゛ぉ～～～……っ！！」[pcms]
+[ns]Young man in a school uniform[nse]
+"I'm gonna cum~~... on the thighs~~... I'm gonna cum~~...!!"[pcms]
 
 *8157|
 [fc]
-[ns]唸る青年[nse]
-「う゛ぅ～～お゛あ゛ぁ～～……[r]
-　あ゛ぁう゛～～～……っ！！」[pcms]
+[ns]Roaring Young Man[nse]
+"Uuu~~oaaah~~... aahuu~~...!!"[pcms]
 
 *8158|
 [fc]
-胸と足に局部を擦りつける男性達の、呼吸と体の動き[r]
-が荒くなり、呻く声が大きくなってきた頃、わたしは[r]
-奇妙なことに気がついた。[pcms]
+As the men rubbing their members against my chest and legs[r]
+breathed more raggedly and their moans grew louder, I[r]
+noticed something strange.[pcms]
 
 *8159|
 [fc]
-局部を体に擦りつけられる感触と、塗りたくられるカ[r]
-ウパー腺液のぬめりで、あそこが濡れてきていた。[pcms]
+With the sensation of their members being rubbed against me[r]
+and the sliminess of their cowper's fluid smeared on me, my[r]
+pussy started to get wet.[pcms]
 
 *8160|
 [fc]
 [vo_anz s="anzai0051"]
-[ns]みき[nse]
-「い゛、やぁ……と゛、してぇ……」[pcms]
+[ns]Mikki[nse]
+"No...why...this is happening..."[pcms]
 
 ;//♪：００３_咆吼　フェードアウト
 [fadeoutbgm time=1000]
 
 *8161|
 [fc]
-そしていつの間にか、自分の声が周りの男性達と同じ[r]
-様な、ざらついたものになっていた。[pcms]
+And before I knew it, my voice had become rough like the men[r]
+around me.[pcms]
 
 *8162|
 [fc]
-中年男性の精液を飲み込んだせいで、喉の調子がおか[r]
-しくなって、変な声が出ている。[pcms]
+My throat felt strange from swallowing the middle-aged man's[r]
+semen, making weird noises come out.[pcms]
 
 *8163|
 [fc]
-そう考えようとしたわたしの頭の中は、違う感覚で埋[r]
-め尽くされた。[pcms]
+But my mind was filled with a different sensation.[pcms]
 
 ;//♪：００１_Paradise Lost
 ;//BGM009に変更
@@ -446,108 +435,102 @@
 *8164|
 [fc]
 [vo_anz s="anzai0052"]
-[ns]みき[nse]
-「さ゛わさ゛、わ……あ゛たまの、なかか゛……さ゛[r]
-　わさ゛わする゛ぅ……」[pcms]
+[ns]Mikki[nse]
+"It's noisy, wa...my head is...getting noisy..."[pcms]
 
 *8165|
 [fc]
-大脳の表面を、大量の虫が歩き回っている様なその感[r]
-覚は、不快なものでは決してなく、心地よい気怠さを[r]
-わたしに与えてくれる。[pcms]
+The sensation as if a multitude of bugs were crawling over[r]
+the surface of my brain wasn't unpleasant at all, but rather[r]
+gave me a comfortable languor.[pcms]
 
 *8166|
 [fc]
-そのせいなのか、心と体が緩んで、理由も無く笑いが[r]
-こみ上げてくる。[pcms]
+Maybe because of that, my mind and body relaxed, and[r]
+laughter welled up for no reason.[pcms]
 
 *8167|
 [fc]
-[ns]唸る青年[nse]
-「う゛はあぁん゛おお゛ぉうぅ～～～……っ！！！！」[pcms]
+[ns]Roaring Young Man[nse]
+"Uvhaaann oohuu~~...!!!"[pcms]
 
 *8168|
 [fc]
-頭の中のざわめきは、わたしの体の性的な感覚を、過[r]
-剰と言えるぐらいに敏感にしてくれた。[pcms]
+The commotion in my head made my sexual senses overly[r]
+sensitive.[pcms]
 
 *8169|
 [fc]
-だから、胸を弄んでいた男がわたしの体に撒き散らし[r]
-た精液が、地面に向かって胸の先から肋骨へと流れ落[r]
-ちていく感覚だけで、子宮が疼いてしまう。[pcms]
+Just the sensation of the semen that the man fondling my[r]
+breasts scattered on my body flowing down from the tips of[r]
+my breasts towards my ribs made my womb throb.[pcms]
 
 *8170|
 [fc]
 [vo_anz s="anzai0053"]
-[ns]みき[nse]
-「あ゛はぁ……お゛ま゛んこし゛るて゛……おしり゛[r]
-　のあ゛なま゛て゛、ぬ゛るぬる゛ぅ～～……」[pcms]
+[ns]Mikki[nse]
+"Ahah...my pussy is getting wet...my ass and pussy are so[r]
+slippery~~..."[pcms]
 
 *8171|
 [fc]
-[ns]学生服の青年[nse]
-「ふう゛う゛ぅあ゛ぁ～～～……っ！！！！」[pcms]
+[ns]Young man in a school uniform[nse]
+"Fuuuuvuuaaah~~...!!!"[pcms]
 
 *8172|
 [fc]
-大声をあげ、学生服の男の子は太腿の内側に射精した。[pcms]
+The young man in a school uniform ejaculated on the inside[r]
+of his thigh.[pcms]
 
 *8173|
 [fc]
-どろどろの濃い精液が、お尻に向かって流れ落ちてい[r]
-く感覚に、わたしは太腿を撫でる克也の手を思い出し[r]
-ていた。[pcms]
+The sensation of the thick semen flowing down towards my[r]
+butt made me remember Ryuuya's hand caressing my thigh.[pcms]
 
 *8174|
 [fc]
 [vo_anz s="anzai0054"]
-[ns]みき[nse]
-「あはっ、かつや゛ぁ～～……と゛う゛して、ふふっ、[r]
-　こな゛い゛のぉ～～……？」[pcms]
+[ns]Mikki[nse]
+"Ahah, Ryuuyaa~~...why aren't you coming, hehe, why~~...?"[pcms]
 
 *8175|
 [fc]
 [vo_anz s="anzai0055"]
-[ns]みき[nse]
-「こんな゛に゛たの゛しくてぇ……う゛ふっ、あ゛は[r]
-　ははぁっ！　きも゛ちい゛いのに゛ぃ～～……」[pcms]
+[ns]Mikki[nse]
+"It's so fun...uvufu, ahahaha! It feels so good~~..."[pcms]
 
 *8176|
 [fc]
-[ns]丸出しの青年[nse]
-「あ゛あ゛ぁぁな゛ああ゛ぁぁ～～～……っ！！！！」[pcms]
+[ns]Young man in plain view[nse]
+"Aaaahaaanaaahaaa~~...!!!"[pcms]
 
 *8177|
 [fc]
-下半身を丸出しにした男は、わたしのおまん[r]
-ことお尻の穴を精液まみれにした。[pcms]
+The man with his lower half exposed smeared my pussy and[r]
+asshole with semen.[pcms]
 
 *8178|
 [fc]
-どうせなら膣内に出して欲しいと思ったけれど、でも、[r]
-わたしのおまんこは克也だけのものだから、他の男に[r]
-させるわけにはいかなかった。[pcms]
+I wished he would cum inside me, but my pussy is only for[r]
+Ryuuya, so I couldn't let another man do it.[pcms]
 
 *8179|
 [fc]
 [vo_anz s="anzai0056"]
-[ns]みき[nse]
-「はやくう゛ぅ～～……はやく、お゛ちんちん゛い゛[r]
-　れ゛てぇ、かつやぁ～～……わたしの゛お゛ま゛ん[r]
-　こ、く゛ちょく゛ちょしてぇ～～……」[pcms]
+[ns]Mikki[nse]
+"Hurry uuu~~...hurry up and put your dick inside me,[r]
+Ryuuyaa~~...my pussy is so wet and ready~~..."[pcms]
 
 *8180|
 [fc]
-克也がおちんちんを入れてくれるまで、わたしは待つ[r]
-ことができず、自分の指でおまんこを掻き回し、クリ[r]
-トリスを弾いた。[pcms]
+Unable to wait for Ryuuya to put his dick inside me, I[r]
+stirred my pussy with my fingers and flicked my clitoris.[pcms]
 
 *8181|
 [fc]
-傍にいる男達に、膣内を激しく掻き回す音が聞こえる[r]
-ように、わたしは指を派手に動かし、おまんこ汁を飛[r]
-び散らせる。[pcms]
+To make sure the men nearby could hear the sound of[r]
+vigorously stirring inside my vagina, I moved my fingers[r]
+flamboyantly and splashed pussy juice around.[pcms]
 
 ;mm ↑文字数overしてるからルビ無し
 ;男
@@ -556,57 +539,53 @@
 *8182|
 [fc]
 [vo_anz s="anzai0057"]
-[ns]みき[nse]
-「ほら゛ぁ～～……こう゛や゛ってぇ、く゛ちょく゛[r]
-　ちょってぇ～～……う゛ふふっ！　あ゛はははっ！」[pcms]
+[ns]Mikki[nse]
+"Look~~... this is how wet and ready it is~~...uvufu![r]
+Ahahaha!"[pcms]
 
 *8183|
 [fc]
-わたしがおまんこを掻き回すのを見て、男性達はまた[r]
-おちんちんを擦り始めた。[pcms]
+Seeing me stir my pussy, the men started rubbing their dicks[r]
+again.[pcms]
 
 *8184|
 [fc]
 [vo_anz s="anzai0058"]
-[ns]みき[nse]
-「あ゛はははっ！　かつや゛ぁ～～……かつやの゛せ[r]
-　い゛えきぃ……はやく、お゛ま゛んこに゛ちょう゛[r]
-　た゛ぁい……」[pcms]
+[ns]Mikki[nse]
+"Ahahaha! Ryuuyaa~~...Ryuuya's semen...hurry up and fill my[r]
+pussy with it..."[pcms]
 
 *8185|
 [fc]
-顔を近づけて、わたしのおまんこを食い入る様に見つ[r]
-めている男の向こうに、数え切れないぐらいの男性が、[r]
-自分の所へ向かって歩いてくるのが見える。[pcms]
+I saw countless men walking towards me beyond the man who[r]
+was intently watching my pussy.[pcms]
 
 *8186|
 [fc]
-あの中には克也がいて、もうすぐ自分のおまんこを犯[r]
-してくれるんだと思うと、わたしは楽しくて、嬉しく[r]
-て仕方がなかった。[pcms]
+Among them was Ryuuya, and thinking that he would soon be[r]
+violating my pussy made me so happy and excited that I[r]
+couldn't help it.[pcms]
 
 *8187|
 [fc]
 [vo_anz s="anzai0059"]
-[ns]みき[nse]
-「うふっ！　し゛ふ゛んのぉ……ははっ……てて゛い[r]
-　くなんてぇ……くふっ、ふふふ……いやなのぉ～～[r]
-　……ふふっ、あははっ！　うふふ……」[pcms]
+[ns]Mikki[nse]
+"Ufu! It's shameful...haha...to be seen like this...kufu,[r]
+fufu...I don't like it~~...fufu, ahaha! Ufufu..."[pcms]
 
 *8188|
 [fc]
 [vo_anz s="anzai0060"]
-[ns]みき[nse]
-「あ゛はははあ゛はははははっははははあ゛っははは[r]
-　あ゛あ゛はははははっはははははあ゛はははあ゛っ[r]
-　はあ゛っはははっははあ゛はははははっ！！！！！」[pcms]
+[ns]Mikki[nse]
+"Ahahahahaahahahahahahaahhahahahaahaahhahahaahaahhahaahhahah[r]
+aahhahaahaahhahaahhahaha!!!"[pcms]
 
 ;//------------------------------------------------
 [if exp="tf.scene_mode==1"]
 	[jump storage="b_scene.ks" target=*back_from_SR]
 ;	[link storage=sceneAgain]もう一度見る[endlink]
 ;	[link storage=sceneList]一覧に戻る[endlink]
-;	[s]
+[pcms]
 [endif]
 
 *KAISOU_PASS
@@ -626,5 +605,5 @@
 [returntitle]
 
 ;//#バッドエンド
-;//－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+;//
 ;//※ブロック５０５６は欠番

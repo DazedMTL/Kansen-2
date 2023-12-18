@@ -25,70 +25,69 @@
 *4968|
 [fc]
 [vo_hay s="hayami0685"]
-[ns]ありす[nse]
-「ひと゛い゛よぉ……ひろ゛しぃ……」[pcms]
+[ns]Arisu[nse]
+"I'm so lonely... Hiroshi..."[pcms]
 
 *4969|
 [fc]
-悲しそうな顔をして、よろめきながらノロノロと、[r]
-速水は俺に近づいてくる。[pcms]
+With a sad face, staggering and moving slowly, Hayami[r]
+approached me.[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
 *4970|
 [fc]
-それに併せるように、俺らは後ずさりして、速水から[r]
-距離を取った。[pcms]
+As if in sync, we stepped back, putting distance between us[r]
+and Hayami.[pcms]
 
 *4971|
 [fc]
 [vo_hay s="hayami0686"]
-[ns]ありす[nse]
-「そんな゛のし゛ゃな゛くてぇ、あ゛たしとしよう゛[r]
-　よ゛お゛ぉ～～……」[pcms]
+[ns]Arisu[nse]
+"It's not like that, let's do it together... pleaseee~..."[pcms]
 
 *4972|
 [fc]
-[ns]大倉[nse]
-「速水、あとで幾らでも謝るから、頼むから、今はガ[r]
-　マンしてくれ。すぐに病院行けば、助かるかもしれ[r]
-　ねーんだ、な？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Hayami, I'll apologize as much as you want later, but[r]
+please, just bear with it for now. If we go to the hospital[r]
+right away, you might still be saved, okay?"[pcms]
 
 *4973|
 [fc]
-ボロボロの速水の格好を見れば、何があったかは簡単[r]
-に想像がつく。[pcms]
+Looking at Hayami's tattered appearance, it was easy to[r]
+imagine what had happened.[pcms]
 
 *4974|
 [fc]
-大勢の男にレイプされたうえに、死ぬかもしれないな[r]
-んて、それじゃ速水がかわいそう過ぎる……。[pcms]
+Having been raped by a group of men and possibly facing[r]
+death, that would be too pitiful for Hayami...[pcms]
 
 *4975|
 [fc]
-どうしても助けてやりたくて、ムダだろうと思いなが[r]
-らも、俺は速水を説得しないではいられなかった。[pcms]
+Wanting to help her no matter what, even though I thought it[r]
+was futile, I couldn't help but try to persuade Hayami.[pcms]
 
 [ChrSetEx layer=4 chbase="hayami_k02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *4976|
 [fc]
 [vo_hay s="hayami0687"]
-[ns]ありす[nse]
-「ま゛ってたの゛に゛ぃ……せ゛ったい、い゛くって[r]
-　いう゛から……ま゛ってたの゛にいぃ～～……」[pcms]
+[ns]Arisu[nse]
+"I was waiting for you... you said we'd definitely go... I[r]
+waited for youuu~..."[pcms]
 
 *4977|
 [fc]
-[ns]大倉[nse]
-「速水、頼む……好きなだけおやつ喰わせてやるから！[r]
-　だから病院に……！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Hayami, please... I'll give you as many snacks as you want![r]
+So let's go to the hospital...!"[pcms]
 
 *4978|
 [fc]
-俺の説得に反応しないで、速水は歩く方向を変え、[r]
-黄色く濁り、赤く充血した目で、マヤちゃんを[r]
-睨みつけた。[pcms]
+Without responding to my persuasion, Hayami changed[r]
+direction and glared at Maya-chan with her eyes yellowed and[r]
+bloodshot.[pcms]
 
 ;//＠ありす右で
 [chara_int_ layer=4][trans_c cross time=150]
@@ -98,42 +97,39 @@
 *4979|
 [fc]
 [vo_hay s="hayami0688"]
-[ns]ありす[nse]
-「……あ゛んた、い゛つま゛て゛[r]
-　そこに゛いるの゛ぉ……？[r]
-　と゛っかい゛ってよ゛ぉ～～……」[pcms]
+[ns]Arisu[nse]
+"...how long are you going to be there...? Go awayyy~..."[pcms]
 
 [ChrSetEx layer=2 chbase="jinguji_n06"][ChrSetXY layer=2 x=0 y=0][trans_c cross time=150]
 *4980|
 [fc]
 [vo_may s="maya0359"]
-[ns]摩耶[nse]
-「……」[pcms]
+[ns]Maya[nse]
+"..."[pcms]
 
 [ChrSetEx layer=3 chbase="hayami_k02"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
 *4981|
 [fc]
 [vo_hay s="hayami0689"]
-[ns]ありす[nse]
-「ひろ゛しとえ゛っちて゛きるの゛ぉ、あ゛たした゛[r]
-　けなんた゛からぁ……す゛っとい゛っしょに゛いた、[r]
-　あ゛たした゛けな゛んた゛からあぁ～～……っ！！」[pcms]
+[ns]Arisu[nse]
+"Only I should be with Hiroshi, only I've always been with[r]
+him... only meee~...!!"[pcms]
 
 [ChrSetEx layer=2 chbase="jinguji_n08"][ChrSetXY layer=2 x=0 y=0][trans_c cross time=150]
 *4982|
 [fc]
 [vo_may s="maya0360"]
-[ns]摩耶[nse]
-「やっ……！！」[pcms]
+[ns]Maya[nse]
+"No...!!"[pcms]
 ;//◎飛びかかられて避ける
 
 [chara_int_ layer=2][chara_int_ layer=3][trans_c cross time=150]
 
 *4983|
 [fc]
-ザラついた、低い声で叫びながら、マヤちゃんに飛び[r]
-かかった速水は、彼女を捕まえることができないで、[r]
-転び、床に這いつくばった。[pcms]
+Hayami screamed in a rough, low voice as she lunged at Maya-[r]
+chan, but she couldn't catch her and fell to the floor,[r]
+crawling.[pcms]
 
 ;//＠立ち絵中央
 
@@ -141,44 +137,41 @@
 *4984|
 [fc]
 [vo_hay s="hayami0690"]
-[ns]ありす[nse]
-「う……うぅ……」[pcms]
+[ns]Alice[nse]
+"Uh... uhh..."[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *4985|
 [fc]
-体を起こし、四つん這いになった速水を見て、俺の頭[r]
-の中に、あの女の子が浮かんできた。[pcms]
+Seeing Hayami on all fours trying to get up, the image of[r]
+that girl came to mind.[pcms]
 
 *4986|
 [fc]
-何人もの男に犯されてた、あの子の姿が。[pcms]
+The sight of her being violated by several men.[pcms]
 
 *4987|
 [fc]
-ここまでおかしくなっちまったら、[r]
-やっぱりムリなのか……。[pcms]
+If she's become this deranged, maybe it's really hopeless...[pcms]
 
 *4988|
 [fc]
-もうココを出て、救助隊を探すしかねー……。[r]
-それから、一緒にココに戻ってきて、[r]
-コイツらを助けよう……。[pcms]
+We have to leave here and look for a rescue team... Then[r]
+come back here with them and save these people...[pcms]
 
 [ChrSetEx layer=4 chbase="hayami_k02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *4989|
 [fc]
 [vo_hay s="hayami0691"]
-[ns]ありす[nse]
-「けんり゛も゛ないの゛に゛……な゛んて゛、ひろ゛[r]
-　しとい゛っしょに゛いる゛の゛ぉ……ひろしから゛、[r]
-　はな゛れ゛てよおぉ～～……っ！！」[pcms]
+[ns]Alice[nse]
+"You have no right... why are you with Hiroshi...? Leave[r]
+Hiroshi aloneee~...!!"[pcms]
 
 *4990|
 [fc]
-速水はマヤちゃんを捕まえようと、膝立ちのまま腕を[r]
-振り回し、倒れ込むように飛びかかってくる。[pcms]
+Hayami tried to grab Maya-chan while kneeling and swinging[r]
+her arms, lunging forward as if collapsing.[pcms]
 
 ;//＠ありす右
 [chara_int_ layer=4][trans_c cross time=150]
@@ -188,16 +181,15 @@
 *4991|
 [fc]
 [vo_hay s="hayami0692"]
-[ns]ありす[nse]
-「ちひ゛いぃ～～……っ！　ふ゛すうぅ～～……っ！[r]
-　と゛ろほ゛うねこおぉ～～……っ！」[pcms]
+[ns]Arisu[nse]
+"You little~...! Ugly~...! Dirty stray cat~...!"[pcms]
 
 [ChrSetEx layer=2 chbase="jinguji_n06"][ChrSetXY layer=2 x=0 y=0][trans_c cross time=150]
 *4992|
 [fc]
 [vo_may s="maya0361"]
-[ns]摩耶[nse]
-「っ……！！」[pcms]
+[ns]Maya[nse]
+"Ah...!!"[pcms]
 ;//◎飛びかかられて避ける
 
 ;[chara_int_ layer=2][trans_c cross time=150]
@@ -206,51 +198,48 @@
 *4993|
 [fc]
 [vo_hay s="hayami0693"]
-[ns]ありす[nse]
-「おま゛え゛な゛んかぁ……いぬ゛とやってれ゛は゛[r]
-　い゛いんだあ゛ぁ～～……っ！！」[pcms]
+[ns]Arisu[nse]
+"You should just go do it with a dog or something...!!"[pcms]
 
 [chara_int_ layer=2][chara_int_ layer=3][trans_c cross time=150]
 
 *4994|
 [fc]
-後ずさりしながら逃げるうちに、俺らはいつの間にか、[r]
-速水にエレベーターの中へと追い込まれていた。[pcms]
+While we were retreating, we were somehow cornered into the[r]
+elevator by Hayami.[pcms]
 
 *4995|
 [fc]
-こんな狭いトコで飛びかかられたら、[r]
-避けきれねー……。[pcms]
+In such a confined space, if she lunges at us, we can't[r]
+avoid it...[pcms]
 
 *4996|
 [fc]
-それで引っかかれでもしたら、[r]
-俺らまでイカレちまう……！[pcms]
+If she scratches us, we might end up crazy too...![pcms]
 
 *4997|
 [fc]
-[ns]大倉[nse]
-「くっ……！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Damn...!"[pcms]
 
 *4998|
 [fc]
-這うようにして、中に入ってこようとしている速水を、[r]
-他のイカレ野郎と同じように、シャベルで叩きのめす[r]
-ワケにはいかない。[pcms]
+I couldn't just knock down Hayami with a shovel like the[r]
+other crazed guys as she crawled trying to get inside.[pcms]
 
 *4999|
 [fc]
-マヤちゃんを奥に押しやって、速水が入ってこない[r]
-うちにと、俺は『閉』のボタンを連打した。[pcms]
+Pushing Maya-chan to the back and while Hayami wasn't inside[r]
+yet, I frantically pressed the "close" button.[pcms]
 
 [ChrSetEx layer=4 chbase="hayami_k02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *5000|
 [fc]
-けど、俺らに向かって伸ばされた、傷とアザだらけの[r]
-速水の手に邪魔されて、閉まりきる寸前だった扉は、[r]
-また開いてしまった。[pcms]
+But the doors that were about to close were obstructed by[r]
+Hayami's hand covered in wounds and bruises, and they opened[r]
+again.[pcms]
 
 [jump storage="jingujiroute12120.ks" target=*jingujiroute12120_TOP]
 
-;//－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+;//

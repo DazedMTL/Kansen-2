@@ -25,51 +25,49 @@
 
 *6969|
 [fc]
-[ns]大倉[nse]
-「展望台、ねぇ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"An observation deck, huh..."[pcms]
 
 *6970|
 [fc]
-ここへ来る時に見た病院以外、高層の建物は無いから、[r]
-海、山、川などが見渡せて、確かに眺めはいい。[pcms]
+Apart from the hospital I saw on the way here, there are no[r]
+tall buildings, so you can see the sea, mountains, and[r]
+rivers, and indeed the view is nice.[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
 *6971|
 [fc]
-でも、こういう景色は俺らの街にはゴロゴロしてるし[r]
-なぁ……。[pcms]
+But, this kind of scenery is all over our town too...[pcms]
 
 *6972|
 [fc]
-東京とか、そういう大都会から来た人は、こんなもん[r]
-で喜ぶのかもな……。[pcms]
+Maybe people from big cities like Tokyo get excited about[r]
+this sort of thing...[pcms]
 
 *6973|
 [fc]
-屋上に来てから何分も経たないうちに、俺はツマラな[r]
-くなってしまって、頻繁にケータイを取り出して時間[r]
-を確認した。[pcms]
+Not even a few minutes after getting to the rooftop, I got[r]
+bored and started checking the time on my phone frequently.[pcms]
 
 *6974|
 [fc]
-１７時２０分か……。[r]
-とっとと帰って、バスの中で喋ってた方がいいな、こ[r]
-りゃ……。[pcms]
+5:20 PM, huh... Better head back soon and chat on the bus,[r]
+that would be better...[pcms]
 
 *6975|
 [fc]
-[ns]大倉[nse]
-「なぁ、もう集合場所に戻らねぇ？　早めに戻れば、[r]
-　置き去りにされることもねーだろ」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Hey, shall we head back to the meeting spot? If we go back[r]
+early, we won't be left behind."[pcms]
 
 [ChrSetEx layer=4 chbase="koba_n01"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *6976|
 [fc]
 [vo_kob s="koba0085"]
-[ns]小林[nse]
-「そうだね……もう戻ろうか」[pcms]
+[ns]Kobayashi[nse]
+"Yeah... let's go back."[pcms]
 
 ;//SE：戦闘機が上空を横切る音
 [se0 storage="SE63"]
@@ -78,14 +76,13 @@
 
 *6977|
 [fc]
-エレベーターを待つ間、俺らの頭の上を、３機の戦闘[r]
-機が爆音を轟かせながら、山の向こうへと飛び去って[r]
-いった。[pcms]
+While waiting for the elevator, three fighter jets roared[r]
+overhead and flew beyond the mountains above us.[pcms]
 
 *6978|
 [fc]
-けっこう低いトコ飛んでたけど、近くに基地でもあん[r]
-のかな……。[pcms]
+They were flying pretty low; I wonder if there's a base[r]
+nearby...[pcms]
 
 [sysbt_meswin clear]
 [fadeoutbgm time=502]
@@ -102,4 +99,4 @@
 
 [jump storage="prologue01700.ks" target=*prologue01700_TOP]
 
-;//－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+;//

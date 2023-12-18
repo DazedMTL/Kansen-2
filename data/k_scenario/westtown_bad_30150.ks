@@ -23,61 +23,60 @@
 *9733|
 [fc]
 [vo_hay s="hayami1116"]
-[ns]ありす[nse]
-「つき……」[pcms]
+[ns]Alice[nse]
+"Tsuki..."[pcms]
 
 *9734|
 [fc]
-深い緑色をした、澄み渡る空に思いを馳せる。[r]
-どうしてここの空はこんなに綺麗なんだろう。[pcms]
+Gazing into the clear sky of deep green, I wonder why the[r]
+sky here is so beautiful.[pcms]
 
 *9735|
 [fc]
-どれだけの男達が、自分を欲求のはけ口に[r]
-したのだろうか。[pcms]
+How many men have used me as an outlet for their desires?[pcms]
 
 *9736|
 [fc]
-私の身体は、白濁にまみれている部分が[r]
-ないほどになっていた。[pcms]
+My body has become so covered in semen that there's not a[r]
+single part left untouched.[pcms]
 
 *9737|
 [fc]
 [vo_hay s="hayami1117"]
-[ns]ありす[nse]
-「きれい……」[pcms]
+[ns]Alice[nse]
+"Beautiful..."[pcms]
 
 *9738|
 [fc]
-身に受ける白濁を化粧代わりにして、[r]
-青空のもと寝転がる私はまるでお姫様。[pcms]
+Using the semen as a substitute for makeup, I lie under the[r]
+blue sky like a princess.[pcms]
 
 *9739|
 [fc]
-小さい頃に夢見ていたお姫様になったのだろうか。[r]
-フフフッ……ひとつ夢が叶っちゃったかな。[pcms]
+Have I become the princess I dreamed of being when I was[r]
+little? Fufufu... Maybe one of my dreams has come true.[pcms]
 
 *9740|
 [fc]
 [vo_hay s="hayami1118"]
-[ns]ありす[nse]
-「……ふふっ……」[pcms]
+[ns]Alice[nse]
+"...Fufu..."[pcms]
 
 *9741|
 [fc]
-でも、私に化粧してくれる……[r]
-白いのをくれる男達はすでにいなかった。[pcms]
+But, the men who would 'make up' me... who would give me[r]
+their white gift are no longer here.[pcms]
 
 *9742|
 [fc]
-もう私の身体に飽きてしまったのだろうか？[r]
-周りには大勢の男達がいるのに、私には目もくれない。[pcms]
+Have they grown tired of my body? Despite there being many[r]
+men around, none of them spare me a glance.[pcms]
 
 *9743|
 [fc]
 [vo_hay s="hayami1119"]
-[ns]ありす[nse]
-「あたしは……あたしはぜんぜん……たりないのにな」[pcms]
+[ns]Alice[nse]
+"I am... I am still not... satisfied."[pcms]
 
 ;//♪：m02　fadeIN
 [bgm storage="m02"]
@@ -94,443 +93,438 @@
 
 *9744|
 [fc]
-緑掛かった月の光に白く映える精液化粧。[r]
-もっともっと、綺麗になりたい。[pcms]
+The semen makeup shines white under the moonlight tinged[r]
+with green. I want to become even more beautiful.[pcms]
 
 *9745|
 [fc]
-綺麗になって……あの人に見て欲しい。[pcms]
+I want to become beautiful... and be seen by that person.[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
 *9746|
 [fc]
 [vo_hay s="hayami1120"]
-[ns]ありす[nse]
-「あ、れ……？」[pcms]
+[ns]Alice[nse]
+"Ah, who...?"[pcms]
 
 *9747|
 [fc]
-あの人……あの人って誰だっけ？[r]
-なんだろう、大事な事のような気がするけど。[pcms]
+That person... who is that person? It feels like something[r]
+important, but I can't remember.[pcms]
 
 *9748|
 [fc]
-頭の中にもやがかかったように何もわからない。[pcms]
+My mind is clouded, and I can't understand anything.[pcms]
 
 *9749|
 [fc]
 [vo_hay s="hayami1121"]
-[ns]ありす[nse]
-「ま、いいや……どうでも」[pcms]
+[ns]Alice[nse]
+"Well, it doesn't matter..."[pcms]
 
 *9750|
 [fc]
-私はつぶやくと、周りの男達を見回した。[pcms]
+I murmur to myself and look around at the men.[pcms]
 
 *9751|
 [fc]
-月明かりに照らされ、ゆっくりと動き回り[r]
-思い思いに惚ける人達。[pcms]
+Bathed in the moonlight, they move slowly around, each lost[r]
+in their own stupor.[pcms]
 
 *9752|
 [fc]
-みんな楽しそうだな。[r]
-ひょっとしたら、これって天国ってヤツなのかな。[pcms]
+Everyone seems so happy. Maybe this is what they call[r]
+heaven.[pcms]
 
 *9753|
 [fc]
 [vo_hay s="hayami1122"]
-[ns]ありす[nse]
-「うふふふふ……」[pcms]
+[ns]Alice[nse]
+"Ufufufufu..."[pcms]
 
 *9754|
 [fc]
-なんだか楽しい気分になってきた。[pcms]
+I'm starting to feel quite happy.[pcms]
 
 *9755|
 [fc]
 [vo_hay s="hayami1123"]
-[ns]ありす[nse]
-「でも……」[pcms]
+[ns]Arisu[nse]
+"But..."[pcms]
 
 *9756|
 [fc]
-私は物足りない。[r]
-もっともっと男の人に抱いて欲しい。[r]
-もっともっと精液を注ぎ込んで欲しい。[pcms]
+I'm not satisfied. I want more and more men to hold me. I[r]
+want them to pour more and more semen into me.[pcms]
 
 *9757|
 [fc]
 [vo_hay s="hayami1124"]
-[ns]ありす[nse]
-「だれか……」[pcms]
+[ns]Alice[nse]
+"Someone..."[pcms]
 
 *9758|
 [fc]
-私は相手を求めて歩き回る。[pcms]
+I walk around looking for a partner.[pcms]
 
 *9759|
 [fc]
-誰か抱いてくれないかな。[r]
-私の顔に、身体に、体内に、[r]
-大量の精液を注ぎ込んでくれないかな。[pcms]
+Won't someone hold me? Won't someone pour a large amount of[r]
+semen onto my face, my body, inside me?[pcms]
 
 ;//＠主人公の立ち絵まだ出さない
 [ns]？？？[nse]
-「……みっ！」[pcms]
+"...Mik!"[pcms]
 
 *9760|
 [fc]
 [vo_hay s="hayami1125"]
-[ns]ありす[nse]
-「…………？」[pcms]
+[ns]Alice[nse]
+"...?"[pcms]
 
 *9761|
 [fc]
-遠くで、自分を呼んでいる声がする。[r]
-なんだろう……なんだか懐かしい感じがする。[pcms]
+I hear a voice calling me from afar. What is it... it feels[r]
+strangely nostalgic.[pcms]
 
 ;//＠主人公の立ち絵まだ出さない
-[ns]大倉[nse]
-「……速水！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"...Hayami!"[pcms]
 
 *9762|
 [fc]
 [vo_hay s="hayami1126"]
-[ns]ありす[nse]
-「…………」[pcms]
+[ns]Alice[nse]
+"..."[pcms]
 
 *9763|
 [fc]
-なんだかすごく嬉しい。[r]
-この声で名前を呼ばれるだけで、私の心は躍る。[pcms]
+I'm incredibly happy. Just being called by this voice makes[r]
+my heart leap.[pcms]
 
 *9764|
 [fc]
-この相手に抱かれたい。[r]
-この声で、耳元で囁かれ、[r]
-体内に精液をぶちまけられたらどれだけ幸せだろう？[pcms]
+I want to be held by this person. To be whispered in my ear[r]
+by this voice, to have semen splattered inside mehow happy[r]
+would that make me?[pcms]
 
 *9765|
 [fc]
-[ns]大倉[nse]
-「速水っ……！　どこだっ！」[pcms]
+[ns]Ookura[nse]
+"Hayami...! Where are you?!"[pcms]
 
 *9766|
 [fc]
-でも、名前を呼ばれるたび……[r]
-私の中に言いようもない恐怖もわき出る。[pcms]
+But every time my name is called, an indescribable fear also[r]
+wells up inside me.[pcms]
 
 *9767|
 [fc]
-コノスガタヲミラレタクナイ……[pcms]
+I DON'T WANT HIM TO SEE ME LIKE THIS...[pcms]
 
 *9768|
 [fc]
-身を覆い尽くす精液化粧。[pcms]
+The semen makeup covering my body.[pcms]
 
 *9769|
 [fc]
-綺麗になったのに……。[r]
-きっとあの人のために綺麗になったのに。[pcms]
+I've become beautiful... Surely I became beautiful for him.[pcms]
 
 *9770|
 [fc]
 [vo_hay s="hayami1127"]
-[ns]ありす[nse]
-「……でも」[pcms]
+[ns]Alice[nse]
+"...But"[pcms]
 
 *9771|
 [fc]
-私の身体は彼から遠ざかる事を選ぶ。[r]
-男達によって綺麗になったと思った身体。[pcms]
+My body chooses to move away from him. The body I thought[r]
+had been made beautiful by the men.[pcms]
 
 *9772|
 [fc]
-なぜだか私は急に恥ずかしくなって……。[pcms]
+For some reason, I suddenly feel ashamed...[pcms]
 
 *9773|
 [fc]
-逢いたかったはずなのに。[r]
-綺麗になった姿を見て欲しかったはずなのに。[pcms]
+Even though I wanted to meet him. Even though I wanted him[r]
+to see how beautiful I've become.[pcms]
 
 *9774|
 [fc]
-私の足は逆の道を歩む。[pcms]
+My feet walk the opposite path.[pcms]
 
 *9775|
 [fc]
-[ns]大倉[nse]
-「速水……！　速水ぃ！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Hayami...! Hayami!"[pcms]
 
 *9776|
 [fc]
-[ns]男Ａ[nse]
-「う゛ぁぁあ゛ぉ……ぐ、くいも゛の……」[pcms]
+[ns]Man A[nse]
+"Uvaaao... gu, kuimono..."[pcms]
 
 *9777|
 [fc]
-[ns]男Ｂ[nse]
-「くい゛もの゛……ぎたぁ……」[pcms]
+[ns]Male B[nse]
+"Kuimono... gitaa..."[pcms]
 
 *9778|
 [fc]
-彼にみんなが群がり始める。[r]
-ごちそうを前にした子供のように嬉しそうにしている。[pcms]
+The men start flocking to him. They look as happy as[r]
+children in front of a feast.[pcms]
 
 *9779|
 [fc]
 [vo_hay s="hayami1128"]
-[ns]ありす[nse]
-「…………」[pcms]
+[ns]Arisu[nse]
+"..."[pcms]
 
 *9780|
 [fc]
-私はそんな彼を一瞥する。[pcms]
+I glance at him briefly.[pcms]
 
 *9781|
 [fc]
-ずっと逢いたかったその姿を目に焼き付けるように。[pcms]
+I wanted to burn the image of him into my eyes, the one I've[r]
+always wanted to see.[pcms]
 
 ;//＠主人公ここから表示
 
 [ChrSetEx layer=4 chbase="ookura_n02j"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *tuia41|
 [fc]
-[ns]大倉[nse]
-「は、速水っ！　そこにいたのか……！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Ha, Hayami! Were you there...!"[pcms]
 
 *9782|
 [fc]
 [vo_hay s="hayami1129"]
-[ns]ありす[nse]
-「…………！」[pcms]
+[ns]Alice[nse]
+"!"[pcms]
 
 *9783|
 [fc]
-見られたくない……こんな姿を見られたくない。[pcms]
+I don't want to be seen... I don't want him to see me like[r]
+this.[pcms]
 
 *9784|
 [fc]
-妙に重い身体を引きずりながら、[r]
-私は彼から離れるように歩を進める。[pcms]
+Dragging my strangely heavy body, I walk away from him.[pcms]
 
 [ChrSetEx layer=4 chbase="ookura_n02b"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *tuia42|
 [fc]
-[ns]大倉[nse]
-「は、速水……！　どうし、て……！」[pcms]
+[ns]Ookura[nse]
+"Ha, Hayami...! What's, happening...!"[pcms]
 
 *9785|
 [fc]
-[ns]男Ｃ[nse]
-「う゛ぁぁあ……め、し、め゛し～～」[pcms]
+[ns]Male C[nse]
+"Uvaaao... me, food, meee food~~"[pcms]
 
 *9786|
 [fc]
-[ns]男Ｄ[nse]
-「お゛れの、おれ゛の……ごはん゛～～」[pcms]
+[ns]Male D[nse]
+"Mine, mine... my meal~~"[pcms]
 
 [ChrSetEx layer=4 chbase="ookura_n02e"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *tuia43|
 [fc]
-[ns]大倉[nse]
-「くそっ！　てめぇら！　邪魔するなっ！」[pcms]
+[ns]Ookura[nse]
+"Damn it! You guys! Don't get in the way!"[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *9787|
 [fc]
 [vo_hay s="hayami1130"]
-[ns]ありす[nse]
-「…………」[pcms]
+[ns]Alice[nse]
+"..."[pcms]
 
 *9788|
 [fc]
-なんでだろう……さっきから涙が止まらない。[pcms]
+Why is it... I can't stop the tears from flowing.[pcms]
 
 *9789|
 [fc]
-私は彼から遠ざかっていきスロープへ向かう。[r]
-歩を進めるたび、叫ぶ彼の声は小さくなっていく。[pcms]
+I walk away from him towards the slope. With every step I[r]
+take, his shouting voice becomes fainter.[pcms]
 
 *9790|
 [fc]
 [vo_hay s="hayami1131"]
-[ns]ありす[nse]
-「……な、んで」[pcms]
+[ns]Arisu[nse]
+"...why"[pcms]
 
 *9791|
 [fc]
-彼のそばを離れたいと、見られたくないと思った。[pcms]
+I wanted to get away from him, I didn't want to be seen.[pcms]
 
 *9792|
 [fc]
-でも、彼から離れるたび、私の心は悲しみに満ち、[r]
-涙が止まらなくなるのだ。[pcms]
+But as I move away from him, my heart fills with sadness,[r]
+and the tears won't stop.[pcms]
 
 *9793|
 [fc]
 [vo_hay s="hayami1132"]
-[ns]ありす[nse]
-「…………」[pcms]
+[ns]Alice[nse]
+"..."[pcms]
 
 *9794|
 [fc]
-スロープに手をかけた私は、ふと後ろを振り返る。[r]
-あれだけの男達に囲まれていた。[r]
-もう彼の姿は見えないかも知れない。[pcms]
+As I reach for the slope, I look back for a moment. I was[r]
+surrounded by so many men. Maybe I won't be able to see him[r]
+anymore.[pcms]
 
 [ChrSetEx layer=4 chbase="ookura_n02j"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *tuia44|
 [fc]
-[ns]大倉[nse]
-「速水っ！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Hayami!"[pcms]
 
 *9795|
 [fc]
 [vo_hay s="hayami1133"]
-[ns]ありす[nse]
-「！！」[pcms]
+[ns]Arisu[nse]
+"!!"[pcms]
 
 *9796|
 [fc]
-大勢の男達に囲まれ、取り付かれながら、[r]
-それでも彼は私を見つめ、私の名前を叫んでいた。[pcms]
+Surrounded and seized by a crowd of men, yet he still looked[r]
+at me and called out my name.[pcms]
 
 *9797|
 [fc]
-その目は力強く……そして優しかった。[pcms]
+His eyes were strong... and kind.[pcms]
 
 *9798|
 [fc]
 [vo_hay s="hayami1134"]
-[ns]ありす[nse]
-「…………」[pcms]
+[ns]Alice[nse]
+"..."[pcms]
 
 *9799|
 [fc]
-涙が止まらない。[r]
-その顔が、その声が、彼の全てが私の心を揺さぶる。[pcms]
+The tears won't stop. His face, his voice, everything about[r]
+him shakes my heart.[pcms]
 
 *9800|
 [fc]
-[ns]大倉[nse]
-「速水っ！　まってろ、今助けるから！[r]
-　速水っ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Hayami! Wait, I'll save you now! Hayami!!"[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *9801|
 [fc]
-幾度も私の名を呼び叫ぶその姿を見て……[r]
-私は自分が何者かを思い出す。[pcms]
+Seeing him call out my name over and over again... I[r]
+remember who I am.[pcms]
 
 *9802|
 [fc]
-そうだ、私は……そして彼は……。[pcms]
+That's right, I am... and he is...[pcms]
 
 *9803|
 [fc]
-[ns]大倉[nse]
-「うぉぉぉおぉおぉぉ！！！　速水ぃ！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Uoooooooh!!! Hayami!"[pcms]
 
 *9804|
 [fc]
 [vo_hay s="hayami1135"]
-[ns]ありす[nse]
-「……！」[pcms]
+[ns]Alice[nse]
+"!"[pcms]
 
 *9805|
 [fc]
-何をやっていたんだろう、私は。[pcms]
+What have I been doing?[pcms]
 
 *9806|
 [fc]
-男達に汚され、蹂躙され、嬲られ……[r]
-そのうちそれを快楽と感じ……。[pcms]
+Defiled by men, trampled upon, toyed with... and eventually[r]
+finding pleasure in it...[pcms]
 
 [ChrSetEx layer=4 chbase="ookura_n02j"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *9807|
 [fc]
-[ns]大倉[nse]
-「速水……っ！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Hayami...!"[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *9808|
 [fc]
-ヒロシ……なんで、そんなに力強く……[r]
-そして優しく私の名前を呼ぶの……？[pcms]
+Hiroshi... why do you call my name so strongly... and so[r]
+kindly?[pcms]
 
 *9809|
 [fc]
-私はもうあなたに顔向けできる女じゃないのに。[pcms]
+I'm no longer a woman worthy of facing you.[pcms]
 
 [ChrSetEx layer=4 chbase="ookura_n02j"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *9810|
 [fc]
-[ns]大倉[nse]
-「速水、大丈夫かっ！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Hayami, are you okay?!"[pcms]
 
 *9811|
 [fc]
 [vo_hay s="hayami1136"]
-[ns]ありす[nse]
-「ヒ、ロ、シ……！」[pcms]
+[ns]Alice[nse]
+"Hi, Ro, Shi...!"[pcms]
 
 [ChrSetEx layer=4 chbase="ookura_n02h"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *9812|
 [fc]
-ヒロシのその言葉に私はハッとなる。[r]
-引き裂かれた服……大量の精液。[pcms]
+At Hiroshi's words, I snap back to reality. Torn clothes...[r]
+a lot of semen.[pcms]
 
 *9813|
 [fc]
-どんなに鈍い人でも今の私を見れば、[r]
-一見してどういう状況かわかるだろう。[pcms]
+Anyone who sees me now would instantly understand what[r]
+situation I'm in.[pcms]
 
 *9814|
 [fc]
 [vo_hay s="hayami1137"]
-[ns]ありす[nse]
-「ごめん、ヒロシ……」[pcms]
+[ns]Alice[nse]
+"I'm sorry, Hiroshi..."[pcms]
 
 [ChrSetEx layer=4 chbase="ookura_n02b"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *tuia45|
 [fc]
-[ns]大倉[nse]
-「は、やみ……？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Hayami...?"[pcms]
 
 *9815|
 [fc]
-私はかるくつぶやいただけだった。[r]
-でも、彼の耳には聞こえたのだろう。[pcms]
+I only whispered it softly. But he must have heard it.[pcms]
 
 *9816|
 [fc]
-大勢の男達を薙ぎ払いながら進んでくる彼の目に、[r]
-一瞬疑問の色がうかぶ。[pcms]
+As he pushes through the crowd of men, a flicker of doubt[r]
+crosses his eyes.[pcms]
 
 *9817|
 [fc]
-そう……彼は近づいていた。[r]
-男達に囲まれ、襲われながらも、それを振り払って。[pcms]
+Yes... he was getting closer. Despite being surrounded and[r]
+attacked by men, he was shaking them off.[pcms]
 
 *9818|
 [fc]
-ヒロシはそう言う男なんだ。[r]
-ふだん頼りないように見えても、[r]
-土壇場で力を発揮する。[pcms]
+Hiroshi is that kind of man. He may seem unreliable at[r]
+times, but he shows his strength when it really matters.[pcms]
 
 *9819|
 [fc]
-……特に、友達のためなら、[r]
-何をおいても駆けつけるのだ。[pcms]
+...Especially for his friends, he would come running no[r]
+matter what.[pcms]
 
 ;//♪：m02　fadeOUT
 [fadeoutbgm time=1000]
@@ -538,19 +532,19 @@
 [ChrSetEx layer=4 chbase="ookura_n02j"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *tuia46|
 [fc]
-[ns]大倉[nse]
-「速水っ！　待てっ！」[pcms]
+[ns]Ookura[nse]
+"Hayami! Wait!"[pcms]
 
 *9820|
 [fc]
 [vo_hay s="hayami1138"]
-[ns]ありす[nse]
-「……好きだったよ、ヒロシ」[pcms]
+[ns]Alice[nse]
+"...I loved you, Hiroshi"[pcms]
 
 *9821|
 [fc]
-今度は本当に呟くように……聞こえないように。[r]
-私の想いを声に出す。[pcms]
+This time I truly murmur it... so it can't be heard. I voice[r]
+my feelings.[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
@@ -559,370 +553,364 @@
 
 *9822|
 [fc]
-こんな汚れた私の気持ちを、[r]
-彼に受け止めて欲しくない。[pcms]
+I don't want him to catch these tainted feelings of mine.[pcms]
 
 *9823|
 [fc]
-……でも、声に出さずにはいられなかった。[r]
-最後の最後に、私の気持ちを……。[pcms]
+...But I couldn't help but voice them. At the very end, my[r]
+feelings...[pcms]
 
 *9824|
 [fc]
 [vo_hay s="hayami1139"]
-[ns]ありす[nse]
-「ヒロシ、楽しかったよ……ありがとう」[pcms]
+[ns]Arisu[nse]
+"Hiroshi, it was fun... thank you"[pcms]
 
 *9825|
 [fc]
-今度は聞こえるように、はっきりと。[r]
-ヒロシの耳に、ちゃんと届くように。[pcms]
+This time, loud and clear, so that it reaches Hiroshi's[r]
+ears.[pcms]
 
 *9826|
 [fc]
-こんな私を助けに来てくれた彼に、[r]
-深い感謝の言葉を。[pcms]
+Words of deep gratitude for him, who came to save someone[r]
+like me.[pcms]
 
 *9827|
 [fc]
-そしてあたしは……。[pcms]
+And then I...[pcms]
 
 *9828|
 [fc]
-私を汚した、この醜い世界……[r]
-いや、あたしを幸せにしてくれた彼のいる世界から。[pcms]
+From this ugly world that defiled me... no, from the world[r]
+where he, who made me happy, exists.[pcms]
 
 *9829|
 [fc]
-あたしは、このせかいから逃げ出そう。[pcms]
+I will escape from this world.[pcms]
 
 *9830|
 [fc]
-あたしは、かれにあわせるかおはない。[pcms]
+I don't have a face to show him.[pcms]
 
 *9831|
 [fc]
-あたしは、もうかれのそばにはいられない。[pcms]
+I can no longer stay by his side.[pcms]
 
 [ChrSetEx layer=4 chbase="ookura_n02j"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *tuia47|
 [fc]
-[ns]大倉[nse]
-「はっ……速水！！！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Ha... Hayami!!!!"[pcms]
 
 [quake_bg 元time=200 xy m]
 [chara_int_ layer=4][trans_c cross time=150]
 
 *9832|
 [fc]
-このフェンスを乗り越えて、そらへと飛び立とう。[pcms]
+I'll leap over this fence and soar into the sky.[pcms]
 
 *9833|
 [fc]
-あたしをみつめるかれのめから。[pcms]
+From his gaze that watches me.[pcms]
 
 *9834|
 [fc]
-あたしをしあわせにしてくれていた、かれのもとから。[pcms]
+From his side, where he made me happy.[pcms]
 
 *9835|
 [fc]
-そう……。[pcms]
+Yes...[pcms]
 
 *9836|
 [fc]
-落下を始めるあたしの身体……。[r]
-身にまとわりついた白い化粧は飛び散って……。[r]
-あたしの想いも飛び散るの。[pcms]
+As my body begins to fall... the white makeup clinging to me[r]
+scatters... and so do my feelings.[pcms]
 
 *9837|
 [fc]
 [vo_hay s="hayami1140"]
-[ns]ありす[nse]
-「あはっ……あははははははっ！！　あはは……」[pcms]
+[ns]Alice[nse]
+"Ahah... ahahahahaha!! Ahaha..."[pcms]
 
 *9838|
 [fc]
-なんだか、身体が軽くなった気がする。[pcms]
+I feel somehow lighter.[pcms]
 
 *9839|
 [fc]
-彼に見られた恥ずかしさも。[r]
-汚された屈辱も。[r]
-すべてが飛んでいってしまうようで……。[pcms]
+The embarrassment of being seen by him, the humiliation of[r]
+being defiled... it feels like everything is flying away...[pcms]
 
 *9840|
 [fc]
-[ns]大倉[nse]
-「速水っ！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Hayami!"[pcms]
 
 [quake_bg 元time=200 xy m]
 
 *9841|
 [fc]
 [vo_hay s="hayami1141"]
-[ns]ありす[nse]
-「！！」[pcms]
+[ns]Arisu[nse]
+"!!"[pcms]
 
 *9842|
 [fc]
-と、不意に私の身体に力がこもる。[pcms]
+And suddenly, strength fills my body.[pcms]
 
 *9843|
 [fc]
-それは全てを救い、汚れの飛んだ私の身体を[r]
-抱き留めるように響く。[pcms]
+It resonates as if to embrace and save everything, holding[r]
+back my cleansed body from flying away.[pcms]
 
 *9844|
 [fc]
 [vo_hay s="hayami1142"]
-[ns]ありす[nse]
-「……な、んで……」[pcms]
+[ns]Alice[nse]
+"...Why..."[pcms]
 
 *9845|
 [fc]
-空へと飛んだはずのあたしの身体は、[r]
-いまだ屋上へと繋がっていた。[r]
-……彼の腕を通して。[pcms]
+My body, which should have flown into the sky, is still[r]
+connected to the rooftop... through his arms.[pcms]
 
 [ChrSetEx layer=4 chbase="ookura_n02b"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *tuia48|
 [fc]
-[ns]大倉[nse]
-「バカッ……死のうなんて考えんなよ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Idiot... don't even think about dying!!"[pcms]
 
 *9846|
 [fc]
 [vo_hay s="hayami1143"]
-[ns]ありす[nse]
-「ヒロシ……！　ヒロシ……でもっ！」[pcms]
+[ns]Alice[nse]
+"Hiroshi...! Hiroshi... but!"[pcms]
 
 *9847|
 [fc]
-私の腕をつかむ、ヒロシの手。[r]
-その手はとても温かく……そして力強かった。[pcms]
+Hiroshi's hand gripping my arm. That hand was so warm... and[r]
+strong.[pcms]
 
 *9848|
 [fc]
-[ns]大倉[nse]
-「……おまえの姿をみれば、だいたい何が[r]
-　起こったのか、どんな気持ちなのかもわかる」[pcms]
+[ns]Ookura[nse]
+"...Just by looking at you, I can pretty much tell what[r]
+happened and how you feel."[pcms]
 
 [ChrSetEx layer=4 chbase="ookura_n02f"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *tuia49|
 [fc]
-[ns]大倉[nse]
-「でもよ……でもよ！　俺を目の前にして、[r]
-　そんなこと……絶対に許さねえからな！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"But hey... but hey! In front of me, such a thing... I'll[r]
+never forgive it!!"[pcms]
 
 *9849|
 [fc]
-ヒロシ……あたし。[pcms]
+Hiroshi... me.[pcms]
 
 *9850|
 [fc]
-あたしも、ヒロシも、顔中涙でぐしょぐしょ。[pcms]
+Both of us, our faces drenched with tears.[pcms]
 
 *9851|
 [fc]
-分かってはいるけど、涙が止まらない。[r]
-でも、さっきの涙とはまるで違う。[pcms]
+I know it, but the tears won't stop. Yet, these tears are[r]
+completely different from before.[pcms]
 
 *9852|
 [fc]
-ヒロシはこんな私でも、受け入れてくれるというの？[r]
-こんなに汚れた私でも……。[pcms]
+Will Hiroshi accept even someone like me? Even someone as[r]
+tainted as I am...[pcms]
 
 *9853|
 [fc]
-あたしも、ヒロシも、顔中涙まみれ。[r]
-あはっ……きたないかお……。[pcms]
+Both of us, our faces smeared with tears. Ahah... such dirty[r]
+faces...[pcms]
 
 *9854|
 [fc]
 [vo_hay s="hayami1144"]
-[ns]ありす[nse]
-「ぐすっ……あははっ……あははははっ！！[r]
-　ぐすっ……うぁぁぁっ……」[pcms]
+[ns]Alice[nse]
+"Sniffle... ahaha... ahahahaha!! Sniffle... waaaah..."[pcms]
 
 *9855|
 [fc]
-こんなあたしでも、ヒロシは嫌な顔なんてしてないの[r]
-に。あたしだけ、弱いところみられちゃったな……。[pcms]
+Even though Hiroshi doesn't show any disgust towards me.[r]
+It's just me who has been seen in a weak moment...[pcms]
 
 [ChrSetEx layer=4 chbase="ookura_n02b"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *tuia50|
 [fc]
-[ns]大倉[nse]
-「ぐっ……！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Guh...!"[pcms]
 
 *9856|
 [fc]
 [vo_hay s="hayami1145"]
-[ns]ありす[nse]
-「ヒロシ……！？」[pcms]
+[ns]Alice[nse]
+"Hiroshi...!?"[pcms]
 
 *9857|
 [fc]
-よく見ると、私を支えるヒロシの後ろには、[r]
-幾人の男達が群がっている。[pcms]
+Looking closely, behind Hiroshi who is supporting me, there[r]
+are several men swarming around.[pcms]
 
 *9858|
 [fc]
-そして、そいつらがヒロシの身体を噛んでいるのだ。[pcms]
+And they are biting into Hiroshi's body.[pcms]
 
 *9859|
 [fc]
 [vo_hay s="hayami1146"]
-[ns]ありす[nse]
-「ヒロシ……もういいよ！　このままじゃヒロシが！」[pcms]
+[ns]Alice[nse]
+"Hiroshi... it's okay now! If this continues, you'll be!"[pcms]
 
 [ChrSetEx layer=4 chbase="ookura_n02a"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *tuia51|
 [fc]
-[ns]大倉[nse]
-「バカ言うな、このぐらいなんでもねぇよ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Don't say stupid things, this is nothing!!"[pcms]
 
 *9860|
 [fc]
 [vo_hay s="hayami1147"]
-[ns]ありす[nse]
-「でも……」[pcms]
+[ns]Arisu[nse]
+"But..."[pcms]
 
 *9861|
 [fc]
-このままでなんとかなると思えない。[r]
-屋上から落ちそうなあたしを支えて、[r]
-その後ろから無防備に襲われているのだ。[pcms]
+I can't see how this will work out. He's supporting me who[r]
+is about to fall from the rooftop, while being attacked from[r]
+behind without any defense.[pcms]
 
 *9862|
 [fc]
 [vo_hay s="hayami1148"]
-[ns]ありす[nse]
-「このままじゃ、ふたりともおちちゃうよっ！」[pcms]
+[ns]Alice[nse]
+"At this rate, both of us will fall!"[pcms]
 
 *9863|
 [fc]
-こんな状態で、支えられるはずがない。[r]
-あたしを持ち上げる事だって困難なはずだ。[pcms]
+In such a state, there's no way he can support me. Even[r]
+lifting me up would be difficult.[pcms]
 
 [ChrSetEx layer=4 chbase="ookura_n02h"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *tuia52|
 [fc]
-[ns]大倉[nse]
-「……それもいいかもな」[pcms]
+[ns]Ookura Hiroshi[nse]
+"...That might be okay."[pcms]
 
 *9864|
 [fc]
 [vo_hay s="hayami1149"]
-[ns]ありす[nse]
-「……え？」[pcms]
+[ns]Arisu[nse]
+"...What?"[pcms]
 
 [ChrSetEx layer=4 chbase="ookura_n02a"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *tuia53|
 [fc]
-[ns]大倉[nse]
-「おまえと一緒なら……このまま落ちるのも……、[r]
-　……悪くない」[pcms]
+[ns]Ookura Hiroshi[nse]
+"If I'm with you... falling like this might not be so[r]
+bad..."[pcms]
 
 *9865|
 [fc]
 [vo_hay s="hayami1150"]
-[ns]ありす[nse]
-「……ヒロシ？」[pcms]
+[ns]Arisu[nse]
+"...Hiroshi?"[pcms]
 
 *9866|
 [fc]
-確かに、上がったところで逃げられる保証もない。[r]
-だけど……。[pcms]
+Indeed, there's no guarantee we can escape even if we go up.[r]
+But...[pcms]
 
 [ChrSetEx layer=4 chbase="ookura_n02h"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *tuia54|
 [fc]
-[ns]大倉[nse]
-「さき……越されちまったな……。[r]
-　俺、気ぃついてりゃよかったんだけどな……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"I've been overtaken... I should have been more[r]
+attentive..."[pcms]
 
 *9867|
 [fc]
 [vo_hay s="hayami1151"]
-[ns]ありす[nse]
-「……な、何の事？」[pcms]
+[ns]Alice[nse]
+"...What are you talking about?"[pcms]
 
 [ChrSetEx layer=4 chbase="ookura_n02c"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *tuia55|
 [fc]
-[ns]大倉[nse]
-「好きだぜ、速水……だから」[pcms]
+[ns]Ookura Hiroshi[nse]
+"I love you, Hayami... that's why."[pcms]
 
 *9868|
 [fc]
-そう言いながら、彼は私を抱きしめた。[pcms]
+As he said that, he embraced me.[pcms]
 
 *9869|
 [fc]
 [vo_hay s="hayami1152"]
-[ns]ありす[nse]
-「ヒロシ……！」[pcms]
+[ns]Alice[nse]
+"Hiroshi...!"[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *9870|
 [fc]
-二人の身体は、男達からも、屋上からも、[r]
-その拘束を解かれ自由になった。[pcms]
+Our bodies were freed from the men and from the rooftop,[r]
+released from all restraints.[pcms]
 
 *9871|
 [fc]
-何者の束縛もなく、ただあたしはヒロシに抱えられ、[r]
-空を飛ぶ。[pcms]
+Unbound by anyone, I was simply held by Hiroshi, flying[r]
+through the sky.[pcms]
 
 *9872|
 [fc]
-蒼穹の空が、私たちを祝福するように輝く。[pcms]
+The azure sky shone as if to bless us.[pcms]
 
 *9873|
 [fc]
 [vo_hay s="hayami1153"]
-[ns]ありす[nse]
-「ヒロシ……さっきのきこえてたんだ」[pcms]
+[ns]Alice[nse]
+"Hiroshi... you heard what I said earlier."[pcms]
 
 *9874|
 [fc]
-[ns]大倉[nse]
-「当然だろ、俺がお前の声を聞き逃すかよ」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Of course, there's no way I'd miss your voice."[pcms]
 
 *9875|
 [fc]
 [vo_hay s="hayami1154"]
-[ns]ありす[nse]
-「ありがとう……ヒロシ」[pcms]
+[ns]Alice[nse]
+"Thank you... Hiroshi."[pcms]
 
 *9876|
 [fc]
-こんな幸せな事があるだろうか。[r]
-絶望の底にいたあたしに、王子が手をさしのべ、[r]
-そして共に逝ってくれるくれるのだ。[pcms]
+Could there be anything as happy as this? A prince reached[r]
+out his hand to me at the depths of despair, and now he's[r]
+willing to go with me.[pcms]
 
 *9877|
 [fc]
 [vo_hay s="hayami1155"]
-[ns]ありす[nse]
-「だいすきだよ、ヒロシ」[pcms]
+[ns]Arisu[nse]
+"I love you so much, Hiroshi."[pcms]
 
 *9878|
 [fc]
-もう一度呟く。[r]
-この想いを胸に私は飛べた。[r]
-だから何も怖くなんて無かった。[pcms]
+I whispered once more. With this feeling in my heart, I was[r]
+able to fly. That's why I wasn't afraid of anything.[pcms]
 
 *9879|
 [fc]
-そして私たちは鳥になったのだ。[pcms]
+And then we became birds.[pcms]
 
 *9880|
 [fc]
-空を舞う幸せな二匹の鳥に……。[pcms]
+Two happy birds dancing in the sky...[pcms]
 
 ;//♪：熱砂_Extreme.wav fadeOUT
 

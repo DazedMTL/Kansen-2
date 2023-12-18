@@ -1,6 +1,6 @@
 ;//¡ƒuƒƒbƒN‚O‚P‚W‚O‚O
 ;//Œ‡”Ô
-;//;//||||||||||||||||||||||||||||||||||||||||
+;//;//
 ;//¡ƒuƒƒbƒN‚O‚P‚X‚O‚OFwƒUƒbƒsƒ“ƒO‘I‘ğˆF‚Tx
 ;//¦‚±‚ÌƒuƒƒbƒN‚Í‘ÌŒ±”Å‚ÌƒXƒNƒŠƒvƒg‚ğ—¬—p‚µ‚Ä‰º‚³‚¢
 
@@ -73,7 +73,7 @@
 ;	[link target=*prologue01900_SEL3 single=true left="&sf.aspect2_x" top="&sf.aspect2_y" width=320 height=64 layer=5 border=0][endlink]
 ;	[link target=*prologue01900_SEL5 single=true left="&sf.aspect2_x" top="&sf.aspect4_y" width=320 height=64 layer=7 border=0][endlink]
 ;	[link target=*prologue01900_SEL6 single=true left="&sf.aspect3_x" top="&sf.aspect5_y" width=128 height=32 layer=8 border=0][endlink]
-;	[s]
+;[pcms]
 
 ;BGM’â~
 [fadeoutbgm time=500]
@@ -172,4 +172,4 @@
 
 [jump storage="prologue02000.ks" target=*prologue02000_TOP]
 
-;//;//||||||||||||||||||||||||||||||||||||||||
+;//;//

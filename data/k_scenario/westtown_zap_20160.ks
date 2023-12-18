@@ -30,86 +30,82 @@
 *13587|
 [fc]
 [vo_hay s="hayami0330"]
-[ns]ありす[nse]
-「繋がった……！？」[pcms]
+[ns]Arisu[nse]
+"Connected...!?"[pcms]
 
 *13588|
 [fc]
-ここに来たばかりの時は繋がらなかった[r]
-電話からは、今はハッキリと、[r]
-呼び出し音が聞こえてくる。[pcms]
+When I first came here, I couldn't get through. But now, I[r]
+can clearly hear the dial tone from the phone.[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
 *13589|
 [fc]
 [vo_hay s="hayami0331"]
-[ns]ありす[nse]
-「もう……電話が繋がるようになったのかな……」[pcms]
+[ns]Arisu[nse]
+"I wonder if the phone is working now..."[pcms]
 ;//◎呟くように
 
 *13590|
 [fc]
-お願い……。[r]
-ヒロシ……電話に出て……。[pcms]
+Please... Hiroshi... answer the phone...[pcms]
 
 *13591|
 [fc]
-あたしは祈るように、ケータイを耳に押しつける。[pcms]
+I press the cell phone to my ear as if praying.[pcms]
 
 [stop_se0]
 
 *13592|
 [fc]
-[ns]携帯[nse]
-「ブッ……」[pcms]
+[ns]Cell Phone[nse]
+"Beep..."[pcms]
 
 *13593|
 [fc]
 [vo_hay s="hayami0332"]
-[ns]ありす[nse]
-「！！　ヒ……ヒロシ！？　ヒロシ！！　今……」[pcms]
+[ns]Alice[nse]
+"!! Hi... Hiroshi!? Hiroshi!! Now..."[pcms]
 
 *13594|
 [fc]
-[ns]携帯[nse]
-「ただいま電話に出ることが出来ません。[r]
-　ピーッという発信音の後……」[pcms]
+[ns]Mobile phone[nse]
+"The person you are calling cannot take your call right now.[r]
+After the beep..."[pcms]
 
 *13595|
 [fc]
-あたしの願いは、神様に届かなかった。[r]
-電話の相手は、ヒロシじゃなくて、機械だった。[pcms]
+My prayers didn't reach the heavens. The one on the other[r]
+end of the phone wasn't Hiroshi, but a machine.[pcms]
 
 *13596|
 [fc]
-……それでも、ヒロシが着信に気づけば、[r]
-かけ直してくれる……。[pcms]
+...Still, if Hiroshi notices the missed call, he might call[r]
+back...[pcms]
 
 *13597|
 [fc]
-せめて、こっちの状況だけでも伝えようと、[r]
-留守電に吹き込む事にした。[pcms]
+I decided to leave a message on the voicemail to at least[r]
+convey my situation.[pcms]
 
 *13598|
 [fc]
 [vo_hay s="hayami0333"]
-[ns]ありす[nse]
-「あたしは……大丈夫だから……。[r]
-　ヒロシも気を付けてね……。[r]
-　ヘンな人達が沢山で……もうイヤだよ……！」[pcms]
+[ns]Alice[nse]
+"I'm... okay... Take care, Hiroshi... There are so many[r]
+strange people... I can't stand it anymore...!"[pcms]
 
 *13599|
 [fc]
-ホントは、今すぐ会いたい。[r]
-ヒロシに、会いたい。[pcms]
+I really want to see him right now. I want to see Hiroshi.[pcms]
 
 *13600|
 [fc]
 [vo_hay s="hayami0334"]
-[ns]ありす[nse]
-「いまは２階。あたしのあとから入ってきた女の人い[r]
-　たでしょ？　あのひとと一緒に……」[pcms]
+[ns]Arisu[nse]
+"I'm on the second floor now. Remember the woman who came in[r]
+after me? I'm with her..."[pcms]
 
 ;//♪：bgm012 stop
 [fadeoutbgm time=1][wb]
@@ -121,8 +117,8 @@
 *13601|
 [fc]
 [vo_nag s="nagasaki0149"]
-[ns]千尋[nse]
-「やめろ！！　このっ！！」[pcms]
+[ns]Chihiro[nse]
+"Stop it!! You bastard!!"[pcms]
 ;//◎遠くから
 
 ;//SE:雄叫び
@@ -131,97 +127,93 @@
 *13602|
 [fc]
 [vo_hay s="hayami0335"]
-[ns]ありす[nse]
-「……！！　長崎さん！？」[pcms]
+[ns]Arisu[nse]
+"...!! Nagasaki-san!?"[pcms]
 
 *13603|
 [fc]
-またあの声……。[r]
-それに、長崎さんの叫び声がした……？[pcms]
+That voice again... And did I just hear Nagasaki-san's[r]
+scream...?[pcms]
 
 *13604|
 [fc]
-もしかして……。[pcms]
+Could it be...[pcms]
 
 *13605|
 [fc]
-[ns]菅生[nse]
-「何だってんだよテメェら！！[r]
-　まだ残ってやがったのかッ！！」[pcms]
+[ns]Sugou[nse]
+"What the hell do you think you're doing!! Are you still[r]
+here!!"[pcms]
 
 *13606|
 [fc]
-やっぱり、すぐ近くまであのヘンな人が……。[pcms]
+Just as I thought, that strange person is nearby...[pcms]
 
 *13607|
 [fc]
-…………。[pcms]
+...[pcms]
 
 *13608|
 [fc]
-結局、ヒロシは電話に出ることは無かった。[r]
-その事は、あたしの寂しさを[r]
-いっそう深める事になった。[pcms]
+In the end, Hiroshi never answered the phone. That fact only[r]
+deepened my loneliness.[pcms]
 
 *13609|
 [fc]
-それに、長崎さんとオジサンとは、[r]
-顔を合わせたくない。[pcms]
+Besides, I don't want to face Nagasaki-san and that old man.[pcms]
 
 *13610|
 [fc]
-でも長崎さんを見捨てる事は出来ないし、それに、[r]
-ここにあのヘンな人達が入ってくるかもしれない。[pcms]
+But I can't just abandon Nagasaki-san, and those strange[r]
+people might come in here too.[pcms]
 
 *13611|
 [fc]
-このままじゃ……ダメだ……。[r]
-ヒロシに会いたいよ……。[pcms]
+This won't do... I want to see Hiroshi...[pcms]
 
 *13612|
 [fc]
-あたし一人じゃ、あのヘンな人達から、[r]
-逃げ切れないかもしれない。[pcms]
+All alone, I might not be able to escape from those strange[r]
+people.[pcms]
 
 *13613|
 [fc]
-それなら、顔を見たくないなんて言ってないで、[r]
-長崎さんと協力した方が、逃げられる確率は高くなる。[pcms]
+If that's the case, instead of saying I don't want to see[r]
+their faces, it would be better to cooperate with Nagasaki-[r]
+san to increase our chances of escape.[pcms]
 
 *13614|
 [fc]
 [vo_hay s="hayami0336"]
-[ns]ありす[nse]
-「ごめん、もう切る。また電話するから！」[pcms]
+[ns]Alice[nse]
+"Sorry, I'm going to hang up now. I'll call again later!"[pcms]
 
 [cutin_int][trans_c cross time=300]
 
 *13615|
 [fc]
-ホントは、あの人達とは顔を合わせたくない。[pcms]
+I really don't want to face those people.[pcms]
 
 *13616|
 [fc]
-でも、すぐそばで危ない目に遭っている長崎さんを[r]
-見捨てる事なんて出来ない。[pcms]
+But I can't just leave Nagasaki-san in danger right beside[r]
+me.[pcms]
 
 *13617|
 [fc]
-それに、電話は通じる様になった。[r]
-長崎さんを助けた後、また電話しよう。[pcms]
+Besides, the phone is working now. After helping Nagasaki-[r]
+san, I'll call again.[pcms]
 
 *13618|
 [fc]
-今は、我慢しよう……。[r]
-ちょっと、我慢するだけ……。[pcms]
+For now, I'll endure... Just a little bit of patience...[pcms]
 
 ;//SE：電話が切れた音（？）
 [se0 storage="SE06"]
 
 *13619|
 [fc]
-でも、あたし達、無事にまた会えるのかな……。[r]
-ヒロシ……。[pcms]
+But I wonder if we can safely meet again... Hiroshi...[pcms]
 
 ;//♪：bgm011 fadeout
 [fadeoutbgm time=1000]

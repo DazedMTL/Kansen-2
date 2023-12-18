@@ -25,51 +25,49 @@
 
 *3234|
 [fc]
-あの人がしていたように、小林は『Ｎｏ．３』と示さ[r]
-れた映画館の扉を薄く開け、中の様子を確かめ始めた。[pcms]
+Just like that person did, Kobayashi slightly opened the[r]
+door of the cinema marked "No. 3" and began to check inside.[pcms]
 
 *3235|
 [fc]
-その後ろで、私は向かい側の映画館から聞こえる音に、[r]
-不安を感じていた。[pcms]
+Behind her, I felt anxious about the sounds coming from the[r]
+cinema across the way.[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
 *3236|
 [fc]
 [vo_may s="maya0547"]
-[ns]摩耶[nse]
-「……」[pcms]
+[ns]Maya[nse]
+"..."[pcms]
 
 
 *3237|
 [fc]
-あの人が中心になっておかしな人達を閉じこめた、[r]
-『Ｎｏ．６』と示された映画館の中から、未だに[r]
-薄気味悪い唸り声が聞こえてくる。[pcms]
+The cinema marked "No. 6," where that person had locked up[r]
+the strange people, still emitted an eerie growling sound.[pcms]
 
 *3238|
 [fc]
-モップを『かんぬき』のようにして、扉の取っ手の後ろに[r]
-挿し込んでいるけど、あんな物、いつまで保つのか[r]
-わからない。[pcms]
+They used a mop like a bolt to insert behind the door[r]
+handle, but it's uncertain how long such a thing will hold.[pcms]
 
 *3239|
 [fc]
-それなのに、こんな所に隠れていて平気なのだろうか。[pcms]
+And yet, I wonder if it's really okay to be hiding in a[r]
+place like this.[pcms]
 
 [ChrSetEx layer=4 chbase="koba_n08"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *3240|
 [fc]
 [vo_kob s="koba0442"]
-[ns]小林[nse]
-「だれもいないみたい♪　はいろーはいろー♪」[pcms]
+[ns]Kobayashi[nse]
+"It seems like no one's here♪ Come on in- come on in-♪"[pcms]
 
 *3241|
 [fc]
-ピクニックにでも行くかのような気軽さで促されて、[r]
-私は小林達と一緒に、『Ｎｏ．３』の映画館の中へと[r]
-入った。[pcms]
+Encouraged with the ease as if going on a picnic, I entered[r]
+the cinema "No. 3" with Kobayashi and the others.[pcms]
 
 ;//♪：bgm012 fadeout
 [fadeoutbgm time=1000]
@@ -90,133 +88,131 @@
 *3242|
 [fc]
 [vo_may s="maya0548"]
-[ns]摩耶[nse]
-「……」[pcms]
+[ns]Maya[nse]
+"..."[pcms]
 
 *3243|
 [fc]
-『Ｎｏ．６』の映画館の事が気になったが、私は取り[r]
-敢えず、入り口の近くの席に腰を下ろした。[pcms]
+Although I was concerned about the cinema "No. 6," I decided[r]
+to sit down in a seat near the entrance for now.[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
 *3244|
 [fc]
 [vo_may s="maya0549"]
-[ns]摩耶[nse]
-「……」[pcms]
+[ns]Maya[nse]
+"..."[pcms]
 ;//◎息をつく
 
 *3245|
 [fc]
-朝になるまでどれぐらいあるのか。[r]
-朝になれば、本当にあのシャッターは開くのか。[pcms]
+How long until morning? Will the shutters really open when[r]
+it comes?[pcms]
 
 *3246|
 [fc]
-ジョンの背中を撫でながら、私はただ、時間が過ぎて[r]
-いくのを待つだけだった。[pcms]
+While stroking John's back, all I could do was wait for time[r]
+to pass.[pcms]
 
 *3247|
 [fc]
-こうしている内に、救助が来てくれるといいけど……。[r]
-なぜ誰も、ここがこんな状態になっている事に気が付[r]
-かないの？[pcms]
+I hope rescue comes while we're still here... Why hasn't[r]
+anyone noticed that this place is in such a state?[pcms]
 
 [ChrSetEx layer=4 chbase="anza_n01"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *3248|
 [fc]
 [vo_anz s="anzai0358"]
-[ns]みき[nse]
-「私、ちょっとトイレに行ってくるわね」[pcms]
+[ns]Mikki[nse]
+"I'm going to go to the bathroom for a bit."[pcms]
 
 [ChrSetEx layer=4 chbase="koba_n08"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *3249|
 [fc]
 [vo_kob s="koba0443"]
-[ns]小林[nse]
-「いってらしゃぁ～い♪」[pcms]
+[ns]Kobayashi[nse]
+"Have a good trip♪"[pcms]
 
 *3250|
 [fc]
-席を立って、扉へ歩いていく安西に、小林が後ろから[r]
-楽しげにひらひらと手を振る。[pcms]
+As Anzai stood up and walked towards the door, Kobayashi[r]
+cheerfully waved her hand from behind.[pcms]
 
 *3251|
 [fc]
-安西が映画館を出て行くのを、にやつきながら見つめ[r]
-ていた小林は、女がいなくなってからしばらくして、[r]
-あ、と声を上げた。[pcms]
+After Anzai left the cinema, Kobayashi, who had been[r]
+grinning while watching her leave, exclaimed "Ah" after a[r]
+while.[pcms]
 
 [ChrSetEx layer=4 chbase="koba_n02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *3252|
 [fc]
 [vo_kob s="koba0444"]
-[ns]小林[nse]
-「そうだあ、ボクもトイレいってこよーっと♪」[pcms]
+[ns]Kobayashi[nse]
+"Oh right, I'm gonna go to the bathroom too♪"[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *3253|
 [fc]
-鼻歌交じりに小さくスキップしながら、小林は扉へ向[r]
-かい、映画館を出て行った。[pcms]
+Humming a tune and skipping lightly, Kobayashi headed[r]
+towards the door and left the cinema.[pcms]
 
 *3254|
 [fc]
 [vo_may s="maya0550"]
-[ns]摩耶[nse]
-「……」[pcms]
+[ns]Maya[nse]
+"..."[pcms]
 
 
 *3255|
 [fc]
-あの男は、本当にトイレに行きたいのだろうか。[r]
-言い方が白々しかったし、あの女に何かするつもり[r]
-じゃないのか。[pcms]
+Does that man really need to go to the bathroom? The way he[r]
+said it seemed insincere, and I wonder if he's planning to[r]
+do something to that woman.[pcms]
 
 *3256|
 [fc]
-やっぱり、あの男達とは別行動を取った方が良かった[r]
-かもしれない。[pcms]
+Maybe it would have been better to take separate actions[r]
+from those men after all.[pcms]
 
 *3257|
 [fc]
-今からでも遅くない。[r]
-他に、どこか隠れられるような場所を考えなければ。[pcms]
+It's not too late even now. I need to think of some other[r]
+place where I can hide.[pcms]
 
 *3258|
 [fc]
-[ns]ジョン[nse]
-「フウゥ～～～ルルッ……」[pcms]
+[ns]John[nse]
+"Fuuu~uuruu..."[pcms]
 
 *3259|
 [fc]
 [vo_may s="maya0551"]
-[ns]摩耶[nse]
-「ジョン……？　どうしたの……」[pcms]
+[ns]Maya[nse]
+"John...? What's wrong...?"[pcms]
 
 *3260|
 [fc]
-[ns]ジョン[nse]
-「ハアァ～～ッ……ハアァ～～ッ……」[pcms]
+[ns]John[nse]
+"Haaa~h... Haaa~h..."[pcms]
 
 *3261|
 [fc]
 [vo_may s="maya0552"]
-[ns]摩耶[nse]
-「……？」[pcms]
+[ns]Maya[nse]
+"…?"[pcms]
 
 *3262|
 [fc]
-そういえば、この中に入った時から、ジョンの呼吸が[r]
-荒くなっている。[pcms]
+Come to think of it, John's breathing has been rough since[r]
+we entered here.[pcms]
 
 *3263|
 [fc]
-一応、クーラーは効いているけど、厚い毛皮で覆われ[r]
-ているジョンにとっては、大した違いは無いのかもし[r]
-れない。[pcms]
+The cooler is working, but for John who is covered in thick[r]
+fur, it might not make much of a difference.[pcms]
 
 ;//♪：bgm004 stop
 [fadeoutbgm time=1][wb]
@@ -227,44 +223,42 @@
 *3264|
 [fc]
 [vo_may s="maya0553"]
-[ns]摩耶[nse]
-「……！？」[pcms]
+[ns]Maya[nse]
+"...!?"[pcms]
 ;//◎息を飲む
 
 *3265|
 [fc]
-[ns]ジョン[nse]
-「ヴゥ～～ルルッ……！」[pcms]
+[ns]John[nse]
+"Vuu~uuruu...!"[pcms]
 
 *3266|
 [fc]
 [vo_may s="maya0554"]
-[ns]摩耶[nse]
-「ジョン……！？」[pcms]
+[ns]Maya[nse]
+"John...!?"[pcms]
 
 ;//♪：bgm011
 [bgm storage="bgm011"]
 
 *3267|
 [fc]
-私の服の袖を咥えて、ジョンがどこかに引っ張って[r]
-いこうとする。[pcms]
+Biting my sleeve, John tries to pull me somewhere.[pcms]
 
 *3268|
 [fc]
-腕を引き、放させようとしたが、布が裂けるかと思う[r]
-程のジョンの力に負け、私は仕方なく立ち上がり、[r]
-引っ張られるのに任せた。[pcms]
+I tried to pull my arm away and release myself, but losing[r]
+to John's strength which felt like it could tear the fabric,[r]
+I reluctantly stood up and let myself be pulled along.[pcms]
 
 *3269|
 [fc]
-千台に来てから、何度も同じ様な事があった。[r]
-そのほとんどが、ジョンが危機を感じた時だった。[pcms]
+Since coming to Chitai, there have been many similar[r]
+incidents. Most of them were when John sensed danger.[pcms]
 
 *3270|
 [fc]
-今回もそうなのだろうか。[r]
-何か危険が、私に迫っている……？[pcms]
+Is it the same this time? Is some danger approaching me...?[pcms]
 
 ;//♪：bgm011 fadeout
 [fadeoutbgm time=1000]
@@ -277,4 +271,4 @@
 
 [jump storage="hayamiroute11090.ks" target=*hayamiroute11090_TOP]
 
-;//－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+;//

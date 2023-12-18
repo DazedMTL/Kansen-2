@@ -29,80 +29,81 @@
 [ChrSetEx layer=2 chbase="sugo_n04"][ChrSetXY layer=2 x=0 y=0][trans_c cross time=150]
 *tuia36|
 [fc]
-[ns]菅生[nse]
-「……ったくよぉ！　テメェらのせいで！」[pcms]
+[ns]Sugou[nse]
+"Geez! It's all because of you guys!"[pcms]
 
 [ChrSetEx layer=3 chbase="naga_n03"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
 *9508|
 [fc]
 [vo_nag s="nagasaki0416"]
-[ns]千尋[nse]
-「な……なに言ってるのこいつ」[pcms]
+[ns]Chihiro[nse]
+"Wh... What is he talking about?"[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
 *9509|
 [fc]
-あたし達に対してつぶやき、だけどもハッキリとした[r]
-悪意を持っておじさんが近づいてくる。[pcms]
+He mutters to us, clearly with malice, as the man[r]
+approaches.[pcms]
 
 *9510|
 [fc]
-そのある種異様な様子に気づいたのか、千尋さんは[r]
-私をかばうように間に立った。[pcms]
+Noticing his somewhat bizarre behavior, Chihiro-san stood in[r]
+front of me protectively.[pcms]
 
 [ChrSetEx layer=3 chbase="naga_n17"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
 *9511|
 [fc]
 [vo_nag s="nagasaki0417"]
-[ns]千尋[nse]
-「ちょっと！　一体何をするつもりなの！？」[pcms]
+[ns]Chihiro[nse]
+"Hey! What do you think you're doing?!"[pcms]
 
 [ChrSetEx layer=2 chbase="sugo_n06"][ChrSetXY layer=2 x=0 y=0][trans_c cross time=150]
 *tuia37|
 [fc]
-[ns]菅生[nse]
-「うるせぇ！　おめぇらは黙って俺の言うことだけ聞[r]
-　いてりゃいいんだよっ！」[pcms]
+[ns]Sugou[nse]
+"Shut up! You just need to keep quiet and listen to what I[r]
+say!"[pcms]
 
 *9512|
 [fc]
 [vo_hay s="hayami1076"]
-[ns]ありす[nse]
-「ひっ……！」[pcms]
+[ns]Arisu[nse]
+"Eek...!"[pcms]
 
 *9513|
 [fc]
-オジサンのあまりの剣幕に、思わず声がでてしまう。[pcms]
+At the man's fierce demeanor, a voice involuntarily escapes[r]
+me.[pcms]
 
 *9514|
 [fc]
-さっきの光景が……。[pcms]
+The scene from before...[pcms]
 
 *9515|
 [fc]
-おじさんが変な人たちを殺した光景が脳裏をよぎる。[pcms]
+The scene where the man killed those strange people flashes[r]
+through my mind.[pcms]
 
 *9516|
 [fc]
-ひょっとしたら、あたしもさっきの人達みたいに[r]
-されちゃうかも……。[pcms]
+Maybe I'll end up like those people from before...[pcms]
 
 [ChrSetEx layer=3 chbase="naga_n04"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
 *9517|
 [fc]
 [vo_nag s="nagasaki0418"]
-[ns]千尋[nse]
-「大丈夫……私がなんとかするから」[pcms]
+[ns]Chihiro[nse]
+"It's okay... I'll figure something out."[pcms]
 
 *9518|
 [fc]
-長崎さんが頼もしく微笑む。[r]
-この笑顔が、脅えている私の心を和らげてくれる。[pcms]
+Chihiro-san smiles reassuringly. That smile eases my[r]
+frightened heart.[pcms]
 
 *9519|
 [fc]
-……だけど、それも一瞬のことだった。[pcms]
+...But that was only for a moment.[pcms]
 
 [chara_int_ layer=2][chara_int_ layer=3][trans_c cross time=150]
 [quake_bg 元time=200 xy m]
@@ -110,131 +111,130 @@
 *9520|
 [fc]
 [vo_nag s="nagasaki0419"]
-[ns]千尋[nse]
-「ぎゃっ！」[pcms]
+[ns]Chihiro[nse]
+"Gyah!"[pcms]
 
 *9521|
 [fc]
 [vo_hay s="hayami1077"]
-[ns]ありす[nse]
-「長崎さん！」[pcms]
+[ns]Arisu[nse]
+"Chihiro-san!"[pcms]
 
 *9522|
 [fc]
-笑顔を見せたままの長崎さんの顔が、勢いよく[r]
-視界からはずれた。[pcms]
+Chihiro-san's face, still smiling, suddenly disappears from[r]
+my field of vision.[pcms]
 
 [ChrSetEx layer=4 chbase="sugo_n06"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *9523|
 [fc]
-[ns]菅生[nse]
-「ったく！　うざってぇんだよテメェは！[r]
-　さっきからよぉ！」[pcms]
+[ns]Sugou[nse]
+"Damn it! You're so annoying! Since earlier!"[pcms]
 
 *9524|
 [fc]
 [vo_nag s="nagasaki0420"]
-[ns]千尋[nse]
-「…………」[pcms]
+[ns]Chihiro[nse]
+"..."[pcms]
 
 [ChrSetEx layer=4 chbase="sugo_n03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *9525|
 [fc]
-おじさんに勢いよく殴られた千尋さんは、[r]
-吹っ飛ばされたままピクリとも動かない。[pcms]
+Chihiro-san, who was struck hard by the man, is blown away[r]
+and doesn't move an inch.[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *9526|
 [fc]
 [vo_hay s="hayami1078"]
-[ns]ありす[nse]
-「長崎さん！？　長崎さん！！！」[pcms]
+[ns]Alice[nse]
+"Chihiro-san!? Chihiro-san!!!"[pcms]
 
 *9527|
 [fc]
-心配になった私は、長崎さんに駆け寄ろうとした。[r]
-だけど、その前を遮るようにオジサンが立ちはだかる。[pcms]
+Worried, I try to rush over to Chihiro-san, but the man[r]
+stands in my way, blocking me.[pcms]
 
 *9528|
 [fc]
 [vo_hay s="hayami1079"]
-[ns]ありす[nse]
-「……ぁ」[pcms]
+[ns]Alice[nse]
+"...ah"[pcms]
 
 *9529|
 [fc]
-変な人たちを一気に突き殺し、今また、[r]
-長崎さんを手にかけたおじさん……。[pcms]
+The man who swiftly stabbed those strange people to death,[r]
+and now, has laid his hands on Chihiro-san...[pcms]
 
 *9530|
 [fc]
-長崎さんを心配する気持ちが一気に引いていき、[r]
-身体の中を恐怖心が駆け抜ける。[pcms]
+The concern for Chihiro-san fades away, and fear races[r]
+through my body.[pcms]
 
 [ChrSetEx layer=4 chbase="sugo_n01"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *tuia38|
 [fc]
-[ns]菅生[nse]
-「ッたくよおおっ！　黙ってりゃ可愛がってやったの[r]
-　によ……俺様に逆らうからこうなるんだ……」[pcms]
+[ns]Sugou[nse]
+"Damn it all! If you had just kept quiet, I would have[r]
+treated you nicely... but this is what happens when you defy[r]
+me..."[pcms]
 
 [ChrSetEx layer=4 chbase="sugo_n03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *tuia39|
 [fc]
-[ns]菅生[nse]
-「だからよぉ……オメェも黙って俺の言うこと[r]
-　聞いた方がいいぜェ……！？」[pcms]
+[ns]Sugou[nse]
+"So listen... You better just keep quiet and do as I[r]
+say...!?"[pcms]
 
 [ChrSetEx layer=4 chbase="sugo_n02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *9531|
 [fc]
 [vo_hay s="hayami1080"]
-[ns]ありす[nse]
-「ひ……っ」[pcms]
+[ns]Alice[nse]
+"Eek...!"[pcms]
 
 *9532|
 [fc]
-恐怖のみが私を支配し、今すぐここから逃げろと[r]
-語りかけてくる。[pcms]
+Fear alone dominates me, telling me to escape from here[r]
+immediately.[pcms]
 
 *9533|
 [fc]
-私は踵を返すと、勢いよく走り出した。[pcms]
+I turn on my heel and start running with all my might.[pcms]
 
 [ChrSetEx layer=4 chbase="sugo_n01"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *tuia40|
 [fc]
-[ns]菅生[nse]
-「ちっ……まちやがれ！」[pcms]
+[ns]Sugou[nse]
+"Tch... Wait up!"[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *9534|
 [fc]
-どうする？　どこに向かえばいいの？[pcms]
+What should I do? Where should I go?[pcms]
 
 *9535|
 [fc]
-……下には行きたくない。[pcms]
+...I don't want to go downstairs.[pcms]
 
 *9536|
 [fc]
-さっきの男の人たちの変わり果てた姿は、[r]
-もう見たくない。[pcms]
+I don't want to see the horribly changed appearances of[r]
+those men again.[pcms]
 
 *9537|
 [fc]
-……と、なると……。[r]
-上しかない……。[pcms]
+...So that leaves... only upstairs...[pcms]
 
 *9538|
 [fc]
-追いすがるオジサンを尻目に、私は４階へ上る[r]
-エスカレーターを一息で駆け上がった。[pcms]
+Ignoring the man chasing after me, I dash up the escalator[r]
+to the fourth floor in one breath.[pcms]
 
 ;//→次ブロック
 ;//　ブロック３０１３０へ

@@ -46,122 +46,122 @@
 
 *7866|
 [fc]
-[ns]菅生[nse]
-「波濤のォ～砕けたァ～飛沫を浴びてェ～えェ～♪」[pcms]
+[ns]Sugou[nse]
+"Riding the waves~ Splashed by the spray~ Eeh~♪"[pcms]
 
 *7867|
 [fc]
-[ns]菅生[nse]
-「……おっせェなァ！　このバスはトロトロよォ！[r]
-　チンタラ走ってんじゃねェよ、このドン亀がよ！！[r]
-　ブッちぎってやるぜオラァ！！」[pcms]
+[ns]Sugou[nse]
+"...So slow! This bus is crawling! Don't dawdle, you damn[r]
+tortoise!! I'll tear past you, watch me!!"[pcms]
 
 *7868|
 [fc]
-ンだァ？　このバス……。[r]
-修業旅行のガキ乗せてやがんのか……。[r]
-どうりでチンタラしてるはずだぜ……。[pcms]
+What's with this bus...? Carrying a bunch of kids on a[r]
+training trip, huh...? No wonder it's moving at a snail's[r]
+pace...[pcms]
 
 *7869|
 [fc]
-[ns]菅生[nse]
-「お……？」[pcms]
+[ns]Sugou[nse]
+"Oh...?"[pcms]
 
 *7870|
 [fc]
-なんだ？　あの女……。[r]
-こっち見て手ェ振ってやがる……。[pcms]
+What's with that girl...? She's looking over here and[r]
+waving...[pcms]
 
 *7871|
 [fc]
-[ns]菅生[nse]
-「ヘッ……ガキは気楽でイイよなァ……」[pcms]
+[ns]Sugou[nse]
+"Heh... Kids have it easy, don't they..."[pcms]
 
 *7872|
 [fc]
-しっかし、ケツの軽そうな顔した女だなァ……。[r]
-後腐れなそうでいいけどよ……。[pcms]
+But man, she's got a face that looks like she's easy... No[r]
+strings attached would be nice though...[pcms]
 
 *7873|
 [fc]
-[ns]菅生[nse]
-「あーあァ！　久しぶりに、あれぐらい若い女とヤリ[r]
-　てェなーっ！！」[pcms]
+[ns]Sugou[nse]
+"Ah-ah! It's been a while since I've wanted to fuck a young[r]
+girl like that!!"[pcms]
 
 *7874|
 [fc]
-[ns]菅生[nse]
-「洋服ぐれェならイイけどよォ、大人のオモチャの運[r]
-　搬なんて、やってらんねェよなァ！」[pcms]
+[ns]Sugou[nse]
+"It'd be fine if it were clothes, but transporting adult[r]
+toys, I can't stand it!"[pcms]
 
 *7875|
 [fc]
-[ns]菅生[nse]
-「事故って中身バラまきでもしたら、どうしてくれん[r]
-　だよ！　ったくよォ……」[pcms]
+[ns]Sugou[nse]
+"If there's an accident and the contents get scattered[r]
+everywhere, what am I supposed to do! Seriously..."[pcms]
 
 *7876|
 [fc]
-けど、そんなくっだらねェ仕事でも、やらねェと金入[r]
-らねェしな……。[pcms]
+But even with such a crappy job, if I don't do it, I won't[r]
+make any money...[pcms]
 
 *7877|
 [fc]
-[ns]菅生[nse]
-「えーとォ、洋服は千台だったよなァ……」[pcms]
+[ns]Sugou[nse]
+"Let's see, the clothes are a thousand units, right..."[pcms]
 
 *7878|
 [fc]
-あと２時間ぐれェか……。[r]
-そこに納品したら、ちょっと仮眠して、次が大人のオ[r]
-モチャか……。[pcms]
+Another two hours or so... After delivery there, I'll take a[r]
+quick nap, then it's on to the adult toys...[pcms]
 
 *7879|
 [fc]
-[ns]菅生[nse]
-「あーァ……なんかイイことねェと、ヤル気でねェよ[r]
-　なァ……さっきの女みたいのとヤレねェかなァ……」[pcms]
+[ns]Sugou[nse]
+"Ah-ah... Without something good happening, I just can't get[r]
+motivated... Wonder if I could fuck someone like that girl[r]
+from earlier..."[pcms]
 
 *7880|
 [fc]
-千台に買える店あっかなァ……。[pcms]
+Is there a store that sells a thousand units...[pcms]
 
 *7881|
 [fc]
-つーか、ああいう頭悪そうな女なら、レイプしても平[r]
-気そうだよなァ……。[pcms]
+Speaking of which, a dumb-looking girl like her would[r]
+probably be fine even if she got raped...[pcms]
 
 *7882|
 [fc]
-[ns]菅生[nse]
-「つーかよォ、この荷物降ろしたあと、その土地の女[r]
-　ヤッちまえばイイんじゃねェ？」[pcms]
+[ns]Sugou[nse]
+"Speaking of which, after unloading this cargo, maybe I[r]
+should just fuck the local girls?"[pcms]
 
 *7883|
 [fc]
-[ns]菅生[nse]
-「だって千台だろ？　東京に戻る前にヤッちまって、[r]
-　デッパツすれば、パクられねーよなァ？」[pcms]
+[ns]Sugou[nse]
+"I mean, it's just a thousand units, right? If I fuck them[r]
+before heading back to Tokyo and leave immediately after, I[r]
+won't get caught, right?"[pcms]
 
 *7884|
 [fc]
-つーことは、ヤリたい放題……。[r]
-中出しし放題……。[pcms]
+That means... I can fuck all I want... Cum inside as much as[r]
+I want...[pcms]
 
 *7885|
 [fc]
-[ns]菅生[nse]
-「だよなァ……そういうことだよなァ……」[pcms]
+[ns]Sugou[nse]
+"Right... That's what it means..."[pcms]
 
 *7886|
 [fc]
-われながら良いアイデアだァ……。[r]
-早く仕事終わらして、女見つけねェと……。[pcms]
+I must say, it's a good idea... Gotta finish work quickly[r]
+and find a girl...[pcms]
 
 *7887|
 [fc]
-[ns]菅生[nse]
-「ヒャッハァ！！　ヤル気出てきたぜェーッ！！！！」[pcms]
+[ns]Sugou[nse]
+"Hyahaha!! Now I'm getting pumped up!!!"[pcms]
 
 [sysbt_meswin clear]
 [fadeoutbgm time=502]
@@ -175,4 +175,4 @@
 
 [jump storage="prologue01200.ks" target=*prologue01200_TOP]
 
-;//－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+;//

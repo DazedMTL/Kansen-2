@@ -23,22 +23,21 @@
 
 *11359|
 [fc]
-[ns]大倉[nse]
-「とりあえずココで……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"For now, let's do it here..."[pcms]
 
 *11360|
 [fc]
-俺は一番近い、『Ｎｏ．６』という案内板のついてる[r]
-両開きの扉に近づいて、取っ手に手をかけ、手前に引[r]
-いた。[pcms]
+I approached the nearest door with a sign that read "No. 6,"[r]
+grabbed the handle, and pulled it towards me.[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
 *11361|
 [fc]
-何気なく開いた扉の細い隙間から、低い唸り声が漏れ[r]
-てくるのに俺は気がついたが、その時にはもう手遅れ[r]
-だった。[pcms]
+As I carelessly opened the door, I noticed a low growling[r]
+sound leaking through the small gap, but by then it was[r]
+already too late.[pcms]
 
 ;//♪：bgm012 stop
 [fadeoutbgm time=1][wb]
@@ -58,139 +57,135 @@
 
 *11362|
 [fc]
-[ns]ポロシャツの中年[nse]
-「ま゛んこお゛ぉ～～……っ！！　ま゛ん゛この゛、[r]
-　にお゛いか゛する゛そ゛おぉ～～～……っ！！」[pcms]
+[ns]Middle-aged man in a polo shirt[nse]
+"Pussy... I can smell the pussy...!!"[pcms]
 
 *11363|
 [fc]
-[ns]大倉[nse]
-「うわぁッ！！！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Uwaaah!!!!!"[pcms]
 
 *11364|
 [fc]
-血走り、黄色く濁った目の男が何人も、開きかけてで[r]
-きた扉の隙間に体をねじ込むようにして、外に出てよ[r]
-うともがく。[pcms]
+Bloodshot, yellowed eyes of several men squeezed through the[r]
+gap of the partially opened door, struggling to get out.[pcms]
 
 [quake_bg 元time=1000 xy m]
 
 *11365|
 [fc]
-俺は扉を閉めようと押し戻すが、内側から複数の人間[r]
-が押してくる力は、１人の力で対抗できるワケもなく、[r]
-俺の体はジリジリと後ろに動いていく。[pcms]
+I tried to push the door closed, but the force of multiple[r]
+people pushing from the inside was too much for one person[r]
+to counter, and my body was slowly pushed back.[pcms]
 
 *11366|
 [fc]
-[ns]タンクトップの青年[nse]
-「はあ゛ぁああ゛ぁ～～～……けつぅう゛ぁあ゛～～[r]
-　……けつ、な゛め゛させてえ゛ぇ～～くれ゛え゛ぇ[r]
-　あ゛ぁ～～～……っ！！」[pcms]
+[ns]Young man in a tank top[nse]
+"Haaaah... my ass... let me lick your ass... pleaseee...!!"[pcms]
 
 *11367|
 [fc]
-[ns]大倉[nse]
-「ユ、ユウ！！　手伝ってくれ！！」[pcms]
+[ns]Ookura[nse]
+"Yu, Yuu!! Help me out!!"[pcms]
 
 *11368|
 [fc]
 [vo_kob s="koba0221"]
-[ns]小林[nse]
-「う、うん！」[pcms]
+[ns]Kobayashi[nse]
+"Y-Yes!"[pcms]
 
 [quake_bg 元time=1000 xy m]
 
 *11369|
 [fc]
-２人で扉を押し返しても、それ以上開かないようにす[r]
-るのが精一杯で、完全に閉めることができない。[pcms]
+Even with two of us pushing back, we could only manage to[r]
+prevent the door from opening further; we couldn't close it[r]
+completely.[pcms]
 
 *11370|
 [fc]
-俺は後ろを振り返り、女の人に向かって叫んだ。[pcms]
+I turned around and shouted towards the women.[pcms]
 
 *11371|
 [fc]
-[ns]大倉[nse]
-「なんかっ……モップでも何でもいいから、持ってき[r]
-　てコイツら押し込んでください！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Bring something... a mop or anything, and help us push them[r]
+back in!!"[pcms]
 
 *11372|
 [fc]
 [vo_anz s="anzai0142"]
-[ns]女[nse]
-「わ、わかったわ！　貴女も手伝って！」[pcms]
+[ns]Female[nse]
+"O-Okay! You help too!"[pcms]
 
 *11373|
 [fc]
-女の人はお嬢様を連れて、もう一つの階段の方へ通路[r]
-を走っていった。[pcms]
+The woman took the young lady and ran down the corridor[r]
+towards another staircase.[pcms]
 
 *11374|
 [fc]
-[ns]Ｔシャツの青年[nse]
-「てめ゛ぇえ゛え～～……ひとりし゛め゛、する゛つ[r]
-　も゛りかあ゛ぁ～～……？　かくしてね゛えて゛、[r]
-　ま゛ん゛こ、よ゛こせよぉお゛おぉ～～～……！！」[pcms]
+[ns]Young man in a T-shirt[nse]
+"You bastard... planning to have her all to yourself...?[r]
+Come on, show me that pussy...!!"[pcms]
 
 *11375|
 [fc]
-[ns]大倉[nse]
-「くっ……！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Damn...!!"[pcms]
 
 [quake_bg 元time=1000 xy m]
 
 *11376|
 [fc]
-押す人数が増えたのか、内側からの圧力が増していく。[pcms]
+The pressure from inside increased as if more people were[r]
+pushing.[pcms]
 
 *11377|
 [fc]
-俺は全身に力を込めて体ごと押しつけるが、扉は閉ま[r]
-るどころか少しずつ開き始めていた。[pcms]
+I put all my strength into my body and pushed against the[r]
+door, but instead of closing, it began to open little by[r]
+little.[pcms]
 
 *11378|
 [fc]
-[ns]Ｙシャツの中年[nse]
-「かわい゛いこた゛ね゛え゛ぇ～～……お゛し゛さん[r]
-　の゛お゛ちんちん゛、なめ゛てくれ゛な゛いかな゛[r]
-　あぁあ～～……へはぁあ゛あ゛ぁ～～～……」[pcms]
+[ns]Middle-aged man in a dress shirt[nse]
+"Such a cute girl... won't you lick my dick... ahaha...[r]
+heheh..."[pcms]
 
 *11379|
 [fc]
 [vo_kob s="koba0222"]
-[ns]小林[nse]
-「うぅ……だめだ、あいちゃうよ……！！」[pcms]
+[ns]Kobayashi[nse]
+"Ugh... no good, it's going to open...!!"[pcms]
 
 *11380|
 [fc]
-[ns]大倉[nse]
-「頼むからもう少し踏ん張ってくれッ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Please hold on just a bit longer!!"[pcms]
 
 [quake_bg 元time=1000 xy m]
 
 *11381|
 [fc]
-そうは言ったけど、俺の頭の中ではもう、この扉が開[r]
-くことを前提にした考えが巡っていた。[pcms]
+Even though I said that, in my mind, I had already assumed[r]
+that the door would open.[pcms]
 
 *11382|
 [fc]
-残り５つのうちのどれかに逃げ込むか……。[r]
-けど、全部にコイツらみたいなのがいたら……？[r]
-屋上はムリだし、下に行くしかねーかな……。[pcms]
+Should we escape into one of the remaining five rooms...?[r]
+But what if they all have guys like these...? The rooftop is[r]
+out of the question, so maybe we have to go down...[pcms]
 
 *11383|
 [fc]
-今まで見てきたなかで、自分らが隠れられそうな場所[r]
-が他になかったか、俺は必死で頭を動かして思いだそ[r]
-うとした。[pcms]
+I desperately racked my brain trying to remember if there[r]
+was any other place we could hide that we had seen so far.[pcms]
 
 *11384|
 [fc]
-[ns]大倉[nse]
-「！？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"!?"[pcms]
 
 ;//SE：打撃音（？）
 [se0 storage="SE20"]
@@ -201,62 +196,65 @@
 
 *11385|
 [fc]
-[ns]ポロシャツの中年[nse]
-「あか゛ぁっ……！！」[pcms]
+[ns]Middle-aged man in a polo shirt[nse]
+"Agghh...!!"[pcms]
 
 *11386|
 [fc]
-もう限界、というところまできた時、一筋の影が俺の[r]
-視界を横切って、隙間から伸ばされた数本の腕の間を[r]
-すり抜け、一番前にいたオッサンの喉仏を押し潰した。[pcms]
+Just when we were at our limit, a shadow darted across my[r]
+field of vision and squeezed through the arms reaching[r]
+through the gap, crushing the throat of the man at the[r]
+front.[pcms]
 
 *11387|
 [fc]
-それと同時に、内側からの圧力がほんの少し、弱まっ[r]
-た気がした。[pcms]
+At the same time, I felt the pressure from inside weaken[r]
+just a bit.[pcms]
 
 *11388|
 [fc]
 [vo_anz s="anzai0143"]
-[ns]女[nse]
-「んっ……！！　ふっ……！！」[pcms]
+[ns]Female[nse]
+"Ngh...!! Hah...!!"[pcms]
 ;//◎竹槍のようにモップで突いている
 
 *11389|
 [fc]
-後ろを振り向くと、手にしたモップを武器に、女の人[r]
-がイカレ野郎を何度も突いて、中に押し戻していた。[pcms]
+Turning around, I saw a woman using a mop as a weapon to[r]
+repeatedly jab at the crazed men and push them back inside.[pcms]
 
 *11390|
 [fc]
-[ns]タンクトップの青年[nse]
-「ふ゛おぇえ゛っ……！！」[pcms]
+[ns]Young man in a tank top[nse]
+"Bleargh...!!"[pcms]
 
 *11391|
 [fc]
-[ns]Ｔシャツの青年[nse]
-「う゛く゛ぉあっ……！！」[pcms]
+[ns]Young man in a T-shirt[nse]
+"Mukuhh...!!"[pcms]
 
 *11392|
 [fc]
-モップの柄に喉を潰されて、イカレ野郎が中に引っ込[r]
-んでいく度に、内側からの圧力が弱まっていく。[pcms]
+With each crazed man being pushed back inside as their[r]
+throats were crushed by the mop handle, the pressure from[r]
+inside lessened.[pcms]
 
 *11393|
 [fc]
-少しずつ、扉が閉まっていくのを感じて、俺は力を振[r]
-り絞って床を踏み込み、体を前に押し出した。[pcms]
+Feeling the door slowly closing, I mustered all my strength,[r]
+stepped firmly on the floor, and pushed forward with my[r]
+body.[pcms]
 
 *11394|
 [fc]
-[ns]大倉[nse]
-「ラアアァァァァッ！！！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"RAAAAAHHHHH!!!!!"[pcms]
 
 *11395|
 [fc]
 [vo_anz s="anzai0144"]
-[ns]女[nse]
-「それ、取っ手に挿して！」[pcms]
+[ns]Female[nse]
+"Put that in the handle!"[pcms]
 
 ;//♪：bgm009 fadeout
 [fadeoutbgm time=1000]
@@ -265,17 +263,16 @@
 
 *11396|
 [fc]
-女の人はお嬢様と一緒に、閉まっていく扉に走り寄っ[r]
-て、持ってきていた３本のモップを、取っ手の裏側に[r]
-かんぬきのように挿し込んだ。[pcms]
+The woman, along with the young lady, ran up to the closing[r]
+door and inserted three mops like bolts behind the handle.[pcms]
 
 ;//SE：扉を叩く音（？）
 [se0 storage="SE22"]
 
 *11397|
 [fc]
-モップの位置を工夫し、簡単には開かないようにした[r]
-ところで、俺はどっと疲れて、床にへたり込んだ。[pcms]
+After arranging the mops so that they wouldn't open easily,[r]
+I collapsed on the floor, exhausted.[pcms]
 
 ;//♪：bgm012
 [bgm storage="bgm012"]
@@ -284,31 +281,31 @@
 
 *11398|
 [fc]
-[ns]大倉[nse]
-「はぁ～～～っ……」[pcms]
+[ns]Ookura[nse]
+"Haaahhh..."[pcms]
 
 [ChrSetEx layer=4 chbase="anza_n05"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *11399|
 [fc]
 [vo_anz s="anzai0145"]
-[ns]女[nse]
-「危ないところだったわね……」[pcms]
+[ns]Female[nse]
+"That was close..."[pcms]
 
 *11400|
 [fc]
-[ns]大倉[nse]
-「イキナリ出てくるとは思わなかった……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"I didn't expect them to come out so suddenly..."[pcms]
 
 *11401|
 [fc]
-見える所に誰もいなかったからって、映画館の中にも[r]
-いないってワケじゃねーよな……。[pcms]
+Just because no one was visible doesn't mean they weren't[r]
+inside the cinema...[pcms]
 
 *11402|
 [fc]
-もっと慎重に動かなきゃダメだ……。[r]
-次もうまく逃げられるとは限らねーからな……。[pcms]
+We need to be more careful... We might not be able to escape[r]
+so easily next time...[pcms]
 
 [chara_int_ layer=4]
 [ChrSetEx layer=2 chbase="anza_n16"][ChrSetXY layer=2 x=0 y=0]
@@ -317,158 +314,156 @@
 *11403|
 [fc]
 [vo_mob s="girl0031"]
-[ns]少女[nse]
-「ぷっ……く、ふっ……くふふっ……」[pcms]
+[ns]Girl[nse]
+"Pfft... heh... hehehe..."[pcms]
 
 *11404|
 [fc]
-それまでボーッと突っ立っているだけだった女の子が、[r]
-笑いをこらえるような声を漏らしながら、苦い顔をし[r]
-ていた俺を見下ろしている。[pcms]
+The girl who had been standing there dazedly started to let[r]
+out a laugh as if she couldn't hold it back anymore, looking[r]
+down at me with a bitter face.[pcms]
 
 [ChrSetEx layer=3 chbase="nanasi_n04"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
 
 *11405|
 [fc]
 [vo_mob s="girl0032"]
-[ns]少女[nse]
-「ふっ、くふ……くくっ……」[pcms]
+[ns]Girl[nse]
+"Heh, hehe... hehehe..."[pcms]
 
 *11406|
 [fc]
-[ns]大倉[nse]
-「……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"..."[pcms]
 
 [chara_int_ layer=2][chara_int_ layer=3][trans_c cross time=150]
 
 *11407|
 [fc]
-クソ……。[r]
-何がおかしいっつーんだよ……。[r]
-笑われるほど、情けねー顔してたか……？[pcms]
+Dammit... What's so funny...? Was my face that pathetic to[r]
+be laughed at...?[pcms]
 
 *11408|
 [fc]
-気絶させられたから、それのお返しかな……。[r]
-それなら、俺のせいだからしょうがねーけど……。[pcms]
+Maybe it's payback for knocking her out earlier... If that's[r]
+the case, it's my fault, so can't be helped...[pcms]
 
 *11409|
 [fc]
-女の子はまだ笑っていて、居心地が悪くなった俺は立[r]
-ち上がって、まだイカレ野郎がいるかどうか確認しに、[r]
-残りの映画館に向かった。[pcms]
+The girl was still laughing, and feeling uncomfortable, I[r]
+stood up to check if there were any more crazies around,[r]
+heading towards the rest of the cinemas.[pcms]
 
 *11410|
 [fc]
-[ns]大倉[nse]
-「……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"..."[pcms]
 
 *11411|
 [fc]
-俺はまず、向かい側の『Ｎｏ．３』と書かれた案内板[r]
-のついてる扉に近づき、誰かが急に開けないように押[r]
-し込んで、耳を澄ました。[pcms]
+I first approached the door with a sign that said "No. 3",[r]
+pushing against it so that no one could suddenly open it,[r]
+and listened carefully.[pcms]
 
 *11412|
 [fc]
-声も足音もしねーな……。[r]
-まぁ、アイツらが口を閉じて、動かないようにしてる[r]
-だけかもしれねーけど……。[pcms]
+There's no sound of voices or footsteps... Well, they might[r]
+just be keeping their mouths shut and not moving...[pcms]
 
 *11413|
 [fc]
-俺は扉の片方を体で押さえながら、もう片方を慎重に、[r]
-ゆっくりと、少しずつ、引いていった。[pcms]
+While pressing one side of the door with my body, I[r]
+cautiously, slowly, and bit by bit, pulled the other side[r]
+open.[pcms]
 
 *11414|
 [fc]
-薄く開いた扉の隙間から中を窺ってみるが、近くに誰[r]
-かがいる気配は無い。[pcms]
+Peeking through the slightly opened door, there's no sign of[r]
+anyone nearby.[pcms]
 
 *11415|
 [fc]
-頭が入るぐらいまで開け、中を覗き込んでみても誰も[r]
-いない。[pcms]
+Even after opening the door wide enough for my head to fit[r]
+through and looking inside, there's no one there.[pcms]
 
 *11416|
 [fc]
-念のため、完全に中に入って見て回ったが、誰もいな[r]
-いし、隠れてる様子も無い。[pcms]
+Just to be sure, I fully entered and looked around, but[r]
+there was no one there and no signs of anyone hiding.[pcms]
 
 *11417|
 [fc]
-[ns]大倉[nse]
-「フーッ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Phew..."[pcms]
 
 *11418|
 [fc]
-ここは使えるな……。[r]
-もう１本モップ持ってきて、中の取っ手に挿しとけば、[r]
-外から急に開けられたりしねーだろ……。[pcms]
+This place is usable... If I bring another mop and stick it[r]
+in the inside handle, it won't be suddenly opened from the[r]
+outside...[pcms]
 
 *11419|
 [fc]
-[ns]大倉[nse]
-「ここ誰もいないから、先に入っててください。俺、[r]
-　あっちの２つ見てきますんで」[pcms]
+[ns]Ookura Hiroshi[nse]
+"There's no one here, so please go ahead and enter. I'll go[r]
+check the other two."[pcms]
 
 [ChrSetEx layer=4 chbase="anza_n05"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *11420|
 [fc]
 [vo_anz s="anzai0146"]
-[ns]女[nse]
-「気をつけてね」[pcms]
+[ns]Female[nse]
+"Be careful."[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *11421|
 [fc]
-女の人にうなずいて返し、『Ｎｏ．２』、『Ｎｏ．５』[r]
-『Ｎｏ．１』、『Ｎｏ．４』と俺は確認して回った。[pcms]
+I nodded back to the woman and checked "No. 2", "No. 5",[r]
+"No. 1", and "No. 4" in turn.[pcms]
 
 *11422|
 [fc]
-どっちの映画館も、扉に近づいただけで低い唸り声が[r]
-聞こえてきて、わざわざ見るまでもなく、中にイカレ[r]
-集団がいるのがわかった。[pcms]
+In both cinemas, just approaching the door was enough to[r]
+hear a low growling sound, and without needing to look, I[r]
+knew that a crazy group was inside.[pcms]
 
 *11423|
 [fc]
-この扉って防音だよな……。[r]
-だから、さっきは開けるまで中にいるのに気がつかな[r]
-かったんだ……。[pcms]
+This door is supposed to be soundproof... That's why I[r]
+didn't realize there were people inside until I opened it[r]
+earlier...[pcms]
 
 *11424|
 [fc]
-防音なのに、近くに来ただけで声が聞こえるって……。[r]
-どんだけいるんだよ、こん中に……。[pcms]
+Even though it's soundproof, I can hear voices just by[r]
+getting close... How many are in there...[pcms]
 
 *11425|
 [fc]
-中にいるイカレ野郎の数を想像して、俺は背筋が寒く[r]
-なり、急いで引き返した。[pcms]
+Imagining the number of crazies inside, I felt a chill down[r]
+my spine and hurried back.[pcms]
 
 *11426|
 [fc]
-[ns]大倉[nse]
-「そうだ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"That's right..."[pcms]
 
 *11427|
 [fc]
-あの力で扉を押してれば、そのうちモップが折れて、[r]
-開いちまうだろう……。[pcms]
+If they keep pushing on the door with that force, eventually[r]
+the mop will break and it'll open...[pcms]
 
 *11428|
 [fc]
-１本取っても変わりゃしねー……。[r]
-開くのがちょっと早くなるだけだ……。[pcms]
+Taking one won't make a difference... It'll just open a[r]
+little sooner...[pcms]
 
 *11429|
 [fc]
-いまだに中から叩いている音がする『Ｎｏ．６』の扉[r]
-から、俺はモップを１本抜き取って、『Ｎｏ．３』の[r]
-中に逃げ込んだ。[pcms]
+From the door of "No. 6", where I could still hear banging[r]
+sounds from inside, I took one mop and fled into "No. 3".[pcms]
 
 ;//[fadeoutbgm time=502]
 ;//[stop_se0]
@@ -480,4 +475,4 @@
 
 [jump storage="westtown_main10320.ks" target=*westtown_main10320_TOP]
 
-;//－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+;//

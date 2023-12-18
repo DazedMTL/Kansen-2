@@ -36,132 +36,132 @@
 *4213|
 [fc]
 [vo_may s="maya0289"]
-[ns]摩耶[nse]
-「や……やぁっ……！」[pcms]
+[ns]Maya[nse]
+"Ah... Ahhh...!"[pcms]
 
 *4214|
 [fc]
-[ns]大倉[nse]
-「！？」[pcms]
+[ns]Ookura[nse]
+"！？"[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
 *4215|
 [fc]
-ユウを助け、アンザイさんに加勢するのに気を取られ[r]
-ているスキに、マヤちゃんが数人のイカレ野郎に、囲[r]
-まれてしまっていた。[pcms]
+While I was distracted helping Yuu and supporting Anzai-san,[r]
+Maya-chan had been surrounded by a group of crazed guys.[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *4216|
 [fc]
-[ns]大倉[nse]
-「寄るんじゃねぇッ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Don't come any closer!!"[pcms]
 
 *4217|
 [fc]
-俺はすぐにマヤちゃんの方へ走り、彼女に手を伸ばし[r]
-かけていた爺さんの頭を後ろから、シャベルで横へ弾[r]
-き飛ばした。[pcms]
+I immediately ran towards Maya-chan and swung my shovel from[r]
+behind at the head of an old man who was reaching out to[r]
+her, knocking him aside.[pcms]
 
 [quake_bg 元time=200 xy m]
 
 *4218|
 [fc]
-[ns]ポロシャツの老人[nse]
-「う゛あ゛っ……」[pcms]
+[ns]Polo Shirt Old Man[nse]
+"Ugh..."[pcms]
 
 *4219|
 [fc]
-[ns]大倉[nse]
-「来るなッ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Stay back!!"[pcms]
 
 [quake_bg 元time=200 xy m]
 
 *4220|
 [fc]
-[ns]背広の中年[nse]
-「ぁか゛ぅっ……」[pcms]
+[ns]Middle-aged man in a suit[nse]
+"Aggh..."[pcms]
 
 *4221|
 [fc]
-左隣のイカレ野郎のアゴを跳ね上げ、シャベルを振り[r]
-上げたまま、回転して向きを変え、右隣にいたヤツの[r]
-脳天へ振り下ろす。[pcms]
+I knocked the jaw of the crazed guy to my left, kept the[r]
+shovel raised as I spun around to change direction, and[r]
+brought it down on the head of the guy to my right.[pcms]
 
 *4222|
 [fc]
-[ns]大倉[nse]
-「ソラァッ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Take that!!"[pcms]
 
 [quake_bg 元time=200 xy m]
 
 *4223|
 [fc]
-[ns]学生服の青年[nse]
-「こ゛ふ゛っ……」[pcms]
+[ns]Young man in a school uniform[nse]
+"Gofuh..."[pcms]
 
 *4224|
 [fc]
 [vo_kob s="koba0351"]
-[ns]小林[nse]
-「それっ！！」[pcms]
+[ns]Kobayashi[nse]
+"That's it!!"[pcms]
 
 [quake_bg 元time=200 xy m]
 
 *4225|
 [fc]
 [vo_anz s="anzai0316"]
-[ns]みき[nse]
-「ふっ……！！」[pcms]
+[ns]Mikki[nse]
+"Hmph...!!"[pcms]
 
 [quake_bg 元time=200 xy m]
 
 *4226|
 [fc]
-制服を着たヤツが床に崩れ落ちたのと同時に、ユウと[r]
-アンザイさんも攻撃に加わって、イカレ野郎は次々と[r]
-床に倒れていった。[pcms]
+As the guy in the uniform collapsed to the floor, Yuu and[r]
+Anzai-san joined the attack, and one by one, the crazed guys[r]
+fell to the ground.[pcms]
 
 *4227|
 [fc]
-[ns]大倉[nse]
-「ダァラァッ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Get outta here!!"[pcms]
 
 [quake_bg 元time=200 xy m]
 
 *4228|
 [fc]
-[ns]Ｙシャツの青年[nse]
-「……ふ゛か゛っ……」[pcms]
+[ns]Young man in a dress shirt[nse]
+"...Fugh..."[pcms]
 
 *4229|
 [fc]
-俺のシャベルで頭を弾き飛ばされた男が、仰向けに倒[r]
-れながら壁に後頭部を強く打ち付けて、ガクンと床に[r]
-崩れ落ちたところで、イカレ野郎の襲撃は止まった。[pcms]
+The man whose head I had knocked with my shovel fell[r]
+backwards, hitting his head hard against the wall before[r]
+collapsing to the floor, and with that, the assault from the[r]
+crazed guys stopped.[pcms]
 
 *4230|
 [fc]
-[ns]大倉[nse]
-「ハァッ……ハァッ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Haah... Haah..."[pcms]
 
 *4231|
 [fc]
-素早く辺りを見回してみたけど、取りあえず、見える[r]
-所にはイカレ野郎の姿は無かった。[pcms]
+I quickly looked around, but for now, there were no more[r]
+crazed guys in sight.[pcms]
 
 *4232|
 [fc]
-[ns]大倉[nse]
-「ハァ……ハァ…………ふーっ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Haah... Haah... Phew..."[pcms]
 
 *4233|
 [fc]
-荒くなった息を落ち着かせていると、今まで気がつか[r]
-なかった、建物の中に流れている曲が俺の耳に飛び込[r]
-んできた。[pcms]
+As I calmed my ragged breathing, I suddenly became aware of[r]
+music playing inside the building that I hadn't noticed[r]
+before.[pcms]
 
 ;//♪：bgm005 stop
 [fadeoutbgm time=1000]
@@ -171,33 +171,33 @@
 
 *4234|
 [fc]
-イカレ野郎を相手にしている間にかかったのか、いつ[r]
-の間にか、閉店を示すようなもの悲しい音楽が、[r]
-建物の中に鳴り渡っていた。[pcms]
+While dealing with the crazed guys, a sad tune that seemed[r]
+to indicate closing time had started playing throughout the[r]
+building.[pcms]
 
 *4235|
 [fc]
-[ns]大倉[nse]
-「コレって、閉店の時にかかる曲じゃねーのか……？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Isn't this the music that plays when it's closing time...?"[pcms]
 
 *4236|
 [fc]
 [vo_anz s="anzai0317"]
-[ns]みき[nse]
-「誰かが装置を動かしたのかしら……」[pcms]
+[ns]Mikki[nse]
+"Maybe someone activated a device..."[pcms]
 
 *4237|
 [fc]
-床に転がったまま動かない、大量のイカレ野郎の上で[r]
-流れる曲を、ポカンと聴いている俺の腕を、[r]
-マヤちゃんの手が揺すった。[pcms]
+As I stood there dumbfounded, listening to the music playing[r]
+over the bodies of the motionless crazed guys, Maya-chan[r]
+shook my arm.[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_n09"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *4238|
 [fc]
 [vo_may s="maya0290"]
-[ns]摩耶[nse]
-「シャッターが……」[pcms]
+[ns]Maya[nse]
+"The shutter is..."[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
@@ -209,19 +209,21 @@
 
 *4239|
 [fc]
-マヤちゃんの視線を追って振り向くと、渡り廊下の入[r]
-り口のシャッターが、半分過ぎまで降りてきていた。[pcms]
+Following Maya-chan's gaze, I turned around to see that the[r]
+shutter at the entrance of the corridor had come down[r]
+halfway.[pcms]
 
 *4240|
 [fc]
-[ns]大倉[nse]
-「！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"！！"[pcms]
 
 *4241|
 [fc]
-俺は慌てて渡り廊下に向かって走り出し、閉まるのを[r]
-防ごうと、床との隙間を目がけてシャベルを投げつけ[r]
-たが、届く前にシャッターは降りきってしまった。[pcms]
+In a panic, I ran towards the corridor and threw my shovel[r]
+at the gap between it and the floor in an attempt to stop it[r]
+from closing, but before it could reach, the shutter had[r]
+already come down completely.[pcms]
 
 [stop_se0]
 ;//SE：シャッター乙
@@ -232,61 +234,61 @@
 
 *4242|
 [fc]
-[ns]大倉[nse]
-「…………ぅああぁぁぁッ！！！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"...Uaaaahhhhh!!!"[pcms]
 
 *4243|
 [fc]
-派手な音を立てて跳ね返ってきたシャベルを拾い、俺[r]
-はシャッターに力任せに叩きつけた。[pcms]
+Picking up my shovel that had bounced back with a loud[r]
+noise, I struck it against the shutter with all my might.[pcms]
 
 ;//[]SE：シャッターを蹴る音
 [se0 storage="SE19"]
 
 *4244|
 [fc]
-ここまで来て、また……。[r]
-速水が待ってんのに……。[pcms]
+We've come this far, and again... Hayami is waiting for[r]
+me...[pcms]
 
 ;//♪：bgm012
 [bgm storage="bgm012"]
 
 *4245|
 [fc]
-渡り廊下にいたヤツらが、向こうのビルに行ってるか[r]
-もしれねーのに……！！[pcms]
+The guys in the corridor might have gone to the other[r]
+building by now...!![pcms]
 
 *4246|
 [fc]
-同じ場所で、同じように絶望させられて、俺は捨て鉢[r]
-になってシャベルを放り投げた。[pcms]
+Filled with despair at being in the same situation again, I[r]
+threw my shovel in resignation.[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_n03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *4247|
 [fc]
 [vo_may s="maya0291"]
-[ns]摩耶[nse]
-「諦めないで……。きっと他の方法があるから……」[pcms]
+[ns]Maya[nse]
+"Don't give up... There must be another way..."[pcms]
 
 *4248|
 [fc]
-その場にヘタり込んだ俺の隣に、マヤちゃんはしゃが[r]
-みこんで、慰めるように言った。[pcms]
+As I slumped down on the spot, Maya-chan crouched beside me[r]
+and said soothingly.[pcms]
 
 *4249|
 [fc]
-“慰めなんかいい。他に方法があるって言うなら、教[r]
-えてくれよ”[pcms]
+"Comfort is nice. If you say there's another way, then tell[r]
+me."[pcms]
 
 *4250|
 [fc]
-そう言って、マヤちゃんに当たろうとする自分を抑え[r]
-つけて、俺はかすれた声で返した。[pcms]
+Holding back my frustration at Maya-chan, I replied with a[r]
+hoarse voice.[pcms]
 
 *4251|
 [fc]
-[ns]大倉[nse]
-「ああ、そうだね……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Yeah, you're right..."[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_n07"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 [wait_c time=500]
@@ -295,18 +297,18 @@
 *4252|
 [fc]
 [vo_may s="maya0292"]
-[ns]摩耶[nse]
-「……」[pcms]
+[ns]Maya[nse]
+"..."[pcms]
 
 *4253|
 [fc]
-そのつもりはなかったけど、投げやりになってしまっ[r]
-た俺の言葉に、マヤちゃんの顔は暗くなった。[pcms]
+Though I didn't mean to sound so defeated, my words made[r]
+Maya-chan's face fall.[pcms]
 
 *4254|
 [fc]
-悪いと思いながらも、俺の中にはフォローする気力は[r]
-沸いてこなかった。[pcms]
+Even though I felt bad about it, I couldn't muster the[r]
+energy to follow up.[pcms]
 
 ;//＠ここから複数
 ;//＠安西左　小林右
@@ -315,20 +317,20 @@
 *4255|
 [fc]
 [vo_anz s="anzai0318"]
-[ns]みき[nse]
-「誰かが動かしたのではなくて、装置の誤作動だった[r]
-　としたら、またひとりでに開くかもしれないわ。[r]
-　しばらく様子を見てみましょう」[pcms]
+[ns]Mikki[nse]
+"If it wasn't someone who moved it but a malfunction of the[r]
+device, it might open on its own again. Let's wait and see[r]
+for a while."[pcms]
 
 *4256|
 [fc]
-[ns]大倉[nse]
-「はい……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Yes..."[pcms]
 
 *4257|
 [fc]
-近づいてきて、肩に手を置いて言うアンザイさんの提[r]
-案に、俺は力無くうなずいた。[pcms]
+Anzai-san approached and put her hand on my shoulder as she[r]
+made her suggestion, and I nodded weakly in agreement.[pcms]
 
 [chara_int_ layer=4]
 [ChrSetEx layer=5 chbase="anza_n17"][ChrSetXY layer=5 x=0 y=0]
@@ -337,85 +339,83 @@
 *4258|
 [fc]
 [vo_kob s="koba0352"]
-[ns]小林[nse]
-「ヒロ～、げんきだしてよ～♪」[pcms]
+[ns]Kobayashi[nse]
+"Hiro~, cheer up~♪"[pcms]
 
 *4259|
 [fc]
-アンザイさんと一緒に近づいてきて、彼女に寄り添う[r]
-ようにして立っているユウは、妙にニコニコしながら[r]
-自分を見下ろしている。[pcms]
+Yuu came close with Anzai-san and stood beside her, looking[r]
+down at me with an oddly cheerful smile.[pcms]
 
 *4260|
 [fc]
-からかっているようなユウのその態度に、俺はイラッ[r]
-ときていた。[pcms]
+Irritated by Yuu's seemingly mocking attitude, I felt[r]
+annoyed.[pcms]
 
 [ChrSetEx layer=3 chbase="koba_n02"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
 *4261|
 [fc]
 [vo_kob s="koba0353"]
-[ns]小林[nse]
-「なーに？」[pcms]
+[ns]Kobayashi[nse]
+"What's wrong?"[pcms]
 
 *4262|
 [fc]
-[ns]大倉[nse]
-「……なに笑ってんだよ。速水を助けられなくなった[r]
-　のが嬉しいのか？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"...What are you laughing at? Are you happy that we can't[r]
+save Hayami?"[pcms]
 
 [ChrSetEx layer=3 chbase="koba_n07"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
 *4263|
 [fc]
 [vo_kob s="koba0354"]
-[ns]小林[nse]
-「え～、ボクそんなこといったぁ？　ぬれぎぬだよー」[pcms]
+[ns]Kobayashi[nse]
+"Eh~, did I say something like that? You're[r]
+misunderstanding."[pcms]
 
 *4264|
 [fc]
-フザケた調子で返してくるユウに、俺は苛つきを抑え[r]
-られなくなって、立ち上がって睨みつけた。[pcms]
+Unable to suppress my irritation with Yuu's flippant[r]
+response, I stood up and glared at her.[pcms]
 
 [ChrSetEx layer=3 chbase="koba_n11"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
 *4265|
 [fc]
 [vo_kob s="koba0355"]
-[ns]小林[nse]
-「ヒロのかお、こわーい！　ボクないちゃうぞ♪」[pcms]
+[ns]Kobayashi[nse]
+"Hiro's face is scary! I'm gonna cry♪"[pcms]
 
 *4266|
 [fc]
-[ns]大倉[nse]
-「いい加減にしろよ、オマエ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Cut it out already, you..."[pcms]
 
 *4267|
 [fc]
-バカにしてるとしか思えない態度に頭にきて、ユウの[r]
-方へ一歩踏み出した俺を、マヤちゃんが腕を掴んで引[r]
-き留めた。[pcms]
+Maya-chan grabbed my arm to stop me as I took a step towards[r]
+Yuu, who I could only think was mocking me.[pcms]
 
 ;//＠左
 [ChrSetEx layer=5 chbase="jinguji_n06"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 *4268|
 [fc]
 [vo_may s="maya0293"]
-[ns]摩耶[nse]
-「仲間割れしても意味無い……」[pcms]
+[ns]Maya[nse]
+"Fighting amongst ourselves is pointless..."[pcms]
 
 [ChrSetEx layer=5 chbase="anza_n07"][ChrSetXY layer=5 x=0 y=0][trans_c cross time=150]
 *4269|
 [fc]
 [vo_anz s="anzai0319"]
-[ns]みき[nse]
-「ユウくんもよしなさい。今はふざけている場合では[r]
-　ないのよ」[pcms]
+[ns]Mikki[nse]
+"Yuu-kun, that's enough. Now is not the time for jokes."[pcms]
 
 [ChrSetEx layer=3 chbase="koba_n08"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
 *4270|
 [fc]
 [vo_kob s="koba0356"]
-[ns]小林[nse]
-「はーい♪」[pcms]
+[ns]Kobayashi[nse]
+"Yes♪"[pcms]
 
 ;消し
 ;[chara_int_ layer=5][chara_int_ layer=3][trans_c cross time=150]
@@ -423,79 +423,78 @@
 
 *4271|
 [fc]
-相変わらずニコニコしながら見つめてくるユウを、俺[r]
-は無言で睨み返す。[pcms]
+I glared back in silence at Yuu, who continued to smile at[r]
+me.[pcms]
 
 *4272|
 [fc]
-なにヘラヘラしてんだよコイツ……。[r]
-速水が心配じゃねーのかよ……！！[r]
-ユウってこんなヤツだったか……！？[pcms]
+What's with that silly grin... Doesn't she care about Hayami[r]
+at all...?! Was Yuu always like this...!?[pcms]
 
 *4273|
 [fc]
-苛つきが収まらないで、しかめっ面で黙り続ける俺に、[r]
-マヤちゃんが声をかけてくる。[pcms]
+As my irritation didn't subside, Maya-chan spoke to me while[r]
+I continued to scowl in silence.[pcms]
 
 [chara_int_ layer=5][chara_int_ layer=3][trans_c cross time=150]
 [ChrSetEx layer=4 chbase="jinguji_f04"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *4274|
 [fc]
 [vo_may s="maya0294"]
-[ns]摩耶[nse]
-「ケータイ、かけてみたら……」[pcms]
+[ns]Maya[nse]
+"Why don't you try calling on your cell phone..."[pcms]
 
 *4275|
 [fc]
-[ns]大倉[nse]
-「ケータイ？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Cell phone?"[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_n02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *4276|
 [fc]
 [vo_may s="maya0295"]
-[ns]摩耶[nse]
-「無事なのがわかれば、少し落ち着くんじゃない……」[pcms]
+[ns]Maya[nse]
+"If we know she's safe, it might calm us down a bit..."[pcms]
 
 *4277|
 [fc]
-[ns]大倉[nse]
-「……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"..."[pcms]
 
 *4278|
 [fc]
-無事なのがわかったって、助けられねーんじゃな……。[r]
-話してる余裕があるかもわかんねーし……。[pcms]
+Even if we know she's safe, it doesn't mean we can rescue[r]
+her... And we don't even know if she has the chance to[r]
+talk...[pcms]
 
 *4279|
 [fc]
-アイツが安全なトコにいるなら、話は別だけどな……。[r]
-向こうのビルに行くための、違う方法を考える時間も[r]
-できるし……。[pcms]
+If she's in a safe place, that's a different story... We[r]
+could also find time to think of another way to get to the[r]
+other building...[pcms]
 
 *4280|
 [fc]
-そうか……。[r]
-そのためにも、速水が無事なのかどうか、確認しとい[r]
-た方がいいな……。[pcms]
+Right... For that reason, we should check if Hayami is[r]
+safe...[pcms]
 
 *4281|
 [fc]
-[ns]大倉[nse]
-「……ゴメンね」[pcms]
+[ns]Ookura Hiroshi[nse]
+"...Sorry."[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_n04"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *4282|
 [fc]
 [vo_may s="maya0296"]
-[ns]摩耶[nse]
-「……？」[pcms]
+[ns]Maya[nse]
+"...?"[pcms]
 
 *4283|
 [fc]
-キョトンとするマヤちゃんに笑ってみせて、ポケット[r]
-に手を突っ込んでみたが、あるはずのケータイがそこ[r]
-には無かった。[pcms]
+Maya-chan looked puzzled as I tried to smile and reached[r]
+into my pocket, only to find that my cell phone wasn't[r]
+there.[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_f03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 [wait_c time=500]
@@ -503,43 +502,43 @@
 
 *4284|
 [fc]
-[ns]大倉[nse]
-「あれ……？」[pcms]
+[ns]Ookura[nse]
+"Huh...?"[pcms]
 
 *4285|
 [fc]
-反対側、ケツ、Ｙシャツと、ポケットを全部探ってみ[r]
-ても、俺のケータイはどこにも入ってない。[pcms]
+I searched all my pocketsopposite side, ass, Y-shirtbut my[r]
+cell phone was nowhere to be found.[pcms]
 
 *4286|
 [fc]
-イカレ野郎を倒してる間に、どっかに落っことしたの[r]
-か……？[pcms]
+Did I drop it somewhere while we were taking down that crazy[r]
+guy...?[pcms]
 
 *4287|
 [fc]
-俺は自分のケータイが落ちていないか、辺りの床の上[r]
-を見回した。[pcms]
+I looked around on the floor to see if my cell phone had[r]
+fallen anywhere nearby.[pcms]
 
 *4288|
 [fc]
-[ns]大倉[nse]
-「あった！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Found it!"[pcms]
 
 *4289|
 [fc]
-少し離れた所の、床にグッタリと倒れているイカレ野[r]
-郎の傍に、俺のケータイは落ちていた。[pcms]
+My cell phone was lying on the floor near the crazy guy who[r]
+was sprawled out.[pcms]
 
 *4290|
 [fc]
-そこまで行ってケータイを拾い、壊れてないか操作し[r]
-てみる。[pcms]
+I went over to pick up the cell phone and checked if it was[r]
+broken by operating it.[pcms]
 
 *4291|
 [fc]
-[ns]大倉[nse]
-「大丈夫……ぅわッ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"It's fine... Whoa!!"[pcms]
 
 [se0 storage="se20"]
 
@@ -553,20 +552,20 @@
 
 *4292|
 [fc]
-突然、誰かに後ろから突き飛ばされ、俺は倒れている[r]
-イカレ野郎につまずき、ハデにスッ転んだ。[pcms]
+Suddenly pushed from behind, I stumbled over the fallen[r]
+crazy guy and took a spectacular tumble.[pcms]
 
 [白フラ]
 
 *4293|
 [fc]
-[ns]大倉[nse]
-「イッテェ……！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Ouch...!!"[pcms]
 
 *4294|
 [fc]
-さっきまで立っていた所に目を向けると、マヤちゃん[r]
-が床にうつ伏せに倒れていた。[pcms]
+When I looked back at where I had been standing, Maya-chan[r]
+was lying face down on the floor.[pcms]
 
 
 ;mm 追加
@@ -574,56 +573,54 @@
 
 *4295|
 [fc]
-さらに、さっき自分が倒したはずのイカレ野郎が、ま[r]
-だ起き上がれないでいるマヤちゃんを襲おうと、迫っ[r]
-てきていた。[pcms]
+Furthermore, the crazy guy I thought I had taken down was[r]
+approaching Maya-chan, who was still unable to get up.[pcms]
 
 *4296|
 [fc]
-アイツ、いつの間に近づいてたんだ……。[r]
-それに気づいてないから、マヤちゃんが……。[pcms]
+When did he get so close...? And because I didn't notice,[r]
+Maya-chan...[pcms]
 
 *4297|
 [fc]
-[ns]大倉[nse]
-「クソが……ッ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Damn it...!!"[pcms]
 
 *4298|
 [fc]
-俺は飛び起きて走り、その勢いを乗せた蹴りをイカレ[r]
-野郎の腹に食らわせた。[pcms]
+I jumped up and ran, delivering a kick with all my momentum[r]
+into the stomach of the crazy guy.[pcms]
 
 *4299|
 [fc]
-[ns]大倉[nse]
-「この野郎ッ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"You bastard!!"[pcms]
 
 [quake_bg 元time=200 xy m]
 
 *4300|
 [fc]
 ;mm 立ちに合わせてネーム変更
-;[ns]タンクトップの中年[nse]
-[ns]背広の中年[nse]
-「んく゛ふっ……」[pcms]
+[ns]Middle-aged man in a tank top[nse]
+[ns]Middle-aged man in a suit[nse]
+"Nghff..."[pcms]
 
 *4301|
 [fc]
-傍にあった棚に背中をぶつけ、横向きに床にずり落ち[r]
-ていくソイツに走り寄って、俺はアゴにつま先を叩き[r]
-込んだ。[pcms]
+The guy hit a shelf with his back and slid down onto the[r]
+floor sideways. I ran over and drove my toe into his chin.[pcms]
 
 *4302|
 [fc]
-[ns]大倉[nse]
-「寝てろボケッ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Stay down, idiot!!"[pcms]
 
 [quake_bg 元time=200 xy m]
 
 *4303|
 [fc]
-[ns]背広の中年[nse]
-「ぅふ゛く゛っ……」[pcms]
+[ns]Middle-aged man in a suit[nse]
+"Ughk..."[pcms]
 
 ;//[]SE：倒れる音（？）
 [se0 storage="SE23"]
@@ -631,55 +628,55 @@
 
 *4304|
 [fc]
-蹴り方が良かったのか、イカレ野郎の体から完全に力[r]
-が抜け、男はうつ伏せに床に転がった。[pcms]
+The kick must have been good because the crazy guy's body[r]
+went limp, and he rolled onto his stomach on the floor.[pcms]
 
 *4305|
 [fc]
-素早く周りを見回し、他にイカレ野郎が近寄ってきて[r]
-ないか探ると、今まで床に伸びていたヤツの何人かが、[r]
-起き上がろうと体を蠢かせていた。[pcms]
+I quickly looked around to see if any other crazies were[r]
+approaching. Some of those who had been lying on the floor[r]
+were starting to squirm, trying to get up.[pcms]
 
 *4306|
 [fc]
-アイツ、思いっきりシャベルで頭ブン殴ったのに……。[r]
-殺すまでやんなきゃ、コイツら止めらんねーのか……？[pcms]
+I hit him hard on the head with a shovel... Do we have to[r]
+kill them to stop them...?[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_n08"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *4307|
 [fc]
 [vo_may s="maya0297"]
-[ns]摩耶[nse]
-「どうするの……」[pcms]
+[ns]Maya[nse]
+"What do we do now...?"[pcms]
 
 *4308|
 [fc]
-俺の傍にやって来て、今にも立ち上がろうとしている[r]
-イカレ野郎を、マヤちゃんは不安げに見ている。[pcms]
+Maya-chan came over to me, looking anxiously at the crazy[r]
+guy who was about to stand up.[pcms]
 
 *4309|
 [fc]
-[ns]大倉[nse]
-「映画館……取りあえず、映画館に！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"To the cinema... For now, let's head to the cinema!"[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *4310|
 [fc]
-アンザイさんとユウにも聞こえるように言って、俺は[r]
-投げ捨てたシャベルを拾いに走った。[pcms]
+I shouted loud enough for Anzai-san and Yuu to hear and ran[r]
+to pick up the shovel I had thrown away.[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_f01"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *4311|
 [fc]
-[ns]大倉[nse]
-「ゴメン、行こう！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Sorry, let's go!!"[pcms]
 
 *4312|
 [fc]
-待っていてくれたマヤちゃんと一緒に、俺は先を行く[r]
-アンザイさんとユウを追って走った。[pcms]
+Together with Maya-chan, who had waited for me, I chased[r]
+after Anzai-san and Yuu who were ahead of us.[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
@@ -687,4 +684,4 @@
 
 [jump storage="jingujiroute12010.ks" target=*jingujiroute12010_TOP]
 
-;//－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+;//

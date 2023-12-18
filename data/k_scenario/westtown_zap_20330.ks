@@ -28,91 +28,89 @@
 
 *15335|
 [fc]
-身を隠すことが出来て、比較的安全な場所。[pcms]
+A place where one can hide and is relatively safe.[pcms]
 
 *15336|
 [fc]
-それは、あたしが何度か恥ずかしい目にあった場所[r]
-でもある、トイレの個室。[pcms]
+It's the toilet stall, a place where I've had some[r]
+embarrassing experiences before.[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
 *15337|
 [fc]
 [vo_hay s="hayami0604"]
-[ns]ありす[nse]
-「怖いよ……ヒロシ……」[pcms]
+[ns]Alice[nse]
+"I'm scared... Hiroshi..."[pcms]
 
 *15338|
 [fc]
-あのテレビで言っていた事が、全部本当なら……。[r]
-あたしも、もうあのヘンな人達と同じ……。[pcms]
+If everything that was said on TV is true... then I might[r]
+become like those weird people too...[pcms]
 
 *15339|
 [fc]
-でも、まだ自分が何かのウイルスに冒されている[r]
-感じは、なかった。[pcms]
+But I didn't feel like I was infected with any virus yet.[pcms]
 
 *15340|
 [fc]
-そう思いたかった。[pcms]
+I wanted to believe that.[pcms]
 
 *15341|
 [fc]
-なにより、熱が出ているような感じもない。[pcms]
+Most of all, I didn't feel like I had a fever.[pcms]
 
 *15342|
 [fc]
 [vo_hay s="hayami0605"]
-[ns]ありす[nse]
-「でも……どうして……。[r]
-　どうしてこんな事になっちゃったんだろう……」[pcms]
+[ns]Alice[nse]
+"But... why... Why did this happen..."[pcms]
 
 *15343|
 [fc]
-バスに乗ってから、急に爆発みたいなのがおきて、[r]
-地震が来て……。[pcms]
+After getting on the bus, there was a sudden explosion, and[r]
+then an earthquake...[pcms]
 
 *15344|
 [fc]
-……分からない……。[pcms]
+...I don't understand...[pcms]
 
 *15345|
 [fc]
-でも、あれがきっかけだった。[r]
-そうとしか思えない。[pcms]
+But that must have been the trigger. I can't think of[r]
+anything else.[pcms]
 
 *15346|
 [fc]
-あのあと、急にヘンな人達が溢れかえって、[r]
-みんな、おかしくなった。[pcms]
+After that, strange people started swarming everywhere, and[r]
+everyone went crazy.[pcms]
 
 *15347|
 [fc]
-あたし達以外は、みんな……。[pcms]
+Everyone except us...[pcms]
 
 *15348|
 [fc]
-じゃあ、なんであたし達は大丈夫だったんだろう……。[r]
-それに、クラスメイトのみんなは……！？[pcms]
+Then why are we okay... And what about all our[r]
+classmates...!?[pcms]
 
 *15349|
 [fc]
-ホント、訳が分からない。[pcms]
+Really, it makes no sense.[pcms]
 
 *15350|
 [fc]
-考えはまるで纏まらなかった。[pcms]
+My thoughts were completely scattered.[pcms]
 
 *15351|
 [fc]
-あたし達がなぜ、こんな事に巻き込まれたのかも、[r]
-どうやってヒロシに顔を合わせようか、と言うことも。[pcms]
+I couldn't figure out why we were involved in this, or how I[r]
+should face Hiroshi.[pcms]
 
 *15352|
 [fc]
-こんがらがった頭を何とかしようと悩んでいると、[r]
-突然、トイレに誰かが入ってくる音が聞こえた。[pcms]
+As I was trying to sort out my tangled thoughts, suddenly I[r]
+heard someone entering the bathroom.[pcms]
 
 ;//♪：bgm012 stop
 [fadeoutbgm time=1][wb]
@@ -122,16 +120,15 @@
 *15353|
 [fc]
 [vo_hay s="hayami0606"]
-[ns]ありす[nse]
-「……！！」[pcms]
+[ns]Alice[nse]
+"...!!"[pcms]
 
 *15354|
 [fc]
 [vo_nag s="nagasaki0290"]
-[ns]千尋[nse]
-「ありすさん……？　どこ……に、いる……？[r]
-　あたしを、ひとりにしないで……、[r]
-　このまちをあんないしてあげるから……」[pcms]
+[ns]Chihiro[nse]
+"Arisu-san...? Where... are you...? Don't leave me alone...[r]
+I'll guide you through this town..."[pcms]
 
 ;//SE:トイレの扉をノックする
 
@@ -139,7 +136,7 @@
 
 *15355|
 [fc]
-長崎さんが、追いかけてきた……。[pcms]
+Nagasaki-san followed me here...[pcms]
 
 ;//SE:トイレの扉をノックする
 
@@ -148,8 +145,8 @@
 *15356|
 [fc]
 [vo_nag s="nagasaki0291"]
-[ns]千尋[nse]
-「ありすさん～……ありすさん～……」[pcms]
+[ns]Chihiro[nse]
+"Arisu-san~... Arisu-san~..."[pcms]
 
 ;//SE:ガラガラ
 
@@ -157,20 +154,18 @@
 
 *15357|
 [fc]
-長崎さんは色々な所に体をぶつけながらも、[r]
-あたしを探し続けている。[pcms]
+Despite bumping into various things, Nagasaki-san kept[r]
+searching for me.[pcms]
 
 *15358|
 [fc]
-でも、さすがにこのまま静かにしていれば、[r]
-気づかれる事も無い。[pcms]
+But if I stay quiet like this, she won't notice me.[pcms]
 
 *15359|
 [fc]
 [vo_nag s="nagasaki0292"]
-[ns]千尋[nse]
-「ありすさん……でてきて……。[r]
-　あたしをひとりにしないで……」[pcms]
+[ns]Chihiro[nse]
+"Arisu-san... come out... Don't leave me alone..."[pcms]
 
 ;//SE:扉を叩く
 
@@ -179,8 +174,8 @@
 *15360|
 [fc]
 [vo_hay s="hayami0607"]
-[ns]ありす[nse]
-「ひっ……」[pcms]
+[ns]Arisu[nse]
+"Hik...!"[pcms]
 
 ;//SE:かたっ
 
@@ -188,26 +183,24 @@
 
 *15361|
 [fc]
-長崎さんは、あたしの隠れている個室の扉を、[r]
-勢いよく叩いた。[pcms]
+Nagasaki-san banged on the door of the stall where I was[r]
+hiding with great force.[pcms]
 
 *15362|
 [fc]
-その音に驚いたあたしは、思わずのけぞり、[r]
-貯水タンクに、背中をぶつけてしまった。[pcms]
+Startled by the noise, I inadvertently jerked back and hit[r]
+my back against the water tank.[pcms]
 
 *15363|
 [fc]
-その音で、長崎さんはあたしがここに隠れている事に[r]
-気がついてしまったようだった。[pcms]
+The sound made Nagasaki-san realize that I was hiding here.[pcms]
 
 *15364|
 [fc]
 [vo_nag s="nagasaki0293"]
-[ns]千尋[nse]
-「ありすさんね……あなた、そこに……いるのね……[r]
-　でてきて……ねぇ………あたしを、[r]
-　ひとりにしないで……おねがい……」[pcms]
+[ns]Chihiro[nse]
+"You're there, Arisu-san... You're in there, aren't you...[r]
+Come out... please... don't leave me alone..."[pcms]
 ;//◎泣き声
 
 ;//SE:扉を叩く
@@ -216,21 +209,20 @@
 
 *15365|
 [fc]
-長崎さんが叩く扉は、大きく揺れる。[r]
-このままでは、破られるのは時間の問題。[pcms]
+The door that Nagasaki-san was pounding on shook violently.[r]
+It was only a matter of time before it would break.[pcms]
 
 *15366|
 [fc]
-どうしよう……。[r]
-怖いよ……。[pcms]
+What should I do...? I'm scared...[pcms]
 
 *15367|
 [fc]
-ヒロシ……。[pcms]
+Hiroshi...[pcms]
 
 *15368|
 [fc]
-助けて……。[pcms]
+Save me...[pcms]
 
 ;//♪：bgm011 fadeout
 [fadeoutbgm time=1000]

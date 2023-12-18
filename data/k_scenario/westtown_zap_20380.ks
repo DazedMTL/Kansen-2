@@ -25,46 +25,46 @@
 *15658|
 [fc]
 [vo_anz s="anzai0307"]
-[ns]みき[nse]
-「かつや゛……と゛こ……？」[pcms]
+[ns]Mikki[nse]
+"Katsuya... where...?"[pcms]
 
 *15659|
 [fc]
-目が覚めた時から、なぜか正常に動かなくなっている[r]
-足を引きずりながら、エスカレーターで３階へ下りて[r]
-いく。[pcms]
+Ever since I woke up, for some reason, my legs won't move[r]
+properly. Dragging my feet, I go down to the third floor on[r]
+the escalator.[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
 *15660|
 [fc]
-大きくなっていく、何匹もの犬の吠え声に、さっき[r]
-聞こえたのと同じ女のものらしい、くぐもった悲鳴が[r]
-混じる。[pcms]
+The barking of several dogs grows louder, and a muffled[r]
+scream, seemingly from a woman, similar to the one I heard[r]
+earlier, mixes in.[pcms]
 
 *15661|
 [fc]
 [vo_may s="maya0184"]
 [ns]？？？[nse]
-「んんぅっ！！　んうぅぅうっ！！」[pcms]
+"Nnnh!! Nnghhh!!"[pcms]
 
 *15662|
 [fc]
 [vo_anz s="anzai0308"]
-[ns]みき[nse]
-「かつや゛……かつや゛、な゛の゛……？」[pcms]
+[ns]Mikki[nse]
+"Katsuya... Katsuya, what's...?"[pcms]
 
 *15663|
 [fc]
 [vo_may s="maya0185"]
 [ns]？？？[nse]
-「んーーっ！！　んぶっ、んぐうぅぅうっ！！！」[pcms]
+"Nn--!! Nmbu, nnguuu!!!"[pcms]
 
 *15664|
 [fc]
-声の出所を探して周りを見回すと、長い通路の奥、[r]
-吹き抜けに近い所に人だかりを見つけて、私は克也の[r]
-姿を捜し、そこへ近づいていった。[pcms]
+As I look around for the source of the voice, I find a crowd[r]
+of people at the end of a long corridor, near an atrium. I[r]
+search for Katsuya among them and approach the area.[pcms]
 
 ;//♪：bgm012 stop
 [fadeoutbgm time=1][wb]
@@ -93,259 +93,244 @@
 
 *15665|
 [fc]
-[ns]シベリアンハスキー[nse]
-「ハッ！　ハッ！　ハッ！　ハッ！　ハッ！　ハッ！」[pcms]
+[ns]Siberian Husky[nse]
+"Huff! Huff! Huff! Huff! Huff! Huff!"[pcms]
 
 *15666|
 [fc]
-[ns]眼鏡の青年[nse]
-「てぇゆる゛め゛んなぁ～～……も゛っとしっかり゛[r]
-　にき゛れ゛よお゛ぉ～～～……！！」[pcms]
+[ns]Glasses-wearing Young Man[nse]
+"Don't resist me... hold on tighter and stroke it[r]
+properly...!!"[pcms]
 
 *15667|
 [fc]
 [vo_may s="mayab0001"]
-[ns]見覚えのある少女[nse]
-「んぶぅっ！！　んぐ、げはっ……！！　やぁっ！！」[pcms]
+[ns]A familiar-looking girl[nse]
+"Nmbuu!! Ngu, geha...!! Yaa!!"[pcms]
 
 *15668|
 [fc]
 [vo_kob s="kobab0001"]
-[ns]小柄な男[nse]
-「た゛めた゛よぉ～～……ちゃん゛とくわ゛え゛て[r]
-　な゛きゃあ゛ぁ～～～……♪」[pcms]
+[ns]Small-statured man[nse]
+"You can't do that... you need to bite down and cry[r]
+properly...♪"[pcms]
 
 *15669|
 [fc]
 [vo_may s="mayab0002"]
-[ns]見覚えのある少女[nse]
-「や、は……ぉぐうぅっ！！　んぼっ、ぐちゅっ！！[r]
-　ぢゅぐぅっ！！」[pcms]
+[ns]A familiar-looking girl[nse]
+"Ya, ha... oguuu!! Nbo, guchu!! Jyuguu!!"[pcms]
 
 *15670|
 [fc]
-人だかりの中心では、どこかで見た気がする女の子が、[r]
-やはりどこかで見た気がする男の子と、眼鏡をかけた[r]
-青年、さらに犬にまで犯され、声を上げていた。[pcms]
+In the center of the crowd, a girl who seems familiar is[r]
+being violated by a boy who also seems familiar, a young man[r]
+with glasses, and even a dog, all raising their voices.[pcms]
 
 *15671|
 [fc]
-女の子を犯している男２人は、どちらも克也ではなく、[r]
-周りを取り囲む人間の中にも、彼の姿は無かった。[pcms]
+The two men violating the girl are neither Katsuya, and[r]
+among the surrounding crowd, there is no sign of him either.[pcms]
 
 *15672|
 [fc]
-克也のいないこの場に、これ以上いる必要は無かった[r]
-が、私の目は、男と犬に犯される女の子に釘付けに[r]
-なってしまって、そのまま見下ろし続けた。[pcms]
+There was no need for me to stay in this place without[r]
+Katsuya, but my eyes were fixed on the girl being violated[r]
+by the men and the dog, and I continued to look down at[r]
+them.[pcms]
 
 *15673|
 [fc]
-[ns]眼鏡の青年[nse]
-「ほら゛あ゛ぁ～～～も゛っと、ちゃん゛としこ゛け[r]
-　よお゛ぉ～～～……！！　こう゛や゛ってぇ～～[r]
-　ほら゛あ゛ぁ～～～……っ！！」[pcms]
+[ns]Young man with glasses[nse]
+"Look at that... stroke it properly like this... here you[r]
+go...!!"[pcms]
 
 *15674|
 [fc]
 [vo_may s="mayab0003"]
-[ns]見覚えのある少女[nse]
-「んうぅっ！！　んんぅっ、ん、っぐ……ぶはっ！！」[pcms]
+[ns]A familiar-looking girl[nse]
+"Nnuu!! Nnnu, nng... buha!!"[pcms]
 
 *15675|
 [fc]
 [vo_kob s="kobab0002"]
-[ns]小柄な男[nse]
-「た゛め゛た゛よぉ～～はきた゛しちゃぁ～～……[r]
-　ほ゛くの゛ちん゛ちんも゛、ちゃんとしゃふ゛って[r]
-　くれ゛な゛きゃた゛めえ゛ぇ～～～……♪」[pcms]
+[ns]Small-statured man[nse]
+"That's no good... you have to suck my cock properly or it's[r]
+no good...♪"[pcms]
 
 *15676|
 [fc]
 [vo_may s="mayab0004"]
-[ns]見覚えのある少女[nse]
-「んぐぉっ！！　ぶぢゅっ、ぢゅっ、ぢゅくっ、[r]
-　ぐちゅうぅっ！！」[pcms]
+[ns]A familiar-looking girl[nse]
+"Nguoo!! Bujyu, jyu, jyuku, guchuuu!!"[pcms]
 
 *15677|
 [fc]
-眼鏡の青年は女の子の手を持ち、無理矢理、自分の[r]
-おちんちんを扱かせ、小柄な男は彼女の口の中を、[r]
-乱暴に犯している。[pcms]
+The young man with glasses forcibly makes the girl stroke[r]
+his cock while the small-statured man violently violates her[r]
+mouth.[pcms]
 
 *15678|
 [fc]
-私は自分が克也に同じ事をされるのを想像して、おま[r]
-んこが濡れてくるのを感じていた。[pcms]
+I imagine myself being done by Katsuya in the same way, and[r]
+I can feel my pussy getting wet.[pcms]
 
 *15679|
 [fc]
-どこなの、かつや……。[r]
-はやくきて、わたしをおかして……。[r]
-かつやのおちんちんで、おまんこをいかせて……。[pcms]
+Where are you, Katsuya... Hurry up and come violate me...[r]
+Make my pussy cum with your cock...[pcms]
 
 *15680|
 [fc]
 [vo_may s="mayab0005"]
-[ns]見覚えのある少女[nse]
-「んぶちゅっ、ぐぼっ！！　ぢゅぶっ、ぢゅぐぅっ！！[r]
-　んぐっ、んぐぉおっ！！」[pcms]
+[ns]A familiar-looking girl[nse]
+"Nmbuchu, gobo!! Jyubu, jyuguu!! Nga, nguoo!!"[pcms]
 
 *15681|
 [fc]
-[ns]シベリアンハスキー[nse]
-「ハッ！　ハッ！　ハッ！　ハッ！　ハッ！　ハッ！」[pcms]
+[ns]Siberian Husky[nse]
+"Huff! Huff! Huff! Huff! Huff! Huff!"[pcms]
 
 *15682|
 [fc]
 [vo_may s="mayab0006"]
-[ns]見覚えのある少女[nse]
-「んんーーーっ！！　んぅっ！！　ぐちゅっ、ぢゅぶ、[r]
-　んっ、ぐちゅっ！！　んぉぐっ！！」[pcms]
+[ns]A familiar-looking girl[nse]
+"Nnn---!! Nuu!! Guchu, jyubu, nng, guchu!! Noguu!!"[pcms]
 
 *15683|
 [fc]
-足の間で激しく腰を振り続ける犬に、荒く息を吐きか[r]
-けられて、女の子は嫌がり、逃げようともがいている。[pcms]
+The girl breathes roughly as the dog continues to thrust[r]
+vigorously between her legs, trying to escape and struggling[r]
+in disgust.[pcms]
 
 *15684|
 [fc]
-けれど、彼女にできたのは、膝から先をばたつかせる[r]
-ぐらいで、男と犬のおちんちんから逃れることはでき[r]
-なかった。[pcms]
+However, all she could do was flail her legs from the knees[r]
+down; she couldn't escape from the cocks of the man and the[r]
+dog.[pcms]
 
 *15685|
 [fc]
-[ns]眼鏡の青年[nse]
-「てぇはな゛すんし゛ゃね゛ぇよ゛ぉ～～…っ！！[r]
-　ちゃん゛としこ゛けえ゛ぇ～～～……っ！！」[pcms]
+[ns]Young man with glasses[nse]
+"Don't let go... stroke it properly...!!"[pcms]
 
 *15686|
 [fc]
-[ns]シベリアンハスキー[nse]
-「ハッ！　ハッ！　ハッ！　ハッ！　ハッ！　ハッ！」[pcms]
+[ns]Siberian Husky[nse]
+"Huff! Huff! Huff! Huff! Huff! Huff!"[pcms]
 
 *15687|
 [fc]
 [vo_may s="mayab0007"]
-[ns]見覚えのある少女[nse]
-「んんぅっ！！　んっ、ぐぶっ、ぢゅぐぅっ！！[r]
-　んぐぅっ！！　ぢゅぷぐっ、ぐぼおぉっ！！」[pcms]
+[ns]A familiar-looking girl[nse]
+"Nnnh!! Nng, gubu, jyuguu!! Nguu!! Jyupugu, guboo!!"[pcms]
 
 *15688|
 [fc]
 [vo_kob s="kobab0003"]
-[ns]小柄な男[nse]
-「な゛んた゛ぁ～～……きみ゛ってぇ、たた゛の゛[r]
-　かちくた゛ったんた゛ね゛ぇ～～……♪」[pcms]
+[ns]Small-statured man[nse]
+"What's this... you're just a mere masochist...♪"[pcms]
 
 *15689|
 [fc]
-自分のおちんちんで女の子の口を犯しながら、小柄な[r]
-男は顔に浮かべていた薄笑いを、いやらしく歪ませた。[pcms]
+While violating the girl's mouth with his cock, the small-[r]
+statured man twisted his smirk into a lewd grin.[pcms]
 
 *15690|
 [fc]
-[ns]シベリアンハスキー[nse]
-「ハッ！　ハッ！　ハッ！　ハッ！　ハッ！　ハッ！」[pcms]
+[ns]Siberian Husky[nse]
+"Huff! Huff! Huff! Huff! Huff! Huff!"[pcms]
 
 *15691|
 [fc]
 [vo_may s="mayab0008"]
-[ns]見覚えのある少女[nse]
-「ぢゅっ、ぢゅぐぅっ！！　んっ、ぢゅ、ぢゅぶっ！！[r]
-　ぐぅ、ぐぢゅぶっ！！」[pcms]
+[ns]A familiar-looking girl[nse]
+"Jyu, jyuguu!! Nng, jyu, jyubu!! Guu, gujyubu!!"[pcms]
 
 *15692|
 [fc]
 [vo_kob s="kobab0004"]
-[ns]小柄な男[nse]
-「い゛ぬとせっくす、する゛な゛んてぇ～～……[r]
-　おし゛ょうさま゛た゛と、お゛も゛ってたんた゛け[r]
-　と゛な゛ぁ～～……♪」[pcms]
+[ns]Small-statured man[nse]
+"Having sex with a dog... you thought you were a lady,[r]
+didn't you...♪"[pcms]
 
 *15693|
 [fc]
 [vo_may s="mayab0009"]
-[ns]見覚えのある少女[nse]
-「んんっ！！　んぶうぅっ！！　っぐ、んぐっ……[r]
-　んううぅぅっ！！」[pcms]
+[ns]A familiar-looking girl[nse]
+"Nnnh!! Nbuuu!! Ngu, nng... nuuuu!!"[pcms]
 
 *15694|
 [fc]
-口の中を犯されながら、女の子は小柄な男が言う事を[r]
-否定するように、首を何度も、小さく横に振っている。[pcms]
+While her mouth is being violated, the girl shakes her head[r]
+in small sideways motions as if denying what the small-[r]
+statured man says.[pcms]
 
 *15695|
 [fc]
-彼女のその様子を見て、小柄な男は、いやらしい笑み[r]
-をさらに醜く、歪にした。[pcms]
+Seeing her reaction, the small-statured man twisted his lewd[r]
+smile even more grotesquely.[pcms]
 
 *15696|
 [fc]
 [vo_kob s="kobab0005"]
-[ns]小柄な男[nse]
-「こんな゛かちくか゛、かわ゛いい゛な゛んて……[r]
-　くすくす……♪　ひろ゛しって、ほんとは゛かた゛[r]
-　なあ゛ぁ～～～……♪」[pcms]
+[ns]Small-statured man[nse]
+"Such a masochist being so cute... Hiroshi really has no[r]
+idea...♪"[pcms]
 
 *15697|
 [fc]
 [vo_may s="mayab0010"]
-[ns]見覚えのある少女[nse]
-「ぢゅぐっ、んぢゅっ！！　……んぅ、んぐっ……[r]
-　ふーっ……ふーっ……」[pcms]
+[ns]A familiar-looking girl[nse]
+"Jyugu, njyu!! ...nuu, nngu... fuu... fuu..."[pcms]
 
 *15698|
 [fc]
-[ns]眼鏡の青年[nse]
-「ふはあ゛ぁあ゛～～～い゛ぃい～～～……っ！！[r]
-　ちい゛さいてて゛しこ゛かれ゛る゛の゛ぉ、そ゛く[r]
-　そ゛くする゛う゛ぅ～～～……っ！！」[pcms]
+[ns]Young man with glasses[nse]
+"Fuaaaaahhhhhiiiiii...!! Being stroked by such small hands[r]
+makes me feel so good...!!"[pcms]
 
 *15699|
 [fc]
-[ns]シベリアンハスキー[nse]
-「ハッ！　ハッ！　ハッ！　ハッ！　ハッ！　ハッ！」[pcms]
+[ns]Siberian Husky[nse]
+"Huff! Huff! Huff! Huff! Huff! Huff!"[pcms]
 
 *15700|
 [fc]
 [vo_kob s="kobab0006"]
-[ns]小柄な男[nse]
-「くすくす……♪　い゛きたそう゛た゛よ、この゛[r]
-　いぬ゛ぅ～～……♪」[pcms]
+[ns]Small-statured man[nse]
+"Kukuku...♪ This dog seems to be enjoying it too...♪"[pcms]
 
 *15701|
 [fc]
 [vo_kob s="kobab0007"]
-[ns]小柄な男[nse]
-「きみ゛ぃ、かちくな゛んた゛から゛、[r]
-　おま゛んちょの゛なかに゛、た゛しても゛ら゛い[r]
-　な゛よお゛ぉ～～～……♪」[pcms]
+[ns]Small-statured man[nse]
+"Since you're a masochist, it's okay to cum inside your[r]
+pussy...♪"[pcms]
 
 *15702|
 [fc]
 [vo_may s="mayab0011"]
-[ns]見覚えのある少女[nse]
-「んーーっ！！　んんーーーっ！！！！　ごぶっ、[r]
-　ぐぢゅっ、ぢゅぐぉっ！！　んっ、ぶ……[r]
-　んんーーーーーっ！！！！！」[pcms]
+[ns]A familiar-looking girl[nse]
+"N--!! Nnn---!!! Gobu, gujyu, jyugo!! Nng, bu... nnn-----!!![r]
+"[pcms]
 
 *15703|
 [fc]
-小柄な男は、犬の、腰に当たる部分を押さえつけ、[r]
-女の子のおまんこに密着させる。[pcms]
+The small-statured man presses down on the part of the dog[r]
+that hits its hips and makes it stick closely to the girl's[r]
+pussy.[pcms]
 
 *15704|
 [fc]
-[ns]シベリアンハスキー[nse]
-「ヘハーッ！　ヘハーッ！　ヘハーッ！　ヘハーッ！」[pcms]
+[ns]Siberian Husky[nse]
+"Hehah-! Hehah-! Hehah-! Hehah-!"[pcms]
 
 *15705|
 [fc]
 [vo_may s="mayab0012"]
-[ns]見覚えのある少女[nse]
-「んぐううぅぅっぅおおぉぉっ！！」[pcms]
+[ns]A familiar-looking girl[nse]
+"Nguuuuuuuooooohhhhh!!"[pcms]
 
 
 ;mm 追加
@@ -356,132 +341,123 @@
 
 *15706|
 [fc]
-犬が２，３度足踏みしたかと思うと、真っ赤になった[r]
-犬のおちんちんと、彼女のおまんことの隙間から、[r]
-大量ではあるが、より液体に近い精液が漏れだした。[pcms]
+After a few steps in place, a large amount of semen that was[r]
+more liquid-like leaked from between the bright red cock of[r]
+the dog and her pussy.[pcms]
 
 *15707|
 [fc]
-なんの前触れもなく突然に、しかも動物に中だし[r]
-されたのがよほど衝撃的だったのか、女の子は目を剥[r]
-いて、激しく暴れ、もがいた。[pcms]
+Suddenly being creampied by an animal without any warning[r]
+seemed to be so shocking that the girl's eyes bulged as she[r]
+thrashed and struggled violently.[pcms]
 
 *15708|
 [fc]
 [vo_may s="mayab0013"]
-[ns]見覚えのある少女[nse]
-「んぅっ！！　んぐうぅぅっ！！　んーっ！！[r]
-　んんーーーーーっ！！！！！」[pcms]
+[ns]A familiar-looking girl[nse]
+"Nngh!! Nguuu!! Nn-!! Nnn-----!!!"[pcms]
 
 *15709|
 [fc]
-[ns]眼鏡の青年[nse]
-「あ゛ぁう゛ぅあ～～～……っ！！　そんな゛に゛[r]
-　つよ゛く、しこ゛かれ゛たら゛ぁ、い゛っちま゛[r]
-　うよ゛お゛ぉ～～～……！！」[pcms]
+[ns]Young man with glasses[nse]
+"Aaahhh...!! If you stroke me that strongly, I'm gonna[r]
+cum...!!"[pcms]
 
 *15710|
 [fc]
-暴れる女の子の指が、引っ掻いた、というよりは抉っ[r]
-たと言った方が近い程、小柄な男の胸や腹に深い傷を[r]
-つけていく。[pcms]
+The thrashing girl's fingers left wounds on the small-[r]
+statured man's chest and stomach that were more like gouges[r]
+than scratches.[pcms]
 
 *15711|
 [fc]
 [vo_kob s="kobab0008"]
-[ns]小柄な男[nse]
-「ふ゜ふっ……あ゛ははっははぁはは……っ！！[r]
-　すこ゛いすこ゛ぉい……♪　おま゛んちょから゛、[r]
-　あ゛ふれ゛てきてる゛う゛ぅ～～～……！！」[pcms]
+[ns]Small-statured man[nse]
+"Puhah... Ahahaha...!! It's so good...♪ Your pussy is[r]
+overflowing...!!"[pcms]
 
 *15712|
 [fc]
-けれど、自分の体から血が流れ出したのを、小柄な男[r]
-は全く気にする風も無く、錯乱状態の女の子を見て吹[r]
-き出し、笑い始めた。[pcms]
+However, the small-statured man didn't seem to care at all[r]
+about the blood flowing from his body, and he burst into[r]
+laughter while looking at the girl in a state of frenzy.[pcms]
 
 *15713|
 [fc]
 [vo_kob s="kobab0009"]
-[ns]小柄な男[nse]
-「くふっ……ふ゜ぁははあぁはっ！！！！　いぬ゛に[r]
-　……い゛ぬに゛、なかた゛しされ゛てる゛……！！[r]
-　はははあははあぁはははぁっ！！」[pcms]
+[ns]Small-statured man[nse]
+"Kufu... Pahahaha!! Being creampied by a dog...!![r]
+Hahahaha...!!"[pcms]
 
 *15714|
 [fc]
 [vo_may s="mayab0014"]
-[ns]見覚えのある少女[nse]
-「んぐぉっ！！　んぶっ、ぢゅぐっ、ぶぢゅっ！！[r]
-　ぐぶぅっ、ぐぢゅっ、ぐぼぉおっ！！」[pcms]
+[ns]A familiar-looking girl[nse]
+"Nguohh!! Gobu, jugu, bujyu!! Gubuu, gujyu, goboohh!!"[pcms]
 
 *15715|
 [fc]
-小柄な男は目を大きく見開き、体をのけ反らせて、[r]
-高笑いを響かせながら、女の子の口内を犯し続けた。[pcms]
+The small-statured man's eyes widened, and he threw his head[r]
+back, laughing loudly as he continued to violate the girl's[r]
+mouth.[pcms]
 
 *15716|
 [fc]
-射精したばかりの犬も、また腰を動かし始め、彼女の[r]
-おまんこを真っ赤なおちんちんで責め立てる。[pcms]
+The dog, having just ejaculated, began to move its hips[r]
+again, attacking her pussy with its bright red cock.[pcms]
 
 *15717|
 [fc]
-[ns]シベリアンハスキー[nse]
-「へハッ！　ハフッ！　ハッ！　ハッ！　ハッ！」[pcms]
+[ns]Siberian Husky[nse]
+"Hehah! Huff! Hah! Hah! Hah!"[pcms]
 
 *15718|
 [fc]
 [vo_may s="mayab0015"]
-[ns]見覚えのある少女[nse]
-「んぐっ、ぐちゅっ、んぢゅぶっ……ぢゅっ、ん、[r]
-　ぐぶっ……ぼぢゅっ、ぢゅぐぅっ……」[pcms]
+[ns]A familiar-looking girl[nse]
+"Nguh, guchu, njubu... juh, n, gubu... boju, juguu..."[pcms]
 
 *15719|
 [fc]
 [vo_kob s="kobab0010"]
-[ns]小柄な男[nse]
-「ひぁははふは……っ！！　かちくの゛くせに゛ぃ、[r]
-　ひろ゛しに゛ちかつ゛くからた゛よぉ～～～……[r]
-　おま゛んちょ、え゛さに゛してさぁ～～……！！」[pcms]
+[ns]Small-statured man[nse]
+"Hiahahafuha...!! Even though you're a masochist, you're[r]
+getting close to Hiroshi...♪ Turn your pussy into bait...!!"[pcms]
 
 *15720|
 [fc]
-[ns]眼鏡の青年[nse]
-「た゛すそ゛お゛ぉ～～～……っ！！　ちい゛せぇ[r]
-　お゛っは゜いに゛かけてぇ、お゛っきくしてやる゛[r]
-　から゛な゛あぁ～～～……っ！！」[pcms]
+[ns]Young man with glasses[nse]
+"Tasoooh...!! I'll make your tiny butt bigger by cumming on[r]
+it...!!"[pcms]
 
 *15721|
 [fc]
-終わる気配を見せない、男と犬によるレイプに、抵抗[r]
-するのを諦めてしまったらしく、女の子は今ではぐっ[r]
-たりとして、されるがままに体を揺らしている。[pcms]
+The rape by the man and dog showed no signs of ending, and[r]
+the girl seemed to have given up resisting, now lying limp[r]
+and letting her body be shaken.[pcms]
 
 *15722|
 [fc]
 [vo_kob s="kobab0011"]
-[ns]小柄な男[nse]
-「てんは゛つた゛よ゛ぉ～～……きみ゛も゛あり゛す[r]
-　も゛ぉ……きたな゛いおま゛んちょて゛、ひろ゛し[r]
-　に゛ちかつ゛くから゛さあ゛ぁ～～……っ！！」[pcms]
+[ns]Small-statured man[nse]
+"You're in heaven now... You and Arisu both... getting close[r]
+to Hiroshi with your dirty pussies...!!"[pcms]
 
 *15723|
 [fc]
 [vo_may s="mayab0016"]
-[ns]見覚えのある少女[nse]
-「ぢゅぐっ、ぢゅぶっ……ぢゅぶぉっ、ぐぢゅっ……[r]
-　ぐちゅぶっ、ぶぢゅぅっ……」[pcms]
+[ns]A familiar-looking girl[nse]
+"Juguh, jubuh... jubohh, gujuh... guchubuh, bujuuh..."[pcms]
 
 *15724|
 [fc]
-[ns]シベリアンハスキー[nse]
-「ハッ！　ハッ！　ハッ！　ハッ！　ハッ！　ハッ！」[pcms]
+[ns]Siberian Husky[nse]
+"Hah! Hah! Hah! Hah! Hah! Hah!"[pcms]
 
 *15725|
 [fc]
-[ns]眼鏡の青年[nse]
-「ふぅう゛ぁあ゛はあ゛ぁ～～～……っ！！！！」[pcms]
+[ns]Young man with glasses[nse]
+"Fuaaahhhhh...!!!"[pcms]
 
 
 ;mm 追加
@@ -493,30 +469,29 @@
 
 *15726|
 [fc]
-眼鏡の青年が、やけに高い声を上げて、女の子の手で[r]
-強引に扱かせていたおちんちんから、精液を盛大に[r]
-噴き出させる。[pcms]
+The young man with glasses let out an unusually high-pitched[r]
+scream as he forcefully ejaculated a large amount of semen[r]
+from his cock that was being handled by the girl.[pcms]
 
 *15727|
 [fc]
-その精液が彼女の体の上に撒き散らされると、今度は[r]
-顔の上に覆い被さる様にして、小柄な男がおちんちん[r]
-の付け根まで、女の子の口の奥へと押し込んだ。[pcms]
+As his semen was scattered over her body, the small-statured[r]
+man covered her face with his own and pushed his cock deep[r]
+into her mouth.[pcms]
 
 
 *15728|
 [fc]
 [vo_kob s="kobab0012"]
-[ns]小柄な男[nse]
-「きたな゛い゛おま゛んちょの゛かちくはぁ、いぬ゛[r]
-　としてれ゛は゛い゛いんた゛あ゛ぁ～～～……っ！！[r]
-　ひひいっひははあはあははぁぁはははっ！！！！！」[pcms]
+[ns]Small-statured man[nse]
+"A dirty masochist pussy like yours is better off being[r]
+fucked by a dog...!! Hihiihihahaahaahaahaahaa!!"[pcms]
 
 *15729|
 [fc]
 [vo_may s="mayab0017"]
-[ns]見覚えのある少女[nse]
-「んぶぉっ！！　んぉおぉおっ！！！！」[pcms]
+[ns]A familiar-looking girl[nse]
+"Nbohh!! Noooohhh!!"[pcms]
 
 ;mm フラ追加
 ;[射精フラA]
@@ -527,24 +502,23 @@
 
 *15730|
 [fc]
-女の子の顔に、下腹部を押しつけるようにして体を[r]
-痙攣させ、小柄な男は彼女の口の中に射精したよう[r]
-だった。[pcms]
+As the small-statured man convulsed his body while pressing[r]
+his lower abdomen against the girl's face, it seemed he[r]
+ejaculated inside her mouth.[pcms]
 
 [evcg storage="HEV209g"][trans_c cross time=301]
 
 *15731|
 [fc]
-しばらくして小柄な男のおちんちんが外れ、口が解放[r]
-されると、女の子は顔を横に傾け、せき込みながら、[r]
-大量の精液を吐き出した。[pcms]
+After a while, when the small-statured man's cock was[r]
+removed and her mouth was freed, the girl turned her face to[r]
+the side and coughed up a large amount of semen.[pcms]
 
 *15732|
 [fc]
 [vo_may s="mayab0018"]
-[ns]見覚えのある少女[nse]
-「えあっ、げはぁっ……！　ぉえぇ……がふっ……！[r]
-　ぐえぇっ……がはっ、げほぉっ……！」[pcms]
+[ns]A familiar-looking girl[nse]
+"Eahh, gehaa...! Oeeh...gafuh...! Guehh...gahah, gehooh...!"[pcms]
 
 ;//SE：ヘリの飛行音・通り過ぎる（？）
 ;[se0 storage="SE13"]
@@ -559,14 +533,15 @@
 *15733|
 [fc]
 [vo_kob s="kobab0013"]
-[ns]小柄な男[nse]
-「ひっ……！」[pcms]
+[ns]Small-statured man[nse]
+"Hih...!"[pcms]
 
 *15734|
 [fc]
-突然、通路の奥、ガラス張りになった壁面の向こうを、[r]
-爆音と共に通り過ぎていった強い光に、小柄な男は怯[r]
-えた様に小さな悲鳴を上げて、体を大きく震わせた。[pcms]
+Suddenly, a strong light passed by with a loud noise beyond[r]
+the glass wall at the end of the corridor, causing the[r]
+small-statured man to let out a small scream and tremble[r]
+greatly.[pcms]
 
 ;//SE：ヘリの飛行音・通り過ぎる（？）
 ;[se0 storage="SE13"]
@@ -578,9 +553,8 @@
 *15735|
 [fc]
 [vo_kob s="kobab0014"]
-[ns]小柄な男[nse]
-「ひ、やぁ……っ！！　ひっ、やた゛……やた゛よぉ、[r]
-　くる゛な゛あぁ～～～……っ！！」[pcms]
+[ns]Small-statured man[nse]
+"Hi, yaa...!! Hih, yada...yada yooh, don't come here...!!"[pcms]
 
 
 ;mm 追加
@@ -589,27 +563,27 @@
 
 *15736|
 [fc]
-音が通り過ぎていくまでの短い間、強い光に晒されて、[r]
-小柄な男は片腕で顔を隠し、光を追い払おうと、もう[r]
-片方の腕を闇雲に振り回している。[pcms]
+For the brief moment while the sound passed by and he was[r]
+exposed to the strong light, the small-statured man covered[r]
+his face with one arm and frantically waved the other as if[r]
+trying to chase away the light.[pcms]
 
 *15737|
 [fc]
-[ns]シベリアンハスキー[nse]
-「ハッ！　ハッ！　ハッ！　ハッ！　ハッ！　ハッ！」[pcms]
+[ns]Siberian Husky[nse]
+"Hah! Hah! Hah! Hah! Hah! Hah!"[pcms]
 
 *15738|
 [fc]
-[ns]眼鏡の青年[nse]
-「ちい゛せぇお゛っは゜いか゛、おれ゛のさ゛ーめ゛[r]
-　んて゛ぬる゛ぬる゛た゛ぁ～～……！！[r]
-　ふぇえ゛へふふぁはあ゛ぁ～～～……っ！！」[pcms]
+[ns]Young man with glasses[nse]
+"Your tiny butt is getting all slippery with my cum...!![r]
+Feeehhefuhahaahaa...!!"[pcms]
 
 *15739|
 [fc]
-小柄な男が後ずさりして逃げ始めた横で、眼鏡の青年[r]
-と犬は、まるで光を気にもせずに、女の子に取り付い[r]
-ていた。[pcms]
+As the small-statured man began to retreat and escape, the[r]
+young man with glasses and the dog continued to cling to the[r]
+girl without seeming to care about the light.[pcms]
 
 ;//SE：ヘリの飛行音・通り過ぎる（？）
 ;[se0 storage="SE13"]
@@ -621,8 +595,8 @@
 *15740|
 [fc]
 [vo_kob s="kobab0015"]
-[ns]小柄な男[nse]
-「うあ゛ぁああ゛ぁぁあ゛ぁぁ～～～……っ！！！！」[pcms]
+[ns]Small-statured man[nse]
+"Uaaaahhaaahhaaahhaaa...!!"[pcms]
 
 ;mm 追加
 [backlay_c][image storage="chara_int" layer="&sf.effectlayer" page=back visible=true left=0 top=0 opacity=255][trans_c lr time=300]
@@ -630,155 +604,153 @@
 
 *15741|
 [fc]
-また音と光が近づき、通り過ぎていくと、小柄な男は[r]
-覚束ない足取りで、長い通路を、光が射し込んでくる[r]
-方とは反対側へ歩いていった。[pcms]
+Again, as the sound and light approached and passed by, the[r]
+small-statured man walked unsteadily down the long corridor[r]
+towards the side opposite where the light was coming from.[pcms]
 
 *15742|
 [fc]
 [vo_may s="mayab0019"]
-[ns]見覚えのある少女[nse]
-「……ぅ……お……」[pcms]
+[ns]A familiar-looking girl[nse]
+"...u...o..."[pcms]
 
 *15743|
 [fc]
 [vo_anz s="anzai0309"]
-[ns]みき[nse]
-「……？」[pcms]
+[ns]Mikki[nse]
+"...?"[pcms]
 
 *15744|
 [fc]
-小男から女の子に目を戻すと、彼女の目は私を見上げ[r]
-ていて、何かを言おうと口を動かしていた。[pcms]
+When I turned my gaze from the small man back to the girl,[r]
+she was looking up at me and moving her mouth as if trying[r]
+to say something.[pcms]
 
 *15745|
 [fc]
 [vo_may s="mayab0020"]
-[ns]見覚えのある少女[nse]
-「お前達は……みんな……糞でできてるんだ……ペニ[r]
-　スとヴァギナの付いた……糞の塊なんだ……」[pcms]
+[ns]A familiar-looking girl[nse]
+"You all are made of shit... Just penises and vaginas[r]
+attached to lumps of shit..."[pcms]
 
 *15746|
 [fc]
-[ns]みき[nse]
-「……」[pcms]
+[ns]Mikki[nse]
+"..."[pcms]
 
 *15747|
 [fc]
-可愛らしい顔をした女の子が、突然、似合わない言葉[r]
-遣いで喋りだしたことで呆気にとられて、ぽかんと[r]
-なって彼女を見つめた。[pcms]
+I was taken aback as the cute-faced girl suddenly started[r]
+speaking in such an unfitting manner, staring at her in[r]
+astonishment.[pcms]
 
 *15748|
 [fc]
-犬に犯され、男に弄ばれながら、彼女はさらに喋り続[r]
-ける。[pcms]
+While being violated by a dog and toyed with by a man, she[r]
+continued to speak.[pcms]
 
 *15749|
 [fc]
 [vo_may s="mayab0021"]
-[ns]見覚えのある少女[nse]
-「お祖父様……殺された……大好きだったのに……[r]
-　ジョン……裏切った……親友だったのに……」[pcms]
+[ns]A familiar-looking girl[nse]
+"My grandfather was killed... I loved him so much... John[r]
+betrayed me... even though he was my best friend..."[pcms]
 
 *15750|
 [fc]
-[ns]眼鏡の青年[nse]
-「ふひゃへはぁはあぁ～～～……ちんこて゛いし゛[r]
-　ら゛れて、ちくひ゛かたくしてる゛せ゛ぇ、この゛[r]
-　か゛きいぃ～～～……っ！！」[pcms]
+[ns]Young man with glasses[nse]
+"Fuhyahehaahaahaa... Being stroked on my cock and having my[r]
+nipples hardened feels so good...!!"[pcms]
 
 *15751|
 [fc]
 [vo_may s="mayab0022"]
-[ns]見覚えのある少女[nse]
-「みんな……自分のことばかり……自分の欲望が……[r]
-　他人の命より大事……自分だけが大事……」[pcms]
+[ns]A familiar-looking girl[nse]
+"Everyone only cares about themselves... Their own desires[r]
+are more important than other people's lives... Only[r]
+themselves matter..."[pcms]
 ;//◎これ以降の摩耶のセリフは全て涙声で
 
 *15752|
 [fc]
 [vo_may s="mayab0023"]
-[ns]見覚えのある少女[nse]
-「糞まみれの……不潔な欲望の塊……」[pcms]
+[ns]A familiar-looking girl[nse]
+"Covered in shit... Just lumps of filthy desires..."[pcms]
 
 *15753|
 [fc]
-[ns]シベリアンハスキー[nse]
-「ハッ！　ハッ！　ハッ！　ハッ！　ハッ！　ハッ！」[pcms]
+[ns]Siberian Husky[nse]
+"Hah! Hah! Hah! Hah! Hah! Hah!"[pcms]
 
 *15754|
 [fc]
 [vo_may s="mayab0024"]
-[ns]見覚えのある少女[nse]
-「人げんも……この世かいも……くそまみれ……」[pcms]
+[ns]A familiar-looking girl[nse]
+"Humanity and this world are both covered in shit..."[pcms]
 ;//◎人げん＝にんげん、世かい＝せかい
 
 *15755|
 [fc]
-[ns]眼鏡の青年[nse]
-「ふはぁあぁ～～～……っ！　ちくひ゛の゛こり゛[r]
-　こりて゛ぇ、ちん゛こか゛ぁ～～……[r]
-　ふひはは……っ！　きも゛ちい゛ぃ～～～……！！」[pcms]
+[ns]Young man with glasses[nse]
+"Fuaaahhhhh...!! My nipples are hard and my cock is--[r]
+Fuhaha... It feels so good...!!"[pcms]
 
 *15756|
 [fc]
 [vo_may s="mayab0025"]
-[ns]見覚えのある少女[nse]
-「くそ……にん間そのもの……この、せ界も……[r]
-　糞、そのもの……」[pcms]
+[ns]A familiar-looking girl[nse]
+"Shit... Humanity itself is shit... This world too is[r]
+shit..."[pcms]
 
 *15757|
 [fc]
-[ns]シベリアンハスキー[nse]
-「ハッ！　ハッ！　ハッ！　ハッ！　ハッ！　ハッ！」[pcms]
+[ns]Siberian Husky[nse]
+"Hah! Hah! Hah! Hah! Hah! Hah!"[pcms]
 
 *15758|
 [fc]
 [vo_may s="mayab0026"]
-[ns]見覚えのある少女[nse]
-「ただの、糞のかたまりなら……死ねばいい……[r]
-　しんでも、誰もこまらない……全ぶ、死んで……[r]
-　なくなればいい……にん間も、この世かいも……」[pcms]
+[ns]A familiar-looking girl[nse]
+"Just a lump of shit... should just die... No one would be[r]
+troubled if they died... Everyone should just die...[r]
+disappear... both humans and this world..."[pcms]
 ;//◎全ぶ＝ぜんぶ
 
 *15759|
 [fc]
-[ns]眼鏡の青年[nse]
-「あ゛ぁぁあ゛ぁ～～～……っ！！[r]
-　ちくひ゛の゛こり゛こりい゛ぃ～～～……！！[r]
-　に゛ょうと゛うに゛きくう゛ぅ～～～……っ！！」[pcms]
+[ns]Young man with glasses[nse]
+"Aaaahhhhh...!! My nipples are so hard...!! And my cock is[r]
+throbbing...!!"[pcms]
 
 *15760|
 [fc]
 [vo_may s="mayab0027"]
-[ns]見覚えのある少女[nse]
-「死ね……しね……死ねないなら……わたしが……」[pcms]
+[ns]A familiar-looking girl[nse]
+"Die... die... If you can't die... then I will..."[pcms]
 
 *15761|
 [fc]
-[ns]シベリアンハスキー[nse]
-「ハッ！　ハッ！　ハッ！　ハッ！　ハッ！　ハッ！」[pcms]
+[ns]Siberian Husky[nse]
+"Hah! Hah! Hah! Hah! Hah! Hah!"[pcms]
 
 *15762|
 [fc]
-[ns]眼鏡の青年[nse]
-「こんと゛はぁ、かお゛に゛たっふ゜りぃ、[r]
-　ふ゛っかけてやる゛から゛な゛あぁ～～～……！！[r]
-　ふひひはへは゛はあぁ～～～……っ！！」[pcms]
+[ns]Young man with glasses[nse]
+"Tonight, I'm going to cover your face with it, just you[r]
+wait... Fuhahaha...!!"[pcms]
 
 *15763|
 [fc]
 [vo_may s="mayab0028"]
-[ns]見覚えのある少女[nse]
-「……呪い殺してやる……」[pcms]
+[ns]A familiar-looking girl[nse]
+"...I'll curse you to death..."[pcms]
 
 ;//------------------------------------------------
 [if exp="tf.scene_mode==1"]
 	[jump storage="b_scene.ks" target=*back_from_SR]
 ;	[link storage=sceneAgain]もう一度見る[endlink]
 ;	[link storage=sceneList]一覧に戻る[endlink]
-;	[s]
+[pcms]
 [endif]
 
 *KAISOU_PASS
@@ -800,8 +772,8 @@
 *15764|
 [fc]
 [vo_anz s="anzai0311"]
-[ns]みき[nse]
-「ぅ……」[pcms]
+[ns]Mikki[nse]
+"Uh..."[pcms]
 
 ;[cutin_int][bg storage="white"][trans_c cross time=300]
 [white_toplayer winon][trans_c cross time=300][hide_chara_int_w]
@@ -809,29 +781,31 @@
 
 *15765|
 [fc]
-女の子の呟きが終わるのと同時に、真正面から強い光[r]
-が射し込んできて、私は眩しさに顔を逸らした。[pcms]
+As the girl's muttering ended, a strong light shone directly[r]
+in front of me, and I turned my face away from the[r]
+brightness.[pcms]
 
 *15766|
 [fc]
-人だかりを作る周りの人間達も、同じ様に光から顔を[r]
-逸らしている。[pcms]
+The crowd of people around me also turned their faces away[r]
+from the light.[pcms]
 
 *15767|
 [fc]
 [vo_anz s="anzai0312"]
-[ns]みき[nse]
-「なに……？　なんなの……」[pcms]
+[ns]Mikki[nse]
+"What...? What is this...?"[pcms]
 
 *15768|
 [fc]
-さっきは通り過ぎていくだけだった光は、ガラス張り[r]
-の外壁の向こうに留まっている。[pcms]
+The light that had just passed by was now staying beyond the[r]
+glass walls.[pcms]
 
 *15769|
 [fc]
-目の上に手をかざし、指の隙間から覗くと、こちらに[r]
-向かって光が近づいてきているように、私は思った。[pcms]
+Shielding my eyes with my hand, I peeked through the gaps[r]
+between my fingers and thought that the light seemed to be[r]
+approaching us.[pcms]
 
 ;//SE：ヘリがビルに突っ込んだ音（？）
 [se0 storage="SE31"]
@@ -842,29 +816,28 @@
 *15770|
 [fc]
 [vo_anz s="anzai0313"]
-[ns]みき[nse]
-「あ……」[pcms]
+[ns]Mikki[nse]
+"Ah..."[pcms]
 
 ;//♪：bgm009
 [bgm storage="bgm009"]
 
 *15771|
 [fc]
-近づいてきた光は、ガラス張りの外壁を突き破って、[r]
-床を削り、棚と棚に陳列されている商品を吹き飛ばし[r]
-ながら、さらにこっちに向かってくる。[pcms]
+The approaching light broke through the glass walls, scraped[r]
+the floor, blew away the merchandise displayed on the[r]
+shelves, and continued to come towards us.[pcms]
 
 *15772|
 [fc]
-あれは……。[r]
-ヘリコプター……？[r]
-もしかして、かつやがのってるんじゃ……！[pcms]
+Is that... A helicopter...? Could it be Katsuya is on[r]
+board...![pcms]
 
 *15773|
 [fc]
-光の向こうに見えた、火を噴きながら滑って近づいて[r]
-くるヘリコプターは、途中で一瞬にして炎の塊に変化[r]
-し、さらに強い光を放った。[pcms]
+The helicopter that was sliding closer while spewing fire,[r]
+suddenly turned into a ball of flames in an instant and[r]
+emitted an even stronger light.[pcms]
 
 ;//SE：爆発音（？）
 [se0 storage="SE31"]
@@ -877,9 +850,9 @@
 
 *15774|
 [fc]
-女の子も、眼鏡の青年も、犬も、人だかりを作ってい[r]
-た人間達も、そして私も、全てが同時に、眩しい光に[r]
-包まれ……。[pcms]
+Both the girl, the young man with glasses, the dog, the[r]
+crowd of people, and I were all simultaneously enveloped in[r]
+the blinding light...[pcms]
 
 ;//♪：bgm009 fadeout
 [fadeoutbgm time=1000]
@@ -894,5 +867,5 @@
 
 [jump storage="hayamiroute11100.ks" target=*hayamiroute11100_TOP]
 
-;//－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+;//
 

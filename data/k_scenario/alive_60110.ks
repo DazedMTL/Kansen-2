@@ -32,221 +32,219 @@
 *1110|
 [fc]
 [vo_anz s="anzai0415"]
-[ns]みき[nse]
-「克也ぁ～……もう……出て来てよ～……」[pcms]
+[ns]Mikki[nse]
+"Katsuya~... come out already~..."[pcms]
 
 *1111|
 [fc]
-[ns]大倉[nse]
-「こんだけ探しても居ないって事は、ここには来て[r]
-　無いって事じゃねぇのか？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"If we've searched this much and he's not here, doesn't that[r]
+mean he probably didn't come to this place?"[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
 *1112|
 [fc]
-安西さんの彼氏って人、約束忘れたんじゃ……。[r]
-ってか、安西さんが日にち間違えたってのも、[r]
-有り得るよな……。[pcms]
+Could it be that Anzai-san's boyfriend forgot about the[r]
+promise... Or maybe Anzai-san got the date wrong, that's[r]
+also possible...[pcms]
 
 *1113|
 [fc]
-[ns]大倉[nse]
-「ねえ、安西さん……もしかして、[r]
-　約束の日にち、間違えてんじゃないの？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Hey, Anzai-san... could it be that you got the date of the[r]
+promise wrong?"[pcms]
 
 [ChrSetEx layer=4 chbase="anza_d03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *1114|
 [fc]
 [vo_anz s="anzai0416"]
-[ns]みき[nse]
-「そんな事無いわ……あら？[r]
-　私、いつ待ち合わせしてたんだったかな……」[pcms]
+[ns]Mikki[nse]
+"That can't be... Huh? When was our meeting supposed to be[r]
+again...?"[pcms]
 
 *1115|
 [fc]
-[ns]大倉[nse]
-「……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"..."[pcms]
 
 [ChrSetEx layer=4 chbase="anza_d02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *1116|
 [fc]
 [vo_anz s="anzai0417"]
-[ns]みき[nse]
-「約束したのは……６日……だったはずよ……。[r]
-　そうよ！　七夕祭りの前夜祭に行こうって……」[pcms]
+[ns]Mikki[nse]
+"The promise was... on the 6th... I'm sure of it... Yes! We[r]
+were going to go to the festival on the eve of Tanabata..."[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *1117|
 [fc]
-６日？　今日は……。[r]
-あれ？　[r]
-目覚める前にたしか別の日数言ってたような……？[pcms]
+The 6th? Today is... Huh? Before waking up, I'm sure she[r]
+mentioned a different number of days...?[pcms]
 
 *1118|
 [fc]
-ポケットに入れていたケータイを取り出し、[r]
-日にちを確認しようとした。[pcms]
+I took out the cell phone from my pocket to check the date.[pcms]
 
 *1119|
 [fc]
-でも、中折れ式のケータイは、半分に分かれて、[r]
-もう使い物にならなくなっていた。[pcms]
+But the flip-style cell phone was broken in half and no[r]
+longer usable.[pcms]
 
 [ChrSetEx layer=4 chbase="hayami_s01"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *1120|
 [fc]
-[ns]大倉[nse]
-「クソッ……なんだよコレ！　ブッ壊れちまった！[r]
-　なあ、速水、今日何日か分かるか？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Damn it... what's this! It's broken! Hey, Hayami, do you[r]
+know what day it is today?"[pcms]
 
 *1121|
 [fc]
-速水も、俺と同じようにケータイを取り出し、[r]
-ディスプレイをのぞき込んで日にちを確認した。[pcms]
+Hayami also took out her cell phone like me and peered into[r]
+the display to check the date.[pcms]
 
 [ChrSetEx layer=4 chbase="hayami_s04"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *1122|
 [fc]
 [vo_hay s="hayami1042"]
-[ns]ありす[nse]
-「えっとね……今日は……７日だね。[r]
-　なあんだ！　みきさん、日にち間違えてるよ！」[pcms]
+[ns]Arisu[nse]
+"Let's see... today is... the 7th. Oh no! Mikki-san, you got[r]
+the date wrong!"[pcms]
 
 [ChrSetEx layer=4 chbase="anza_d03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *1123|
 [fc]
 [vo_anz s="anzai0418"]
-[ns]みき[nse]
-「そんな……どうして！？　私は確かに、６日に[r]
-　ここに来た筈なのに……一体どうして？」[pcms]
+[ns]Mikki[nse]
+"How can that be!? I'm sure I came here on the 6th... Why on[r]
+earth?"[pcms]
 
 *1124|
 [fc]
-そう言えば、俺達も確か６日にここに来た筈。[r]
-でも、何でこんな所にいるんだろ？[pcms]
+Come to think of it, we also definitely came here on the[r]
+6th. But why are we in a place like this?[pcms]
 
 [ChrSetEx layer=4 chbase="naga_c09"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *1125|
 [fc]
 [vo_nag s="nagasaki0413"]
-[ns]千尋[nse]
-「壊れてるのかも知れないわよ？　それに、まだ[r]
-　イーストタウンの方見てないし。行ってみましょう？[r]
-　あっちの方で待ってるかもしれないから……」[pcms]
+[ns]Chihiro[nse]
+"It might be broken, you know? Besides, we haven't checked[r]
+out East Town yet. Shall we go there? He might be waiting[r]
+over there..."[pcms]
 
 [ChrSetEx layer=4 chbase="anza_d06"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *1126|
 [fc]
 [vo_anz s="anzai0419"]
-[ns]みき[nse]
-「……」[pcms]
+[ns]Mikki[nse]
+"..."[pcms]
 
 [ChrSetEx layer=4 chbase="koba_m04"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *1127|
 [fc]
 [vo_kob s="koba0532"]
-[ns]小林[nse]
-「あれ～？　ここの動物たち、なんだかボクらを見て[r]
-　怒ってるみたいだよ？　どうしたんだろう……？」[pcms]
+[ns]Kobayashi[nse]
+"Huh~? The animals here seem to be angry at us for some[r]
+reason. What happened...?"[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_h03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *1128|
 [fc]
 [vo_may s="maya0764"]
-[ns]摩耶[nse]
-「この子達……お腹がすいてるのかもしれない……」[pcms]
+[ns]Maya[nse]
+"These little ones... they might be hungry..."[pcms]
 
 *1129|
 [fc]
-二人が言うように、檻の中に閉じこめられている動物[r]
-達は、俺達を見てしきりに吠えていた。[pcms]
+Just as the two of them said, the animals locked in cages[r]
+were barking at us incessantly.[pcms]
 
 *1130|
 [fc]
-檻に噛みついていたり、体当たりをしたりしている[r]
-動物達の体は怪我だらけになっていた。[pcms]
+The animals biting the cages and ramming against them were[r]
+covered in injuries.[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_h02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *1131|
 [fc]
 [vo_may s="maya0765"]
-[ns]摩耶[nse]
-「かわいそう……あっ……」[pcms]
+[ns]Maya[nse]
+"Poor things... Ah..."[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *1132|
 [fc]
-[ns]ジョン[nse]
-「グルルルゥゥゥ！！　ウゥ～～……！」[pcms]
+[ns]John[nse]
+"Grrrrrr!! Woo~..."[pcms]
 
 *1133|
 [fc]
-[ns]大倉[nse]
-「おい……？　どうした？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Hey...? What's wrong?"[pcms]
 
 *1134|
 [fc]
-檻に近づこうとした摩耶ちゃんを、連れていた犬が、[r]
-袖を咥えて遠ざけようとし始めた。[pcms]
+As Maya-chan approached the cage, the dog with her started[r]
+to pull her away by biting her sleeve.[pcms]
 
 *1135|
 [fc]
-檻の中の動物達を睨み、唸るその様に、[r]
-得体の知れない恐怖を感じた俺は、今すぐにでもこの[r]
-場を立ち去った方がいいと判断した。[pcms]
+Seeing how the animals in the cage glared and growled, I[r]
+felt an indescribable fear and decided it was best to leave[r]
+this place immediately.[pcms]
 
 [ChrSetEx layer=4 chbase="naga_c01"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *1136|
 [fc]
-[ns]大倉[nse]
-「じゃあ、そのイーストタウンって方に行ってみるか。[r]
-　千尋……案内してくれ」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Then, shall we head over to this East Town? Chihiro... lead[r]
+the way."[pcms]
 
 [ChrSetEx layer=4 chbase="naga_c02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *1137|
 [fc]
 [vo_nag s="nagasaki0414"]
-[ns]千尋[nse]
-「呼び捨てにしないでくれる？　さあ、行きましょう？[r]
-　安西さん」[pcms]
+[ns]Chihiro[nse]
+"Could you not call me by my first name without honorifics?[r]
+Come on, let's go? Anzai-san."[pcms]
 
 [ChrSetEx layer=4 chbase="anza_d01"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *1138|
 [fc]
 [vo_anz s="anzai0420"]
-[ns]みき[nse]
-「そうね……」[pcms]
+[ns]Mikki[nse]
+"Right..."[pcms]
 
 *1139|
 [fc]
-千尋は、安西さんと速水の手を引いて、[r]
-先に歩き出した。[pcms]
+Chihiro took Anzai-san and Hayami's hands and started[r]
+walking ahead.[pcms]
 
 *1140|
 [fc]
-[ns]大倉[nse]
-「さ、俺達も行こう？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Alright, shall we go too?"[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_h02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *1141|
 [fc]
 [vo_may s="maya0766"]
-[ns]摩耶[nse]
-「……」[pcms]
+[ns]Maya[nse]
+"..."[pcms]
 
 *1142|
 [fc]
-動物達を見て、悲しそうな表情をしている摩耶ちゃん[r]
-の手を引き、俺も千尋達の後を追った。[pcms]
+Seeing Maya-chan looking sad at the animals, I took her hand[r]
+and followed after Chihiro and the others.[pcms]
 
 *1143|
 [fc]
-握った摩耶ちゃんの手は、小さく温かかった。[pcms]
+The hand of Maya-chan that I held was small and warm.[pcms]
 
 [fadeoutbgm time=502]
 
@@ -259,182 +257,179 @@
 *1144|
 [fc]
 [vo_hay s="hayami1043"]
-[ns]ありす[nse]
-「うわぁ～……こんな所あったんだ……、すごいなー！[r]
-　ヒロシ、見て！　空が見えるよ！　ココ！！」[pcms]
+[ns]Arisu[nse]
+"Wow~... I didn't know there was a place like this...,[r]
+amazing! Hiroshi, look! You can see the sky from here!!"[pcms]
 
 *1145|
 [fc]
-速水は、一面ガラス張りのもの凄く長い橋の真ん中で、[r]
-小躍りしながら空を見上げていた。[pcms]
+Hayami was jumping up and down in excitement in the middle[r]
+of an incredibly long bridge made entirely of glass, looking[r]
+up at the sky.[pcms]
 
 *1146|
 [fc]
-月の光に照らされて微笑む速水の横顔は、[r]
-無邪気な子供の様なその顔に、[r]
-俺はいつもの速水と違う魅力を感じていた。[pcms]
+The side profile of Hayami smiling under the moonlight[r]
+looked innocent like a child's face, and I felt a different[r]
+charm from the usual Hayami.[pcms]
 
 *1147|
 [fc]
 [vo_hay s="hayami1044"]
-[ns]ありす[nse]
-「ほらほら！　綺麗だよ、外！　なんか、[r]
-　真っ赤に燃えてる！　空も真っ赤だよ！！[r]
-　夜なのに、不思議だね～！！」[pcms]
+[ns]Arisu[nse]
+"Look look! It's beautiful outside! It's like everything is[r]
+burning red! The sky is red too!! Even though it's night,[r]
+it's so strange~!!"[pcms]
 
 *1148|
 [fc]
-速水が指さす先は、盛大なキャンプファイヤーの様に、[r]
-全面真っ赤な光を放っていた。[pcms]
+The direction Hayami was pointing at was lit up with a[r]
+bright red light like a grand campfire.[pcms]
 
 *1149|
 [fc]
-[ns]大倉[nse]
-「ホントだ……綺麗だな……。[r]
-　お前も綺麗だよ、ありす……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Really... it's beautiful... You're beautiful too, Arisu..."[pcms]
 
 [ChrSetEx layer=4 chbase="hayami_s02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *1150|
 [fc]
 [vo_hay s="hayami1045"]
-[ns]ありす[nse]
-「ヒロシ……」[pcms]
+[ns]Arisu[nse]
+"Hiroshi..."[pcms]
 
 *1151|
 [fc]
-あれ……？　何言ってんの俺……？[r]
-それに、速水も何で真剣な顔してんだ？[pcms]
+Wait...? What am I saying...? And why is Hayami looking so[r]
+serious?[pcms]
 
 *1152|
 [fc]
-今までもコイツとは何回もふざけあってたけど、[r]
-今日の速水は、少し真剣な顔で、俺と向き合っている。[pcms]
+We've joked around many times before, but today Hayami is[r]
+facing me with a slightly serious expression.[pcms]
 
 *1153|
 [fc]
-[ns]大倉[nse]
-「おい……速水……、俺達、何でこんな所にいるんだ？[r]
-　俺ら、たしか修業旅行で……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Hey... Hayami..., why are we in a place like this? We were[r]
+supposed to be on a training trip..."[pcms]
 
 [ChrSetEx layer=4 chbase="hayami_s05"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *1154|
 [fc]
-おかしい。[pcms]
+This is strange.[pcms]
 
 *1155|
 [fc]
-俺達はたしか、修業旅行でここに来ていた筈。[r]
-なのに、何故こんな夜中に、見ず知らずの人達と、[r]
-こんな所にいるんだろうか。[pcms]
+We were supposed to have come here on a training trip. So[r]
+why are we here in the middle of the night with people we[r]
+don't know?[pcms]
 
 [ChrSetEx layer=4 chbase="hayami_s02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *1156|
 [fc]
 [vo_hay s="hayami1046"]
-[ns]ありす[nse]
-「も～……せっかくいいカンジだったのに～……。[r]
-　修業旅行って何よ！？　バカ！　知らない！」[pcms]
+[ns]Alice[nse]
+"Geez... just when things were getting good... What's this[r]
+about a training trip!? Idiot! I don't know!"[pcms]
 
 *1157|
 [fc]
-あれ？[r]
-修業旅行？[pcms]
+Huh? A training trip?[pcms]
 
 *1158|
 [fc]
-[ns]大倉[nse]
-「速水……修業旅行って何だ？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Hayami... what's this about a training trip?"[pcms]
 
 [ChrSetEx layer=4 chbase="koba_m02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *1159|
 [fc]
 [vo_kob s="koba0533"]
-[ns]小林[nse]
-「ヒロ！　ありす～！！　そんなところで恋愛ごっこ[r]
-　してると、置いてくよ～！！」[pcms]
+[ns]Kobayashi[nse]
+"Hiro! Arisu~!! If you keep playing lovey-dovey there, we'll[r]
+leave you behind~!!"[pcms]
 
 [ChrSetEx layer=4 chbase="hayami_s02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *1160|
 [fc]
 [vo_hay s="hayami1047"]
-[ns]ありす[nse]
-「ヒロシのバカ！　もう知らない！　[r]
-　みんな！　待ってよ！」[pcms]
+[ns]Arisu[nse]
+"Hiroshi, you idiot! I don't know anymore! Everyone, wait[r]
+up!"[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *1161|
 [fc]
-[ns]大倉[nse]
-「あ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Ah..."[pcms]
 
 *1162|
 [fc]
-速水は、意地悪そうに笑いながら、ユウ達の方へ、[r]
-先に歩き出した。[pcms]
+Hayami, with a mischievous smile, started walking ahead[r]
+towards Yuuki and the others.[pcms]
 
 [fadeoutbgm time=502]
 [bgm storage="BGM012"]
 
 *1163|
 [fc]
-一人取り残された俺は、真っ赤に光る外を見つめて、[r]
-二つの事を考えていた。[pcms]
+Left behind alone, I stared at the red glow outside and[r]
+pondered two things.[pcms]
 
 *1164|
 [fc]
-修業旅行と……。[r]
-速水に対して、湧き上がった感情……。[pcms]
+The training trip... and the emotions that surged within me[r]
+towards Hayami.[pcms]
 
 *1165|
 [fc]
-修業旅行。それが何であるか、分からない。[pcms]
+The training trip. I don't understand what it is.[pcms]
 
 *1166|
 [fc]
-そして……。[pcms]
+And...[pcms]
 
 *1167|
 [fc]
-俺は、速水と……。[pcms]
+I, with Hayami...[pcms]
 
 *1168|
 [fc]
-速水とセックスしたい……？[pcms]
+Do I want to have sex with Hayami...?[pcms]
 
 *1169|
 [fc]
-今まで、そんな事を思った事はなかった。[r]
-仲の良い友達だと、そう思っていた。[pcms]
+Until now, I had never thought such a thing. I considered[r]
+her a good friend.[pcms]
 
 *1170|
 [fc]
-でも今は違う。[pcms]
+But now it's different.[pcms]
 
 *1171|
 [fc]
-いや、速水だけじゃなくて……。[r]
-千尋や、安西さん、それに摩耶ちゃんとも……。[pcms]
+No, not just with Hayami... With Chihiro, Anzai-san, and[r]
+even with Maya-chan...[pcms]
 
 *1172|
 [fc]
-女と、抱き合いたい……。[r]
-犯したい……。[pcms]
+I want to embrace a woman... I want to fuck...[pcms]
 
 *1173|
 [fc]
-[ns]大倉[nse]
-「……っぉおおぉお！？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"...Ooooh!?"[pcms]
 
 *1174|
 [fc]
-まただ……。[r]
-また、頭の中を虫が這いずって……。[pcms]
+Again... The bugs are crawling in my head again...[pcms]
 
 *1175|
 [fc]
-俺……一体どうしたんだ……。[pcms]
+What on earth is happening to me...[pcms]
 
 ;//BLACKOUT
 [fadeoutbgm time=502]
@@ -442,4 +437,4 @@
 
 [jump storage="alive_60120.ks" target=*alive_60120_TOP]
 
-;//－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+;//

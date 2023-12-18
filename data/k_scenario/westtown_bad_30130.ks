@@ -24,79 +24,77 @@
 
 *9540|
 [fc]
-[ns]菅生[nse]
-「まてっつってんだろ！　オッパイちゃんよぉ！」[pcms]
+[ns]Sugou[nse]
+"I said wait! Hey, Tits!"[pcms]
 
 *9541|
 [fc]
 [vo_hay s="hayami1081"]
-[ns]ありす[nse]
-「ハァ……ハァ……」[pcms]
+[ns]Alice[nse]
+"Haa... Haa..."[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
 *9542|
 [fc]
-オジサンが後ろに迫る。[pcms]
+The old man is closing in from behind.[pcms]
 
 *9543|
 [fc]
-今まで生きてきた中でこれ以上ないってほど[r]
-本気で走っているのに、まるで引き離せない。[pcms]
+Even though I'm running as hard as I ever have in my life, I[r]
+can't seem to shake him off at all.[pcms]
 
 *9544|
 [fc]
-私ってこんなに足遅かった……？[r]
-それとも、恐怖心が動きを鈍らせているのだろうか？[pcms]
+Was I always this slow? Or is it the fear that's making my[r]
+movements sluggish?[pcms]
 
 *9545|
 [fc]
-[ns]菅生[nse]
-「これ以上逃げるってんなら、[r]
-　オメェもただじゃおかねぇぞ！」[pcms]
+[ns]Sugou[nse]
+"If you keep trying to run away, you won't get off scot-[r]
+free!"[pcms]
 
 *9546|
 [fc]
-オジサンの怒声がフロア中に響き渡る。[r]
-余計なことを考えている場合じゃない。[pcms]
+The old man's angry voice echoes throughout the floor. This[r]
+is no time for unnecessary thoughts.[pcms]
 
 *9547|
 [fc]
-早く逃げないと……！[pcms]
+I have to escape quickly...![pcms]
 
 *9548|
 [fc]
-[ns]菅生[nse]
-「逃げたって無駄だ！[r]
-　どこまでだって追いかけてやっかんな！」[pcms]
+[ns]Sugou[nse]
+"It's useless to run! I'll chase you wherever you go!"[pcms]
 
 *9549|
 [fc]
-逃げたって無駄……そうかもしれな。[r]
-これだけ必死になって走っても、[r]
-ちっとも引き離せない……。[pcms]
+Running might be futile... Maybe that's true. No matter how[r]
+desperately I run, I can't seem to get away...[pcms]
 
 *9550|
 [fc]
-だけど、その瞬間、さっきの男の人たちや、[r]
-長崎さんの姿が思い浮かぶ。[pcms]
+But at that moment, the images of the men from earlier and[r]
+Nagasaki-san flash through my mind.[pcms]
 
 *9551|
 [fc]
-動きを止めたら、あきらめたら、[r]
-私もああなってしまう。[pcms]
+If I stop moving, if I give up, I'll end up just like them.[pcms]
 
 *9552|
 [fc]
-逃げ続けるしかない、この先に何があっても。[pcms]
+The only option is to keep running, no matter what lies[r]
+ahead.[pcms]
 
 ;//★黒画面
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
 *9553|
 [fc]
-私は息を大きく吸い込み、建物の奥に見える階段を[r]
-目指して、駆け出した。[pcms]
+I take a deep breath and start sprinting towards the[r]
+staircase at the back of the building.[pcms]
 
 ;//→次ブロック
 ;//　ブロック３０１４０：『捕獲』

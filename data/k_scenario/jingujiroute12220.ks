@@ -18,8 +18,8 @@
 
 *5597|
 [fc]
-[ns]大倉[nse]
-「はあぁ～～っ……はあぁ～～っ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Haaah... Haaah..."[pcms]
 
 ;//＠前ファイルからの続きらしい
 ;//射精後の差分を表示。現時点で使用する差分は不明
@@ -30,114 +30,109 @@
 *5598|
 [fc]
 [vo_may s="maya0483"]
-[ns]摩耶[nse]
-「は……ぅ……」[pcms]
+[ns]Maya[nse]
+"Ha... Uh..."[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
 *5599|
 [fc]
-俺はまた、女の子の肌に精液をブチ撒けて、床に[r]
-大の字に寝っ転がった。[pcms]
+I once again splattered my semen on a girl's skin and[r]
+sprawled out on the floor in the shape of the character '大'.[pcms]
 ;//佐藤修正
 
 *5600|
 [fc]
-[ns]大倉[nse]
-「はぁあ゛ぁ～～～っ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Haaaah..."[pcms]
 
 *5601|
 [fc]
-どのぐらいの時間、ココにいるのか。[r]
-自分が横に寝ている女の子と何回セックスして、どれ[r]
-ぐらいの精液を出したのか。[pcms]
+How long have I been here? How many times have I had sex[r]
+with the girl lying next to me, and how much semen have I[r]
+released?[pcms]
 
 *5602|
 [fc]
-初めのうちは感じていた、荷台の中に充満していく、[r]
-汗や精液、オマンコ汁とか、ションベンとか、いろん[r]
-なものが混ざった臭い。[pcms]
+At first, I was aware of the smell filling the cargo bedthe[r]
+sweat, semen, pussy juice, and urineall mixing together.[pcms]
 
 *5603|
 [fc]
-どれもこれも、俺はもう、ずいぶん前からわからなく[r]
-なっていた。[pcms]
+But all of that, I had lost track of a long time ago.[pcms]
 
 *5604|
 [fc]
-顔も、髪も、オマンコも全身、俺の精液にまみれている[r]
-目の前の女の子を見れば、だいぶ長い時間、ココに[r]
-いるってコトはわかった。[pcms]
+Looking at the girl in front of me, covered in my semen from[r]
+her face to her hair to her pussy and all over her body, I[r]
+knew we had been here for quite a long time.[pcms]
 ;//佐藤修正
 
 *5605|
 [fc]
 [vo_may s="maya0484"]
-[ns]摩耶[nse]
-「ぅ……ん……」[pcms]
+[ns]Maya[nse]
+"Uh... Mm..."[pcms]
 
 *5606|
 [fc]
-[ns]大倉[nse]
-「……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"..."[pcms]
 
 *5607|
 [fc]
-俺は目の前にいる子が、なんて名前か、[r]
-自分のカノジョなのか、それとも友達なのか、[r]
-全然思い出せなかった。[pcms]
+I couldn't remember the name of the girl in front of me,[r]
+whether she was my girlfriend or just a friend.[pcms]
 
 *5608|
 [fc]
-大切なひと、というコトは憶えてるけど、どう大切だっ[r]
-たのか、なんで大切だと思ってるのかはわからない。[pcms]
+I remember that she's someone important to me, but I can't[r]
+recall why or how she's important.[pcms]
 
 *5609|
 [fc]
-けど、大事なのは、この子が大切なひとだということが[r]
-わかってる、ってコトだと思った。[pcms]
+But what's important is that I know she's someone dear to[r]
+me.[pcms]
 
 [evcg storage="HEV117f"][trans_c cross time=301]
 ;//佐藤位置変更しました。
 
 *5610|
 [fc]
-りゆうはどうでもいい……。[r]
-このこが、おれにとって、たいせつなひとなのは、[r]
-いっしょう、かわらない……。[pcms]
+The reason doesn't matter... The fact that she is precious[r]
+to me will never change...[pcms]
 
 *5611|
 [fc]
-[ns]大倉[nse]
-「はら゛へったあ゛ぁ～～……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"I'm so hungry..."[pcms]
 
 *5612|
 [fc]
-俺は体を起こして、まだグッタリと横になったままの[r]
-女の子を見下ろす。[pcms]
+I sat up and looked down at the girl who was still lying[r]
+there exhausted.[pcms]
 
 *5613|
 [fc]
-女の子は、顔だけ動かして、ボンヤリとした目で俺の[r]
-コトを見つめ返してきた。[pcms]
+The girl only moved her face and gazed back at me with a[r]
+vacant look in her eyes.[pcms]
 
 *5614|
 [fc]
-[ns]大倉[nse]
-「はら゛、へら゛ね゛～……？　め゛し、くい゛に゛[r]
-　い゛こう゛せ゛……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"I'm starving... Let's go get some food..."[pcms]
 
 *5615|
 [fc]
 [vo_may s="maya0485"]
-[ns]摩耶[nse]
-「……」[pcms]
+[ns]Maya[nse]
+"..."[pcms]
 ;//◎薄く笑う
 
 *5616|
 [fc]
-服を着た女の子の手を引き、俺は一緒に、トラックの[r]
-荷台を降りた。[pcms]
+Taking the hand of the clothed girl, we both descended from[r]
+the truck's cargo bed together.[pcms]
 ;//佐藤修正
 
 
@@ -155,122 +150,116 @@
 
 *5617|
 [fc]
-坂を登り切り、暗い地下駐車場を出ると、眩しい光が[r]
-俺らを目がけて降り注いできた。[pcms]
+After climbing up the slope and leaving the dark underground[r]
+parking lot, a blinding light poured down on us.[pcms]
 
 *5618|
 [fc]
-[ns]大倉[nse]
-「う゛ぅ～～……やめ゛ろ゛よぉ……み゛えないた゛[r]
-　ろお゛ぉ～～……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Ugh... Stop it... I can't see anything..."[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
 *5619|
 [fc]
-降り注いでくる光を手で払いながら、俺らは食い物を[r]
-探しに歩き出した。[pcms]
+Shielding our eyes from the pouring light, we started[r]
+walking in search of food.[pcms]
 
 *5620|
 [fc]
-目の前に拡がっている地面は、どこもかしこもボロボ[r]
-ロで、白や黒の煙を上げていた。[pcms]
+The ground before us was ragged everywhere, with white and[r]
+black smoke rising.[pcms]
 
 *5621|
 [fc]
-アスファルトや、壁だったらしいコンクリの欠片が、[r]
-あちこちに転がっている。[pcms]
+Asphalt and what seemed to be chunks of concrete were[r]
+scattered all around.[pcms]
 
 *5622|
 [fc]
-辺りには背の高い木は一本も無く、全部折れてしまっ[r]
-ている。[pcms]
+There wasn't a single tall tree in sight; they were all[r]
+broken.[pcms]
 
 *5623|
 [fc]
-折れたものらしい木が何本も地面に転がってて、全部[r]
-黒コゲになっていた。[pcms]
+The trees that seemed to have been broken were lying on the[r]
+ground, all charred black.[pcms]
 
 *5624|
 [fc]
-転がってる木の中には燃えてるやつもあって、その火[r]
-が近くの植え込みに移っていた。[pcms]
+Among the fallen trees, some were still burning, and the[r]
+fire had spread to nearby bushes.[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_a01"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *5625|
 [fc]
-[ns]大倉[nse]
-「と゛こて゛、め゛し、くお゛うかな゛ぁ～～……。[r]
-　あ゛……そう゛か、う゛ちて゛くえ゛は゛いい゛ん[r]
-　た゛……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Where can we eat... Ah... right, we can eat at home..."[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_a04"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *5626|
 [fc]
 [vo_may s="maya0486"]
-[ns]摩耶[nse]
-「う゛ん……」[pcms]
+[ns]Maya[nse]
+"Mm..."[pcms]
 
 *5627|
 [fc]
-[ns]大倉[nse]
-「し゛ゃぁ、う゛ちに゛かえる゛かあぁ～～……！[r]
-　う゛ちに゛かえれは゛、くう゛も゛ん、ある゛とお[r]
-　も゛う゛し……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Then let's go home...! If we go home, there should be[r]
+food..."[pcms]
 
 *5628|
 [fc]
 [vo_may s="maya0487"]
-[ns]摩耶[nse]
-「うん゛……」[pcms]
+[ns]Maya[nse]
+"Mm..."[pcms]
 
 *5629|
 [fc]
-[ns]大倉[nse]
-「きみ゛も゛、う゛ちこい゛よぉ……くい゛も゛ん、[r]
-　やる゛よ゛ぉ～～……！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"You should come to my place too... I'll give you food..."[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_a02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *5630|
 [fc]
 [vo_may s="maya0488"]
-[ns]摩耶[nse]
-「う゛ん……」[pcms]
+[ns]Maya[nse]
+"Mm..."[pcms]
 
 *5631|
 [fc]
-うなずきながら、女の子は俺の手をしっかり握って、[r]
-恥ずかしそうに微笑み、少しうつむいた。[pcms]
+Nodding, the girl firmly grasped my hand, smiled shyly, and[r]
+looked down slightly.[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_a03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *5632|
 [fc]
 [vo_may s="maya0489"]
-[ns]摩耶[nse]
-「……」[pcms]
+[ns]Maya[nse]
+"..."[pcms]
 ;//◎微笑む
 
 *5633|
 [fc]
-[ns]大倉[nse]
-「お゛んな゛の゛こと、てぇつな゛いて゛、うちに゛[r]
-　かえる゛な゛んて……な゛んか、て゛ーとみ゛たい[r]
-　た゛なあ゛ぁ～～……！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Walking home holding hands with a girl... It feels like a[r]
+date or something..."[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_a07"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *5634|
 [fc]
 [vo_may s="maya0490"]
-[ns]摩耶[nse]
-「う゛ん……」[pcms]
+[ns]Maya[nse]
+"Mm..."[pcms]
 ;//◎嬉しそう
 
 *5635|
 [fc]
-ニッコリ笑ってその顔がすごくカワイくて、俺はなん[r]
-だか嬉しくなって、繋いだ手をブンブン振りながら、[r]
-家に向かって歩き続けた。[pcms]
+Her smile was so cute that it made me happy, and I continued[r]
+walking towards home, swinging our linked hands back and[r]
+forth.[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
@@ -285,274 +274,268 @@
 
 *5636|
 [fc]
-[ns]大倉[nse]
-「あれ゛……？　この゛しょう゛てんか゛い゛、[r]
-　こんな゛なま゛え゛た゛ったか……？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Huh...? Was this shopping district always named like[r]
+this...?"[pcms]
 
 *5637|
 [fc]
-地面に転がっている、『青芭通り商店街』というバカ[r]
-でかい看板を見て、俺は変に思ったけど、家に帰る[r]
-のに商店街を抜けてくのは間違いない。[pcms]
+Looking at the huge sign on the ground that read "Aoba[r]
+Street Shopping District," I felt something was off, but I[r]
+was sure that passing through the shopping district was the[r]
+correct way home.[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
 *5638|
 [fc]
-だから、俺は気にせず、商店街の中を歩き始めた。[pcms]
+So without worrying about it, I started walking through the[r]
+shopping district.[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_g05"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *5639|
 [fc]
-[ns]大倉[nse]
-「あれ゛え゛ぇ～～……？　み゛んな゛、たてな゛お[r]
-　してんの゛かな゛……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"What the...? Are all these buildings supposed to be[r]
+standing upright...?"[pcms]
 
 *5640|
 [fc]
-道の両側に並んでいたはずのビルは、ほとんど崩れて[r]
-無くなっていて、商店街はやたらと見通しが良くなっ[r]
-ていた。[pcms]
+The buildings that should have lined both sides of the road[r]
+were mostly crumbled away, making the shopping district[r]
+unusually open.[pcms]
 
 *5641|
 [fc]
-崩れてない建物でも、店はやってないみたいで、その[r]
-せいなのか、商店街には俺ら２人以外、誰も歩いてな[r]
-かった。[pcms]
+Even the buildings that hadn't fallen seemed closed, and[r]
+perhaps because of that, there was no one else walking in[r]
+the shopping district besides us two.[pcms]
 
 *5642|
 [fc]
-[ns]大倉[nse]
-「へんた゛な゛ぁ……きの゛うま゛て゛、やってたん[r]
-　た゛けと゛な゛あぁ～～……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"This is strange... Everything was open yesterday..."[pcms]
 
 *5643|
 [fc]
-突然、改装を始めてる店に、俺は首をひねりながら、[r]
-商店街の端っこまで歩いてきた。[pcms]
+Suddenly puzzled by a store that seemed to be undergoing[r]
+renovation, I walked to the edge of the shopping district.[pcms]
 
 *5644|
 [fc]
-[ns]大倉[nse]
-「ここすき゛たら゛ぁ、も゛うちょっとた゛から゛[r]
-　な゛あぁ～～……！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Once we pass this point, it's just a bit further..."[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_a03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *5645|
 [fc]
 [vo_may s="maya0491"]
-[ns]摩耶[nse]
-「う゛ん……」[pcms]
+[ns]Maya[nse]
+"Mm..."[pcms]
 ;//◎微笑んでうなずく
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *5646|
 [fc]
-[ns]大倉[nse]
-「お……？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Oh...?"[pcms]
 
 *5647|
 [fc]
-商店街を出て少し歩いた所で、道の先の方に、[r]
-ユラユラと揺れてる黒い影が現れた。[pcms]
+Just a short walk from the shopping district, a swaying[r]
+black shadow appeared in the distance down the road.[pcms]
 
 *5648|
 [fc]
 [ns]？？？[nse]
-「……！！　…………！！」[pcms]
+"...!! ...!!"[pcms]
 
 *5649|
 [fc]
-その影はユラユラと揺れながら、なにか大きな音を出[r]
-していた。[pcms]
+The shadow swayed back and forth, making some kind of loud[r]
+noise.[pcms]
 
 *5650|
 [fc]
-それがただの音なのか、人間の言葉なのか、動物の鳴[r]
-き声なのか、俺にはよく聞こえなかった。[pcms]
+I couldn't tell if it was just noise, human speech, or the[r]
+cry of an animal.[pcms]
 
 *5651|
 [fc]
-そんなコトよりも、ユラユラ動いてる影が、なんでか[r]
-俺にはウマそうに見えてきて、腹が大きく鳴るのが聞[r]
-こえた。[pcms]
+More than that, the swaying shadow somehow looked delicious[r]
+to me, and I could hear my stomach growling loudly.[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_a02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *5652|
 [fc]
-[ns]大倉[nse]
-「な゛んか、うま゛そうた゛な゛ぁ～～、あれ゛ぇ～[r]
-　……くっても゛、いい゛かな゛あ゛ぁ～～……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"That looks kinda delicious... I wonder if it's okay to eat[r]
+it..."[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_a03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *5653|
 [fc]
 [vo_may s="maya0492"]
-[ns]摩耶[nse]
-「うん゛……」[pcms]
+[ns]Maya[nse]
+"Mm..."[pcms]
 
 *5654|
 [fc]
-うなずく声に隣を見ると、女の子は俺を見て、また[r]
-ニッコリと笑った。[pcms]
+As I nodded at the voice beside me, the girl looked at me[r]
+and smiled brightly again.[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_a04"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *5655|
 [fc]
 [vo_may s="maya0493"]
-[ns]摩耶[nse]
-「わたしも゛、たへ゛たい゛……」[pcms]
+[ns]Maya[nse]
+"I want to eat it too..."[pcms]
 
 *5656|
 [fc]
-[ns]大倉[nse]
-「よ゛お゛ぉ～～し……！　し゛ゃぁ、くい゛に゛い[r]
-　こう゛せ゛え゛ぇ～～……！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Alright...! Then let's go eat it...!!"[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_a07"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *5657|
 [fc]
 [vo_may s="maya0494"]
-[ns]摩耶[nse]
-「う゛ん……！」[pcms]
+[ns]Maya[nse]
+"Mm...!"[pcms]
 
 *5658|
 [fc]
-俺らはお互いの手をしっかりと握り直し、その黒い影[r]
-に向かって同時に歩き出した。[pcms]
+We gripped each other's hands tightly and started walking[r]
+towards the black shadow at the same time.[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *5659|
 [fc]
 [ns]？？？[nse]
-「…………！！　……！！！！」[pcms]
+"...!! ...!!!!"[pcms]
 
 *5660|
 [fc]
-あのくろいの、どんなあじがすんだろ……。[r]
-あぁ～～、はやくたべてー……！！[pcms]
+I wonder what that black thing tastes like... Ahh, I can't[r]
+wait to eat it...!![pcms]
 
 *5661|
 [fc]
-堪らなくなって、唇を舐めながら、歩くスピードを上[r]
-げた俺は、変な感じがして立ち止まった。[pcms]
+Unable to contain myself, I licked my lips and increased my[r]
+walking speed, but then I stopped because something felt[r]
+strange.[pcms]
 
 [se0 storage="SE08"]
 ;//上記佐藤追加
 
 *5662|
 [fc]
-繋いでいた女の子の手が、急に軽くなったせいだった。[pcms]
+The hand of the girl I was holding suddenly felt lighter.[pcms]
 
 *5663|
 [fc]
-[ns]大倉[nse]
-「んん～～……？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Hmm...?"[pcms]
 
 ;//♪：bgm010 fadeout
 [fadeoutbgm time=1000][wb]
 
 *5664|
 [fc]
-隣を見ると、俺が繋いでいる手は、肘の所までしかな[r]
-くて、そこから先にあるはずの、女の子の体が無く[r]
-なっていた。[pcms]
+When I looked beside me, I saw that the hand I was holding[r]
+was only up to the elbow, and the girl's body that should[r]
+have been there was gone.[pcms]
 
 [bgm storage="bgm018"]
 ;//佐藤が追加しました。
 
 *5665|
 [fc]
-[ns]大倉[nse]
-「あれ゛……？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"What...?"[pcms]
 
 *5666|
 [fc]
-急に歩くスピードをあげたから、体だけ置いてけぼり[r]
-にしたのかもと、後ろを振り返ってみると、キョトン[r]
-とした顔で、女の子はそこに立っていた。[pcms]
+Maybe because I suddenly increased my walking speed, I left[r]
+her body behind. When I turned around, the girl was standing[r]
+there with a puzzled look on her face.[pcms]
 
 [se0 storage="SE08"]
 ;//上記佐藤追加
 
 *5667|
 [fc]
-[ns]大倉[nse]
-「あ゛ぁ～～、こ゛め……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Ah, sorry..."[pcms]
 
 *5668|
 [fc]
-俺が謝ろうとした瞬間、女の子の首から上が、音も無[r]
-く爆発して消えてしまった。[pcms]
+The moment I tried to apologize, the girl's head exploded[r]
+without a sound and disappeared.[pcms]
 
 *5669|
 [fc]
-女の子の体は、少しグラッと揺れると、ゆっくりと、[r]
-仰向けに倒れていった。[pcms]
+The girl's body swayed slightly and then slowly fell[r]
+backward.[pcms]
 
 *5670|
 [fc]
-[ns]大倉[nse]
-「あ……え……？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Ah... eh...?"[pcms]
 
 *5671|
 [fc]
-地面に仰向けになった女の子の首から、チョロチョロ[r]
-と血が流れ出してきて、全然止まろうとしない。[pcms]
+Blood started trickling from the neck of the girl lying on[r]
+her back on the ground, and it didn't seem to stop at all.[pcms]
 
 *5672|
 [fc]
-[ns]大倉[nse]
-「あれ……？　あれ……？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"What...? What...?"[pcms]
 
 *5673|
 [fc]
-俺は女の子の横に膝をついて、地面を撫で回し、傍に[r]
-あったガレキをどかして、消えてしまった顔を探した。[pcms]
+I knelt beside the girl, stroked the ground, moved debris[r]
+aside, and searched for her vanished face.[pcms]
 
 *5674|
 [fc]
-[ns]大倉[nse]
-「あ゛れ……？　と゛こい゛ったの゛……？[r]
-　ね゛えぇ～～……あれ゛ぇ～～……？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Where did it go...? Hey... where...?"[pcms]
 
 *5675|
 [fc]
-けど、いくら地面を漁ってみても、手が真っ赤に、[r]
-温かくなるだけで、いつまでたっても見つかるコトは[r]
-なかった。[pcms]
+But no matter how much I searched the ground, my hands just[r]
+got red and warm, and I never found what I was looking for.[pcms]
 
 *5676|
 [fc]
-[ns]大倉[nse]
-「ね゛ぇ……ね゛ぇ～……ね゛え゛ぇ～～……」[pcms]
+[ns]Ookura[nse]
+"Hey... hey... hey..."[pcms]
 
 *5677|
 [fc]
-顔の無くなってしまった体を揺らし続けたけど、女の[r]
-子は動こうとしなかった。[pcms]
+I kept shaking the body without a face, but the girl didn't[r]
+move at all.[pcms]
 
 *5678|
 [fc]
-[ns]大倉[nse]
-「は……あ゛……あ゛ぁっ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Ha... ah... ahh..."[pcms]
 
 *5679|
 [fc]
-いなくなっちまった……。[r]
-おれの……。[r]
-おれの、たいせつなひと……。[pcms]
+She's gone... My... My precious person...[pcms]
 
 *5680|
 [fc]
-なまえ、わすれちまったけど……。[r]
-たいせつだった……。[r]
-おれの、いちばん、たいせつなもの……！！[pcms]
+I've forgotten her name... But she was important... My most[r]
+important thing...!![pcms]
 
 ;//♪：bgm018
 ;//[bgm storage="bgm018"]
@@ -562,10 +545,8 @@
 
 *5681|
 [fc]
-[ns]大倉[nse]
-「おお゛おおお゛ぉぉぉぉお゛あぁああっあ゛あ゛あ[r]
-　あああ゛あっか゛ああ゛あ゛あああ゛あ゛っあ゛ぁ[r]
-　あぉおああか゛ああ゛ッ……！！！！！！！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Aaaaaahhhhhhhhhhhhhhhhhhhhhhhhhhhhhh!!!!!!"[pcms]
 
 [sysbt_meswin clear]
 
@@ -606,4 +587,4 @@
 *EED02
 [returntitle]
 
-;//－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+;//

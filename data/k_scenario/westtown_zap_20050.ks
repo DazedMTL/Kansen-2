@@ -20,12 +20,13 @@
 
 *12754|
 [fc]
-日本海上に浮かぶ、世界最大と言われる原子力航空母艦。[pcms]
+The world's largest nuclear-powered aircraft carrier, said[r]
+to be floating on the Sea of Japan.[pcms]
 
 *12755|
 [fc]
-その艦内に設けられた特別室では、老紳士が柔らかい[r]
-ソファに体を埋めていた。[pcms]
+In a special room aboard the ship, an elderly gentleman was[r]
+sinking into a soft sofa.[pcms]
 
 ;//BG表示
 
@@ -33,225 +34,229 @@
 
 *12756|
 [fc]
-[ns]駐留軍将校[nse]
-「ヤマグチでも、感染した人間が確認されました」[pcms]
+[ns]Stationed Military Officer[nse]
+"Even in Yamaguchi, we have confirmed infected individuals."[pcms]
 
 *12757|
 [fc]
-部屋の隅に置かれていた電話機での会話を終え、大柄[r]
-な黒人の駐留軍将校は、老紳士の向かいのソファに体[r]
-を沈めた。[pcms]
+After finishing the conversation on the telephone placed in[r]
+the corner of the room, the tall black military officer[r]
+stationed there sank into the sofa opposite the elderly[r]
+gentleman.[pcms]
 
 *12758|
 [fc]
-[ns]老紳士[nse]
-「山具地県で……？　ということは、本州全部にいると[r]
-　見ても良さそうだね……」[pcms]
+[ns]Old Gentleman[nse]
+"In Yamaguchi Prefecture...? That means it's likely spread[r]
+throughout all of Honshu..."[pcms]
 
 *12759|
 [fc]
-[ns]駐留軍将校[nse]
-「それから、ミサワでもウイルスが原因で兵士が暴走[r]
-　しました」[pcms]
+[ns]Stationed Military Officer[nse]
+"Additionally, in Misawa, a soldier went berserk due to the[r]
+virus."[pcms]
 
 *12760|
 [fc]
-[ns]駐留軍将校[nse]
-「しかし、このケースでは、鎮圧は必要ありませんで[r]
-　した。兵士同士で殺し合って、ほとんどは施設の中[r]
-　で死亡しました」[pcms]
+[ns]Stationed Military Officer[nse]
+"However, in this case, suppression was not necessary. The[r]
+soldiers killed each other, and most died within the[r]
+facility."[pcms]
 
 *12761|
 [fc]
-淡々と、流暢な日本語で話していた黒人将校に、日本[r]
-人の老紳士は眉を顰めた。[pcms]
+The black officer, who had been speaking fluent Japanese,[r]
+caused the Japanese elderly gentleman to frown.[pcms]
 
 *12762|
 [fc]
-[ns]老紳士[nse]
-「ほとんど、っていうのは？」[pcms]
+[ns]Old Gentleman[nse]
+"Most of them, you say?"[pcms]
 
 *12763|
 [fc]
-[ns]駐留軍将校[nse]
-「はい……兵士の１人がミサワに搬入してあった、[r]
-　『あれ』を積んだＦ－１１７を、盗んで逃げました」[pcms]
+[ns]Stationed Military Officer[nse]
+"Yes... One of the soldiers stole an F-117 loaded with[r]
+'that' which had been brought to Misawa and fled."[pcms]
 
 *12764|
 [fc]
-[ns]老紳士[nse]
-「あれって、新しく開発してたっていう、[r]
-　『アレ』かい……？」[pcms]
+[ns]Old Gentleman[nse]
+"'That', as in the new development you mentioned...?"[pcms]
 
 *12765|
 [fc]
-[ns]駐留軍将校[nse]
-「はい……その兵士を２人が追いましたが、センダイ[r]
-　の上空でＦ－１１７を破壊したあと、両機とも自分[r]
-　から落ちました」[pcms]
+[ns]Stationed Military Officer[nse]
+"Yes... Two soldiers pursued him, but after destroying the[r]
+F-117 over Sendai, both aircraft crashed by their own[r]
+volition."[pcms]
 
 *12766|
 [fc]
-そこまで言って、黒人将校は苦虫を噛み潰したような[r]
-顔になった。[pcms]
+The black officer's face turned sour as if he had bitten[r]
+into a bitter bug while saying that.[pcms]
 
 *12767|
 [fc]
-[ns]駐留軍将校[nse]
-「しかし、Ｆ－１１７を破壊した時に、『アレ』も一緒に[r]
-　爆発を……」[pcms]
+[ns]Stationed Military Officer[nse]
+"However, when the F-117 was destroyed, 'that' also[r]
+exploded..."[pcms]
 
 *12768|
 [fc]
-黒人将校の言葉に、老紳士は大きく息をつき、落胆し[r]
-た表情を作った。[pcms]
+The words of the black officer made the elderly gentleman[r]
+sigh deeply and wear a look of disappointment.[pcms]
 
 *12769|
 [fc]
-[ns]老紳士[nse]
-「これで３回目だね。あってはならない物が、この国[r]
-　で使われるのは……」[pcms]
+[ns]Old Gentleman[nse]
+"This is the third time. It's unacceptable for such things[r]
+to be used in this country..."[pcms]
 
 *12770|
 [fc]
-[ns]駐留軍将校[nse]
-「すみません」[pcms]
+[ns]Stationed Military Officer[nse]
+"I apologize."[pcms]
 
 *12771|
 [fc]
-目を伏せ、苦渋に満ちた表情を浮かべる老紳士を、[r]
-黒人将校は緊張した面持ちで見つめた。[pcms]
+The black officer stared tensely at the elderly gentleman,[r]
+who cast his eyes down with a look full of bitter sorrow.[pcms]
 
 *12772|
 [fc]
-目の前の老紳士が、見た目通りの人間でないのを、[r]
-よく知っていたからだった。[pcms]
+The officer knew all too well that the elderly gentleman[r]
+before him was not as he appeared.[pcms]
 
 *12773|
 [fc]
-目の動き一つで、大勢の他者を、その命ごと操れる[r]
-この老紳士の心情が、今度の事で翻った時、何が起こ[r]
-るのか。[pcms]
+What would happen when the emotions of this elderly[r]
+gentleman, who could control many others with just a glance,[r]
+were turned by this incident?[pcms]
 
 *12774|
 [fc]
-自分と自分の家族の存在は、いとも簡単に、そして誰[r]
-も気づかない内に、全て無かった事にされてしまうの[r]
-は間違いない。[pcms]
+The existence of himself and his family could easily and[r]
+unnoticed be erased entirely.[pcms]
 
 *12775|
 [fc]
-もっと言えば、自分の愛する国すらも、この老紳士な[r]
-ら脅かしかねなかった。[pcms]
+Furthermore, even his beloved country could be threatened by[r]
+this elderly gentleman.[pcms]
 
 *12776|
 [fc]
-例え、今この場で老紳士の命を奪っても、彼の手から[r]
-逃れる事はできないだろう。[pcms]
+Even if he were to take the life of the elderly gentleman[r]
+right now, it would be impossible to escape from his grasp.[pcms]
 
 *12777|
 [fc]
-老紳士は、そういう種類の人間なのだ。[pcms]
+The elderly gentleman was that kind of person.[pcms]
 
 *12778|
 [fc]
-[ns]老紳士[nse]
-「……あと何日もしない内に、日本全土にウイルスが[r]
-　行き渡るだろうなぁ。終わりだね、この国も」[pcms]
+[ns]Old Gentleman[nse]
+"...In just a few more days, the virus will have spread[r]
+throughout Japan. It's over for this country too."[pcms]
 
 *12779|
 [fc]
-[ns]駐留軍将校[nse]
-「計画を凍結して、ステイツにしますか？　そのため[r]
-　の準備は全てできています」[pcms]
+[ns]Stationed Military Officer[nse]
+"Shall we freeze the plan and move to the States? All[r]
+preparations for that are complete."[pcms]
 ;//※私の国＝ステイツ
 
 *12780|
 [fc]
-部下の失態による汚名を返上しようと、老紳士の機嫌[r]
-を取るかの様に、黒人将校は自分の有能さをアピール[r]
-した。[pcms]
+To redeem himself from his subordinate's disgrace, the black[r]
+officer appealed his competence as if to please the elderly[r]
+gentleman.[pcms]
 
 *12781|
 [fc]
-何もかもを諦めた様な表情だった老紳士は、黒人将校[r]
-の言葉に微笑んで、首を横に振った。[pcms]
+The elderly gentleman, who seemed to have given up on[r]
+everything, smiled at the words of the black officer and[r]
+shook his head.[pcms]
 
 *12782|
 [fc]
-[ns]老紳士[nse]
-「確かに、この国は終わりだ。ウイルスのせいだけ[r]
-　じゃない。どこもかしこも腐ってしまって、昔の様[r]
-　な美しさは、この国のどこにも残っていない」[pcms]
+[ns]Old Gentleman[nse]
+"Indeed, this country is finished. Not just because of the[r]
+virus. Everything is rotten to the core; there's no beauty[r]
+left anywhere like it used to be."[pcms]
 
 *12783|
 [fc]
-[ns]老紳士[nse]
-「この騒ぎを見れば、人の心にさえ、美しい部分が[r]
-　残っていないのがわかるよ……」[pcms]
+[ns]Old Gentleman[nse]
+"This commotion shows that not even a beautiful part remains[r]
+in people's hearts..."[pcms]
 
 *12784|
 [fc]
-[ns]老紳士[nse]
-「でもね、生きていれば……命の力が残ってさえ[r]
-　いれば、幾らでも取り戻せる。美しい国も、美しい[r]
-　人の心も。６０年前に、そうしたようにね」[pcms]
+[ns]Old Gentleman[nse]
+"But you know, as long as there is life... as long as there[r]
+is a force of life remaining, anything can be reclaimed. A[r]
+beautiful country and beautiful human hearts. Just like we[r]
+did 60 years ago."[pcms]
 
 *12785|
 [fc]
-その頃の光景を思い出しているのか、黒人将校に向け[r]
-た老紳士の目に、刹那の間、熱い光が宿る。[pcms]
+As if recalling scenes from that time, a passionate light[r]
+flickered momentarily in the eyes of the elderly gentleman[r]
+as he looked at the black officer.[pcms]
 
 *12786|
 [fc]
-[ns]老紳士[nse]
-「だから、計画は変更しないで、そのまま進めるよ。[r]
-　こういう状況なる事は、織り込み済みだしね」[pcms]
+[ns]Old Gentleman[nse]
+"So, we won't change the plan; we'll proceed as planned.[r]
+We've already factored in situations like this."[pcms]
 
 *12787|
 [fc]
-うなずく黒人将校に、老紳士は頭を背もたれに預けて、[r]
-天井を仰いだ。[pcms]
+The black officer nodded and the elderly gentleman leaned[r]
+his head back against the headrest and looked up at the[r]
+ceiling.[pcms]
 
 *12788|
 [fc]
-[ns]老紳士[nse]
-「でも、今は君の国に向かってくれないか。海の上は[r]
-　何かと不便でね。状況が落ち着くまで、待ってよう[r]
-　と思うんだ」[pcms]
+[ns]Old Gentleman[nse]
+"But now, could you head towards your country? It's somewhat[r]
+inconvenient over the sea. I'm thinking of waiting until[r]
+things settle down."[pcms]
 
 *12789|
 [fc]
-[ns]駐留軍将校[nse]
-「はい。すぐにステイツへ向かう準備を始めます」[pcms]
+[ns]Stationed Military Officer[nse]
+"Yes. I will start preparations to head to the States[r]
+immediately."[pcms]
 
 *12790|
 [fc]
-[ns]老紳士[nse]
-「うん。宜しくね」[pcms]
+[ns]Old Gentleman[nse]
+"Good. Thank you."[pcms]
 
 *12791|
 [fc]
-軽く手を上げて、席を立って部屋を出て行く黒人将校[r]
-を送って、老紳士は目を閉じた。[pcms]
+Raising his hand lightly and standing up from his seat to[r]
+leave the room, the black officer was seen off by the[r]
+elderly gentleman who then closed his eyes.[pcms]
 
 *12792|
 [fc]
-[ns]老紳士[nse]
-「そう、あくまで待つだけだ……。[r]
-　私は必ず日本に戻る……。[r]
-　そして、戻ったその時には……」[pcms]
+[ns]Old Gentleman[nse]
+"Yes, just wait... I will definitely return to Japan... And[r]
+when I do return..."[pcms]
 
 *12793|
 [fc]
-ゆっくりと息を吐きながら、再び瞼を開き、凍りつく[r]
-程に冷たい、研ぎ澄まされた刃に似た光を、老紳士は[r]
-瞳に閃かせた。[pcms]
+While slowly exhaling, he opened his eyelids again and[r]
+flashed a cold light in his eyes sharp as a honed blade.[pcms]
 
 *12794|
 [fc]
-[ns]老紳士[nse]
-「私がこの国と、この国の民を導く長となる」[pcms]
+[ns]Old Gentleman[nse]
+"I will become the leader who guides this country and its[r]
+people."[pcms]
 
 ;//♪：bgm012 fadeout
 [fadeoutbgm time=1000]
@@ -264,4 +269,4 @@
 
 [jump storage="westtown_main10140.ks" target=*westtown_main10140_TOP]
 
-;//－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+;//

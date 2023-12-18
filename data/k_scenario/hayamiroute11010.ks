@@ -21,113 +21,111 @@
 
 *3010|
 [fc]
-起き上がろうともがいているヤツらの間を抜けて、[r]
-俺はシャッターの前に集まっていたイカレ野郎の、[r]
-先頭にいるヤツをシャベルで思いっきり突き飛ばした。[pcms]
+I squeezed through the struggling crowd and pushed the[r]
+leader of the crazed bunch in front of the shutter with all[r]
+my might using a shovel.[pcms]
 
 *3011|
 [fc]
-[ns]Ｙシャツの青年[nse]
-「うふ゛ぅっ……」[pcms]
+[ns]Young man in a dress shirt[nse]
+"Ugh..."[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
 *3012|
 [fc]
-突き飛ばされてフッ飛んだ男が、後ろにいるヤツらと[r]
-一緒に折り重なって倒れた隙に、俺はビルの中に走り[r]
-込んだ。[pcms]
+The man I pushed stumbled back into others behind him, and[r]
+as they collapsed together, I took the chance to dash into[r]
+the building.[pcms]
 
 *3013|
 [fc]
-このシャベル選んで正解だったぜ……[r]
-引っかかれただけでオシマイだからな……。[pcms]
+Choosing this shovel was the right decision... Just getting[r]
+caught by it means the end...[pcms]
 
 *3014|
 [fc]
-さっきのニュース見といて良かった……。[r]
-あの女子アナはかわいそうだったけど……。[pcms]
+I'm glad I watched the news earlier... That female announcer[r]
+was pitiful though...[pcms]
 
 *3015|
 [fc]
-[ns]大倉[nse]
-「そうだ……」[pcms]
+[ns]Ookura[nse]
+"That's right..."[pcms]
 
 *3016|
 [fc]
-もしかしたらあのシャッター、また自然に閉まって[r]
-くるかもしれねー……。[pcms]
+Maybe that shutter will close on its own again...[pcms]
 
 *3017|
 [fc]
-その前に、そこにいるヤツらを全部渡り廊下に入れち[r]
-まえば、閉じこめられるな……。[pcms]
+If I can get all those guys into the corridor before that,[r]
+they'll be trapped...[pcms]
 
 *3018|
 [fc]
-そう思って、倒れたヤツらが起き上がるのを待つ最中、[r]
-向こうの出入り口の傍にあったのと同じ、シャッター[r]
-を操作する装置が壁についてるのに俺は気づいた。[pcms]
+While waiting for the fallen guys to get up, I noticed a[r]
+device to operate the shutter on the wall, just like the one[r]
+near the other entrance.[pcms]
 
 *3019|
 [fc]
-しかも、こっちを担当した警備員は、操作する前に[r]
-ヤツらにヤラレてしまったのか、鍵の付いたフタが[r]
-全開になっている。[pcms]
+Moreover, it seems the security guard in charge here was[r]
+taken out by them before he could operate it, as the lid[r]
+with the key was wide open.[pcms]
 
 *3020|
 [fc]
-今日はツイてるぜ……。[r]
-あれでシャッター下ろせれば、コイツら全員、すぐに[r]
-閉じこめられる……！[pcms]
+Today is my lucky day... If I can lower the shutter with[r]
+that, all these guys will be trapped immediately...![pcms]
 
 *3021|
 [fc]
-[ns]大倉[nse]
-「よし……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Alright..."[pcms]
 
 *3022|
 [fc]
-俺は起き上がったヤツから、転ばさないように手加減[r]
-して、渡り廊下の中へと突き飛ばしていった。[pcms]
+I carefully pushed the ones who had gotten up into the[r]
+corridor, making sure not to knock them down.[pcms]
 
 *3023|
 [fc]
-[ns]大倉[nse]
-「せぁっ！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Seah!"[pcms]
 
 *3024|
 [fc]
-[ns]Ｔシャツの中年[nse]
-「う゛ぅっ……」[pcms]
+[ns]Middle-aged man in a T-shirt[nse]
+"Ugh..."[pcms]
 
 *3025|
 [fc]
-[ns]大倉[nse]
-「おらっ！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Ora!"[pcms]
 
 *3026|
 [fc]
-[ns]ポロシャツの青年[nse]
-「ぉあ゛ぁっ……」[pcms]
+[ns]Young man in a polo shirt[nse]
+"Oaah..."[pcms]
 
 *3027|
 [fc]
-[ns]大倉[nse]
-「大人しくナカ入ってろ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Stay quietly inside!!"[pcms]
 
 *3028|
 [fc]
-[ns]Ｙシャツの中年[nse]
-「お゛ふ゛ぅっ……」[pcms]
+[ns]Middle-aged man in a dress shirt[nse]
+"Oof..."[pcms]
 
 [cutin storage="BGS01a"][trans_c cross time=500]
 
 *3029|
 [fc]
-一番手前にいる男を思いっきり突き飛ばして、後ろの[r]
-ヤツらもまとめて転ばしてから、俺は装置に手を伸ば[r]
-して、『閉』と書かれたボタンを押し込んだ。[pcms]
+I pushed the man at the front with all my might, causing the[r]
+others behind him to fall over as well, then I reached for[r]
+the device and pressed the button marked "Close."[pcms]
 
 ;//[]SE：シャッターが閉まる音（？）3chでよろ
 [se0 storage="SE16"]
@@ -136,9 +134,9 @@
 
 *3030|
 [fc]
-倒れたヤツらが起き上がる前に、シャッターは完全に[r]
-床まで下りて、俺はイカレ野郎を閉じこめるコトに[r]
-成功した。[pcms]
+Before the fallen ones could get up, the shutter completely[r]
+descended to the floor, and I successfully trapped the[r]
+crazed bunch.[pcms]
 
 [stop_se0]
 ;//SE：シャッター乙
@@ -148,31 +146,30 @@
 
 *3031|
 [fc]
-[ns]大倉[nse]
-「ヘッ、ザマーミロ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Heh, serves you right..."[pcms]
 
 [cutin_int][trans_c cross time=300]
 
 *3032|
 [fc]
 [ns]？？？[nse]
-「くそォおあああァァァあっ！！！！[r]
-　あのアマがァあああァァあっ！！！！」[pcms]
+"Damn it aaaaahhhhh!!!! That bitch aaaaahhhhh!!!!"[pcms]
 
 *3033|
 [fc]
-[ns]大倉[nse]
-「！？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"What!?"[pcms]
 
 *3034|
 [fc]
-イカレ野郎みたいな、低く唸るようなのとは違う声に、[r]
-俺はそれが聞こえてくる方へ走った。[pcms]
+The voice was different from the low growling of the crazed[r]
+bunch; I ran towards where it was coming from.[pcms]
 
 *3035|
 [fc]
-俺ら以外にも、マトモな人間がいたんだ……。[r]
-襲われてんのかもしれないし、急がねーと……！[pcms]
+There were other sane people besides us... They might be[r]
+getting attacked, I need to hurry...![pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
@@ -180,4 +177,4 @@
 
 [jump storage="hayamiroute11020.ks" target=*hayamiroute11020_TOP]
 
-;//－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+;//

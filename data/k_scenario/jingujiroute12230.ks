@@ -18,39 +18,37 @@
 
 *5682|
 [fc]
-[ns]大倉[nse]
-「……じゃぁ、約束してくれ。ちょっとでも危なそう[r]
-　な気がしたら、すぐにココに戻ってくる。いいね？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Then, promise me. If you feel even a little bit of danger,[r]
+come back here immediately. Okay?"[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_n02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *5683|
 [fc]
 [vo_may s="maya0495"]
-[ns]摩耶[nse]
-「わかった……」[pcms]
+[ns]Maya[nse]
+"Understood..."[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *5684|
 [fc]
-薄く笑ったままうなずいて、マヤちゃんはシャベルを[r]
-手に取り、荷台から出て行った。[pcms]
+With a faint smile, Maya-chan nodded, took the shovel in her[r]
+hand, and walked out from the cargo bed.[pcms]
 
 *5685|
 [fc]
-[ns]大倉[nse]
-「……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"..."[pcms]
 
 *5686|
 [fc]
-クソ……[r]
-自分の目だけどイラッとくるぜ……。[r]
-中途ハンパな治り方しやがって……。[pcms]
+Damn... Even though it's my own eye, it's irritating... It's[r]
+healing in such a half-assed way...[pcms]
 
 *5687|
 [fc]
-マヤちゃん……。[r]
-頼むから、無事に帰ってきてくれよ……。[pcms]
+Maya-chan... Please, come back safely...[pcms]
 
 ;//♪：bgm004 fadeout
 [fadeoutbgm time=1000]
@@ -58,8 +56,8 @@
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
 ;//BKACKOUT
-[ns]大倉[nse]
-「ん……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Hmm..."[pcms]
 
 ;//[]BG表示
 ;//★ＢＧ：地下搬入口
@@ -72,379 +70,374 @@
 
 *5688|
 [fc]
-[ns]大倉[nse]
-「あれ？　俺……」[pcms]
+[ns]Ookura[nse]
+"Huh? Did I..."[pcms]
 
 *5689|
 [fc]
-マヤちゃんを待ってる間、俺はいつの間にか眠ってた[r]
-らしかった。[pcms]
+While waiting for Maya-chan, it seems I had fallen asleep[r]
+without realizing it.[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
 *5690|
 [fc]
-[ns]大倉[nse]
-「お……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Oh..."[pcms]
 
 *5691|
 [fc]
-見える……。[r]
-目、治ってる……！[pcms]
+I can see... My eye, it's healed...![pcms]
 
 *5692|
 [fc]
-俺はそのコトを早く伝えたくて、ハッキリ見えるよう[r]
-になった視界の中に、マヤちゃんの姿を探した。[pcms]
+Eager to share the news, I searched for Maya-chan's figure[r]
+within my now clear field of vision.[pcms]
 
 *5693|
 [fc]
-[ns]大倉[nse]
-「あ、マヤちゃ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Ah, Maya-cha..."[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_f05"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *5694|
 [fc]
-すぐ傍で、壁にもたれて座っていたマヤちゃんは、濡[r]
-れたタオルを持ったまま、穏やかな寝息を立てていた。[pcms]
+Right beside me, Maya-chan was sitting against the wall,[r]
+breathing peacefully in her sleep, still holding a wet[r]
+towel.[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *5695|
 [fc]
-ショッピングモールに来てから、ずっと動きっぱなし[r]
-だったし、俺のために氷を取りに行ったりしてたから、[r]
-疲れてんだろうな……。[pcms]
+We've been on the move ever since we came to the shopping[r]
+mall, and she went to get ice for me too, so she must be[r]
+tired...[pcms]
 
 *5696|
 [fc]
-それなのに、ずっと俺の目を冷やしてくれて……。[pcms]
+And yet, she kept cooling my eye the whole time...[pcms]
 
 *5697|
 [fc]
-俺はそっと、マヤちゃんの手から濡れタオルを取って、[r]
-床に置いた。[pcms]
+Gently, I took the wet towel from Maya-chan's hand and[r]
+placed it on the floor.[pcms]
 
 *5698|
 [fc]
-起きるまで、そっとしといてやろう……。[r]
-ココを出たら、また動きっぱなしになるしな……。[pcms]
+I'll let her sleep until she wakes up... Once we leave here,[r]
+we'll be on the move again...[pcms]
 
 *5699|
 [fc]
-目も治ったし、マヤちゃんが寝てる間、見張りをして[r]
-ようと立ち上がった俺は、反対側の壁の下に、シャベ[r]
-ルが置かれていたコトに気づいた。[pcms]
+Now that my eye is healed, I stood up to keep watch while[r]
+Maya-chan slept and noticed that the shovel was placed under[r]
+the opposite wall.[pcms]
 
 *5700|
 [fc]
-[ns]大倉[nse]
-「よっ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Alright..."[pcms]
 
 *5701|
 [fc]
-イカレ野郎が近づいてきた時のために、シャベルを手[r]
-に取った俺は、まだ乾ききってない血が、先のすくう[r]
-部分にベットリと付いているのを見つけた。[pcms]
+For when those crazy bastards approach, I picked up the[r]
+shovel and noticed that it was still wet with blood on the[r]
+scooping end.[pcms]
 
 *5702|
 [fc]
-コレ……。[r]
-まさか、一人でアイツらと……！？[pcms]
+This... Don't tell me she took them on alone...!?[pcms]
 
 ;//♪：bgm011
 [bgm storage="bgm011"]
 
 *5703|
 [fc]
-[ns]大倉[nse]
-「マヤちゃん！　マヤちゃんッ！！」[pcms]
+[ns]Ookura[nse]
+"Maya-chan! Maya-chan!!"[pcms]
 
 *5704|
 [fc]
-俺はシャベルを放り投げ、眠ってるマヤちゃんの肩を[r]
-揺らして、急いで起こした。[pcms]
+I threw the shovel aside and shook Maya-chan's shoulder as[r]
+she slept, hurrying to wake her up.[pcms]
 
 *5705|
 [fc]
-もし、アイツらとやり合ってる間にケガしてたんなら、[r]
-すぐに病院に連れてかなきゃ……。[pcms]
+If she got hurt while fighting them, I need to take her to[r]
+the hospital right away...[pcms]
 
 *5706|
 [fc]
-バカ野郎ッ……！！[r]
-だから、ちょっとでも危なそうだったら、すぐに戻っ[r]
-てこいって言ったのに……！！[pcms]
+Idiot...!! That's why I told you to come back immediately if[r]
+it seemed even a little dangerous...!![pcms]
 
 *5707|
 [fc]
-[ns]大倉[nse]
-「マヤちゃん！！　起きろマヤちゃん！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Maya-chan!! Wake up, Maya-chan!!"[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_f02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *5708|
 [fc]
 [vo_may s="maya0496"]
-[ns]摩耶[nse]
-「ん……」[pcms]
+[ns]Maya[nse]
+"Mmm..."[pcms]
 ;//◎目を覚ます
 
 *5709|
 [fc]
-[ns]大倉[nse]
-「大丈夫か！？　ケガは！？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Are you okay!? Any injuries!?"[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_n03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *5710|
 [fc]
 [vo_may s="maya0497"]
-[ns]摩耶[nse]
-「え……？」[pcms]
+[ns]Maya[nse]
+"Eh...?"[pcms]
 ;//◎寝ぼけ気味
 
 *5711|
 [fc]
-マヤちゃんの体には、パッと見、ケガをしたような所[r]
-は見当たらない。[pcms]
+At first glance, there didn't seem to be any injuries on[r]
+Maya-chan's body.[pcms]
 
 *5712|
 [fc]
-けど、建物の中で見たニュースじゃ、人間を病気にす[r]
-るウイルスは、少し引っかかれただけでもうつるって[r]
-コトだった。[pcms]
+But according to the news we saw inside the building, the[r]
+virus that makes people sick can be transmitted with just a[r]
+small scratch.[pcms]
 
 *5713|
 [fc]
-自分で気づいてないだけで、マヤちゃんはケガをして[r]
-るのかもしれない。[pcms]
+It's possible that Maya-chan is injured without realizing[r]
+it.[pcms]
 
 *5714|
 [fc]
-俺は、それを早く確かめたかった。[pcms]
+I wanted to confirm that as soon as possible.[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_n04"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *5715|
 [fc]
-[ns]大倉[nse]
-「アイツら、襲ってきたんだろ！？　ケガは？[r]
-　どこもケガしてないか！？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"They attacked you, didn't they!? Are you hurt? Are there no[r]
+injuries anywhere!?"[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_f02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *5716|
 [fc]
 [vo_may s="maya0498"]
-[ns]摩耶[nse]
-「ヒロシ、痛い……」[pcms]
+[ns]Maya[nse]
+"Hiroshi, it hurts..."[pcms]
 
 *5717|
 [fc]
-焦ってるせいで、彼女の両腕を掴む手に力が入り過ぎ[r]
-ていたコトに、マヤちゃんに言われて俺はやっと気づ[r]
-いて、慌てて離した。[pcms]
+In my panic, I had gripped her arms too tightly without[r]
+realizing it until Maya-chan told me, and I quickly let go.[pcms]
 
 *5718|
 [fc]
-[ns]大倉[nse]
-「あ、あぁ、ゴメン……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Ah, sorry..."[pcms]
 
 *5719|
 [fc]
-苦笑いしながら、マヤちゃんは腕をさすり、俺を見た。[pcms]
+With a wry smile, Maya-chan rubbed her arms and looked at[r]
+me.[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_n03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *5720|
 [fc]
 [vo_may s="maya0499"]
-[ns]摩耶[nse]
-「怪我はしてない……。だから落ち着いて……」[pcms]
+[ns]Maya[nse]
+"I'm not injured... So calm down..."[pcms]
 
 *5721|
 [fc]
-[ns]大倉[nse]
-「ホントに？　ホントにどこもケガしてない？」[pcms]
+[ns]Ookura[nse]
+"Really? You're really not hurt anywhere?"[pcms]
 
 ;//♪：bgm011　fadeout
 [fadeoutbgm time=1][wb]
 
 *5722|
 [fc]
-苦笑いしたままうなずいたマヤちゃんを見て、俺は大[r]
-きく息をついて、その場にヘタりこんでしまった。[pcms]
+Seeing Maya-chan nod with a wry smile, I took a deep breath[r]
+and collapsed on the spot in relief.[pcms]
 
 ;//♪：bgm010
 [bgm storage="bgm010"]
 
 *5723|
 [fc]
-[ns]大倉[nse]
-「良かった……。シャベルに血が付いてるから、アイ[r]
-　ツらとやり合った時に、ケガしたんじゃないかって[r]
-　思って……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Thank goodness... I saw blood on the shovel and thought you[r]
+might have gotten hurt when you fought them..."[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_n07"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *5724|
 [fc]
 [vo_may s="maya0500"]
-[ns]摩耶[nse]
-「ヒロシ、目、見えてるの……」[pcms]
+[ns]Maya[nse]
+"Hiroshi, can you see now...?"[pcms]
 
 *5725|
 [fc]
-[ns]大倉[nse]
-「え？　あぁ、そうそう、治ったよ。カンペキにね。[r]
-　マヤちゃんの顔もよく見える」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Eh? Oh yeah, it's healed. Perfectly. I can see your face[r]
+clearly now."[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_n05"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *5726|
 [fc]
 [vo_may s="maya0501"]
-[ns]摩耶[nse]
-「そう、良かった……」[pcms]
+[ns]Maya[nse]
+"That's good, thank goodness..."[pcms]
 
 *5727|
 [fc]
-[ns]大倉[nse]
-「……ありがとう、マヤちゃん。わざわざ危ない目に[r]
-　遭ってまで、俺のために色々してくれて」[pcms]
+[ns]Ookura Hiroshi[nse]
+"...Thank you, Maya-chan. For going through such danger just[r]
+to do all this for me."[pcms]
 
 *5728|
 [fc]
-すまなそうに言った俺に、マヤちゃんは微笑んで、[r]
-首を小さく横に振った。[pcms]
+As I apologized with a rueful expression, Maya-chan smiled[r]
+gently and shook her head slightly.[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_n03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *5729|
 [fc]
 [vo_may s="maya0502"]
-[ns]摩耶[nse]
-「私は、できることは全部したい……。[r]
-　ヒロシの、ためなら……」[pcms]
+[ns]Maya[nse]
+"I want to do everything I can... For Hiroshi's sake..."[pcms]
 
 *5730|
 [fc]
-[ns]大倉[nse]
-「え……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Eh..."[pcms]
 
 *5731|
 [fc]
-マヤちゃんは真っ赤になってうつむき、ギリギリ聞こ[r]
-えるぐらいの声で、呟くように言った。[pcms]
+Maya-chan turned bright red, looked down, and muttered in a[r]
+barely audible voice,[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_f04"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *5732|
 [fc]
 [vo_may s="maya0503"]
-[ns]摩耶[nse]
-「ヒロシは……大切な……ひと、だから……」[pcms]
+[ns]Maya[nse]
+"Hiroshi is... someone important... to me..."[pcms]
 
 *5733|
 [fc]
-[ns]大倉[nse]
-「……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"..."[pcms]
 
 *5734|
 [fc]
-なにか、物凄く重大なことを言われたような気がした[r]
-けど、俺の頭はそれを理解できないで、キョトンとし[r]
-て、マヤちゃんを見つめることしかできないでいた。[pcms]
+I felt like something of great importance had been said, but[r]
+my mind couldn't comprehend it, and all I could do was stare[r]
+blankly at Maya-chan.[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_f02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *5735|
 [fc]
 [vo_may s="maya0504"]
-[ns]摩耶[nse]
-「……」[pcms]
+[ns]Maya[nse]
+"..."[pcms]
 ;//◎反応が無くて恐怖を感じている
 
 *5736|
 [fc]
-[ns]大倉[nse]
-「……」[pcms]
+[ns]Ookura[nse]
+"..."[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_f01"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *5737|
 [fc]
 [vo_may s="maya0505"]
-[ns]摩耶[nse]
-「……飲む物、まだ冷蔵庫に残ってるはずだから、[r]
-　持ってくる……」[pcms]
+[ns]Maya[nse]
+"There should still be some drinks left in the fridge, I'll[r]
+go get them..."[pcms]
 
 *5738|
 [fc]
-サッと立ち上がって、逃げるように荷台を出て行こう[r]
-とする彼女を、俺は思わず腕を掴んで引き留めた。[pcms]
+She quickly stood up and tried to leave the cargo bed as if[r]
+fleeing, but I instinctively grabbed her arm to stop her.[pcms]
 
 *5739|
 [fc]
-[ns]大倉[nse]
-「あ、えっと……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Ah, um..."[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_f03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *5740|
 [fc]
 [vo_may s="maya0506"]
-[ns]摩耶[nse]
-「……」[pcms]
+[ns]Maya[nse]
+"..."[pcms]
 ;//◎どんな反応をするか怖い
 
 *5741|
 [fc]
-[ns]大倉[nse]
-「……飲みモンはいいよ。もう、ココを出よう」[pcms]
+[ns]Ookura Hiroshi[nse]
+"The drinks are fine. Let's just get out of here."[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_f05"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *5742|
 [fc]
 [vo_may s="maya0507"]
-[ns]摩耶[nse]
-「うん……」[pcms]
+[ns]Maya[nse]
+"Okay..."[pcms]
 ;//◎ちょっと落胆
 
 *5743|
 [fc]
-[ns]大倉[nse]
-「もう、危ない目に遭わせたくないんだ。俺だって、[r]
-　マヤちゃんのコト、大切だと思ってるから」[pcms]
+[ns]Ookura Hiroshi[nse]
+"I don't want to put you in danger anymore. I think of you[r]
+as someone important to me too."[pcms]
 
 *5744|
 [fc]
-自分のために、命を危険に晒しまでしてくれた子の[r]
-コトを、俺はもう、普通の友達だとは思えなかった。[pcms]
+I could no longer think of her as just a normal friend after[r]
+she risked her life for me.[pcms]
 
 *5745|
 [fc]
-今度危ない目に遭ったら、俺が命を賭けて守る。[r]
-俺にとっては、それぐらいの価値のある大切なひとに、[r]
-彼女はなっていた。[pcms]
+If she were in danger again, I would risk my life to protect[r]
+her. To me, she had become someone of that much importance.[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_f04"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *5746|
 [fc]
 [vo_may s="maya0508"]
-[ns]摩耶[nse]
-「……」[pcms]
+[ns]Maya[nse]
+"..."[pcms]
 ;//◎嬉しそう
 
 *5747|
 [fc]
-[ns]大倉[nse]
-「行こう。マヤちゃんを襲ったヤツらが、ココを見つ[r]
-　けないうちに」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Let's go. Before the guys who attacked Maya-chan find this[r]
+place."[pcms]
 
 *5748|
 [fc]
 [vo_may s="maya0509"]
-[ns]摩耶[nse]
-「うん……！」[pcms]
+[ns]Maya[nse]
+"Yes...!"[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *5749|
 [fc]
-シャベル、開けてないペットボトルと、使えそうな物[r]
-を持って、俺らは荷台の外へと出た。[pcms]
+With a shovel, unopened PET bottles, and anything else that[r]
+might be useful, we stepped out of the cargo bed.[pcms]
 
 ;//♪：bgm010 fadeout
 [fadeoutbgm time=1000]
@@ -463,255 +456,254 @@
 
 *5750|
 [fc]
-[ns]大倉[nse]
-「ぅ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Ugh..."[pcms]
 
 *5751|
 [fc]
-地上へ出る坂を登り切ると、空は一面、夕陽で赤く染[r]
-まっていて、辺りをオレンジ色の光で照らしていた。[pcms]
+As we finished climbing the slope leading to the surface,[r]
+the sky was dyed red with the sunset, bathing everything in[r]
+an orange glow.[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
 *5752|
 [fc]
-長いこと、陽の光に晒されてなかった俺の目には、[r]
-夕陽の光でも眩しく感じる。[pcms]
+My eyes, which hadn't been exposed to sunlight for a long[r]
+time, found even the sunset light dazzling.[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_n04"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *5753|
 [fc]
 [vo_may s="maya0510"]
-[ns]摩耶[nse]
-「ヒロシ、あれ……」[pcms]
+[ns]Maya[nse]
+"Hiroshi, look over there..."[pcms]
 
 *5754|
 [fc]
-車用のゲートを抜けて、あてもなく商店街の方へ歩い[r]
-ていると、道のずっと先から、俺らに向かって１台の[r]
-車が走ってくるのが見えた。[pcms]
+As we passed through the gate for vehicles and aimlessly[r]
+walked towards the shopping district, I could see a car[r]
+driving towards us from far down the road.[pcms]
 
 *5755|
 [fc]
-[ns]大倉[nse]
-「車、なのか？　アレ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Is that a car...?"[pcms]
 
 *5756|
 [fc]
-普通の４ＷＤ車だと思っていたそれは、元々デカイ車[r]
-をさらにデカくし、しかも装甲をつけてゴツくさせた[r]
-ようなモノだった。[pcms]
+What I thought was a normal 4WD vehicle turned out to be a[r]
+huge car made even bigger and rugged with added armor.[pcms]
 
 ;//♪：bgm012
 [bgm storage="bgm012"]
 
 *5757|
 [fc]
-俺らの１０ｍぐらい前で停まったその車から、ファッ[r]
-ションじゃない、本物の迷彩服を着た男が１人、降り[r]
-てきて、俺らを冷たい目でジロジロと眺めた。[pcms]
+The car stopped about 10 meters in front of us, and a man[r]
+wearing not fashion camouflage but real military gear got[r]
+out and stared at us coldly.[pcms]
 
 [ChrSetEx layer=4 chbase="etc05"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *5758|
 [fc]
-[ns]自衛隊員１[nse]
-「名前は」[pcms]
+[ns]Self-Defense Force Member 1[nse]
+"Your names?"[pcms]
 
 *5759|
 [fc]
-無愛想過ぎる聞き方と、汚いモノでも見るような目に、[r]
-迷彩服の男を不審に思って、俺はマヤちゃんを自分の[r]
-体の後ろに隠した。[pcms]
+The man's brusque manner of asking and his disdainful look[r]
+made me suspicious, so I instinctively shielded Maya-chan[r]
+behind me.[pcms]
 
 *5760|
 [fc]
-コイツ、なにモンだ……？[r]
-迷彩服とこの車からすると、自衛隊のヤツっぽいけど、[r]
-なんか信用できねーな……。[pcms]
+Who is this guy...? From the camouflage and the vehicle, he[r]
+seems like he might be from the Self-Defense Forces, but[r]
+something doesn't feel trustworthy...[pcms]
 
 *5761|
 [fc]
-自衛隊のカッコしたニセモンで、ホントは火事場ドロ[r]
-ボーとかじゃねーのか……？[pcms]
+Could he be a fake dressed like a Self-Defense Force member,[r]
+really just a looter taking advantage of the disaster...?[pcms]
 
 *5762|
 [fc]
-こういうデカイ災害には、火事場ドロボーがつきもの[r]
-だって言うし……。[pcms]
+In big disasters like this, looters are always around, or so[r]
+they say...[pcms]
 
 *5763|
 [fc]
-[ns]大倉[nse]
-「……名前なんか聞いてどうすんだよ」[pcms]
+[ns]Ookura Hiroshi[nse]
+"...What do you want with our names?"[pcms]
 
 *5764|
 [fc]
-[ns]自衛隊員１[nse]
-「ほぉ……」[pcms]
+[ns]Self-Defense Force Member 1[nse]
+"Hmm..."[pcms]
 
 *5765|
 [fc]
-俺が言うのを聞いて、迷彩服の男が片方の眉毛を吊り[r]
-上げて、おどけた顔をしてみせる。[pcms]
+Hearing my response, the man in camouflage raised one[r]
+eyebrow and made a mocking face.[pcms]
 
 *5766|
 [fc]
-[ns]自衛隊員１[nse]
-「……怪我をしているか？　特に、他の人間に引っか[r]
-　かれたり、噛みつかれたりしたようなものだ」[pcms]
+[ns]Self-Defense Force Member 1[nse]
+"...Are you injured? Specifically, have you been scratched[r]
+or bitten by other people?"[pcms]
 
 *5767|
 [fc]
-俺は男が持ってる長い銃を警戒しながら、いつでもマ[r]
-ヤちゃんの前に飛び出すコトができるように、足の位[r]
-置を変えた。[pcms]
+I shifted my stance while keeping an eye on the long gun the[r]
+man was holding, ready to jump in front of Maya-chan at any[r]
+moment.[pcms]
 
 *5768|
 [fc]
-俺のその動きを見て、迷彩服の男は、今度は唇の片方[r]
-の端を吊り上げた。[pcms]
+Seeing my movement, the man in camouflage now lifted one[r]
+corner of his mouth.[pcms]
 
 *5769|
 [fc]
-[ns]自衛隊員１[nse]
-「そう警戒しないでくれ。我々は陸上自衛隊の者だ。[r]
-　現在、生存者の救助の為に、この周辺で人命の救助[r]
-　をしている」[pcms]
+[ns]Self-Defense Force Member 1[nse]
+"Don't be so wary. We are members of the Ground Self-Defense[r]
+Force. We are currently conducting rescue operations for[r]
+survivors in this area."[pcms]
 
 *5770|
 [fc]
-[ns]大倉[nse]
-「ホンモノの自衛隊って証拠は？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Do you have proof that you're really with the Self-Defense[r]
+Forces?"[pcms]
 
 *5771|
 [fc]
-男が小さく息をつくと、冷たかった目が、急に柔らか[r]
-くなったように見えた。[pcms]
+The man let out a small sigh and his previously cold eyes[r]
+seemed to soften suddenly.[pcms]
 
 *5772|
 [fc]
-[ns]自衛隊員１[nse]
-「……まぁ、わからないとは思うが、これが一応、[r]
-　本物だという証拠だ」[pcms]
+[ns]Self-Defense Force Member 1[nse]
+"...Well, I understand your doubt, but this is supposed to[r]
+be proof that we're legitimate."[pcms]
 
 *5773|
 [fc]
-しょうがねーな、という顔をして、迷彩服の男は体を[r]
-ひねり、右腕についている薄い緑色のワッペンを、[r]
-俺に向けてみせた。[pcms]
+Making a face as if it couldn't be helped, the man in[r]
+camouflage twisted his body and showed me the light green[r]
+patch on his right arm.[pcms]
 
 *5774|
 [fc]
-[ns]自衛隊員１[nse]
-「それで、どこかを怪我してないか？　自分の不注意[r]
-　などによるものではなくて、他人から負わされたと[r]
-　いう怪我は」[pcms]
+[ns]Self-Defense Force Member 1[nse]
+"So, are you injured anywhere? Not from your own[r]
+carelessness but injuries inflicted by others?"[pcms]
 
 *5775|
 [fc]
-[ns]大倉[nse]
-「……俺も彼女も、ケガはしてない」[pcms]
+[ns]Ookura Hiroshi[nse]
+"...Neither of us are injured."[pcms]
 
 *5776|
 [fc]
-[ns]自衛隊員１[nse]
-「そうか……いや、警戒させるような聞き方をして[r]
-　すまなかった」[pcms]
+[ns]Self-Defense Force Member 1[nse]
+"I see... Sorry for making you wary with my questioning."[pcms]
 
 *5777|
 [fc]
-[ns]自衛隊員１[nse]
-「捜索を開始してから、まともな人間に会ったのが君[r]
-　達が初めてでな。今回もどうせ駄目だろうと、高を[r]
-　くくってしまっていた」[pcms]
+[ns]Self-Defense Force Member 1[nse]
+"Since we started searching, you're the first sane people[r]
+we've encountered. I had assumed it would be futile again[r]
+this time."[pcms]
 
 *5778|
 [fc]
-その時のことを思い出したのか、迷彩服の男は少し[r]
-苦い顔になって、息をついた。[pcms]
+Remembering something from before, the man in camouflage[r]
+made a slightly bitter face and sighed.[pcms]
 
 *5779|
 [fc]
-[ns]自衛隊員１[nse]
-「……とにかく、我々を信じて、これに乗ってくれな[r]
-　いか。時間にあまり余裕が無いんだ」[pcms]
+[ns]Self-Defense Force Member 1[nse]
+"...Anyway, will you trust us and get on board? We don't[r]
+have much time."[pcms]
 
 *5780|
 [fc]
-[ns]大倉[nse]
-「その前に、あのショッピングモールに、一緒に行っ[r]
-　てくんねーかな。俺の友達が、まだあの中にいんだ」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Before that, could you come with us to that shopping mall?[r]
+My friends are still inside there."[pcms]
 
 *5781|
 [fc]
-[ns]自衛隊員１[nse]
-「……君の友達は、まともな人間なのか？　[r]
-　既にウイルスに感染しているんじゃないのか？」[pcms]
+[ns]Self-Defense Force Member 1[nse]
+"...Are your friends sane? Aren't they already infected with[r]
+the virus?"[pcms]
 
 *5782|
 [fc]
-[ns]大倉[nse]
-「……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"..."[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_n03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *5783|
 [fc]
 [vo_may s="maya0511"]
-[ns]摩耶[nse]
-「……」[pcms]
+[ns]Maya[nse]
+"..."[pcms]
 
 *5784|
 [fc]
-アイツらは、もう病気にかかっちまってる……。[r]
-けど、速水もユウも大事な友達だ……。[r]
-アンザイさんは、俺にずっと協力してくれたし……。[pcms]
+"They might be sick already... But Hayami and Yuu are[r]
+important friends to me... Anzai-san has been cooperating[r]
+with me all this time..."[pcms]
 
 *5785|
 [fc]
-どう答えていいか迷って、マヤちゃんに目を向けてみ[r]
-ても、彼女は無言で俺を見つめるだけで、アドバイス[r]
-はしてくれなかった。[pcms]
+Lost on how to answer, I looked towards Maya-chan for[r]
+advice, but she just silently stared back at me, offering no[r]
+suggestions.[pcms]
 
 [ChrSetEx layer=4 chbase="etc05"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *5786|
 [fc]
-[ns]大倉[nse]
-「……けど、病院に行って助かったひともいるって、[r]
-　ニュースで言ってたし……。あ、ホラ、閉じこめと[r]
-　けばいいんだから、その車のトランクとかに……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"...But, I heard on the news that some people were saved by[r]
+going to the hospital... Ah, look, if we just keep them[r]
+confined, like in the trunk of that car..."[pcms]
 
 *5787|
 [fc]
-しどろもどろになりながら、アイツらの救助を頼んでは[r]
-みたけど、迷彩服の男は横に首を振った。[pcms]
+While I fumbled to ask for their rescue, the man in[r]
+camouflage shook his head from side to side.[pcms]
 
 *5788|
 [fc]
-[ns]自衛隊員１[nse]
-「あのウイルスに対するワクチンは、まだ開発されて[r]
-　いない。開発の目処も立っていないんだ」[pcms]
+[ns]Self-Defense Force Member 1[nse]
+"There's no vaccine developed yet for that virus. Not even a[r]
+prospect of one."[pcms]
 
 *5789|
 [fc]
-[ns]自衛隊員１[nse]
-「抗生物質の中には多少効くものもあるようだが、[r]
-　所詮、症状の進行を遅らせるだけだ。治るわけでは[r]
-　ない」[pcms]
+[ns]Self-Defense Force Member 1[nse]
+"Some antibiotics seem to have a slight effect, but at best,[r]
+they only delay the progression of symptoms. They don't[r]
+cure."[pcms]
 
 *5790|
 [fc]
-[ns]自衛隊員１[nse]
-「あのウイルスに感染した人間は、９９％死ぬ。[r]
-　死ななかったとしても、もう、まともな生活は[r]
-　送れない。いろんな意味でな」[pcms]
+[ns]Self-Defense Force Member 1[nse]
+"99% of humans infected with that virus will die. Even if[r]
+they don't die, they can't lead a normal life anymore. In[r]
+many senses."[pcms]
 
 *5791|
 [fc]
-[ns]大倉[nse]
-「そんな……俺の親友なんだ、頼むよ！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"That can't be... He's my best friend, please!"[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
@@ -728,68 +720,66 @@
 
 *5792|
 [fc]
-[ns]大倉[nse]
-「なんだ……？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"What...?"[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_n07"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *5793|
 [fc]
 [vo_may s="maya0512"]
-[ns]摩耶[nse]
-「……」[pcms]
+[ns]Maya[nse]
+"..."[pcms]
 ;//◎不安を感じている
 
 *5794|
 [fc]
-地震に続いて、どこか遠くから飛行機が飛んでるよう[r]
-な音が聞こえてきた時、今まで車に乗ったままだった[r]
-もう１人の男が、窓から顔を出して大声で叫んだ。[pcms]
+Just as I remembered something from before, a sound like an[r]
+airplane flying from afar reached us, and another man who[r]
+had been in the car until now stuck his face out the window[r]
+and shouted loudly.[pcms]
 
 *5795|
 [fc]
-[ns]自衛隊員２[nse]
-「おい！！　早く乗れっ！！　奴ら、時間無視して[r]
-　おっ始めやがった！！」[pcms]
+[ns]Self-Defense Force Member 2[nse]
+"Hey!! Hurry up and get in!! They've started without regard[r]
+for time!!"[pcms]
 
 *5796|
 [fc]
-[ns]自衛隊員１[nse]
-「クソがッ！　……君達も早く乗るんだ！」[pcms]
+[ns]Self-Defense Force Member 1[nse]
+"Damn it! ...You guys need to get in quickly too!"[pcms]
 
 *5797|
 [fc]
-[ns]大倉[nse]
-「……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"..."[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_n03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *5798|
 [fc]
 [vo_may s="maya0513"]
-[ns]摩耶[nse]
-「ヒロシ……」[pcms]
+[ns]Maya[nse]
+"Hiroshi..."[pcms]
 
 *5799|
 [fc]
-マヤちゃんが腕を引き、車に乗るように促すが、俺は[r]
-アイツらを置いていくことに納得ができなくて、その場[r]
-を動くことができないでいた。[pcms]
+Maya-chan pulled my arm, urging me to get into the car, but[r]
+I couldn't move from the spot, unable to accept leaving them[r]
+behind.[pcms]
 
 *5800|
 [fc]
-わかってた……。[r]
-わかってたけど……。[pcms]
+I knew it... I knew it, but...[pcms]
 
 *5801|
 [fc]
-けど、親友なんだ……。[r]
-無くしたら、もう二度と手に入らない……。[r]
-アイツらの代わりなんかいないんだ……。[pcms]
+But he's my best friend... If I lose him, I'll never get him[r]
+back... There's no substitute for them...[pcms]
 
 *5802|
 [fc]
-速水とユウがいなくなるなんて……。[r]
-俺には……。[r]
-考えられない……。[pcms]
+The thought of Hayami and Yuu being gone... I can't imagine[r]
+it...[pcms]
 
 ;//効果：画面揺れ・微少（？）
 [quake_bg 元time=200 xy m]
@@ -800,48 +790,48 @@
 *5803|
 [fc]
 [vo_may s="maya0514"]
-[ns]摩耶[nse]
-「ヒロシ……」[pcms]
+[ns]Maya[nse]
+"Hiroshi..."[pcms]
 
 *5804|
 [fc]
-[ns]大倉[nse]
-「……」[pcms]
+[ns]Ookura[nse]
+"..."[pcms]
 
 *5805|
 [fc]
-[ns]自衛隊員１[nse]
-「何をしている！！　ここは危険だ、早く乗れ！！」[pcms]
+[ns]Self-Defense Force Member 1[nse]
+"What are you doing!! It's dangerous here, get in quickly!!"[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_n03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *5806|
 [fc]
 [vo_may s="maya0515"]
-[ns]摩耶[nse]
-「戻ろう……」[pcms]
+[ns]Maya[nse]
+"Let's go back..."[pcms]
 
 *5807|
 [fc]
-[ns]大倉[nse]
-「え……？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Eh...?"[pcms]
 
 *5808|
 [fc]
 [vo_may s="maya0516"]
-[ns]摩耶[nse]
-「あのひと達を助けたいんでしょ……。[r]
-　私も一緒に行く……」[pcms]
+[ns]Maya[nse]
+"You want to save those people, right?... I'll go with[r]
+you..."[pcms]
 
 *5809|
 [fc]
-[ns]大倉[nse]
-「……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"..."[pcms]
 
 *5810|
 [fc]
-自衛隊が一緒に来てくれないんじゃ、あそこに戻って[r]
-も、俺一人じゃアイツらを助けらんねー……。[r]
-わざわざ死にに行くようなもんだ……。[pcms]
+If the Self-Defense Forces won't come with us, even if I go[r]
+back there by myself, I can't save them alone... It would be[r]
+like going to die on purpose...[pcms]
 
 ;//効果：画面揺れ・微少（？）
 [quake_bg 元time=200 xy m]
@@ -850,55 +840,54 @@
 
 *5811|
 [fc]
-それじゃ、マヤちゃんがせっかく、危ない目に遭って[r]
-まで俺を助けてくれたのに、それを全部ムダにする[r]
-コトになる……。[pcms]
+That would make everything Maya-chan did to save me, risking[r]
+her own safety, all for nothing...[pcms]
 
 *5812|
 [fc]
-それに……。[pcms]
+Besides...[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_f02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *5813|
 [fc]
 [vo_may s="maya0517"]
-[ns]摩耶[nse]
-「……」[pcms]
+[ns]Maya[nse]
+"..."[pcms]
 
 *5814|
 [fc]
-俺一人で行くって言っても、マヤちゃんは多分、つい[r]
-てくるだろう……。[pcms]
+If I say I'm going alone, Maya-chan would probably follow[r]
+me...[pcms]
 
 *5815|
 [fc]
-アイツらのコトを、諦めたくはない……。[r]
-けど、命を賭けて守るって決めた子を、死なせに行く[r]
-ようなコトができるワケない……。[pcms]
+I don't want to give up on them... But I can't do something[r]
+that would lead to the death of the girl I decided to[r]
+protect with my life...[pcms]
 
 *5816|
 [fc]
-[ns]自衛隊員１[nse]
-「おい！！　死にたいのか！！　早く乗るんだ！！」[pcms]
+[ns]Self-Defense Force Member 1[nse]
+"Hey!! Do you want to die!! Get in quickly!!"[pcms]
 
 *5817|
 [fc]
-[ns]大倉[nse]
-「……行こう」[pcms]
+[ns]Ookura Hiroshi[nse]
+"...Let's go."[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_n06"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *5818|
 [fc]
 [vo_may s="maya0518"]
-[ns]摩耶[nse]
-「うん……！」[pcms]
+[ns]Maya[nse]
+"Yeah...!"[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *5819|
 [fc]
-マヤちゃんの体を抱きかかえるようにして走り、俺は[r]
-自衛隊のゴツイ車に乗り込んだ。[pcms]
+Holding Maya-chan as if embracing her body, I ran and got[r]
+into the rugged Self-Defense Forces vehicle.[pcms]
 
 ;//効果：画面揺れ・中・断続的（？）
 [quake_bg 元time=10 xy l]
@@ -907,83 +896,84 @@
 
 *5820|
 [fc]
-[ns]大倉[nse]
-「ぉわっ……！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Whoa...!!"[pcms]
 
 *5821|
 [fc]
 [vo_may s="maya0519"]
-[ns]摩耶[nse]
-「っ……！！」[pcms]
+[ns]Maya[nse]
+"Ah...!!"[pcms]
 ;//◎恐怖に耐えている
 
 *5822|
 [fc]
-車に乗り込んだ瞬間、何かが爆発する音が聞こえ、[r]
-さっきよりも強い揺れが車を襲った。[pcms]
+The moment we got into the car, there was a sound of an[r]
+explosion and a stronger shake hit the vehicle than before.[pcms]
 
 *5823|
 [fc]
-[ns]自衛隊員１[nse]
-「あいつ等、街ごと焼き払うつもりなのか！？」[pcms]
+[ns]Self-Defense Force Member 1[nse]
+"Are they planning to burn down the whole city!?"[pcms]
 
 *5824|
 [fc]
-乗り込んだ部分の扉についてる、幅の狭い窓から見え[r]
-る景色に、轟音と一緒に何本もの火柱が上がっていく。[pcms]
+Through the narrow window on the door where we got in, I[r]
+could see several pillars of fire rising along with the[r]
+roar.[pcms]
 
 *5825|
 [fc]
-街ごと焼き払うって、アレ、爆弾か何かなのか……？[r]
-それじゃ、あのショッピングモールも……。[pcms]
+Burn down the city... Is that, like bombs or something? Then[r]
+that shopping mall too...[pcms]
 
 *5826|
 [fc]
-速水も、ユウも、アンザイさんも……。[pcms]
+Hayami, Yuu, Anzai-san too...[pcms]
 
 *5827|
 [fc]
-[ns]自衛隊員２[nse]
-「飛ばすぞ！！　掴まってろっ！！」[pcms]
+[ns]Self-Defense Force Member 2[nse]
+"We're taking off!! Hold on tight!!"[pcms]
 
 *5828|
 [fc]
-[ns]大倉[nse]
-「くぅっ……！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Guh...!!"[pcms]
 
 *5829|
 [fc]
 [vo_may s="maya0520"]
-[ns]摩耶[nse]
-「っ……！！」[pcms]
+[ns]Maya[nse]
+"Ah...!!"[pcms]
 ;//◎急発進に耐えている
 
 *5830|
 [fc]
-飛行機の飛ぶような音が大きくなってきて、もう一度、[r]
-幅の狭い窓から外を見ると、夕焼け空の向こうから、[r]
-バカでかい飛行機が何機も飛んできていた。[pcms]
+The sound like an airplane flying grew louder and when I[r]
+looked outside through the narrow window again, huge[r]
+airplanes were flying in from beyond the sunset sky.[pcms]
 
 *5831|
 [fc]
-[ns]大倉[nse]
-「あの飛行機って……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"That airplane..."[pcms]
 
 *5832|
 [fc]
-[ns]自衛隊員１[nse]
-「Ｂ－５２だ。爆撃機だよ。あんなもん、何機も持っ[r]
-　てきやがって……クソッタレ！！」[pcms]
+[ns]Self-Defense Force Member 1[nse]
+"It's a B-52. A bomber. They've brought so many of those[r]
+damn things... Bastards!!"[pcms]
 
 *5833|
 [fc]
-[ns]大倉[nse]
-「……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"..."[pcms]
 
 *5834|
 [fc]
-窓の向こうに見えるショッピングモールが、どんどん[r]
-小さくなっていく。[pcms]
+The shopping mall that can be seen through the window is[r]
+getting smaller and smaller.[pcms]
 
 ;//効果：画面揺れ・中小混合・断続的（？）
 ;//[]SE：爆発音・断続的（？）
@@ -991,18 +981,19 @@
 
 *5835|
 [fc]
-それとは逆に、爆発する音と一緒に上がる火柱の位置[r]
-が、まるで追ってくるように、どんどん近づいてくる。[pcms]
+Conversely, the location of the pillars of fire rising with[r]
+the explosions seems to be chasing us, getting closer and[r]
+closer.[pcms]
 
 *5836|
 [fc]
-[ns]自衛隊員１[nse]
-「急げ！！　巻き込まれるぞ！！」[pcms]
+[ns]Self-Defense Force Member 1[nse]
+"Hurry!! We'll get caught in it!!"[pcms]
 
 *5837|
 [fc]
-[ns]自衛隊員２[nse]
-「わかってるよ！！」[pcms]
+[ns]Self-Defense Force Member 2[nse]
+"I know!!"[pcms]
 
 ;//効果：画面揺れ・大中混合・断続的（？）
 ;//[]SE：爆発音・断続的（？）
@@ -1010,53 +1001,52 @@
 
 *5838|
 [fc]
-[ns]自衛隊員１[nse]
-「クソッ、駄目か……！」[pcms]
+[ns]Self-Defense Force Member 1[nse]
+"Damn it, is it no good...!"[pcms]
 
 *5839|
 [fc]
-男が爆撃機だといった飛行機から、何かが落とされて[r]
-いるのが見える。[pcms]
+From the bombers that the man mentioned, something can be[r]
+seen being dropped.[pcms]
 
 *5840|
 [fc]
-[ns]自衛隊員２[nse]
-「死んでたまるかよ……っ！！」[pcms]
+[ns]Self-Defense Force Member 2[nse]
+"Like hell I'm going to die...!!"[pcms]
 
 *5841|
 [fc]
-窓から見える景色に、幾つもの火柱が上がっていく。[pcms]
+The view from the window shows multiple pillars of fire[r]
+rising.[pcms]
 
 *5842|
 [fc]
 [vo_may s="maya0521"]
-[ns]摩耶[nse]
-「やっ、きゃあぁっ……！！」[pcms]
+[ns]Maya[nse]
+"No, kyaaah...!!"[pcms]
 
 *5843|
 [fc]
-アイツらがいるショッピングモールからも、幾つもの[r]
-火柱が上がって、ビルが崩れていく。[pcms]
+From the shopping mall where they are, multiple pillars of[r]
+fire rise, and buildings are collapsing.[pcms]
 
 *5844|
 [fc]
-[ns]大倉[nse]
-「……」[pcms]
+[ns]Ookura[nse]
+"..."[pcms]
 
 *5845|
 [fc]
-アンザイさん……。[r]
-色々ありがとうございました……。[pcms]
+Anzai-san... Thank you for everything...[pcms]
 
 *5846|
 [fc]
-ユウ……。[r]
-速水……。[pcms]
+Yuu... Hayami...[pcms]
 
 *5847|
 [fc]
-[ns]大倉[nse]
-「またな……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"See you..."[pcms]
 
 ;//効果：画面揺れ・大・連続（？）
 ;//[]SE：爆発音・連続（？）
@@ -1072,4 +1062,4 @@
 
 [jump storage="jingujiroute12240.ks" target=*jingujiroute12240_TOP]
 
-;//－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+;//

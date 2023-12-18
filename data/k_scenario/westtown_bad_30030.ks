@@ -30,15 +30,15 @@
 
 *8843|
 [fc]
-そうして、ようやく走り始めた俺の横を、ハスキーと[r]
-お嬢様、それに続いて女の人が走り抜けていく。[pcms]
+And then, as I finally started running, a husky and a young[r]
+lady, followed by a woman, ran past me.[pcms]
 
 [ChrSetEx layer=4 chbase="nanasi_n07"][ChrSetXY layer=4 x=160 y=0][trans_c cross time=150]
 *8844|
 [fc]
 [vo_mob s="girl0147"]
-[ns]少女[nse]
-「ぅぐうぅぅうぅぅぅううっ！！」[pcms]
+[ns]Girl[nse]
+"Uguuuuuuuuu!!"[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
@@ -46,175 +46,177 @@
 *8845|
 [fc]
 [vo_kob s="koba0448"]
-[ns]小林[nse]
-「うぁあああぁぁあっ！！！！」[pcms]
+[ns]Kobayashi[nse]
+"Uwaaaaaaaah!!!!!"[pcms]
 
 *8846|
 [fc]
-女の子がユウの腕に、思いっきり噛みついている光景[r]
-が、お嬢様たちの後ろを走る俺の目に入った。[pcms]
+The sight of a girl biting down hard on Yuu's arm entered my[r]
+view as I ran behind the young ladies.[pcms]
 
 ;//＠女＝安西ということで
 [ChrSetEx layer=4 chbase="anza_n06"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *8847|
 [fc]
 [vo_anz s="anzai0394"]
-[ns]女[nse]
-「やめなさい！！」[pcms]
+[ns]Female[nse]
+"Stop it!!"[pcms]
 
 *8848|
 [fc]
-[ns]ジョン[nse]
-「グルルルルッ！！」[pcms]
+[ns]John[nse]
+"Grrrrrrr!!"[pcms]
 
 *8849|
 [fc]
-一番先に辿り着き、服の端を咥えたハスキーに引っ張[r]
-られ、女の子とユウがフラフラとよろめく。[pcms]
+The husky, who had arrived first and was tugging at the edge[r]
+of the clothes, pulled along the girl and Yuu, who staggered[r]
+unsteadily.[pcms]
 
 *8850|
 [fc]
-次に女の人が加わって、女の子のアゴを掴んで、なん[r]
-とかユウの腕から引き剥がそうとし始めた。[pcms]
+Next, a woman joined in, grabbing the girl's jaw in an[r]
+attempt to pry her off Yuu's arm.[pcms]
 
 [ChrSetEx layer=4 chbase="koba_n13"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *8851|
 [fc]
 [vo_kob s="koba0449"]
-[ns]小林[nse]
-「はなせ、よぉ……っ！！　[r]
-　いたぁあぁぁいぃいぃっ！！！！」[pcms]
+[ns]Kobayashi[nse]
+"Let go, I said... Ouchhhhhhh!!!"[pcms]
 
 *8852|
 [fc]
-[ns]ジョン[nse]
-「グルルルルッ！！」[pcms]
+[ns]John[nse]
+"Grrrrrrr!!"[pcms]
 
 [ChrSetEx layer=4 chbase="anza_n11"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *8853|
 [fc]
 [vo_anz s="anzai0395"]
-[ns]女[nse]
-「放しなさい……っ！！」[pcms]
+[ns]Female[nse]
+"Let go...!!"[pcms]
 
 [ChrSetEx layer=4 chbase="nanasi_n07"][ChrSetXY layer=4 x=160 y=0][trans_c cross time=150]
 *8854|
 [fc]
 [vo_mob s="girl0148"]
-[ns]少女[nse]
-「うぅぅううっ……！！　がぁあっ！！」[pcms]
+[ns]Girl[nse]
+"Uuuuuu... Gah!!"[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *8855|
 [fc]
-急にユウの腕から口を離し、アゴを掴んでいた女の人[r]
-の腕を引っ張って、女の子はバクンと噛みついた。[pcms]
+Suddenly releasing Yuu's arm from her mouth, the girl pulled[r]
+on the arm of the woman who had been holding her jaw and bit[r]
+down hard.[pcms]
 
 ;//＠立ち絵ださない
 *8856|
 [fc]
 [vo_anz s="anzai0396"]
-[ns]女[nse]
-「ぅぎぃいいぃあぁっ！！！！」[pcms]
+[ns]Female[nse]
+"Ugyiiiiiaaah!!!!!"[pcms]
 
 [ChrSetEx layer=4 chbase="nanasi_n07"][ChrSetXY layer=4 x=160 y=0][trans_c cross time=150]
 *8857|
 [fc]
 [vo_mob s="girl0149"]
-[ns]少女[nse]
-「うぅううぅぐぅううぅっ！！！！」[pcms]
+[ns]Girl[nse]
+"Uuuuuguuuuuu!!!!!"[pcms]
 
 *8858|
 [fc]
-[ns]大倉[nse]
-「やめろッ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Stop it!!"[pcms]
 
 *8859|
 [fc]
-今度はすぐに口を離し、女の子は俺より先に止めに[r]
-入ろうとしていたお嬢様に飛びかかった。[pcms]
+This time, she quickly let go and leaped at the young lady[r]
+who had tried to intervene before me.[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_n10"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *8860|
 [fc]
 [vo_may s="maya0583"]
-[ns]お嬢様[nse]
-「っ……！！」[pcms]
+[ns]Young Lady[nse]
+"...!!"[pcms]
 ;//◎恐怖で息を飲む
 
 [ChrSetEx layer=4 chbase="nanasi_n06"][ChrSetXY layer=4 x=160 y=0][trans_c cross time=150]
 *8861|
 [fc]
 [vo_mob s="girl0150"]
-[ns]少女[nse]
-「ぐぉあぁあっ！！」[pcms]
+[ns]Girl[nse]
+"Guoaaaah!!"[pcms]
 
 *8862|
 [fc]
-急に飛びかかられて驚いたのか、お嬢様は固まって[r]
-しまっていて、抵抗することもなく、女の子の口の[r]
-餌食になった。[pcms]
+Surprised by the sudden leap, the young lady froze and[r]
+without resisting, became prey to the girl's mouth.[pcms]
 
 [ChrSetEx layer=4 chbase="nanasi_n07"][ChrSetXY layer=4 x=160 y=0][trans_c cross time=150]
 *8863|
 [fc]
 [vo_mob s="girl0151"]
-[ns]少女[nse]
-「んむうぅうぅぐぅあぁあ！！！！」[pcms]
+[ns]Girl[nse]
+"Nmuuuuuguuaaah!!!!!"[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_n10"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *8864|
 [fc]
 [vo_may s="maya0584"]
-[ns]お嬢様[nse]
-「ぃあぁぁああぁぁっ！！！！」[pcms]
+[ns]Young Lady[nse]
+"Iyaaaahhhhh!!!!!"[pcms]
 
 *8865|
 [fc]
-[ns]大倉[nse]
-「やめろ！！　放せッ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Stop it!! Let go!!"[pcms]
 
 *8866|
 [fc]
-やっと女の子の所に辿り着いた俺は、口を離さ[r]
-せようと、彼女のアゴに手を伸ばした。[pcms]
+Finally reaching the girl, I reached out to her jaw to try[r]
+to make her release her bite.[pcms]
 
 ;//＠立ち絵ださない
 *8867|
 [fc]
 [vo_may s="maya0585"]
-[ns]お嬢様[nse]
-「ぅぐぁあああぁぁっ！！」[pcms]
+[ns]Young Lady[nse]
+"Uguhaaaaahhh!!"[pcms]
 
 *8868|
 [fc]
-[ns]大倉[nse]
-「ぅあぁッ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Uaahh!!"[pcms]
 
 *8869|
 [fc]
-アゴを掴んだ瞬間、女の子に肉が削れるほど[r]
-強くひっかかれて、俺は腕を引っ込め、後ずさりした。[pcms]
+The moment I grabbed her jaw, I was scratched so fiercely by[r]
+the girl that flesh was torn from my arm, and I retracted my[r]
+arm and stepped back.[pcms]
 
 *8870|
 [fc]
-その俺に、お嬢様の腕から口を離し、素早く近づいて[r]
-きて、女の子は俺のＹシャツの襟元を両手で掴んだ。[pcms]
+The girl then let go of the young lady's arm and quickly[r]
+approached me, grabbing both sides of my shirt collar with[r]
+her hands.[pcms]
 
 [ChrSetEx layer=4 chbase="nanasi_n07"][ChrSetXY layer=4 x=160 y=0][trans_c cross time=150]
 *8871|
 [fc]
 [vo_mob s="girl0152"]
-[ns]少女[nse]
-「ぅぐぁああぁっ！！」[pcms]
+[ns]Girl[nse]
+"Uguhaaaahh!!"[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *8872|
 [fc]
-その状態で、頭を思いっきり後ろに反らした女の子は、[r]
-俺に目がけて凄いイキオイで振り下ろした。[pcms]
+In that state, the girl arched her head back as far as it[r]
+would go and swung it down with tremendous force towards me.[pcms]
 
 ;//[]SE：打撃音（？）
 [se0 storage="SE20"]
@@ -225,13 +227,13 @@
 
 *8873|
 [fc]
-[ns]大倉[nse]
-「ぐぁあッ……！！」[pcms]
+[ns]Ookura[nse]
+"Guhaa...!!"[pcms]
 
 *8874|
 [fc]
-女の子に頭突きされたとは思えないぐらいの衝撃に、[r]
-俺は目を回して、仰向けに床にブッ倒れた。[pcms]
+The impact felt like more than just a headbutt from the[r]
+girl; I saw stars and collapsed onto the floor on my back.[pcms]
 
 ;//[]SE：打撃音（？）
 [se0 storage="SE20"]
@@ -242,19 +244,20 @@
 
 *8875|
 [fc]
-[ns]大倉[nse]
-「ぐぅっ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Guuh..."[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
 *8876|
 [fc]
-俺はさらに、床に後頭部を打ち付けて、視界が周りか[r]
-ら段々と暗くなっていき、最後には真っ暗になった。[pcms]
+I then hit the back of my head on the floor, and my vision[r]
+gradually darkened from the edges until everything went[r]
+completely black.[pcms]
 
 ;//BKACKOUT
 ;//ブロック３００４０へ
 
 [jump storage="westtown_bad_30040.ks" target=*westtown_bad_30040_TOP]
 
-;//－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+;//

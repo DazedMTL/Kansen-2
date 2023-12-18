@@ -21,70 +21,70 @@
 
 *12420|
 [fc]
-ココまで来てなに考えてんだ、俺は……。[r]
-行かなきゃ速水は助けらんねーんだ……。[r]
-行くに決まってんだろ……！！[pcms]
+What am I thinking, coming all this way... I have to go, or[r]
+I won't be able to save Hayami... It's decided, I'm[r]
+going...!![pcms]
 
 *12421|
 [fc]
-[ns]大倉[nse]
-「ふーっ……！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Huff...!!"[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
 *12422|
 [fc]
-心を決めた俺は、掌の汗をズボンで拭ってから、シャ[r]
-ベルを腰に構え直して、渡り廊下へと突っ込んだ。[pcms]
+Having made up my mind, I wiped the sweat from my palms on[r]
+my pants, readjusted the shovel at my waist, and charged[r]
+into the corridor.[pcms]
 
 *12423|
 [fc]
-[ns]大倉[nse]
-「行くぞ……！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Let's go...!!"[pcms]
 
 *12424|
 [fc]
-待ってろ、速水……。[r]
-もうすぐ助けてやるからな……！！[pcms]
+Wait for me, Hayami... I'll save you soon...!![pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_n04"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *12425|
 [fc]
 [vo_may s="maya0134"]
-[ns]摩耶[nse]
-「あ、ま、待って……！」[pcms]
+[ns]Maya[nse]
+"Wai-, wait...!"[pcms]
 
 *12426|
 [fc]
-[ns]ジョン[nse]
-「グルルルルルルッ！！」[pcms]
+[ns]John[nse]
+"Grrrrrrrrr!!"[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_n07"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *12427|
 [fc]
 [vo_may s="maya0135"]
-[ns]摩耶[nse]
-「ジョン！？　離して……！」[pcms]
+[ns]Maya[nse]
+"John!? Let go...!"[pcms]
 
 *12428|
 [fc]
-[ns]ジョン[nse]
-「グルルルルルルッ……！！」[pcms]
+[ns]John[nse]
+"Grrrrrrrrr...!!"[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *12429|
 [fc]
-ハスキーとマヤちゃんが何かモメているらしかったけ[r]
-ど、俺は立ち止まらずに、一番手前にいたイカレ野郎[r]
-に向かって、思いっきりシャベルを突き出した。[pcms]
+It seemed like Husky and Maya-chan were arguing about[r]
+something, but without stopping, I aimed the shovel at the[r]
+crazed guy closest to me and thrust it with all my might.[pcms]
 
 *12430|
 [fc]
-[ns]大倉[nse]
-「ゥラアアァァッ！！！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Uraaaaaaaah!!!!!"[pcms]
 
 ;[fadeoutbgm time=502]
 [stop_se0]
@@ -105,4 +105,4 @@
 ;//ブロック１１０００：『西館速水エンドルート』へ
 [jump storage="hayamiroute11000.ks" target=*hayamiroute11000_TOP]
 
-;//－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+;//

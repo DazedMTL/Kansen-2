@@ -26,127 +26,120 @@
 
 *16145|
 [fc]
-[ns]トランクス姿の青年[nse]
-「おんな゛ぁぁあああ……！！」[pcms]
+[ns]A young man in trunks[nse]
+"A woman... aaaaah...!!"[pcms]
 
 *16146|
 [fc]
-[ns]背の高い男[nse]
-「おぉ……、おんなだ……へへっ……」[pcms]
+[ns]Tall man[nse]
+"Oh... a woman... heheh..."[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
 *16147|
 [fc]
-[ns]目つきの悪い青年[nse]
-「いいねえ……いっちょ、いったるか……」[pcms]
+[ns]A young man with a bad look in his eyes[nse]
+"Nice... let's do this..."[pcms]
 
 *16148|
 [fc]
-トイレの外には、また他の男が何人か集まって、[r]
-アタシ達をみてニヤニヤしていた。[pcms]
+Outside the restroom, several other men had gathered,[r]
+smirking as they looked at us.[pcms]
 
 *16149|
 [fc]
-その中の二人の男は、友達同士なのか、[r]
-イヤらしく笑い合って、アタシとありすさんに[r]
-向かってきた。[pcms]
+Among them, two men who seemed to be friends were laughing[r]
+lewdly and started approaching Arisu-san and me.[pcms]
 
 *16150|
 [fc]
-[ns]目つきの悪い青年[nse]
-「おれ、こっちのおんなにすんぜ……おまえ、[r]
-　そっちのおっぱいの、でかいほう、このみだろ？」[pcms]
+[ns]A young man with a bad look in his eyes[nse]
+"I'll take this woman here... you like the one with the[r]
+bigger tits, right?"[pcms]
 
 *16151|
 [fc]
-[ns]背の高い男[nse]
-「おうよ……おれ、こっちだ……へへっ……」[pcms]
+[ns]Tall man[nse]
+"Yeah... I'll take this one... heheh..."[pcms]
 
 *16152|
 [fc]
 [vo_nag s="nagasaki0315"]
-[ns]千尋[nse]
-「な……なにをする……クズが！[r]
-　はなせ……そのこにさわるなぁ！！」[pcms]
+[ns]Chihiro[nse]
+"Wha... what are you doing... scum! Let go... don't touch[r]
+her!!"[pcms]
 
 *16153|
 [fc]
-[ns]目つきの悪い男[nse]
-「へへへ……おまえ、なんかうんどうやってんのか？[r]
-　いいからだしてんなあ……、おれごのみ、だぜ！」[pcms]
+[ns]A man with a bad look in his eyes[nse]
+"Hehehe... you work out or something? You've got a nice[r]
+body... just my type!"[pcms]
 
 *16154|
 [fc]
 [vo_hay s="hayami0611"]
-[ns]ありす[nse]
-「やああぁああ！！　ヘンタイ！！[r]
-　やめてよ！！　もうこんなのいやだぁ！」[pcms]
+[ns]Arisu[nse]
+"Aaaaahhh!! Pervert!! Stop it!! I can't take this anymore!"[pcms]
 
 *16155|
 [fc]
-[ns]背の高い男[nse]
-「おれは、むねのでかいのが、すきなんだ……、[r]
-　うれしいぜえ……わかくて、むねのでけぇ、[r]
-　おんな、と、やれるなんてよ……」[pcms]
+[ns]Tall man[nse]
+"I like big tits... I'm so happy... to be able to do it with[r]
+a young woman with big tits..."[pcms]
 
 *16156|
 [fc]
-[ns]トランクス姿の青年[nse]
-「へあ゛ぁぁ～……、おん、なぁ……、[r]
-　お゛んなあ゛～～……」[pcms]
+[ns]A young man in trunks[nse]
+"Heaaah~... wo-man... womaaan~~..."[pcms]
 
 *16157|
 [fc]
-ありすさんを守り、クズ共を追い払おうとしたけど、[r]
-この騒ぎを聞きつけたのか、他にも何人もの男が、[r]
-アタシ達の周りに集まり始めた。[pcms]
+I tried to protect Arisu-san and drive away the scum, but[r]
+more men started gathering around us, attracted by the[r]
+commotion.[pcms]
 
 *16158|
 [fc]
-アタシも、ありすさんも必死で抵抗していたけど、[r]
-１０人以上のイカレたクズ共には、とても太刀打ち[r]
-出来なかった。[pcms]
+Arisu-san and I resisted desperately, but we couldn't stand[r]
+a chance against more than ten crazed scumbags.[pcms]
 
 *16159|
 [fc]
-[ns]目つきの悪い男[nse]
-「ねえちゃんのあし、いいねぇ……いいねぇ……。[r]
-　こんなの、じゃまだぜ？　もっとみんなにみせて[r]
-　やれよ……へへへっ！」[pcms]
+[ns]A man with a bad look in his eyes[nse]
+"Your legs are nice... really nice... This is in the way,[r]
+isn't it? Show everyone more... heheheh!"[pcms]
 
 *16160|
 [fc]
-[ns]腹の出た男[nse]
-「お゛れ、お゛れ……こっ……ち、のあし゛」[pcms]
+[ns]Pot-bellied man[nse]
+"I'll take... this one's legs..."[pcms]
 
 *16161|
 [fc]
 [vo_nag s="nagasaki0316"]
-[ns]千尋[nse]
-「なっ……なあっ！　くそぉ！！　なにを……、[r]
-　おまえらぁ！！」[pcms]
+[ns]Chihiro[nse]
+"Wha... what! Damn it!! What are you... doing?!"[pcms]
 
 *16162|
 [fc]
-両脇に立っていたクズ共は、アタシの足に[r]
-まとわりついて、スカートを無理に引きずり下ろす。[pcms]
+The scumbags standing on either side of me clung to my legs[r]
+and forcibly pulled down my skirt.[pcms]
 
 *16163|
 [fc]
-[ns]Ｙシャツの男[nse]
-「う゛なし゛……し゛ろいなあ……し゛ろいな……」[pcms]
+[ns]Man in a Dress Shirt[nse]
+"So white... so very white..."[pcms]
 
 *16164|
 [fc]
 [vo_nag s="nagasaki0317"]
-[ns]千尋[nse]
-「あうっ！？　はなせ……！！　はなせぇ！！」[pcms]
+[ns]Chihiro[nse]
+"Ouch!? Let go...!! Let go of me!!"[pcms]
 
 *16165|
 [fc]
-いつの間にか後ろに回り込んでいた男に抱きかかえら[r]
-れ、アタシの体が宙に浮いた。[pcms]
+Before I knew it, a man had come up behind me and lifted me[r]
+into the air.[pcms]
 
 ;//♪：bgm009 stop
 [fadeoutbgm time=1][wb]
@@ -177,121 +170,111 @@
 *16166|
 [fc]
 [vo_nag s="nagasaki0318"]
-[ns]千尋[nse]
-「ああっ……くそっ……このゲスが！！[r]
-　なにをするっ！！」[pcms]
+[ns]Chihiro[nse]
+"Ahh... damn it... you bastard!! What are you doing?!"[pcms]
 
 *16167|
 [fc]
-[ns]目つきの悪い男[nse]
-「あし、いいな……はらも……おまえ、すたいる[r]
-　いいな、もえてきたぜ！！」[pcms]
+[ns]A man with a bad look in his eyes[nse]
+"Nice legs... and stomach too... you've got style, I'm[r]
+getting turned on!!"[pcms]
 
 *16168|
 [fc]
 [vo_nag s="nagasaki0319"]
-[ns]千尋[nse]
-「はなせぇ！！　あたしをおろせ！！」[pcms]
+[ns]Chihiro[nse]
+"Let go of me!! Put me down!!"[pcms]
 
 *16169|
 [fc]
-[ns]腹の出た男[nse]
-「お゛お、おまんこ……ぱっくり……ひらいてる……。[r]
-　まる゛、み゛えぇ……」[pcms]
+[ns]Pot-bellied man[nse]
+"Oh, pussy... spread wide open... I can see everything..."[pcms]
 
 *16170|
 [fc]
-[ns]目つきの悪い男[nse]
-「おーおー……おまんこ……きれいないろしてんなぁ。[r]
-　……お？　なんだぁ……おまえ……。[r]
-　ぬれてんじゃねえか……うれしいのか？　これが」[pcms]
+[ns]A man with a bad look in his eyes[nse]
+"Oh-oh-... what a pretty color your pussy has... Oh? What's[r]
+this? You're wet... are you happy about this?"[pcms]
 
 *16171|
 [fc]
 [vo_nag s="nagasaki0320"]
-[ns]千尋[nse]
-「え……や……やあ！！　みるな……！[r]
-　おまえらクズにみせるからだは、ない！！」[pcms]
+[ns]Chihiro[nse]
+"Eh... no... stop!! Don't look! I won't show my body to scum[r]
+like you!!"[pcms]
 
 *16172|
 [fc]
-[ns]目つきの悪い男[nse]
-「へっ……おっぱいもはみだしてるぜ……、[r]
-　ぜんぶまるみえなんだよ！！　ケツのあなも、[r]
-　おまんこもよ！　みんな！　コイツみてやれよ！」[pcms]
+[ns]A man with a bad look in his eyes[nse]
+"Heh... your tits are spilling out too... everything's on[r]
+full display!! Your ass and pussy too! Everyone! Take a good[r]
+look at her!"[pcms]
 
 *16173|
 [fc]
 [vo_nag s="nagasaki0321"]
-[ns]千尋[nse]
-「う……うあぁあああ……、やだ……いやだあ！！」[pcms]
+[ns]Chihiro[nse]
+"Ugh... ughhhhh... no... I don't want this!!"[pcms]
 
 *16174|
 [fc]
-アタシを罵る男の声につられ、また何人かが[r]
-集まってくる。[pcms]
+Attracted by the voice of the man cursing at me, more people[r]
+started to gather.[pcms]
 
 *16175|
 [fc]
-両足を無理に広げられ、大事な所を隠すことも[r]
-出来ないアタシに、集まってくるクズ共の視線が[r]
-集中する。[pcms]
+Forced to spread my legs wide, unable to hide my private[r]
+parts, the scumbags' gazes focused on me.[pcms]
 
 *16176|
 [fc]
-[ns]腹の出た男[nse]
-「た゛、た゛まん……ねぇ……お゛れの、もう……、[r]
-　は゛れつ゛しそ゛ぉ～～……」[pcms]
+[ns]Pot-bellied man[nse]
+"I can't stand it anymore... I'm gonna burst~~..."[pcms]
 
 *16177|
 [fc]
-[ns]全裸の男[nse]
-「あ゛あ゛～……おまんこ゛……ぴんくの、お゛ま、[r]
-　おまんこ゛……」[pcms]
+[ns]Naked Man[nse]
+"Ahhh~... pink pussy..."[pcms]
 
 *16178|
 [fc]
-[ns]Ｙシャツの男[nse]
-「い゛い゛にお゛い、す゛るう゛……、あせ゛の、[r]
-　にお゛い……ん゛ん゛ん゛……」[pcms]
+[ns]Man in a Dress Shirt[nse]
+"Smells good, so sweaty... mmmmm..."[pcms]
 
 *16179|
 [fc]
-[ns]目つきの悪い男[nse]
-「おいみおんな、こっちにこいよ！　このおんな、[r]
-　みんなにやらせてくれるってよ！！[r]
-　ぎゃははは！！」[pcms]
+[ns]A man with a bad look in his eyes[nse]
+"Hey girl, come here! This woman is letting everyone have a[r]
+turn!! Gyahaha!!"[pcms]
 
 *16180|
 [fc]
-足を掴んで離さないクズのかけ声で、さらに沢山の[r]
-クズ共が、アタシに向かって歩いてくるのが見えた。[pcms]
+Encouraged by the shouts of the scumbag holding my leg, even[r]
+more of them started walking towards me.[pcms]
 
 *16181|
 [fc]
-男に触られているだけでも、鳥肌が立つというのに、[r]
-アタシの周りには、下半身を丸出しにしたり、全裸で[r]
-平気で歩いてくるような奴らが取り囲んでいる。[pcms]
+Just being touched by these men was enough to make my skin[r]
+crawl, and now I was surrounded by guys who were shamelessly[r]
+walking around half-naked or completely nude.[pcms]
 
 *16182|
 [fc]
-このおぞましい状況で、アタシの意識はもう、[r]
-とぎれる寸前だった。[pcms]
+In this disgusting situation, my consciousness was on the[r]
+verge of fading.[pcms]
 
 *16183|
 [fc]
-気絶してしまった方が、まだマシ……。[pcms]
+It would be better to pass out...[pcms]
 
 *16184|
 [fc]
-そう思ったアタシを、このクズ共は許しては[r]
-くれなかった。[pcms]
+But these scumbags wouldn't let me.[pcms]
 
 *16185|
 [fc]
-[ns]Ｙシャツの男[nse]
-「お゛れ、も゛お゛～……ふ゛ち゛こ゛むそ゛ぉ！[r]
-　お゛お゛ぉ……」[pcms]
+[ns]Man in a dress shirt[nse]
+"I can't take it anymore... I'm gonna cum! Ohhh..."[pcms]
 
 ;//★レッドフラッシュ
 [赤フラ]
@@ -302,219 +285,208 @@
 *16186|
 [fc]
 [vo_nag s="nagasaki0322"]
-[ns]千尋[nse]
-「ああぁぁ――ッ！！　ぐぅっ……あうぅ！！[r]
-　んぎっ！！　お……おしり……、あっ、あっ！」[pcms]
+[ns]Chihiro[nse]
+"Aaahh--tt!! Guhh... ouch!! Nghh!! My butt..., ah, ah!"[pcms]
 
 *16187|
 [fc]
-アタシを抱えていた男は、なんの前触れもなく、[r]
-お尻の穴に、汚らわしいモノをねじ込んだ。[pcms]
+Without any warning, the man holding me shoved something[r]
+filthy into my butt hole.[pcms]
 
 *16188|
 [fc]
 [vo_nag s="nagasaki0323"]
-[ns]千尋[nse]
-「ぐっ！　あっ！！　うんぅうっ！　や……やめ……。[r]
-　おな、か……くるしっ！　うんっ……、あっ！」[pcms]
+[ns]Chihiro[nse]
+"Guh! Ahh!! Ughh! Stop... It hurts in my stomach! Ughh...,[r]
+ah!"[pcms]
 
 *16189|
 [fc]
-[ns]目つきの悪い男[nse]
-「なんだ、こいつ……ケツあながいいのかよ……、[r]
-　わけぇくせに、へんたいだぜ！！　でけえあえぎ[r]
-　こえだしてよ！！　まえも、こうずいだしよ！！」[pcms]
+[ns]A man with a bad look in his eyes[nse]
+"What's this, she likes it in the ass? Despite being so[r]
+prissy, what a pervert!! Make louder moaning sounds! You're[r]
+soaking wet in front too!!"[pcms]
 
 *16190|
 [fc]
-[ns]Ｙシャツの男[nse]
-「し゛まる゛う……き゛つ゛いぃ～～……」[pcms]
+[ns]Man in a Dress Shirt[nse]
+"It's so tight~~..."[pcms]
 
 *16191|
 [fc]
 [vo_nag s="nagasaki0324"]
-[ns]千尋[nse]
-「ぎっ……やめ……ろっ！！　あうっ……いやっ！[r]
-　うぅぅ……、あっ……」[pcms]
+[ns]Chihiro[nse]
+"Stop it...! Ouch... no! Uhh..., ah..."[pcms]
 
 *16192|
 [fc]
-気持ち悪い筈なのに……。[r]
-こんなクズの……男の、アレ……が……。[pcms]
+It should feel disgusting... To have such scum's... thing...[pcms]
 
 *16193|
 [fc]
-お尻が……熱い……！[pcms]
+My butt is burning hot![pcms]
 
 *16194|
 [fc]
-男を見ることも、触ることも。[r]
-触られる事も、見られることも大嫌い。[pcms]
+I hate looking at men, touching them. Being touched and[r]
+being seen is the worst.[pcms]
 
 *16195|
 [fc]
-今、アタシはその大嫌いな生き物共に囲まれて、[r]
-犯されている。[pcms]
+Right now, I'm surrounded by these creatures I despise,[r]
+being violated.[pcms]
 
 *16196|
 [fc]
-イヤ……こんなの……イヤ！[r]
-でも……。[pcms]
+No... I don't want this... But...[pcms]
 
 *16197|
 [fc]
-どうして……。[pcms]
+Why...[pcms]
 
 *16198|
 [fc]
-こんなに、気持ちいいの……！？[pcms]
+Why does it feel so good...!?[pcms]
 
 *16199|
 [fc]
-クズ共に体中をまさぐられると、アタシの頭の中を、[r]
-小さな虫が何匹も這いずり回る様な、ガサガサとした[r]
-感覚が駆け抜ける。[pcms]
+As these scumbags fondle me all over, it feels like tiny[r]
+bugs are crawling inside my head, creating a rough sensation[r]
+that races through me.[pcms]
 
 *16200|
 [fc]
-そのガサガサは、アタシの体を支配し始めた。[pcms]
+That rough sensation has begun to take over my body.[pcms]
 
 *16201|
 [fc]
-きっと、そうだ。[pcms]
+It must be so.[pcms]
 
 *16202|
 [fc]
-そうでなければ、こんなクズ共にこんな事をされて、[r]
-気持ち良いはずがない。[pcms]
+If not, there's no way I could feel good being done by such[r]
+scum.[pcms]
 
 *16203|
 [fc]
-アタシの体は、何かに乗っ取られてしまった……。[pcms]
+My body has been taken over by something...[pcms]
 
 *16204|
 [fc]
-でも、アタシはこのクズに触られている事が許せない。[pcms]
+But I can't stand being touched by this scum.[pcms]
 
 *16205|
 [fc]
-アタシは……。[r]
-こんな汚らしい生き物じゃなくて……。[pcms]
+I'm not... I'm not such a filthy creature...[pcms]
 
 *16206|
 [fc]
-キレイで、柔らかい女の子が……、[r]
-ありすさんが、好き！！[pcms]
+I like pretty, soft girls... I like Arisu-san!![pcms]
 
 *16207|
 [fc]
-[ns]目つきの悪い男[nse]
-「お……なんだ？　こいつ、だまりやがって……。[r]
-　もしかして、ケツのいっぽんじゃたりねぇのか？[r]
-　おい、そこの！　コイツにブチこんでやれよ！」[pcms]
+[ns]A man with a bad look in his eyes[nse]
+"Oh... what's this? She's gone quiet... Maybe she's not[r]
+satisfied with just the ass? Hey, you there! Give it to[r]
+her!"[pcms]
 
 *16208|
 [fc]
-一人だけ、まともな喋り方をする男が、全裸の男に[r]
-指示する。[pcms]
+A man who speaks decently gives instructions to a naked man.[pcms]
 
 *16209|
 [fc]
-[ns]全裸の男[nse]
-「あ゛あ～……おま゛んこ゛～……おま゛んこ゛……」[pcms]
+[ns]Naked Man[nse]
+"Aahh... pussy... pussy..."[pcms]
 
 *16210|
 [fc]
-呼びかけられた男は、汚らしいモノを握り、[r]
-フラフラとアタシに近寄ってくる。[pcms]
+The man who was called over grips his filthy thing and[r]
+staggers towards me.[pcms]
 
 *16211|
 [fc]
 [vo_nag s="nagasaki0325"]
-[ns]千尋[nse]
-「なっ……だ、だめ！！　ちかよるな！！[r]
-　これいじょうされたら、アタシ……アタシ！」[pcms]
+[ns]Chihiro[nse]
+"No... stop!! Don't come any closer!! If you do any more to[r]
+me... I... I!"[pcms]
 
 *16212|
 [fc]
-[ns]目つきの悪い男[nse]
-「なにがダメだよ……おまんこグッショグショに[r]
-　してるくせによ、へへっ……ただつっこむだけじゃ、[r]
-　おもしろくねえな……」[pcms]
+[ns]A man with a bad look in his eyes[nse]
+"What's wrong... Your pussy is soaking wet, heh heh... Just[r]
+sticking it in isn't fun enough..."[pcms]
 
 ;//★イベントＣＧ＿Ｃ
 [evcg storage="HEV212c"][trans_c cross time=301]
 
 *16213|
 [fc]
-[ns]全裸の男[nse]
-「う゛あぁ～！　い゛れ゛さ゛せ゛て゛く゛れえ～！」[pcms]
+[ns]Naked Man[nse]
+"Ughh~! Let me put it in~!"[pcms]
 
 *16214|
 [fc]
-モノを握りしめてアタシに近づく男のお腹を、[r]
-指示している男が抑えて、動きを止める。[pcms]
+The man who was approaching me with his thing in hand is[r]
+stopped by the man giving orders, halting his movement.[pcms]
 
 *16215|
 [fc]
-お腹を押さえられた男は、挿入することが出来なくて、[r]
-その結果、アタシのオマンコを汚いモノで擦り上げる[r]
-だけだった。[pcms]
+The man whose stomach was held could not insert it, and as a[r]
+result, he just rubbed his dirty thing against my pussy.[pcms]
 
 *16216|
 [fc]
-でも、擦りつけられた汚いモノは、[r]
-偶然にもアタシのクリトリスを刺激する。[pcms]
+But the filthy thing he rubbed against me accidentally[r]
+stimulated my clitoris.[pcms]
 
 *16217|
 [fc]
 [vo_nag s="nagasaki0326"]
-[ns]千尋[nse]
-「あっ……うぅ……あうっ……こ、こすらない……で、[r]
-　やあっ……やめろっ！　あぅぅッ！」[pcms]
+[ns]Chihiro[nse]
+"Ah... uhh... don't rub it... stop it! Ahh!"[pcms]
 
 *16218|
 [fc]
-[ns]全裸の男[nse]
-「ぬ゛る、ぬ゛るぅ……お゛ま゛んこ゛、ぬるぬ゛る、[r]
-　あぁ゛～！　い゛れ゛さ゛せ゛て゛～！！」[pcms]
+[ns]Naked Man[nse]
+"Slippery, slippery... your pussy, so slippery, ahh~! Let me[r]
+put it in~!!"[pcms]
 
 *16219|
 [fc]
 [vo_nag s="nagasaki0327"]
-[ns]千尋[nse]
-「きたない……きたないッ！　やめろぉ！」[pcms]
+[ns]Chihiro[nse]
+"Dirty... so dirty! Stop it!"[pcms]
 
 *16220|
 [fc]
-[ns]Ｙシャツの男[nse]
-「お゛お゛～～！　いりく゛ち゛、し、まる……」[pcms]
+[ns]Man in a Dress Shirt[nse]
+"Ohh~~! It's getting tight..."[pcms]
 
 *16221|
 [fc]
-[ns]目つきの悪い男[nse]
-「おーおー……おもしれー！　クリ、いいんだろ？[r]
-　ケツあなとクリいじられて、きもちいいんだろ？」[pcms]
+[ns]A man with a bad look in his eyes[nse]
+"Oh-oh-... this is fun! You like your clit, right? It feels[r]
+good being played with both your ass and clit?"[pcms]
 
 *16222|
 [fc]
 [vo_nag s="nagasaki0328"]
-[ns]千尋[nse]
-「やだっ！！　くそぉ！！　こんな……こんな！！[r]
-　おまえら……あうっ……ころす……ころしてやる！」[pcms]
+[ns]Chihiro[nse]
+"No!! Damn it!! This is... this!! You guys... ahh... I'll[r]
+kill you... I'll kill you!"[pcms]
 
 *16223|
 [fc]
-[ns]目つきの悪い男[nse]
-「へっ……ケツあなおかされてよがってるくせに……、[r]
-　なにいってんだ……！　おら……、[r]
-　そろそろ、いいだろ！！」[pcms]
+[ns]A man with a bad look in his eyes[nse]
+"Heh... moaning while your ass is being fucked... what are[r]
+you saying...! Hey... it's about time, right?!"[pcms]
 
 *16224|
 [fc]
-アタシの目の前の裸の男を抑えていた手が離されて、[r]
-勢い余った裸の男の汚いモノが、アタシの中に[r]
-突き刺さる。[pcms]
+The hand holding back the naked man in front of me lets go,[r]
+and the naked man's filthy thing thrusts into me with too[r]
+much momentum.[pcms]
 
 ;//★レッドフラッシュ
 [赤フラ]
@@ -525,20 +497,19 @@
 *16225|
 [fc]
 [vo_nag s="nagasaki0329"]
-[ns]千尋[nse]
-「ああ――ッ！　うあっ！！」[pcms]
+[ns]Chihiro[nse]
+"Aah--tt!! Ughh!!"[pcms]
 
 *16226|
 [fc]
-[ns]全裸の男[nse]
-「あ゛あ～……はい゛った゛あぁ～！！」[pcms]
+[ns]Naked Man[nse]
+"Aahh~... it's in~!!"[pcms]
 
 *16227|
 [fc]
 [vo_nag s="nagasaki0330"]
-[ns]千尋[nse]
-「あ――ッ！！　うぐぅっ！！　ぬ、ぬいて！！[r]
-　だめだっ！！　あっ……やあっ！！」[pcms]
+[ns]Chihiro[nse]
+"Ah--!! Ughh!! Pull it out!! No good!! Ahh... stop it!!"[pcms]
 
 ;//★イベントＣＤ＿Ｅ
 [evcg storage="HEV212e"][trans_c cross time=301]
@@ -546,126 +517,119 @@
 *16228|
 [fc]
 [vo_nag s="nagasaki0331"]
-[ns]千尋[nse]
-「やだあ！！　こんなの……ひどい！！[r]
-　あたしのはじめてを……！！　かえせっ……、[r]
-　あうっ……んっ……ふああっ！」[pcms]
+[ns]Chihiro[nse]
+"No!! This is terrible!! My first time... Give it back...[r]
+ahh... mmm... fuahh!"[pcms]
 
 *16229|
 [fc]
-[ns]太った男[nse]
-「は゛し゛めて゛～……い、いいな゛～！！[r]
-　うう……！」[pcms]
+[ns]Fat Man[nse]
+"First time~... that's nice~!! Ugh...!"[pcms]
 
 *16230|
 [fc]
-アタシの初めては、こんな事で奪われてしまった。[r]
-汚い生き物相手に、奪われてしまった。[pcms]
+My first time was taken away like this. Taken away by filthy[r]
+creatures.[pcms]
 
 *16231|
 [fc]
-でも、不思議と痛みはなかった。[r]
-ただ、初めてをこんなクズ共に奪われてしまった事が、[r]
-悔しかった。[pcms]
+But strangely, there was no pain. Just the frustration of[r]
+having my first time taken away by such scum.[pcms]
 
 *16232|
 [fc]
-でも、その嫌悪感は、すぐに消えて、別の感覚が、[r]
-また頭の中を駆けめぐった。[pcms]
+However, that disgust quickly disappeared, and another[r]
+sensation raced through my head again.[pcms]
 
 *16233|
 [fc]
-お尻とオマンコに入れられたモノのせいで、[r]
-あたしの頭の中はもう、沸騰してしまいそうだった。[pcms]
+The things inserted into my ass and pussy are making my head[r]
+feel like it's about to boil over.[pcms]
 
 *16234|
 [fc]
-汚らしいモノの進入を許してしまったのに、[r]
-アタシの気持ちとは裏腹に、体は熱くなっていく。[pcms]
+Even though I allowed these filthy things to enter, contrary[r]
+to my feelings, my body is getting hotter.[pcms]
 
 *16235|
 [fc]
 [vo_nag s="nagasaki0332"]
-[ns]千尋[nse]
-「うあぅ……うぅ……いやっ！！[r]
-　あうぅ……にほんも……なか……なかで、こすれ、[r]
-　てぇっ……やあぁあ！！」[pcms]
+[ns]Chihiro[nse]
+"Ughh... uhh... no!! Ahhh... inside me... rubbing inside,[r]
+ah... stop it!!"[pcms]
 
 *16236|
 [fc]
-アタシは……女の子が好き……。[r]
-男は、大嫌い……。[pcms]
+I like girls... I hate men...[pcms]
 
 *16237|
 [fc]
-なのに……なんで、こんなに……！！[pcms]
+Yet why... why does it feel like this...!![pcms]
 
 *16238|
 [fc]
-[ns]Ｙシャツの男[nse]
-「な、なかで……あた゛って……うぅ～……」[pcms]
+[ns]Man in a dress shirt[nse]
+"Inside... hitting it... uhh~..."[pcms]
 
 *16239|
 [fc]
-[ns]全裸の男[nse]
-「あ゛あ～……！！　こ゛す゛れるう～！」[pcms]
+[ns]Naked Man[nse]
+"Aahh~... rubbing~!"[pcms]
 
 *16240|
 [fc]
-[ns]太った男[nse]
-「しょ、しょし゛ょ……、しょし゛ょ……！」[pcms]
+[ns]Fat Man[nse]
+"Panties, panties...!"[pcms]
 
 *16241|
 [fc]
-惨めに呻くクズ達は、急に腰の動きを速めて、[r]
-アタシの中を乱暴に突き回す。[pcms]
+The miserable moaning scumbags suddenly speed up their hip[r]
+movements, violently thrusting inside me.[pcms]
 
 *16242|
 [fc]
-想像もしたくないことだけど、アタシの中で、[r]
-クズ達の汚いモノ同士がぶつかっている。[pcms]
+I don't even want to imagine it, but inside me, the filthy[r]
+things of the scumbags are colliding.[pcms]
 
 *16243|
 [fc]
-それは、アタシの頭の中をも掻き回す。[pcms]
+It stirs up my mind as well.[pcms]
 
 *16244|
 [fc]
-クズ達だけではなくて、アタシももう、限界だった。[pcms]
+Not just the scumbags, but I too was at my limit.[pcms]
 
 *16245|
 [fc]
 [vo_nag s="nagasaki0333"]
-[ns]千尋[nse]
-「あ――ッ！　あ――ッ！！[r]
-　い……イク……やだ！！　こんな……イッ！！[r]
-　いやだあっ！　こんなのでイキたくないっ！」[pcms]
+[ns]Chihiro[nse]
+"Ahh! Ahh!! I'm... I'm coming... no!! I don't want to... cum[r]
+like this!! Nooo! I don't want to cum from this!"[pcms]
 
 *16246|
 [fc]
-[ns]太った男[nse]
-「あ……あ゛……お゛れ、もう゛……」[pcms]
+[ns]Fat Man[nse]
+"Ah... ah... I'm already..."[pcms]
 
 *16247|
 [fc]
-[ns]Ｙシャツの男[nse]
-「お、お゛お゛お゛お゛お゛お゛……！！」[pcms]
+[ns]Man in a Dress Shirt[nse]
+"Oh, oh oh oh oh oh...!!"[pcms]
 
 *16248|
 [fc]
-[ns]全裸の男[nse]
-「あ゛……」[pcms]
+[ns]Naked Man[nse]
+"Ah..."[pcms]
 
 *16249|
 [fc]
-アタシの前と後ろに詰まったモノが、[r]
-いっそう大きく弾けて、アタシの中に、汚らしい[r]
-液が注ぎ込まれるのが、分かった。[pcms]
+The things stuffed in front of and behind me burst even[r]
+larger, and I could feel the filthy liquid being poured[r]
+inside me.[pcms]
 
 *16250|
 [fc]
-その熱さを感じたアタシは、自分の気持ちとは[r]
-裏腹に、絶頂を迎えてしまった。[pcms]
+Feeling its heat, I reached climax against my will.[pcms]
 
 ;//★イベントＣＧ＿Ｆ
 [evcg storage="HEV212f"][trans_c cross time=301]
@@ -673,9 +637,8 @@
 *16251|
 [fc]
 [vo_nag s="nagasaki0334"]
-[ns]千尋[nse]
-「あ……！？　ああっ！[r]
-　イくッ！！　いや――あっ！　イク――ッ！！」[pcms]
+[ns]Chihiro[nse]
+"Ah...!? Aah! I'm cumming!! No--ah! Cumming--!!"[pcms]
 
 ;[射精フラA]
 ;イベントCG射精差分
@@ -686,52 +649,50 @@
 
 *16252|
 [fc]
-[ns]太った男[nse]
-「うあ」[pcms]
+[ns]Fat Man[nse]
+"Ugh"[pcms]
 
 *16253|
 [fc]
-[ns]全裸の男[nse]
-「お゛れ、こい、つ゛～あき、たぁ～」[pcms]
+[ns]Naked Man[nse]
+"I'm coming, I'm so satisfied~"[pcms]
 
 ;//★イベントＣＧ＿Ｈ
 [evcg storage="HEV212h"][trans_c cross time=301]
 
 *16254|
 [fc]
-[ns]目つきの悪い男[nse]
-「へっ……ぶざまだなぁ！！　オマンコからせいし[r]
-　ふきだしてやがんぜ！　ぎゃはは！！」[pcms]
+[ns]A man with a bad look in his eyes[nse]
+"Heh... pathetic!! Semen is spurting out from your pussy![r]
+Gyahaha!!"[pcms]
 
 *16255|
 [fc]
 [vo_nag s="nagasaki0335"]
-[ns]千尋[nse]
-「うぅ……」[pcms]
+[ns]Chihiro[nse]
+"Ugh..."[pcms]
 
 *16256|
 [fc]
-アタシの中に……。[r]
-汚いのが……。[pcms]
+Inside me... something filthy...[pcms]
 
 *16257|
 [fc]
-処女が……。[pcms]
+A virgin...[pcms]
 
 *16258|
 [fc]
-アタシの初めてが……。[pcms]
+My first time...[pcms]
 
 *16259|
 [fc]
-クズ共に蹂躙された事で、アタシの頭の中で、[r]
-何かが弾けて切れたような音がした。[pcms]
+Because of being ravaged by these scumbags, something in my[r]
+head felt like it snapped with a pop.[pcms]
 
 *16260|
 [fc]
-薄れゆく意識の中で、[r]
-周りのクズ共がはやし立てる声と、[r]
-ありすさんの悲鳴が聞こえる。[pcms]
+In my fading consciousness, I could hear the voices of the[r]
+scumbags cheering and Arisu-san's screams.[pcms]
 
 ;//★イベントＣＧ２＿Ａ
 [evcg storage="HEV213a"][trans_c cross time=301]
@@ -739,115 +700,109 @@
 *16261|
 [fc]
 [vo_nag s="nagasaki0336"]
-[ns]千尋[nse]
-「あ……あり……す……さん……」[pcms]
+[ns]Chihiro[nse]
+"Ah... Arisu... san..."[pcms]
 
 *16262|
 [fc]
 [vo_hay s="hayami0612"]
-[ns]ありす[nse]
-「あうう……もう許して下さい……。[r]
-　お願い……もうやめて……」[pcms]
+[ns]Alice[nse]
+"Ahh... please, no more... Please... stop it..."[pcms]
 
 *16263|
 [fc]
-震える体を無理に動かし、声のする方に振り返ると、[r]
-そこには全裸にされ、体中を汚らしい液で汚され、[r]
-それでもなお犯され続けている姿があった。[pcms]
+Turning towards the direction of the voice with my trembling[r]
+body, there was Arisu-san, stripped naked, her body defiled[r]
+with filthy liquid, still being violated.[pcms]
 
 *16264|
 [fc]
-[ns]背の高い男[nse]
-「おまえ、オマンコきっついな……！」[pcms]
+[ns]Tall man[nse]
+"Your pussy is so tight...!"[pcms]
 
 *16265|
 [fc]
-[ns]ヨダレを垂している男[nse]
-「お゛い゛……も、も゛うかわ、れよ……」[pcms]
+[ns]A man drooling[nse]
+"Hey... it's time to switch already..."[pcms]
 
 *16266|
 [fc]
-[ns]半袖シャツの男[nse]
-「うあぁ……は゛た゛……、し゛ろ……いな～！」[pcms]
+[ns]Short-sleeved shirt man[nse]
+"Ugh... damn... it's so wet!"[pcms]
 
 *16267|
 [fc]
-ありすさんの周りにも、クズ共が沢山群がり、[r]
-その姿を笑ったりしていた。[pcms]
+Around Arisu-san too, many scumbags were swarming, laughing[r]
+and jeering at her plight.[pcms]
 
 *16268|
 [fc]
 [vo_hay s="hayami0613"]
-[ns]ありす[nse]
-「あ……あっ……やめっ！　ダメ……、いやぁ！[r]
-　深いよ……もう抜いて……」[pcms]
+[ns]Alice[nse]
+"Ah... ah! Stop! No... noo! It's too deep... pull it out[r]
+already..."[pcms]
 
 *16269|
 [fc]
-両足を固定して、体育の時にする様な格好で犯される[r]
-ありすさんは、その屈辱からかあるいは苦痛のせいか、[r]
-顔を歪めて泣き叫んでいる。[pcms]
+Arisu-san, fixed by both legs and violated in a position[r]
+like during physical education class, was crying and[r]
+screaming from either humiliation or pain, distorting her[r]
+face.[pcms]
 
 [evcg storage="HEV213b"][trans_c cross time=301]
 
 *16270|
 [fc]
-[ns]背の高い男[nse]
-「こいつ……しまるぜ！！　いいぜこりゃ！[r]
-　ははははっ！！」[pcms]
+[ns]Tall man[nse]
+"This chick... she's clamping down!! This is great![r]
+Hahahaha!!"[pcms]
 
 *16271|
 [fc]
 [vo_hay s="hayami0614"]
-[ns]ありす[nse]
-「うぅっ！！　あうっ！　いっ……いやぁ！[r]
-　もう……ダメ……だめぇ！」[pcms]
+[ns]Arisu[nse]
+"Ugh!! Ahh! I'm... noo! It's too much... too much!"[pcms]
 
 [evcg storage="HEV213c"][trans_c cross time=301]
 
 *16272|
 [fc]
-[ns]ヨダレを垂らしている男[nse]
-「お゛お……い、いいこ゛え゛～～！！[r]
-　い゛い゛なあ゛～～！」[pcms]
+[ns]A man drooling[nse]
+"Ohh... what a good voice~~! Nice~~!"[pcms]
 
 *16273|
 [fc]
-[ns]半袖シャツの男[nse]
-「う゛ぅ゛～……お゛れ゛ぇ～……、も゛ぉ～～！[r]
-　て゛る゛ぅ～……」[pcms]
+[ns]Short-sleeved shirt man[nse]
+"Uhh~... I'm gonna... come soon~..."[pcms]
 
 *16274|
 [fc]
-[ns]背の高い男[nse]
-「おぉ！　おれ、もうダメだぁ～！[r]
-　だすぞぉ！　おれのこどもうんでくれるかぁ～～？[r]
-　おらぁ！」[pcms]
+[ns]Tall man[nse]
+"Oh! I can't hold it anymore~! I'm gonna release! Will you[r]
+bear my child~? Here I go!"[pcms]
 
 [evcg storage="HEV213d"][trans_c cross time=301]
 
 *16275|
 [fc]
 [vo_hay s="hayami0615"]
-[ns]ありす[nse]
-「えっ……！？　やあっ！　だ……だめぇ！！[r]
-　中は！！　ダメ、だめ！！　ああッ！」[pcms]
+[ns]Arisu[nse]
+"Eh...!? Noo! Not inside!! No, no!! Ahh!"[pcms]
 
 *16276|
 [fc]
-あのクズ……！！[r]
-ありすさんの中で……！！[pcms]
+That scumbag... inside Arisu-san...!![pcms]
 
 *16277|
 [fc]
-ありすさんを助けたいけど、体がまるで言うことを[r]
-聞かないアタシは、その場でただ、ありすさんが[r]
-凌辱されるさまを見ているしかなかった。[pcms]
+I wanted to help Arisu-san, but my body wouldn't listen to[r]
+me at all, and all I could do was watch as Arisu-san was[r]
+being dishonored.[pcms]
 
 *16278|
 [fc]
-[ns]背の高い男[nse]
-「うっ……うぁあぁあっ！　でるぜ！！　おぉぉ！！」[pcms]
+[ns]Tall man[nse]
+"Ugh... ughhh!! It's coming out!! Ohhh!!"[pcms]
 
 ;[射精フラA]
 ;イベントCG射精差分
@@ -857,122 +812,115 @@
 *16279|
 [fc]
 [vo_hay s="hayami0616"]
-[ns]ありす[nse]
-「いっ……いや――ッ！！　熱いっ！！　あうぅっ！[r]
-　中で……中でえっ！！　赤ちゃんがああぁぁっ！！[r]
-　いやあぁあぁああぁぁあぁ！！」[pcms]
+[ns]Arisu[nse]
+"I'm... no--!! It's hot!! Ahh! Inside... inside me!! The[r]
+baby aahh!! Nooo!!"[pcms]
 
 *16280|
 [fc]
 [vo_nag s="nagasaki0337"]
-[ns]千尋[nse]
-「ありす……さん……」[pcms]
+[ns]Chihiro[nse]
+"Arisu... san..."[pcms]
 
 *16281|
 [fc]
-アタシの大切なモノが、何もかも奪われた。[pcms]
+All of my precious things were taken away.[pcms]
 
 *16282|
 [fc]
-アタシの初めても、[r]
-アタシの大切なありすさんも……。[pcms]
+My first time, and my precious Arisu-san too...[pcms]
 
 *16283|
 [fc]
-アタシの頭の中のざわつきが、[r]
-またいっそう大きくなる。[pcms]
+The turmoil inside my head grew even louder.[pcms]
 
 [evcg storage="HEV213f"][trans_c cross time=301]
 
 *16284|
 [fc]
-アタシが、アタシで無くなる。[r]
-何かが、アタシの中で弾けた。[pcms]
+I'm losing myself. Something inside me burst.[pcms]
 
 *16285|
 [fc]
-でも、体がまだ言うことを聞かない……。[pcms]
+But my body still won't listen...[pcms]
 
 *16286|
 [fc]
-アタシは、どうしたらこのクズ共を……！！[pcms]
+I wonder how can I get rid of these scumbags...!![pcms]
 
 [evcg storage="HEV213g"][trans_c cross time=301]
 
 *16287|
 [fc]
 [vo_nag s="nagasaki0338"]
-[ns]千尋[nse]
-「ありすさん！　あっ！！　うわぁぁぁあぁあ！！」[pcms]
+[ns]Chihiro[nse]
+"Arisu-san! Ahh!! Uwaaaahhh!!"[pcms]
 
 *16288|
 [fc]
-[ns]目つきの悪い男[nse]
-「おっし……つぎはおれだ！　おれもたのしませて[r]
-　くれよっ！」[pcms]
+[ns]A man with a bad look in his eyes[nse]
+"Alright... next is my turn! Let me have some fun too!"[pcms]
 
 *16289|
 [fc]
-ありすさんの元へ近寄ろうとしたアタシを、[r]
-さっきの男に頭を引っ張られて、[r]
-動きを封じられてしまった。[pcms]
+As I tried to approach Arisu-san, the same man pulled my[r]
+head back and restrained my movements.[pcms]
 
 *16290|
 [fc]
 [vo_nag s="nagasaki0339"]
-[ns]千尋[nse]
-「この……クズがっ！　いいかげんにしろ！[r]
-　もう……アタシたちをはなせ！！」[pcms]
+[ns]Chihiro[nse]
+"You... scumbag! Enough is enough! Let us go already!!"[pcms]
 
 *16291|
 [fc]
-[ns]目つきの悪い男[nse]
-「へっ……おい、こんどはべつのあそびしようぜ！[r]
-　そのおんな、こっちにもってこいよ」[pcms]
+[ns]A man with a bad look in his eyes[nse]
+"Heh... hey, let's play a different game now! Bring that[r]
+girl over here."[pcms]
 
 *16292|
 [fc]
 [vo_nag s="nagasaki0340"]
-[ns]千尋[nse]
-「……！？」[pcms]
+[ns]Chihiro[nse]
+"...!?"[pcms]
 
 *16293|
 [fc]
-[ns]背の高い男[nse]
-「お……？　おう、わかった」[pcms]
+[ns]Tall man[nse]
+"Oh...? Alright."[pcms]
 
 *16294|
 [fc]
-クズの中でも、まだマトモに話す二人は、目配せを[r]
-して、それぞれが打ち合わせ済みのように動いて、[r]
-ありすさんをアタシの方に連れてこようとしていた。[pcms]
+The two men who could still talk sensibly among the scumbags[r]
+exchanged glances and moved as if they had already planned[r]
+it out, trying to bring Arisu-san towards me.[pcms]
 
 *16295|
 [fc]
 [vo_hay s="hayami0617"]
-[ns]ありす[nse]
-「もう……いやぁ……」[pcms]
+[ns]Arisu[nse]
+"No more... I can't..."[pcms]
 
 *16296|
 [fc]
-[ns]背の高い男[nse]
-「おら……さっさと、うごけよ……」[pcms]
+[ns]Tall man[nse]
+"Hey... hurry up and move..."[pcms]
 
 *16297|
 [fc]
-[ns]目つきの悪い男[nse]
-「へっ……おもしろくなってきたぜ！」[pcms]
+[ns]A man with a bad look in his eyes[nse]
+"Heh... this is getting interesting!"[pcms]
 
 *16298|
 [fc]
 [vo_nag s="nagasaki0341"]
-[ns]千尋[nse]
-「？？　っつ……！！」[pcms]
+[ns]Chihiro[nse]
+"??? Tsk...!!"[pcms]
 
 *16299|
 [fc]
-アタシは顔を床に押しつけられ、ありすさんは、[r]
-その顔の前に、大股開きで座らせられた。[pcms]
+My face was pushed against the floor, and Arisu-san was made[r]
+to sit with her legs wide open in front of that face.[pcms]
 
 ;//★イベントＣＧ３
 [evcg storage="HEV214a"][trans_c cross time=301]
@@ -980,338 +928,323 @@
 *16300|
 [fc]
 [vo_hay s="hayami0618"]
-[ns]ありす[nse]
-「やっ……やだよ、こんなの！！　ひどいっ！」[pcms]
+[ns]Arisu[nse]
+"No... I don't want this!! It's terrible!"[pcms]
 
 *16301|
 [fc]
 [vo_nag s="nagasaki0342"]
-[ns]千尋[nse]
-「あっ……あ、ああっ……、あ、ありす……さん……」[pcms]
+[ns]Chihiro[nse]
+"Ah... Ah, Ahh... Arisu-san..."[pcms]
 
 *16302|
 [fc]
-あぁ……ありすさんの……オマンコ……。[r]
-こんなに赤く腫れて、可愛そう……。[pcms]
+Ah... Arisu-san's pussy... It's so red and swollen, it looks[r]
+pitiful...[pcms]
 
 *16303|
 [fc]
-アタシの目の前にある、ありすさんのオマンコは、[r]
-何人ものクズに犯された事を物語るように、[r]
-真っ赤に腫れ上がっていた。[pcms]
+The pussy of Arisu-san in front of my eyes was swollen[r]
+bright red, telling the tale of being violated by several[r]
+scumbags.[pcms]
 
 *16304|
 [fc]
-イヤらしく蠢く、真っ赤なアソコからは、[r]
-クズ共のはき出した、汚らしい液が溢れだしていた。[pcms]
+The filthy liquid that the scumbags had released was[r]
+overflowing from the wriggling, bright red pussy.[pcms]
 
 [evcg storage="HEV214b"][trans_c cross time=301]
 
 *16305|
 [fc]
 [vo_nag s="nagasaki0343"]
-[ns]千尋[nse]
-「かわいそう……かわいそう……、こんなに、されて、[r]
-　ありす、さん……」[pcms]
+[ns]Chihiro[nse]
+"It's so pitiful... so pitiful... to be done like this,[r]
+Arisu-san..."[pcms]
 
 *16306|
 [fc]
 [vo_hay s="hayami0619"]
-[ns]ありす[nse]
-「やあっ！！　見ないで！　お願い……長崎さん……。[r]
-　こんな所……見ないで！」[pcms]
+[ns]Arisu[nse]
+"No!! Don't look! Please... Nagasaki-san... Don't look at me[r]
+in such a state!"[pcms]
 
 *16307|
 [fc]
-[ns]目つきの悪い男[nse]
-「へっ……かわいそうだよな……、おまえさ、[r]
-　なめてやれよ、なめてきれいにしてやれよ？」[pcms]
+[ns]A man with a bad look in his eyes[nse]
+"Heh... it's pitiful, right... hey, why don't you lick it[r]
+clean for her, huh?"[pcms]
 
 *16308|
 [fc]
 [vo_nag s="nagasaki0344"]
-[ns]千尋[nse]
-「……！！」[pcms]
+[ns]Chihiro[nse]
+"...!!"[pcms]
 
 *16309|
 [fc]
 [vo_hay s="hayami0620"]
-[ns]ありす[nse]
-「なにバカな事言ってるのよ！！　そんな事！[r]
-　やめてぇ！！」[pcms]
+[ns]Alice[nse]
+"What are you saying, you idiot!! Stop it!!"[pcms]
 
 *16310|
 [fc]
-[ns]目つきの悪い男[nse]
-「おまえさぁ、おんなのオマンコみて、かおまっかに[r]
-　してんだろ……？　ずっときになってたけどよ、[r]
-　おまえ、もしかして……」[pcms]
+[ns]A man with a bad look in his eyes[nse]
+"You're looking at a girl's pussy and your face is all[r]
+red... I've been curious for a while now, but maybe you're[r]
+actually..."[pcms]
 
 *16311|
 [fc]
-[ns]背の高い男[nse]
-「こいつさぁ、べんじょでさみしそうに、こっちの[r]
-　おんなのなまえよんでたぜ？　もしかして……」[pcms]
+[ns]Tall man[nse]
+"This guy was sadly calling out a girl's name in the[r]
+bathroom, right? Maybe he's actually..."[pcms]
 
 *16312|
 [fc]
-[ns]目つきの悪い男[nse]
-「へっ……もしかしてこいつ……このおんなのこと、[r]
-　すきなんじゃねぇか？」[pcms]
+[ns]A man with a bad look in his eyes[nse]
+"Heh... maybe this guy actually likes this girl?"[pcms]
 
 *16313|
 [fc]
 [vo_nag s="nagasaki0345"]
-[ns]千尋[nse]
-「……！？」[pcms]
+[ns]Chihiro[nse]
+"...!?"[pcms]
 
 *16314|
 [fc]
-[ns]背の高い男[nse]
-「かもしれねぇなあ……おい、どうなんだよ？[r]
-　おまえ、こいつがすきなんだろ？」[pcms]
+[ns]Tall man[nse]
+"Might be true... hey, what about it? You like her, don't[r]
+you?"[pcms]
 
 *16315|
 [fc]
-このクズ共は、きっと当てずっぽうに言っているだけ。[r]
-でも、それは本当の事。[pcms]
+These scumbags are probably just guessing, but they're right[r]
+on the mark.[pcms]
 
 *16316|
 [fc]
-図星を指されたアタシは、もう何も言い返す事が[r]
-出来なくなっていた。[pcms]
+Being hit right on the mark, I couldn't find anything to say[r]
+in return.[pcms]
 
 *16317|
 [fc]
-[ns]目つきの悪い男[nse]
-「なんだよ、だまっちまったぜ、こいつ……」[pcms]
+[ns]A man with a bad look in his eyes[nse]
+"What's up, he's gone silent, this guy..."[pcms]
 
 *16318|
 [fc]
-[ns]背の高い男[nse]
-「あたってたんじゃねぇか？　こいつがおんなが[r]
-　すきだってことがよ！！　ぎゃはははは！！」[pcms]
+[ns]Tall man[nse]
+"We hit the nail on the head, didn't we? That this guy likes[r]
+girls!! Gyahaha!!"[pcms]
 
 *16319|
 [fc]
 [vo_hay s="hayami0621"]
-[ns]ありす[nse]
-「長崎さん……」[pcms]
+[ns]Alice[nse]
+"Nagasaki-san..."[pcms]
 
 *16320|
 [fc]
-[ns]目つきの悪い男[nse]
-「おら！　だまってねえで、すきなこのよごれたの、[r]
-　きれいにしてやれよ！！　てつだってやっからよ！」[pcms]
+[ns]A man with a bad look in his eyes[nse]
+"Hey! Don't just stand there, clean up your beloved girl's[r]
+dirty pussy!! I'll help you out!"[pcms]
 
 [evcg storage="HEV214c"][trans_c cross time=301]
 
 *16321|
 [fc]
 [vo_nag s="nagasaki0346"]
-[ns]千尋[nse]
-「んぶっ！！　あぶっ……んっ……あうっ！」[pcms]
+[ns]Chihiro[nse]
+"Nmbu!! Abbu... Nnn... Auh!"[pcms]
 
 *16322|
 [fc]
 [vo_hay s="hayami0622"]
-[ns]ありす[nse]
-「あっ……うあっ……、やあっ！」[pcms]
+[ns]Arisu[nse]
+"Ah... Uahh... Noo!"[pcms]
 
 *16323|
 [fc]
-頭を引きずられ、無理矢理ありすさんのオマンコに[r]
-口を付けさせられてしまった。[pcms]
+My head was dragged and I was forced to put my mouth on[r]
+Arisu-san's pussy.[pcms]
 
 *16324|
 [fc]
-ありすさんのオマンコからあふれ出す、生臭い精液が、[r]
-アタシの顔にへばりつく。[pcms]
+The fishy smell of semen overflowing from Arisu-san's pussy[r]
+stuck to my face.[pcms]
 
 *16325|
 [fc]
-[ns]目つきの悪い男[nse]
-「なめろよ……なめてこいつのきれいにしてやれよ！[r]
-　ほら、はやくしてやれ？　おまえのすきなこも、[r]
-　まってるぜ？」[pcms]
+[ns]A man with a bad look in his eyes[nse]
+"Lick it... lick her clean! Come on, hurry up? Your beloved[r]
+girl is waiting, right?"[pcms]
 
 *16326|
 [fc]
-[ns]背の高い男[nse]
-「へっ……ほら、したのくちが、きすしてください！[r]
-　ってまってんぜ？　はやくしてやんな！[r]
-　ぎゃはははっ！」[pcms]
+[ns]Tall man[nse]
+"Heh... look, she's waiting for your mouth to kiss her![r]
+Hurry up and do it! Gyahaha!"[pcms]
 
 *16327|
 [fc]
-好き？[r]
-待ってる？[pcms]
+Liking her? Waiting?[pcms]
 
 *16328|
 [fc]
-ありすさんが、アタシがオマンコを舐めるのを、[r]
-待ってる？[pcms]
+Is Arisu-san waiting for me to lick her pussy?[pcms]
 
 *16329|
 [fc]
-そう言われると、確かにありすさんのオマンコは、[r]
-アタシに舐められるのを待っているような、[r]
-そんな気がして来た。[pcms]
+Being told that, I started to feel like Arisu-san's pussy[r]
+was indeed waiting to be licked by me.[pcms]
 
 *16330|
 [fc]
-アタシが、このクズ共に汚された所を、[r]
-綺麗にしてあげなきゃ……。[pcms]
+I have to clean the place that these scumbags have[r]
+dirtied...[pcms]
 
 *16331|
 [fc]
-クリトリスも、皮が捲れて、パンパンに腫れている。[pcms]
+Her clitoris is also swollen and puffed up from the skin[r]
+being peeled back.[pcms]
 
 *16332|
 [fc]
-アタシの舌で、慰めてあげないと……。[r]
-こんなクズ達じゃなくて、アタシが……。[pcms]
+I have to comfort her with my tongue... not these scumbags,[r]
+but me...[pcms]
 
 *16333|
 [fc]
-そう……。[r]
-アタシが……。[pcms]
+Yes... I have to...[pcms]
 
 *16334|
 [fc]
 [vo_nag s="nagasaki0347"]
-[ns]千尋[nse]
-「はぁぁっ……、はあっ……。[r]
-　ありすさん……アタシが……きれいに、[r]
-　きれいに、して……あげるから……」[pcms]
+[ns]Chihiro[nse]
+"Haaahh... Hah... Arisu-san... I will clean you up... make[r]
+you clean..."[pcms]
 
 *16335|
 [fc]
 [vo_hay s="hayami0623"]
-[ns]ありす[nse]
-「長崎さん……？　うっ……、あうっ！[r]
-　やっ……ちょっと……ああっっ！」[pcms]
+[ns]Arisu[nse]
+"Nagasaki-san...? Uh... Auh! No... wait a minute... Ahhh!"[pcms]
 
 *16336|
 [fc]
-[ns]背の高い男[nse]
-「ぎゃははは！！　こいつ、ほんとになめてやんの！[r]
-　まじでやるとおもわなかったぜ！！」[pcms]
+[ns]Tall man[nse]
+"Gyahahaha!! He's really licking her! I never thought he'd[r]
+actually do it!!"[pcms]
 
 *16337|
 [fc]
 [vo_nag s="nagasaki0348"]
-[ns]千尋[nse]
-「んっ……れろっ……ちゅっ……。[r]
-　んはっ……、ありすさんは、アタシがきれいに[r]
-　しなきゃ……きれいに……」[pcms]
+[ns]Chihiro[nse]
+"Nnn... Leroo... Chuu... Nhaa... Arisu-san needs me to clean[r]
+her up... make her clean..."[pcms]
 
 *16338|
 [fc]
 [vo_hay s="hayami0624"]
-[ns]ありす[nse]
-「長崎さん！！　どうしたの！？　んぁっ！[r]
-　やっ……あふっ……」[pcms]
+[ns]Alice[nse]
+"Nagasaki-san!! What are you doing!? Nha! Noo... Ahfu..."[pcms]
 
 *16339|
 [fc]
-こんなになって……。[r]
-アタシのせいで……。[r]
-アタシが守ってあげるはずだったのに……。[pcms]
+To be in such a state... Because of me... I was supposed to[r]
+protect her...[pcms]
 
 *16340|
 [fc]
-アタシは、罪の意識から、せめてもの罪滅ぼしと、[r]
-ありすさんのオマンコを綺麗にするために、必死で[r]
-舌を動かした。[pcms]
+In a desperate attempt at redemption for my guilt, I moved[r]
+my tongue frantically to clean Arisu-san's pussy.[pcms]
 
 *16341|
 [fc]
 [vo_nag s="nagasaki0349"]
-[ns]千尋[nse]
-「ぢゅっ……んぶっ……れろっ！　んんっ……。[r]
-　せいえき……とまらない……」[pcms]
+[ns]Chihiro[nse]
+"Juuu... Nmbu... Leroo! Nnn... The semen won't stop..."[pcms]
 
 *16342|
 [fc]
 [vo_hay s="hayami0625"]
-[ns]ありす[nse]
-「んあっ……やっ……クリがっ……やめて！[r]
-　そんなに……弾かないで……あうぅ！」[pcms]
+[ns]Arisu[nse]
+"Nhaa... Noo... My clit... Stop! Don't flick it so much...[r]
+Auhuu!"[pcms]
 
 *16343|
 [fc]
-[ns]目つきの悪い男[nse]
-「なんだこいつ……？　きゅうにかわったぞ？[r]
-　おれらおいてけぼりでよ！！」[pcms]
+[ns]A man with a bad look in his eyes[nse]
+"What's with this guy...? He suddenly changed? Leaving us[r]
+out of it!!"[pcms]
 
 *16344|
 [fc]
-[ns]背の高い男[nse]
-「すきなこのオマンコなめられて、あたまがおかしく[r]
-　なっちまったんじゃねえか？　したもねじこんでる[r]
-　しよ！！　おれらのせいし、そんなにうまいか！？」[pcms]
+[ns]Tall man[nse]
+"Maybe he's gone crazy from licking his beloved girl's[r]
+pussy. He's even sticking his tongue inside! Is our semen[r]
+that delicious!?"[pcms]
 
 *16345|
 [fc]
 [vo_nag s="nagasaki0350"]
-[ns]千尋[nse]
-「そんな……ちがう……んっ……ぢゅぶっ……、[r]
-　んうっ……」[pcms]
+[ns]Chihiro[nse]
+"No... that's not it... Nn... Jubu... Nuu..."[pcms]
 
 *16346|
 [fc]
 [vo_hay s="hayami0626"]
-[ns]ありす[nse]
-「舌っ……舌があっ……あんっ！　ぬるっ……て！[r]
-　いやぁっ……」[pcms]
+[ns]Arisu[nse]
+"Your tongue... Your tongue is... Ahn! Slippery... Noo...[r]
+Ahhh!"[pcms]
 
 *16347|
 [fc]
-ありすさんの中には、一体何人のクズが欲望を[r]
-はき出したのだろうか。[pcms]
+How many scumbags have released their desires inside Arisu-[r]
+san?[pcms]
 
 *16348|
 [fc]
-中からは、沢山の汚らしい液が溢れ出て、アタシの口[r]
-の中に溜まっていく。[pcms]
+From inside, a lot of filthy liquid overflowed, accumulating[r]
+in my mouth.[pcms]
 
 *16349|
 [fc]
-苦いような、しょっぱいような、ヘンな味のする液が、[r]
-アタシの口の周りをベタベタにしていく。[pcms]
+The liquid with a bitter, salty, strange taste made the area[r]
+around my mouth sticky.[pcms]
 
 *16350|
 [fc]
-でもだんだん、ありすさんのオマンコが綺麗に[r]
-なっていくのが嬉しかった。[pcms]
+But gradually, I was happy to see Arisu-san's pussy becoming[r]
+clean.[pcms]
 
 *16351|
 [fc]
-[ns]目つきの悪い男[nse]
-「よーし……そろそろ、いいか？」[pcms]
+[ns]A man with a bad look in his eyes[nse]
+"Alright... is it about time?"[pcms]
 
 *16352|
 [fc]
-[ns]背の高い男[nse]
-「……だな」[pcms]
+[ns]Tall man[nse]
+"...Yeah."[pcms]
 
 *16353|
 [fc]
 [vo_nag s="nagasaki0351"]
-[ns]千尋[nse]
-「……？？」[pcms]
+[ns]Chihiro[nse]
+"...???"[pcms]
 
 *16354|
 [fc]
-アタシ達を押さえつけていた男達は、[r]
-また目配せをして、ニヤニヤしていた。[pcms]
+The men who were holding us down exchanged glances and[r]
+smirked.[pcms]
 
 *16355|
 [fc]
-このクズ共は、また何かを思いついた様子で、[r]
-アタシとありすさんの頭を引っ張り、それぞれを[r]
-床に押し倒して、馬乗りになった。[pcms]
+These scumbags seemed to have thought of something new,[r]
+pulling our heads and pushing us down onto the floor,[r]
+mounting us.[pcms]
 
 ;//★黒画面
 
@@ -1321,20 +1254,20 @@
 *16356|
 [fc]
 [vo_hay s="hayami0627"]
-[ns]ありす[nse]
-「いたっ……やだあっ！！」[pcms]
+[ns]Arisu[nse]
+"Ouch... Nooo!!"[pcms]
 
 *16357|
 [fc]
 [vo_nag s="nagasaki0352"]
-[ns]千尋[nse]
-「あうっ！」[pcms]
+[ns]Chihiro[nse]
+"Auh!"[pcms]
 
 *16358|
 [fc]
-アタシとありすさん、それぞれに馬乗りになって、[r]
-醜いモノを顔に押しつけてきたクズ達は、アタシ達を[r]
-異常な力で押さえつけ、口の中にソレをねじ込んだ。[pcms]
+The scumbags mounted on both Arisu-san and me, pressing[r]
+their ugly things against our faces, held us down with[r]
+abnormal strength, and forced them into our mouths.[pcms]
 
 ;//★イベントＣＧ４＿Ａ
 [evcg storage="HEV215a"][trans_c cross time=301]
@@ -1342,225 +1275,207 @@
 *16359|
 [fc]
 [vo_nag s="nagasaki0353"]
-[ns]千尋[nse]
-「ん゛ぶぉぉぉお゛おお゛っ……！！！！　ん゛ぼっ、[r]
-　ぐちゅ、ぶちゅうぅっ……！！」[pcms]
+[ns]Chihiro[nse]
+"Ngbuoooooooh...!!! Ngbu, guchu, buchuuu...!!"[pcms]
 
 *16360|
 [fc]
 [vo_hay s="hayami0628"]
-[ns]ありす[nse]
-「ぉぶうううぅぅぅっ！！　ぐちゅぅっ……んううう[r]
-　うぅぅ～～～……っ！！」[pcms]
+[ns]Arisu[nse]
+"Obuuuuuuuu!! Guchuu... Nuuuuuuu...!!"[pcms]
 
 *16361|
 [fc]
-[ns]背の高い男[nse]
-「くち、あったけー！　ぎゃははっ！　きもちいいな、[r]
-　これ！！」[pcms]
+[ns]Tall man[nse]
+"Your mouth is so warm! Gyahaha! This feels good!!"[pcms]
 
 *16362|
 [fc]
-[ns]目つきの悪い男[nse]
-「いっかいやってみたかったんだよなこれ！[r]
-　きもちいーな！　した、つかえよ、おら！」[pcms]
+[ns]A man with a bad look in his eyes[nse]
+"I've always wanted to try this! It feels so good! Now use[r]
+your mouth, come on!"[pcms]
 
 *16363|
 [fc]
 [vo_nag s="nagasaki0354"]
-[ns]千尋[nse]
-「ごぼっ、ぐぶぅっ……！！　んぶぢゅっ、ぶぢゅ、[r]
-　ぢゅぐぅっ……！！」[pcms]
+[ns]Chihiro[nse]
+"Gobu, gubuu...!! Nbuju, buju, juguu...!!"[pcms]
 
 *16364|
 [fc]
-クソッ……。[r]
-こんなモノ！！　かみ切って……。[pcms]
+Dammit... Such a thing!! I'll bite it off...[pcms]
 
 *16365|
 [fc]
-[ns]背の高い男[nse]
-「おー、おっかねえめでにらんでるぜ……、[r]
-　そいつのちんぽになんかしたら、こいつのかお、[r]
-　にどとみられねえようにすんぜ？」[pcms]
+[ns]Tall man[nse]
+"Whoa, she's glaring at me with those scary eyes... If you[r]
+do something to his dick, I'll make sure you never see this[r]
+guy's face again, got it?"[pcms]
 
 *16366|
 [fc]
 [vo_hay s="hayami0629"]
-[ns]ありす[nse]
-「んぶああぁっ！　んぶっ！！　やべで！！[r]
-　ぶあぁっ！」[pcms]
+[ns]Arisu[nse]
+"Nbuahh! Nbu!! Stop it!! Buahh!"[pcms]
 
 *16367|
 [fc]
-[ns]目つきの悪い男[nse]
-「だとよ！　おまえ、へんなき、おこしたら……、[r]
-　あのかわいいかおがだいなしだぜ？」[pcms]
+[ns]A man with a bad look in his eyes[nse]
+"You heard that! If you do anything funny... that cute face[r]
+of yours will be ruined, you know?"[pcms]
 
 *16368|
 [fc]
 [vo_nag s="nagasaki0355"]
-[ns]千尋[nse]
-「うげっ……や……やべろ！　ぉぶうううぅっ！[r]
-　ん゛ぶぉお゛おっ！」[pcms]
+[ns]Chihiro[nse]
+"Ugehh... No... Stop! Obuuuuuh! Ngbuooooh!"[pcms]
 
 *16369|
 [fc]
-そんなこと……。[r]
-クソッ……くそぉっ！！[pcms]
+Such a thing... Dammit... Damn it all!![pcms]
 
 *16370|
 [fc]
-アタシはありすさんを人質に取られて、コイツらの[r]
-言いなりになるしかなかった。[pcms]
+I was taken hostage by Arisu-san and had no choice but to[r]
+obey these guys.[pcms]
 
 *16371|
 [fc]
-[ns]背の高い男[nse]
-「くちんなか、こんなにきもちいいなんてなあ！[r]
-　したがうらがわにあたってきもちいーぜ！？」[pcms]
+[ns]Tall man[nse]
+"I never knew a mouth could feel this good! It feels great[r]
+when it hits the back of my throat!?"[pcms]
 
 [evcg storage="HEV215b"][trans_c cross time=301]
 
 *16372|
 [fc]
 [vo_hay s="hayami0630"]
-[ns]ありす[nse]
-「ぐぶっ！！　んぼぉっ！！　ぢゅぷっ、ぐちゅっ、[r]
-　ぼちゅぅっ！！　ぢゅぼぉっ！！」[pcms]
+[ns]Arisu[nse]
+"Gubu!! Nbohh!! Jupu, guchu, bochuu!! Juboohh!!"[pcms]
 
 *16373|
 [fc]
-ありすさんにまたがっているクズは、[r]
-まるで人形を相手にしている様に自分の事だけを考え[r]
-て、腰を派手に前後させている。[pcms]
+The scumbag straddling Arisu-san was moving his hips[r]
+flamboyantly as if he was dealing with a doll, only thinking[r]
+about himself.[pcms]
 
 *16374|
 [fc]
-最低だ！[r]
-コイツら、最低だ！！[pcms]
+The worst! These guys are the worst!![pcms]
 
 *16375|
 [fc]
-アタシがありすさんを探しにいったばっかりに、[r]
-こんな目に遭わせてしまった。[pcms]
+It's all because I went looking for Arisu-san that she ended[r]
+up in such a situation.[pcms]
 
 *16376|
 [fc]
-アタシは、どうやったらありすさんに許して[r]
-もらえるのだろうか？[pcms]
+How can I ever get Arisu-san to forgive me?[pcms]
 
 *16377|
 [fc]
-[ns]目つきの悪い男[nse]
-「なにぼーっとしてんだよ！！　きあいいれろよ！[r]
-　こら！！」[pcms]
+[ns]A man with a bad look in his eyes[nse]
+"What are you spacing out for!! Put some spirit into it![r]
+Come on!!"[pcms]
 
 [evcg storage="HEV215c"][trans_c cross time=301]
 
 *16378|
 [fc]
 [vo_nag s="nagasaki0356"]
-[ns]千尋[nse]
-「んぐうぅっ！　……ぶちゅぅっ、ちゅぼぉっ！！[r]
-　おぇっ、ぐちゅうぅっ！！」[pcms]
+[ns]Chihiro[nse]
+"Nguuh! ...Buchuu, chubooh!! Oeh, guchuuuh!!"[pcms]
 
 *16379|
 [fc]
-苦い……。[r]
-苦しい……！！[pcms]
+It's bitter... It's painful...!![pcms]
 
 *16380|
 [fc]
-口の中一杯に、汚いモノから溢れ出た液が、[r]
-広がっていく。[pcms]
+The dirty liquid from that thing filled my mouth completely[r]
+and spread everywhere.[pcms]
 
 *16381|
 [fc]
-喉の奥までソレがねじ込まれて、息が出来ない。[pcms]
+It was pushed deep into my throat, and I couldn't breathe.[pcms]
 
 *16382|
 [fc]
-クズ共は、興奮が頂点に達したのか、[r]
-鼻息を荒くして、腰の動きをさらに速めた。[pcms]
+The scumbags, reaching the peak of their excitement,[r]
+breathed heavily and sped up their hip movements even more.[pcms]
 
 *16383|
 [fc]
 [vo_hay s="hayami0631"]
-[ns]ありす[nse]
-「んぐうぅっ！！　ぐちゅっ、んぢゅぶっ！！　うぶ[r]
-　うぅっ！！　ぉぐっ、ぐぶうぅっ！！」[pcms]
+[ns]Arisu[nse]
+"Nguuh!! Guchu, njubu!! Ubu uuhh!! Oggu, gubuuhh!!"[pcms]
 
 *16384|
 [fc]
 [vo_nag s="nagasaki0357"]
-[ns]千尋[nse]
-「ぢゅぐっ！！　ぢゅっ、ぶぢゅっ！！　んぶっ、ぷ[r]
-　ぢゅっ、ぢゅぼぉっ！！　んぶおぉっ！！」[pcms]
+[ns]Chihiro[nse]
+"Juguh!! Ju, bujuh!! Nbu, pu juh, jubohh!! Nbuoohh!!"[pcms]
 
 *16385|
 [fc]
-アタシ同様に口を乱暴に犯されているありすさんは、[r]
-涙や涎、それに鼻水を垂らして、嫌がっている。[pcms]
+Arisu-san, being violated just as roughly in her mouth as I[r]
+was, was shedding tears and drool, along with a runny nose,[r]
+showing her disgust.[pcms]
 
 *16386|
 [fc]
-きっとアタシも、今あんな顔をしているんだろう。[pcms]
+I'm sure I'm making the same face right now.[pcms]
 
 *16387|
 [fc]
-この醜い生き物たちによって、アタシ達はさらに[r]
-醜く、惨めに犯されている。[pcms]
+We were being defiled even more hideously and miserably by[r]
+these disgusting creatures.[pcms]
 
 *16388|
 [fc]
-その事を思うと、またさらに涙が溢れてしまう。[pcms]
+The thought of that made even more tears overflow.[pcms]
 
 *16389|
 [fc]
-[ns]目つきの悪い男[nse]
-「おぅっ！　のどでしめるなんてよ……、[r]
-　おまえ、なかなかやるじゃん……！　それによ、[r]
-　なくほどうれしいのかよ！」[pcms]
+[ns]A man with a bad look in his eyes[nse]
+"Hey! Tightening with your throat like that... You're pretty[r]
+good at this...! And hey, are you crying because you're so[r]
+happy?"[pcms]
 
 [evcg storage="HEV215a"][trans_c cross time=301]
 
 *16390|
 [fc]
 [vo_nag s="nagasaki0358"]
-[ns]千尋[nse]
-「ぐちゅっ！　うえぇっ！　ぶっ……んばっ！[r]
-　ちが……うっ……んぶうっ！」[pcms]
+[ns]Chihiro[nse]
+"Guchu! Ueeh! Bu... Nbah! That's not it... Nbuuh!"[pcms]
 
 *16391|
 [fc]
 [vo_hay s="hayami0632"]
-[ns]ありす[nse]
-「ん゛ん゛ぅ～～……っ！！　ん゛っぐ、ぐぶぅっ、[r]
-　ぢゅぐっ……！！　ぢゅぷるっ、ぶちゅぅっ……！！[r]
-　ぶぼぉっ……！！」[pcms]
+[ns]Arisu[nse]
+"Nnnnhhh...!! Nngg, gubuu, juguh...!! Jupuru, buchuu...!![r]
+Boboohh...!!"[pcms]
 
 *16392|
 [fc]
-[ns]背の高い男[nse]
-「したが……さきっぽ……おぉぉ！？　いいねぇ！[r]
-　ぎゃははっ！　たまんねぇぜ！！　おまえもノッて[r]
-　きてんなあ、おい！」[pcms]
+[ns]Tall man[nse]
+"The underside of the head... Ohhh!? Nice! Gyahaha! I can't[r]
+get enough of this!! You're getting into it too, huh?!"[pcms]
 
 *16393|
 [fc]
-ありすさんは顔を真っ赤にして、[r]
-首を振って否定する。[pcms]
+Arisu-san turned her face bright red and shook her head in[r]
+denial.[pcms]
 
 *16394|
 [fc]
-でも、それは、クズに対して新しい刺激を与える事に[r]
-なってしまったようで、そのクズは限界に達して[r]
-しまったようだった。[pcms]
+But that seemed to give the scumbag a new thrill, and he[r]
+appeared to have reached his limit.[pcms]
 
 *16395|
 [fc]
-[ns]背の高い男[nse]
+[ns]Tall man[nse]
 「おおぅ！　おれ……もう……ダメだあぁぁ！！[r]
 　へっ……へへっ！　だすぞ！　[r]
 　かおにぶっかけてやる！　いくぜえ！」[pcms]
@@ -1568,7 +1483,7 @@
 *16396|
 [fc]
 [vo_hay s="hayami0633"]
-[ns]ありす[nse]
+[ns]Alice[nse]
 「うぶぁっ！　はあっ！　はあっ……、や、やあっ！[r]
 　いやああぁぁあぁあ！！」[pcms]
 
@@ -1581,25 +1496,25 @@
 *16397|
 [fc]
 [vo_hay s="hayami0634"]
-[ns]ありす[nse]
+[ns]Arisu[nse]
 「あ……ああっ……顔中……いやぁ……べとべと……」[pcms]
 
 *16398|
 [fc]
-[ns]背の高い男[nse]
+[ns]Tall man[nse]
 「ひょーっ！　ぶっかけだぜ！？　へへっ！！[r]
 　かおじゅうベットベトだなぁ！」[pcms]
 
 *16399|
 [fc]
 [vo_hay s="hayami0635"]
-[ns]ありす[nse]
+[ns]Arisu[nse]
 「ぐすっ……酷いよ……こんなの……うあぁぁぁん！[r]
 　うわあぁっぁあ！！」[pcms]
 
 *16400|
 [fc]
-[ns]目つきの悪い男[nse]
+[ns]A man with a bad look in his eyes[nse]
 「せいだいにとばしたな！　おまえ、げんきじゃん！[r]
 　おれも……もうすこしででるぜ？　しっかり[r]
 　なめろよぉ！？」[pcms]
@@ -1609,13 +1524,13 @@
 *16401|
 [fc]
 [vo_nag s="nagasaki0359"]
-[ns]千尋[nse]
+[ns]Chihiro[nse]
 「うぐっ……ぐはっ……んぶぅぅうっ！[r]
 　おぶぅっ……んぶっぷあぁ！」[pcms]
 
 *16402|
 [fc]
-[ns]目つきの悪い男[nse]
+[ns]A man with a bad look in his eyes[nse]
 「おまえのそのなまいきなツラにも、おれの[r]
 　ブッかけてやっからよ！！　ははっ！！[r]
 　おまえのツラ、なんかなまいきなんだよ！！」[pcms]
@@ -1623,14 +1538,14 @@
 *16403|
 [fc]
 [vo_nag s="nagasaki0360"]
-[ns]千尋[nse]
+[ns]Chihiro[nse]
 「んーーっ！！　んんーーーっ！！！！　ごぶっ、[r]
 　ぐぢゅっ、ぢゅぐぉっ！！　んっ、ぶ……っ、[r]
 　んん――――っ！！！！！」[pcms]
 
 *16404|
 [fc]
-[ns]目つきの悪い男[nse]
+[ns]A man with a bad look in his eyes[nse]
 「おっ……おおっ……うぉおぉぉおお！！　おらっ！」[pcms]
 
 ;[射精フラA]
@@ -1642,66 +1557,66 @@
 *16405|
 [fc]
 [vo_nag s="nagasaki0361"]
-[ns]千尋[nse]
+[ns]Chihiro[nse]
 「いやあぁぁあぁぁああぁああ！！」[pcms]
 
 ;//★イベントＣＧ４＿Ｃ
 
 *16406|
 [fc]
-[ns]目つきの悪い男[nse]
+[ns]A man with a bad look in his eyes[nse]
 「はあっ……はあっ……、きったねぇ！！[r]
 　こいつら、きたねぇ！！　ぎゃははは！！」[pcms]
 
 *16407|
 [fc]
 [vo_hay s="hayami0636"]
-[ns]ありす[nse]
+[ns]Arisu[nse]
 「うあ……ああ……」[pcms]
 
 *16408|
 [fc]
 [vo_nag s="nagasaki0362"]
-[ns]千尋[nse]
+[ns]Chihiro[nse]
 「うっ……うげぇぇ……うえっ……！！[r]
 　きたない……！　きたないっ！！[r]
 　いやああぁあぁぁあ！！」[pcms]
 
 *16409|
 [fc]
-[ns]背の高い男[nse]
+[ns]Tall man[nse]
 「ふたりなかよくブッかけられて、よかったなぁ！」[pcms]
 
 *16410|
 [fc]
-[ns]目つきの悪い男[nse]
+[ns]A man with a bad look in his eyes[nse]
 「でもよお、くっせーから、おたがいきらわれねぇ[r]
 　ようにな！！　ぎゃはははっ！！　ぎゃははは！」[pcms]
 
 *16411|
 [fc]
-[ns]背の高い男[nse]
+[ns]Tall man[nse]
 「だな、そっちのなまいきなツラしたねーちゃん、[r]
 　このおんなにきらわれたんじゃねぇか？[r]
 　あたしせーえきくさいひと、きらい！！　ってな！」[pcms]
 
 *16412|
 [fc]
-[ns]目つきの悪い男[nse]
+[ns]A man with a bad look in his eyes[nse]
 「……あー、そうかもしれねーな！[r]
 　だってよ、さっきからこのおっぱいでけぇ[r]
 　ねえちゃん、おまえのほうみねえもんな！！」[pcms]
 
 *16413|
 [fc]
-[ns]背の高い男[nse]
+[ns]Tall man[nse]
 「きらわれたぜ！　おまえ！[r]
 　ぎゃはははは！　あはははは！！」[pcms]
 
 *16414|
 [fc]
 [vo_nag s="nagasaki0363"]
-[ns]千尋[nse]
+[ns]Chihiro[nse]
 「……！？」[pcms]
 
 *16415|
@@ -1716,7 +1631,7 @@
 *16417|
 [fc]
 [vo_nag s="nagasaki0364"]
-[ns]千尋[nse]
+[ns]Chihiro[nse]
 「きらわれ……た……！？」[pcms]
 
 *16418|
@@ -1726,7 +1641,7 @@
 *16419|
 [fc]
 [vo_nag s="nagasaki0365"]
-[ns]千尋[nse]
+[ns]Chihiro[nse]
 「せいえきくさいいから……？[r]
 　クズにおかされたから！？」[pcms]
 
@@ -1737,7 +1652,7 @@
 *16421|
 [fc]
 [vo_nag s="nagasaki0366"]
-[ns]千尋[nse]
+[ns]Chihiro[nse]
 「きらわれた……きらわれた……きらわれた！！」[pcms]
 
 *16422|
@@ -1747,7 +1662,7 @@
 *16423|
 [fc]
 [vo_nag s="nagasaki0367"]
-[ns]千尋[nse]
+[ns]Chihiro[nse]
 「いやっ……いやあぁぁぁぁぁああ！！[r]
 　うわあぁあぁぁぁぁ！！[r]
 　いやだあぁぁ！！　そんなの、いやだぁぁ！！」[pcms]
@@ -1755,7 +1670,7 @@
 *16424|
 [fc]
 [vo_hay s="hayami0637"]
-[ns]ありす[nse]
+[ns]Arisu[nse]
 「な、長崎さん……！？」[pcms]
 
 *16425|
@@ -1794,7 +1709,7 @@
 *16433|
 [fc]
 [vo_nag s="nagasaki0368"]
-[ns]千尋[nse]
+[ns]Chihiro[nse]
 「だめ！！　だめ！！　アタシをわらわないで！！[r]
 　きらわないで！！　アタシをみないで！！[r]
 　アタシにちかよるなぁぁ！！」[pcms]
@@ -1802,7 +1717,7 @@
 *16434|
 [fc]
 [vo_hay s="hayami0638"]
-[ns]ありす[nse]
+[ns]Arisu[nse]
 「長崎さん！！」[pcms]
 
 *16435|
@@ -1837,7 +1752,7 @@
 *16440|
 [fc]
 [vo_nag s="nagasaki0369"]
-[ns]千尋[nse]
+[ns]Chihiro[nse]
 「あぁあぁあぁぁあぁああぁあ！！[r]
 　ああ……いやああぁぁぁあぁああぁああ！！」[pcms]
 
@@ -1874,41 +1789,39 @@
 
 *16443|
 [fc]
-[ns]カバンを持った中年[nse]
-「あおおお！！　お゛んなのこ゛～～！[r]
-　ま゛あ゛て゛ぇ～～！」[pcms]
+[ns]Middle-aged person with a bag[nse]
+「あおおお！！　お゛んなのこ゛！[r]
+"Stop it!! Don't look at me!! Don't come near me!![r]
+Aaaaahhh!! Don't laugh, don't laugh, don't laugh at meee!!"[pcms]
 
 *16444|
 [fc]
 [vo_nag s="nagasaki0370"]
-[ns]千尋[nse]
-「やめろ！！　アタシをみるな！！　ちかよるな！！[r]
-　あぁぁあぁあ！！　わらうなわらうなわらうな！！[r]
-　あたしをわらうなああぁぁぁああ！」[pcms]
+[ns]Chihiro[nse]
+I ran away aimlessly, and everywhere I went, there were many[r]
+people with faces like those scumbags from before, waiting[r]
+for me.[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
 *16445|
 [fc]
-あてもなく逃げ出したアタシの行く先々には、[r]
-さっきのクズ達の様な顔をした奴らが沢山待ちかまえ[r]
-ていた。[pcms]
+All of them are laughing at me. Laughing at me, who has been[r]
+defiled and hated by Arisu-san.[pcms]
 
 *16446|
 [fc]
-そいつら全部が、アタシをみて嗤う。[r]
-汚され、ありすさんに嫌われたアタシを見て嗤う。[pcms]
+The whole world is pointing and laughing at me!! I want to[r]
+be alone![pcms]
 
 *16447|
 [fc]
-世界中が、アタシを見て、指さして嗤っている！！[r]
-一人になりたい！[pcms]
+Everything is laughing! From the walls, from the ceiling,[r]
+those scumbags are showing their faces and mocking me![pcms]
 
 *16448|
 [fc]
-全てが嗤っている！[r]
-壁からも、天井からも、クズ達が顔を出して、[r]
-アタシを嘲笑っている！[pcms]
+I must escape... from everything that laughs at me...[pcms]
 
 ;//♪：bgm009 fadeout
 [fadeoutbgm time=1000][wb]
@@ -1922,50 +1835,49 @@
 
 *16449|
 [fc]
-逃げなければ……。[r]
-アタシを嗤う全てから……。[pcms]
+Like walking on cotton, I wander in search of a way to[r]
+escape with unsteady steps.[pcms]
 
 *16450|
 [fc]
-まるで綿の上を歩いているように、[r]
-おぼつかない足取りで逃げる先を求め、彷徨うアタシ。[pcms]
+But at every place I try to escape to, there are scumbags[r]
+waiting to point and laugh at me.[pcms]
 
 *16451|
 [fc]
-でも、その逃げる先々にはアタシを指さして嗤う[r]
-クズ共が待ちかまえている。[pcms]
+What should I do...?[pcms]
 
 *16452|
 [fc]
-アタシはどうしたら……。[pcms]
+It's like an earthquake, the ground beneath me is unstable.[pcms]
 
 *16453|
 [fc]
-地震が起きた時の様に、足下がぐらつく。[pcms]
+Enduring that, I take another step forward, and there was[r]
+nothing there.[pcms]
 
 *16454|
 [fc]
-それに耐え、足をもう一歩踏み出すと、[r]
-そこには何も無かった。[pcms]
+"Ah..."[pcms]
 
 *16455|
 [fc]
 [vo_nag s="nagasaki0371"]
-[ns]千尋[nse]
-「あ……」[pcms]
+[ns]Chihiro[nse]
+My vision alternates between the ceiling and the ground.[pcms]
 
 *16456|
 [fc]
-アタシの視界を、天井と地面が交互に映し出される。[pcms]
+My head, my shoulders, my hips. My entire body is hit by[r]
+hard, sharp objects.[pcms]
 
 *16457|
 [fc]
-頭も、肩も、腰も。[r]
-体全体に、堅い尖ったモノがぶつかる。[pcms]
+Everything in front of me is dyed bright red.[pcms]
 
 *16458|
 [fc]
-目の前が、真っ赤に染まる。[pcms]
+Everything in front of me is dyed bright red.[pcms]
 
 ;[black_toplayer][trans_c cross time=1000][hide_chara_int]
 ;[zapend_random]

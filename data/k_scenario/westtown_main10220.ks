@@ -15,9 +15,10 @@
 
 *10849|
 [fc]
-１階からイカレ野郎が来てないかを確認してから、動[r]
-きが止まって、今ではただの階段になっちまってるエ[r]
-スカレーターを、俺らは３階へと上っていった。[pcms]
+After checking that no crazed guys were coming from the[r]
+first floor, we stopped moving and now it's just a[r]
+staircase, we went up to the third floor on what used to be[r]
+an escalator.[pcms]
 
 ;//♪：bgm012 stop
 [fadeoutbgm time=1][wb]
@@ -38,61 +39,61 @@
 
 *10850|
 [fc]
-やっとのことでやってきた３階には、獣の臭いが立ち[r]
-込めていて、犬や猫が騒がしく鳴く声が、フロア中に[r]
-響き渡っていた。[pcms]
+When we finally arrived at the third floor, the smell of[r]
+beasts was thick in the air, and the noisy cries of dogs and[r]
+cats echoed throughout the floor.[pcms]
 
 *10851|
 [fc]
-エスカレーターのすぐ傍の檻では、外に出たいのか、[r]
-黒い犬が扉に何度も体当たりをカマしている。[pcms]
+Right next to the escalator, in a cage, a black dog was[r]
+repeatedly ramming its body against the door, seemingly[r]
+wanting to get out.[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
 *10852|
 [fc]
-エスカレーターの降り口にある案内板を見ると、３階[r]
-は『ＧｒｏｕｎｄＣｉｔｙ　ＰＥＴＬａｎｄ』と[r]
-書かれていた。[pcms]
+Looking at the sign at the bottom of the escalator, the[r]
+third floor was labeled "GroundCity PETLand".[pcms]
 
 [stop_se0]
 
 *10853|
 [fc]
-[ns]大倉[nse]
-「この階まるまるペットショップなのか……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Is this entire floor a pet shop...?"[pcms]
 
 *10854|
 [fc]
-案内板で渡り廊下の位置を確認しながら、今はまだ姿[r]
-の見えないイカレ集団のことを、俺は考えていた。[pcms]
+While checking the location of the corridor on the[r]
+signboard, I was thinking about the still unseen crazed[r]
+group.[pcms]
 
 *10855|
 [fc]
-中にも外にも頭のおかしいヤツらが大量にいるのに、[r]
-パトカーのサイレンも、救急車のサイレンも聞こえて[r]
-こねー……。[pcms]
+Despite there being a ton of crazy people both inside and[r]
+outside, I can't hear any police sirens or ambulance[r]
+sirens...[pcms]
 
 *10856|
 [fc]
-他のトコにもああいうのがいて、この辺まで来てらん[r]
-ねーってことなのか……？[pcms]
+Could it be that there are others like that elsewhere, and[r]
+they can't make it this far...?[pcms]
 
 *10857|
 [fc]
-けど、ここって避難場所なんだよな……。[r]
-誰かが避難してきてるかもって、ケーサツは考えねー[r]
-のか……？[pcms]
+But this is supposed to be a shelter, right...? Don't the[r]
+cops think that someone might have come here for refuge...?[pcms]
 
 *10858|
 [fc]
-おエライいさんを逃がすのに忙しくて、一般市民には[r]
-かまってらんねーのかもな……。[pcms]
+Maybe they're too busy letting the big shots escape and[r]
+don't have time for ordinary citizens...[pcms]
 
 *10859|
 [fc]
-[ns]大倉[nse]
-「チッ！　使えねー……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Tch! Useless..."[pcms]
 
 
 ;mm 追加
@@ -101,185 +102,184 @@
 *10860|
 [fc]
 [vo_anz s="anzai0109"]
-[ns]女[nse]
-「え？　何？」[pcms]
+[ns]Female[nse]
+"Eh? What?"[pcms]
 
 *10861|
 [fc]
-[ns]大倉[nse]
-「あ、いや、なんでも……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Ah, no, it's nothing..."[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *10862|
 [fc]
-……？[r]
-なんだ？　アレ……。[pcms]
+...? What's that? That...[pcms]
 
 *10863|
 [fc]
-相変わらず檻の扉に体当たりしている黒い犬が、なに[r]
-かを飛び散らせたのが、俺の視界に入った。[pcms]
+The black dog that was still ramming into the cage door[r]
+scattered something that caught my eye.[pcms]
 
 *10864|
 [fc]
-注意して檻の周りを見ると、血らしい赤いシミが、床[r]
-に拡がっている。[pcms]
+Paying attention to the surroundings of the cage, I noticed[r]
+red stains that looked like blood spreading on the floor.[pcms]
 
 *10865|
 [fc]
-しかも、檻の扉に体当たりしてるのは黒い犬だけじゃ[r]
-なく、他の犬や猫も同じように、狭い住処の中で暴れ[r]
-て、床に自分の血を撒き散らしていた。[pcms]
+Moreover, it wasn't just the black dog ramming the door;[r]
+other dogs and cats were also raging in their cramped homes,[r]
+splattering their own blood on the floor.[pcms]
 
 *10866|
 [fc]
-[ns]大倉[nse]
-「ん……？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Hmm...?"[pcms]
 
 [ChrSetEx layer=4 chbase="nanasi_n02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *10867|
 [fc]
-ひとの気配を感じて後ろを振り向くと、女の子が俺の[r]
-後ろに隠れ、怯えたような顔で檻の方を覗き見ていた。[pcms]
+Feeling someone's presence, I turned around to see a girl[r]
+hiding behind me, peeking at the cages with a frightened[r]
+look on her face.[pcms]
 
 [ChrSetEx layer=4 chbase="nanasi_n03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *10868|
 [fc]
 [vo_mob s="girl0001"]
-[ns]少女[nse]
-「あっ……」[pcms]
+[ns]Girl[nse]
+"Ah..."[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *10869|
 [fc]
-俺が見ていることに気づいて目が合うと、彼女はまた[r]
-顔を赤くしてうつむき、サッと女の人の後ろに戻った。[pcms]
+When our eyes met as she realized I was watching, she[r]
+blushed and looked down again, quickly returning behind a[r]
+woman.[pcms]
 
 *10870|
 [fc]
-そんな彼女の様子を見て、女の人は苦笑いをして、ユ[r]
-ウはしかめっ面をしていた。[pcms]
+Seeing her behavior, the woman gave a wry smile while Yuuki[r]
+had a scowl on her face.[pcms]
 
 *10871|
 [fc]
-[ns]大倉[nse]
-「……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"..."[pcms]
 
 *10872|
 [fc]
-つーか、どう見てもおかしいよな、ここの動物……。[r]
-血が出るまで暴れるって、異常だろ……。[pcms]
+No matter how you look at it, these animals are strange...[r]
+It's abnormal for them to rage until they bleed...[pcms]
 
 *10873|
 [fc]
-人間だけじゃなくて、動物までおかしくなるって……。[r]
-もしかして、あの頭がおかしいヤツら、ヤク中とか、[r]
-そんな簡単なモンじゃねーんじゃねーのか……？[pcms]
+It's not just humans; even animals are becoming strange...[r]
+Could it be that those crazies aren't just drug addicts or[r]
+something that simple...?[pcms]
 
 *10874|
 [fc]
-その時、この街の光景と、今でもたまにニュースで取[r]
-り上げられる光景が、頭の中にパッと浮かんで、俺は[r]
-急に怖くなった。[pcms]
+At that moment, scenes from this city and those occasionally[r]
+covered in the news flashed through my mind, and I suddenly[r]
+became scared.[pcms]
 
 *10875|
 [fc]
-まさか……。[r]
-テロ、とか……？[r]
-しかもコレ、細菌兵器とかなんじゃ……。[pcms]
+Could it be...? Terrorism, or something...? And this, could[r]
+it be some kind of biological weapon...?[pcms]
 
 *10876|
 [fc]
-けど……。[r]
-これが細菌兵器使ったテロなら、俺らはどうして無事[r]
-なんだ……？[pcms]
+But... If this is terrorism using biological weapons, then[r]
+why are we still safe...?[pcms]
 
 *10877|
 [fc]
-みんなの顔を見回してみると、女の人は、暴れる動物[r]
-たちを見つめて、なにかを考えているような顔をして[r]
-いた。[pcms]
+Looking around at everyone's faces, the woman seemed to be[r]
+staring at the rampaging animals and thinking about[r]
+something.[pcms]
 
 *10878|
 [fc]
-ユウはまたボンヤリとした顔をして、檻が並んでいる[r]
-方を見つめている。[pcms]
+Yuuki had a vacant look again, staring in the direction[r]
+where the cages were lined up.[pcms]
 
 *10879|
 [fc]
-お嬢様に目を向けた時、ちょうど彼女も、檻から俺の[r]
-方へ顔を向けたところだった。[pcms]
+When I turned my eyes towards the young lady, she was just[r]
+turning her face from the cage towards me.[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_n03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *10880|
 [fc]
 [vo_may s="maya0083"]
-[ns]お嬢様[nse]
-「あの子達、逃がしてあげた方がいいと思う……」[pcms]
+[ns]Young Lady[nse]
+"I think we should let those kids go..."[pcms]
 
 *10881|
 [fc]
-自分の飼い犬があんな風になってしまったら、とでも[r]
-想像しているのか、いつも無表情なお嬢様が、ハッキ[r]
-リと悲しそうな顔をして、ハスキーに目を向けた。[pcms]
+Imagining if her own pet dog ended up like that, the usually[r]
+expressionless young lady looked clearly sad as she turned[r]
+her eyes towards a Husky.[pcms]
 
 *10882|
 [fc]
-[ns]大倉[nse]
-「……やめといた方がいいよ。スゴイ興奮してるし、[r]
-　いま逃がしたら、俺らを襲ってくるかもしれない」[pcms]
+[ns]Ookura[nse]
+"You better not. They're extremely agitated, and if we let[r]
+them out now, they might attack us."[pcms]
 
 *10883|
 [fc]
-[ns]大倉[nse]
-「それに、オリを開ける鍵がどこにあるか、わからな[r]
-　いしね」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Besides, we don't know where the key to open the cages is."[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_n01"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *10884|
 [fc]
 [vo_may s="maya0084"]
-[ns]お嬢様[nse]
-「……」[pcms]
+[ns]Young Lady[nse]
+"..."[pcms]
 ;//◎録る必要なし
 
 *10885|
 [fc]
-ハスキーから檻に向ける前、一瞬俺を見た彼女の顔は、[r]
-もう無表情に戻っていた。[pcms]
+Before turning back to the cage from the Husky, her face had[r]
+already returned to being expressionless when she glanced at[r]
+me for a moment.[pcms]
 
 *10886|
 [fc]
-まぁ、気持ちはわかんなくはないけどな……。[pcms]
+I mean, I get how she feels but...[pcms]
 
 *10887|
 [fc]
-あんな勢いで暴れられるってことは、なんでか動きの[r]
-遅いイカレ集団より、襲ってくるスピードが速いはず[r]
-だ……。[pcms]
+If they can rage with such force, it means they'll probably[r]
+attack faster than the slow-moving crazed group...[pcms]
 
 *10888|
 [fc]
-イカレ集団よりタチが悪ぃぜ……。[r]
-あんなのに襲われたら、絶対助からねーよ……。[pcms]
+The situation is worse than with the crazed group... If we[r]
+get attacked by them, there's no way we'll survive...[pcms]
 
 *10889|
 [fc]
-[ns]大倉[nse]
-「……もう行こう」[pcms]
+[ns]Ookura Hiroshi[nse]
+"...Let's go."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *10890|
 [fc]
-檻の中で暴れる動物たちを見つめたままのお嬢様に、[r]
-俺はそう声をかけて、渡り廊下の方へ歩き出した。[pcms]
+As I called out to the young lady who was still staring at[r]
+the rampaging animals in their cages, I started walking[r]
+towards the corridor.[pcms]
 
 [sysbt_meswin clear]
 ;消し無し[chara_int]
@@ -287,4 +287,4 @@
 
 [jump storage="westtown_main10230.ks" target=*westtown_main10230_TOP]
 
-;//－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+;//

@@ -31,97 +31,96 @@
 
 *9151|
 [fc]
-[ns]大倉[nse]
-「う゛……」[pcms]
+[ns]Ookura[nse]
+"Ugh..."[pcms]
 
 *9152|
 [fc]
-いつからココでそうしてるのか、俺は床に、仰向けに[r]
-なって寝っ転がっていた。[pcms]
+I didn't know how long I had been lying there, but I found[r]
+myself sprawled on the floor, on my back.[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
 *9153|
 [fc]
-なんでか、全身がダルくて、体の中の温度がいつも[r]
-より高い気がする。[pcms]
+For some reason, my whole body felt sluggish, and it seemed[r]
+like my internal temperature was higher than usual.[pcms]
 
 *9154|
 [fc]
-特に頭の中の、脳が熱く、重く感じて、それのせい[r]
-なのか、目を回した時のように、視界がグラグラ揺れ[r]
-て見えた。[pcms]
+Especially inside my head, my brain felt hot and heavy, and[r]
+because of that, my vision swayed and blurred as if I was[r]
+dizzy.[pcms]
 
 *9155|
 [fc]
-[ns]大倉[nse]
-「はあ゛ぁ～～～……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Haaaah..."[pcms]
 
 *9156|
 [fc]
-上半身だけ起こして周りを見回すと、自分がいる、[r]
-この長い一本の通路の上を、知らない人間が大勢、[r]
-ノロノロと歩き回っていた。[pcms]
+When I propped up my upper body and looked around, I saw[r]
+many unfamiliar people slowly walking back and forth along[r]
+this long corridor where I was.[pcms]
 
 *9157|
 [fc]
-[ns]大倉[nse]
-「う゛ぅ～～……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Ughh..."[pcms]
 
 *9158|
 [fc]
-ココがどこなのか。[r]
-どうやってココへ来たのか。[pcms]
+Where is this place? How did I get here?[pcms]
 
 *9159|
 [fc]
-誰かと一緒に来たのか。[r]
-自分一人で来たのか。[r]
-誰かに連れてこられたのか。[pcms]
+Did I come here with someone? Did I come alone? Was I[r]
+brought here by someone?[pcms]
 
 *9160|
 [fc]
-考えてみても、俺にはまるでわからなかった。[pcms]
+Even when I tried to think about it, I couldn't understand[r]
+at all.[pcms]
 
 *9161|
 [fc]
-思い出そうとしても、景色も、音も、誰かの顔や声も、[r]
-なんにも出てこない。[pcms]
+Trying to remember, no scenery, sounds, faces, or voices[r]
+came to mind.[pcms]
 
 ;//[]SE：ケータイの着信音1ch
 [se0 storage="SE01" loop=true]
 
 *9162|
 [fc]
-突然、すぐ近くから、聞いてるだけでイライラして[r]
-くる、耳障りな音が聞こえてきた。[pcms]
+Suddenly, a nearby irritating noise that was frustrating[r]
+just to hear started to sound.[pcms]
 
 *9163|
 [fc]
-[ns]大倉[nse]
-「うる゛せ～な゛ぁ～～……！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Shut up...!"[pcms]
 
 *9164|
 [fc]
-自分の体から聞こえてくる気がして、俺は音の出所を[r]
-探して、あちこち触ってる間に、ズボンのポケットに、[r]
-何かが入ってるのを見つけた。[pcms]
+Feeling like the noise was coming from my own body, I[r]
+searched for its source, touching here and there until I[r]
+found something in my pants pocket.[pcms]
 
 *9165|
 [fc]
-[ns]大倉[nse]
-「な゛んた゛ぁ～～これ゛ぇ～～……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"What the hell is this...?"[pcms]
 
 *9166|
 [fc]
-掴んで引っ張り出すと、それはチカチカ光りながら、[r]
-やかましく、デカイ音を鳴らしていた。[pcms]
+When I grabbed it and pulled it out, it was making a loud[r]
+noise while flashing brightly.[pcms]
 
 *9167|
 [fc]
-音もムカつくけど、チカチカする光にもイライラして[r]
-きて、俺はなんだかわからないそれを、通路の壁に[r]
-叩きつけた。[pcms]
+The sound was annoying, but the flickering light was also[r]
+irritating, and without knowing what it was, I slammed it[r]
+against the wall of the corridor.[pcms]
 
 [stop_se0]
 ;//SE：着信音乙
@@ -131,84 +130,82 @@
 
 *9168|
 [fc]
-[ns]大倉[nse]
-「う゛ぅ～～……！」[pcms]
+[ns]Ookura[nse]
+"Ughh..."[pcms]
 
 *9169|
 [fc]
-今度は外からデカイ音がしてきて、壁に付いてる窓[r]
-から射し込んでくる、眩しく、強い光が、俺の顔を[r]
-照らした。[pcms]
+This time a loud noise came from outside, and a bright,[r]
+intense light shining through the window on the wall[r]
+illuminated my face.[pcms]
 
 *9170|
 [fc]
-[ns]大倉[nse]
-「うせ゛ぇなあぁ～～～……っ！！[r]
-　と゛っかいけよ、てめえぇ～～～……っ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Get lost...! Go away, damn it...!"[pcms]
 
 *9171|
 [fc]
-強い光とデカイ音に、またイライラしてきて、俺は窓[r]
-に向かって大声で怒鳴った。[pcms]
+Again irritated by the strong light and loud noise, I yelled[r]
+angrily towards the window.[pcms]
 
 *9172|
 [fc]
-それが聞こえたのか、音と光が段々と小さくなって[r]
-いく。[pcms]
+Whether it heard me or not, the sound and light gradually[r]
+diminished.[pcms]
 
 *9173|
 [fc]
-[ns]大倉[nse]
-「へっ、さ゛ま゛～みろ゛ぉ～～……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Heh, serves you right..."[pcms]
 
 *9174|
 [fc]
-光があったトコを見つめてニヤニヤしてる俺の横を、[r]
-何人もの人間が通り抜けていく。[pcms]
+As I smirked at where the light had been, several people[r]
+passed by me.[pcms]
 
 *9175|
 [fc]
-通路をウロついてた人間達が全員、同じ方向に向かっ[r]
-て歩き始めていた。[pcms]
+All the people who had been wandering the corridor started[r]
+walking in the same direction.[pcms]
 
 *9176|
 [fc]
-[ns]大倉[nse]
-「おれ゛も゛、いってみ゛よぅ～～……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Maybe I'll go check it out too..."[pcms]
 
 *9177|
 [fc]
-どこへ行くのか、そこに何かあるのか、興味をひかれ[r]
-た俺は立ち上がって、周りの人間達と同じ方向へ歩き[r]
-だした。[pcms]
+Curious about where they were going and what might be there,[r]
+I stood up and began walking in the same direction as[r]
+everyone else.[pcms]
 
 ;//[]SE：爆発音・遠くから（？）
 [se0 storage="SE33"]
 
 *9178|
 [fc]
-[ns]大倉[nse]
-「あ゛ぁ～～……？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Ah...?"[pcms]
 
 *9179|
 [fc]
-歩き出してすぐ、自分が向かってるのとは逆の方から、[r]
-なにかが爆発したのかと思うような音が聞こえてきた。[pcms]
+Just as I started walking, a sound like an explosion came[r]
+from the opposite direction I was heading.[pcms]
 
 *9180|
 [fc]
-けど、それにはあんまり興味をひかれなかった俺は、[r]
-立ち止まることもなく、通路の先へと歩いた。[pcms]
+But not particularly interested in that, I didn't stop and[r]
+continued towards the end of the corridor.[pcms]
 
 *9181|
 [fc]
-なんだ……。[r]
-なにがあるんだ……？[r]
-みんないくんだから、いいもんなんだろうなぁ……。[pcms]
+What is it... What's there...? If everyone's going there, it[r]
+must be something good...[pcms]
 
 *9182|
 [fc]
-はらへってきてるし、くいもんがあるといいなぁ……。[pcms]
+I'm getting hungry; I hope there's food...[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
@@ -217,4 +214,4 @@
 
 [jump storage="westtown_bad_30070.ks" target=*westtown_bad_30070_TOP]
 
-;//－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+;//

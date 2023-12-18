@@ -26,242 +26,226 @@
 
 *12796|
 [fc]
-ヘンだな……。[r]
-ボクの体って、こんなに軽かったかな……？[pcms]
+Strange... Has my body always been this light...?[pcms]
 
 [ChrSetEx layer=4 chbase="ookura_n02a"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *12797|
 [fc]
-[ns]大倉[nse]
-「……後ろについてくれるか？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"...Will you follow behind me?"[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
 *12798|
 [fc]
-お風呂に入っている時みたいに、[r]
-体中がポカポカしてるし……。[r]
-なんだか、気持ちいいな……。[pcms]
+It's like when I'm in the bath, my whole body feels warm...[r]
+It's kind of nice...[pcms]
 
 *12799|
 [fc]
-[ns]大倉[nse]
-「……ウ？　聞いてるか？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"...Uh? Are you listening?"[pcms]
 
 *12800|
 [fc]
-テレビの砂嵐が、目の裏側に映されてる。[r]
-ボクの見ているもの全部が、ちらちらしている。[pcms]
+The TV static seems to be projected behind my eyes.[r]
+Everything I'm looking at is flickering.[pcms]
 
 *12801|
 [fc]
-耳の中にヘンな虫が入ってて、[r]
-それがカサカサ音を立ててるみたいな雑音がする。[pcms]
+It's like there's a weird bug inside my ears, making a[r]
+rustling noise.[pcms]
 
 *12802|
 [fc]
-何だろ、このカンジ……。[pcms]
+What is this feeling...?[pcms]
 
 [ChrSetEx layer=4 chbase="ookura_n02e"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *12803|
 [fc]
-[ns]大倉[nse]
-「オイ、ユウ！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Hey, Yuu!"[pcms]
 
 *12804|
 [fc]
 [vo_kob s="koba0270"]
-[ns]小林[nse]
-「え……？」[pcms]
+[ns]Kobayashi[nse]
+"Eh...?"[pcms]
 
 *12805|
 [fc]
-なあんだ、カサカサした雑音は、[r]
-ヒロの声だったんだ……。[pcms]
+Oh, so the rustling noise was Hiro's voice...[pcms]
 
 [ChrSetEx layer=4 chbase="ookura_n02a"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *12806|
 [fc]
-[ns]大倉[nse]
-「……が先頭いくから、オマエは……後ろについてくれ。[r]
-　……いか？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"...I'll lead the way, so you... follow behind. ...Okay?"[pcms]
 
 *12807|
 [fc]
-あれ？[r]
-今ヒロは、なんて言ったんだろう？[r]
-よく聞こえなかった……。[pcms]
+Huh? What did Hiro just say? I couldn't hear him well...[pcms]
 
 *12808|
 [fc]
-返事しないとヒロはまた怒るだろうな……。[r]
-なんて言ったのか分からないけど、[r]
-適当に返しておこう……。[pcms]
+If I don't respond, Hiro will get angry again... I don't[r]
+know what he said, but I'll just reply with something...[pcms]
 
 *12809|
 [fc]
 [vo_kob s="koba0271"]
-[ns]小林[nse]
-「あ、うん、わかった」[pcms]
+[ns]Kobayashi[nse]
+"Ah, yeah, got it."[pcms]
 
 *12810|
 [fc]
-でもホント、ヒロはなんて言ったんだろ？[pcms]
+But really, what did Hiro say?[pcms]
 
 *12811|
 [fc]
-まあ、いいや……。[r]
-ついてこい、って言ってたみたいだし。[r]
-後ろを歩くだけでいいんだ、きっと。[pcms]
+Well, it doesn't matter... It seemed like he said to follow[r]
+him. I just have to walk behind him, that's all.[pcms]
 
 *12812|
 [fc]
 [vo_kob s="koba0272"]
-[ns]小林[nse]
-「……？」[pcms]
+[ns]Kobayashi[nse]
+"...?"[pcms]
 
 *12813|
 [fc]
-ヒロに向かって歩こうとすると、心配そうな顔をした[r]
-女の人がボクに顔を近づけてきた。[pcms]
+As I try to walk towards Hiro, a woman with a worried face[r]
+comes close to me.[pcms]
 
 [ChrSetEx layer=4 chbase="anza_n05"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *12814|
 [fc]
 [vo_anz s="anzai0221"]
-[ns]女[nse]
-「……震やお……な人達のせいで、……神的に[r]
-　ショック状態になって……るのかも[r]
-　……ないわね……」[pcms]
+[ns]Female[nse]
+"...because of the shock from the earthquake... people[r]
+are... maybe in a state of shock... aren't they..."[pcms]
 ;//◎ブロック１０１４０の台詞と異なる。
 
 *12815|
 [fc]
-女の人の声も、ヘンな雑音みたいに聞こえる。[pcms]
+The woman's voice also sounds like weird noise.[pcms]
 
 *12816|
 [fc]
-この人の顔……ボクのお姉ちゃんみたい。[r]
-お姉ちゃん今何してるのかな……。[pcms]
+This person's face... she looks like my sister. I wonder[r]
+what my sister is doing right now...[pcms]
 
 *12817|
 [fc]
-お姉ちゃんに似ている女の人は、[r]
-まだボクの顔をじっと見ている。[pcms]
+The woman who resembles my sister is still staring at my[r]
+face.[pcms]
 
 *12818|
 [fc]
-ボクが何も返事しないから、[r]
-ヘンに思われちゃったかな。[pcms]
+Because I'm not responding, maybe she thinks something is[r]
+wrong with me.[pcms]
 
 *12819|
 [fc]
-あんまり心配されるのもイヤだったから、[r]
-適当に返事することにした。[pcms]
+I don't like being worried about too much, so I decided to[r]
+reply casually.[pcms]
 
 *12820|
 [fc]
 [vo_kob s="koba0273"]
-[ns]小林[nse]
-「だいじょうぶですよ。ちょっとボーッとしちゃった[r]
-　だけですから」[pcms]
+[ns]Kobayashi[nse]
+"I'm fine. I just spaced out for a bit."[pcms]
 
 [ChrSetEx layer=4 chbase="anza_n09"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *12821|
 [fc]
-それでもまだ、女の人はボクを心配している。[r]
-ボクから離れようとしない。[pcms]
+Still, the woman keeps worrying about me. She doesn't want[r]
+to leave me.[pcms]
 
 *12822|
 [fc]
-なんでこの人は、こんなに近づいてくるんだろう？[r]
-ひょっとして、本当にボクのお姉ちゃんなのかな？[pcms]
+Why is this person getting so close to me? Could she[r]
+actually be my sister?[pcms]
 
 *12823|
 [fc]
-そんなはずはない……。[r]
-ボクのお姉ちゃんは、千台には来ていない。[pcms]
+That's impossible... My sister didn't come to Sendai.[pcms]
 
 *12824|
 [fc]
-ボク、どうしちゃったんだろう？[pcms]
+What's happening to me?[pcms]
 
 [ChrSetEx layer=4 chbase="anza_n03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *12825|
 [fc]
 [vo_anz s="anzai0222"]
-[ns]女[nse]
-「……ち着くまで休んでいてもいいのよ？[r]
-　……しが一緒にいてあげる。いい……？」[pcms]
+[ns]Female[nse]
+"...you can rest until you calm down. ...I'll stay with you.[r]
+Is that okay...?"[pcms]
 ;//◎ブロック１０１４０の台詞と異なる
 
 *12826|
 [fc]
-この女の人は、ボクと一緒にいてくれるみたい。[r]
-ひょっとして、ボクの事が好きなのかな……？[pcms]
+This woman seems willing to stay with me. Maybe she likes[r]
+me...?[pcms]
 
 *12827|
 [fc]
-この人、おっぱい、おおきいな……。[pcms]
+This person has big breasts...[pcms]
 
 *12828|
 [fc]
-……？[r]
-アレ？[r]
-ボクまたエッチな事考えてる……。[pcms]
+...? Huh? Am I thinking about something naughty again...?[pcms]
 
 *12829|
 [fc]
-この女の人と……ヒロ……を見ていると、[r]
-なぜだかエッチな気持ちになっていく。[pcms]
+Looking at this woman and... Hiro... makes me feel somehow[r]
+horny.[pcms]
 
 *12830|
 [fc]
-この人と離れた方がいいかな……。[r]
-それに……ボクは……。[pcms]
+Maybe it's better if I stay away from this person... And[r]
+also... I want to be with...[pcms]
 
 *12831|
 [fc]
-この女の人より、ヒロと……。[r]
-ヒロと、一緒にいたいな……。[pcms]
+I want to be with Hiro more than with this woman.[pcms]
 
 *12832|
 [fc]
-ヒロに良いところみせなきゃ。[pcms]
+I have to show Hiro my good side.[pcms]
 
 *12833|
 [fc]
-そう考えたボクは、[r]
-お姉ちゃんに似た女の人から離れて、[r]
-ヒロより先を歩く事にした。[pcms]
+Thinking that, I decided to walk ahead of the woman who[r]
+looks like my sister and go in front of Hiro.[pcms]
 
 *12834|
 [fc]
 [vo_kob s="koba0274"]
-[ns]小林[nse]
-「ほんとにだいじょうぶです。さぁ、いこう？　ヒロ」[pcms]
+[ns]Kobayashi[nse]
+"I'm really fine. Shall we go, Hiro?"[pcms]
 
 [ChrSetEx layer=4 chbase="ookura_n02b"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *12835|
 [fc]
-[ns]大倉[nse]
-「ああ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Ah..."[pcms]
 
 *12836|
 [fc]
-ヒロはボクを見て、[r]
-ちょっと心配そうにしていた。[pcms]
+Hiro looks at me with a bit of worry.[pcms]
 
 *12837|
 [fc]
-ボクは大丈夫だってところを、ヒロに見せなきゃ。[pcms]
+I have to show Hiro that I'm okay.[pcms]
 
 ;//♪：bgm012 fadeout
 [fadeoutbgm time=1000]
@@ -271,6 +255,6 @@
 [zapfade]
 
 ;//BKACKOUT
-;//－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+;//
 
 [jump storage="westtown_main10160.ks" target=*westtown_main10160_TOP]

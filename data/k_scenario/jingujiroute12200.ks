@@ -24,14 +24,14 @@
 
 *5386|
 [fc]
-今言ったコトにどういう意味があるのかわからなくて、[r]
-ポカンとして見つめたままの俺を、マヤちゃんが顔を[r]
-上げて、見つめ返してきた。[pcms]
+I didn't understand the meaning behind what was just said,[r]
+and as I stared blankly, Maya-chan lifted her face and gazed[r]
+back at me.[pcms]
 
 *5387|
 [fc]
-[ns]大倉[nse]
-「……？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"…?"[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
@@ -39,13 +39,13 @@
 *5388|
 [fc]
 [vo_may s="maya0423"]
-[ns]摩耶[nse]
-「……」[pcms]
+[ns]Maya[nse]
+"..."[pcms]
 
 *5389|
 [fc]
-重ねられている彼女の手に、力が入ったのを感じると、[r]
-マヤちゃんの顔がゆっくりと、俺に近づいてくる。[pcms]
+As I felt strength enter her overlapping hands, Maya-chan's[r]
+face slowly moved closer to mine.[pcms]
 
 ;[chara_int_ layer=4][trans_c cross time=150]
 [evcg storage="HEV110b"][trans_c cross time=501]
@@ -53,73 +53,73 @@
 *5390|
 [fc]
 [vo_may s="maya0424"]
-[ns]摩耶[nse]
-「……」[pcms]
+[ns]Maya[nse]
+"..."[pcms]
 
 *5391|
 [fc]
-[ns]大倉[nse]
-「んっ……！？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Nn...!?"[pcms]
 
 *5392|
 [fc]
-突然、唇に感じた柔らかい感触に、俺は情けない声を[r]
-出してしまった。[pcms]
+The sudden soft sensation on my lips made me let out a[r]
+pathetic sound.[pcms]
 
 *5393|
 [fc]
-自分に何が起こってるのかはわかってるのに、どうし[r]
-ても信じられなくて、俺は目を見開いたまま、固まっ[r]
-てしまっていた。[pcms]
+Even though I understood what was happening, I couldn't[r]
+bring myself to believe it, and I remained frozen with my[r]
+eyes wide open.[pcms]
 
 *5394|
 [fc]
 [vo_may s="maya0425"]
-[ns]摩耶[nse]
-「……」[pcms]
+[ns]Maya[nse]
+"..."[pcms]
 ;//◎苦しげに一呼吸
 
 *5395|
 [fc]
-一旦離れて、空気を吸い込んだマヤちゃんは、また唇[r]
-を俺に重ねて、今度は舌を差し込んできた。[pcms]
+After pulling away to take a breath, Maya-chan pressed her[r]
+lips against mine again, this time slipping her tongue in.[pcms]
 
 *5396|
 [fc]
 [vo_may s="maya0426"]
-[ns]摩耶[nse]
-「んふ……」[pcms]
+[ns]Maya[nse]
+"Nnf..."[pcms]
 
 *5397|
 [fc]
-[ns]大倉[nse]
-「ん、ぅ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Nn, uh..."[pcms]
 
 *5398|
 [fc]
-俺が眠ってる間にジュースでも飲んだのか、口の中で[r]
-蠢くマヤちゃんの舌は、なんとなく甘い味がする。[pcms]
+Had she drunk juice while I was asleep? Maya-chan's tongue[r]
+writhing in my mouth tasted vaguely sweet.[pcms]
 
 *5399|
 [fc]
-コレがマヤちゃんの舌の味とか、おかしなコトを考え[r]
-ながら、俺は彼女の舌を撫で回した。[pcms]
+While thinking about the strange notion of tasting Maya-[r]
+chan's tongue, I caressed it with my own.[pcms]
 
 *5400|
 [fc]
 [vo_may s="maya0427"]
-[ns]摩耶[nse]
-「ふ、ぅ……」[pcms]
+[ns]Maya[nse]
+"Fu, uh..."[pcms]
 
 *5401|
 [fc]
-[ns]大倉[nse]
-「んん……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Nnn..."[pcms]
 
 *5402|
 [fc]
-しばらく、そうしてお互いの舌を撫で合ったあと、[r]
-重ねられていたマヤちゃんの唇が離れていった。[pcms]
+After a while of caressing each other's tongues, Maya-chan's[r]
+lips that had been pressed against mine parted.[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_g04"][ChrSetXY layer=4 x=200 y=0]
 [bg storage="bg29"][image storage="white" layer="&sf.effectlayer" page=back visible=true left=0 top=0 opacity=120][trans_c cross time=1000]
@@ -127,47 +127,46 @@
 *5403|
 [fc]
 [vo_may s="maya0428"]
-[ns]摩耶[nse]
-「……」[pcms]
+[ns]Maya[nse]
+"..."[pcms]
 ;//◎小さく息をつく
 
 *5404|
 [fc]
-[ns]大倉[nse]
-「はぁ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Haa..."[pcms]
 
 *5405|
 [fc]
-なんだろう……。[r]
-なんか、体が浮いてるみたいで、フワフワする……。[pcms]
+What is this feeling...? It's like my body is floating, all[r]
+light and fluffy...[pcms]
 
 *5406|
 [fc]
-気持ちいいとも思えるその感覚に浸っていると、膝立[r]
-ちをしていたマヤちゃんは、そのままその場に座って、[r]
-俺の頭に手を伸ばした。[pcms]
+As I indulged in this pleasant sensation, Maya-chan, who had[r]
+been kneeling, sat down and reached out her hand to my head.[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *5407|
 [fc]
-[ns]大倉[nse]
-「ん……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Nn..."[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_g03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *5408|
 [fc]
 [vo_may s="maya0429"]
-[ns]摩耶[nse]
-「……」[pcms]
+[ns]Maya[nse]
+"..."[pcms]
 
 [black_toplayer winon][trans_c cross time=1000][hide_chara_int]
 
 *5409|
 [fc]
-持っていかれるまま、頭をマヤちゃんの膝の上に[r]
-乗せて、自然とそうなるのに任せて、俺は目を閉じた。[pcms]
+Carried away by her actions, I laid my head on Maya-chan's[r]
+lap and naturally let it happen, closing my eyes.[pcms]
 
 
 ;mm 白透過重ねこのブロックまで
@@ -181,4 +180,4 @@
 
 [jump storage="jingujiroute12201.ks" target=*jingujiroute12201_TOP]
 
-;//－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+;//

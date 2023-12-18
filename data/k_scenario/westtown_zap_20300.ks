@@ -22,104 +22,102 @@
 
 *15115|
 [fc]
-あたしはイッたあとしばらく気を失ってしまっていた。[pcms]
+I must have lost consciousness for a while after I came.[pcms]
 
 *15116|
 [fc]
-長崎さんはというと、眠っているあたしに服を着せて、[r]
-起きるのを待っていたようだった。[pcms]
+As for Nagasaki-san, it seemed she dressed me while I was[r]
+asleep and waited for me to wake up.[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
 *15117|
 [fc]
-そして、その長崎さんは今、あたしの横で独り言を[r]
-呟いている。[pcms]
+And now, Nagasaki-san is muttering to herself beside me.[pcms]
 
 [ChrSetEx layer=4 chbase="naga_n08"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *15118|
 [fc]
 [vo_nag s="nagasaki0284"]
-[ns]千尋[nse]
-「まつしまっていうところがあって……そこは、[r]
-　かもめがたくさんいて、えさをあげようとすると、[r]
-　ゆびをかまれちゃうんだ……」[pcms]
+[ns]Chihiro[nse]
+"There's a place called Matsushima... where there are lots[r]
+of seagulls, and if you try to feed them, they'll bite your[r]
+fingers..."[pcms]
 
 *15119|
 [fc]
-あたしを見つめて、あたしに対して話しかけては[r]
-いるけど、でもその目の中にはあたしはいないみたい[r]
-だった。[pcms]
+She's looking at me and talking to me, but it's like I'm not[r]
+in her eyes.[pcms]
 
 *15120|
 [fc]
 [vo_nag s="nagasaki0285"]
-[ns]千尋[nse]
-「でね、やまのうえには、おしろとだいがくが[r]
-　あるんだけど……そのちかくのみちは、ユーレイが[r]
-　でるって……、よなか、いっしょにいってみる？」[pcms]
+[ns]Chihiro[nse]
+"And you know, on top of the mountain, there's a castle and[r]
+a university... The roads nearby are said to be haunted...[r]
+do you want to go there together at midnight?"[pcms]
 
 *15121|
 [fc]
-まるで熱病に浮かされたよう、体をフラフラさせて[r]
-ひとりごちる長崎さん。[pcms]
+Nagasaki-san is swaying her body as if she's delirious with[r]
+fever, talking to herself.[pcms]
 
 *15122|
 [fc]
 [vo_nag s="nagasaki0286"]
-[ns]千尋[nse]
-「ほかにもね、たのしいところ、いっぱいあるんだよ。[r]
-　それにね、あきは、みーんなであつまって、[r]
-　いもにかいとかするの。たのしいよ？」[pcms]
+[ns]Chihiro[nse]
+"There are also other fun places, lots of them. And you[r]
+know, in autumn, everyone gathers to do sweet potato[r]
+digging. It's fun, right?"[pcms]
 
 *15123|
 [fc]
-長崎さんは、あたしが何も返事をしなくても、[r]
-いっこうに構わずしゃべり続けている。[pcms]
+Nagasaki-san keeps talking non-stop, even though I don't[r]
+respond at all.[pcms]
 
 *15124|
 [fc]
-滅茶苦茶になった街や、この建物の中での出来事を[r]
-沢山見て、弱ってしまったのかな……。[pcms]
+Maybe she's weakened from seeing too much chaos in the city[r]
+and inside this building...[pcms]
 
 *15125|
 [fc]
-それにしても、様子がおかしい。[r]
-さっきまでは、こんな風じゃなかったのに……。[pcms]
+But still, something is off. She wasn't like this just a[r]
+moment ago...[pcms]
 
 [ChrSetEx layer=4 chbase="naga_n07"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *15126|
 [fc]
 [vo_nag s="nagasaki0287"]
-[ns]千尋[nse]
-「たなばたまつり、って、しちがつじゃないんだよ？[r]
-　しってた？　きゅうれきだから、はちがつなの……」[pcms]
+[ns]Chihiro[nse]
+"You know, the Tanabata festival isn't in July, right? Did[r]
+you know? Because of the old calendar, it's in August..."[pcms]
 
 *15127|
 [fc]
 [vo_hay s="hayami0599"]
-[ns]ありす[nse]
-「長崎さん！！　しっかり……しっかりして！！[r]
-　おかしいよ！　どうしちゃったの、一体……！」[pcms]
+[ns]Alice[nse]
+"Nagasaki-san!! Hang in there... hang in there!! Something's[r]
+wrong! What happened to you...?!"[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *15128|
 [fc]
-さすがにもう、これ以上ほっておけない！！[r]
-長崎さんを引っ張ってでも、あたしが何とかして、[r]
-ここから逃げ出さなきゃ……！！[pcms]
+I can't leave her like this anymore!! I have to do[r]
+something, even if it means dragging Nagasaki-san away to[r]
+escape from here...!![pcms]
 
 *15129|
 [fc]
-立ち上がり、長崎さんの手を引いて、[r]
-ここから逃げ出そう。[pcms]
+I stand up, grab Nagasaki-san's hand, and try to flee from[r]
+here.[pcms]
 
 *15130|
 [fc]
-そう思った矢先だった。[pcms]
+That's what I thought just before.[pcms]
 
 ;//♪：bgm012 stop
 [fadeoutbgm time=1][wb]
@@ -131,13 +129,13 @@
 *15131|
 [fc]
 [vo_hay s="hayami0600"]
-[ns]ありす[nse]
-「……！？」[pcms]
+[ns]Alice[nse]
+"...!?"[pcms]
 
 *15132|
 [fc]
-突然、レストランの天井近くに備え付けられた[r]
-テレビから、大きな音が鳴り響いてきた。[pcms]
+Suddenly, a loud noise came from the television installed[r]
+near the ceiling of the restaurant.[pcms]
 
 ;//♪：bgm011
 [bgm storage="bgm011"]
@@ -145,9 +143,8 @@
 *15133|
 [fc]
 [vo_hay s="hayami0601"]
-[ns]ありす[nse]
-「……！？　テレビ……？　こんな時間に？？[r]
-　なんで、急に……？」[pcms]
+[ns]Alice[nse]
+"...!? The television...? At this hour?? Why suddenly...?"[pcms]
 
 ;//★イベントＣＧ　ＮＥＶ１０３
 [evcg storage="NEV008"][trans_c cross time=301]
@@ -155,187 +152,189 @@
 *15134|
 [fc]
 [vo_mob s="0021"]
-[ns]女子アナ[nse]
-「えー……ここで、さらに続報です。ウイルスに関す[r]
-　る続報が入りました」[pcms]
+[ns]Female Announcer[nse]
+"Eh... here is a further update. We have received a follow-[r]
+up report regarding the virus."[pcms]
 
 *15135|
 [fc]
 [vo_mob s="0022"]
-[ns]女子アナ[nse]
-「このウイルスに感染すると、突発的に高熱を出すよ[r]
-　うになり、また、喋り方や声がおかしくなるという[r]
-　情報が入ってきました」[pcms]
+[ns]Female Announcer[nse]
+"It has been reported that those infected with this virus[r]
+suddenly develop a high fever and their speech and voice[r]
+become strange."[pcms]
 
 *15136|
 [fc]
 [vo_mob s="0023"]
-[ns]女子アナ[nse]
-「明田県内で発生した暴動を目撃した人からは、暴徒[r]
-　がちゃんと喋れない人のような喋り方をしていた、[r]
-　という情報が寄せられています」[pcms]
+[ns]Female Announcer[nse]
+"Witnesses of the riots that broke out in Myoden Prefecture[r]
+say that the rioters spoke like people who couldn't speak[r]
+properly."[pcms]
 
 *15137|
 [fc]
 [vo_mob s="0024"]
-[ns]女子アナ[nse]
-「また、このウイルスに感染した可能性のある人の３[r]
-　分の２が、病院に搬送されてから、７時間以内に亡[r]
-　くなっているとの報告もされています」[pcms]
+[ns]Female Announcer[nse]
+"Furthermore, two-thirds of those who may be infected with[r]
+this virus have died within seven hours of being transported[r]
+to the hospital."[pcms]
 
 *15138|
 [fc]
 [vo_hay s="hayami0602"]
-[ns]ありす[nse]
-「高熱……」[pcms]
+[ns]Arisu[nse]
+"High fever..."[pcms]
 
 *15139|
 [fc]
-長崎さん……、熱は、なかったよね……。[pcms]
+Nagasaki-san... she didn't have a fever, right...?[pcms]
 
 *15140|
 [fc]
 [vo_mob s="0025"]
-[ns]女子アナ[nse]
-「このウイルスに感染している可能性のある人は、東[r]
-　北地方全域、さらに隣接している県内で、現在も増[r]
-　加しているとみられています」[pcms]
+[ns]Female Announcer[nse]
+"It is believed that the number of people who may be[r]
+infected with this virus is still increasing throughout the[r]
+Tohoku region and in neighboring prefectures."[pcms]
 
 *15141|
 [fc]
 [vo_mob s="0027"]
-[ns]女子アナ[nse]
-「感染源や、ウイルスのが広まった原因について、政[r]
-　府が組織した調査委員会が調査を続けていますが、[r]
-　事態の解明には繋がっていません」[pcms]
+[ns]Female Announcer[nse]
+"The government-formed investigative committee continues its[r]
+investigation into the source of infection and the cause of[r]
+the virus spread, but has not yet clarified the situation."[pcms]
 
 *15142|
 [fc]
 [vo_mob s="0028"]
-[ns]女子アナ[nse]
-「調査委員会は、海外のテログループによる、細菌兵[r]
-　器を使用した大規模なテロの可能性もあるとして、[r]
-　その線からも調査を進めていく方針を示しました」[pcms]
+[ns]Female Announcer[nse]
+"The investigative committee has indicated that they will[r]
+also pursue the possibility of a large-scale terrorist[r]
+attack using bacterial weapons by foreign terrorist groups."[pcms]
 
 *15143|
 [fc]
-テロ……？[r]
-この国で……？[pcms]
+Terrorism...? In this country...?[pcms]
 
 *15144|
 [fc]
-こんな平和な国で、テロ……？[pcms]
+In such a peaceful country, terrorism...?[pcms]
 
 *15145|
 [fc]
 [vo_mob s="0029"]
-[ns]女子アナ[nse]
-「現在、千台市一帯に電波障害が発生している為、携[r]
-　帯電話、ＰＨＳなど、電波による通信が利用できな[r]
-　くなっています」[pcms]
+[ns]Female Announcer[nse]
+"Currently, due to radio interference in the Chitai City[r]
+area, wireless communications such as mobile phones and PHS[r]
+are unavailable."[pcms]
 
 *15146|
 [fc]
 [vo_mob s="0030"]
-[ns]女子アナ[nse]
-「ケーブルテレビなどのネットワークは、一部を除い[r]
-　て回復している模様です」[pcms]
+[ns]Female Announcer[nse]
+"Networks such as cable television have been partially[r]
+restored."[pcms]
 
 *15147|
 [fc]
 [vo_mob s="0031"]
-[ns]女子アナ[nse]
-「国道４００号線、４８０号線など、主な幹線道路で[r]
-　は、県外への避難を急ぐ車や、そういった車同士の[r]
-　事故の為、激しい渋滞を起こしています」[pcms]
+[ns]Female Announcer[nse]
+"On main arterial roads such as National Route 400 and 480,[r]
+severe traffic jams are occurring due to cars rushing to[r]
+evacuate out of the prefecture and accidents between such[r]
+cars."[pcms]
 
 [bg storage="bg04b"][trans_c cross time=1000]
 
 *15148|
 [fc]
 [vo_mob s="0032"]
-[ns]女子アナ[nse]
-「えー……ここで、現在の街の様子を撮影したＶＴＲ[r]
-　が入ってきましたので、ご覧ください」[pcms]
+[ns]Female Announcer[nse]
+"Eh... now we have received VTR footage showing the current[r]
+state of the city, please take a look."[pcms]
 
 *15149|
 [fc]
 [vo_mob s="0033"]
-[ns]女子アナ[nse]
-「ご覧頂いているのは、現在の街の様子です」[pcms]
+[ns]Female Announcer[nse]
+"What you are seeing is the current state of the city."[pcms]
 
 *15150|
 [fc]
-そこには、死体が転がっていたり、至る所で[r]
-レイプをしている人たちが映し出されていた。[pcms]
+The footage showed dead bodies scattered around and people[r]
+raping others everywhere.[pcms]
 
 *15151|
 [fc]
-生放送なのに、こんなの映して……。[r]
-テレビ局も、大変な事になってるのかな……。[pcms]
+To show such things on live TV... Maybe the TV station is[r]
+also in serious trouble...[pcms]
 
 *15152|
 [fc]
 [vo_mob s="0034"]
-[ns]女子アナ[nse]
-「え……はい……えー、東北地方全域に拡がっている[r]
-　とみられているウイルスは、非常に感染力が高いも[r]
-　のですが、空気感染の例はまだ確認されていません」[pcms]
+[ns]Female Announcer[nse]
+"Eh... yes... eh-, the virus that is believed to be[r]
+spreading throughout the Tohoku region is highly infectious,[r]
+but no cases of airborne transmission have been confirmed[r]
+yet."[pcms]
 
 *15153|
 [fc]
 [vo_mob s="0035"]
-[ns]女子アナ[nse]
-「この放送をご覧の皆様、えー、ウイルスに感染した[r]
-　可能性のある人が近くにいたら、すぐにドアに鍵の[r]
-　かけられる部屋へ隔離してください」[pcms]
+[ns]Female Announcer[nse]
+"To all viewers watching this broadcast, eh-, if you suspect[r]
+someone nearby may be infected with the virus, please[r]
+immediately isolate them in a room where you can lock the[r]
+door."[pcms]
 
 *15154|
 [fc]
 [vo_mob s="0036"]
-[ns]女子アナ[nse]
-「えー、暴動を起こしている暴徒は、全てウイルスに[r]
-　感染している可能性がありますので、絶対に近寄ら[r]
-　ないようにしてください」[pcms]
+[ns]Female Announcer[nse]
+"Eh-, rioters causing disturbances are all potentially[r]
+infected with the virus, so please do not approach them[r]
+under any circumstances."[pcms]
 
 *15155|
 [fc]
 [vo_mob s="0037"]
-[ns]女子アナ[nse]
-「軽い引っ掻き傷からでも、えー、ウイルスに感染す[r]
-　る場合があるということなので、暴徒を見た方は、[r]
-　すぐに避難してください」[pcms]
+[ns]Female Announcer[nse]
+"Even a minor scratch can lead to infection with the virus,[r]
+so if you see any rioters, please evacuate immediately."[pcms]
 
 *15156|
 [fc]
 [vo_mob s="0038"]
-[ns]女子アナ[nse]
-「えー、暴動は各地で起きており、暴徒が持つウィル[r]
-　ス、また暴徒そのものも非常に危険です」[pcms]
+[ns]Female Announcer[nse]
+"Eh-, riots are occurring in various places, and both the[r]
+virus carried by rioters and the rioters themselves are[r]
+extremely dangerous."[pcms]
 
 *15157|
 [fc]
 [vo_mob s="0039"]
-[ns]女子アナ[nse]
-「ご覧の皆様は、慌てて県外へ避難したりせず、えー、[r]
-　厳重に戸締まりをし、暴徒が入ってこないようにし[r]
-　てください」[pcms]
+[ns]Female Announcer[nse]
+"Viewers are advised not to panic and evacuate out of the[r]
+prefecture but to lock their doors tightly and ensure that[r]
+rioters cannot enter."[pcms]
 
 *15158|
 [fc]
 [vo_mob s="0020"]
-[ns]女子アナ[nse]
-「繰り返します……」[pcms]
+[ns]Female Announcer[nse]
+"I repeat..."[pcms]
 ;//◎録る必要なし（上のものを流用）
 
 *15159|
 [fc]
-ここで言ってる事……。[r]
-長崎さんに、似てるかも……。[pcms]
+What they're saying here... It might be similar to Nagasaki-[r]
+san...[pcms]
 
 *15160|
 [fc]
-やっぱり長崎さん……もう、すでに……！？[pcms]
+Could it be that Nagasaki-san... is already infected...!?[pcms]
 
 [bg storage="bg27"][trans_c cross time=1000]
 [ChrSetEx layer=4 chbase="naga_n13"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -343,103 +342,103 @@
 *15161|
 [fc]
 [vo_nag s="nagasaki0288"]
-[ns]千尋[nse]
-「あたし……このひとすき～……。[r]
-　きれいだし……なんだか、せめがいがありそう……」[pcms]
+[ns]Chihiro[nse]
+"I love this person~... She's beautiful... and seems like[r]
+she'd be aggressive..."[pcms]
 
 *15162|
 [fc]
-今の長崎さんは、テレビで言っていた事に少しだけ、[r]
-当てはまる所があった。[pcms]
+The current Nagasaki-san fits some of what was said on TV[r]
+just a little bit.[pcms]
 
 *15163|
 [fc]
-ヘンな人と争っていたとき、長崎さんは、首筋を[r]
-噛まれていた。[pcms]
+When she was fighting with that strange person, Nagasaki-san[r]
+was bitten on her neck.[pcms]
 
 *15164|
 [fc]
-とすると、長崎さんは、もう……！？[pcms]
+So then, could it be that Nagasaki-san is already...!?[pcms]
 
 *15165|
 [fc]
-そう考えると、あたしは急に怖くなって、[r]
-この場から、長崎さんから、今すぐにでも、[r]
-逃げ出したくなった。[pcms]
+Thinking about it, I suddenly became scared and wanted to[r]
+run away from this place, from Nagasaki-san, right now.[pcms]
 
 *15166|
 [fc]
-でもそうすると、あたしも……。[pcms]
+But if I do that, I also...[pcms]
 
 *15167|
 [fc]
-長崎さんにキスされたりしたから……。[pcms]
+Because I was kissed by Nagasaki-san...[pcms]
 
 *15168|
 [fc]
 [vo_hay s="hayami0603"]
-[ns]ありす[nse]
-「いやぁぁあぁぁ！！　あ、あたしも……、[r]
-　あたしも、あんな風に！？」[pcms]
+[ns]Arisu[nse]
+"Nooooo!! Me too... Could I also become like that?!"[pcms]
 
 [ChrSetEx layer=4 chbase="naga_n14"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *15169|
 [fc]
-どうしよう……あたしも……、あたしも……。[pcms]
+What should I do... I also... I also...[pcms]
 
 *15170|
 [fc]
-あの街の人達や、この建物の中の人みたいに……！？[pcms]
+Like the people in that town or the people inside this[r]
+building...!?[pcms]
 
 *15171|
 [fc]
-あんな風になっちゃうの！？[pcms]
+Am I going to turn out like that!?[pcms]
 
 *15172|
 [fc]
-訳の分からないウイルスに冒されているかもしれない[r]
-恐怖が、あたしの背筋を寒くして、叫びだそうとした[r]
-所に、テレビの悲鳴がかぶさった。[pcms]
+The fear that I might be infected with an unknown virus sent[r]
+chills down my spine, and just as I was about to scream, the[r]
+TV's shriek overlapped it.[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *15173|
 [fc]
 [vo_mob s="0041"]
-[ns]女子アナ[nse]
-「ちょっ、いやあぁっ！！」[pcms]
+[ns]Female Announcer[nse]
+"Wait, nooo!!"[pcms]
 
 *15174|
 [fc]
 [ns]？？？[nse]
-「そのまま台に乗せて、顔と体、固定しろ！！」[pcms]
+"Keep her on the platform, fix her face and body in place!!"[pcms]
 
 *15175|
 [fc]
 [ns]？？？[nse]
-「りょうかーい！！」[pcms]
+"Understood!!"[pcms]
 
 *15176|
 [fc]
 [vo_mob s="0042"]
-[ns]女子アナ[nse]
-「やぁっ！！　放しっ……いやあぁっ！！」[pcms]
+[ns]Female Announcer[nse]
+"Ahh!! Let go...nooo!!"[pcms]
 
 *15177|
 [fc]
 [ns]？？？[nse]
-「カメラいいか！？」[pcms]
+"Is the camera ready!?"[pcms]
 
 *15178|
 [fc]
 [ns]？？？[nse]
-「オッケーて゛ーす！！」[pcms]
+"All set!!"[pcms]
 
 *15179|
 [fc]
-男の声と共に、天井らしい部分に向いていたカメラが、[r]
-さっきまで女子アナが座っていた所を映し出した。[pcms]
+Along with a man's voice, the camera that had been facing[r]
+what seemed to be the ceiling now showed where the female[r]
+announcer had been sitting.[pcms]
 
 ;//♪：bgm011 stop
 [fadeoutbgm time=1][wb]
@@ -452,60 +451,59 @@
 *15180|
 [fc]
 [vo_mob s="0043"]
-[ns]女子アナ[nse]
-「やっ、いやぁっ！！　映さないでっ！！　いやっ、[r]
-　やめてえぇっ！！」[pcms]
+[ns]Female Announcer[nse]
+"No, don't film this!! Stop it, please!!"[pcms]
 
 *15181|
 [fc]
-カメラを向けられて、丸見えになっている自分のアソ[r]
-コを映されているのがわかったのか、女子アナは手を[r]
-バタつかせて、必死に隠そうとしている。[pcms]
+The female announcer, realizing that her exposed crotch was[r]
+being broadcasted, flailed her hands desperately trying to[r]
+cover herself.[pcms]
 
 *15182|
 [fc]
-さっきまではいなかった、アナウンサーが、[r]
-場違いな調子で女子アナの様子をリポートし始めた。[pcms]
+An announcer who wasn't there before began reporting on the[r]
+female announcer's situation in an out-of-place tone.[pcms]
 
 *15183|
 [fc]
-[ns]アナウンサー[nse]
-「はい！　ＳＢＣアナウンサーの[ruby text="ひは゛ら"][ch text="檜原"][ruby text="まさき"][ch text="昌紀"]です！[r]
-　男性アナウンサー一番人気です！　ふ゛はははっ！！[r]
-　さぁ今週の突撃リホ゜ートはぁ～……こちら！！」[pcms]
+[ns]Announcer[nse]
+"Yes! This is Masaki from SBC! The most popular male[r]
+announcer! Bwahaha!! Now for this week's daring report...[r]
+here!!"[pcms]
 
 *15184|
 [fc]
-[ns]アナウンサー[nse]
-「ＳＢＣの女子アナ一番人気！　瀧澤クレアアナのお[r]
-　まんこに、今日は突撃したいと思いまぁ～～す！！」[pcms]
+[ns]Announcer[nse]
+"SBC's most popular female announcer! Today we want to raid[r]
+Claire Takizawa's pussy!!"[pcms]
 
 *15185|
 [fc]
 [vo_mob s="0044"]
-[ns]女子アナ[nse]
-「やぁっ、ちょっ、何これぇ！？　やめてよぉっ！！」[pcms]
+[ns]Female Announcer[nse]
+"Ahh, wait, what is this!? Stop it!!"[pcms]
 
 *15186|
 [fc]
-女子アナに近寄っていく男アナを追って、画面が彼女[r]
-と彼に寄っていく。[pcms]
+The camera followed the male announcer as he approached the[r]
+female announcer, zooming in on both of them.[pcms]
 
 *15187|
 [fc]
-カメラに向けられた、男アナの血走って赤く濁った目[r]
-は、明らかに普通じゃない。[pcms]
+The bloodshot and cloudy red eyes of the male announcer[r]
+facing the camera were clearly not normal.[pcms]
 
 *15188|
 [fc]
-彼と彼女の周りに集まってきた、同じ様に目のイッて[r]
-る男連中の１人に、男アナは持っているマイクを突き[r]
-つけた。[pcms]
+One of the men with similarly crazed eyes who had gathered[r]
+around him and her was pointed at with the microphone he was[r]
+holding.[pcms]
 
 *15189|
 [fc]
-[ns]アナウンサー[nse]
-「こちらが瀧澤アナのおまんこですが！　ご感想を！」[pcms]
+[ns]Announcer[nse]
+"Here we have Takizawa's pussy! What are your thoughts?"[pcms]
 
 [ChrSetEx layer=4 chbase="naga_n03"][ChrSetXY layer=4 x=200 y=0]
 [bg storage="bg27"][trans_c cross time=1000]
@@ -513,49 +511,49 @@
 *15190|
 [fc]
 [vo_nag s="nagasaki0289"]
-[ns]千尋[nse]
-「さいてい……！　こんなの、さいてい！！[r]
-　やっぱりおとこって、きたない！！」[pcms]
+[ns]Chihiro[nse]
+"The worst...! This is the lowest of the low!! As expected,[r]
+men are filthy!!"[pcms]
 
 *15191|
 [fc]
-長崎さんは、テレビに映されている狂乱の宴に[r]
-文句を言いながら見入っている。[pcms]
+Nagasaki-san, while complaining, was engrossed in the frenzy[r]
+being broadcasted on TV.[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *15192|
 [fc]
-あたし……もうこんなの見たくない！！[r]
-それに、長崎さんとも一緒にいたくない！！[pcms]
+I don't want to see this anymore!! And I don't want to be[r]
+with Nagasaki-san anymore either!![pcms]
 
 *15193|
 [fc]
-もうイヤだ！！[r]
-逃げよう……、もう……一人ででも……。[pcms]
+I can't stand it anymore!! Let's escape... even if I have to[r]
+do it alone...[pcms]
 
 *15194|
 [fc]
-この場から、逃げだそう！！[pcms]
+Let's run away from this place!![pcms]
 
 *15195|
 [fc]
-誰もいない所へ……。[pcms]
+To somewhere where there's no one else...[pcms]
 
 *15196|
 [fc]
-そうだ……、あそこなら……。[pcms]
+That's right... there's a place...[pcms]
 
 *15197|
 [fc]
-あたしは一人になれて、比較的安全な場所を一つだけ、[r]
-覚えていた。[pcms]
+I remembered one place where I could be alone and relatively[r]
+safe.[pcms]
 
 *15198|
 [fc]
-あそこに逃げ込んで、助けが来るまで待とう……。[r]
-それに……あそこなら、もしあたしがヘンになったと[r]
-しても、多分、誰にも迷惑をかけないで済む……。[pcms]
+If I hide there and wait for help to come... And if I happen[r]
+to turn strange, I probably won't cause trouble for[r]
+anyone...[pcms]
 
 ;//♪：m05 fadeout
 [fadeoutbgm time=1000]
@@ -569,5 +567,5 @@
 
 [jump storage="westtown_main10370.ks" target=*westtown_main10370_TOP]
 
-;//－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+;//
 

@@ -23,51 +23,50 @@
 *1659|
 [fc]
 [vo_nao s="naomi0111"]
-[ns]直美[nse]
-「くっ……また……」[pcms]
+[ns]Naomi[nse]
+"Ugh... again..."[pcms]
 
 *1660|
 [fc]
-[ns]大倉[nse]
-「ぐっ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Ngh..."[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
 *1661|
 [fc]
-長い廊下を渡り終えた俺達の前には、見覚えのある、[r]
-背の小さな女が檻の中の動物達を眺めていた。[pcms]
+After crossing the long corridor, we came upon a familiar,[r]
+short-statured girl watching the animals inside cages.[pcms]
 
 *1662|
 [fc]
 [vo_may s="maya0830"]
-[ns]摩耶[nse]
-「かわいそう……かわいそう……」[pcms]
+[ns]Maya[nse]
+"Poor things... poor things..."[pcms]
 
 [ChrSetEx layer=4 chbase="turuta_n04"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *1663|
 [fc]
 [vo_nao s="naomi0112"]
-[ns]直美[nse]
-「あれはどうだ？」[pcms]
+[ns]Naomi[nse]
+"How about that one?"[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_h02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *1664|
 [fc]
-[ns]大倉[nse]
-「あれは、しってる……。いっしょにいた……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"That one, I know... We were together..."[pcms]
 
 [ChrSetEx layer=4 chbase="turuta_n03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *1665|
 [fc]
-あのこは、みおぼえがある……。[r]
-なまえは……なんだったかな……。[pcms]
+I remember that child... What was her name again...?[pcms]
 
 *1666|
 [fc]
-でも、さっきとふくがちがう……。[pcms]
+But her clothes are different from before...[pcms]
 
 ;//♪：bgm012 fadeout
 [fadeoutbgm time=502]
@@ -77,9 +76,8 @@
 
 *1667|
 [fc]
-[ns]大倉[nse]
-「そうだ……ま、まや？[r]
-　まや……うん……まや……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Right... Ma, Maya? Yeah... Maya..."[pcms]
 
 ;//＠とりあえず「寝巻き神宮寺」使用
 ;//＠ちゅるた左　神宮寺（ねまき）右
@@ -89,150 +87,143 @@
 *1668|
 [fc]
 [vo_nao s="naomi0113"]
-[ns]直美[nse]
-「マヤ、か。わかった。[r]
-　見たところ、感染者とは違うみたいだし……。[r]
-　合流しよう……」[pcms]
+[ns]Naomi[nse]
+"Maya, huh? Got it. She doesn't seem to be infected... Let's[r]
+join up..."[pcms]
 
 [ChrSetEx layer=3 chbase="jinguji_b_04"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
 *1669|
 [fc]
 [vo_may s="maya0831"]
-[ns]摩耶[nse]
-「ここからだしてあげたいけど……どうやったら……。[r]
-　……？　おまえたちは、だれだ……」[pcms]
+[ns]Maya[nse]
+"I want to let them out of here but... how can I...? ...?[r]
+Who are you guys...?"[pcms]
 
 [ChrSetEx layer=2 chbase="turuta_n01"][ChrSetXY layer=2 x=0 y=0][trans_c cross time=150]
 *1670|
 [fc]
 [vo_nao s="naomi0114"]
-[ns]直美[nse]
-「良かった……この子も、まだ大丈夫みたい……。[r]
-　私は直美。君たちを助けに来た。私達と一緒に、[r]
-　ここから逃げ出そう……」[pcms]
+[ns]Naomi[nse]
+"Thank goodness... This child seems to be okay too... I'm[r]
+Naomi. I've come to help you. Let's escape from here[r]
+together..."[pcms]
 
 [ChrSetEx layer=3 chbase="jinguji_b_03"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
 *1671|
 [fc]
 [vo_may s="maya0832"]
-[ns]摩耶[nse]
-「にげだす……？　なぜ？」[pcms]
+[ns]Maya[nse]
+"Escape...? Why?"[pcms]
 
 [ChrSetEx layer=2 chbase="turuta_n04"][ChrSetXY layer=2 x=0 y=0][trans_c cross time=150]
 *1672|
 [fc]
 [vo_nao s="naomi0115"]
-[ns]直美[nse]
-「この子も……アイツら、本当に無駄な事をして……。[r]
-　君もどこかぶつけたのか……。[r]
-　それとも、ヤツらのせいか……」[pcms]
+[ns]Naomi[nse]
+"This child too... They really did something unnecessary...[r]
+Did you hit your head somewhere? Or is it because of[r]
+them...?"[pcms]
 
 *1673|
 [fc]
-摩耶ちゃんは、俺と同じような事を言われ、[r]
-やはり俺と同じように不思議な顔をして、[r]
-直美を見上げていた。[pcms]
+Maya-chan, having been told something similar to me, also[r]
+looked puzzled and gazed up at Naomi.[pcms]
 
 [ChrSetEx layer=3 chbase="jinguji_h01"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
 *1674|
 [fc]
 [vo_may s="maya0833"]
-[ns]摩耶[nse]
-「このこたちも、つれていきたい……。[r]
-　わたしのともだちのかわりに……」[pcms]
+[ns]Maya[nse]
+"I want to take these children with me... as a replacement[r]
+for my friends..."[pcms]
 
 *1675|
 [fc]
-ともだち……？[pcms]
+Friends...?[pcms]
 
 *1676|
 [fc]
-そうか……だんだんおもいだしてきた……。[pcms]
+I see... I'm starting to remember...[pcms]
 
 *1677|
 [fc]
-このこのほかは、オッパイのでっかいのがふたりと、[r]
-うるさいの、それから、おとこがふたり……。[pcms]
+Apart from this child, there were two with big breasts, a[r]
+noisy one, and then two guys...[pcms]
 
 *1678|
 [fc]
-……？[r]
-ほかにだれかいたっけなぁ……？[pcms]
+...? Was there someone else...?[pcms]
 
 [ChrSetEx layer=2 chbase="turuta_n03"][ChrSetXY layer=2 x=0 y=0][trans_c cross time=150]
 *1679|
 [fc]
 [vo_nao s="naomi0116"]
-[ns]直美[nse]
-「友達の代わり！？　そ……その友達って、[r]
-　どこに……？」[pcms]
+[ns]Naomi[nse]
+"A replacement for friends!? Where... where is that[r]
+friend...?"[pcms]
 
 [ChrSetEx layer=3 chbase="jinguji_b_04"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
 
 *1680|
 [fc]
 [vo_may s="maya0834"]
-[ns]摩耶[nse]
-「さっきへんなのにたべられた。[r]
-　わたしをまもって、しんだ。たべられた。[r]
-　じょんが、しんだ。わたしはひとりになった」[pcms]
+[ns]Maya[nse]
+"Just now, eaten by a strange thing. Died protecting me.[r]
+Eaten. John died. I'm alone now."[pcms]
 
 [ChrSetEx layer=2 chbase="turuta_n05"][ChrSetXY layer=2 x=0 y=0][trans_c cross time=150]
 
 *1681|
 [fc]
-じょん……？[r]
-そんなのいたかな……。[pcms]
+John...? Was there someone like that...?[pcms]
 
 [ChrSetEx layer=3 chbase="jinguji_h02"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
 *1682|
 [fc]
 [vo_may s="maya0836"]
-[ns]摩耶[nse]
-「あ……」[pcms]
+[ns]Maya[nse]
+"Ah..."[pcms]
 
 *1683|
 [fc]
-直美は摩耶ちゃんを抱きしめながら、[r]
-肩を震わせていた。でも、俺にはどうして彼女が、[r]
-そうするのか、全く分からなかった。[pcms]
+While embracing Maya-chan, Naomi was shaking her shoulders.[r]
+But I had no idea why she was doing that.[pcms]
 
 [ChrSetEx layer=3 chbase="jinguji_h02"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
 *1684|
 [fc]
 [vo_may s="maya0835"]
-[ns]摩耶[nse]
-「ともだちが」[pcms]
+[ns]Maya[nse]
+"My friends..."[pcms]
 
 [ChrSetEx layer=2 chbase="turuta_a02"][ChrSetXY layer=2 x=0 y=0][trans_c cross time=150]
 *1685|
 [fc]
 [vo_nao s="naomi0118"]
-[ns]直美[nse]
-「……さっきのアレ……。クソッ……。[r]
-　君には悪いけど……そろそろここから離れましょう。[r]
-　さあ、早くしないと……私達も危険だわ……」[pcms]
+[ns]Naomi[nse]
+"...That thing from earlier... Damn it... I'm sorry to say[r]
+this but... we need to leave here soon. Come on, if we don't[r]
+hurry... we'll be in danger too..."[pcms]
 
 *1686|
 [fc]
-[ns]大倉[nse]
-「……？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"...?"[pcms]
 
 *1687|
 [fc]
-じょん……。[r]
-だれ？[pcms]
+John... Who is that?[pcms]
 
 *1688|
 [fc]
 [vo_may s="maya0837"]
-[ns]摩耶[nse]
-「ねむい」[pcms]
+[ns]Maya[nse]
+"I'm sleepy"[pcms]
 
 *1689|
 [fc]
-[ns]大倉[nse]
-「……？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"...?"[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
@@ -245,32 +236,32 @@
 *1690|
 [fc]
 [vo_nao s="naomi0119"]
-[ns]直美[nse]
-「……？　下から声が聞こえる……。[r]
-　誰かがいる……。女の声……」[pcms]
+[ns]Naomi[nse]
+"...? I hear a voice from below... Someone is there... A[r]
+woman's voice..."[pcms]
 
 *1691|
 [fc]
-[ns]大倉[nse]
-「あ～……？　なんにもきこえねーけど……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Ah~...? I don't hear anything..."[pcms]
 
 *1692|
 [fc]
 [vo_nao s="naomi0120"]
-[ns]直美[nse]
-「下にいくわ……君達、ついてきて……」[pcms]
+[ns]Naomi[nse]
+"We're going down... Follow me..."[pcms]
 
 *1693|
 [fc]
-[ns]大倉[nse]
-「……めんどくせぇ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"...What a pain..."[pcms]
 
 ;//＠貼らない
 *1694|
 [fc]
 [vo_may s="maya0838"]
-[ns]摩耶[nse]
-「……」[pcms]
+[ns]Maya[nse]
+"..."[pcms]
 
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -287,27 +278,24 @@
 *1695|
 [fc]
 [vo_nao s="naomi0121"]
-[ns]直美[nse]
-「いた……っ！　女だ……。[r]
-　まだ、まともに見えるけど……。[r]
-　君達、あの人達に見覚えは？」[pcms]
+[ns]Naomi[nse]
+"There she is...! A woman... She still seems sane... Do you[r]
+guys recognize those people?"[pcms]
 
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *1696|
 [fc]
-あれは……、オッパイでっかい……。[r]
-は……はや……はや？[r]
-はやみ……、そうだ！[pcms]
+That's the one with big breasts... Ha... Hayami? Yes, that's[r]
+it![pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
 *1697|
 [fc]
-[ns]大倉[nse]
-「あれは、ともだちだ！　おれのともだち！！[r]
-　おーい！！　は……やみ？　はやみ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"That's a friend! My friend!! Hey!! Ha... Hayami? Hayami!!"[pcms]
 
 ;//＠ありすの服装は…　体操服にしておくことに
 ;//＠小林はメード服？
@@ -316,53 +304,48 @@
 *1698|
 [fc]
 [vo_hay s="hayami1206"]
-[ns]ありす[nse]
-「……？　あ～……、あ？[r]
-　えーと……ひろ、し？　ヒロシだぁ～！」[pcms]
+[ns]Alice[nse]
+"...? Ah~..., ah? Erm... Hiro, shi? Hiroshi!!"[pcms]
 
 [ChrSetEx layer=2 chbase="koba_t03"][ChrSetXY layer=2 x=0 y=0][trans_c cross time=150]
 *1699|
 [fc]
 [vo_kob s="koba0573"]
-[ns]小林[nse]
-「ヒロ～……どこにいってたの？[r]
-　あれ？　そのひと、だれ？」[pcms]
+[ns]Kobayashi[nse]
+"Hiro~... where have you been? Huh? Who is that person?"[pcms]
 
 ;//メモ＠菅生左立ち
 [ChrSetEx layer=2 chbase="sugo_n03"][ChrSetXY layer=2 x=0 y=0][trans_c cross time=150]
 *tuia1|
 [fc]
-[ns]菅生[nse]
-「おぉ～……でけぇな……」[pcms]
+[ns]Sugou[nse]
+"Oh~... they're huge..."[pcms]
 
 [chara_int_ layer=2][chara_int_ layer=3][trans_c cross time=150]
 
 *1700|
 [fc]
-……？[r]
-ほかにもいたよな……。[pcms]
+...? There were others too...[pcms]
 
 *1701|
 [fc]
-うるせぇおんなと、おっぱいのデッカイのが……。[pcms]
+The noisy woman and the one with big breasts...[pcms]
 
 [ChrSetEx layer=4 chbase="turuta_a04"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *1702|
 [fc]
 [vo_nao s="naomi0122"]
-[ns]直美[nse]
-「これで、全員か？　他には？」[pcms]
+[ns]Naomi[nse]
+"Is this everyone? Anyone else?"[pcms]
 
 *1703|
 [fc]
-[ns]大倉[nse]
-「あとふたりいたような……。[r]
-　どこにいったんだ……？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Feels like there were two more... Where did they go...?"[pcms]
 
 *1704|
 [fc]
-たりないきがする……。[r]
-うるさいのが……。[pcms]
+I feel like someone's missing... The noisy one...[pcms]
 
 [chara_int_ layer=4]
 [ChrSetEx layer=3 chbase="hayami_a12"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
@@ -370,82 +353,79 @@
 *1705|
 [fc]
 [vo_hay s="hayami1207"]
-[ns]ありす[nse]
-「だれのこといってるの？　ヒロシ……」[pcms]
+[ns]Arisu[nse]
+"Who are you talking about? Hiroshi..."[pcms]
 
 *1706|
 [fc]
-[ns]大倉[nse]
-「……？　うーん……だれかな……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"...? Hmm... who could it be..."[pcms]
 
 [ChrSetEx layer=2 chbase="sugo_n07"][ChrSetXY layer=2 x=0 y=0][trans_c cross time=150]
 *tuia2|
 [fc]
-[ns]菅生[nse]
-「それよりよぉ……おれさまのトラックしらねぇか？[r]
-　おれぁ、アレがねぇとダメなんだ……」[pcms]
+[ns]Sugou[nse]
+"More importantly, you guys haven't seen my truck, have you?[r]
+I can't do without it..."[pcms]
 
 *1707|
 [fc]
-このオヤジ、こえでけぇな……。[r]
-うっせー……。[r]
-だいいち、とらっくってなんだよ……。[pcms]
+"This old man's voice is so damn loud... Shut up... First of[r]
+all, what the hell is a 'truck'...?"[pcms]
 
 [ChrSetEx layer=3 chbase="turuta_n03"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
 *1708|
 [fc]
 [vo_nao s="naomi0123"]
-[ns]直美[nse]
-「トラック？　お前、トラックの運転手か？[r]
-　どこにある！？　それはどこだ！？」[pcms]
+[ns]Naomi[nse]
+"A truck? Are you a truck driver? Where is it!? Where is[r]
+that!?"[pcms]
 
 [ChrSetEx layer=2 chbase="sugo_n07"][ChrSetXY layer=2 x=0 y=0][trans_c cross time=150]
 *tuia3|
 [fc]
-[ns]菅生[nse]
-「それがよ……おもいだせねえんだよ……。[r]
-　ねーちゃんがいっぱつオメコさせてくれたら、[r]
-　おもいだせっかもしんねーけどよ……ひゃはっ！」[pcms]
+[ns]Sugou[nse]
+"That's the thing... I can't remember... If Onee-san would[r]
+let me have a quickie, maybe I'd be able to remember...[r]
+Hyahaha!"[pcms]
 
 *1709|
 [fc]
-ったく……ふざけたこといいやがってよ……。[r]
-なにがオメコだよ……。[pcms]
+"Seriously... spouting such nonsense... What's with[r]
+'quickie'..."[pcms]
 
 *1710|
 [fc]
-オメコ……？[r]
-せっくすか……。[pcms]
+"Quickie...? Is that sex...?"[pcms]
 
 *1711|
 [fc]
-きもちよかったよな……あれ……。[pcms]
+"It felt good, didn't it... that..."[pcms]
 
 [ChrSetEx layer=3 chbase="turuta_a01"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
 *1712|
 [fc]
 [vo_nao s="naomi0124"]
-[ns]直美[nse]
-「ふざけるなっ！　それより早くトラックの場所を[r]
-　思い出せっ！！」[pcms]
+[ns]Naomi[nse]
+"Don't mess around! Instead, hurry up and remember where the[r]
+truck is!!"[pcms]
 
 ;//バッドエンド救済ポイント7
 ;AutoSave 7
 
 *1713|
 [fc]
-なにキレてんだよ……。[r]
-それにしても……。[r]
-直美とセックスしてみてえ……。[pcms]
+"Why are you getting mad... But still... I'd like to have[r]
+sex with Naomi..."[pcms]
 
 *1714|
 [fc]
-でもな……このひと、つよそうだし……。[pcms]
+"But, you know... this person seems strong..."[pcms]
 
 *1715|
 [fc]
-ちょっとイヤだけど……。[r]
-このオヤジとちからあわせれば……。[pcms]
+"I'm a bit reluctant... But if I join forces with this old[r]
+man..."[pcms]
 
 ;//BLACKOUT
 ;//消しを消します

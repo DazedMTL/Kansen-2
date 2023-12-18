@@ -25,270 +25,264 @@
 *9555|
 [fc]
 [vo_hay s="hayami1082"]
-[ns]ありす[nse]
-「ハァ……ハァ……！」[pcms]
+[ns]Alice[nse]
+"Haa... Haa...!"[pcms]
 
 *9556|
 [fc]
-走り始めてどれぐらいたったのか。[r]
-長い間走っているような気もするし、[r]
-ほんの少しの間かも知れない。[pcms]
+I don't know how long I've been running. It feels like a[r]
+long time, but it might have been just a moment.[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
 *9557|
 [fc]
-もう、目の前には屋上しかない。[r]
-これ以上は逃げることもできない。[pcms]
+There's nothing ahead but the rooftop. I can't run anymore.[pcms]
 
 *9558|
 [fc]
-ここで私は怒声が小さくなっていることに気がつく。[r]
-オジサンを、少しは引き離せたのだろうか？[pcms]
+I realize that the angry shouts are getting fainter. Have I[r]
+managed to put some distance between me and that man?[pcms]
 
 *9559|
 [fc]
 [vo_hay s="hayami1083"]
-[ns]ありす[nse]
-「…………」[pcms]
+[ns]Alice[nse]
+"..."[pcms]
 
 *9560|
 [fc]
-少しの不安を持って、後ろを振り返ってみる。[r]
-そこにはオジサンの姿はなかった。[pcms]
+With a bit of unease, I look back. The man is nowhere to be[r]
+seen.[pcms]
 
 *9561|
 [fc]
-だけど、安心はできない。[r]
-声が聞こえている以上、[r]
-すぐに追いつかれてしまうだろう。[pcms]
+But I can't relax yet. As long as I can hear his voice,[r]
+he'll catch up to me soon.[pcms]
 
 *9562|
 [fc]
 [vo_hay s="hayami1084"]
-[ns]ありす[nse]
-「……よしっ！」[pcms]
+[ns]Alice[nse]
+"...Alright!"[pcms]
 
 *9563|
 [fc]
-でも、多少は引き離せたことは確か。[r]
-どこかに身を隠すだけの余裕はある。[pcms]
+But it's certain that I've gained some distance. I have[r]
+enough leeway to hide somewhere.[pcms]
 
 *9564|
 [fc]
-私は少しだけ和らいだ心を力に変え、[r]
-再び前を向いた。[pcms]
+I turn my slightly eased heart into strength and face[r]
+forward once again.[pcms]
 
 *9565|
 [fc]
-[ns]男Ａ[nse]
-「あ゛ぁ゛～～……お、お゛ま゛んこ、きだぁ゛～～」[pcms]
+[ns]Man A[nse]
+"Aaah~... my, my pussy, it's coming~"[pcms]
 
 *9566|
 [fc]
 [vo_hay s="hayami1085"]
-[ns]ありす[nse]
-「えっ……きゃ、きゃああっ！」[pcms]
+[ns]Alice[nse]
+"Eh... Kyaa, kyaaaah!"[pcms]
 
 ;//♪：bgm018　fadeIN
 [bgm storage="bgm018"]
 
 *9567|
 [fc]
-な、なに……？[r]
-ど……どこから……出てきたの！？[r]
-……しかも、さっきの人たちと同じ……。[pcms]
+What...? Where... did he come from!? ...And he's just like[r]
+those people from before...[pcms]
 
 *9568|
 [fc]
-この人も、ヘン……。[pcms]
+This person is also... weird...[pcms]
 
 *9569|
 [fc]
 [vo_hay s="hayami1086"]
-[ns]ありす[nse]
-「なっ……そっ……そんなぁっ！」[pcms]
+[ns]Alice[nse]
+"No... that... not that!"[pcms]
 
 *9570|
 [fc]
-暗闇を蠢く物陰に目をこらし、前方を見てみると、[r]
-屋上には大勢の人たちがいた。[pcms]
+Straining my eyes in the darkness and looking ahead, I see a[r]
+crowd of people on the rooftop.[pcms]
 
 *9571|
 [fc]
-しかもその人達はみな、明らかに様子がおかしい。[pcms]
+And all of them are clearly acting strange.[pcms]
 
 *9572|
 [fc]
-沢山の人に囲まれたまま……エッチしてたり……。[r]
-……それに、あれ……何か食べている……？[pcms]
+Surrounded by many people... some are having sex... And,[r]
+what's that... are they eating something?[pcms]
 
 *9573|
 [fc]
-いや、さすがに見間違いだろう……だと思いたい。[r]
-……そんな事、あるわけがない。[pcms]
+No, surely I must be seeing things... I want to believe[r]
+that. Such a thing can't be possible.[pcms]
 
 *9574|
 [fc]
-[ns]男Ａ[nse]
-「う゛ぉ……お゛まん゛こ～～……」[pcms]
+[ns]Man A[nse]
+"Ugh... pussy~..."[pcms]
 
 *9575|
 [fc]
 [vo_hay s="hayami1087"]
-[ns]ありす[nse]
-「きゃあっ！」[pcms]
+[ns]Alice[nse]
+"Kyaaah!"[pcms]
 
 *9576|
 [fc]
-とにかく、この近寄ってくる男の人から逃げないと！[r]
-私は踵を返して、階段を下りようとする。[pcms]
+Anyway, I have to escape from this man approaching me! I[r]
+turn on my heel and try to go down the stairs.[pcms]
 
 [ChrSetEx layer=4 chbase="sugo_n04"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *9577|
 [fc]
-[ns]菅生[nse]
-「て……てめぇ、いい加減にしやがれ！　俺から[r]
-　逃げられると思ってんのかっ！」[pcms]
+[ns]Sugou[nse]
+"You... you think you can escape from me that easily!?"[pcms]
 
 *9578|
 [fc]
 [vo_hay s="hayami1088"]
-[ns]ありす[nse]
-「！！」[pcms]
+[ns]Alice[nse]
+"!!"[pcms]
 
 *9579|
 [fc]
-振り向いた先には、[r]
-怒りに満ちたオジサンの姿があった。[pcms]
+When I turn around, there's the man, filled with rage.[pcms]
 
 *9580|
 [fc]
-前には沢山のヘンな人。後ろからは、オジサン。[r]
-あたしは、完全に挟まれてしまった。[pcms]
+In front of me are a bunch of weird people. Behind me is the[r]
+man. I'm completely trapped.[pcms]
 
 *9581|
 [fc]
-どうすれば……どうすればいいの？[pcms]
+What should I do... What can I do?[pcms]
 
 [ChrSetEx layer=4 chbase="sugo_n07"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *9582|
 [fc]
-[ns]菅生[nse]
-「うおっ！？　な、なんだってこんなに！？」[pcms]
+[ns]Sugou[nse]
+"Whoa!? What the hell is this!?"[pcms]
 
 *9583|
 [fc]
-オジサンは私の後ろの人たちを見て表情を一変させた。[pcms]
+The man's expression changes completely as he looks at the[r]
+people behind me.[pcms]
 
 *9584|
 [fc]
-さっきは勢いで殺してしまったとはいえ、[r]
-あきらかに異様な雰囲気を持った人達。[r]
-それが大勢いるのに驚いたようだった。[pcms]
+Even though I killed them in a fit of rage earlier, they[r]
+were clearly people with an eerie atmosphere. He seemed[r]
+surprised to see so many of them.[pcms]
 
 [ChrSetEx layer=4 chbase="sugo_n07"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *9585|
 [fc]
-[ns]菅生[nse]
-「く、くそっ！　やってられっかよっ！」[pcms]
+[ns]Sugou[nse]
+"Damn it! I can't deal with this!"[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *9586|
 [fc]
-怒鳴るように捨てゼリフを吐くと、[r]
-オジサンは転げるように階段を下りていった。[pcms]
+With a shout like throwing away his last words, the man[r]
+tumbles down the stairs.[pcms]
 
 *9587|
 [fc]
-[ns]男Ａ[nse]
-「お゛ま゛んご～～……づかま゛えた～～」[pcms]
+[ns]Man A[nse]
+"Pussy~... caught you~"[pcms]
 
 *9588|
 [fc]
 [vo_hay s="hayami1089"]
-[ns]ありす[nse]
-「ひぃっ！」[pcms]
+[ns]Arisu[nse]
+"Eek!"[pcms]
 
 *9589|
 [fc]
-オジサンに気をとられていた私は、[r]
-いきなり背後から羽交い締めにされてしまった。[pcms]
+Distracted by the man, I was suddenly grabbed from behind in[r]
+a bear hug.[pcms]
 
 *9590|
 [fc]
-[ns]男Ａ[nse]
-「い゛いい～～いい゛にお゛い゛ぃ゛～～」[pcms]
+[ns]Man A[nse]
+"Such a nice~ nice smell~"[pcms]
 
 *9591|
 [fc]
 [vo_hay s="hayami1090"]
-[ns]ありす[nse]
-「い、いやああっ！」[pcms]
+[ns]Alice[nse]
+"No, nooo!"[pcms]
 
 *9592|
 [fc]
-振り解こうと必死に藻掻くけど、男の人の力には勝て[r]
-ず、そうこうしている間に、[r]
-次々と男達が集まってくる。[pcms]
+I struggle desperately to break free, but I can't overcome[r]
+the strength of the man, and while doing so, more men start[r]
+to gather around.[pcms]
 
 *9593|
 [fc]
-[ns]男Ｂ[nse]
-「あう゛ぁ～～……は、ばだか、み゛たいぃ～～」[pcms]
+[ns]Male B[nse]
+"Ahh~... wanna see you naked~"[pcms]
 
 *9594|
 [fc]
-[ns]男Ｃ[nse]
-「お゛、おま゛んご～～……」[pcms]
+[ns]Male C[nse]
+"Oh, pussy~..."[pcms]
 
 *9595|
 [fc]
 [vo_hay s="hayami1091"]
-[ns]ありす[nse]
-「いやぁ！　は、はなしてっ！」[pcms]
+[ns]Alice[nse]
+"No! Let go of me!"[pcms]
 
 *9596|
 [fc]
-複数の男達に捕まった私は、抵抗むなしく屋上へ[r]
-引きずり出されてしまった。[pcms]
+Captured by several men, I was helplessly dragged out onto[r]
+the rooftop.[pcms]
 
 *9597|
 [fc]
 [vo_hay s="hayami1092"]
-[ns]ありす[nse]
-「いやっ！　なにをするの！　やめてっ！」[pcms]
+[ns]Arisu[nse]
+"No! What are you doing! Stop it!"[pcms]
 
 *9598|
 [fc]
-[ns]男Ｂ[nse]
-「あう゛ぁぁ～～は、はだがぁ゛～～～」[pcms]
+[ns]Man B[nse]
+"Ahh~ skin~"[pcms]
 
 *9599|
 [fc]
-そして、さらに複数の男達に囲まれた私は、[r]
-衣服をボロボロに引き裂かれ身も知らぬ男達に肌を[r]
-さらすことになってしまった。[pcms]
+And then, surrounded by even more men, my clothes were torn[r]
+to shreds and I was exposed to strangers' touch.[pcms]
 
 *9600|
 [fc]
 [vo_hay s="hayami1093"]
-[ns]ありす[nse]
-「ああああっ！　いやぁあああ！」[pcms]
+[ns]Arisu[nse]
+"Aaaaah! Nooooo!"[pcms]
 
 *9601|
 [fc]
-なんで……？　なんでこんな事になっているの？[r]
-あたしが、何をしたっていうの！？[pcms]
+Why...? Why is this happening? What did I do to deserve[r]
+this?[pcms]
 
 *9602|
 [fc]
-意味のない自問自答を繰り返しながら、[r]
-まるで別人のように私は自分の事をみつめる。[pcms]
+While repeating meaningless questions to myself, I watch[r]
+myself as if I were someone else.[pcms]
 
 ;//------------------------------------------------
 *KAISOU_INT
@@ -312,229 +306,218 @@
 
 *9603|
 [fc]
-幾人もの男達に囲まれ、服を裂かれ、[r]
-そして全身を弄ばれて……。[pcms]
+Surrounded by countless men, my clothes torn apart, and my[r]
+body being toyed with...[pcms]
 
 *9604|
 [fc]
 [vo_hay s="hayami1094"]
-[ns]ありす[nse]
-「いやぁ……あああっ！　やめてぇ……！」[pcms]
+[ns]Alice[nse]
+"No... ahhh! Stop it...!"[pcms]
 
 *9605|
 [fc]
-口をついて出る言葉はたいした意味ももたず。[r]
-ただ、ただ、己の身体に走る気持ちの悪さに[r]
-反応しているだけだ。[pcms]
+The words that slip out of my mouth don't hold much meaning.[r]
+I'm just reacting to the disgusting sensations coursing[r]
+through my body.[pcms]
 
 *9606|
 [fc]
-[ns]男Ａ[nse]
-「ん゛ん……んぶぅ！　お゛、おっぱい゛～～[r]
-　お゛っぱい゛……うめぇ゛ぇえ゛～～」[pcms]
+[ns]Man A[nse]
+"Mmm... mmmph! Oh, tits~ Tits... so tasty~"[pcms]
 
 *9607|
 [fc]
-[ns]男Ｂ[nse]
-「はだぁ～～……すべずべぇえ゛～～」[pcms]
+[ns]Male B[nse]
+"Ahh~ skin~ so smooth~"[pcms]
 
 *9608|
 [fc]
-[ns]男Ｃ[nse]
-「お゛まんご……お゛ま゛んこ、さい゛こぉ～～」[pcms]
+[ns]Male C[nse]
+"Your pussy... your pussy, it's the best~"[pcms]
 
 [evcg storage="HEV310b"][trans_c cross time=301]
 
 *9609|
 [fc]
 [vo_hay s="hayami1095"]
-[ns]ありす[nse]
-「うううっ……いや……いやあ！」[pcms]
+[ns]Alice[nse]
+"Uuu... no... nooo!"[pcms]
 
 *9610|
 [fc]
-私の全身を弄り、舐めながらも、男達は卑猥な言葉を[r]
-投げかけてくる。[pcms]
+As they fondle and lick my entire body, the men hurl lewd[r]
+words at me.[pcms]
 
 *9611|
 [fc]
-その一言一言が、私の心に必要以上の[r]
-羞恥を呼び起こすのだ。[pcms]
+Each and every word brings about an excessive sense of shame[r]
+in my heart.[pcms]
 
 *9612|
 [fc]
 [vo_hay s="hayami1096"]
-[ns]ありす[nse]
-「あうっ！」[pcms]
+[ns]Alice[nse]
+"Ahh!"[pcms]
 
 *9613|
 [fc]
-[ns]男Ａ[nse]
-「う゛ぉぁ……んじゅる、ぢゅう～～～～！！[r]
-　ち、ぢくび、も゛、う゛めぇぇ゛え゛！」[pcms]
+[ns]Man A[nse]
+"Ugh... slurp, juuice~!! The nipples, they're so tasty!"[pcms]
 
 *9614|
 [fc]
-ただ、漫然と貪り回しているように見えて、[r]
-男達は適度かつ的確に、敏感なところを責めてくる。[pcms]
+Though they seem to be mindlessly devouring me, the men[r]
+skillfully and precisely target my sensitive spots.[pcms]
 
 *9615|
 [fc]
-[ns]男Ｃ[nse]
-「ぐ、くり゛どりす、だって……[r]
-　ま゛げてないぞぉお゛……ぢゅう゛ぅ！」[pcms]
+[ns]Male C[nse]
+"Your clitoris... it's not hidden at all... juuice!"[pcms]
 
 *9616|
 [fc]
 [vo_hay s="hayami1097"]
-[ns]ありす[nse]
-「あああああっ！　いやっ！　あああっ！」[pcms]
+[ns]Alice[nse]
+"Aaaaaah! No! Aaaaah!"[pcms]
 
 *9617|
 [fc]
-男達は競うように私の身体を刺激し、[r]
-それに反応して自然と声が漏れてしまう。[pcms]
+The men stimulate my body as if competing with each other,[r]
+and naturally, my voice leaks out in response.[pcms]
 
 *9618|
 [fc]
-[ns]男Ｂ[nse]
-「ぶぇへぇ……がんじて、かん゛じてるぅ？」[pcms]
+[ns]Male B[nse]
+"Hehehe... can you feel it? Are you feeling it?"[pcms]
 
 [evcg storage="HEV310a"][trans_c cross time=301]
 
 *9619|
 [fc]
 [vo_hay s="hayami1098"]
-[ns]ありす[nse]
-「そんなわけ……！　ああっ、いやっ！」[pcms]
+[ns]Alice[nse]
+"That's not...! Ahh, no!"[pcms]
 
 *9620|
 [fc]
-[ns]男Ａ[nse]
-「い、い゛やって、いっても゛、くちだげだぁ～～[r]
-　う゛へはぁあはぁ！」[pcms]
+[ns]Man A[nse]
+"Even if you say no, your mouth says yes~ Hehaha!"[pcms]
 
 *9621|
 [fc]
-[ns]男Ｃ[nse]
-「ぎゃばばははばはば！」[pcms]
+[ns]Male C[nse]
+"Gyahahahahahaha!"[pcms]
 
 *9622|
 [fc]
-男達の罵りをうけて、私は一層羞恥の色を濃くする。[r]
-だが、そんな反応も彼らを歓ばせるだけでしかない。[pcms]
+Subjected to the men's ridicule, my sense of shame deepens[r]
+even further. But such a reaction only pleases them more.[pcms]
 
 *9623|
 [fc]
-[ns]男Ａ[nse]
-「うう゛ぇぇあ……も゛、もっど、すっぢゃう゛ぞぉ[r]
-　……う゛ぢゅぶぅ～～！」[pcms]
+[ns]Man A[nse]
+"Ugh... I'm gonna make you even wetter... juubuu~!"[pcms]
 
 *9624|
 [fc]
-[ns]男Ｃ[nse]
-「お、おま゛んごも……い゛じってや゛るぞぉ～～」[pcms]
+[ns]Male C[nse]
+"I'm gonna play with your pussy too~"[pcms]
 
 [evcg storage="HEV310b"][trans_c cross time=301]
 
 *9625|
 [fc]
 [vo_hay s="hayami1099"]
-[ns]ありす[nse]
-「うああっ！　ああああっ！　やめてぇっ！」[pcms]
+[ns]Alice[nse]
+"Uwah! Aaaaah! Stop it!"[pcms]
 
 *9626|
 [fc]
-声なんて上げたくないのに、感じたくなんて無いのに。[r]
-執拗に責められる身体は、[r]
-自分の意志とは無関係の反応をみせる。[pcms]
+I don't want to raise my voice, I don't want to feel[r]
+anything. But my body responds involuntarily to the[r]
+relentless teasing.[pcms]
 
 *9627|
 [fc]
-[ns]男Ｂ[nse]
-「んん゛～～？　ごっち、も゛、いじっで……[r]
-　ほしい゛の゛？　こご？　ここぉお゛？」[pcms]
+[ns]Male B[nse]
+"Mmm~? Do you want more here...? You want it here?"[pcms]
 
 [evcg storage="HEV310d"][trans_c cross time=301]
 
 *9628|
 [fc]
 [vo_hay s="hayami1100"]
-[ns]ありす[nse]
-「ああんっ！　ぃやあああっ！　ぁああっ！」[pcms]
+[ns]Alice[nse]
+"Aaahn! Nooooo! Aaaah!"[pcms]
 
 *9629|
 [fc]
-だ……だめっ。[r]
-どんなに我慢しようとしても、声が止まらない。[r]
-自分の身体なのに、まるで言う事をきいてくれない。[pcms]
+No matter how much I try to resist, I can't stop my voice.[r]
+It's my own body, yet it won't listen to me.[pcms]
 
 *9630|
 [fc]
-[ns]男Ｃ[nse]
-「んん゛～～？　な、な゛んが……、[r]
-　ぬ゛れできでる゛ぞ～～」[pcms]
+[ns]Male C[nse]
+"Mmm~? What's this... you're getting wetter."[pcms]
 
 [evcg storage="HEV310c"][trans_c cross time=301]
 
 *9631|
 [fc]
 [vo_hay s="hayami1101"]
-[ns]ありす[nse]
-「……！！　そ、そんなこと……違うっ！」[pcms]
+[ns]Alice[nse]
+"...!! That's not... wrong!"[pcms]
 
 *9632|
 [fc]
-[ns]男Ａ[nse]
-「う゛ぉらはぁははばはばっ！　かん゛じでる？[r]
-　かんじでる゛うぅ゛～～？」[pcms]
+[ns]Man A[nse]
+"Hahahaha! Are you feeling it? Are you feeling good~?"[pcms]
 
 *9633|
 [fc]
-どうにもならないのは声だけでなく、[r]
-もはや身体すら自分の言う事をきかない。[pcms]
+It's not just my voice that's beyond control; now even my[r]
+body won't listen to me.[pcms]
 
 *9634|
 [fc]
-こんな見も知らない男達に身体中を蹂躙されて……。[r]
-嫌なはずなのに、悔しいはずなのに……。[r]
-なんでこんなに身体は反応してしまうの？[pcms]
+I'm being violated by these unknown men all over my body...[r]
+I should hate this, I should be angry, but why is my body[r]
+reacting so much?[pcms]
 
 *9635|
 [fc]
-[ns]男Ｃ[nse]
-「ぐぅ～～へぇ゛……も゛っど、もっ゛と、[r]
-　きもぢよ゛く、じてあげるぅる゛～～」[pcms]
+[ns]Male C[nse]
+"Guh~... I'll make you feel even better~"[pcms]
 
 *9636|
 [fc]
-[ns]男Ｂ[nse]
-「お、お゛れ゛もやる゛～～！」[pcms]
+[ns]Male B[nse]
+"I'm gonna do it too~!"[pcms]
 
 *9637|
 [fc]
-[ns]男Ａ[nse]
-「う゛ぉれ゛も……お゛れも……も゛っと、[r]
-　お゛っぱい、おっ゛ぱい゛～～！」[pcms]
+[ns]Man A[nse]
+"Me too... I want more of your tits~"[pcms]
 
 [evcg storage="HEV310d"][trans_c cross time=301]
 
 *9638|
 [fc]
 [vo_hay s="hayami1102"]
-[ns]ありす[nse]
-「ああああんっ！　やぁ、はぁああっ！」[pcms]
+[ns]Alice[nse]
+"Aaaaaahn! No, ahhh!"[pcms]
 
 *9639|
 [fc]
-だ、だめ……押し寄せる感覚に、思考が鈍くなる。[r]
-もう何も考えられなくなって……。[pcms]
+No, no... the overwhelming sensations dull my thoughts. I[r]
+can't think of anything anymore...[pcms]
 
 *9640|
 [fc]
 [vo_hay s="hayami1103"]
-[ns]ありす[nse]
-「いやあああああああああっ！」[pcms]
+[ns]Arisu[nse]
+"Nooooooo!"[pcms]
 
 ;[射精フラA]
 ;イベントCG射精差分
@@ -544,54 +527,51 @@
 
 *9641|
 [fc]
-[ns]男Ａ[nse]
-「うぼっ！　し、しお゛ふい゛たぁあ゛～～！」[pcms]
+[ns]Man A[nse]
+"Uboh! The taste of saltiness~"[pcms]
 
 *9642|
 [fc]
-[ns]男Ｂ[nse]
-「う゛ひゃびゃ゛やひゃぁ゛ぁあぁ～～……！[r]
-　こう゛ずい、ごうずいぃ゛～～！」[pcms]
+[ns]Male B[nse]
+"Hyahyahya~! It feels so good~"[pcms]
 
 *9643|
 [fc]
-頭の中が真っ白になると同時に、私のアソコから[r]
-激しく愛液が噴き出した。[pcms]
+As my mind goes blank, a fierce gush of love juice sprays[r]
+from down there.[pcms]
 
 *9644|
 [fc]
 [vo_hay s="hayami1104"]
-[ns]ありす[nse]
-「ううっ……ああぁ……いやぁぁぁぁぁ！！！！[r]
-　み、みないでぇ……こんなっ……違うっ！！[r]
-　違うよぉっ！」[pcms]
+[ns]Alice[nse]
+"Uuh... ahh... noooo!! Don't look... not like this...[r]
+wrong!! It's wrong!"[pcms]
 
 *9645|
 [fc]
-[ns]男Ｃ[nse]
-「なぁ゛にか゛ちか゛うんた゛ぁ～～？[r]
-　す……す゛け゛ぇぇぇ～～……」[pcms]
+[ns]Male C[nse]
+"What's wrong~? It's so clear~"[pcms]
 
 *9646|
 [fc]
-私の懇願をよそに、周囲の男達は実に楽しそうに[r]
-恥辱の様子を見続ける。[pcms]
+Ignoring my pleas, the surrounding men continue to watch the[r]
+scene of humiliation with great amusement.[pcms]
 
 *9647|
 [fc]
 [vo_hay s="hayami1105"]
-[ns]ありす[nse]
-「ふぁあ……ううっ……ああっ……」[pcms]
+[ns]Alice[nse]
+"Faaah... uuh... ahh..."[pcms]
 
 *9648|
 [fc]
-すっかり主の言う事を聞かなくなった身体は、[r]
-勝手に潮を噴き続ける。[pcms]
+My body, which has completely stopped listening to me, keeps[r]
+squirting on its own.[pcms]
 
 *9649|
 [fc]
-羞恥と絶望にとらわれても、もはや私の意志で[r]
-出来る事なんて何も無いのかも知れない。[pcms]
+Captured by shame and despair, there might be nothing I can[r]
+do with my own will anymore.[pcms]
 
 ;//------------------------------------------------
 
@@ -599,63 +579,58 @@
 
 *9650|
 [fc]
-[ns]男Ａ[nse]
-「お゛まんこ゛に……おれ゛のいれて゛やる～～……」[pcms]
+[ns]Man A[nse]
+"I'll put mine inside your pussy~"[pcms]
 
 *9651|
 [fc]
 [vo_hay s="hayami1097"]
-[ns]ありす[nse]
-「あああああっ！　いやっ！　あああっ！」[pcms]
+[ns]Alice[nse]
+"Aaaaaah! No! Aaaaah!"[pcms]
 
 *9652|
 [fc]
-それまで持ち上げられていたあたしの体は、[r]
-床に寝そべった気味の悪い男の上に、[r]
-無理矢理跨らせられた。[pcms]
+The body that had been lifted up was now forcibly straddled[r]
+over a creepy man lying on the floor.[pcms]
 
 ;//★HEV311a.bmp
 [evcg storage="HEV311a"][trans_c cross time=301]
 
 *9653|
 [fc]
-[ns]男Ａ[nse]
-「お゛～……ぬる゛ぬ゛るた゛ぁ～～……。[r]
-　ちんこ゛ほしい゛んた゛ろぉ～～？」[pcms]
+[ns]Man A[nse]
+"Ohh... it's so slippery~. You want this dick, don't you~?"[pcms]
 
 *9654|
 [fc]
 [vo_hay s="hayami1095"]
-[ns]ありす[nse]
-「うううっ……いや……いやあ！」[pcms]
+[ns]Alice[nse]
+"Uuuu... no... nooo!"[pcms]
 
 *9655|
 [fc]
-どうして……？[r]
-どうしてこんな……。[pcms]
+Why...? Why is this happening...?[pcms]
 
 *9656|
 [fc]
-こんなに沢山の人が見てる中で……。[r]
-あたし、こんな格好させられて……。[pcms]
+In front of so many people... I'm being made to wear such an[r]
+outfit...[pcms]
 
 *9657|
 [fc]
-みんなに……こんなに沢山の人に、[r]
-イヤらしい目で……。[r]
-こんな、見せ物みたいに……！！[pcms]
+By everyone... by so many people, with lecherous eyes...[r]
+like I'm some kind of show...!![pcms]
 
 *9658|
 [fc]
-[ns]男Ｂ[nse]
-「はや゛く゛いれ゛て゛やれよ゛……、[r]
-　か゛ま゛んて゛きないみ゛たい゛た゛からよ～～」[pcms]
+[ns]Male B[nse]
+"Hurry up and put it in... looks like you can't wait~"[pcms]
 
 *9659|
 [fc]
-[ns]男Ｃ[nse]
-「ちん゛こほし゛そうなかお゛してんし゛ゃん゛[r]
-　はや゛いれ゛てやれよ゛～～……」[pcms]
+[ns]Male C[nse]
+"You're making a face like you want this cock~ Hurry up and[r]
+give it to her~"[pcms]
 
 ;//★HEV311b.bmp
 [evcg storage="HEV311b"][trans_c cross time=301]
@@ -663,120 +638,110 @@
 *9660|
 [fc]
 [vo_hay s="hayami0165"]
-[ns]ありす[nse]
-「いやぁぁぁぁぁああああ！！」[pcms]
+[ns]Alice[nse]
+"Noooooo!!"[pcms]
 
 *9661|
 [fc]
-そんな事無い！！[r]
-あたしは、こんなの……。[r]
-こんなこと、全然……望んでない！！[pcms]
+That's not true!! I don't want this... I didn't wish for[r]
+this at all!![pcms]
 
 *9662|
 [fc]
-[ns]男Ａ[nse]
-「よ゛ぉ～し……いれ゛るそ゛ぉ～～！？[r]
-　へぁ～～……」[pcms]
+[ns]Man A[nse]
+"Alright... is it going in~? Heh~..."[pcms]
 
 *9663|
 [fc]
 [vo_hay s="hayami0622"]
-[ns]ありす[nse]
-「あっ……うあっ……、やあっ！」[pcms]
+[ns]Alice[nse]
+"Ah... ugh... no!"[pcms]
 
 *9664|
 [fc]
-[ns]男Ａ[nse]
-「ぬる゛ぬるた゛ぁ～……、て゛も……う゛まく゛、[r]
-　はい゛らね゛ぇ～～……？」[pcms]
+[ns]Man A[nse]
+"It's so slippery~... but, it's not going in yet~?"[pcms]
 
 *9665|
 [fc]
 [vo_hay s="hayami0610"]
-[ns]ありす[nse]
-「いやあぁあ！！　こんなの、もういやだぁ！！」[pcms]
+[ns]Alice[nse]
+"No, no more!! I don't want this anymore!!"[pcms]
 
 *9666|
 [fc]
-おちんちんを入れられる事から逃れようとしたけど、[r]
-周りの男の人達が押さえつけているせいで、あたしは[r]
-ただ腰を振る事しかできなかった。[pcms]
+I tried to escape from having a dick inside me, but because[r]
+the men around me were holding me down, all I could do was[r]
+move my hips.[pcms]
 
 *9667|
 [fc]
-それは、結果的にあたしに挿入しようとしている[r]
-男の人を悦ばせる事になってしまっていた。[pcms]
+As a result, it only served to please the man trying to[r]
+insert himself into me.[pcms]
 
 *9668|
 [fc]
-[ns]男Ａ[nse]
-「あ゛ぁ～～……これ゛……、いい～～……、[r]
-　ちん゛こ゛すへ゛る～～……。[r]
-　もう゛はいる゛かぁ～～？」[pcms]
+[ns]Man A[nse]
+"Ahh~... this is good~... the cock is sliding in~... Is it[r]
+in yet~?"[pcms]
 
 *9669|
 [fc]
 [vo_hay s="hayami0607"]
-[ns]ありす[nse]
-「ひっ……」[pcms]
+[ns]Alice[nse]
+"Hic..."[pcms]
 
 *9670|
 [fc]
-もう……無理……。[r]
-これ以上、逃げられない……。[pcms]
+No more... it's impossible... I can't escape anymore...[pcms]
 
 *9671|
 [fc]
-[ns]男Ｃ[nse]
-「おら゛ぁ！　す゛っぷりいけ゛やぁ～～！！」[pcms]
+[ns]Male C[nse]
+"Oraa! Go all the way in~!!"[pcms]
 
 *9672|
 [fc]
-[ns]男Ｂ[nse]
-「み゛せ～～ろ゛！　はい゛ると゛こ゛ろぉ～～！[r]
-　みせ゛ろ゛～～！！」[pcms]
+[ns]Male B[nse]
+"Show us! The moment it goes in! Show us~!!"[pcms]
 
 *9673|
 [fc]
-周りを渦巻く男の人達の歓喜の声や、興奮しきった、[r]
-荒い息。[pcms]
+The voices of the men swirling around me are filled with joy[r]
+and excitement, their breathing rough.[pcms]
 
 *9674|
 [fc]
-あたしの処女は、こんな異常な場所で。[r]
-こんな、訳の分からない状態で、失われてしまう。[pcms]
+My virginity is being lost in such an abnormal place. In[r]
+such an incomprehensible state.[pcms]
 
 *9675|
 [fc]
-これが夢だったら……。[pcms]
+If only this were a dream...[pcms]
 
 *9676|
 [fc]
-…………。[r]
-夢にしても酷い……。[r]
-こんなの……。[pcms]
+...Even for a dream, this is too cruel... This...[pcms]
 
 *9677|
 [fc]
-[ns]男Ａ[nse]
-「そろ゛そろ゛……い゛く゛そ゛ぉ～～……、[r]
-　おぉ～～……」[pcms]
+[ns]Man A[nse]
+"Soon... I'm gonna cum~... Ohh~..."[pcms]
 
 *9678|
 [fc]
 [vo_hay s="hayami1095"]
-[ns]ありす[nse]
-「うううっ……いや……いやあ！」[pcms]
+[ns]Alice[nse]
+"Uuuu... no... nooo!"[pcms]
 
 *9679|
 [fc]
-今までの抵抗は、まるで無駄に終わった。[pcms]
+All my resistance has ended in vain.[pcms]
 
 *9680|
 [fc]
-あたしの中に、ゆっくりと、でも確実に。[r]
-ぷちぷちと水の弾けるような音を立てて、[r]
-おちんちんが埋まっていく。[pcms]
+Inside me, slowly but surely. With a popping sound like[r]
+water bursting, the dick is buried inside.[pcms]
 
 ;//★レッドフラッシュ
 [赤フラ]
@@ -787,128 +752,123 @@
 
 *9681|
 [fc]
-[ns]男Ａ[nse]
-「う゛ぉあ゛……お゛まん゛こ、ぃい゛～～[r]
-　しま゛るぅう゛～～……」[pcms]
+[ns]Man A[nse]
+"Uoah... your pussy feels so good~ It's clamping down~"[pcms]
 
 *9682|
 [fc]
 [vo_hay s="hayami1106"]
-[ns]ありす[nse]
-「あああっ……んんっ！」[pcms]
+[ns]Alice[nse]
+"Aaaaah... mmm!"[pcms]
 
 *9683|
 [fc]
-どうしてこんな事になっちゃったんだろう。[r]
-ただ、みんなと旅行に来ていただけだったはずなのに。[pcms]
+How did things end up like this? I was just on a trip with[r]
+everyone.[pcms]
 
 *9684|
 [fc]
-[ns]男Ｂ[nse]
-「ね゛ぇちゃん゛、じごいで、しごい゛でぇえ゛～～」[pcms]
+[ns]Male B[nse]
+"Onee-san, stroke it, stroke it more~"[pcms]
 
 *9685|
 [fc]
-[ns]男Ｃ[nse]
-「お゛れのも゛……おれ゛の゛もぉっっぉおお゛」[pcms]
+[ns]Male C[nse]
+"Mine too... mine tooooo"[pcms]
 
 *9686|
 [fc]
 [vo_hay s="hayami1107"]
-[ns]ありす[nse]
-「んんっ……！　あはっ！　ああんっ！」[pcms]
+[ns]Alice[nse]
+"Mmm...! Ahah! Aaahn!"[pcms]
 
 *9687|
 [fc]
-こんなところで、見知らぬ男達に嬲られて。[r]
-身体中を蹂躙されて。[r]
-処女まで奪われて。[pcms]
+In such a place, tormented by unknown men. Ravaged all over[r]
+my body. Even my virginity taken away.[pcms]
 
 *9688|
 [fc]
 [vo_hay s="hayami1108"]
-[ns]ありす[nse]
-「ああああっ！　はあっ！　ぁあああん！」[pcms]
+[ns]Alice[nse]
+"Aaaaaah! Haaah! Aaaaahn!"[pcms]
 
 *9689|
 [fc]
-[ns]男Ｃ[nse]
-「うう゛ぉぉお……おてて、お゛てで……[r]
-　ぎもちいい～～」[pcms]
+[ns]Male C[nse]
+"Uuoooh... your hand, your hand feels so good~"[pcms]
 
 *9690|
 [fc]
-もはや私の意志など関係なく、身体は快楽を受け入れ、[r]
-男達に奉仕している。[pcms]
+No longer with any will of my own, my body accepts the[r]
+pleasure and serves the men.[pcms]
 
 *9691|
 [fc]
-なんでこんな事になっちゃったんだろう。[pcms]
+Why did things turn out like this?[pcms]
 
 *9692|
 [fc]
-もう一度私は自問する。[pcms]
+I ask myself once again.[pcms]
 
 *9693|
 [fc]
-いつもみたいに、ヒロシとふざけあって。[r]
-祐樹のツッコミを受けて。[r]
-みんなで楽しく過ごしていたはずなのに。[pcms]
+Just like always, fooling around with Hiroshi. Receiving[r]
+Yuuki's retorts. Supposed to be having fun with everyone.[pcms]
 
 *9694|
 [fc]
-[ns]男Ａ[nse]
-「も゛っと、もっど、づよくつい゛てあげる゛よぉ～！[r]
-　ぎもちいぃ゛……ぎも゛ちいいいぃ゛～～！」[pcms]
+[ns]Man A[nse]
+"I'll thrust into you even harder! Feels so good... feels so[r]
+goood~!"[pcms]
 
 *9695|
 [fc]
 [vo_hay s="hayami1109"]
-[ns]ありす[nse]
-「ああああああっ！　ぃやぁ！　はあああっ！」[pcms]
+[ns]Alice[nse]
+"Aaaaaaaaah! Nooo! Haaaah!"[pcms]
 
 *9696|
 [fc]
-今の私は、ただ快楽に溺れる人形にすぎないのか。[r]
-みんなとのあの日々が、[r]
-とても遠い世界のように感じる。[pcms]
+Am I now just a doll drowning in pleasure? Those days with[r]
+everyone feel like they're from a very distant world.[pcms]
 
 *9697|
 [fc]
-[ns]男Ｂ[nse]
-「う゛ぉぁあ……う゛ぉ、おれ゛、で、でる゛～～」[pcms]
+[ns]Male B[nse]
+"Uoah... I'm gonna cum~"[pcms]
 
 *9698|
 [fc]
-[ns]男Ｃ[nse]
-「えへびゃは！　はや゛い゛ぞ、お゛まえぇ」[pcms]
+[ns]Male C[nse]
+"Ehebyaha! You're too quick, man!"[pcms]
 
 *9699|
 [fc]
-[ns]男Ａ[nse]
-「ほら゛……う゛けとめ゛でやれ゛ぇええ゛……」[pcms]
+[ns]Man A[nse]
+"Here... take it all in~"[pcms]
 
 *9700|
 [fc]
 [vo_hay s="hayami1110"]
-[ns]ありす[nse]
-「んんん……あっ、はあっ！」[pcms]
+[ns]Alice[nse]
+"Mmmm... ah, haaah!"[pcms]
 
 *9701|
 [fc]
-[ns]男Ｂ[nse]
-「で、でる゛うぅう゛うぅ゛～～」[pcms]
+[ns]Male B[nse]
+"I'm cummingggg~"[pcms]
 
 *9702|
 [fc]
-ここでこうやって男の精を受けている私と、[r]
-みんなでふざけあっていた日常の私……。[r]
-もはや別の人間なんじゃないだろうか？[pcms]
+The me who is receiving men's semen here and the me who was[r]
+fooling around with everyone... Are they even the same[r]
+person anymore?[pcms]
 
 *9703|
 [fc]
-そうでなければ納得できないほど、[r]
-今の私と以前の私は別物だ。[pcms]
+To accept it, the current me and the previous me seem like[r]
+different people.[pcms]
 
 ;[射精フラA]
 ;イベントCG射精差分
@@ -918,109 +878,103 @@
 *9704|
 [fc]
 [vo_hay s="hayami1111"]
-[ns]ありす[nse]
-「んんぶっ！　……すごっ……うああっ、はあっ！[r]
-　すごい……りょう……ふあぁ……」[pcms]
+[ns]Alice[nse]
+"Mmmmb! ...amazing... uaaah, haaah! So much... ryoooh...[r]
+ahhh..."[pcms]
 
 *9705|
 [fc]
-[ns]男Ｃ[nse]
-「お゛でも……おれも゛、ぶっかけてや゛る゛……[r]
-　から゛なあああっ～～」[pcms]
+[ns]Male C[nse]
+"But... I'm gonna splatter you too... here it comes aaaaah~"[pcms]
 
 *9706|
 [fc]
-[ns]男Ｂ[nse]
-「ぎゃばぁは！　おまえ゛だでえ……[r]
-　はやい゛じゃねぇがぁ～～」[pcms]
+[ns]Male B[nse]
+"Gyahahaha! You're too fast, man... too soon~"[pcms]
 
 *9707|
 [fc]
-……なんて。[r]
-別の人間なんて思いながらも、[r]
-心の底ではわかっているんだ。[pcms]
+...Even though I think of myself as a different person, deep[r]
+down I know.[pcms]
 
 *9708|
 [fc]
-今の私も過去の私も、同じ速水ありす。[pcms]
+The current me and the past me are both the same Arisu.[pcms]
 
 *9709|
 [fc]
-……助けて欲しい。[r]
-以前のようにみんなとはしゃぎたい。[pcms]
+...I want to be saved. I want to frolic with everyone like[r]
+before.[pcms]
 
 *9710|
 [fc]
-[ns]男Ｃ[nse]
-「うぼっ！　で、でる゛～～」[pcms]
+[ns]Male C[nse]
+"Uboh! It's coming out~"[pcms]
 
 *9711|
 [fc]
 [vo_hay s="hayami1112"]
-[ns]ありす[nse]
-「あう……ふぁ！」[pcms]
+[ns]Arisu[nse]
+"Ahh... fah!"[pcms]
 
 *9712|
 [fc]
-ヒロシ……どこにいるのかな？[r]
-何をしているのかな？[pcms]
+Hiroshi... where are you? What are you doing?[pcms]
 
 *9713|
 [fc]
-[ns]男Ａ[nse]
-「よ゛～～ぉじ……おれ゛だで、まけな゛い゛ぞぉ[r]
-　いっぱい゛、い゛っぱい゛だじでやるぅ！」[pcms]
+[ns]Man A[nse]
+"Yo~sh... I won't lose, I'm gonna give it to you full[r]
+force!"[pcms]
 
 *9714|
 [fc]
 [vo_hay s="hayami1113"]
-[ns]ありす[nse]
-「ああああっ！　深いよっ……ああああっ！」[pcms]
+[ns]Alice[nse]
+"Aaaaah! It's so deep... aaaaah!"[pcms]
 
 *9715|
 [fc]
-激しくなる男の動きに身を委ねながらも、[r]
-私の意識はだんだん昔の事に支配されていく。[pcms]
+As the man's movements grow more intense, my consciousness[r]
+is increasingly dominated by memories of the past.[pcms]
 
 *9716|
 [fc]
-ここから帰れたら、また、[r]
-以前みたく一緒にふざけあえるかな。[pcms]
+If I can get out of here, maybe we can mess around together[r]
+again like before.[pcms]
 
 *9717|
 [fc]
-……あいたいよ、ヒロシ。[pcms]
+...I miss you, Hiroshi.[pcms]
 
 *9718|
 [fc]
 [vo_hay s="hayami1114"]
-[ns]ありす[nse]
-「は、はげし……っ！　あああっ！　いやぁ！」[pcms]
+[ns]Arisu[nse]
+"It's so intense...! Aaaaah! Nooo!"[pcms]
 
 *9719|
 [fc]
-[ns]男Ａ[nse]
-「う゛ぉれう゛ぉれ！　いくぞ、い゛ぐぞぉお！」[pcms]
+[ns]Man A[nse]
+"Uvorevore! Here I go, I'm cumming!"[pcms]
 
 *9720|
 [fc]
-ああ……また……。[r]
-また……頭の中が……。[r]
-真っ白に……。[pcms]
+Ah... again... My mind is going blank again...[pcms]
 
 *9721|
 [fc]
-快楽の波が押し寄せて、思考が停止しそうになる。[pcms]
+The waves of pleasure are surging, and my thoughts are about[r]
+to stop.[pcms]
 
 *9722|
 [fc]
-でもヒロシ……私はアナタの事だけ……。[pcms]
+But Hiroshi... it's only you that I...[pcms]
 
 *9723|
 [fc]
-[ns]男Ａ[nse]
-「で、でる゛！　う゛ぉぁあ゛あぉ゛！[r]
-　い゛、いぐぅ゛いう゛～～～！」[pcms]
+[ns]Man A[nse]
+"It's coming! Uoahhh! I'm cumming~"[pcms]
 
 ;[射精フラA]
 ;イベントCG射精差分
@@ -1030,55 +984,55 @@
 *9724|
 [fc]
 [vo_hay s="hayami1115"]
-[ns]ありす[nse]
-「ああっ！　はあっ！　あああああああんっ！」[pcms]
+[ns]Alice[nse]
+"Aaah! Haaah! Aaaaaaaahn!"[pcms]
 
 *9725|
 [fc]
-不意に男達の顔に、ヒロシの顔が重なって見えた。[pcms]
+Suddenly, Hiroshi's face seemed to overlap with the faces of[r]
+the men.[pcms]
 
 *9726|
 [fc]
-逢いたい……逢いたいよ。[r]
-ヒロシ……どうしてるのかな。[pcms]
+I miss you... I miss you so much. Hiroshi... I wonder how[r]
+you are.[pcms]
 
 *9727|
 [fc]
-[ns]男Ｂ[nse]
-「う゛おっ！　いい゛いきっぶり！」[pcms]
+[ns]Male B[nse]
+"Uoh! What a good cummer!"[pcms]
 
 *9728|
 [fc]
-[ns]男Ｃ[nse]
-「おで、お゛れ゛も……もっどきも゛ちよぐ……[r]
-　やるぞぉお゛～～」[pcms]
+[ns]Male C[nse]
+"And me too... I'm gonna go again... Here it comes~"[pcms]
 
 ;//♪：bgm018　fadeOUT
 [fadeoutbgm time=1000]
 
 *9729|
 [fc]
-私の考えなどよそに、また男達が群がりはじめる。[r]
-この宴はいつまで続くのだろう。[pcms]
+Regardless of my thoughts, the men start to swarm again. How[r]
+long will this feast continue?[pcms]
 
 *9730|
 [fc]
-そして、この宴が、終わりを迎えた時……。[pcms]
+And when this feast comes to an end...[pcms]
 
 *9731|
 [fc]
-私はまた日常に……ヒロシに会えるのだろうか？[pcms]
+Will I be able to return to my daily life... to see Hiroshi?[pcms]
 
 *9732|
 [fc]
-ヒロシに逢えるの……？[pcms]
+Will I be able to see Hiroshi...?[pcms]
 
 ;//------------------------------------------------
 [if exp="tf.scene_mode==1"]
 	[jump storage="b_scene.ks" target=*back_from_SR]
 ;	[link storage=sceneAgain]もう一度見る[endlink]
 ;	[link storage=sceneList]一覧に戻る[endlink]
-;	[s]
+[pcms]
 [endif]
 
 *KAISOU_PASS

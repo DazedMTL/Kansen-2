@@ -23,13 +23,14 @@
 *8019|
 [fc]
 [vo_nag s="nagasaki0035"]
-[ns]千尋[nse]
-「ふぅっ……」[pcms]
+[ns]Chihiro[nse]
+"Phew..."[pcms]
 
 *8020|
 [fc]
-家に着くまでにかいた汗をシャワーで流して、夕食ま[r]
-で少し寝ようと、私はベッドに横になった。[pcms]
+I decided to take a shower to wash off the sweat I'd built[r]
+up on the way home and lay down on my bed to take a short[r]
+nap before dinner.[pcms]
 
 ;//SE：救急車が通り過ぎる音（？）
 ;//井：ないので準備する
@@ -38,30 +39,30 @@
 *8021|
 [fc]
 [vo_nag s="nagasaki0036"]
-[ns]千尋[nse]
-「なんなの？　一体……」[pcms]
+[ns]Chihiro[nse]
+"What's going on? What in the world...?"[pcms]
 
 *8022|
 [fc]
-今日はやけに、救急車のサイレンを耳にする。[r]
-家に着くまでの間に、目の前で、近くから、遠くから、[r]
-何度も聞かされた。[pcms]
+Today, I've been unusually aware of ambulance sirens. On my[r]
+way home, I heard them repeatedly, from in front of me,[r]
+nearby, and far away.[pcms]
 
 *8023|
 [fc]
-大きい事故でもあったのかしら……。[r]
-修業旅行生の乗ったバスが事故を起こした、とか……？[pcms]
+I wonder if there was a major accident... Like a bus[r]
+carrying apprentice travelers having an accident...?[pcms]
 
 *8024|
 [fc]
 [vo_nag s="nagasaki0037"]
-[ns]千尋[nse]
-「可愛い子が無事なら、別に構わないけど……」[pcms]
+[ns]Chihiro[nse]
+"As long as the cute kids are safe, I don't really mind..."[pcms]
 
 *8025|
 [fc]
-商店街で見た女の子と、楽しそうに会話する自分を想[r]
-像してるうちに、私のまぶたは重くなっていった。[pcms]
+As I imagined myself having a pleasant conversation with the[r]
+girl I saw in the shopping district, my eyelids grew heavy.[pcms]
 
 
 ;//♪：０１０_Paradise.　フェードアウト
@@ -95,8 +96,8 @@
 *8026|
 [fc]
 [vo_nag s="nagasaki0038"]
-[ns]千尋[nse]
-「！？」[pcms]
+[ns]Chihiro[nse]
+"!"[pcms]
 ;//◎爆発音と激しい揺れに驚く
 
 [quake_bg 元time=1000 xy m]
@@ -105,14 +106,14 @@
 *8027|
 [fc]
 [vo_nag s="nagasaki0039"]
-[ns]千尋[nse]
-「きゃあぁっ！！　痛っ！！　いやあぁっ！！！！」[pcms]
+[ns]Chihiro[nse]
+"Kyaaah!! Ouch!! Nooo!!!"[pcms]
 
 *8028|
 [fc]
-凄い音と揺れに飛び起きた私は、置いてあった物が部[r]
-屋の中を飛び交うのが収まるまで、ベッドの上で頭を[r]
-抱えていた。[pcms]
+I was jolted awake by a loud noise and shaking, and I had to[r]
+cover my head with my hands on the bed until the things that[r]
+had been thrown around the room settled down.[pcms]
 
 [sysbt_meswin clear]
 
@@ -124,4 +125,4 @@
 
 [jump storage="prologue02000.ks" target=*prologue02000_TOP]
 
-;//－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+;//

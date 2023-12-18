@@ -38,8 +38,8 @@
 *12458|
 [fc]
 [vo_hay s="hayami0164"]
-[ns]ありす[nse]
-「きゃあああぁぁぁっ！！！！！」[pcms]
+[ns]Alice[nse]
+"Kyaaaaaaahhhhh!!!!!"[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
@@ -58,299 +58,289 @@
 *12459|
 [fc]
 [vo_hay s="hayami0165"]
-[ns]ありす[nse]
-「いやぁぁぁぁぁああああ！！」[pcms]
+[ns]Arisu[nse]
+"Nooooooo!!"[pcms]
 
 *12460|
 [fc]
-なんで……。[r]
-どうして、こんな時にトラックなんて……。[pcms]
+Why... How could a truck come at a time like this...[pcms]
 
 *12461|
 [fc]
-ヘンなおじさんに抱きつかれた上に、[r]
-いきなり突っ込んできたトラックのせいで、[r]
-あたしとヒロシ達は、離ればなれになってしまった。[pcms]
+On top of being grabbed by a strange man, because of the[r]
+truck that suddenly plowed in, Hiroshi and the others and I[r]
+were separated.[pcms]
 
 *12462|
 [fc]
 [vo_hay s="hayami0166"]
-[ns]ありす[nse]
-「ヒロシ！！　ヒロシぃ！！」[pcms]
+[ns]Alice[nse]
+"Hiroshi!! Hiroshiiii!!"[pcms]
 
 [ChrSetEx layer=4 chbase="ookura_n02j"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *12463|
 [fc]
-[ns]大倉[nse]
-「…………！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"...!!"[pcms]
 
 *12464|
 [fc]
-あたしの叫び声は、トラックのせいで、[r]
-ヒロシに届いているかどうか、分からない。[pcms]
+My screams, because of the truck, I don't know if they're[r]
+reaching Hiroshi.[pcms]
 
 [ChrSetEx layer=4 chbase="sugo_n02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *12465|
 [fc]
-[ns]作業服の男[nse]
-「ヒャッハァ！！　良いぜぇ！！　[r]
-　最高のタイミングだァ！！」[pcms]
+[ns]Work Clothes Man[nse]
+"Hyahhaa!! Nice!! Perfect timing!!"[pcms]
 
 *12466|
 [fc]
-このオジサン……。[r]
-こうなるのを、狙っていたの？？[pcms]
+This man... Was he aiming for this to happen??[pcms]
 
 *12467|
 [fc]
-だとしたら、広場とかに沢山いた、あのヘンな[r]
-人たちの仲間なの……？[pcms]
+If that's the case, is he one of those weird people who were[r]
+all over the plaza...?[pcms]
 
 *12468|
 [fc]
-あたしも、このオジサンにあんな風に……。[r]
-病院や、喫茶店で見た女の人みたいにされちゃうの？[r]
-怖いよ……ヒロシ……裕樹……！！[pcms]
+Am I going to be treated like those women I saw at the[r]
+hospital and the caf by this man? I'm scared... Hiroshi...[r]
+Yuuki...!![pcms]
 
 [ChrSetEx layer=4 chbase="naga_n17"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *12469|
 [fc]
 [vo_nag s="nagasaki0040"]
-[ns]セーラー服の女[nse]
-「大丈夫？！　大丈夫なの？！」[pcms]
+[ns]Sailor Suit Girl[nse]
+"Are you okay?! Are you alright?!"[pcms]
 
 *12470|
 [fc]
-壁にぶつかって、煙を上げているトラックの下から、[r]
-セーラー服を着た女の人が、[r]
-こちらに向かって這いだしてくるのが見えた。[pcms]
+From under the truck that hit the wall and was emitting[r]
+smoke, I could see a woman in a sailor suit crawling towards[r]
+us.[pcms]
 
 [ChrSetEx layer=4 chbase="sugo_n03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *12471|
 [fc]
-[ns]作業服の男[nse]
-「んだァ……？！[r]
-　へっ！　でっけえ姉ちゃんのおまけ付きか！[r]
-　面白くなって来たぜぇ！！　ヒャァッ！！」[pcms]
+[ns]Work clothes man[nse]
+"What...?! Heh! A big sister with a bonus! This is getting[r]
+interesting!! Hyahh!!"[pcms]
 
 [ChrSetEx layer=4 chbase="naga_n03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *12472|
 [fc]
 [vo_nag s="nagasaki0041"]
-[ns]セーラー服の女[nse]
-「待ちなさい！！　その子を離しなさい！！」[pcms]
+[ns]Sailor Suit Girl[nse]
+"Wait!! Let go of that child!!"[pcms]
 
 [ChrSetEx layer=4 chbase="sugo_n02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *12473|
 [fc]
-[ns]作業服の男[nse]
-「へっ！！　オラ、オッパイちゃん！！[r]
-　あの怖い面したねーちゃんがコエーから、[r]
-　さっさと逃げんぜ！！」[pcms]
+[ns]Work clothes man[nse]
+"Heh!! Hey, Boobs-chan!! You better run away quickly from[r]
+that scary-faced Onee-san!!"[pcms]
 
 *12474|
 [fc]
 [vo_hay s="hayami0167"]
-[ns]ありす[nse]
-「痛っ……いやっ……離して！！」[pcms]
+[ns]Alice[nse]
+"Ouch... no... let go!!"[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *12475|
 [fc]
-オジサンはあたしの胸を強く握って、[r]
-セーラー服の人の方を向いたまま、後ずさった。[pcms]
+The man gripped my chest tightly and backed away while still[r]
+facing the sailor suit girl.[pcms]
 
 *12476|
 [fc]
 [vo_hay s="hayami0168"]
-[ns]ありす[nse]
-「離して！！　離してぇぇ！！　[r]
-　お願いです！！　離してください！！」[pcms]
+[ns]Arisu[nse]
+"Let go!! Let gooo!! Please!! Let me go!!"[pcms]
 
 [ChrSetEx layer=4 chbase="naga_n03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *12477|
 [fc]
 [vo_nag s="nagasaki0042"]
-[ns]セーラー服の女[nse]
-「その子を離せ！！」[pcms]
+[ns]Sailor Suit Girl[nse]
+"Let go of that child!!"[pcms]
 
 *12478|
 [fc]
-セーラー服の女の人は、トラックの下から[r]
-這い出そうともがいているけど、何かに引っかかった[r]
-みたいで、なかなか出られなかった。[pcms]
+The sailor suit girl was struggling to crawl out from under[r]
+the truck, but she seemed to be caught on something and[r]
+couldn't get out easily.[pcms]
 
 [ChrSetEx layer=4 chbase="sugo_n03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *12479|
 [fc]
-[ns]作業服の男[nse]
-「ヘヘッ……」[pcms]
+[ns]Work clothes man[nse]
+"Heheh..."[pcms]
 
 *12480|
 [fc]
 [vo_hay s="hayami0169"]
-[ns]ありす[nse]
-「……？」[pcms]
+[ns]Arisu[nse]
+"...?"[pcms]
 
 *12481|
 [fc]
-オジサンは口元だけニヤつかせた、[r]
-気味の悪い笑みを浮かべて、セーラー服の女の人を[r]
-睨み付ける。[pcms]
+The man only smirked with his mouth, showing a creepy smile[r]
+as he glared at the sailor suit girl.[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *12482|
 [fc]
-このオジサン、やっぱりあのヘンな人たちみたいに、[r]
-あたし達を……？！[pcms]
+This man, just like those weird people, is he going to...[r]
+us?![pcms]
 
 *12483|
 [fc]
-ヘンな事件に巻き込まれて……。[r]
-ヒロシ達と離ればなれになって……。[r]
-あたしは、このオジサンから……。[pcms]
+Caught up in a strange incident... Separated from Hiroshi[r]
+and the others... I'm going to be taken by this man...[pcms]
 
 *12484|
 [fc]
-あたしは、レイプされちゃうの……？！[r]
-そんなの、絶対ヤだよ！！[pcms]
+Am I going to be raped...?! No way, I absolutely don't want[r]
+that!![pcms]
 
 *12485|
 [fc]
-こんなの、最悪だよ！！[pcms]
+This is the worst!![pcms]
 
 *12486|
 [fc]
-怖さと、心細さで、あたしの目に涙が溜まっていく。[r]
-どうして、こんな事になったの……？！[pcms]
+Filled with fear and helplessness, tears began to well up in[r]
+my eyes. Why did this happen...?![pcms]
 
 *12487|
 [fc]
-ヒロシ……助けて！[pcms]
+Hiroshi... save me![pcms]
 
 *12488|
 [fc]
-[ns]大倉[nse]
-「くっ……！！」[pcms]
+[ns]Ookura[nse]
+"Grrr...!!"[pcms]
 
 *12489|
 [fc]
-聞き覚えのあるその声に、あたしの不安は、[r]
-ほんの少しだけ小さくなった。[pcms]
+Hearing that familiar voice, my anxiety lessened just a[r]
+little bit.[pcms]
 
 *12490|
 [fc]
 [vo_hay s="hayami0170"]
-[ns]ありす[nse]
-「ヒロシ！！」[pcms]
+[ns]Arisu[nse]
+"Hiroshi!!"[pcms]
 
 *12491|
 [fc]
-トラックの下から、セーラー服の人の頭と、[r]
-ヒロシの手がのびてくる。[pcms]
+From under the truck, the head of the sailor suit girl and[r]
+Hiroshi's hand reached out.[pcms]
 
 *12492|
 [fc]
 [vo_hay s="hayami0171"]
-[ns]ありす[nse]
-「助けて！！　助けてぇぇええ！！」[pcms]
+[ns]Alice[nse]
+"Help me!! Help meeeeee!!"[pcms]
 
 [ChrSetEx layer=4 chbase="sugo_n01"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *12493|
 [fc]
-[ns]作業服の男[nse]
-「チッ……！！　[r]
-　オラァ！！　いくぞ！！」[pcms]
+[ns]Work clothes man[nse]
+"Tch...!! Here we go!!"[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *12494|
 [fc]
-オジサンも、ヒロシ達が出てきそうなのに[r]
-気が付いて、トラックのほうに顔を向けたまま、[r]
-後ろ向きに駆けだした。[pcms]
+The man also noticed Hiroshi and the others were about to[r]
+come out and started running backwards towards the truck[r]
+while still facing it.[pcms]
 
 *12495|
 [fc]
 [vo_hay s="hayami0172"]
-[ns]ありす[nse]
-「ヒロシ！！　助けて！！」[pcms]
+[ns]Arisu[nse]
+"Hiroshi!! Help me!!"[pcms]
 
 *12496|
 [fc]
-あたしがいくら叫んでみても、[r]
-ヒロシの手を引っ張る事は出来なかった。[pcms]
+No matter how much I screamed, I couldn't pull on Hiroshi's[r]
+hand.[pcms]
 
 [ChrSetEx layer=4 chbase="sugo_n06"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *12497|
 [fc]
-[ns]作業服の男[nse]
-「ウルセェよ！！　モタモタすんなよッ！」[pcms]
+[ns]Work clothes man[nse]
+"Shut up!! Don't dawdle!"[pcms]
 
 *12498|
 [fc]
 [vo_hay s="hayami0173"]
-[ns]ありす[nse]
-「やだぁ！！　離してぇ！！　離してください！！[r]
-　やめてえっ！！」[pcms]
+[ns]Arisu[nse]
+"No way!! Let go!! Please let me go!! Stop itttt!!"[pcms]
 
 *12499|
 [fc]
-[ns]作業服の男[nse]
-「ウルセェっつってんだろ！！」[pcms]
+[ns]Work clothes man[nse]
+"I said shut up!!"[pcms]
 
 *12500|
 [fc]
 [vo_hay s="hayami0174"]
-[ns]ありす[nse]
-「ヒロシッ！！　いやあぁあぁぁあ！！」[pcms]
+[ns]Alice[nse]
+"Hiroshi!! Noooooo!!"[pcms]
 
 *12501|
 [fc]
-オジサンはあたしを引きずるようにして、[r]
-大きな建物を目指し、駆け出した。[pcms]
+The man dragged me along as he aimed for a large building[r]
+and started running.[pcms]
 
 [ChrSetEx layer=4 chbase="sugo_n03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *12502|
 [fc]
-[ns]作業服の男[nse]
-「やっぱりなァ……！！　これで、アイツらと[r]
-　おさらばだァ！！」[pcms]
+[ns]Work Clothes Man[nse]
+"Just as I thought...!! With this, those brats can say[r]
+goodbye!!"[pcms]
 
 *12503|
 [fc]
 [vo_hay s="hayami0175"]
-[ns]ありす[nse]
-「……？　な、何を言っているの……？」[pcms]
+[ns]Arisu[nse]
+"...? What are you talking about...?"[pcms]
 
 *12504|
 [fc]
-オジサンはあたしの問いかけに答えないまま、[r]
-壁の方を向いて笑う。[pcms]
+The man didn't answer my question and just laughed facing[r]
+the wall.[pcms]
 
 *12505|
 [fc]
-[ns]作業服の男[nse]
-「さぁな……どうなると思う？」[pcms]
+[ns]Work clothes man[nse]
+"Well now... what do you think will happen?"[pcms]
 
 *12506|
 [fc]
-オジサンは気味の悪い笑顔を見せて、[r]
-『非常時用シャッター手動閉鎖装置』[r]
-と書かれた箱を開いて、中の取っ手を操作した。[pcms]
+The man showed a creepy smile as he opened a box labeled[r]
+"Emergency Shutter Manual Closing Device" and operated the[r]
+handle inside.[pcms]
 
 ;//SE：シャッターの降りる音（？）
 
@@ -368,62 +358,60 @@
 
 *12507|
 [fc]
-[ns]作業服の男[nse]
-「ヒャハァ！　これであのオスガキどもはこっちに[r]
-　入れねぇぜ！！　ん……？！」[pcms]
+[ns]Work clothes man[nse]
+"Hyahha! With this, those little brats can't get in here[r]
+anymore!! Huh...?!"[pcms]
 
 [ChrSetEx layer=4 chbase="naga_n03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *12508|
 [fc]
 [vo_nag s="nagasaki0043"]
-[ns]セーラー服の女[nse]
-「その子を返せと言っている！　分からないの？[r]
-　この馬鹿！！」[pcms]
+[ns]Sailor Suit Girl[nse]
+"I'm telling you to give that child back! Don't you[r]
+understand? You idiot!!"[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
 *12509|
 [fc]
-セーラー服の女の人はやっとトラックから抜け出して、[r]
-あたしの方に怒鳴りながら駆け寄ってくる。[pcms]
+The sailor suit girl finally got out of the truck and ran[r]
+towards me, yelling angrily.[pcms]
 
 [ChrSetEx layer=4 chbase="sugo_n03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *12510|
 [fc]
-[ns]作業服の男[nse]
-「へへッ……まー、女だけなら良いか……」[pcms]
+[ns]Work clothes man[nse]
+"Heh... well, if it's just a girl, that's fine..."[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *12511|
 [fc]
-セーラー服の女の人が飛び込んだのとほぼ同時に、[r]
-シャッターは完全に降りきった。[pcms]
+Almost simultaneously as the sailor suit girl jumped in, the[r]
+shutter completely closed.[pcms]
 
 [ChrSetEx layer=3 chbase="sugo_n03"][ChrSetXY layer=3 x=400 y=0]
 [ChrSetEx layer=2 chbase="naga_n01"][ChrSetXY layer=2 x=0 y=0][trans_c cross time=150]
 
 *12512|
 [fc]
-あたしとセーラー服の女の人、[r]
-そして、オジサン。[pcms]
+Me, the sailor suit girl, and the old man.[pcms]
 
 *12513|
 [fc]
-ヒロシ達と離ればなれになっちゃった……。[r]
-どうしよう……。[pcms]
+I've been separated from Hiroshi and the others... What[r]
+should I do...?[pcms]
 
 *12514|
 [fc]
-なんとかして、このオジサンから逃げなきゃ。[r]
-こんな人と一緒にいたら、何をされるか……。[pcms]
+I have to somehow escape from this old man. If I stay with[r]
+someone like him, who knows what he'll do...[pcms]
 
 *12515|
 [fc]
-ヒロシ……。[r]
-あたし、怖いよ……。[pcms]
+Hiroshi... I'm scared...[pcms]
 
 [chara_int_ layer=2][chara_int_ layer=3]
 [ChrSetEx layer=4 chbase="naga_n03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -431,21 +419,18 @@
 *12516|
 [fc]
 [vo_nag s="nagasaki0044"]
-[ns]セーラー服の女[nse]
-「アンタ何考えてるの！　[r]
-　すぐにその子を離しなさい！！」[pcms]
+[ns]Sailor Suit Girl[nse]
+"What are you thinking! Let go of that child right now!!"[pcms]
 
 *12517|
 [fc]
-あたしを助ける為に追いかけて来てくれた[r]
-セーラー服の女の人は、[r]
-あたし達との距離を徐々に詰めてくる。[pcms]
+The sailor suit girl who came to help me was gradually[r]
+closing the distance between us.[pcms]
 
 *12518|
 [fc]
-オジサンは、徐々にあたし達との距離を[r]
-詰めるセーラー服の女の人を無視して、[r]
-辺りを見回して、大声で叫びだした。[pcms]
+The old man ignored the sailor suit girl who was closing in[r]
+on us and started looking around and shouting loudly.[pcms]
 
 ;//★ＢＧ：食品売り場
 ;//＠：東棟・一階
@@ -459,15 +444,14 @@
 
 *12519|
 [fc]
-[ns]作業服の男[nse]
-「おおお！！　すげェ！！　ここの食いモン、[r]
-　全部俺様のモンだぜ？！　ヒャヒャヒャ！！」[pcms]
+[ns]Work Clothes Man[nse]
+"Ohhh!! Awesome!! All the food here is mine now?! Hyahaha!!"[pcms]
 
 *12520|
 [fc]
 [vo_hay s="hayami0176"]
-[ns]ありす[nse]
-「え……？」[pcms]
+[ns]Alice[nse]
+"Eh...?"[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
@@ -476,49 +460,48 @@
 *12521|
 [fc]
 [vo_nag s="nagasaki0045"]
-[ns]セーラー服の女[nse]
-「は……？」[pcms]
+[ns]Sailor Suit Girl[nse]
+"Huh...?"[pcms]
 
 *12522|
 [fc]
-このオジサン……。[r]
-何言ってるの……？[pcms]
+This old man... What is he talking about...?[pcms]
 
 *12523|
 [fc]
-どうして、そんな考えが出来るの……？[r]
-この人ひょっとして、ただのバカなの……？[pcms]
+How can he even think that...? Is this person just an[r]
+idiot...?[pcms]
 
 *12524|
 [fc]
-子供の様にはしゃぐオジサンは、いつしかあたしを[r]
-握る手の力を緩めていた。[pcms]
+The old man, frolicking like a child, had gradually loosened[r]
+his grip on me.[pcms]
 
 *12525|
 [fc]
 [vo_hay s="hayami0177"]
-[ns]ありす[nse]
-「もう……いい加減に離してッ！！」[pcms]
+[ns]Arisu[nse]
+"Enough already... let go!!"[pcms]
 
 [ChrSetEx layer=4 chbase="sugo_n03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *12526|
 [fc]
-手をふりほどいて、オジサンから離れたけど、[r]
-オジサンはそのことすら気にしてないのか、[r]
-食べ物の方をみてニヤニヤしていた。[pcms]
+I shook off his hand and got away from the old man, but he[r]
+didn't seem to care about that and was just grinning at the[r]
+food.[pcms]
 
 *12527|
 [fc]
-[ns]作業服の男[nse]
-「オイオイ……こりゃスゲェぜ……！[r]
-　こんだけありゃ、俺様はいっぺんに金持ちだぁ！？」[pcms]
+[ns]Work Clothes Man[nse]
+"Oi oi... this is amazing...! With all this, I'm gonna be[r]
+rich in no time, right?!"[pcms]
 
 *12528|
 [fc]
 [vo_hay s="hayami0178"]
-[ns]ありす[nse]
-「……」[pcms]
+[ns]Alice[nse]
+"..."[pcms]
 ;//◎ため息
 
 [ChrSetEx layer=4 chbase="naga_n05"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -526,68 +509,66 @@
 *12529|
 [fc]
 [vo_nag s="nagasaki0046"]
-[ns]セーラー服の女[nse]
-「……ちょっと、オッサン……何言ってるの？」[pcms]
+[ns]Sailor Suit Girl[nse]
+"...Hey, old man... what are you talking about?"[pcms]
 
 *12530|
 [fc]
-オジサンの素っ頓狂な言葉に、あたしも、[r]
-セーラー服の女の人も呆れてしまった。[pcms]
+The old man's absurd words left both me and the sailor suit[r]
+girl dumbfounded.[pcms]
 
 *12531|
 [fc]
-このオジサン、一体何がしたいんだろう……。[pcms]
+What on earth does this old man want to do...?[pcms]
 
 [ChrSetEx layer=4 chbase="sugo_n04"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *12532|
 [fc]
-[ns]作業服の男[nse]
-「オッサンだァ！？　俺様ぁ[ruby text="すごう"][ch text="菅生"]ってんだ！[r]
-　オジサンとか言うなッ！」[pcms]
+[ns]Work clothes man[nse]
+"Old man?! My name is Sugou! Don't call me an old man!"[pcms]
 
 [ChrSetEx layer=4 chbase="naga_n05"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *12533|
 [fc]
 [vo_nag s="nagasaki0047"]
-[ns]セーラー服の女[nse]
-「オッサンじゃない……」[pcms]
+[ns]Sailor Suit Girl[nse]
+"Not an old man..."[pcms]
 
 [ChrSetEx layer=4 chbase="sugo_n02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *12534|
 [fc]
-[ns]菅生[nse]
-「ヒャヒャヒャ！！　これを待ってたんだ！　[r]
-　俺様はよ！！　ヒャッハァア！！」[pcms]
+[ns]Sugou[nse]
+"Hyahaha!! This is what I've been waiting for! I'm so[r]
+excited!! Hyahhaa!!"[pcms]
 
 *12535|
 [fc]
-オジサンがはしゃぐのを見て、[r]
-あたしは、さっきまでの張りつめた緊張の糸が[r]
-一気に緩むのを感じた。[pcms]
+Watching the old man frolic, I felt the tension that had[r]
+been stretched tight until now suddenly relax.[pcms]
 
 [ChrSetEx layer=4 chbase="naga_n01"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *12536|
 [fc]
 [vo_nag s="nagasaki0048"]
-[ns]セーラー服の女[nse]
-「……ねえ」[pcms]
+[ns]Sailor Suit Girl[nse]
+"...Hey"[pcms]
 ;//◎ささやくように
 
 *12537|
 [fc]
-はしゃぐオジサンに気を取られたせいで、[r]
-セーラー服の女の人がすぐとなりに来ている事に、[r]
-声を掛けられるまで気が付かなかった。[pcms]
+I hadn't noticed that the sailor suit girl had come right[r]
+next to me because I was distracted by the frolicking old[r]
+man until she spoke to me.[pcms]
 
 *12538|
 [fc]
 [vo_hay s="hayami0179"]
-[ns]ありす[nse]
-「え……？！」[pcms]
+[ns]Arisu[nse]
+"Eh...?!"[pcms]
 ;//◎ささやくように
 
 [ChrSetEx layer=4 chbase="naga_n02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -595,17 +576,15 @@
 *12539|
 [fc]
 [vo_nag s="nagasaki0049"]
-[ns]セーラー服の女[nse]
-「今のうちに、逃げましょう……。[r]
-　あの男が気が付く前に……」[pcms]
+[ns]Sailor Suit Girl[nse]
+"Let's escape now... before that man notices..."[pcms]
 ;//◎ささやくように
 
 *12540|
 [fc]
 [vo_hay s="hayami0180"]
-[ns]ありす[nse]
-「逃げるって言っても……。[r]
-　どうやって、ここから外に出るの？」[pcms]
+[ns]Alice[nse]
+"Even if you say escape... How do we get out of here?"[pcms]
 ;//◎ささやくように
 
 [ChrSetEx layer=4 chbase="naga_n01"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -613,50 +592,50 @@
 *12541|
 [fc]
 [vo_nag s="nagasaki0050"]
-[ns]セーラー服の女[nse]
-「私に付いてきて……。ここは何度も来てるから、[r]
-　任せて」[pcms]
+[ns]Sailor Suit Girl[nse]
+"Follow me... I've been here many times before, leave it to[r]
+me."[pcms]
 ;//◎ささやくように
 
 *12542|
 [fc]
-オジサンが気になって仕方なかったけど、[r]
-あたしの目をまっすぐに見つめて話すその姿には、[r]
-オジサンを忘れさせるだけの説得力があった。[pcms]
+Although I was worried about the old man, there was a[r]
+convincing power in her gaze that made me forget about him[r]
+as she spoke directly to me.[pcms]
 
 *12543|
 [fc]
-この建物の事をあまりよく知らず、それに訳の[r]
-分からない事態に巻き込まれたあたしは、[r]
-今はこの女の人に従うことしか思いつかなかった。[pcms]
+Not knowing much about this building and being caught up in[r]
+an incomprehensible situation, all I could think of was to[r]
+follow this woman.[pcms]
 
 *12544|
 [fc]
 [vo_hay s="hayami0181"]
-[ns]ありす[nse]
-「うん……」[pcms]
+[ns]Arisu[nse]
+"Yeah..."[pcms]
 ;//◎ささやくように
 
 *12545|
 [fc]
-セーラー服の女の人は、あたしの手を握ると、[r]
-オジサンに見付からないようにと、[r]
-体をかがめて建物の奥の方へと歩き出した。[pcms]
+The sailor suit girl took my hand and started walking[r]
+towards the back of the building, bending down so as not to[r]
+be seen by the old man.[pcms]
 
 [ChrSetEx layer=4 chbase="naga_n04"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *12546|
 [fc]
 [vo_nag s="nagasaki0051"]
-[ns]セーラー服の女[nse]
-「このまままっすぐ突き当たりまで行って、[r]
-　そこにある階段で上に登りましょう……」[pcms]
+[ns]Sailor Suit Girl[nse]
+"Keep going straight until you hit a dead end, then let's go[r]
+up using the stairs there..."[pcms]
 ;//◎ささやくように
 
 *12547|
 [fc]
-[ns]菅生[nse]
-「待てやコラァ！！」[pcms]
+[ns]Sugou[nse]
+"Wait up, you brats!!"[pcms]
 
 ;//画面効果：激しく揺れる（？）
 
@@ -665,81 +644,81 @@
 *12548|
 [fc]
 [vo_hay s="hayami0182"]
-[ns]ありす[nse]
-「あっ！！」[pcms]
+[ns]Arisu[nse]
+"Ah!!"[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *12549|
 [fc]
 [vo_nag s="nagasaki0052"]
-[ns]セーラー服の女[nse]
-「きゃぁあっ！」[pcms]
+[ns]Sailor Suit Girl[nse]
+"Kyaaah!"[pcms]
 
 *12550|
 [fc]
-食べ物に気を取られている筈のオジサンは、まるで[r]
-獲物を見つけた腹ぺこの猛獣の様な勢いであたし達に[r]
-駆け寄ると、セーラー服の女の人に組み付いた。[pcms]
+The old man, who should have been distracted by the food,[r]
+charged at us with the ferocity of a hungry beast that had[r]
+found its prey and grappled with the sailor suit girl.[pcms]
 
 *12551|
 [fc]
-オジサンは、今度はあたしじゃなくて、セーラー服の[r]
-女の人に、鋭く光るナイフを突きつけ、あの[r]
-気味の悪い笑みを向けている。[pcms]
+The old man, now not holding me but the sailor suit girl,[r]
+pointed a sharply shining knife at her and directed that[r]
+creepy smile at her.[pcms]
 
 [ChrSetEx layer=4 chbase="sugo_k02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *12552|
 [fc]
-[ns]菅生[nse]
-「どこに行くのかなァ～、お嬢さん達。[r]
-　俺様ァ、寂しがりだから、[r]
-　一人にしないでくれよぉ……ヒャヒャヒャ！！」[pcms]
+[ns]Sugou[nse]
+"Where do you think you're going, ladies? I get lonely[r]
+easily, so don't leave me alone... Hyahaha!!"[pcms]
 
 [ChrSetEx layer=4 chbase="naga_n01"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *12553|
 [fc]
 [vo_nag s="nagasaki0053"]
-[ns]セーラー服の女[nse]
-「くっ……」[pcms]
+[ns]Sailor Suit Girl[nse]
+"Grr..."[pcms]
 
 *12554|
 [fc]
 [vo_hay s="hayami0183"]
-[ns]ありす[nse]
-「なっ……何言ってるの！？」[pcms]
+[ns]Arisu[nse]
+"What... what are you saying?!"[pcms]
 
 [ChrSetEx layer=4 chbase="sugo_k02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *12555|
 [fc]
-[ns]菅生[nse]
-「そんなに怖い顔すんなよ……。[r]
-　俺ら三人しかいねェんだ……仲良くしようぜェ？」[pcms]
+[ns]Sugou[nse]
+"Don't make such a scared face... It's just us three here...[r]
+let's get along, shall we?"[pcms]
 
 [ChrSetEx layer=4 chbase="naga_n03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *12556|
 [fc]
 [vo_nag s="nagasaki0054"]
-[ns]セーラー服の女[nse]
-「そんな物で脅して、何が仲良くしよう、よ？！」[pcms]
+[ns]Sailor Suit Girl[nse]
+"Threatening with such a thing, what do you mean 'let's get[r]
+along'?"[pcms]
 
 *12557|
 [fc]
 [vo_hay s="hayami0184"]
-[ns]ありす[nse]
-「仲良くって……オジサン、説得力ないよ！[r]
-　そんなの突きつけて……！」[pcms]
+[ns]Alice[nse]
+"Get along... Old man, you're not convincing! Pointing that[r]
+at us...!"[pcms]
 
 [ChrSetEx layer=4 chbase="sugo_k02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *12558|
 [fc]
-[ns]菅生[nse]
-「おーおー……怖い怖い。そう言わず、なァ……！」[pcms]
+[ns]Sugou[nse]
+"O-o-oh... Scary, scary. Don't say that, come on...!"[pcms]
 
 ;//SE：ナイフを振る
 
@@ -752,216 +731,207 @@
 *12559|
 [fc]
 [vo_nag s="nagasaki0055"]
-[ns]セーラー服の女[nse]
-「ひっ……」[pcms]
+[ns]Sailor Suit Girl[nse]
+"Hii...!"[pcms]
 
 *12560|
 [fc]
-オジサンの持っていたナイフは、[r]
-キレイな曲線を描いて、セーラー服の女の人の[r]
-顔スレスレの空気を引き裂いた。[pcms]
+The knife the old man was holding drew a beautiful curve,[r]
+tearing through the air just inches from the sailor suit[r]
+girl's face.[pcms]
 
 [ChrSetEx layer=4 chbase="sugo_k02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *12561|
 [fc]
-[ns]菅生[nse]
-「そーそー……そういう風に大人しくしてた方が[r]
-　イイぜぇ。可愛い顔がもったいねェしな……！」[pcms]
+[ns]Sugou[nse]
+"You-you... You'd better behave yourself. It'd be a shame to[r]
+ruin that cute face...!"[pcms]
 
 [ChrSetEx layer=4 chbase="naga_n09"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *12562|
 [fc]
 [vo_nag s="nagasaki0056"]
-[ns]セーラー服の女[nse]
-「…………」[pcms]
+[ns]Sailor Suit Girl[nse]
+"..."[pcms]
 
 *12563|
 [fc]
-それまで、オジサンを睨んでいたセーラー服の[r]
-女の人の体は、小刻みに震えていた。[pcms]
+Until then, the sailor suit girl who had been glaring at the[r]
+old man was trembling slightly.[pcms]
 
 *12564|
 [fc]
-あたしもそうだけど、この女の人も、[r]
-オジサンが怖いんだろう。[pcms]
+I was scared of the old man too, and I bet this woman was as[r]
+well.[pcms]
 
 *12565|
 [fc]
-怖いのは、あたしだけじゃない。[r]
-それがあたしの恐怖感を少しだけ、抑えてくれた。[pcms]
+It wasn't just me who was scared. That realization helped to[r]
+suppress my fear a little.[pcms]
 
 *12566|
 [fc]
-少しだけ冷静になってきたあたしは、[r]
-このオジサンが何故こんな事をするのか、[r]
-聞いてみたくなっていた。[pcms]
+Having calmed down a bit, I found myself wanting to ask the[r]
+old man why he was doing this.[pcms]
 
 *12567|
 [fc]
 [vo_hay s="hayami0185"]
-[ns]ありす[nse]
-「どうして……」[pcms]
+[ns]Alice[nse]
+"Why..."[pcms]
 ;//◎震える声で
 
 [ChrSetEx layer=4 chbase="sugo_k04"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *12568|
 [fc]
-[ns]菅生[nse]
-「……？」[pcms]
+[ns]Sugou[nse]
+"...?"[pcms]
 
 *12569|
 [fc]
 [vo_hay s="hayami0186"]
-[ns]ありす[nse]
-「どうして、こんな事を……」[pcms]
+[ns]Alice[nse]
+"Why are you doing this..."[pcms]
 ;//◎震える声で
 
 *12570|
 [fc]
-あたしはオジサンに色々聞きたい事があった。[r]
-でも、オジサンと目があうと、また怖くなって、[r]
-口を動かす事が出来なくなってしまった。[pcms]
+I had many questions for the old man, but when our eyes met,[r]
+I became scared again and couldn't move my mouth.[pcms]
 
 [ChrSetEx layer=4 chbase="sugo_k02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *12571|
 [fc]
-[ns]菅生[nse]
-「どうして……？　どうしてだとォ？[r]
-　……分かんねぇかなあ？！」[pcms]
+[ns]Sugou[nse]
+"Why...? What do you mean 'why'? ...Don't you get it?!"[pcms]
 
 *12572|
 [fc]
-[ns]菅生[nse]
-「俺様はなぁ……こういう状況になるのを、[r]
-　ずっと待ってたんだよ！！　こんな風に、[r]
-　世の中がメッチャクチャになるのを、な！！」[pcms]
+[ns]Sugou[nse]
+"I've been waiting for a situation like this... I've been[r]
+waiting for the world to turn into complete chaos like[r]
+this!!"[pcms]
 
 *12573|
 [fc]
-[ns]菅生[nse]
-「でッけぇ揺れ……地震が起きた上に、[r]
-　そこいら中のヤツら、みんなイカレてるしよ！！[r]
-　そんな中で、俺様はマトモなんだぜ？！」[pcms]
+[ns]Sugou[nse]
+"After that huge shake... an earthquake, and everyone around[r]
+here has gone mad!! In the midst of that, I'm the sane one,[r]
+see?!"[pcms]
 
 [ChrSetEx layer=4 chbase="sugo_k01"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *12574|
 [fc]
-[ns]菅生[nse]
-「つっても、まあ……よけいなヤツらが増えちまった[r]
-　けどなぁ……」[pcms]
+[ns]Sugou[nse]
+"Though, well... there are a few too many unnecessary people[r]
+around now..."[pcms]
 
 *12575|
 [fc]
-オジサンは、捲し立てる様に話し出した。[r]
-でも、言っている事のイミが、あたしにはまだ全然、[r]
-分からなかった。[pcms]
+The old man started talking rapidly. But I still couldn't[r]
+understand the meaning of what he was saying.[pcms]
 
 *12576|
 [fc]
 [vo_hay s="hayami0187"]
-[ns]ありす[nse]
-「何……？　何言っているの……？」[pcms]
+[ns]Arisu[nse]
+"What...? What are you saying...?"[pcms]
 
 [ChrSetEx layer=4 chbase="sugo_k01"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *12577|
 [fc]
-[ns]菅生[nse]
-「オメェ……そのオッパイに、脳みそに行く栄養、[r]
-　全部吸われちまってんじゃねぇか？　[r]
-　俺様が言いたいのはよぉ……」[pcms]
+[ns]Sugou[nse]
+"You... Has all the nutrition that should be going to your[r]
+brain been sucked up by those tits? What I'm saying is..."[pcms]
 
 [ChrSetEx layer=4 chbase="sugo_k02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *12578|
 [fc]
-[ns]菅生[nse]
-「これから、オメェらみたいにまだ無事なヤツが[r]
-　ここに来るかもしれねぇ。そしたらここにある[r]
-　食い物、そいつらに売るんだよ！！」[pcms]
+[ns]Sugou[nse]
+"There might be more people like you who are still unharmed[r]
+coming here. Then I'll sell them the food here!!"[pcms]
 
 [ChrSetEx layer=4 chbase="sugo_n02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *12579|
 [fc]
-[ns]菅生[nse]
-「そうすりゃ、俺様は大金持ち……ってな！！[r]
-　ヒャヒャヒャ！！」[pcms]
+[ns]Sugou[nse]
+"Then I'll be rich... that's right!! Hyahaha!!"[pcms]
 
 *12580|
 [fc]
 [vo_hay s="hayami0188"]
-[ns]ありす[nse]
-「……ハァ！？」[pcms]
+[ns]Alice[nse]
+"...Hah!?"[pcms]
 
 *12581|
 [fc]
-このオジサン……。[r]
-やっぱり……。[r]
-バカだ……！[pcms]
+This old man... As expected... He's an idiot...![pcms]
 
 *12582|
 [fc]
-それまで震えてたセーラー服の女の人も、[r]
-同じに感じていたみたいで、急に勢いよく[r]
-オジサンを罵倒し始めた。[pcms]
+The sailor suit girl who had been trembling until now seemed[r]
+to feel the same way and suddenly started berating the old[r]
+man with vigor.[pcms]
 
 [ChrSetEx layer=4 chbase="naga_n03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *12583|
 [fc]
 [vo_nag s="nagasaki0057"]
-[ns]セーラー服の女[nse]
-「アンタ……バカじゃないの？！」[pcms]
+[ns]Sailor Suit Girl[nse]
+"Are you... an idiot?!"[pcms]
 
 [ChrSetEx layer=4 chbase="sugo_k01"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *12584|
 [fc]
-[ns]菅生[nse]
-「ンだと？」[pcms]
+[ns]Sugou[nse]
+"What did you say?"[pcms]
 
 [ChrSetEx layer=4 chbase="naga_n03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *12585|
 [fc]
 [vo_nag s="nagasaki0058"]
-[ns]セーラー服の女[nse]
-「アンタ一人に、みんなが従うと思ってるの？」[pcms]
+[ns]Sailor Suit Girl[nse]
+"Do you think everyone will obey just you alone?"[pcms]
 
 *12586|
 [fc]
 [vo_nag s="nagasaki0059"]
-[ns]セーラー服の女[nse]
-「今は……そんなモノちらつかされてるから、[r]
-　私達は従うしか無い……でも！！」[pcms]
+[ns]Sailor Suit Girl[nse]
+"Right now... we have no choice but to obey because you're[r]
+threatening us with that thing... but!!"[pcms]
 
 *12587|
 [fc]
 [vo_nag s="nagasaki0060"]
-[ns]セーラー服の女[nse]
-「人数が増えたら、アンタ……、[r]
-　ソレ一本でどうやってみんなを従わせるの？」[pcms]
+[ns]Sailor Suit Girl[nse]
+"When there are more people, how will you make them all obey[r]
+with just that one thing?"[pcms]
 
 *12588|
 [fc]
 [vo_nag s="nagasaki0061"]
-[ns]セーラー服の女[nse]
-「第一、警察がここに来たらアンタ……、[r]
-　すぐに捕まるわよ！」[pcms]
+[ns]Sailor Suit Girl[nse]
+"First of all, if the police come here, you'll be caught[r]
+immediately!"[pcms]
 
 [ChrSetEx layer=4 chbase="naga_n02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *12589|
 [fc]
 [vo_nag s="nagasaki0062"]
-[ns]セーラー服の女[nse]
-「アンタのその浅はかな考え……きゃっ！！」[pcms]
+[ns]Sailor Suit Girl[nse]
+"Your shallow thinking iskyaa!!"[pcms]
 
 [ChrSetEx layer=4 chbase="naga_n17"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
@@ -975,240 +945,232 @@
 
 *12590|
 [fc]
-[ns]菅生[nse]
-「うるせェッ！！」[pcms]
+[ns]Sugou[nse]
+"Shut up!!"[pcms]
 
 *12591|
 [fc]
-オジサンの手に持ったナイフが、[r]
-セーラー服の女の人のほっぺたのすぐそばを音を[r]
-立てて飛んでいって、あたし達の後ろの壁に当たった。[pcms]
+The knife in the old man's hand flew past the sailor suit[r]
+girl's cheek, making a sound as it went by and hitting the[r]
+wall behind us.[pcms]
 
 *12592|
 [fc]
-あたしとセーラー服の女の人は、オジサンの突然の[r]
-行動に驚いてしまって、[r]
-身動きがとれなくなっていた。[pcms]
+Both the sailor suit girl and I were so surprised by the old[r]
+man's sudden action that we couldn't move.[pcms]
 
 [ChrSetEx layer=4 chbase="sugo_n03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *12593|
 [fc]
-[ns]菅生[nse]
-「警察だァ？　[r]
-　お前ら、見てねぇのかよ、外のあのザマ……。[r]
-　んなモン来ねーよ。ヒャヒャ！」[pcms]
+[ns]Sugou[nse]
+"The police? Haven't you seen the state of things[r]
+outside...? They won't come. Hyaha!"[pcms]
 
 *12594|
 [fc]
-[ns]菅生[nse]
-「俺ァ見たんだよ……。[r]
-　あのイカれた奴らを止めようとしたサツ、ボコボコ[r]
-　にされてたぜ」[pcms]
+[ns]Sugou[nse]
+"I saw it... The cops trying to stop those crazies were[r]
+beaten to a pulp."[pcms]
 
 *12595|
 [fc]
-[ns]菅生[nse]
-「それによ……、まともなヤツでも、ここに逃げて[r]
-　くるまでにアイツらに襲われたりしてよ、[r]
-　疲れてるに決まってんだ」[pcms]
+[ns]Sugou[nse]
+"Besides, even the sane ones who flee here will have been[r]
+attacked by them on the way and will surely be exhausted."[pcms]
 
 [ChrSetEx layer=4 chbase="sugo_n02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *12596|
 [fc]
-[ns]菅生[nse]
-「そんなヤツらなんぞ、俺様一人で[r]
-　どうにでも出来るぜ？　ヒャァ！！」[pcms]
+[ns]Sugou[nse]
+"Such people are easy for someone like me to handle all by[r]
+myself. Hyaa!!"[pcms]
 
 *12597|
 [fc]
 [vo_hay s="hayami0189"]
-[ns]ありす[nse]
-「くっ……」[pcms]
+[ns]Arisu[nse]
+"Grr..."[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *12598|
 [fc]
-突然ヘンな事に巻き込まれ、ヘンなオジサンに[r]
-捕まったあたしは、頭の中がこんがらがっていて、[r]
-まともな判断が出来なくなっていた。[pcms]
+Caught up in a weird situation and captured by a weird old[r]
+man, my mind was in a tangle and I couldn't think straight.[pcms]
 
 *12599|
 [fc]
-このオジサンの言う通りかもしれない。[pcms]
+Maybe what this old man was saying was true.[pcms]
 
 *12600|
 [fc]
-色々な事を諦めそうになっていたあたしに気がついた[r]
-のか、オジサンはますます気味の悪いニヤケた顔を[r]
-して、言葉を続ける。[pcms]
+Noticing that I was about to give up on various things, the[r]
+old man continued speaking with an even creepier grin on his[r]
+face.[pcms]
 
 [ChrSetEx layer=4 chbase="sugo_n03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *12601|
 [fc]
-[ns]菅生[nse]
-「第一よぉ、アレだけの揺れが起きてるのに、[r]
-　警察も何も来てねぇって事は……ヒャハッ！」[pcms]
+[ns]Sugou[nse]
+"First of all, considering that such shaking is happening[r]
+and not even the police are coming... Hyahah!"[pcms]
 
 *12602|
 [fc]
-[ns]菅生[nse]
-「ここら辺一体がメッチャクチャになってる……、[r]
-　そういう事だよな？[r]
-　そしたら、ココに……、一番で来た俺がよ！」[pcms]
+[ns]Sugou[nse]
+"It means this whole area is in complete chaos... That's[r]
+what it means, right? Then here... I, who arrived first,[r]
+have the right to monopolize this place!"[pcms]
 
 [ChrSetEx layer=4 chbase="sugo_n02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *12603|
 [fc]
-[ns]菅生[nse]
-「ココを独占する権利があるって事だろ？」[pcms]
+[ns]Sugou[nse]
+"That means I have the right to take over here, doesn't it?"[pcms]
 
 *12604|
 [fc]
 [vo_hay s="hayami0190"]
-[ns]ありす[nse]
-「訳わかんないよ……」[pcms]
+[ns]Alice[nse]
+"This makes no sense..."[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *12605|
 [fc]
-オジサンの言っている事は、明らかに滅茶苦茶だった。[r]
-でも今のあたしには、反論する余裕なんてなかった。[pcms]
+What the old man was saying was clearly nonsensical. But at[r]
+that moment, I didn't have the luxury to argue back.[pcms]
 
 *12606|
 [fc]
-自分の言葉に興奮したのか、オジサンはあたし達に[r]
-背中を向けたまま、独り言を続けてる。[pcms]
+Excited by his own words, the old man continued muttering to[r]
+himself with his back turned to us.[pcms]
 
 [ChrSetEx layer=4 chbase="naga_n01"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *12607|
 [fc]
 [vo_nag s="nagasaki0063"]
-[ns]セーラー服の女[nse]
-「くっ……」[pcms]
+[ns]Sailor Suit Girl[nse]
+"Grr..."[pcms]
 
 *12608|
 [fc]
 [vo_hay s="hayami0191"]
-[ns]ありす[nse]
-「あっ！！」[pcms]
+[ns]Alice[nse]
+"Ah!!"[pcms]
 
 *12609|
 [fc]
-セーラー服の人が猛烈な勢いで後ろに走り出して、[r]
-床に落ちていたナイフを拾い上げた。[pcms]
+The girl in the sailor suit started running fiercely to the[r]
+back and picked up a knife that had fallen on the floor.[pcms]
 
 [ChrSetEx layer=4 chbase="naga_n02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *12610|
 [fc]
 [vo_nag s="nagasaki0064"]
-[ns]セーラー服の女[nse]
-「ナイフ……投げたの忘れてたの？[r]
-　やっぱり馬鹿ね、オッサン！！」[pcms]
+[ns]Sailor Suit Girl[nse]
+"You forgot you threw the knife? You really are an idiot,[r]
+old man!!"[pcms]
 
 *12611|
 [fc]
-セーラー服の人が、[r]
-あたしにウィンクしながら微笑みかける。[pcms]
+The girl in the sailor suit gave me a wink and smiled.[pcms]
 
 *12612|
 [fc]
-その嬉しそうな笑顔に頼もしさを感じたあたしは、[r]
-さっきまでの不安が少し消えていくのを感じた。[pcms]
+Feeling reassured by her happy smile, I felt some of my[r]
+anxiety fade away.[pcms]
 
 *12613|
 [fc]
-これであたし達、このヘンなオジサンから逃げられる！[r]
-早くヒロシ達のと合流しなきゃ……！[pcms]
+Now we can escape from this weird old man! We have to[r]
+regroup with Hiroshi and the others...![pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *12614|
 [fc]
 [vo_hay s="hayami0192"]
-[ns]ありす[nse]
-「逃げましょ……きゃぁあっ！」[pcms]
+[ns]Alice[nse]
+"Let's run... kyaaah!"[pcms]
 ;//＠画面揺らし
 
 [quake_bg 元time=1000 xy m]
 
 *12615|
 [fc]
-セーラー服の人に近づこうとした所を、[r]
-またしてもオジサンに捕まってしまった。[pcms]
+Just as I tried to approach the girl in the sailor suit, I[r]
+was caught by the old man again.[pcms]
 
 *12616|
 [fc]
-首筋には、またしても冷たく尖った感覚が……。[r]
-ナイフ……、アレだけじゃなかったんだ……。[pcms]
+A cold, sharp sensation was on my neck again... Not just the[r]
+knife...[pcms]
 
 [ChrSetEx layer=4 chbase="sugo_k02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *12617|
 [fc]
-[ns]菅生[nse]
-「残念だったなぁ！　一本しか無いナイフ、投げると[r]
-　思ったんか？　俺ァそこまで馬鹿じゃねぇ！！」[pcms]
+[ns]Sugou[nse]
+"Too bad for you! Did you think I only had one knife to[r]
+throw? I'm not that stupid!!"[pcms]
 
 *12618|
 [fc]
-せっかく逃げられると思ったのに……。[r]
-逃げられなくとも、オジサンを逆に脅す位は出来ると[r]
-思ったのに！[pcms]
+Just when I thought we could escape... Even if we couldn't[r]
+escape, I thought we could at least threaten the old man![pcms]
 
 [ChrSetEx layer=4 chbase="sugo_k01"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *12619|
 [fc]
-[ns]菅生[nse]
-「そのナイフ……こっちに返しな！[r]
-　返さねぇと、ブスッといくぜ？　アァ！？」[pcms]
+[ns]Sugou[nse]
+"Give that knife back to me! If you don't, I'll stab you,[r]
+got it? Huh?!"[pcms]
 
 *12620|
 [fc]
 [vo_hay s="hayami0193"]
-[ns]ありす[nse]
-「うぅ……」[pcms]
+[ns]Arisu[nse]
+"Ugh..."[pcms]
 
 *12621|
 [fc]
-セーラー服の人は、それまでの勢いを無くして、[r]
-床に目を落としていた。[pcms]
+The girl in the sailor suit lost her momentum and looked[r]
+down at the floor.[pcms]
 
 [ChrSetEx layer=4 chbase="naga_n01"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *12622|
 [fc]
 [vo_nag s="nagasaki0065"]
-[ns]セーラー服の女[nse]
-「……分かった。ナイフは返す。[r]
-　でも、その子を離せ……！！」[pcms]
+[ns]Sailor Suit Girl[nse]
+"...Alright. I'll give back the knife. But let that girl[r]
+go...!!"[pcms]
 
 *12623|
 [fc]
-そう言いながらゆっくりと近寄り、[r]
-オジサンにナイフを手渡したセーラー服の人は、[r]
-ものすごく残念そうな顔をしていた。[pcms]
+As she said this and slowly approached, the girl in the[r]
+sailor suit handed over the knife to the old man with a look[r]
+of immense disappointment on her face.[pcms]
 
 [ChrSetEx layer=4 chbase="sugo_k02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *12624|
 [fc]
-[ns]作業服の男[nse]
-「物わかりがいいな……。[r]
-　俺から逃げられると思うなよ……」[pcms]
+[ns]Work clothes man[nse]
+"You're sensible... Don't think you can escape from me..."[pcms]
 
 *12625|
 [fc]
-オジサンがあたしから少し離れたのとほとんど同時に、[r]
-それは起こった。[pcms]
+Almost at the same time as the old man moved away from me,[r]
+it happened.[pcms]
 
 [ChrSetEx layer=4 chbase="sugo_n07"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
@@ -1223,16 +1185,16 @@
 *12626|
 [fc]
 [vo_hay s="hayami0194"]
-[ns]ありす[nse]
-「！！」[pcms]
+[ns]Arisu[nse]
+"!!"[pcms]
 
 [ChrSetEx layer=4 chbase="naga_n17"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *12627|
 [fc]
 [vo_nag s="nagasaki0066"]
-[ns]セーラー服の女[nse]
-「なっ！　何？」[pcms]
+[ns]Sailor Suit Girl[nse]
+"What! What is it?"[pcms]
 
 ;//SE：ガシャガシャ
 
@@ -1246,32 +1208,31 @@
 
 *12628|
 [fc]
-[ns]作業服の男[nse]
-「うぉっ！？　何だァ？」[pcms]
+[ns]Work clothes man[nse]
+"Whoa!? What's that?"[pcms]
 
 *12629|
 [fc]
-シャッターで閉じられた入り口の向こうからは、[r]
-街の中で響いていた、あの気味の悪いうなり声が[r]
-聞こえてきた。[pcms]
+From beyond the shuttered entrance, we could hear that eerie[r]
+growling sound that had been echoing through the city.[pcms]
 
 *12630|
 [fc]
-力いっぱい叩いているのか、[r]
-シャッターは大きな音を立てながら、[r]
-激しく揺れていた。[pcms]
+It seemed like someone was banging on it with all their[r]
+might; the shutter was making a loud noise as it shook[r]
+violently.[pcms]
 
 [ChrSetEx layer=4 chbase="sugo_k03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *12631|
 [fc]
-[ns]作業服の男[nse]
-「クソッ！！　うるせぇんだよ！！　何だよ！」[pcms]
+[ns]Work clothes man[nse]
+"Damn it!! Shut up!! What is it?!"[pcms]
 
 *12632|
 [fc]
-オジサンが怒鳴りながらシャッターに近寄ると、[r]
-それを蹴り始めた。[pcms]
+The old man approached the shutter yelling and started[r]
+kicking it.[pcms]
 
 ;//SE：ガシャガシャ
 
@@ -1283,257 +1244,248 @@
 
 *12633|
 [fc]
-[ns]作業服の男[nse]
-「うるせぇ！　黙れっつってんだよ！[r]
-　コラァ！！」[pcms]
+[ns]Work clothes man[nse]
+"Shut up! I said be quiet! Hey!!"[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *12634|
 [fc]
-やっぱりこの人、どうかしてる……。[r]
-このオジサンも、あのヘンな人達の仲間なの？[pcms]
+This person is definitely crazy... Is this old man also one[r]
+of those weird people's friends?[pcms]
 
 *12635|
 [fc]
-そうでなくとも、このオジサンもだんだん、あの[r]
-ヘンな人達みたいになっちゃうのかな……。[pcms]
+Even if he's not, is this old man gradually becoming like[r]
+those weird people...?[pcms]
 
 *12636|
 [fc]
-突然襲ってきて……。[r]
-あたし達に……エッチな事したり……。[pcms]
+Suddenly attacking... Doing lewd things to us...[pcms]
 
 *12637|
 [fc]
-それに……。[r]
-オジサンだけじゃなくて、セーラー服の人も、[r]
-あんな風になっちゃうんじゃ……。[pcms]
+And not just the old man... The girl in the sailor suit[r]
+might become like that too...[pcms]
 
 *12638|
 [fc]
-もしかして、あたしもヘンになっちゃうのかな。[r]
-どうしよう……。[pcms]
+Maybe I'll start acting weird too. What should I do...[pcms]
 
 *12639|
 [fc]
-なんでこんな事になっちゃったんだろう。[r]
-ヒロシ……。[pcms]
+How did things end up like this? Hiroshi...[pcms]
 
 *12640|
 [fc]
-自分の周りに、真っ暗な闇が広がって、その中に[r]
-毛虫がたくさん這いずっている。[pcms]
+I felt like I was surrounded by darkness, with many[r]
+caterpillars crawling around in it.[pcms]
 
 *12641|
 [fc]
-その中を灯りも無しで歩かされる様な、[r]
-得体の知れない恐怖に、あたしは身震いした。[pcms]
+Walking through it without any light felt like an[r]
+indescribable fear, and I shivered.[pcms]
 
 [ChrSetEx layer=4 chbase="naga_n01"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *12642|
 [fc]
 [vo_nag s="nagasaki0067"]
-[ns]セーラー服の女[nse]
-「……ねぇ、大丈夫？」[pcms]
+[ns]Sailor Suit Girl[nse]
+"...Hey, are you okay?"[pcms]
 ;//◎ささやくように
 
 *12643|
 [fc]
 [vo_hay s="hayami0195"]
-[ns]ありす[nse]
-「え？」[pcms]
+[ns]Alice[nse]
+"Eh?"[pcms]
 ;//◎ささやくように
 
 *12644|
 [fc]
 [vo_nag s="nagasaki0068"]
-[ns]セーラー服の女[nse]
-「怖いの？」[pcms]
+[ns]Sailor Suit Girl[nse]
+"Are you scared?"[pcms]
 ;//◎ささやくように
 
 *12645|
 [fc]
 [vo_hay s="hayami0196"]
-[ns]ありす[nse]
-「……」[pcms]
+[ns]Alice[nse]
+"..."[pcms]
 
 [ChrSetEx layer=4 chbase="naga_n05"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *12646|
 [fc]
 [vo_nag s="nagasaki0069"]
-[ns]セーラー服の女[nse]
-「……無理も無いわね……こんな状況じゃ……。[r]
-　でも、安心して。アタシがついてるから……」[pcms]
+[ns]Sailor Suit Girl[nse]
+"...It's no wonder... given the situation... But don't[r]
+worry. I'm with you..."[pcms]
 
 *12647|
 [fc]
 [vo_hay s="hayami0197"]
-[ns]ありす[nse]
-「……怖いよ……。知らない人ばっかりだし……」[pcms]
+[ns]Arisu[nse]
+"...I'm scared... It's all strangers around..."[pcms]
 
 *12648|
 [fc]
-今のあたしは、独りぼっち。[r]
-励ましてくれているとはいえ、この人の事は、[r]
-何も分からない。[pcms]
+Right now, I'm all alone. Even though she's encouraging me,[r]
+I don't know anything about this person.[pcms]
 
 *12649|
 [fc]
-ヒロシがすぐそばにいてくれたら、[r]
-きっと、こんな思いはしていない。[pcms]
+If Hiroshi were right beside me, I'm sure I wouldn't be[r]
+feeling like this.[pcms]
 
 *12650|
 [fc]
-ヒロシ……。[pcms]
+Hiroshi...[pcms]
 
 [ChrSetEx layer=4 chbase="naga_n04"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *12651|
 [fc]
 [vo_nag s="nagasaki0070"]
-[ns]セーラー服の女[nse]
-「アタシが、貴女を守ってあげる。だから安心して」[pcms]
+[ns]Sailor Suit Girl[nse]
+"I will protect you. So don't worry."[pcms]
 
 *12652|
 [fc]
-まだ名前を知らないセーラー服の人は、[r]
-あたしをまっすぐに見つめて、そう言った。[pcms]
+The girl in the sailor suit, whose name I still didn't know,[r]
+looked straight at me and said that.[pcms]
 
 *12653|
 [fc]
 [vo_hay s="hayami0198"]
-[ns]ありす[nse]
-「……」[pcms]
+[ns]Arisu[nse]
+"..."[pcms]
 
 *12654|
 [fc]
-『あなたを守ってあげる』[pcms]
+"I will protect you."[pcms]
 
 *12655|
 [fc]
-確かに、その言葉はあたしを勇気づけた。[pcms]
+Indeed, those words gave me courage.[pcms]
 
 *12656|
 [fc]
-でも、本当は……。[pcms]
+But in reality...[pcms]
 
 *12657|
 [fc]
 [vo_nag s="nagasaki0071"]
-[ns]セーラー服の女[nse]
-「ねぇ、あなた、名前は？」[pcms]
+[ns]Sailor Suit Girl[nse]
+"Hey, what's your name?"[pcms]
 ;//◎ささやくように
 
 *12658|
 [fc]
-この人もあたしと同じ事を考えてたんだ……。[pcms]
+"This person must be thinking the same thing as me..."[pcms]
 
 *12659|
 [fc]
-オジサンがシャッターの方に気をとられているうちに、[r]
-色々話しておいた方がいいかもしれない。[pcms]
+"While the old man is distracted by the shutter, it might be[r]
+a good idea to talk about various things."[pcms]
 
 *12660|
 [fc]
-名前だけじゃなくて、この建物の事とか聞きたいし。[pcms]
+"Not just names, but I want to ask about this building too."[pcms]
 
 *12661|
 [fc]
 [vo_hay s="hayami0199"]
-[ns]ありす[nse]
-「あたしは、速水。速水ありす」[pcms]
+[ns]Alice[nse]
+"I am Hayami. Hayami Arisu."[pcms]
 
 [ChrSetEx layer=4 chbase="naga_n02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *12662|
 [fc]
 [vo_nag s="nagasaki0072"]
-[ns]セーラー服の女[nse]
-「ありす……。いい名前ね。[r]
-　アタシは長崎千尋……っ！？」[pcms]
+[ns]Sailor Suit Girl[nse]
+"Arisu... That's a nice name. I'm Nagasaki Chihiro... huh!?"[pcms]
 
 *12663|
 [fc]
 [vo_hay s="hayami0200"]
-[ns]ありす[nse]
-「ん……？　どうしたの？」[pcms]
+[ns]Alice[nse]
+"Hm...? What's wrong?"[pcms]
 
 *12664|
 [fc]
-髪の毛を掻き上げながら、長崎さんは何かに驚き、[r]
-一歩後ずさった。[pcms]
+While scratching her head, Ms. Nagasaki looked surprised and[r]
+took a step back.[pcms]
 
 
 [ChrSetEx layer=4 chbase="etc02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *12665|
 [fc]
-振り返って見ると、様子のおかしな人が、[r]
-奇妙な歩き方で、こちらに向かってくるのが見えた。[pcms]
+When I turned around, I could see a strangely behaving[r]
+person walking oddly towards us.[pcms]
 
 *12666|
 [fc]
 [vo_hay s="hayami0201"]
-[ns]ありす[nse]
-「なっ……中にもいたの！？」[pcms]
+[ns]Arisu[nse]
+"What... There's someone inside too!?"[pcms]
 
 *12667|
 [fc]
-それまで静かだったこの建物の中に、街で聞いた[r]
-あの奇妙な声が響き渡る。[pcms]
+The building, which had been quiet until now, was filled[r]
+with that strange voice I had heard in the town.[pcms]
 
 *12668|
 [fc]
-[ns]奇妙な男[nse]
-「ぅぉぉぉおおぉっっ……ぐっぁぁあああ……」[pcms]
+[ns]Strange Man[nse]
+"Uoooohhh... guuuaaaa..."[pcms]
 
 *12669|
 [fc]
-言葉にならない、気味の悪いうなり声を上げて、[r]
-男はどんどんこちらに近づいてくる。[pcms]
+With an eerie groan that wasn't quite words, the man kept[r]
+getting closer.[pcms]
 
 *12670|
 [fc]
-赤く濁った目は、あたし達の方をにらみつけている。[pcms]
+His murky red eyes were glaring at us.[pcms]
 
 *12671|
 [fc]
-[ns]奇妙な男[nse]
-「おんな……おんなが……いる……。[r]
-　うぅぅぅ……うぁぁあああ……」[pcms]
+[ns]Strange Man[nse]
+"Women... there are... women... uuuu... uaaaaa..."[pcms]
 
 *12672|
 [fc]
-気味の悪い声を上げて近づいてくる男は、[r]
-目だけではなくて、口の周りも赤に染まっていた。[pcms]
+The man approaching with a creepy voice had not only his[r]
+eyes but also the area around his mouth stained red.[pcms]
 
 *12673|
 [fc]
-もしかして、アレ……。[r]
-血……？[pcms]
+Could it be... Blood...?[pcms]
 
 *12674|
 [fc]
-ホラー映画やドラマで見たことのある様な色ではなく、[r]
-少し黒ずんだ赤い色をした口をした男。[pcms]
+A man with a mouth of a slightly blackened red color, unlike[r]
+anything I've seen in horror movies or dramas.[pcms]
 
 *12675|
 [fc]
-その男の口が、大きく開いた。[pcms]
+That man's mouth opened wide.[pcms]
 
 *12676|
 [fc]
-[ns]奇妙な男[nse]
-「お゛ん゛な゛ぁぁぁあ゛あ゛あ゛！！」[pcms]
+[ns]Strange Man[nse]
+"Woooomenaaaaahhhhh!!!"[pcms]
 
 *12677|
 [fc]
 [vo_hay s="hayami0202"]
-[ns]ありす[nse]
-「ひっ……！　いやぁああああ！！！！！」[pcms]
+[ns]Arisu[nse]
+"Eek...! Noooooo!!!!"[pcms]
 
 ;システムボタン＆ウィンドウ消去
 [sysbt_meswin clear]
@@ -1546,5 +1498,5 @@
 
 [jump storage="westtown_main10050.ks" target=*westtown_main10050_TOP]
 
-;//－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+;//
 

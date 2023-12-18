@@ -18,74 +18,74 @@
 
 *12445|
 [fc]
-[ns]大倉[nse]
-「クッ……！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Guh...!"[pcms]
 
 *12446|
 [fc]
-行かなきゃ速水は助けらんねー……。[r]
-けど、この数を相手にして、無事でいられんのか……？[pcms]
+"I have to go, or I won't be able to save Hayami... But can[r]
+I really get through this number of them and stay safe...?"[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
 *12447|
 [fc]
 [vo_may s="maya0137"]
-[ns]摩耶[nse]
-「きゃぁあっ！！」[pcms]
+[ns]Maya[nse]
+"Kyaaah!!"[pcms]
 
 *12448|
 [fc]
-決心がつかないで、その場に突っ立ったまま悩んでい[r]
-る俺の後ろで、マヤちゃんの悲鳴があがった。[pcms]
+Unable to make up my mind, I stood there frozen as Maya-[r]
+chan's scream echoed from behind me.[pcms]
 
 ;//★ＢＧ：ペットショップA
 [bg storage="bg22a"][trans_c cross time=1000]
 
 *12449|
 [fc]
-[ns]大倉[nse]
-「マヤちゃん！？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Maya-chan!?"[pcms]
 
 *12450|
 [fc]
-振り返ると、マヤちゃんは１０人近いイカレ野郎に囲[r]
-まれて、その輪から逃げ出せずにいた。[pcms]
+When I turned around, I saw Maya-chan surrounded by nearly[r]
+ten crazed bastards, unable to escape the circle.[pcms]
 
 *12451|
 [fc]
-ハスキーが彼女を助けようと、イカレ野郎の１人に飛[r]
-びかかったが、噛みつかれてもまるで気にすることな[r]
-く、マヤちゃんに近づいていく。[pcms]
+Husky tried to help her, leaping at one of the crazed guys,[r]
+but they didn't seem to care even when bitten, continuing to[r]
+close in on Maya-chan.[pcms]
 
 *12452|
 [fc]
-[ns]大倉[nse]
-「テメーらッ！！　近づくんじゃ……！？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"You bastards!! Don't come any closer...!?"[pcms]
 
 *12453|
 [fc]
-マヤちゃんを助けるため、走りだそうとした俺の体は、[r]
-自分の意志に反して、前に出ようとしなかった。[pcms]
+To save Maya-chan, I tried to start running, but my body[r]
+wouldn't move forward against my will.[pcms]
 
 *12454|
 [fc]
-[ns]大倉[nse]
-「なっ……！？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"What...!?"[pcms]
 
 [black_toplayer][trans_c tb time=300][hide_chara_int]
 
 
 *12455|
 [fc]
-自分の体が幾つもの手に掴まれているのを感じた瞬間、[r]
-後ろから伸びてきた手で、俺の視界は覆われ、真っ暗[r]
-になった。[pcms]
+The moment I realized my body was being grabbed by several[r]
+hands, hands reached from behind and covered my field of[r]
+vision, plunging me into darkness.[pcms]
 
 *12456|
 [fc]
-[ns]大倉[nse]
-「うわぁぁああっ！！！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Uwaaaahhhhh!!!!!"[pcms]
 
 [fadeoutbgm time=502]
 [stop_se0]
@@ -102,4 +102,4 @@
 ;//ブロック３００６０：『Dead Man Walking』へ
 [jump storage="westtown_bad_30050.ks" target=*westtown_bad_30050_TOP]
 
-;//－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+;//

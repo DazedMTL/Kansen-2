@@ -49,47 +49,49 @@
 *6740|
 [fc]
 [vo_hay s="hayami0061"]
-[ns]ありす[nse]
-「ねぇ、タカく～ん、それちょ～だ～い♪」[pcms]
+[ns]Arisu[nse]
+"Hey, Tak-kun, give me that, please♪"[pcms]
 
 *6741|
 [fc]
-速水は昨日の帰りに買ったおやつを、俺が思った通り[r]
-家で食ってしまっていたようで、ビニール袋に入って[r]
-いた量の３分の１ぐらいしか持ってきていなかった。[pcms]
+It seemed that Hayami had eaten at home the snacks she[r]
+bought on her way back yesterday, just as I had thought, and[r]
+she only brought about one-third of what was in the plastic[r]
+bag.[pcms]
 
 [ChrSetEx layer=4 chbase="hayami_t04"][ChrSetXY layer=2 x=0 y=0][trans_c cross time=150]
 
 *6742|
 [fc]
 [vo_hay s="hayami0062"]
-[ns]ありす[nse]
-「いいな～、それ～。あたしも食べたーい♪」[pcms]
+[ns]Arisu[nse]
+"That looks good~ I want to eat some too♪"[pcms]
 
 *6743|
 [fc]
-速水は全ての席へ出向いて、猫なで声でみんなの持っ[r]
-ているおやつをねだって回った。[pcms]
+Hayami went around to all the seats, begging for snacks from[r]
+everyone with her cutesy voice.[pcms]
 
 [ChrSetEx layer=4 chbase="hayami_t09"][ChrSetXY layer=4 x=400 y=0][trans_c cross time=150]
 
 *6744|
 [fc]
 [vo_hay s="hayami0063"]
-[ns]ありす[nse]
-「あ、ミク～、それおいしそ～ぅ♪」[pcms]
+[ns]Arisu[nse]
+"Ah, Miku~, that looks delicious♪"[pcms]
 
 *6745|
 [fc]
-授業中でも先生の目を盗んで口にするぐらい、速水が[r]
-菓子好きだということは、クラスの全員が知っている。[pcms]
+Even during class, Hayami would sneak a bite when the[r]
+teacher wasn't looking, and everyone in the class knew about[r]
+her love for sweets.[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *6746|
 [fc]
-ただの追いはぎでしかない速水に、みんなは苦笑しな[r]
-がらお菓子をあげていた。[pcms]
+To Hayami, who was nothing more than a sweet-toothed bandit,[r]
+everyone gave their snacks with a wry smile.[pcms]
 
 [ChrSetEx layer=2 chbase="koba_n01"][ChrSetXY layer=2 x=0 y=0]
 [ChrSetEx layer=3 chbase="hayami_t07"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
@@ -97,16 +99,16 @@
 *6747|
 [fc]
 [vo_hay s="hayami0064"]
-[ns]ありす[nse]
-「わーい、おやつ貰ってきた～♪」[pcms]
+[ns]Alice[nse]
+"Yay, I got some snacks♪"[pcms]
 
 [ChrSetEx layer=2 chbase="koba_n10"][ChrSetXY layer=2 x=0 y=0][trans_c cross time=150]
 
 *6748|
 [fc]
 [vo_kob s="koba0051"]
-[ns]小林[nse]
-「貰ってきたっていうの？　あれ……」[pcms]
+[ns]Kobayashi[nse]
+"You say 'got', but... huh..."[pcms]
 
 [chara_int][trans_c cross time=150]
 
@@ -114,37 +116,37 @@
 
 *6749|
 [fc]
-両手に抱えた山ほどある菓子を、俺の隣で呆れるユウ[r]
-に差し出しながら、速水は俺の膝の上にドスッと腰を[r]
-下ろした。[pcms]
+While offering a mountain of snacks she held in both hands[r]
+to Yuu, who was sitting next to me in disbelief, Hayami[r]
+plopped down onto my lap with a thud.[pcms]
 
 *6750|
 [fc]
-[ns]大倉[nse]
-「オイ、おめぇーよ！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Hey, you...!"[pcms]
 
 [ChrSetEx layer=4 chbase="hayami_t03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *6751|
 [fc]
 [vo_hay s="hayami0065"]
-[ns]ありす[nse]
-「ムネが大っきいからじゃない？　体が重いん[r]
-　じゃないもん」[pcms]
+[ns]Alice[nse]
+"Isn't it because you have big breasts? It's not because[r]
+you're heavy."[pcms]
 
 *6752|
 [fc]
-[ns]大倉[nse]
-「菓子の食い過ぎで太っただけだろうが。現実から逃[r]
-　げるんじゃねーよ」[pcms]
+[ns]Ookura Hiroshi[nse]
+"It's just because you've gotten fat from eating too many[r]
+sweets. Don't escape from reality."[pcms]
 
 [ChrSetEx layer=4 chbase="hayami_t08"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *6753|
 [fc]
 [vo_hay s="hayami0066"]
-[ns]ありす[nse]
-「お黙りっ！」[pcms]
+[ns]Arisu[nse]
+"Shut up!"[pcms]
 
 [白フラ]
 
@@ -152,14 +154,14 @@
 
 *6754|
 [fc]
-[ns]大倉[nse]
-「もがっ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Mogah!!"[pcms]
 
 *6755|
 [fc]
-一枚まるまる、速水にムリヤリ突っ込まれたビスケッ[r]
-トを、噛み砕こうと苦労しながら口の中で動かしてい[r]
-ると、ふわっと甘い匂いが漂ってきた。[pcms]
+As I struggled to chew and move around the biscuit that[r]
+Hayami had forcefully stuffed into my mouth whole, a sweet[r]
+scent wafted over.[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 [ChrSetEx layer=2 chbase="koba_n12"][ChrSetXY layer=2 x=0 y=0]
@@ -168,113 +170,112 @@
 *6756|
 [fc]
 [vo_hay s="hayami0067"]
-[ns]ありす[nse]
-「なんか今のトラック運転してた人、こっち見てたよ[r]
-　ね。あたし目が合っちゃった」[pcms]
+[ns]Arisu[nse]
+"You know, the person driving that truck just now was[r]
+looking over here. We made eye contact."[pcms]
 
 *6757|
 [fc]
 [vo_kob s="koba0052"]
-[ns]小林[nse]
-「だからって手を振るのやめてね。子供じゃないんだ[r]
-　から」[pcms]
+[ns]Kobayashi[nse]
+"That doesn't mean you should wave at them. You're not a[r]
+child."[pcms]
 
 *6758|
 [fc]
-[ns]大倉[nse]
-「……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"..."[pcms]
 
 *6759|
 [fc]
-これ……速水か……？[pcms]
+Is this... Hayami...?[pcms]
 
 *6760|
 [fc]
-鼻をひくつかせていると、幸せそうな顔をして菓子を[r]
-頬張っている速水の背中から、香水とかシャンプーの[r]
-ものじゃない、甘い匂いが漂ってきていた。[pcms]
+As my nose twitched, a sweet scent that wasn't from perfume[r]
+or shampoo drifted from the back of Hayami, who was happily[r]
+stuffing her face with sweets.[pcms]
 
 *6761|
 [fc]
-食い過ぎて、菓子の成分が中から出てきてんじゃねー[r]
-のか？　コイツ……。[pcms]
+Has she eaten so much that the scent of sweets is coming out[r]
+from inside her? This girl...[pcms]
 
 [ChrSetEx layer=3 chbase="hayami_t02"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
 
 *6762|
 [fc]
 [vo_hay s="hayami0068"]
-[ns]ありす[nse]
-「……ちょっとヒロシ、勝手にヒトの体クンクンしな[r]
-　いでよ！」[pcms]
+[ns]Arisu[nse]
+"...Hey Hiroshi, don't sniff someone's body without[r]
+permission!"[pcms]
 
 *6763|
 [fc]
-[ns]大倉[nse]
-「オマエ、体から菓子の匂いがすんぞ？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"You smell like sweets, you know?"[pcms]
 
 [ChrSetEx layer=2 chbase="koba_n08"][ChrSetXY layer=2 x=0 y=0][trans_c cross time=150]
 
 *6764|
 [fc]
 [vo_kob s="koba0053"]
-[ns]小林[nse]
-「どれ？　……本当だ、ありす甘い匂いがするー！[r]
-　お菓子の食べ過ぎだよ、アハハ！」[pcms]
+[ns]Kobayashi[nse]
+"Which one? ...It's true, Arisu smells sweet! You've eaten[r]
+too many sweets, Ahaha!"[pcms]
 
 *6765|
 [fc]
-ユウにまで言われて、速水は赤くなりながら自分の腕[r]
-を鼻に近づけた。[pcms]
+Even Yuu said so, and Hayami turned red while bringing her[r]
+arm close to her nose.[pcms]
 
 [ChrSetEx layer=3 chbase="hayami_t04"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
 
 *6766|
 [fc]
 [vo_hay s="hayami0069"]
-[ns]ありす[nse]
-「そうかなぁ……でもカレーの匂いがするよりマシで[r]
-　しょ？」[pcms]
+[ns]Arisu[nse]
+"Really? But it's better than smelling like curry, right?"[pcms]
 
 *6767|
 [fc]
-[ns]大倉[nse]
-「いいから降りろっつの、オマエは！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Just get off me already, will you!"[pcms]
 
 [ChrSetEx layer=2 chbase="koba_n02"][ChrSetXY layer=2 x=0 y=0][trans_c cross time=150]
 
 *6768|
 [fc]
 [vo_kob s="koba0054"]
-[ns]小林[nse]
-「じゃあ今度はボク～」[pcms]
+[ns]Kobayashi[nse]
+"Then it's my turn~"[pcms]
 
 [chara_int_ layer=2][chara_int_ layer=3]
 [ChrSetEx layer=4 chbase="koba_n01"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *6769|
 [fc]
-速水が口を尖らせながら横の補助席へ移ると、入れ替[r]
-わりにユウが俺の膝の上に乗ってきた。[pcms]
+As Hayami pouted and moved to the side seat, Yuu took her[r]
+place on my lap.[pcms]
 
 *6770|
 [fc]
-うわ、速水よりちょっと軽くねぇ……？[r]
-匂いは……速水と違って、なんか爽やかなカンジ……。[r]
-香水か？　コレ……。[pcms]
+Wow, Yuu is a bit lighter than Hayami...? The scent is...[r]
+different from Hayami's, somehow refreshing... Is it[r]
+perfume? This...[pcms]
 
 [ChrSetEx layer=4 chbase="koba_n09"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *6771|
 [fc]
 [vo_kob s="koba0055"]
-[ns]小林[nse]
-「ボクまで嗅がないでよ……」[pcms]
+[ns]Kobayashi[nse]
+"Don't sniff me either..."[pcms]
 
 *6772|
 [fc]
-後ろで鼻をひくつかせている俺に、ユウは恥ずかしそ[r]
-うな顔を向けた。[pcms]
+Yuu turned a bashful face towards me as I sniffed behind[r]
+her.[pcms]
 
 [chara_int_ layer=4]
 [ChrSetEx layer=2 chbase="koba_n09"][ChrSetXY layer=2 x=0 y=0]
@@ -283,124 +284,123 @@
 *6773|
 [fc]
 [vo_hay s="hayami0070"]
-[ns]ありす[nse]
-「……ヒロシって、もしかして匂いフェチ？」[pcms]
+[ns]Arisu[nse]
+"...Hiroshi, are you perhaps into scents?"[pcms]
 
 *6774|
 [fc]
-[ns]大倉[nse]
-「いや、そういうワケじゃ……んむ……」[pcms]
+[ns]Ookura[nse]
+"No, it's not like that... mmm..."[pcms]
 
 *6775|
 [fc]
-喋っている最中の俺に菓子を食べさせると、ヒロは今[r]
-度は、俺に向かって口を開けた。[pcms]
+While I was talking, Hiro fed me some sweets and then opened[r]
+his mouth towards me.[pcms]
 
 [ChrSetEx layer=2 chbase="koba_n02"][ChrSetXY layer=2 x=0 y=0][trans_c cross time=150]
 
 *6776|
 [fc]
 [vo_kob s="koba0056"]
-[ns]小林[nse]
-「あーん♪」[pcms]
+[ns]Kobayashi[nse]
+"Ahh♪"[pcms]
 
 *6777|
 [fc]
-[ns]大倉[nse]
-「……ホレ」[pcms]
+[ns]Ookura[nse]
+"...Here"[pcms]
 
 [ChrSetEx layer=2 chbase="koba_n01"][ChrSetXY layer=2 x=0 y=0][trans_c cross time=150]
 
 *6778|
 [fc]
 [vo_kob s="koba0057"]
-[ns]小林[nse]
-「あー……んむっ♪」[pcms]
+[ns]Kobayashi[nse]
+"Ah... mmm♪"[pcms]
 
 [chara_int_ layer=2][chara_int_ layer=3][trans_c cross time=150]
 
 *6779|
 [fc]
-妙にはしゃいでんなぁ……。[r]
-ユウの方がよっぽど子供じゃねーかよ……。[pcms]
+She's unusually lively... Yuu is acting more like a child[r]
+than anyone...[pcms]
 
 *6780|
 [fc]
-速水の膝の上に拡げられた菓子を、鳥のヒナのように[r]
-口を開けて待っているユウに食べさせていると、周り[r]
-にいた女子が面白がって参加しだした。[pcms]
+As I fed Yuu the snacks spread out on Hayami's lap like a[r]
+baby bird waiting with its mouth open, the girls around us[r]
+started to join in for fun.[pcms]
 
 [ChrSetEx layer=4 chbase="koba_n01"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *6781|
 [fc]
 [vo_mob s="fuyu0000"]
-[ns]冬美[nse]
-「小林クン、なんかカワイイ～♪　はい、あーん」[pcms]
+[ns]Fuyumi[nse]
+"Kobayashi-kun is so cute~ Here, ah-"[pcms]
 
 [ChrSetEx layer=4 chbase="koba_n02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *6782|
 [fc]
 [vo_mob s="sayuri0000"]
-[ns]さゆり[nse]
-「これあげるー♪　あーんして、小林君」[pcms]
+[ns]Sayuri[nse]
+"I'll give you this~ Say 'ah', Kobayashi-kun"[pcms]
 
 [ChrSetEx layer=4 chbase="koba_n03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *6783|
 [fc]
 [vo_mob s="miyuki0000"]
-[ns]美幸[nse]
-「ハイ、これもこれもー♪」[pcms]
+[ns]Miyuki[nse]
+"Here, this and this too~♪"[pcms]
 
 [ChrSetEx layer=4 chbase="koba_n11"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *6784|
 [fc]
-そのうち男子まで一緒になってやり始め、菓子やらフ[r]
-ルーツやら、いろんなモノを詰め込まれたユウは、苦[r]
-しくなってきたのか俺の膝の上でジタバタし始めた。[pcms]
+Eventually even the boys joined in, and Yuu, who was stuffed[r]
+with various things like sweets and fruits, started[r]
+squirming on my lap as if it became too much for her.[pcms]
 
 [ChrSetEx layer=4 chbase="koba_n06"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *6785|
 [fc]
 [vo_kob s="koba0058"]
-[ns]小林[nse]
-「ん゛～～～っ！！」[pcms]
+[ns]Kobayashi[nse]
+"Nnn~~~!!"[pcms]
 
 *6786|
 [fc]
-[ns]大倉[nse]
-「コラ暴れ……こぼれてるこぼれてる！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Hey stop squirming... it's spilling everywhere!"[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *6787|
 [fc]
-パニくるユウの姿に笑いが起こる中、速水だけは笑わ[r]
-ず、ジトッとした目で俺を睨んでいた。[pcms]
+Amidst the laughter at Yuu's panicking figure, only Hayami[r]
+wasn't laughing and was glaring at me with a sullen look.[pcms]
 
 [ChrSetEx layer=4 chbase="hayami_t05"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *6788|
 [fc]
 [vo_hay s="hayami0071"]
-[ns]ありす[nse]
-「てゆーかさー、なんで裕樹には降りろって言わない[r]
-　の？」[pcms]
+[ns]Arisu[nse]
+"By the way, why don't you tell Yuuki to get off?"[pcms]
 
 *6789|
 [fc]
-[ns]大倉[nse]
-「そりゃまぁ、オマエと違って軽いしな、ユウは。細[r]
-　いし。色白いし……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Well, unlike you, Yuu is light. She's slender. And fair-[r]
+skinned..."[pcms]
 
 *6790|
 [fc]
-そこまで言ったところで、速水は突然、俺の上のユウ[r]
-の、そのまた上へと自分の体を乗せた。[pcms]
+Just as I said that, Hayami suddenly climbed on top of Yuu,[r]
+who was on top of me.[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 [stop_se0]
@@ -412,14 +412,14 @@
 
 *6791|
 [fc]
-[ns]大倉[nse]
-「ぐわっ！！　オイ、なにして……痛ぇっ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Guwah!! Hey, what are you doing... it hurts!!"[pcms]
 
 *6792|
 [fc]
 [vo_hay s="hayami0072"]
-[ns]ありす[nse]
-「このっ！　このっ！！」[pcms]
+[ns]Alice[nse]
+"You! You!!"[pcms]
 
 [se0 storage="SE23"]
 [白フラ]
@@ -438,39 +438,40 @@
 
 *6793|
 [fc]
-速水が体を押しつけて俺を潰そうとするのを見て、面[r]
-白がった周りのヤツらが、次々と俺らの上に乗っかり[r]
-始めた。[pcms]
+Seeing Hayami press her body against me in an attempt to[r]
+crush me, the others around us started to climb on top of us[r]
+one after another, finding it amusing.[pcms]
 
 *6794|
 [fc]
-[ns]大倉[nse]
-「なにしてんだテメーら、降りろオォ！！！！　俺を[r]
-　殺す気……うがあああぁぁぁッ！！！！！！」[pcms]
+[ns]Ookura[nse]
+"What the hell are you guys doing, get off me!! Are you[r]
+trying to kill me... ughaaaahhhhh!!!"[pcms]
 
 *6795|
 [fc]
 [vo_kob s="koba0059"]
-[ns]小林[nse]
-「ん゛ん゛～～～～っ！！！！」[pcms]
+[ns]Kobayashi[nse]
+"Nnn~~~!!!"[pcms]
 
 *6796|
 [fc]
 [vo_hay s="hayami0073"]
-[ns]ありす[nse]
-「ちょ、ちょっと、みんな乗りすぎ！！　あたしまで[r]
-　死んじゃうよぅ！！」[pcms]
+[ns]Alice[nse]
+"Hey, hey, everyone's piling on too much!! I'm going to die[r]
+too!!"[pcms]
 
 *6797|
 [fc]
-[ns]大倉[nse]
-「あ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Ah..."[pcms]
 
 *6798|
 [fc]
-縦も横もデカイ和田が一番上に乗ろうとしているのが[r]
-見えた時、積み重なったヒトの向こうに、羽の生えた[r]
-子供が何人か降りてくるのを、俺は見た気がした。[pcms]
+When I saw Wada, who was big both vertically and[r]
+horizontally, trying to climb on top of the pile, I thought[r]
+I saw a few children with wings descending from beyond the[r]
+stacked people.[pcms]
 
 [sysbt_meswin clear]
 
@@ -482,4 +483,4 @@
 
 [jump storage="prologue01110.ks" target=*prologue01110_TOP]
 
-;//－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+;//

@@ -19,8 +19,9 @@
 
 *6979|
 [fc]
-余裕をもってショッピングモールを出たおかげで、集[r]
-合場所へ戻ってきたのは、俺ら３人が一番早かった。[pcms]
+Thanks to leaving the shopping mall with time to spare, we[r]
+were the first of the three of us to get back to the meeting[r]
+place.[pcms]
 
 ;//イベントＣＧ：ＥＶ００２
 ;//[evcg storage="NEV002"][trans_c cross time=301]
@@ -33,41 +34,40 @@
 *6980|
 [fc]
 [vo_hay s="hayami0102"]
-[ns]ありす[nse]
-「ヨユーあったから、商店街にあったお店で、ずんだ[r]
-　モチ買ってくれば良かったな～」[pcms]
+[ns]Arisu[nse]
+"Since we had extra time, I wish we had bought some zunda[r]
+mochi from the shop in the shopping district."[pcms]
 
 [ChrSetEx layer=2 chbase="koba_n07"][ChrSetXY layer=2 x=0 y=0][trans_c cross time=150]
 
 *6981|
 [fc]
 [vo_kob s="koba0086"]
-[ns]小林[nse]
-「あれ？　ありすが言ってた店じゃないでしょ？　あ[r]
-　そこ」[pcms]
+[ns]Kobayashi[nse]
+"Huh? Isn't that the shop you were talking about, Arisu?[r]
+Over there."[pcms]
 
 [ChrSetEx layer=3 chbase="hayami_t04"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
 
 *6982|
 [fc]
 [vo_hay s="hayami0103"]
-[ns]ありす[nse]
-「そうなんだけど、食べ比べてみたくない？　有名な[r]
-　ところのやつと、そうじゃないところのやつ」[pcms]
+[ns]Arisu[nse]
+"That's right, but don't you want to compare? The ones from[r]
+famous places and those from not-so-famous places."[pcms]
 
 [ChrSetEx layer=2 chbase="koba_n10"][ChrSetXY layer=2 x=0 y=0][trans_c cross time=150]
 
 *6983|
 [fc]
-[ns]大倉[nse]
-「やめてくれ。聞いてるこっちが気持ちワルくなって[r]
-　くる……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Please stop. Just listening to this is making me feel[r]
+sick..."[pcms]
 
 *6984|
 [fc]
-構わず続けられる速水の甘いモノ談義を、俺はやり過[r]
-ごそうと目を閉じて、まるで関係ないことを頭に思い[r]
-浮かべた。[pcms]
+Ignoring Hayami's sweet talk, I closed my eyes and tried to[r]
+think of something completely unrelated.[pcms]
 
 ;//BKACKOUT
 ;消し無し[chara_int]
@@ -75,30 +75,29 @@
 
 *6985|
 [fc]
-お嬢様のあの子は、今どうしてるかな……。[r]
-やっぱりお嬢様学校に行ってんのかな……。[r]
-車で送り迎えされてるぐらいだもんなー……。[pcms]
+I wonder how that young lady is doing now... Is she still[r]
+attending that prestigious school...? She's even chauffeured[r]
+by car...[pcms]
 
 *6986|
 [fc]
-お嬢様学校に行ってるような子は、修業旅行はどこに[r]
-行くんだろう……。[pcms]
+Where would a girl who goes to such a school go on a[r]
+training trip...?[pcms]
 
 *6987|
 [fc]
-やっぱり海外かな……。[r]
-ま、メイド喫茶じゃないのは間違いねーな……。[pcms]
+It must be overseas... Well, it's definitely not a maid[r]
+cafe...[pcms]
 
 *6988|
 [fc]
-メイド喫茶といえば、あの２人のメイドさん、カワイ[r]
-かったなー……。[pcms]
+Speaking of maid cafes, those two maids were really cute...[pcms]
 
 *6989|
 [fc]
-メイドさんの顔と同時に、速水がケーキをパクついて[r]
-いるのを思い出したところで、周りがザワザワしてい[r]
-ることに気がつき、俺はつぶっていた目を開けた。[pcms]
+As I remembered the maids' faces and Hayami munching on[r]
+cake, I noticed the surroundings getting noisy and opened my[r]
+eyes.[pcms]
 
 ;//イベントＣＧ：ＥＶ００２
 ;//[evcg storage="NEV002"][trans_c cross time=301]
@@ -110,23 +109,23 @@
 *6990|
 [fc]
 [vo_hay s="hayami0104"]
-[ns]ありす[nse]
-「あ、起きた起きた。ヒロシおはよ～」[pcms]
+[ns]Arisu[nse]
+"Ah, he's awake. Good morning, Hiroshi~"[pcms]
 
 *6991|
 [fc]
-聞こえてきたザワザワは、戻ってきていたクラスのヤ[r]
-ツらのせいだった。[pcms]
+The buzzing I heard was because of the classmates who had[r]
+returned.[pcms]
 
 *6992|
 [fc]
-俺は目を瞑ったまま、いつの間にか眠ってしまってい[r]
-たらしい。[pcms]
+It seems I had fallen asleep without realizing it while my[r]
+eyes were closed.[pcms]
 
 *6993|
 [fc]
-[ns]大倉[nse]
-「どんぐらい寝てた……？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"How long was I asleep...?"[pcms]
 
 [ChrSetEx layer=2 chbase="koba_n02"][ChrSetXY layer=2 x=0 y=0][trans_c cross time=150]
 
@@ -134,56 +133,56 @@
 *6994|
 [fc]
 [vo_kob s="koba0087"]
-[ns]小林[nse]
-「はい」[pcms]
+[ns]Kobayashi[nse]
+"Yes."[pcms]
 
 [chara_int_ layer=2][chara_int_ layer=3][trans_c cross time=150]
 
 *6995|
 [fc]
-ユウがケータイを取り出して、俺に画面を向ける。[r]
-表示されている時計は『１８：１５』となっていた。[pcms]
+Yuuki took out her cellphone and showed me the screen. The[r]
+clock displayed "18:15."[pcms]
 
 *6996|
 [fc]
-だけど、窓の外の風景は眠る前と変わっていない。[r]
-先生達が集まって、深刻な顔をして話し合っているの[r]
-が見える。[pcms]
+But the view outside the window hadn't changed since before[r]
+I fell asleep. I could see the teachers gathered together,[r]
+talking with serious expressions.[pcms]
 
 *6997|
 [fc]
-出発は確か１８時だったはずだ……。[r]
-誰か戻ってきてないのか……？[pcms]
+We were supposed to leave at 18:00... Is someone not back[r]
+yet...?[pcms]
 
 *6998|
 [fc]
-[ns]大倉[nse]
-「なぁ、ココ出るのって１８時じゃなかったか？　な[r]
-　んで出発しねーの？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Hey, weren't we supposed to leave at 18:00? Why haven't we[r]
+left yet?"[pcms]
 
 [ChrSetEx layer=4 chbase="koba_n01"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *6999|
 [fc]
 [vo_kob s="koba0088"]
-[ns]小林[nse]
-「わかんない。ちょっと出発時間を延ばします、って[r]
-　言われてそれっきり」[pcms]
+[ns]Kobayashi[nse]
+"I don't know. They just said they're delaying the departure[r]
+time and that was it."[pcms]
 
 *7000|
 [fc]
-[ns]大倉[nse]
-「ふーん……なんだろう……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Hmm... I wonder what it is..."[pcms]
 
 *7001|
 [fc]
-バスの外では相変わらず、先生達が深刻な顔で何かを[r]
-話し合っている。[pcms]
+Outside the bus, the teachers were still having a serious[r]
+discussion about something.[pcms]
 
 *7002|
 [fc]
-俺ら生徒には言えない理由……。[r]
-誰かが犯罪に巻き込まれた、とか……？[pcms]
+It must be a reason they can't tell us students... Maybe[r]
+someone got involved in a crime...?[pcms]
 
 [chara_int_ layer=4]
 [ChrSetEx layer=2 chbase="koba_n01"][ChrSetXY layer=2 x=0 y=0]
@@ -192,53 +191,56 @@
 *7003|
 [fc]
 [vo_hay s="hayami0105"]
-[ns]ありす[nse]
-「ヒロシもトランプやらない？　負けた人が、みんな[r]
-　に１本ずつジュースおごりで」[pcms]
+[ns]Arisu[nse]
+"Hiroshi, won't you play cards too? The loser has to buy[r]
+juice for everyone, one bottle each."[pcms]
 
 *7004|
 [fc]
-呼ばれて窓から顔を離すと、速水がトランプを何枚か[r]
-差し出していた。[pcms]
+When called, I turned away from the window and saw Hayami[r]
+holding out several playing cards.[pcms]
 
 *7005|
 [fc]
-出発延期で突然できたヒマを、速水とユウは周りのヤ[r]
-ツらと一緒にトランプで潰していたようだった。[pcms]
+It seemed that Hayami and Yuuki were killing the sudden free[r]
+time with cards along with the others around them due to the[r]
+delayed departure.[pcms]
 
 [ChrSetEx layer=3 chbase="hayami_t03"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
 
 *7006|
 [fc]
-[ns]大倉[nse]
-「１本なら、３リットルのヤツでもいいよな？」[pcms]
+[ns]Ookura[nse]
+"If it's just one bottle, even a 3-liter one would be fine,[r]
+right?"[pcms]
 
 [ChrSetEx layer=2 chbase="koba_n08"][ChrSetXY layer=2 x=0 y=0][trans_c cross time=150]
 
 *7007|
 [fc]
 [vo_kob s="koba0089"]
-[ns]小林[nse]
-「言っておくけど、困るのはヒロだよ？」[pcms]
+[ns]Kobayashi[nse]
+"Just so you know, it'll be trouble for Hiro."[pcms]
 
 *7008|
 [fc]
-[ns]大倉[nse]
-「ヘッ！　俺にジャンケン負けたヤツがなにを……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Heh! What can someone who lost to me in rock-paper-scissors[r]
+say..."[pcms]
 
 *7009|
 [fc]
-[ns]富久山[nse]
-「おい大変だぞ！！　これ聞け！！」[pcms]
+[ns]Fukuyama[nse]
+"Hey, this is serious!! Listen to this!!"[pcms]
 
 [ChrSetEx layer=2 chbase="koba_n07"][ChrSetXY layer=2 x=0 y=0]
 [ChrSetEx layer=3 chbase="hayami_t05"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
 
 *7010|
 [fc]
-後ろの方に座っていた[ruby text="ふくやま"][ch text="富久山"]が、突然、デカイ声を出[r]
-して立ち上がり、手に持っていた小型ラジオの音量を[r]
-大きくした。[pcms]
+Fukuyama, who was sitting in the back, suddenly stood up[r]
+with a loud voice and turned up the volume of the small[r]
+radio he was holding.[pcms]
 
 ;//♪ＢＧＭ　停止
 ;BGM即時停止
@@ -253,8 +255,8 @@
 
 *7011|
 [fc]
-[ns]大倉[nse]
-「え……？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Eh...?"[pcms]
 
 ;//♪：stop
 ;//[fadeoutbgm time=1000]
@@ -278,19 +280,20 @@
 *7012|
 [fc]
 [vo_hay s="hayami0106"]
-[ns]ありす[nse]
-「きゃぁぁぁぁぁぁあああああああっ！！！！！！！」[pcms]
+[ns]Arisu[nse]
+"Kyaaaahhhhhhhhhhhhhhhhhhh!!!"[pcms]
 
 *7013|
 [fc]
-突然の、何かが爆発したかのような轟音と、経験した[r]
-ことのないような激しい地面の揺れ。[pcms]
+Suddenly, there was a thunderous noise as if something had[r]
+exploded, and an intense shaking of the ground like nothing[r]
+I had ever experienced before.[pcms]
 
 *7014|
 [fc]
 [vo_kob s="koba0090"]
-[ns]小林[nse]
-「うわあああああああああっ！！！！！！！」[pcms]
+[ns]Kobayashi[nse]
+"Uwaaaaaaahhhhhhhhhhhhhhhh!!!"[pcms]
 
 [quake_bg 元time=1000 xy m]
 ;mm 逆移植だとフラグいれてやってるから同時にはできないわ
@@ -304,8 +307,8 @@
 
 *7015|
 [fc]
-天井と壁と床の位置が、めまぐるしく入れ替わるバス[r]
-の車内。[pcms]
+The positions of the ceiling, walls, and floor rapidly[r]
+switched inside the bus.[pcms]
 
 ;//BLACKOUT
 ;消し無し[chara_int]
@@ -313,20 +316,20 @@
 
 *7016|
 [fc]
-[ns]大倉[nse]
-「うぁっ！！　ぐあぁっ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Ugh!! Guahh!!"[pcms]
 
 *7017|
 [fc]
-何が起こったのか理解できるはずもなく、強制的にバ[r]
-スの中を飛び回らされ、体のあちこちをどこかへぶつ[r]
-けながら、俺は全ての感覚を失った。[pcms]
+Without understanding what was happening, I was forcibly[r]
+tossed around inside the bus, hitting various parts of my[r]
+body against something, and then I lost all sensation.[pcms]
 
 [sysbt_meswin clear]
 
 [jump storage="prologue01900.ks" target=*prologue01900_TOP]
 
-;//;//－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+;//;//
 ;//■ブロック０１８００
 ;//欠番
-;//;//－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+;//;//

@@ -21,81 +21,79 @@
 
 *5370|
 [fc]
-[ns]大倉[nse]
-「ダメだ！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"No way!"[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_n07"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *5371|
 [fc]
 [vo_may s="maya0419"]
-[ns]摩耶[nse]
-「……」[pcms]
+[ns]Maya[nse]
+"..."[pcms]
 ;//◎戸惑っている
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
 *5372|
 [fc]
-それ以上、自分から離れていかないうちに、俺はすが[r]
-りつくように、マヤちゃんの手首を掴んで引き留めた。[pcms]
+Before she could get any further away from me, I desperately[r]
+grabbed Maya-chan's wrist to keep her with me.[pcms]
 
 *5373|
 [fc]
-マヤちゃんの細い手首から、掌に伝わる温度に、俺は[r]
-自分の中にもう一つ別の不安があるのに気づいた。[pcms]
+The warmth that passed from Maya-chan's slender wrist into[r]
+my palm made me realize that there was another anxiety[r]
+within me.[pcms]
 
 *5374|
 [fc]
-また、一人っきりになるのは嫌だ……。[r]
-暗い荷台の中で、ずっと一人で待ってるのは嫌だ……。[pcms]
+I don't want to be alone again... I hate waiting all alone[r]
+in the dark cargo area...[pcms]
 
 *5375|
 [fc]
-疑いと不安と恐怖で頭の中が一杯になって、[r]
-眠りたくても眠れない……。[r]
-あんな思いをするのは、もう嫌だ……[pcms]
+My head is filled with doubt, anxiety, and fear, and I can't[r]
+sleep even if I want to... I don't want to go through that[r]
+again...[pcms]
 
 *5376|
 [fc]
-マヤちゃんを、もう疑いたくない……。[r]
-マヤちゃんを、速水やユウ、アンザイさんみたいに[r]
-したくない……。[pcms]
+I don't want to doubt Maya-chan anymore... I don't want to[r]
+treat her like Hayami, Yuu, or Anzai-san...[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_n01"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *5377|
 [fc]
-[ns]大倉[nse]
-「目はもう大丈夫だから……一緒に……いてくれない[r]
-　かな……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"My eyes are fine now... Could you... stay with me...?"[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_n03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *5378|
 [fc]
 [vo_may s="maya0420"]
-[ns]摩耶[nse]
-「……」[pcms]
+[ns]Maya[nse]
+"..."[pcms]
 
 *5379|
 [fc]
-困ったような顔をしてるマヤちゃんに、俺はもう片方[r]
-の手でも彼女の腕を掴み、さらに詰め寄った。[pcms]
+With a troubled look on her face, I grabbed Maya-chan's arm[r]
+with my other hand and pressed closer to her.[pcms]
 
 *5380|
 [fc]
-[ns]大倉[nse]
-「頼むから行かないでくれ……！　マヤちゃんまで[r]
-　いなくなったら、俺……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Please don't go...! If I lose Maya-chan too, I..."[pcms]
 
 *5381|
 [fc]
-少しの間、うつむいて何かを考えてたマヤちゃんは、[r]
-俺の隣に膝を突いて、俺の手の上に自分の手を重ねた。[pcms]
+After a moment of contemplation with her head down, Maya-[r]
+chan knelt beside me and placed her hand on top of mine.[pcms]
 
 *5382|
 [fc]
-[ns]大倉[nse]
-「……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"..."[pcms]
 
 
 [ChrSetEx layer=4 chbase="jinguji_f05"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -103,21 +101,21 @@
 *5383|
 [fc]
 [vo_may s="maya0421"]
-[ns]摩耶[nse]
-「わかった……。どこにも行かない……」[pcms]
+[ns]Maya[nse]
+"I understand... I won't go anywhere..."[pcms]
 
 *5384|
 [fc]
-そこで口ごもったまま、なかなか先を言わなかった[r]
-けど、その内、マヤちゃんはうつむいて、ギリギリ聞[r]
-こえるぐらいの声で、呟くように言った。[pcms]
+She hesitated and didn't continue for a while, but[r]
+eventually, Maya-chan murmured in a barely audible voice[r]
+while looking down.[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_f04"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *5385|
 [fc]
 [vo_may s="maya0422"]
-[ns]摩耶[nse]
-「ずっと……ヒロシの傍にいるから……」[pcms]
+[ns]Maya[nse]
+"I'll always be by your side, Hiroshi..."[pcms]
 
 ;//♪：bgm004 stop
 [fadeoutbgm time=1000][wb]
@@ -126,4 +124,4 @@
 
 [jump storage="jingujiroute12200.ks" target=*jingujiroute12200_TOP]
 
-;//－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+;//

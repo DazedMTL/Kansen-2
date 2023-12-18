@@ -25,49 +25,49 @@
 
 *6729|
 [fc]
-昨日の夜、なかなか寝付けなかった割に、ケータイの[r]
-アラームより早く目が覚めた俺は、時間より少し早く、[r]
-３人で集まる場所へと向かった。[pcms]
+Despite having trouble falling asleep last night, I woke up[r]
+earlier than my phone's alarm and headed to the meeting[r]
+place a bit earlier than the scheduled time.[pcms]
 
 [ChrSetEx layer=4 chbase="koba_n01"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *6730|
 [fc]
 [vo_kob s="koba0047"]
-[ns]小林[nse]
-「おはようヒロ。晴れて良かったね！」[pcms]
+[ns]Kobayashi[nse]
+"Good morning, Hiro. It's nice that it's sunny!"[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
 *6731|
 [fc]
-ちょっと早かったか、と思っていたが、俺より早く来[r]
-ていたユウに、眩しい笑顔で迎えられた。[pcms]
+I thought I was a bit early, but Yuuki greeted me with a[r]
+bright smile, having arrived even earlier than me.[pcms]
 
 *6732|
 [fc]
-[ns]大倉[nse]
-「あぁ……」[pcms]
+[ns]Ookura[nse]
+"Ah..."[pcms]
 
 [ChrSetEx layer=4 chbase="koba_n08"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *6733|
 [fc]
 [vo_kob s="koba0048"]
-[ns]小林[nse]
-「眠れなかったの？　遠足前の小学生みたいだね、[r]
-　アハハ！」[pcms]
+[ns]Kobayashi[nse]
+"Couldn't sleep? You're like a grade-schooler before a field[r]
+trip, Ahaha!"[pcms]
 
 *6734|
 [fc]
-[ns]大倉[nse]
-「元気だな、オマエ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"You're always so energetic..."[pcms]
 
 *6735|
 [fc]
-約束の時間をちょっと過ぎた頃、速水が眠そうな顔で[r]
-ヨタヨタ歩いてくるのが見えると、ユウはすぐに走っ[r]
-ていって腕を引き始めた。[pcms]
+A little past the promised time, I could see Hayami walking[r]
+sluggishly towards us, and Yuuki immediately ran over to her[r]
+and started pulling her arm.[pcms]
 
 [se0 storage="SE44"]
 
@@ -81,30 +81,29 @@
 *6736|
 [fc]
 [vo_kob s="koba0049"]
-[ns]小林[nse]
-「ありす遅い！　ほら、早く早く！」[pcms]
+[ns]Kobayashi[nse]
+"Arisu, you're late! Come on, hurry up!"[pcms]
 
 [ChrSetEx layer=3 chbase="hayami_b03"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
 
 *6737|
 [fc]
 [vo_hay s="hayami0060"]
-[ns]ありす[nse]
-「うん、ごめん……」[pcms]
+[ns]Arisu[nse]
+"Yeah, sorry..."[pcms]
 
 *6738|
 [fc]
 [vo_kob s="koba0050"]
-[ns]小林[nse]
-「それじゃ、揃ったから行こっか！　ハイ、行こー行[r]
-　こー！」[pcms]
+[ns]Kobayashi[nse]
+"Now that we're all here, let's go! Okay, let's go-go!"[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *6739|
 [fc]
-俺と速水はユウに腕を引かれるがまま、バスが待つ場[r]
-所まで走らされた……。[pcms]
+Hayami and I were pulled along by Yuuki, as we were made to[r]
+run to the place where the bus was waiting...[pcms]
 
 ;//ＳＥ：駆け足
 ;mm 45じゃね？[se0 storage="SE44"]
@@ -117,4 +116,4 @@
 
 [jump storage="prologue0100.ks" target=*prologue0100_TOP]
 
-;//－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+;//

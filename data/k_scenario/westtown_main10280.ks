@@ -23,38 +23,39 @@
 
 *11230|
 [fc]
-４階に降りてきた俺は、もう一つの階段へ向かって全[r]
-力で走った。[pcms]
+I descended to the fourth floor and ran at full speed[r]
+towards another staircase.[pcms]
 
 [ChrSetEx layer=4 chbase="koba_n03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *11231|
 [fc]
 [vo_kob s="koba0214"]
-[ns]小林[nse]
-「ヒロ！　どこいくの！？」[pcms]
+[ns]Kobayashi[nse]
+"Hiro! Where are you going?!"[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
 *11232|
 [fc]
-[ns]大倉[nse]
-「向こうのシャッター閉めてくる！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"I'm going to close the shutter over there!!"[pcms]
 
 [ChrSetEx layer=4 chbase="koba_n04"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *11233|
 [fc]
 [vo_kob s="koba0215"]
-[ns]小林[nse]
-「ボクもいく！」[pcms]
+[ns]Kobayashi[nse]
+"I'm coming too!"[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *11234|
 [fc]
-俺とユウは６つの映画館に挟まれた通路を走り抜けて、[r]
-屋上へ続くもう一つの階段を駆け上がった。[pcms]
+Yuuki and I dashed through the corridor flanked by six[r]
+cinemas and raced up another staircase leading to the[r]
+rooftop.[pcms]
 
 [sysbt_meswin clear]
 
@@ -73,479 +74,477 @@
 
 *11235|
 [fc]
-屋上へ上がってくると、俺らという獲物を見失ったせ[r]
-いなのか、大勢のイカレ野郎が、あちこちをバラバラ[r]
-にウロついているのが見えた。[pcms]
+As we emerged onto the rooftop, I could see a large number[r]
+of crazed guys wandering around aimlessly, as if they had[r]
+lost sight of us as their prey.[pcms]
 
 *11236|
 [fc]
-俺らに気がつかないうちに、と壁に埋め込まれた装置[r]
-に走り寄って、シャッターを降ろそうと手を伸ばした[r]
-ところで、俺はハスキーの吠える声に手を止めた。[pcms]
+Before they noticed us, I ran towards the device embedded in[r]
+the wall to lower the shutter, but stopped when I heard the[r]
+barking of a husky.[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
 *11237|
 [fc]
-[ns]ジョン[nse]
-「ウォンウォンッ！！」[pcms]
+[ns]John[nse]
+"Woof woof!!"[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_n07"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *11238|
 [fc]
 [vo_may s="maya0089"]
-[ns]お嬢様[nse]
-「ジョン、待って……！」[pcms]
+[ns]Young Lady[nse]
+"John, wait...!"[pcms]
 
 *11239|
 [fc]
-息を切らしながら、ハスキーを追ってきたお嬢様が姿[r]
-を現した。[pcms]
+Panting, the young lady chasing after the husky appeared.[pcms]
 
 *11240|
 [fc]
-彼女がやって来たのを見て、お嬢様に一声吠えると、[r]
-ハスキーは今度は、あれを見ろとでも言うように、外[r]
-のイカレ集団に向かって数回吠えた。[pcms]
+Seeing her approach, the husky barked once at the young lady[r]
+and then barked several times towards the crazed group[r]
+outside, as if to say, "Look at that."[pcms]
 
 *11241|
 [fc]
-[ns]ジョン[nse]
-「ウォンッ！　ウォンウォンッ！！　ウォンッ！！」[pcms]
+[ns]John[nse]
+"Woof! Woof woof!! Woof!!"[pcms]
 
 *11242|
 [fc]
-ワケがわからず、彼女らの様子を見守っていると、お[r]
-嬢様はイカレ集団を見て、大きく目を見開いた。[pcms]
+Confused, I watched them when the young lady looked at the[r]
+crazed group and her eyes widened in shock.[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_n09"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *11243|
 [fc]
 [vo_may s="maya0090"]
-[ns]お嬢様[nse]
-「……！！」[pcms]
+[ns]Young Lady[nse]
+"...!!"[pcms]
 ;//◎息を飲む
 
 [ChrSetEx layer=4 chbase="jinguji_n01"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *11244|
 [fc]
-お嬢様はすぐにいつもの無表情に戻り、出入り口から[r]
-屋上へ出て、数歩の所で立ち止まった。[pcms]
+The young lady quickly returned to her usual expressionless[r]
+face, stepped out from the entrance to the rooftop, and[r]
+stopped a few steps away.[pcms]
 
 *11245|
 [fc]
-[ns]大倉[nse]
-「オ、オイ！　中に入るんだ！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Hey! Get inside!"[pcms]
 
 *11246|
 [fc]
-[ns]ジョン[nse]
-「ウォンウォンッ！！」[pcms]
+[ns]John[nse]
+"Woof woof!!"[pcms]
 
 *11247|
 [fc]
-ハスキーは俺に吠えると屋上へ出て行って、お嬢様の[r]
-横に並んだ。[pcms]
+The husky barked at me and then went out to the rooftop,[r]
+lining up beside the young lady.[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *11248|
 [fc]
-[ns]大倉[nse]
-「なんなんだよ……早くしねーとアイツらが入ってく[r]
-　るってのに……！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"What's going on... Hurry up before those guys get in...!"[pcms]
 
 [ChrSetEx layer=4 chbase="koba_n03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *11249|
 [fc]
 [vo_kob s="koba0216"]
-[ns]小林[nse]
-「あれのせいだったんだ……」[pcms]
+[ns]Kobayashi[nse]
+"It was because of that..."[pcms]
 
 *11250|
 [fc]
-[ns]大倉[nse]
-「……？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"...?"[pcms]
 
 *11251|
 [fc]
-ユウはお嬢様じゃなく、今いる場所の反対側の端にあ[r]
-る、エレベーターホールを見ていた。[pcms]
+Yuuki wasn't looking at the young lady but at the elevator[r]
+hall on the opposite end of where we were.[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *11252|
 [fc]
-エレベーターホールの中では、真ん中のエレベーター[r]
-の扉が、閉まろうとしては開きを繰り返している。[pcms]
+In the elevator hall, the doors of the central elevator were[r]
+repeatedly closing and opening.[pcms]
 
 *11253|
 [fc]
-[ns]大倉[nse]
-「ひと……？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"A person...?"[pcms]
 
 *11254|
 [fc]
-上半身がエレベーターの外に出た状態で倒れている[r]
-ひとのせいで、扉はずっと閉じたり開いたりを[r]
-繰り返しているらしかった。[pcms]
+A person had fallen with their upper body outside the[r]
+elevator, causing the doors to keep closing and opening.[pcms]
 
 *11255|
 [fc]
-そうか……。[r]
-それであの時、エレベーターが屋上で止まったまま、[r]
-降りてこなかったのか……。[pcms]
+So that's it... That's why the elevator stayed on the[r]
+rooftop and didn't come down before...[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_n07"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *11256|
 [fc]
 [vo_may s="maya0091"]
-[ns]お嬢様[nse]
-「お祖父様……」[pcms]
+[ns]Young Lady[nse]
+"Grandfather..."[pcms]
 
 [cutin storage="cut001" layer=1][trans_c cross time=500]
 
 *11257|
 [fc]
-お嬢様が呟くのが聞こえて、彼女の方に目を向けると、[r]
-近くをウロついていた、血まみれの和服を着た老人が、[r]
-こっちへ向かってきていた。[pcms]
+I heard the young lady mutter and turned to look at her,[r]
+only to see a blood-covered old man in traditional Japanese[r]
+clothing wandering nearby, heading towards us.[pcms]
 
 *11258|
 [fc]
-[ns]大倉[nse]
-「オイ！　もう中に入れ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Hey! Get inside now!!"[pcms]
 
 *11259|
 [fc]
-俺がそう声をかけても、お嬢様は反応せず、自分の方[r]
-へ歩いてくる老人を見つめている。[pcms]
+Even though I called out to her, the young lady didn't[r]
+respond and kept staring at the old man walking towards her.[pcms]
 
 *11260|
 [fc]
-[ns]老人[nse]
-「ま゛……うぁあ゛～～～……」[pcms]
+[ns]Elderly person[nse]
+"Ma...aaah~~~..."[pcms]
 
 *11261|
 [fc]
-片足を引きずりながら、お嬢様へ向かって歩いてくる[r]
-老人の和服の袖から、何かが落ちて地面に転がる。[pcms]
+Dragging one leg, something fell from the sleeve of the old[r]
+man's kimono as he walked towards the young lady and rolled[r]
+on the ground.[pcms]
 
 *11262|
 [fc]
 [vo_kob s="koba0217"]
-[ns]小林[nse]
-「うっ……」[pcms]
+[ns]Kobayashi[nse]
+"Ugh..."[pcms]
 
 *11263|
 [fc]
-[ns]大倉[nse]
-「腕が……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"An arm..."[pcms]
 
 *11264|
 [fc]
-パーツの一部が取れても気にもしないで、老人はお嬢[r]
-様の前に辿り着き、異様に大きく見開かれた目で彼女[r]
-を見下ろした。[pcms]
+Unconcerned about a part of his clothing being torn off, the[r]
+old man reached the young lady and looked down at her with[r]
+his eyes abnormally wide open.[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_n03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *11265|
 [fc]
-[ns]老人[nse]
-「あ゛ぁ……や゛ぁあう゛ぅ～～～……」[pcms]
+[ns]Elder[nse]
+"Aaah...yaaahauu~~~..."[pcms]
 
 *11266|
 [fc]
-黙って見上げているお嬢様の肩に、老人は低く呻きな[r]
-がら、残っている方の腕を持ち上げて置いた。[pcms]
+The old man groaned lowly and placed his remaining arm on[r]
+the shoulder of the young lady who was silently looking up[r]
+at him.[pcms]
 
 *11267|
 [fc]
-[ns]大倉[nse]
-「！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"!!"[pcms]
 
 *11268|
 [fc]
-それ以上黙っていられずに、彼女を連れ戻そうと屋上[r]
-へ足を踏み出した瞬間、ハスキーが素早く俺を振り返[r]
-り、鼻にシワを寄せ、牙を剥き出しにした。[pcms]
+Unable to stay silent any longer, I stepped onto the rooftop[r]
+to bring her back when suddenly, the husky quickly turned[r]
+around, wrinkled its nose, and bared its teeth at me.[pcms]
 
 *11269|
 [fc]
-[ns]大倉[nse]
-「クッ……！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Grr...!"[pcms]
 
 *11270|
 [fc]
-来るな、ってことなのか……？[r]
-でも、このままじゃあの子が……！[pcms]
+Is it telling me not to come closer? But if we don't do[r]
+something, that girl will be in danger...![pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_n07"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *11271|
 [fc]
 [vo_may s="maya0092"]
-[ns]お嬢様[nse]
-「お祖父様……私がわかりますか……？」[pcms]
+[ns]Young Lady[nse]
+"Grandfather... do you recognize me...?"[pcms]
 
 *11272|
 [fc]
-[ns]大倉[nse]
-「お祖父様……？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Grandfather...?"[pcms]
 
 *11273|
 [fc]
-そういや、商店街で会った時も……。[r]
-けど、頭がイカレたヤツに殺されたって……。[pcms]
+Come to think of it, when we met in the shopping district...[r]
+But he was supposed to have been killed by a madman...[pcms]
 
 *11274|
 [fc]
-その殺されたはずのお祖父さんの、お嬢様の[r]
-顔を見つめる目に光が戻って、普通の人間と変わらな[r]
-い眼差しになったことに、俺は気がついた。[pcms]
+I noticed that light had returned to the eyes of the[r]
+supposedly dead grandfather as he gazed at the young lady's[r]
+face, his gaze indistinguishable from that of a normal human[r]
+being.[pcms]
 
 *11275|
 [fc]
-[ns]老人[nse]
-「ま゛、や……」[pcms]
+[ns]Elderly person[nse]
+"Ma, ya..."[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_n03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *11276|
 [fc]
-ザラついた声で何かを呟いて、涙を流し始めた老人を[r]
-見て、お嬢様の目にも涙が溢れてくる。[pcms]
+Muttering something in a raspy voice and starting to cry, I[r]
+saw tears welling up in the eyes of the young lady as she[r]
+looked at the old man.[pcms]
 
 *11277|
 [fc]
-[ns]老人[nse]
-「し゛ふ゛、ん゛……も゛、と……ひら゛……き……[r]
-　な゛さ……」[pcms]
+[ns]Elderly person[nse]
+"Ji...bu...mo...to...hira...ki...na...sa..."[pcms]
 
 *11278|
 [fc]
 [vo_may s="maya0093"]
-[ns]お嬢様[nse]
-「……」[pcms]
+[ns]Young Lady[nse]
+"..."[pcms]
 ;//◎録る必要なし
 
 *11279|
 [fc]
-途切れ途切れに喋る老人に、お嬢様は何も言わないで、[r]
-何度もうなずいている。[pcms]
+The young lady didn't say anything to the old man who was[r]
+speaking in broken sentences; instead, she just kept nodding[r]
+repeatedly.[pcms]
 
 *11280|
 [fc]
-それまで思うままにウロついていたイカレ野郎が、全[r]
-員こっちに向かってくるのに気がついて、俺は彼女を[r]
-中に引っ張り込もうかどうしようか、迷っていた。[pcms]
+Until then, the crazed guy who had been wandering around[r]
+aimlessly noticed us all and started heading our way, and I[r]
+hesitated whether to pull her inside or not.[pcms]
 
 *11281|
 [fc]
-クソ……！！[r]
-あの子、アイツらに気がついてねーのか……！？[pcms]
+Damn...!! Does that girl not realize those guys are[r]
+coming...!?[pcms]
 
 *11282|
 [fc]
-[ns]老人[nse]
-「さよな゛、ら゛た゛……まや゛……し゛ょ……た、[r]
-　の゛む……」[pcms]
+[ns]Elderly person[nse]
+"Sayonara... Maya... Jo... ta, nomu..."[pcms]
 
 *11283|
 [fc]
 [vo_may s="maya0094"]
-[ns]お嬢様[nse]
-「さよなら……」[pcms]
+[ns]Young Lady[nse]
+"Goodbye..."[pcms]
 ;//◎泣きながら
 
 *11284|
 [fc]
-お嬢様の言葉に薄く笑ったのを最後に、老人の目から[r]
-は段々と光りが消えていった。[pcms]
+The last thing I saw was the old man's faint smile before[r]
+the light gradually faded from his eyes.[pcms]
 
 *11285|
 [fc]
-[ns]老人[nse]
-「う゛ぅ……う゛ぁあ゛あぉお゛あ゛～～……っ！！」[pcms]
+[ns]Elderly person[nse]
+"Uuu...uaaaaahhh...!!"[pcms]
 
 *11286|
 [fc]
-完全に光が消えてしまうと、体がガクンと揺れ、その[r]
-瞬間に目は血走って黄色く濁ったものに戻り、老人は[r]
-奇声をあげてお嬢様に覆い被さろうとした。[pcms]
+Once the light completely vanished, his body shook[r]
+violently, and in that instant, his eyes turned bloodshot[r]
+and yellow again, and the old man let out a strange cry as[r]
+he tried to pounce on the young lady.[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_f05"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *11287|
 [fc]
 [vo_may s="maya0095"]
-[ns]お嬢様[nse]
-「ジョン……！」[pcms]
+[ns]Young Lady[nse]
+"John...!"[pcms]
 
 *11288|
 [fc]
-[ns]ジョン[nse]
-「ガゥアッ！！」[pcms]
+[ns]John[nse]
+"Gauahh!!"[pcms]
 
 ;[chara_int_ layer=2][trans_c cross time=150]
 [cutin_int][trans_c cross time=150]
 
 *11289|
 [fc]
-前のめりになった老人の首筋に、ハスキーがすごいス[r]
-ピードで飛びかかり、全ての牙を突き立てた。[pcms]
+The husky, with incredible speed, leaped at the old man's[r]
+neck, sinking all its teeth in as it lunged forward.[pcms]
 
 *11290|
 [fc]
-今だ……ッ！！[pcms]
+Now's the chance...!![pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_n04"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *11291|
 [fc]
 [vo_may s="maya0096"]
-[ns]お嬢様[nse]
-「あっ……！」[pcms]
+[ns]Young Lady[nse]
+"Ah...!"[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *11292|
 [fc]
-ハスキーが老人に飛びかかった隙に、俺はお嬢様を中[r]
-に引っ張り込む。[pcms]
+Seizing the moment when the husky attacked the old man, I[r]
+pulled the young lady inside.[pcms]
 
 *11293|
 [fc]
 [vo_kob s="koba0218"]
-[ns]小林[nse]
-「すごい……」[pcms]
+[ns]Kobayashi[nse]
+"Amazing..."[pcms]
 
 *11294|
 [fc]
-老人の首を軸に、飛びかかった勢いのまま、鉄棒で逆[r]
-上がりをするように回転するハスキーに、ユウは呆気[r]
-にとられていた。[pcms]
+The husky, using the old man's neck as a pivot, spun around[r]
+like doing a backflip on a horizontal bar, leaving Yuu in[r]
+awe.[pcms]
 
 *11295|
 [fc]
-[ns]老人[nse]
-「く゛ぁふ゛ほ゛はっ……」[pcms]
+[ns]Elderly person[nse]
+"Gahubohah..."[pcms]
 
 *11296|
 [fc]
-ハスキーに首をねじ切られ、血を飛び散らせながら、[r]
-老人の胴体は仰向けに倒れた。[pcms]
+With its neck twisted by the husky and blood spraying, the[r]
+old man's torso fell back.[pcms]
 
 *11297|
 [fc]
-[ns]ジョン[nse]
-「……ウォフッ」[pcms]
+[ns]John[nse]
+"...Woof"[pcms]
 
 *11298|
 [fc]
-胴体の近くに、咥えていた老人の頭を置き、一声小さ[r]
-く吠えてから、ハスキーは中に駆け込んだ。[pcms]
+Laying down the old man's head it had been holding near the[r]
+torso, the husky let out a small bark before running inside.[pcms]
 
 *11299|
 [fc]
-[ns]大倉[nse]
-「閉めるぞ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"I'm closing it!!"[pcms]
 
 *11300|
 [fc]
-俺は見慣れた赤いプラスチックを叩き割り、金具を引[r]
-いて、装置を作動させた。[pcms]
+I smashed the familiar red plastic and pulled the lever to[r]
+activate the device.[pcms]
 
 ;//SE：シャッターの閉まる音（？）
 [se0 storage="SE16"]
 
 *11301|
 [fc]
-イカレ集団の先頭にいたヤツが、出入り口の前に辿り[r]
-着いたのと同時に、シャッターは音を立てて完全に閉[r]
-まった。[pcms]
+Just as the leader of the crazed group reached the entrance,[r]
+the shutter closed completely with a loud noise.[pcms]
 
 *11302|
 [fc]
-[ns]大倉[nse]
-「ハァ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Haa..."[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_f02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *11303|
 [fc]
-床に片膝をつき、ハスキーの背中を撫でているお嬢様[r]
-の目からは、もう涙は消えていた。[pcms]
+Kneeling on one knee on the floor, the young lady stroked[r]
+the back of the husky, her eyes no longer filled with tears.[pcms]
 
 *11304|
 [fc]
-[ns]ジョン[nse]
-「クゥン……」[pcms]
+[ns]John[nse]
+"Kuun..."[pcms]
 
 *11305|
 [fc]
 [vo_may s="maya0097"]
-[ns]お嬢様[nse]
-「うん、大丈夫……」[pcms]
+[ns]Young Lady[nse]
+"Yes, it's okay..."[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *11306|
 [fc]
-商店街で会った時は、お祖父さんが殺[r]
-されたって、あんなに取り乱してたのに……。[pcms]
+When we met in the shopping district, she was so distraught[r]
+that her grandfather had been killed...[pcms]
 
 *11307|
 [fc]
-目の前で……しかもあんな風にお祖父さんが死んだの[r]
-は平気なのか……？[pcms]
+Is she really okay with her grandfather dying in front of[r]
+her... and in such a way?[pcms]
 
 *11308|
 [fc]
-それに、今みたいにハスキーと喋ってるような時もあ[r]
-るし……。[pcms]
+Besides, there are times like now when she talks to Husky...[pcms]
 
 *11309|
 [fc]
-この子、どういう子なんだろう……。[pcms]
+I wonder what kind of girl she is...[pcms]
 
 *11310|
 [fc]
-だいたい、どうしてこの街にいるんだ……？[r]
-この子、俺と同じ街に住んでるはずだよな……。[r]
-あのデカイ家のお嬢様……。[pcms]
+Anyway, why is she in this town...? She's supposed to live[r]
+in the same town as me... The lady of that big house...[pcms]
 
 *11311|
 [fc]
-[ns]大倉[nse]
-「とりあえず、下に戻ろう」[pcms]
+[ns]Ookura Hiroshi[nse]
+"For now, let's go back downstairs."[pcms]
 
 [ChrSetEx layer=4 chbase="koba_n05"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *11312|
 [fc]
 [vo_kob s="koba0219"]
-[ns]小林[nse]
-「うん」[pcms]
+[ns]Kobayashi[nse]
+"Yeah."[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *11313|
 [fc]
-向こうもこっちもシャッターは閉めたから、屋上から[r]
-イカレ野郎が入ってくることはないはず……。[r]
-あとは、下から来るヤツに気をつけとけばいい……。[pcms]
+We've closed the shutters on both sides, so there should be[r]
+no way for the crazed guys to come in from the rooftop... We[r]
+just need to be careful of those coming from below...[pcms]
 
 *11314|
 [fc]
-速水を助ける方法を考えて、一息ついたら、彼女に話[r]
-しを聞いてみよう……。[pcms]
+I'll think of a way to help Hayami, take a break, and then[r]
+try talking to her...[pcms]
 
 ;//♪：bgm009 fadeout
 [fadeoutbgm time=1000]

@@ -19,8 +19,8 @@
 *8044|
 [fc]
 [vo_anz s="anzai0022"]
-[ns]みき[nse]
-「う、ん……」[pcms]
+[ns]Mikki[nse]
+"Ugh..."[pcms]
 
 ;//＠：広場
 ;//BG：ショッピングモール全景・夜
@@ -31,8 +31,8 @@
 
 *8045|
 [fc]
-目を覚ますと、自分が立っていた筈の場所から、随分[r]
-離れた場所で、わたしは地面に倒れていた。[pcms]
+When I woke up, I found myself lying on the ground, far from[r]
+where I was supposed to be standing.[pcms]
 
 ;//♪：００８_Catastrophe
 ;//♪：bgm009に変更
@@ -41,59 +41,59 @@
 *8046|
 [fc]
 [vo_anz s="anzai0023"]
-[ns]みき[nse]
-「地震、だったのかしら……」[pcms]
+[ns]Mikki[nse]
+"Was it an earthquake...?"[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
 *8047|
 [fc]
-でも、地震で地面がこんな風になるかしら……。[r]
-それに、あの衝撃……。[pcms]
+But would an earthquake really cause the ground to look like[r]
+this? And then there was that impact...[pcms]
 
 *8048|
 [fc]
-もしかして、地下のガス管が爆発したとか……？[r]
-それなら、地面がこうなるのもわかるけれど……。[pcms]
+Could it be an underground gas pipe explosion? That would[r]
+explain the state of the ground...[pcms]
 
 *8049|
 [fc]
 [ns]？？？[nse]
-「う゛ぅ～～…………う゛ぁ～～～…………」[pcms]
+"Uuu~... Uuuaaah~..."[pcms]
 
 *8050|
 [fc]
 [vo_anz s="anzai0024"]
-[ns]みき[nse]
-「！！　いけない……！」[pcms]
+[ns]Mikki[nse]
+"!! That's not good...!"[pcms]
 
 *8051|
 [fc]
-地震か爆発かわからないけれど、あれだけ凄い衝撃が[r]
-あったら、転倒や何かで怪我をした人がいてもおかし[r]
-くない。[pcms]
+Whether it was an earthquake or an explosion, with such a[r]
+tremendous shock, it wouldn't be strange if someone got[r]
+injured from falling or something else.[pcms]
 
 *8052|
 [fc]
-だとすれば、本職じゃないとはいえ、看護師の資格を[r]
-持つ自分が処置をしなくてはならない。[pcms]
+If that's the case, even though it's not my main job, as a[r]
+qualified nurse, I must administer treatment.[pcms]
 
 *8053|
 [fc]
-わたしはそう考えて、近くに落ちていた自分のバッグ[r]
-を急いで引き寄せ、ファスナーを開けた。[pcms]
+I thought this as I quickly pulled my bag that had fallen[r]
+nearby and opened the zipper.[pcms]
 
 *8054|
 [fc]
 [vo_anz s="anzai0025"]
-[ns]みき[nse]
-「職場が近くて良かったわ……」[pcms]
+[ns]Mikki[nse]
+"Thank goodness my workplace is close by..."[pcms]
 
 *8055|
 [fc]
-立ち上がって呻き声のする方向を探しながら、取り出[r]
-した携帯電話で１１９ではなく、すぐ近くにある病院[r]
-に連絡した。[pcms]
+As I stood up and searched for the direction of the[r]
+groaning, I took out my cell phone and called the hospital[r]
+nearby instead of 119.[pcms]
 
 ;//ＳＥ：携帯のコール音
 [se0 storage="SE02" loop=true]
@@ -101,67 +101,67 @@
 *8056|
 [fc]
 [vo_anz s="anzai0026"]
-[ns]みき[nse]
-「繋がらない……？　同じこと考えた人が多いのかし[r]
-　ら……」[pcms]
+[ns]Mikki[nse]
+"Can't connect...? Maybe a lot of people had the same[r]
+idea..."[pcms]
 
 *8057|
 [fc]
-呻き声がする方へ早足で向かいながら、わたしは職場[r]
-へ電話をかけ続けた。[pcms]
+While heading quickly towards the direction of the groaning,[r]
+I kept calling my workplace.[pcms]
 
 *8058|
 [fc]
-処置をするにしても、道具が足りないのは明らか。[r]
-今のわたしでは、ごく簡単な応急処置しかできない。[pcms]
+Even if I were to administer treatment, it's clear that I[r]
+don't have enough tools. Right now, I can only perform very[r]
+basic first aid.[pcms]
 
 *8059|
 [fc]
-それでは怪我が重い人がいた場合、救急車が到着する[r]
-前に命を落としかねない。[pcms]
+If there's someone with a serious injury, they could lose[r]
+their life before an ambulance arrives.[pcms]
 
 *8060|
 [fc]
-手が空いている人に、幾らか道具を持ってきてもらお[r]
-うとしたけれど、電話はまるで繋がらない。[pcms]
+I tried to ask someone who was free to bring some tools, but[r]
+the phone wouldn't connect at all.[pcms]
 
 [stop_se0]
 
 *8061|
 [fc]
 [vo_anz s="anzai0027"]
-[ns]みき[nse]
-「非常用の回線なのに……」[pcms]
+[ns]Mikki[nse]
+"Even though it's an emergency line..."[pcms]
 
 [ChrSetEx layer=4 chbase="etc01"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *8062|
 [fc]
 [ns]？？？[nse]
-「あ゛な゛ぁ～～……っ！！」[pcms]
+"Aaanaaah...!!"[pcms]
 
 *8063|
 [fc]
 [vo_anz s="anzai0028"]
-[ns]みき[nse]
-「きゃあっ！！」[pcms]
+[ns]Mikki[nse]
+"Kyaa!!"[pcms]
 
 ;//ＳＥ：かしゃっ
 [se0 storage="SE70"]
 
 *8064|
 [fc]
-急に暗がりから出てきた男性に驚いて、わたしは携帯[r]
-電話を取り落としてしまった。[pcms]
+Startled by a man who suddenly emerged from the darkness, I[r]
+dropped my cell phone.[pcms]
 
 ;//ＳＥ：バキッ
 [se0 storage="SE71"]
 
 *8065|
 [fc]
-男性の足下に落ちた携帯電話を見つけるのと同時に、[r]
-わたしはその人の下半身が丸出しになっていることに[r]
-気がついた。[pcms]
+At the same time as I found my cell phone at the man's feet,[r]
+I realized that his lower half was completely exposed.[pcms]
 
 ;//ＳＥ：バキッ
 [se0 storage="SE71"]
@@ -169,55 +169,54 @@
 *8066|
 [fc]
 [vo_anz s="anzai0029"]
-[ns]みき[nse]
-「……」[pcms]
+[ns]Mikki[nse]
+"..."[pcms]
 
 ;//ＳＥ：バキッ
 [se0 storage="SE71"]
 
 *8067|
 [fc]
-わたしの携帯電話を踏んで壊しながら、男性は勃起し[r]
-たままの局部を震わせ、近づいてくる。[pcms]
+While stepping on and breaking my cell phone, the man shook[r]
+his erect member and approached me.[pcms]
 
 *8068|
 [fc]
-[ns]丸出しの青年[nse]
-「あ゛な゛ぁ……た゛させろぉ……ま゛んこに゛ぃ、[r]
-　た゛させろ゛よぉ～～……！」[pcms]
+[ns]Young man in plain view[nse]
+"Aaanaa... let me do it... let me put it in your pussy~..."[pcms]
 
 *8069|
 [fc]
 [vo_anz s="anzai0030"]
-[ns]みき[nse]
-「ちょ、ちょっと、やめてください！」[pcms]
+[ns]Mikki[nse]
+"Wait, please stop!"[pcms]
 
 *8070|
 [fc]
-後ずさりして男性から離れようとするわたしの肩を、[r]
-誰かが後ろから叩いて振り向かせた。[pcms]
+As I tried to back away from the man, someone tapped me on[r]
+the shoulder from behind and made me turn around.[pcms]
 
 *8071|
 [fc]
 [vo_anz s="anzai0031"]
-[ns]みき[nse]
-「克也！？」[pcms]
+[ns]Mikki[nse]
+"Katsuya!?"[pcms]
 
 [ChrSetEx layer=4 chbase="etc02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *8072|
 [fc]
-そこに立っていたのは、両目をそれぞれ違う方向に向[r]
-け、口からは涎を垂らして低く唸っている、克也とは[r]
-似ても似つかない男性だった。[pcms]
+The person standing there was a man who looked nothing like[r]
+Katsuya, with his eyes pointing in different directions and[r]
+drool dripping from his mouth as he growled lowly.[pcms]
 
 *8073|
 [fc]
-[ns]唸る青年[nse]
-「う゛ぅ～～……」[pcms]
+[ns]Growling Young Man[nse]
+"Uuu~..."[pcms]
 
 ;//井：次ファイルに情報を残したまま連結
 
 [jump storage="prologue_zap05052.ks" target=*prologue_zap05052_TOP]
 
-;//－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+;//

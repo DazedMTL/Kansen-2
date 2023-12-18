@@ -24,13 +24,14 @@
 
 *3077|
 [fc]
-[ns]大倉[nse]
-「速水！　いたら返事しろッ！！　速水！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Hayami! If you're there, answer me!! Hayami!!"[pcms]
 
 *3078|
 [fc]
-速水がどこにいても聞こえるように、俺は大声でアイ[r]
-ツの名前を呼びながら、３階の中を走り続けた。[pcms]
+So that Hayami could hear me no matter where she was, I[r]
+continued to run through the third floor, calling out her[r]
+name loudly.[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
@@ -47,14 +48,14 @@
 
 *3079|
 [fc]
-[ns]大倉[nse]
-「速水！！　いないのか！？　速水！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Hayami!! Are you not here!? Hayami!!"[pcms]
 
 *3080|
 [fc]
-俺の声に反応して、次から次へと現れて近寄ってくる[r]
-イカレ野郎を、シャベルで突き飛ばして転ばしながら、[r]
-速水の名前を呼び続ける。[pcms]
+Responding to my voice, one crazy guy after another appeared[r]
+and approached, and I kept calling Hayami's name while[r]
+pushing them away with a shovel and knocking them down.[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
@@ -73,14 +74,14 @@
 
 *3081|
 [fc]
-[ns]大倉[nse]
-「この階じゃないのか……？　速水！　速水ッ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Is she not on this floor...? Hayami! Hayami!!"[pcms]
 
 *3082|
 [fc]
-通路の両側に並ぶ店の中にも、俺は目を走らせながら[r]
-速水の姿を捜したけど、アイツの姿はとうとう見つけ[r]
-られなかった。[pcms]
+Even inside the shops lining both sides of the corridor, I[r]
+searched for Hayami while scanning quickly, but I never[r]
+found her.[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
@@ -98,49 +99,49 @@
 
 *3083|
 [fc]
-[ns]大倉[nse]
-「クソ、いねーな……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Damn, she's not here..."[pcms]
 
 *3084|
 [fc]
-隠れてて出てこられねーのかな……。[r]
-それとも、最初っからこの階にはいないのか……。[pcms]
+Is she hiding and can't come out...? Or maybe she wasn't on[r]
+this floor from the start...[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
 *3085|
 [fc]
-１０数メートル先はあのオッサンがいた所で、今そこ[r]
-にはイカレ野郎が群がって、山を作っている。[pcms]
+About ten meters ahead is where that old man was, and now[r]
+that place is swarming with crazies, forming a mountain.[pcms]
 
 *3086|
 [fc]
-あの人だかりの真ん中で、今、オッサンはどうなって[r]
-るんだろう……。[pcms]
+I wonder what's happening to the old man in the middle of[r]
+that crowd...[pcms]
 
 *3087|
 [fc]
-オッサンの体のあちこちが、だんだんと欠けて、消え[r]
-ていくのを想像し、俺は急に焦りを感じ始めた。[pcms]
+Imagining parts of the old man's body gradually chipping[r]
+away and disappearing, I suddenly began to feel anxious.[pcms]
 
 *3088|
 [fc]
-このビルのどっかで、速水が同じ目に遭ってるかも[r]
-しれねーんだ……。[pcms]
+Hayami might be suffering the same fate somewhere in this[r]
+building...[pcms]
 
 *3089|
 [fc]
-急がねーと……！！[pcms]
+I need to hurry...!![pcms]
 
 *3090|
 [fc]
-[ns]大倉[nse]
-「……取りあえず、上に行ってみるか」[pcms]
+[ns]Ookura Hiroshi[nse]
+"...For now, let's try going up."[pcms]
 
 *3091|
 [fc]
-俺はすぐ近くにあった階段へ向かい、[r]
-４階へと駆け上った。[pcms]
+I headed towards the nearby staircase and ran up to the[r]
+fourth floor.[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
@@ -148,4 +149,4 @@
 
 [jump storage="hayamiroute11060.ks" target=*hayamiroute11060_TOP]
 
-;//－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+;//

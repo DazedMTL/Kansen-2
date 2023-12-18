@@ -21,17 +21,17 @@
 
 *159|
 [fc]
-床に這い蹲って、ただ呻いているだけの俺の目の前で、[r]
-それは開始された。[pcms]
+Crawling on the floor, all I could do was groan as it began[r]
+before my eyes.[pcms]
 
 *160|
 [fc]
-その光景には、ただ絶句するしかなかった。[pcms]
+I was left speechless by the sight before me.[pcms]
 
 *161|
 [fc]
-俺の目の前で、イカレ野郎達は、[r]
-その肉欲を暴走させはじめたのだった。[pcms]
+In front of me, those crazed bastards started to let their[r]
+lust run wild.[pcms]
 
 [fadeoutbgm time=502]
 [stop_se0]
@@ -66,265 +66,243 @@
 *162|
 [fc]
 [vo_hay s="hayami1004"]
-[ns]ありす[nse]
-「やっ！　やめ……やめてぇ！！[r]
-　いぎいいぃぃっ！！！！」[pcms]
+[ns]Arisu[nse]
+"No! Stop...stop it!! Aaahhhhh!!"[pcms]
 
 [evcg storage="HEV601b"][trans_c cross time=301]
 
 *163|
 [fc]
-[ns]半袖シャツの男[nse]
-「お゛お～……い゛、いい～……」[pcms]
+[ns]Short-sleeved shirt man[nse]
+"Ohh...yeah...that's good..."[pcms]
 
 *164|
 [fc]
-[ns]金髪の男[nse]
-「まん……こぉ～……かた゛くて゛～～……[r]
-　はいら゛ねぇよ～～……」[pcms]
+[ns]Blond-haired man[nse]
+"Pussy...so tight...can't get in..."[pcms]
 
 *165|
 [fc]
 [vo_hay s="hayami1005"]
-[ns]ありす[nse]
-「こんなっ……ぎっ……いやぁ！！[r]
-　お尻痛いっ！！　痛いっ！！」[pcms]
+[ns]Arisu[nse]
+"Not like this...ugh...no!! My butt hurts!! It hurts!!"[pcms]
 
 *166|
 [fc]
-[ns]半袖シャツの男[nse]
-「うぉ～……なか゛て゛こすれ゛る～～」[pcms]
+[ns]Short-sleeved shirt man[nse]
+"Woah...it's rubbing inside..."[pcms]
 
 *167|
 [fc]
-[ns]金髪の男[nse]
-「まんこ゛……きつ゛い～……」[pcms]
+[ns]Blond-haired man[nse]
+"This pussy...so tight..."[pcms]
 
 *168|
 [fc]
 [vo_hay s="hayami1006"]
-[ns]ありす[nse]
-「ぎっ……あうっ……、あがあっ……」[pcms]
+[ns]Alice[nse]
+"Ugh...ow...ahhh..."[pcms]
 
 *169|
 [fc]
-[ns]半袖シャツの男[nse]
-「けつあ゛な～……あったけ゛ぇ～～」[pcms]
+[ns]Short-sleeved shirt man[nse]
+"Asshole...so warm..."[pcms]
 
 *170|
 [fc]
-[ns]金髪の男[nse]
-「なん゛た゛ぁ～～……？　ぬれ゛てき゛た゛ぁ……、[r]
-　いん゛ら゛んおん゛なた゛ぁ～～」[pcms]
+[ns]Blond-haired man[nse]
+"What the...? It's getting wet...such a lewd woman..."[pcms]
 
 *171|
 [fc]
 [vo_hay s="hayami1007"]
-[ns]ありす[nse]
-「ち、がっ……うっ……、あうっ……、そん、なっ！[r]
-　うあっ……、やっ……ぎっ……いっ……」[pcms]
+[ns]Arisu[nse]
+"It's different...ugh...ow...not like that![r]
+Ahh...no...ugh...yes..."[pcms]
 
 *172|
 [fc]
-[ns]金髪の男[nse]
-「くそ゛ぉ～……はい゛らねぇ～……、て゛もぉ～、[r]
-　くり゛とりすこす゛られて゛……さい゛こ゛ぉ～～[r]
-　た゛ろぉ～～！？　この゛いん゛らん゛か゛ぁ～～」[pcms]
+[ns]Blond-haired man[nse]
+"Damn it...can't get in...but rubbing the clit[r]
+feels...amazing, right!? You lewd girl..."[pcms]
 
 *173|
 [fc]
 [vo_hay s="hayami1008"]
-[ns]ありす[nse]
-「うあっ……そ……そん、なっ……いやぁぁ！！」[pcms]
+[ns]Arisu[nse]
+"Ahh...that's...not it...noooo!!"[pcms]
 
 ;//★イベントＣＧ２＿Ａ
 [evcg storage="HEV602a"][trans_c cross time=301]
 
 *174|
 [fc]
-[ns]スーツの青年[nse]
-「あ゛は゛ぁ～～……ち゛いさい、か゛らた゛ぁ～！[r]
-　か゛わ゛いい゛～～……！」[pcms]
+[ns]Young man in a suit[nse]
+"Ahaa...so small, so cute..."[pcms]
 
 *175|
 [fc]
 [vo_may s="maya0731"]
-[ns]お嬢様[nse]
-「いやぁ！　ジョン！！　助けて！！　ジョン！！」[pcms]
+[ns]Young Lady[nse]
+"No! John!! Help me!! John!!"[pcms]
 
 *176|
 [fc]
-[ns]ジョン[nse]
-「ウ゛ルル゛ッ！」[pcms]
+[ns]John[nse]
+"Grrrr!"[pcms]
 
 *177|
 [fc]
-[ns]全裸の男[nse]
-「まっぴんくの゛おま゛んこ゛……かわ゛い～……、[r]
-　なか゛も～……きつ゛いぃ～～……」[pcms]
+[ns]Naked Man[nse]
+"Such a pretty pink pussy...cute...and so tight..."[pcms]
 
 *178|
 [fc]
-[ns]黒縁メガネの男[nse]
-「むねぇ～……ちい゛さ゛い～……、く゛ふっ……、[r]
-　は゛た゛もき゛れい゛……」[pcms]
+[ns]Man with black-rimmed glasses[nse]
+"Breasts...so small...ugh...and the skin is so smooth..."[pcms]
 
 *179|
 [fc]
 [vo_may s="maya0732"]
-[ns]お嬢様[nse]
-「気持ち悪いっ！　離れろ！！　いやぁぁ！！」[pcms]
+[ns]Young Lady[nse]
+"Disgusting! Get away!! Noooo!!"[pcms]
 
 *180|
 [fc]
-[ns]ジョン[nse]
-「バウッ！！　バウッ！！」[pcms]
+[ns]John[nse]
+"Woof!! Woof!!"[pcms]
 
 *181|
 [fc]
-[ns]破れたシャツの男[nse]
-「なんた゛このいぬ゛～～……、し゛ゃまた゛ぁ～！」[pcms]
+[ns]Torn Shirt Man[nse]
+"What's with this dog...get lost!"[pcms]
 
 *182|
 [fc]
 [vo_may s="maya0733"]
-[ns]お嬢様[nse]
-「いやぁあぁぁ！！　離せっ！！　離せぇぇ！！[r]
-　私に触るなぁ！！」[pcms]
+[ns]Young Lady[nse]
+"Nooooo!! Let go!! Let gooo!! Don't touch me!!"[pcms]
 
 ;//★イベントＣＧ３＿Ａ
 [evcg storage="HEV901b"][trans_c cross time=301]
 
 *183|
 [fc]
-[ns]学生服の男２[nse]
-「む゛ね゛……て゛け゛え～～……や゛わ゛らか゛そ、[r]
-　んふ゛ち゛ゅ～～……」[pcms]
+[ns]Male Student 2[nse]
+"Breasts...so big...so soft, mmm..."[pcms]
 
 *184|
 [fc]
 [vo_anz s="anzai0398"]
-[ns]女[nse]
-「や、めて……んぶっ……離して！　ぶあぁっ！」[pcms]
+[ns]Female[nse]
+"Stop it...mmmph...let go! Ughhh!"[pcms]
 
 *185|
 [fc]
-[ns]学生服の男２[nse]
-「くち゛……きもちよさそ゛～～……」[pcms]
+[ns]Male Student 2[nse]
+"Mouth...feels so good..."[pcms]
 
 *186|
 [fc]
 [vo_anz s="anzai0399"]
-[ns]女[nse]
-「ぶあっ！？　げほっ！！　んんん――っ！！[r]
-　んぶっ……ぐじゅっ！！　んぶぁぁああっ！」[pcms]
+[ns]Female[nse]
+"Ugh!? Cough!! Mmm--!! Mmph...slurp!! Mmphh ahhh!!"[pcms]
 
 *187|
 [fc]
-[ns]学生服の男２[nse]
-「おっぱい゛も～～……きも゛ち゛い～～……、[r]
-　あぁ゛～～……」[pcms]
+[ns]Male Student 2[nse]
+"Breasts too...feel so good...ahhh..."[pcms]
 
 *188|
 [fc]
 [vo_anz s="anzai0400"]
-[ns]女[nse]
-「んッ！　ちゅぷ……んちゅ！　じゅぷ……れる……」[pcms]
+[ns]Female[nse]
+"Mmm! Suck...mmm suck! Slurp...licking..."[pcms]
 
 *189|
 [fc]
-[ns]学生服の男２[nse]
-「した゛つかって゛ぇ～～……、もっと゛ぉ～～……」[pcms]
+[ns]Male Student 2 in School Uniform[nse]
+"Using your mouth like that...more..."[pcms]
 
 *190|
 [fc]
 [vo_anz s="anzai0401"]
-[ns]女[nse]
-「んっ、ぷちゅ、んはぁ……んむっ、んぶぅ！[r]
-　……んじゅる、ちゃぷっ……」[pcms]
+[ns]Female[nse]
+"Mmm, smooch, mmm ah...mmm suck, mmmph! ...slurp, smack..."[pcms]
 
 *191|
 [fc]
-[ns]学生服の男２[nse]
-「あ゛～～……あ゛～～……ちく゛ひ゛、あたる゛～、[r]
-　のと゛のおく゛も～～……しま゛る～……」[pcms]
+[ns]Male Student 2[nse]
+"Ahh...ahh...my nipples, they're hitting the back of your[r]
+throat..."[pcms]
 
 *192|
 [fc]
 [vo_anz s="anzai0402"]
-[ns]女[nse]
-「げぇっ……げほっ……、いやぁあっ！！　んぶっ！[r]
-　げぇほっ！　……うぇっ……ゴホッ！[r]
-　ゴホゴホッ！」[pcms]
+[ns]Female[nse]
+"Gagging...coughing...noooo!! Mmph! Gagging! ...ugh...cough[r]
+cough!"[pcms]
 
 *193|
 [fc]
-[ns]学生服の男２[nse]
-「はなさ゛ない゛て゛よ～……、もっと゛ぉ～～……、[r]
-　もっと゛すって゛ぇ～～……」[pcms]
+[ns]Male Student 2[nse]
+"I won't let go of you...more...rub it more..."[pcms]
 
 *194|
 [fc]
 [vo_anz s="anzai0403"]
-[ns]女[nse]
-「ぶあっ……んぁっ……ぶっ！！　ぐじゅっ！！[r]
-　ぶああぁっ！！」[pcms]
+[ns]Female[nse]
+"Ughh...mmmphh...ughh!! Slurp!! Ughhhhh!!"[pcms]
 
 ;//★イベントＣＧ４＿Ａ
 [evcg storage="HEV604a"][trans_c cross time=301]
 
 *195|
 [fc]
-[ns]学生服の男[nse]
-「お゛お～～……お゛ち゛ん……ち゛ん～……、[r]
-　お゛れこ゛の゛み～～……」[pcms]
+[ns]School uniform boy[nse]
+"Ohh...my dick...it's getting hard..."[pcms]
 
 *196|
 [fc]
 [vo_kob s="koba0475"]
-[ns]小林[nse]
-「うわっ！　やあっ……な……なにっ！！[r]
-　変態っ！！　やめろぉぉお！！　あぁ――っ！」[pcms]
+[ns]Kobayashi[nse]
+"Uwah! Noo...what are you doing!! Pervert!! Stop it ahh--!"[pcms]
 
 *197|
 [fc]
-[ns]学生服の男[nse]
-「へへっ……はいっ゛た゛ぁ～～……、おま゛えの、[r]
-　けつまん゛こ……かん゛たんに゛はいった゛そ゛ぉ、[r]
-　いつ゛もいし゛ってんのか゛ぁ～～？」[pcms]
+[ns]School uniform boy[nse]
+"Heheh...it went in so easily...your ass pussy, do you[r]
+always play with it?"[pcms]
 
 *198|
 [fc]
 [vo_kob s="koba0476"]
-[ns]小林[nse]
-「そ……そん、なこ、と……ないっ！！[r]
-　うあぁっ……やめッ……痛いっ！！」[pcms]
+[ns]Kobayashi[nse]
+"That's not true at all!! Ahhh...stop it! It hurts!!"[pcms]
 
 *199|
 [fc]
-[ns]学生服の男[nse]
-「あは゛ぁ～……ちんこ゛おっき゛くなって゛き゛た、[r]
-　てのなか゛て゛……うこ゛いて゛る～～……」[pcms]
+[ns]School uniform (wearing) male[nse]
+"Ahaha...my cock's getting bigger in my hand, throbbing..."[pcms]
 
 *200|
 [fc]
 [vo_kob s="koba0477"]
-[ns]小林[nse]
-「いやだぁ！　離れろぉ！！　こんなの……、[r]
-　うあっ……うああぁっ！！」[pcms]
+[ns]Kobayashi[nse]
+"I don't want this! Get away!! Not like this..., ahh![r]
+Ahhhh!!"[pcms]
 
 *201|
 [fc]
-[ns]学生服の男[nse]
-「おまえ゛み゛た゛いな……の゛、さか゛して゛たん、[r]
-　た゛……かわ゛い゛い゛おと゛こか゛、いい゛～」[pcms]
+[ns]School uniform (wearing) boy[nse]
+"You look like you're enjoying it, cute boy, that's nice..."[pcms]
 
 *202|
 [fc]
 [vo_kob s="koba0478"]
-[ns]小林[nse]
-「変態！！　やめろ！！　うわぁぁ！！[r]
-　お尻痛いっ！！　うぁぁっ！　痛いいぃっ！！」[pcms]
+[ns]Kobayashi[nse]
+"Pervert!! Stop it!! Uwaaa!! My butt hurts!! Ahhh! It[r]
+hurts!!"[pcms]
 
 ;//★イベントＣＧ５＿Ａ
 [evcg storage="HEV605a"][trans_c cross time=301]
@@ -332,205 +310,190 @@
 *203|
 [fc]
 [vo_nag s="nagasaki0385"]
-[ns]セーラー服の女[nse]
-「や……やめろっ！　このっ……。いやぁぁぁあ！！[r]
-　さわるなぁっ！　うああぁぁあ！！」[pcms]
+[ns]Sailor Suit Girl[nse]
+"Stop it! You're such a....noooooo!! Don't touch me![r]
+Ahhhhhh!!"[pcms]
 
 *204|
 [fc]
-[ns]チャラい男子生徒[nse]
-「ね……ね゛らって゛た゛んた゛ぁ～……、[r]
-　あ、お゛は゛の……お゛んな゛ぁ～～……」[pcms]
+[ns]Flirty male student[nse]
+"You were begging for it, weren't you? Oh, you woman..."[pcms]
 
 *205|
 [fc]
 [vo_nag s="nagasaki0386"]
-[ns]セーラー服の女[nse]
-「あぐっ！！　アタシにさわる……ぎっ！　いっ！！[r]
-　いやぁぁぁ！！　汚い！！　いやぁぁぁあ！！」[pcms]
+[ns]Sailor Suit Girl[nse]
+"Agghh!! Don't touch me! Ugh! Nooooo!! Dirty!! Noooooo!!"[pcms]
 
 *206|
 [fc]
-[ns]チャラい男子生徒[nse]
-「きたな゛くなんか゛ないから゛ぁ～～……、[r]
-　もっと゛、たの゛しも゛～せ゛え～～」[pcms]
+[ns]Flirty Male Student[nse]
+"There's nothing dirty about it, let's enjoy more of[r]
+this..."[pcms]
 
 *207|
 [fc]
 [vo_nag s="nagasaki0387"]
-[ns]セーラー服の女[nse]
-「男なんてっ……汚いっ！！　離れろ！！[r]
-　気持ち悪いっ！！　いやぁぁあぁ！！」[pcms]
+[ns]Sailor Suit Girl[nse]
+"Men are disgusting! Get away! Gross! Noooooo!!"[pcms]
 
 *208|
 [fc]
-[ns]チャラい男子生徒[nse]
-「まん゛こ゛しめ゛るく゛せに゛～～！[r]
-　ほん゛と゛はきも゛ちい゛いんて゛しょ～～！？」[pcms]
+[ns]Flirtatious male student[nse]
+"Stop clenching your pussy like that! You really enjoy it,[r]
+don't you?!"[pcms]
 
 *209|
 [fc]
 [vo_nag s="nagasaki0388"]
-[ns]セーラー服の女[nse]
-「気持ちよくなんて、ないっ！！　今すぐ抜けぇっ！[r]
-　いやぁぁぁ！！」[pcms]
+[ns]Sailor Suit Girl[nse]
+"I'm not feeling good at all!! Pull it out now! Nooooo!!"[pcms]
 
 *210|
 [fc]
-[ns]大倉[nse]
-「……！！」[pcms]
+[ns]Ookura[nse]
+"...!!"[pcms]
 
 *211|
 [fc]
-コイツら……何考えてやがる……！！[pcms]
+These guys...what are they thinking...!![pcms]
 
 *212|
 [fc]
 [vo_hay s="hayami1009"]
-[ns]ありす[nse]
-「ヒロシ……や、やああああ！！　やだよお！！[r]
-　助けてぇ！！　あうっ！！　うぁあああ！！」[pcms]
+[ns]Alice[nse]
+"Hiroshi...no, nooooo!! I don't want this!! Help me!! Aghh!![r]
+Uwaaaa!!"[pcms]
 
 *213|
 [fc]
-[ns]大倉[nse]
-「速水……っ！？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Hayami...!?"[pcms]
 
 ;//★イベントＣＧＡ＿１
 [evcg storage="HEV601c"][trans_c cross time=301]
 
 *214|
 [fc]
-何だよ、これ……。[r]
-クソッ！！　クソッ！！[pcms]
+What is this... Damn it!! Damn it!![pcms]
 
 *215|
 [fc]
-速水は、二人の男から前と後ろから責め上げられて、[r]
-息も絶え絶えに泣き叫んでいる。[pcms]
+Hayami was being assaulted from both the front and back by[r]
+two men, crying out breathlessly.[pcms]
 
 *216|
 [fc]
 [vo_hay s="hayami1010"]
-[ns]ありす[nse]
-「あうっ！！　いやあぁぁ！！　い……痛いぃっ！！[r]
-　こ……こわれるっ！　こんな……裂けちゃう！！」[pcms]
+[ns]Alice[nse]
+"Aghh!! Noooo!! It...hurts!! I'm...I'm going to break! It's[r]
+going to tear me apart!!"[pcms]
 
 *217|
 [fc]
-[ns]金髪の男[nse]
-「お、おお゛～～……お゛ぱい～……や～らけ゛～！[r]
-　き゛もち゛……い～～……」[pcms]
+[ns]Blond-haired man[nse]
+"Oh, ohhh~...boobs~...so soft~! Feels...good~..."[pcms]
 
 *218|
 [fc]
-[ns]半袖シャツの男[nse]
-「な゛かぁ～～……あた゛るぅ～～……、[r]
-　こ゛りこ゛り、す゛る～～……」[pcms]
+[ns]Short-sleeved shirt man[nse]
+"Inside~...it's hitting~...grinding, sliding~..."[pcms]
 
 *219|
 [fc]
 [vo_hay s="hayami1011"]
-[ns]ありす[nse]
-「いっ……あがあっ！！　やぁっ……、[r]
-　うっ……うぐうっ！　ぎいっ！」[pcms]
+[ns]Alice[nse]
+"Ah...aghahh!! Noo...ugh...ughuhh! Giihh!"[pcms]
 
 *220|
 [fc]
-速水は顔中を涙や涎でグショグショにして二人に[r]
-抵抗していた。[pcms]
+Hayami's face was drenched with tears and drool as she[r]
+resisted the two men.[pcms]
 
 *221|
 [fc]
-[ns]大倉[nse]
-「くそっ……速水っ……！」[pcms]
+[ns]Ookura[nse]
+"Damn it...Hayami...!"[pcms]
 
 *222|
 [fc]
-早く助けないと……。[r]
-このままじゃ……速水が！[pcms]
+I have to help her quickly... Otherwise...Hayami will![pcms]
 
 *223|
 [fc]
 [vo_hay s="hayami1012"]
-[ns]ありす[nse]
-「ひ……ヒロシ……、やぁっ！！　ぎっ……！[r]
-　こんな……イヤぁ！　みちゃ……うぐぅっ！」[pcms]
+[ns]Alice[nse]
+"Hi...Hiroshi..., nooo!! Gihh...! Not like this...I hate it![r]
+Uguhh!"[pcms]
 
 *224|
 [fc]
-[ns]半袖シャツの男[nse]
-「な゛か゛～～……あった゛け゛ぇ～～……、[r]
-　ぬ゛るぬ゛るしてき゛た゛ぁ～～……」[pcms]
+[ns]Short-sleeved shirt man[nse]
+"Inside~...it's getting warm~...getting slippery~..."[pcms]
 
 *225|
 [fc]
 [vo_hay s="hayami1013"]
-[ns]ありす[nse]
-「ぎっ……あがぁっ……お尻裂けちゃう！！[r]
-　も、もう！　ぬ、い、てぇっ！[r]
-　うっ……あぎっ！！」[pcms]
+[ns]Arisu[nse]
+"Gihh...aghahh...my butt is going to tear!! Stop! Pull it[r]
+out! Ugh...agihh!!"[pcms]
 
 *226|
 [fc]
-[ns]金髪の男[nse]
-「むね゛ぇ～……て゛け゛ぇ～……！[r]
-　ち゛くひ゛も……たって゛きた゛ぁ～～……」[pcms]
+[ns]Blond-haired man[nse]
+"Your chest~...so big~...! Even your nipples are getting[r]
+hard~..."[pcms]
 
 *227|
 [fc]
-[ns]半袖シャツの男[nse]
-「お゛～……お゛～……、か゛みのけ゛……い゛い、[r]
-　におい゛する～……」[pcms]
+[ns]Short-sleeved shirt man[nse]
+"Oh~...oh~...the hair smells nice~..."[pcms]
 
 *228|
 [fc]
 [vo_hay s="hayami1014"]
-[ns]ありす[nse]
-「こんな……こんなの……ぐっ……あうっ……、[r]
-　あぐっ！」[pcms]
+[ns]Alice[nse]
+"Not like this...this is too much...ughh...aguhh!"[pcms]
 
 *229|
 [fc]
-[ns]大倉[nse]
-「速水……速水っ！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Hayami...Hayami!"[pcms]
 
 *230|
 [fc]
 [vo_hay s="hayami1015"]
-[ns]ありす[nse]
-「痛いよっ……あぎっ……、いやぁぁぁ！！[r]
-　お腹苦しいっ！！　うあぁぁっ！！[r]
-　もう止めてぇ！！」[pcms]
+[ns]Arisu[nse]
+"It hurts...agihh..., nooooo!! My stomach hurts!! Uwaaaahh!![r]
+Stop it already!!"[pcms]
 
 *231|
 [fc]
-二人の間で揺さぶられる速水の体から、だんだん抵抗[r]
-する力が抜けて、まるで壊れたオモチャみたいになっ[r]
-ていった。[pcms]
+As Hayami was shaken between the two men, the strength to[r]
+resist gradually left her body, and she became like a broken[r]
+toy.[pcms]
 
 *232|
 [fc]
 [vo_hay s="hayami1016"]
-[ns]ありす[nse]
-「やめてぇ……、もう……こんなっ……ぎっ！[r]
-　あうっ……」[pcms]
+[ns]Arisu[nse]
+"Stop it...enough of this already...gihh! Aghh..."[pcms]
 
 *233|
 [fc]
 [vo_kob s="koba0479"]
-[ns]小林[nse]
-「ぎっ……いやだ！！　やあぁあ……！！」[pcms]
+[ns]Kobayashi[nse]
+"Gihh...I don't want this!! Noooo...!!"[pcms]
 
 *234|
 [fc]
-[ns]大倉[nse]
-「ユウ……！？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Yuuki...!?"[pcms]
 
 *235|
 [fc]
-ユウの痛々しくて、切なそうな声がした方に向くと、[r]
-そこからも、イカレた光景が目に飛び込んできた。[pcms]
+Turning towards the direction of Yuuki's pained and[r]
+sorrowful voice, another insane scene jumped into view.[pcms]
 
 ;//★イベントＣＧ４＿Ａ
 [evcg storage="HEV604b"][trans_c cross time=301]
@@ -538,365 +501,342 @@
 *236|
 [fc]
 [vo_kob s="koba0480"]
-[ns]小林[nse]
-「やっ……ぐあっ！！　やめろっ……あうっ……、[r]
-　この、へ、変態っ！」[pcms]
+[ns]Kobayashi[nse]
+"No...guahh!! Stop it...agh..., you pervert!"[pcms]
 
 *237|
 [fc]
-[ns]学生服の男[nse]
-「ち……ちんこ゛……ひ゛くひ゛く……いわ゛せて、[r]
-　なに゛……いって゛んた゛ぁ～……」[pcms]
+[ns]School uniform boy[nse]
+"My cock...biku biku...make it say, what are you talking[r]
+about~..."[pcms]
 
 *238|
 [fc]
 [vo_kob s="koba0481"]
-[ns]小林[nse]
-「んぎ――ッ！　いっ……お尻っ！！　ぐっあっ！[r]
-　こ……擦らないでっ！！」[pcms]
+[ns]Kobayashi[nse]
+"Ngh--hh! My butt!! Guahh! Don't rub it like that!!"[pcms]
 
 *239|
 [fc]
-ユウは、イカレたヤツの中でも一番イカレてそうな[r]
-顔をした男に犯され、顔を真っ赤にして泣いていた。[pcms]
+Yuuki was being violated by a man with the most insane look[r]
+on his face, her face turning bright red as she cried.[pcms]
 
 *240|
 [fc]
-痛がり、涙に濡れたユウの目と、俺の目が合った。[pcms]
+Our eyes metmine and Yuuki's, wet with tears of pain.[pcms]
 
 *241|
 [fc]
 [vo_kob s="koba0482"]
-[ns]小林[nse]
-「……！！　ヒ……ヒロ！！　ダメっ！[r]
-　こっち……みるなぁ！　いやあっ！！」[pcms]
+[ns]Kobayashi[nse]
+"...!! Hi...Hiro!! No! Don't look this way! Noooo!!"[pcms]
 
 *242|
 [fc]
-[ns]学生服の男[nse]
-「あ゛ぁ～～……ち゛んこ゛～……おっき゛く……、[r]
-　なった゛ぁ～～……へへぁ～～……！」[pcms]
+[ns]School uniform (wearing) boy[nse]
+"Ahh~...my cock~...getting bigger..., heheh~..."[pcms]
 
 *243|
 [fc]
 [vo_kob s="koba0483"]
-[ns]小林[nse]
-「うぁぁっ！　やっ……やめ……、あぐっ……、[r]
-　あっ、あっ……あうっ！！　さきっ……やめっ！」[pcms]
+[ns]Kobayashi[nse]
+"Uwahh! Stop...agh..., ah, ah...agh! Stop that!"[pcms]
 
 *244|
 [fc]
-[ns]大倉[nse]
-「ユウ……っ！　ぐあっ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Yuuki...ugh!!"[pcms]
 
 *245|
 [fc]
 [vo_kob s="koba0484"]
-[ns]小林[nse]
-「あ――っ！！　先っぽ……やめてっ！！[r]
-　いやだあっ！！　変態っ！！　うあぁぁっ！」[pcms]
+[ns]Kobayashi[nse]
+"Ah--hh!! The tip...stop it!! I don't want this, you[r]
+pervert!! Uwahhh!"[pcms]
 
 *246|
 [fc]
-クソッ……息苦しい……、背中が……。[r]
-骨……折れたか！？[pcms]
+Dammit...I can't breathe..., my back is.... Did I break a[r]
+bone?![pcms]
 
 *247|
 [fc]
-痛みと、息苦しさ、それに全身の痺れで、[r]
-俺は誰一人として助けに向かうことが出来なかった。[pcms]
+With pain, breathlessness, and numbness all over my body, I[r]
+couldn't go to help anyone.[pcms]
 
 *248|
 [fc]
-[ns]大倉[nse]
-「ハッ……ぐっ……みんな……があっ！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Haah...ugh...everyone...gah!"[pcms]
 
 *249|
 [fc]
 [vo_kob s="koba0485"]
-[ns]小林[nse]
-「いっ……いやぁっ！　ふぁっ！？　熱いっ！[r]
-　痛いぃ～……！」[pcms]
+[ns]Kobayashi[nse]
+"Ehh...nooo! Fwah!? It's hot! It hurts~..."[pcms]
 
 *250|
 [fc]
-[ns]学生服の男[nse]
-「お゛まえ……おんな゛みた゛いなかお゛、して゛ん[r]
-　なぁ～……い゛い……いい゛……」[pcms]
+[ns]School uniform (wearing) boy[nse]
+"You have such a girly face, don't you~...nice...nice..."[pcms]
 
 *251|
 [fc]
 [vo_kob s="koba0486"]
-[ns]小林[nse]
-「あうっ……うっ、ああっ、あ――ッ！[r]
-　いやだっ！！　手を離して！！　抜いて！！」[pcms]
+[ns]Kobayashi[nse]
+"Aghh...ugh, ahh, ah--hh! I don't want this!! Let go of me!![r]
+Pull it out!"[pcms]
 
 *252|
 [fc]
-[ns]学生服の男[nse]
-「あは゛あぁ～～……、しま゛る～～！！[r]
-　うあ゛～～……、い゛い～……」[pcms]
+[ns]School uniform (wearing) boy[nse]
+"Ahaha~...it's tightening up~!! Uwah~..., feels good~..."[pcms]
 
 *253|
 [fc]
 [vo_kob s="koba0487"]
-[ns]小林[nse]
-「んあっ……、あっ……、ぎっ……ぃっ！[r]
-　おし、お尻っ……、いっ……あうっ……」[pcms]
+[ns]Kobayashi[nse]
+"Nahh..., ah..., gihh..ehh! My butt..., ehh...agh!"[pcms]
 
 *254|
 [fc]
-ユウを犯している男の腰と、モノを擦っている手の[r]
-動きが速まってきたのと一緒に、何故かユウの口から[r]
-は、切なげな声が漏れ始めた。[pcms]
+The man violating Yuuki sped up the movement of his hips and[r]
+the hand rubbing his thing, and for some reason, Yuuki's[r]
+voice began to leak out pained sounds.[pcms]
 
 *255|
 [fc]
 [vo_kob s="koba0488"]
-[ns]小林[nse]
-「ふぁあっ……、こ、こんなっ、こんなの……変なの、[r]
-　にっ……！　おちんちん、熱い……ぐっ！[r]
-　ヒロぉ！　ボク……うあっ！　こんな……」[pcms]
+[ns]Kobayashi[nse]
+"Fwahh..., this is strange, so strange, it's weird, nihh![r]
+Your dick is hot...ugh! Hiroo! I'm..., uwahh! Like this..."[pcms]
 
 *256|
 [fc]
-[ns]学生服の男[nse]
-「けつ゛し゛ま、る～……、うあ゛あ～～！[r]
-　ち゛ん゛こ～～……はれ゛つ゛する～……！！」[pcms]
+[ns]School uniform (wearing) man[nse]
+"Your ass is tightening up~..., uwahhh~! My cock is swelling[r]
+up~...!!"[pcms]
 
 *257|
 [fc]
 [vo_kob s="koba0489"]
-[ns]小林[nse]
-「ヒロっ……み、な、いでっ……うんんっ……、[r]
-　あうっ！！　あっ、あっ……ああっ！？」[pcms]
+[ns]Kobayashi[nse]
+"Hiroo..., don't look..., mmmnnhh..., aghh!! Ah,[r]
+ah...ahhh!?"[pcms]
 
 *258|
 [fc]
-[ns]大倉[nse]
-「ユウ……！？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Yuuki...!?"[pcms]
 
 *259|
 [fc]
 [vo_kob s="koba0490"]
-[ns]小林[nse]
-「ヒロっ……ボク……ボク……、[r]
-　なんか……、あっ……ああっ……ああああっ！！」[pcms]
+[ns]Kobayashi[nse]
+"Hiro... I... I... somehow... ah... ahh... ahhhh!!"[pcms]
 
 *260|
 [fc]
-ユウの様子が変わりつつ有ることに気が付いた頃、[r]
-今度は犬の叫び声と、あのお嬢様の悲鳴が一段と[r]
-大きく響いた。[pcms]
+By the time I realized that Yuuki's condition was changing,[r]
+the dog's cries and the young lady's screams became even[r]
+louder.[pcms]
 
 *261|
 [fc]
-[ns]ジョン[nse]
-「ギャンッ！！　グルォォアァァ！！」[pcms]
+[ns]John[nse]
+"Gyan!! Guroooah!!"[pcms]
 
 *262|
 [fc]
 [vo_may s="maya0734"]
-[ns]お嬢様[nse]
-「いやぁっ！！　ジョン……ジョン！！」[pcms]
+[ns]Young Lady[nse]
+"No!! John... John!!"[pcms]
 
 *263|
 [fc]
-[ns]大倉[nse]
-「……！！　うおっ！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"...!! Uooh!"[pcms]
 
 *264|
 [fc]
-[ns]ジョン[nse]
-「ギャンッ！」[pcms]
+[ns]John[nse]
+"Gyan!"[pcms]
 
 *265|
 [fc]
-その声に振り返ると、俺のすぐそばにあの子の犬が[r]
-飛んできて、床に叩き付けられ、[r]
-犬の鳴き声はそれきり止まってしまった。[pcms]
+As I turned towards the voice, that girl's dog came flying[r]
+near me, slammed onto the floor, and then the dog's cries[r]
+stopped.[pcms]
 
 *266|
 [fc]
-[ns]大倉[nse]
-「お……おい……だ、大丈夫か？　……！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Hey... are you okay? ...!!"[pcms]
 
 *267|
 [fc]
-首だけを犬の方に向けると、そこには舌をだらしなく[r]
-垂らして気絶している犬の姿と、服を引き裂かれ、[r]
-すでに男に犯されているお嬢様の姿があった。[pcms]
+When I turned only my head towards the dog, there it was,[r]
+lying unconscious with its tongue hanging out, and the young[r]
+lady, her clothes torn, already being violated by a man.[pcms]
 
 ;//★イベントＣＧ２＿Ａ
 [evcg storage="HEV602c"][trans_c cross time=301]
 
 *268|
 [fc]
-イカレたヤツらに取り囲まれ、体の至る所にモノを[r]
-擦りつけられて、お嬢様は目を一杯に開いて抵抗して[r]
-いた。[pcms]
+Surrounded by crazy guys, rubbing their things all over her[r]
+body, the young lady was resisting with her eyes wide open.[pcms]
 
 *269|
 [fc]
-でも、周りの男達はそれをものともしないで、お嬢様[r]
-の体を弄んでいる。[pcms]
+But the men around her didn't care at all and continued to[r]
+play with the young lady's body.[pcms]
 
 *270|
 [fc]
 [vo_may s="maya0735"]
-[ns]お嬢様[nse]
-「ひっ……やめっ……あうっ！！　離せっ！！」[pcms]
+[ns]Young Lady[nse]
+"Hii... stop it... auh!! Let go!!"[pcms]
 
 *271|
 [fc]
-[ns]スーツの青年[nse]
-「ちく゛ひ゛……ぴんく゛いろ～……ち゛いさ゛い、[r]
-　ち゛くひ゛ぃ～～……」[pcms]
+[ns]Young Man in a Suit[nse]
+"Tch... pink color~... so small, ticklish~..."[pcms]
 
 *272|
 [fc]
-[ns]黒縁メガネの男[nse]
-「お゛お～……せぇ……ちいせ゛え゛～～……！！[r]
-　むね゛もぉ～～……か゛わい゛～～……」[pcms]
+[ns]Man with Black-Rimmed Glasses[nse]
+"Ooh... so small~... and the breasts too~... cute~..."[pcms]
 
 *273|
 [fc]
 [vo_may s="maya0736"]
-[ns]お嬢様[nse]
-「や、やめろっ！！　いやっ！！　いやあぁぁ！！[r]
-　ひあぁあっ！！」[pcms]
+[ns]Young Lady[nse]
+"Stop it!! No!! Noooo!! Hiaaah!!"[pcms]
 
 *274|
 [fc]
-[ns]破れたシャツを着た男[nse]
-「あし……ほそ゛い～……すへ゛すへ゛～～……」[pcms]
+[ns]A man wearing a torn shirt[nse]
+"Her legs... so slender~... so smooth~..."[pcms]
 
 *275|
 [fc]
 [vo_may s="maya0737"]
-[ns]お嬢様[nse]
-「気持ち悪いっ！！　こんな！！　こんなのっ！！[r]
-　ぐぅっ……、ジョン！！　ジョーン！！」[pcms]
+[ns]Young Lady[nse]
+"Disgusting!! This is!! This is not!! Guh... John!! John!!"[pcms]
 
 *276|
 [fc]
-[ns]全裸の男[nse]
-「き゛つき゛つの～……おま゛んこ゛～～……、[r]
-　いい～！　いい゛～～！！」[pcms]
+[ns]Naked Man[nse]
+"So tight... pussy~... feels good! So good~!!"[pcms]
 
 *277|
 [fc]
 [vo_may s="maya0738"]
-[ns]お嬢様[nse]
-「あぎっ……！！　うご……かすなっ！！　やめろ！[r]
-　お前ら、やめろぉっ！！」[pcms]
+[ns]Young Lady[nse]
+"Aghh...!! Don't move me!! Stop! All of you, stop!!"[pcms]
 
 *278|
 [fc]
-[ns]全裸の男[nse]
-「な゛んた゛ぁ～……！？　まん゛じる、あ゛ふれて、[r]
-　きた゛あ～～……！？」[pcms]
+[ns]Naked Man[nse]
+"What's this~...!? The pussy juice is overflowing, isn't[r]
+it~...!?"[pcms]
 
 *279|
 [fc]
-[ns]黒縁メガネの男[nse]
-「あ゛あ～……、ち゛くひ゛も～……たって゛る～、[r]
-　このこ゛、えろ゛い゛な～～」[pcms]
+[ns]Man with Black-Rimmed Glasses[nse]
+"Aah~... nipples are hard too~, this girl is so lewd~"[pcms]
 
 *280|
 [fc]
 [vo_may s="maya0739"]
-[ns]お嬢様[nse]
-「やあぁっ！！　ち……違うっ！！　そんな事ないっ！[r]
-　離せぇっ！！」[pcms]
+[ns]Young Lady[nse]
+"Yaaah!! That's not it!! It's not like that! Let go of me!!"[pcms]
 
 *281|
 [fc]
-お嬢様の小さな体は、今は誰も守るものも無く、ただ[r]
-イカレ野郎達によって蹂躙されてしまっていた。[pcms]
+The young lady's small body was now unprotected and being[r]
+trampled by these crazy bastards.[pcms]
 
 *282|
 [fc]
-足や、胸、それにオマンコに指を入れているイカレ[r]
-野郎達は、それぞれ好き勝手に彼女を犯し続けている。[pcms]
+The crazy guys inserting their fingers into her legs,[r]
+breasts, and pussy were each violating her as they pleased.[pcms]
 
 *283|
 [fc]
 [vo_may s="maya0740"]
-[ns]お嬢様[nse]
-「んあっ……ぐっ……！？　お腹があっ！！[r]
-　苦しいっ……離れろ……お前ら！！」[pcms]
+[ns]Young Lady[nse]
+"Nahh... guh...!? My stomach hurts!! It's painful... get off[r]
+me... all of you!!"[pcms]
 
 *284|
 [fc]
-[ns]全裸の男[nse]
-「あ゛～……あ゛～……、おまん゛こ～～……いい、[r]
-　おれ゛のゆひ゛ぃ～～……きもち゛いぃ～？」[pcms]
+[ns]Naked Man[nse]
+"Aah~... aah~..., your pussy~... feels good, doesn't my[r]
+finger feel good~?"[pcms]
 
 *285|
 [fc]
-[ns]スーツの青年[nse]
-「ちいさい゛おっぱい゛～～……あ゛ぁ～～……！[r]
-　すへ゛すへ゛た゛あぁ～～……」[pcms]
+[ns]Young man in a suit[nse]
+"Such small breasts~... aah~...! So smooth~..."[pcms]
 
 *286|
 [fc]
 [vo_may s="maya0741"]
-[ns]お嬢様[nse]
-「うあぁぁぁぁぁッ！！」[pcms]
+[ns]Young Lady[nse]
+"Uwaaaahhhhh!!"[pcms]
 
 *287|
 [fc]
-[ns]黒縁メガネの男[nse]
-「んん～～ちゅぷっ、ちゅうぅっ……！」[pcms]
+[ns]Man with Black-Rimmed Glasses[nse]
+"Nnn~... chup, chuuu..."[pcms]
 
 *288|
 [fc]
 [vo_may s="maya0742"]
-[ns]お嬢様[nse]
-「ふああぁあっ！！　気持ち悪いっ！　やぁあ！！[r]
-　もうやめろぉ！！」[pcms]
+[ns]Young Lady[nse]
+"Fuaaahh!! Disgusting! Yaaah!! Stop it already!!"[pcms]
 
 *289|
 [fc]
-[ns]破れたシャツを着た男[nse]
-「あし゛ぃ～～……あし゛ぃ～～！！　あ゛ぁ～！！」[pcms]
+[ns]A man wearing a torn shirt[nse]
+"Her ass~... her ass~!! Ahh~!!"[pcms]
 
 *290|
 [fc]
-胸に吸い付かれ、足にモノを擦りつけられても、[r]
-それでも抵抗を続けるお嬢様だったが、男達に押さえ[r]
-つけられていて、逃げ出す事は出来なかった。[pcms]
+Even as she was sucked on her breasts and rubbed against her[r]
+legs, the young lady continued to resist, but she was held[r]
+down by the men and couldn't escape.[pcms]
 
 *291|
 [fc]
 [vo_may s="maya0743"]
-[ns]お嬢様[nse]
-「いや――っ！！　あうっ……！？」[pcms]
+[ns]Young Lady[nse]
+"No--!! Auh...!?"[pcms]
 
 *292|
 [fc]
-[ns]全裸の男[nse]
-「くりと゛りす……ひ゛く゛ひ゛くしてる゛ぅ～、[r]
-　かん゛し゛てき゛てるの～～？」[pcms]
+[ns]Naked Man[nse]
+"Your clitoris is twitching~, are you feeling it~?"[pcms]
 
 *293|
 [fc]
 [vo_may s="maya0744"]
-[ns]お嬢様[nse]
-「ち……違う……ちがうぅ……！　いやだ！！[r]
-　抜けぇ！！」[pcms]
+[ns]Young Lady[nse]
+"That's not it... it's different...! I don't want this!![r]
+Pull it out!!"[pcms]
 
 *294|
 [fc]
 [vo_hay s="hayami1017"]
-[ns]ありす[nse]
-「あうっ……あっ……あ……あ……」[pcms]
+[ns]Arisu[nse]
+"Auh... ah... ah... ah..."[pcms]
 
 *295|
 [fc]
-それぞれが色んな所で犯されている中、[r]
-速水の弱々しい声が聞こえてきた。[pcms]
+In the midst of being violated in various places, Hayami's[r]
+feeble voice could be heard.[pcms]
 
 ;//★イベントＣＧ１＿Ａ
 [evcg storage="HEV601b"][trans_c cross time=301]
@@ -904,176 +844,166 @@
 *296|
 [fc]
 [vo_hay s="hayami1018"]
-[ns]ありす[nse]
-「あ……うあぁ……あたし……あたし……、[r]
-　も、もう……こんな……お尻も……アソコも……、[r]
-　もう……」[pcms]
+[ns]Alice[nse]
+"Ah... uahh... I... I can't take this anymore... my butt and[r]
+my pussy..., I just can't..."[pcms]
 
 *297|
 [fc]
-[ns]金髪の男[nse]
-「あぁ～……くり゛とり゛す……、かたくて゛……、[r]
-　おれ゛……もう、て゛そう～……」[pcms]
+[ns]Blond-haired man[nse]
+"Ahh~... your clitoris is so hard..., I'm about to come~..."[pcms]
 
 *298|
 [fc]
 [vo_hay s="hayami1019"]
-[ns]ありす[nse]
-「あう……あ……あ、あ……、んあぁ……」[pcms]
+[ns]Alice[nse]
+"Auh... ah... ah, ah..., nahh..."[pcms]
 
 *299|
 [fc]
-[ns]半袖シャツの男[nse]
-「けつ゛あな゛まて゛……ぬる゛ぬ゛るた゛～～……。[r]
-　しまる゛う～……」[pcms]
+[ns]Man in a Short-Sleeved Shirt[nse]
+"All the way to your asshole..., it's so slippery~. It's[r]
+tightening up~..."[pcms]
 
 *300|
 [fc]
 [vo_hay s="hayami1020"]
-[ns]ありす[nse]
-「うあ……ああっ……、ふっ……」[pcms]
+[ns]Arisu[nse]
+"Uah... ahh!... huff..."[pcms]
 
 *301|
 [fc]
-速水はもうすでに意識が飛びかけているようで、[r]
-二人の間で弱々しく呻いているだけだった。[pcms]
+Hayami seemed to be on the verge of losing consciousness,[r]
+just weakly moaning between the two men.[pcms]
 
 *302|
 [fc]
-口から涎を垂れ流して、白目を剥いている速水を、[r]
-二人の男は容赦なく責め立てる。[pcms]
+Drooling from her mouth and rolling her eyes back, Hayami[r]
+was relentlessly tormented by the two men.[pcms]
 
 *303|
 [fc]
 [vo_hay s="hayami1021"]
-[ns]ありす[nse]
-「あがあぁあ……んあっ……ぎっ……、ああ……、[r]
-　あ、あ」[pcms]
+[ns]Alice[nse]
+"Agaaahh... nahh... gihh..., ahh..., ah, ah"[pcms]
 
 *304|
 [fc]
-[ns]半袖シャツの男[nse]
-「あ゛～……、いれて゛ねぇのに～～……、[r]
-　もう゛て゛そぉ～～……」[pcms]
+[ns]Short-sleeved shirt man[nse]
+"Ahh~..., even without putting it in~, I'm about to[r]
+come~..."[pcms]
 
 *305|
 [fc]
 [vo_hay s="hayami1022"]
-[ns]ありす[nse]
-「んあっ……」[pcms]
+[ns]Arisu[nse]
+"Nahh..."[pcms]
 
 *306|
 [fc]
-[ns]金髪の男[nse]
-「おまんこ゛……けい゛れん゛して……る～……、[r]
-　ぬる゛ぬる゛ぅ……！！　お゛お゛～……！」[pcms]
+[ns]Blond-haired man[nse]
+"Your pussy is clenching..., so slippery~!! Ooh~...!"[pcms]
 
 *307|
 [fc]
 [vo_hay s="hayami1023"]
-[ns]ありす[nse]
-「あ……ああ……あぐ……う……」[pcms]
+[ns]Arisu[nse]
+"Ah... ahh... agu... u..."[pcms]
 
 *308|
 [fc]
-殆ど反応をしなくなった速水を、まるでオモチャで[r]
-遊んでいるかの様な二人の動きが、いっそう速さを[r]
-増していく。[pcms]
+As Hayami barely reacted anymore, the two men's movements[r]
+became even faster as if they were playing with a toy.[pcms]
 
 *309|
 [fc]
 [vo_hay s="hayami1024"]
-[ns]ありす[nse]
-「ぎっ……あぎっ……、いや……だ……、[r]
-　もう……、ゆるし……て……」[pcms]
+[ns]Alice[nse]
+"Gih... agih... no... I can't... please... forgive me..."[pcms]
 
 *310|
 [fc]
-[ns]金髪の男[nse]
-「お゛お、お゛～……！！　て゛るう～……、[r]
-　て゛るう～……！！」[pcms]
+[ns]Blond-haired man[nse]
+"Ooh, ooh~...!! It's coming~... it's coming~...!!"[pcms]
 
 *311|
 [fc]
 [vo_hay s="hayami1025"]
-[ns]ありす[nse]
-「が……あ、あ、イヤだ……イヤだよ……、[r]
-　こんな……の……」[pcms]
+[ns]Arisu[nse]
+"Ga... ah, no, I don't want this... I don't want this...,[r]
+like this..."[pcms]
 
 *312|
 [fc]
-[ns]半袖シャツの男[nse]
-「あ゛……また゛ぁ……しま゛って゛きた～……、[r]
-　いい゛よぉ～……これ……いい゛～……」[pcms]
+[ns]Short-sleeved shirt man[nse]
+"Ah~... it's tightening up again~... this is good~... this[r]
+is so good~..."[pcms]
 
 *313|
 [fc]
 [vo_hay s="hayami1026"]
-[ns]ありす[nse]
-「うんぅ……あうぅ……、お尻……、いっぱい……[r]
-　クリも擦れて……うぅあ……、あぁ……」[pcms]
+[ns]Alice[nse]
+"Ugh... augh... my butt..., it's full... rubbing against my[r]
+clit too... ugh ah..., ah..."[pcms]
 
 *314|
 [fc]
-ユウと同じように声が変わってきた速水には、[r]
-もう一つ変わってきたところがあった。[pcms]
+Just like Yuuki, Hayami's voice had changed, but there was[r]
+another change happening to her.[pcms]
 
 *315|
 [fc]
-目の色が、ヤツらみたいに赤く濁り始めたのだ。[pcms]
+Her eyes began to cloud over with a red haze, just like[r]
+theirs.[pcms]
 
 *316|
 [fc]
 [vo_hay s="hayami1027"]
-[ns]ありす[nse]
-「あぁ……あはぁ……あはははぁ！！[r]
-　お尻……いい……クリも……もっと……もっと、[r]
-　擦って……あうっ……あ……」[pcms]
+[ns]Arisu[nse]
+"Ah... ahaha... ahahaha!! My butt feels good... my clit[r]
+too... rub it more... more, rub it... augh... ah..."[pcms]
 
 *317|
 [fc]
-[ns]半袖シャツの男[nse]
-「おぁ……て゛……て゛そ゛～～……！！[r]
-　けつあな゛に゛……た゛すそ゛ぉ～～……！」[pcms]
+[ns]Short-sleeved shirt man[nse]
+"Oh... it's coming~... it's coming so~...!! Right in your[r]
+ass~... it's coming so~...!"[pcms]
 
 *318|
 [fc]
 [vo_hay s="hayami1028"]
-[ns]ありす[nse]
-「あうーっ……はっ……ははっ！！　あははっ！？[r]
-　あっ……うあっ……、あた、あたしっ……、[r]
-　へん……ヘンだよっ……！？　あうっ……！！」[pcms]
+[ns]Alice[nse]
+"Augh-... hah... hahah!! Ahaha!? Ah... ugh..., I, I'm[r]
+feeling..., weird... It's strange...! Augh...!!"[pcms]
 
 *319|
 [fc]
-[ns]金髪の男[nse]
-「お゛れも゛、て゛る～……、あう～……」[pcms]
+[ns]Blond-haired man[nse]
+"I'm also..., it's coming~..., augh~..."[pcms]
 
 *320|
 [fc]
 [vo_hay s="hayami1029"]
-[ns]ありす[nse]
-「んぎっ……あふっ、あぐっ！！[r]
-　あっ……ああっ……あたし、あ、あたし……、[r]
-　もう……ああっ！！　あっ……」[pcms]
+[ns]Arisu[nse]
+"Nghih... augh, aguh!! Ah... aahh... I, I'm..., I'm[r]
+already... aahh!! Ah..."[pcms]
 
 *321|
 [fc]
-[ns]金髪の男[nse]
-「た゛すそ゛ぉ～……！！　おぉぉ゛ぉ゛！！」[pcms]
+[ns]Blond-haired man[nse]
+"It's coming so~...!! Ooohhh!!"[pcms]
 
 *322|
 [fc]
-[ns]半袖シャツの男[nse]
-「あ゛～～……」[pcms]
+[ns]Short-sleeved shirt man[nse]
+"Ah~~..."[pcms]
 
 *323|
 [fc]
 [vo_hay s="hayami1030"]
-[ns]ありす[nse]
-「熱いっ！！　お尻っ……、ああっ！！　オマンコ！[r]
-　ああっ、あ――ッ！！　あ――ッ！[r]
-　いやぁぁぁぁぁ……」[pcms]
+[ns]Arisu[nse]
+"It's hot!! My ass..., aahh!! My pussy! Aahh, ah--!! Ah--![r]
+Nooooo..."[pcms]
 
 ;[射精フラA]
 ;イベントCG射精差分
@@ -1084,160 +1014,153 @@
 *324|
 [fc]
 [vo_hay s="hayami1031"]
-[ns]ありす[nse]
-「あ……ああ……」[pcms]
+[ns]Arisu[nse]
+"Ah... aah..."[pcms]
 
 *325|
 [fc]
-[ns]大倉[nse]
-「は……速水……うっ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Ha... Hayami... ugh..."[pcms]
 
 *326|
 [fc]
-俺は速水を助ける事が出来ず、そのうえ犯される姿を[r]
-ただ見ているだけだった。[pcms]
+I couldn't help Hayami, and all I could do was watch her[r]
+being violated.[pcms]
 
 *327|
 [fc]
 [vo_kob s="koba0491"]
-[ns]小林[nse]
-「ああっ……もう……あうっ……」[pcms]
+[ns]Kobayashi[nse]
+"Aahh... it's too much... augh..."[pcms]
 
 *328|
 [fc]
-そして、まだ体を動かせない俺の耳に、切なそうな[r]
-男の声が飛び込んできた。[pcms]
+And then, a pained male voice reached my ears, as I was[r]
+still unable to move.[pcms]
 
 *329|
 [fc]
-[ns]大倉[nse]
-「ユウ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Yuuki..."[pcms]
 
 ;//★イベントＣＧ３＿Ａ
 [evcg storage="HEV604b"][trans_c cross time=301]
 
 *330|
 [fc]
-[ns]学生服の男[nse]
-「けつ゛まん゛こ゛……いぃ゛～～……！[r]
-　おれ゛……しあ゛わせ゛～～……」[pcms]
+[ns]Male student in uniform[nse]
+"Your ass and pussy feel so good~! I'm so happy~..."[pcms]
 
 *331|
 [fc]
 [vo_kob s="koba0492"]
-[ns]小林[nse]
-「あっ、あっ……先っ……あうっ……！！[r]
-　ぼ、ボク……もう……ああっ……」[pcms]
+[ns]Kobayashi[nse]
+"Ah, ah... deeper... augh...!! I, I can't take it anymore...[r]
+aahh..."[pcms]
 
 *332|
 [fc]
-[ns]学生服の男[nse]
-「なん゛た゛ぁ～……？　ちんこ゛……ぬる゛ぬる、[r]
-　た゛ぁ～……！！」[pcms]
+[ns]School uniform (wearing) boy[nse]
+"What the~...? Your cock is so slippery, so good~...!!"[pcms]
 
 *333|
 [fc]
 [vo_kob s="koba0493"]
-[ns]小林[nse]
-「いやだぁっ！！　ボク……ボク……もう……！！[r]
-　おちんちん……ハレツするっ！！　あぎいっ！」[pcms]
+[ns]Kobayashi[nse]
+"No, stop!! I, I can't take it anymore!! My dick is going to[r]
+burst!! Augh!"[pcms]
 
 *334|
 [fc]
-[ns]大倉[nse]
-「ゆ……ユウ……！？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Yu... Yuuki...!?"[pcms]
 
 *335|
 [fc]
 [vo_kob s="koba0494"]
-[ns]小林[nse]
-「おちんちん……熱いよ！！　いやだぁっ！！[r]
-　ボク……もう出ちゃうっ！！　でちゃうぅ！！」[pcms]
+[ns]Kobayashi[nse]
+"My dick is so hot!! No, stop!! I'm going to cum!! I'm[r]
+cumming!!"[pcms]
 
 *336|
 [fc]
-男に犯され、モノを擦り上げられているユウは、[r]
-腰を振り乱して、悦んでいるような[r]
-叫び声を上げていた。[pcms]
+Yuuki, being violated by the man and rubbed against, was[r]
+thrashing her hips and screaming as if she was enjoying it.[pcms]
 
 *337|
 [fc]
-ユウも速水同様、目には異常な光が宿り、いつもとは[r]
-まるで違う人になったように見えた。[pcms]
+Just like Hayami, Yuuki's eyes held an abnormal light, and[r]
+she seemed completely different from her usual self.[pcms]
 
 *338|
 [fc]
-男に犯されているのに、抵抗もせず、むしろ、[r]
-快楽に浸っているようなユウに、俺は驚き、目を離す[r]
-事が出来なくなってしまっていた。[pcms]
+Despite being violated by the man, Yuuki didn't resist;[r]
+instead, she seemed to be drowning in pleasure. I was[r]
+shocked and couldn't look away.[pcms]
 
 *339|
 [fc]
 [vo_kob s="koba0495"]
-[ns]小林[nse]
-「あ～……ヒロぉ……、ボク、こんな……に……、[r]
-　ふあぁっ……、あっ……ああっ……、ボク……、[r]
-　ヒロにみられてるぅ……」[pcms]
+[ns]Kobayashi[nse]
+"Ah~... Hiroshi..., I'm like this..., fuahh..., ah...,[r]
+aahh..., I'm being watched by Hiroshi..."[pcms]
 
 *340|
 [fc]
-[ns]学生服の男[nse]
-「な゛ん゛た゛ぁ～～……！？　またおま゛えの゛、[r]
-　ちんこ゛……おっき゛く、なった゛そ゛ぉ～……？」[pcms]
+[ns]School uniform (wearing) boy[nse]
+"What the~...!? Your dick is getting bigger again~?"[pcms]
 
 *341|
 [fc]
 [vo_kob s="koba0496"]
-[ns]小林[nse]
-「あぐっ……、あはぁっ！　ヒロぉ……ヒロぉ！！[r]
-　ボク、もうイッちゃうよ……あははっ！[r]
-　ヒロに見られて、イッちゃうよ！！　あうっ！！」[pcms]
+[ns]Kobayashi[nse]
+"Aguh..., ahah! Hiroshi... Hiroshi!! I'm going to cum...,[r]
+ahaha! Hiroshi is watching me cum!! Augh!!"[pcms]
 
 *342|
 [fc]
-[ns]大倉[nse]
-「……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"..."[pcms]
 
 *343|
 [fc]
 [vo_kob s="koba0497"]
-[ns]小林[nse]
-「ヒロぉ……うぅっ……ヒロっ……ヒロぉ！！[r]
-　ボク……ボク……おちんちん……あああっ！！」[pcms]
+[ns]Kobayashi[nse]
+"Hiroshi... ugh..., Hiroshi..., Hiroshi!! My dick...,[r]
+ahhh!!"[pcms]
 
 *344|
 [fc]
-[ns]学生服の男[nse]
-「あう゛あ～～……けつ゛まん゛こ……しま゛る～～、[r]
-　きつ゛いぃ～……！！　おれ゛～……もう～～」[pcms]
+[ns]School uniform (wearing) boy[nse]
+"Augh~~... your ass and pussy are tightening up~~, it's so[r]
+tight~...!! I'm about to~~"[pcms]
 
 *345|
 [fc]
 [vo_kob s="koba0498"]
-[ns]小林[nse]
-「イッ……イク……出ちゃう……出ちゃうよ！！[r]
-　ヒロっ！　ヒロぉ！　み……見て……ボクの！！[r]
-　ボクのイク所、見て！！　うあぁぁ――ッ！」[pcms]
+[ns]Kobayashi[nse]
+"I'm cumming... I'm cumming out... it's coming out!![r]
+Hiroshi! Hiroshi! Look at me!! Watch me cum!! Ughhh--!"[pcms]
 
 *346|
 [fc]
 [vo_kob s="koba0499"]
-[ns]小林[nse]
-「出る！！　出るでるぅっ！！　あぁぁうっ！[r]
-　出ちゃうぅ～～！！」[pcms]
+[ns]Kobayashi[nse]
+"It's coming out!! It's coming out!! Aaauhh! It's cumming[r]
+out~~!!"[pcms]
 
 *347|
 [fc]
-[ns]学生服の男[nse]
-「おれ゛も……て゛る～～……！！」[pcms]
+[ns]Male student in uniform[nse]
+"I'm also..., it's coming out~~...!!"[pcms]
 
 *348|
 [fc]
 [vo_kob s="koba0500"]
-[ns]小林[nse]
-「あうぅぅっ！！　おちんちん！！　おちんちんがっ！[r]
-　あぁぁあああぁぁぁあっ！！[r]
-　うわあぁあぁぁぁぁあ！！」[pcms]
+[ns]Kobayashi[nse]
+"Aughhh!! My dick!! My dick is! Aaaaahhhhhhhhhhhhhhhhhhhhhhh[r]
+hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh[r]
+hhhhhhhhhhhhhhhhhhhhhhhhhhh!!!!"[pcms]
 
 
 ;[射精フラA]
@@ -1249,69 +1172,68 @@
 *349|
 [fc]
 [vo_kob s="koba0501"]
-[ns]小林[nse]
-「あうぅぅ……」[pcms]
+[ns]Kobayashi[nse]
+"Aughh..."[pcms]
 
 *350|
 [fc]
-[ns]学生服の男[nse]
-「はあ゛っ……、はあ゛っ……」[pcms]
+[ns]School uniform (wearing) boy[nse]
+"Hahh..., hahh..."[pcms]
 
 *351|
 [fc]
 [vo_kob s="koba0502"]
-[ns]小林[nse]
-「はあっ……、あはぁ……おちんちんから……、[r]
-　いっぱい……、ボクのせーえき……あはぁっ……」[pcms]
+[ns]Kobayashi[nse]
+"Hahh..., ahahh... from my dick..., so much..., my semen...[r]
+ahahh..."[pcms]
 
 *352|
 [fc]
-[ns]大倉[nse]
-「ヒロ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Hiroshi..."[pcms]
 
 *353|
 [fc]
 [vo_kob s="koba0503"]
-[ns]小林[nse]
-「あはぁ……おちんちん……熱いよぉ……」[pcms]
+[ns]Kobayashi[nse]
+"Ahahh... my dick is so hot..."[pcms]
 
 *354|
 [fc]
-[ns]大倉[nse]
-「……」[pcms]
+[ns]Ookura[nse]
+"..."[pcms]
 
 *355|
 [fc]
 [vo_kob s="koba0504"]
-[ns]小林[nse]
-「はあぁぁ……止まらないよ……ボクの……せーえき、[r]
-　とまらないよ……」[pcms]
+[ns]Kobayashi[nse]
+"Ahhh.... it won't stop..., my semen won't stop..."[pcms]
 
 *356|
 [fc]
-変わり果てたユウは、目をトロンとさせて、[r]
-俺を見つめたまま、長い時間、射精していた。[pcms]
+The completely changed Yuuki was ejaculating for a long time[r]
+with a dazed look in her eyes while staring at me.[pcms]
 
 *357|
 [fc]
-涎と精液を垂らして悦ぶユウは、もう以前のユウじゃ[r]
-なかった。[pcms]
+Drooling with semen dripping down, Yuuki was no longer the[r]
+Yuuki from before.[pcms]
 
 *358|
 [fc]
-速水も、ユウも、このイカレたヤツらに犯されて、[r]
-おかしくなった。[pcms]
+Both Hayami and Yuuki had been violated by these crazed guys[r]
+and had gone mad.[pcms]
 
 *359|
 [fc]
-精神的に追いつめられておかしくなったのとは違う、[r]
-その異様な雰囲気に、俺はただ恐怖を感じていた。[pcms]
+It wasn't just a mental breakdown, the eerie atmosphere made[r]
+me feel nothing but terror.[pcms]
 
 *360|
 [fc]
-体の痛みも治まらず、速水やヒロの変貌をみて、[r]
-背筋の寒くなった俺に、またしてもイカレた声、[r]
-お嬢様のイカレた声が聞こえてきた。[pcms]
+My body still ached, and seeing Hayami and Hiro's[r]
+transformation, I felt a chill down my spine as I heard the[r]
+deranged voice of the young lady again.[pcms]
 
 ;//★イベントＣＧ２＿Ａ
 [evcg storage="HEV602c"][trans_c cross time=301]
@@ -1319,101 +1241,93 @@
 *361|
 [fc]
 [vo_may s="maya0745"]
-[ns]お嬢様[nse]
-「あぁっ……、私……なんだか……ふあっ……」[pcms]
+[ns]Young Lady[nse]
+"Ahh... I feel... somewhat... fuah..."[pcms]
 
 *362|
 [fc]
-[ns]破れたシャツを着た男[nse]
-「あう゛～……あう゛～～……！[r]
-　あし゛……ほそ゛いあし゛ぃ～～……、[r]
-　すへ゛すへ゛ぇ～～……！」[pcms]
+[ns]A man wearing a torn shirt[nse]
+"Auh~... Auh~~...! My thin ass~~... so slippery~~...!"[pcms]
 
 *363|
 [fc]
-[ns]全裸の男[nse]
-「ちっさ゛いおま゛んこ゛～！！[r]
-　ゆひ゛おれそぉ～～……きつ゛いぃ～～……！！」[pcms]
+[ns]Naked Man[nse]
+"Such a tiny pussy~!! It's tearing~... so tight~~...!!"[pcms]
 
 *364|
 [fc]
 [vo_may s="maya0746"]
-[ns]お嬢様[nse]
-「うあぁっ……おな、かっ……の中……、[r]
-　掻き回されて……くうっ……！」[pcms]
+[ns]Young Lady[nse]
+"Uahh... inside my crotch..., it's being stirred around...[r]
+kuhh...!"[pcms]
 
 *365|
 [fc]
-[ns]黒縁メガネの男[nse]
-「ちく゛ひ゛～……つねられ゛るの……す゛きなん、[r]
-　だ～～……き゛もちよさ゛そ～な゛かお゛、して、[r]
-　る～～……」[pcms]
+[ns]Man with Black-Rimmed Glasses[nse]
+"Nipples~... being pinched... I like it~, such a pleasurable[r]
+face you're making~..."[pcms]
 
 *366|
 [fc]
 [vo_may s="maya0747"]
-[ns]お嬢様[nse]
-「きゃ……あうっ……、胸っ……やぁ……」[pcms]
+[ns]Young Lady[nse]
+"Kya... auh... my breasts... yah..."[pcms]
 
 *367|
 [fc]
-[ns]全裸の男[nse]
-「あぁ゛ぁ～……き゛ゅう゛って……した゛ぁ～～！[r]
-　ちいさ゛いから゛た゛して～～……すけへ゛ぇ～！」[pcms]
+[ns]Naked Man[nse]
+"Aah~~... squeezing them tight~~! Pressing against your[r]
+small body~~... so slippery!"[pcms]
 
 *368|
 [fc]
 [vo_may s="maya0748"]
-[ns]お嬢様[nse]
-「やあぁ……そんな、いぎっ……あぁう……、[r]
-　体中……ぬるぬるして……気持ちいい、[r]
-　なんか……頭変に……あうっ！」[pcms]
+[ns]Young Lady[nse]
+"Yahh... like that, it's so slippery... ahuh..., my whole[r]
+body feels good, my head's getting weird... auh!"[pcms]
 
 *369|
 [fc]
-[ns]黒縁メガネの男[nse]
-「むね゛、かた゛いな～～……ちく゛ひ゛も、かた゛[r]
-　い～～……たまら゛ねぇ～～！！」[pcms]
+[ns]Man with Black-Rimmed Glasses[nse]
+"Your breasts, so firm~... nipples too, so hard~...[r]
+irresistible~~!!"[pcms]
 
 *370|
 [fc]
-[ns]破れたシャツの男[nse]
-「あし゛か゛おれ゛のとあせ゛て゛ぬるぬる゛た゛ぁ[r]
-　きも゛ちい゛ぃ～～……！」[pcms]
+[ns]Man with a Torn Shirt[nse]
+"My ass is covered in sweat and it feels so good~~...!"[pcms]
 
 *371|
 [fc]
 [vo_may s="maya0749"]
-[ns]お嬢様[nse]
-「あっ、んうぁ……、体熱い！！　うぁぁ～！[r]
-　なんか、頭変……変に……私、変だ！[r]
-　うあぁぁ……」[pcms]
+[ns]Young Lady[nse]
+"Ah, nuah... my body's so hot!! Uwahh! Something's wrong[r]
+with my head... I'm going crazy! Uwahhh..."[pcms]
 
 *372|
 [fc]
-あの気丈そうなお嬢様まで、イカレてきた……。[r]
-どうなってるんだコレは……！[pcms]
+Even that seemingly strong-willed young lady had gone mad...[r]
+What on earth is happening here...![pcms]
 
 *373|
 [fc]
 [vo_may s="maya0750"]
-[ns]お嬢様[nse]
-「私……何……！？　これ……、怖い……怖いっ！」[pcms]
+[ns]Young Lady[nse]
+"I... what...!? This is... scary... scary!"[pcms]
 
 *374|
 [fc]
-俺は、悪い夢でも見ているのか！？[pcms]
+Am I having a bad dream!?[pcms]
 
 *375|
 [fc]
-[ns]大倉[nse]
-「ぐっ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Guh..."[pcms]
 
 *376|
 [fc]
-急に襲ってきた背中の痛みに悶絶し、[r]
-のけぞった先にも、一緒に逃げ込んだ女の人達の[r]
-変わり果てた様子が視界に飛び込んできた。[pcms]
+Writhing in sudden back pain, I saw the completely changed[r]
+women who had fled with me come into view as I arched back.[pcms]
 
 ;//★イベントＣＧ４＿Ａ
 [evcg storage="HEV901c"][trans_c cross time=301]
@@ -1421,199 +1335,184 @@
 *377|
 [fc]
 [vo_anz s="anzai0404"]
-[ns]女[nse]
-「うえぇっ！！　ぶふっ、ぶぇっ！！」[pcms]
+[ns]Female[nse]
+"Ueeh!! Buhf, bueh!!"[pcms]
 
 *378|
 [fc]
-[ns]学生服の男[nse]
-「した゛とのと゛あた゛って゛～……いい～……、[r]
-　おっぱい゛も～……うあ～……」[pcms]
+[ns]School uniform (wearing) boy[nse]
+"It feels good when it touches down there~... and the[r]
+breasts too~... uah~..."[pcms]
 
 *379|
 [fc]
 [vo_anz s="anzai0405"]
-[ns]女[nse]
-「んーーっ！！　んうぅーーっ！！！！[r]
-　あはぁっ！　んぶぁっ……ぢゅっ……んぶっ！」[pcms]
+[ns]Female[nse]
+"Nnh--!! Nguuh--!! Ahha! Nbuah... jyu... nbuh!"[pcms]
 
 *380|
 [fc]
-[ns]学生服の男[nse]
-「あ゛あぁぁ～～～……っ！！　したて゛ぇ、うら゛[r]
-　すし゛ぃ～……こすら゛れて゛ぇ～～……いぃ～」[pcms]
+[ns]Male student in uniform[nse]
+"Aaah~~~...!! The underside feels so good~... being[r]
+rubbed~~... nice~"[pcms]
 
 *381|
 [fc]
 [vo_anz s="anzai0406"]
-[ns]女[nse]
-「ぶちゅっ……じゅるっ！！　ぷあっ！　んっ……、[r]
-　んっ……ちゅぷっ……れろっ！」[pcms]
+[ns]Female[nse]
+"Buchu... juru!! Pua! Nn..., nn... chupu... rero!"[pcms]
 
 *382|
 [fc]
-[ns]学生服の男[nse]
-「あー、あ゛ーっ……すわれ゛て゛～！！[r]
-　すこ゛い゛よ゛ぉ～～……おか゛ぁちゃ゛ぁん゛！[r]
-　ああぅ～～……」[pcms]
+[ns]School uniform (wearing) man[nse]
+"Ah-, ah-... being ridden~~!! It feels amazing~~... you're[r]
+going crazy, girl! Aau~~..."[pcms]
 
 *383|
 [fc]
 [vo_anz s="anzai0407"]
-[ns]女[nse]
-「んぶっ……ふふっ……、もう我慢出来ないのぉ？[r]
-　だらしない……ぶっ……んぶあぁっ……」[pcms]
+[ns]Female[nse]
+"Nbu... fufu..., can't hold back anymore? So sloppy...[r]
+buh... nbuaah..."[pcms]
 
 *384|
 [fc]
-[ns]学生服の男[nse]
-「ま、また゛ぁ……もっと゛すって゛ぇ～～……、[r]
-　た゛まんね゛ぇ～～……」[pcms]
+[ns]School uniform (wearing) boy[nse]
+"Ma, more again... rub it more~~..., can't stand it~~..."[pcms]
 
 *385|
 [fc]
 [vo_anz s="anzai0408"]
-[ns]女[nse]
-「んっ、ぷちゅ、んはぁ……んむっ、んぶぅ！　[r]
-　……んじゅる、ちゃぷっ……はあっ……あはっ！」[pcms]
+[ns]Female[nse]
+"Nn, puchu, nhaa... nmu, nbuu! ...njuru, chapu... haa...[r]
+aha!"[pcms]
 
 *386|
 [fc]
-[ns]学生服の男[nse]
-「あ゛～……！！　うら゛すし゛～～……！！」[pcms]
+[ns]School uniform (wearing) boy[nse]
+"Aa~...!! The underside is so good~~...!!"[pcms]
 
 *387|
 [fc]
 [vo_anz s="anzai0409"]
-[ns]女[nse]
-「んはっ……ふふっ……あはぁっ……！！[r]
-　んぶっ……ぢゅっ……あはははっ！！」[pcms]
+[ns]Female[nse]
+"Nhaa... fufu... ahhaa...!! Nbuu... jyu... ahahaha!!"[pcms]
 
 *388|
 [fc]
-[ns]学生服の男[nse]
-「おっぱい゛も……、もっと゛はさんて゛～～……、[r]
-　あう～～……」[pcms]
+[ns]School uniform (wearing) boy[nse]
+"The breasts too..., squeeze them more~~..., auu~~..."[pcms]
 
 *389|
 [fc]
 [vo_anz s="anzai0410"]
-[ns]女[nse]
-「かつ゛や゛ぁ～～……か゛つや゛ぁ～～……、[r]
-　んぶっ……あぶっ！！　んぢゅっ！！」[pcms]
+[ns]Female[nse]
+"Katsuya~~~... katsuya~~~..., nbu... abu!! Njyu!!"[pcms]
 
 *390|
 [fc]
-あの女の人も、もうイカレたヤツらみたいに……。[r]
-俺の周りの人、みんな……。[pcms]
+That woman too, she's become like those crazed guys around[r]
+me. Everyone around me...[pcms]
 
 *391|
 [fc]
 [vo_nag s="nagasaki0389"]
-[ns]セーラー服の女[nse]
-「いやぁあぁぁ！！　触るなぁ！　このクズがっ！！[r]
-　抜けぇぇぇ！！　離れろおっ！！」[pcms]
+[ns]Sailor Suit Girl[nse]
+"No aaaaah!! Don't touch me! You scum!! Get off me!! Get[r]
+away!!"[pcms]
 
 ;//★イベントＣＧ５＿Ａ
 [evcg storage="HEV605a"][trans_c cross time=301]
 
 *392|
 [fc]
-[ns]チャラい男子生徒[nse]
-「うれ゛し゛ぃ～～……あお゛は゛いち゛の……、[r]
-　ひ゛し゛んと……おまん゛こして゛る゛～！」[pcms]
+[ns]Flirty male student[nse]
+"So happy~~... your blue panties..., you're wetting your[r]
+pussy~!"[pcms]
 
 *393|
 [fc]
 [vo_nag s="nagasaki0390"]
-[ns]セーラー服の女[nse]
-「ああぁっ！！　んうっ！！　抜けぇぇ！！[r]
-　ふあっ！　いやぁぁぁ！！　んうあぁ！！」[pcms]
+[ns]Sailor Suit Girl[nse]
+"Aaahh!! Nguh!! Get off me!! Fuah! Nooo!! Nguahh!!"[pcms]
 
 *394|
 [fc]
-[ns]チャラい男子生徒[nse]
-「きも゛ち゛い～～……あぅ……しょし゛ょた゛し～、[r]
-　うぁ～～……！」[pcms]
+[ns]Flirty male student[nse]
+"Feels good~~... auh... doing it with a shota~, uah~~...!"[pcms]
 
 *395|
 [fc]
 [vo_nag s="nagasaki0391"]
-[ns]セーラー服の女[nse]
-「気持ち悪いって言ってるのにっ！！[r]
-　離れろぉ！　バカ！！　うあぁぁぁ！！[r]
-　いやぁぁぁっ！！　あ――ッ！」[pcms]
+[ns]Sailor Suit Girl[nse]
+"I'm telling you it feels disgusting!! Get off me! Idiot!![r]
+Uwaaaah!! Noooo!! Ah--!"[pcms]
 
 *396|
 [fc]
-[ns]チャラい男子生徒[nse]
-「へぁ～～……、こん゛なこ゛と゛せっく゛すて゛き[r]
-　るな゛んて゛～～……おれ゛もう゛、しんて゛も、[r]
-　いい～～！」[pcms]
+[ns]Flirty male student[nse]
+"Heh~~..., to think I could have sex like this~, even if I[r]
+die now, I'm satisfied~~!"[pcms]
 
 *397|
 [fc]
 [vo_nag s="nagasaki0392"]
-[ns]セーラー服の女[nse]
-「やだぁ！！　こんなの……男なんて！！[r]
-　クソっ！！　気持ち悪いぃ～！！　いやぁぁ！！」[pcms]
+[ns]Sailor Suit Girl[nse]
+"No way!! Men are like this... shit!! So disgusting!![r]
+Nooo!!"[pcms]
 
 *398|
 [fc]
-[ns]チャラい男子生徒[nse]
-「はし゛めて゛か゛……おれ゛なん゛て～～……、[r]
-　うれし゛い～～！！　うあ゛あ゛～～」[pcms]
+[ns]Flirty male student[nse]
+"Is it your first time? I'm so happy~~!! Uwaaa~~"[pcms]
 
 *399|
 [fc]
 [vo_nag s="nagasaki0393"]
-[ns]セーラー服の女[nse]
-「あっ……あうっ……！　いやぁ！！[r]
-　アタシの初めてっ……こんなっ……ふあっ！！」[pcms]
+[ns]Sailor Suit Girl[nse]
+"Ah... auh...! Nooo!! My first time should not be like[r]
+this... fuah!!"[pcms]
 
 *400|
 [fc]
-俺は、周りがこんな状況になっているというのに、[r]
-ただ一人床に突っ伏して、一部始終を見守る事しか[r]
-出来ないでいる。[pcms]
+Despite everything happening around me, I was the only one[r]
+lying face down on the floor, unable to do anything but[r]
+watch everything unfold.[pcms]
 
 *401|
 [fc]
-[ns]大倉[nse]
-「ゲホッ……うぁっ……クソッ……」[pcms]
+[ns]Ookura[nse]
+"*Cough* *Cough* Damn it..."[pcms]
 
 *402|
 [fc]
-[ns]チャラい男子生徒[nse]
-「あ゛～……た゛め゛た゛ぁ～～……、[r]
-　て゛るぅ～～……、か゛ま゛んて゛きない゛ぃ～」[pcms]
+[ns]Flirty male student[nse]
+"Aa~... can't hold it anymore~~..., it's coming out~~...,[r]
+can't resist it~~"[pcms]
 
 *403|
 [fc]
 [vo_nag s="nagasaki0394"]
-[ns]セーラー服の女[nse]
-「あああっ……んあっ……な、中で……あうっ……、[r]
-　なにっ……いやあっ！！　ちょっとアンタ！！[r]
-　やめろ！！　やめろぉお！！」[pcms]
+[ns]Sailor Suit Girl[nse]
+"Aaaaahh... nuhahh... inside me... auh..., what is this?[r]
+Nooo!! Hey you!! Stop it!! Stop it now!!"[pcms]
 
 *404|
 [fc]
-[ns]チャラい男子生徒[nse]
-「おれ゛のこ゛と゛も～……にん゛しん゛して～～！！[r]
-　こ゛と゛も……うむ゛ところ゛……みせ゛て゛～！」[pcms]
+[ns]Flirty male student[nse]
+"Get pregnant with my child too~~!! Show me where you give[r]
+birth!"[pcms]
 
 *405|
 [fc]
 [vo_nag s="nagasaki0395"]
-[ns]セーラー服の女[nse]
-「いやぁぁっ！　いやぁぁぁあああ！！[r]
-　やめっ！！　やめろ……やめろぉ！！！！[r]
-　ああぁあぁぁっ！！」[pcms]
+[ns]Sailor Suit Girl[nse]
+"Nooooo! Noooooo!!! Stop it!! Stop it now!!! Aaaahhhhh!!"[pcms]
 
 *406|
 [fc]
-[ns]チャラい男子生徒[nse]
-「あ゛」[pcms]
+[ns]Flirty Male Student[nse]
+"Ah"[pcms]
 
 ;[射精フラA]
 ;//★イベントＣＧ５＿Ｂ
@@ -1624,57 +1523,54 @@
 *407|
 [fc]
 [vo_nag s="nagasaki0396"]
-[ns]セーラー服の女[nse]
-「あぁああぁぁぁぁああ！！[r]
-　いやぁぁぁぁぁあ！！！　子供出来ちゃう！！[r]
-　うぁあぁぁあぁああぁぁぁあ！！」[pcms]
+[ns]Sailor Suit Girl[nse]
+"Aaaaaaaaahhhhh!!! Noooooo!!! I'll get pregnant!!![r]
+Uwaaaaaaahhhhhhh!!!!"[pcms]
 
 *408|
 [fc]
-[ns]チャラい男子生徒[nse]
-「あ゛～～……！！　て゛たあ゛～～……」[pcms]
+[ns]Flirtatious male student[nse]
+"Aa~~~...!!! It's coming out~~..."[pcms]
 
 [evcg storage="HEV605d"][trans_c cross time=301]
 
 *409|
 [fc]
 [vo_nag s="nagasaki0397"]
-[ns]セーラー服の女[nse]
-「こんな……こんなの……いやぁぁぁぁ！！[r]
-　ぐすっ……いやあ――ッ！！　あ、ああっ……、[r]
-　中で……出された……っ！」[pcms]
+[ns]Sailor Suit Girl[nse]
+"No... not like this... ahhhh!! Sob... no--!! Ah, ahh...[r]
+I've been... cummed inside...!"[pcms]
 
 *410|
 [fc]
-[ns]チャラい男子生徒[nse]
-「ふあ゛ぁ……とま゛らね゛ぇ～……」[pcms]
+[ns]Flirty male student[nse]
+"Fuaah... can't stop~~..."[pcms]
 
 *411|
 [fc]
 [vo_nag s="nagasaki0398"]
-[ns]セーラー服の女[nse]
-「あ……あぅ……」[pcms]
+[ns]Sailor Suit Girl[nse]
+"Ah... auh..."[pcms]
 
 *412|
 [fc]
-[ns]チャラい男子生徒[nse]
-「も゛う゛いっか゛い～～……」[pcms]
+[ns]Flirtatious male student[nse]
+"I'm gonna cum~~..."[pcms]
 
 *413|
 [fc]
 [vo_nag s="nagasaki0399"]
-[ns]セーラー服の女[nse]
-「あ……あふっ……あ……ああ……」[pcms]
+[ns]Sailor Suit Girl[nse]
+"Ah... ahuh... ah... ahh..."[pcms]
 
 *414|
 [fc]
-セーラー服の女は、ひとしきり叫んだあと、[r]
-白目を剥いて、気を失ってしまった。[pcms]
+After screaming for a while, the girl in the sailor suit[r]
+rolled her eyes back and lost consciousness.[pcms]
 
 *415|
 [fc]
-俺は……。[r]
-俺はどうしたら……。[pcms]
+What should I do...?[pcms]
 
 ;//★イベントＣＧ２＿Ｂ
 [evcg storage="HEV602c"][trans_c cross time=301]
@@ -1682,47 +1578,43 @@
 *416|
 [fc]
 [vo_may s="maya0751"]
-[ns]お嬢様[nse]
-「あはぁっ……いいよぉ……気持ちいいっ……、[r]
-　うぁぁっ……」[pcms]
+[ns]Young Lady[nse]
+"Ahah... that's good... feels good..., uwaah..."[pcms]
 
 *417|
 [fc]
-[ns]黒縁メガネの男[nse]
-「ち゛くひ゛に……ふ゛っかけ゛て゛やる゛よぉ～！[r]
-　いく゛そ゛お～～……」[pcms]
+[ns]Man with Black-Rimmed Glasses[nse]
+"I'm gonna cum on your nipples~~! Here it comes~~..."[pcms]
 
 *418|
 [fc]
 [vo_may s="maya0752"]
-[ns]お嬢様[nse]
-「乳首……胸……胸がぁ……うぁぁ！！」[pcms]
+[ns]Young Lady[nse]
+"My nipples... my breasts... my breasts are... uwaah!!"[pcms]
 
 *419|
 [fc]
-[ns]全裸の男[nse]
-「おれ゛のゆひ゛ぃ～～……そん゛なに……いいのか？[r]
-　もっとかき゛まわして゛やるよぉ～～……」[pcms]
+[ns]Naked Man[nse]
+"My fingers~~... do they feel that good? I'll stir you up[r]
+even more~~..."[pcms]
 
 *420|
 [fc]
 [vo_may s="maya0753"]
-[ns]お嬢様[nse]
-「ああっ……あっ……な、何を……？　あはぁっ……[r]
-　ヘンっ！！　私のお腹……ヘンだ！」[pcms]
+[ns]Young Lady[nse]
+"Aah... ah... what are you...? Ahah... Weird!! My stomach[r]
+feels weird!"[pcms]
 
 *421|
 [fc]
-[ns]黒縁メガネの男[nse]
-「うぁぁあ゛～～……て゛るぅ～……！！[r]
-　あ゛――……」[pcms]
+[ns]Man with Black-Rimmed Glasses[nse]
+"Uwaaaah~~... it's coming~~...!! Ah--..."[pcms]
 
 *422|
 [fc]
 [vo_may s="maya0754"]
-[ns]お嬢様[nse]
-「いやっ！！　いやぁぁあ！！　怖いぃっ！！[r]
-　ああぁぁっ！！　だめぇぇえぇぇぇ！！」[pcms]
+[ns]Young Lady[nse]
+"No!! Nooooo!! I'm scared!! Aaahhh!! Noooo!!"[pcms]
 
 ;[射精フラA]
 ;//★イベントＣＧ２＿Ｃ
@@ -1731,27 +1623,25 @@
 
 *423|
 [fc]
-[ns]破れたシャツの男[nse]
-「あし゛にも～……あ、あ゛～～……」[pcms]
+[ns]Man with a Torn Shirt[nse]
+"Even to your legs~~... ah, aah~~..."[pcms]
 
 *424|
 [fc]
 [vo_may s="maya0755"]
-[ns]お嬢様[nse]
-「うああぁぁっ！！　熱いっ！！　あついぃぃ！」[pcms]
+[ns]Young Lady[nse]
+"Uwaaahh!! It's hot!! It's so hot!"[pcms]
 
 *425|
 [fc]
-[ns]黒縁メガネの男[nse]
-「お゛っぱい゛～～……おっぱい゛～～……、[r]
-　うあ゛ぁぁぁ～……」[pcms]
+[ns]Man with Black-Rimmed Glasses[nse]
+"Breasts~~... breasts~~..., uwaahhh~~..."[pcms]
 
 *426|
 [fc]
 [vo_may s="maya0756"]
-[ns]お嬢様[nse]
-「いやっ！！　いやぁぁぁぁぁ！！！　あっ……、[r]
-　ああぁぁぁぁ――っ！」[pcms]
+[ns]Young Lady[nse]
+"No!! Noooooo!!! Ah... ahhhhh--!!"[pcms]
 
 
 ;[射精フラA]
@@ -1763,63 +1653,58 @@
 *427|
 [fc]
 [vo_may s="maya0757"]
-[ns]お嬢様[nse]
-「あぅぅぅっ……体中ヌルヌルっ！！[r]
-　いやぁぁ！！　気持ちわるいぃぃ！　私……私っ！[r]
-　いやぁぁあ！！」[pcms]
+[ns]Young Lady[nse]
+"Auuuuh... my whole body is slimy!! Nooo!! It feels[r]
+disgusting! Me... me!! Noooo!!"[pcms]
 
 *428|
 [fc]
-[ns]黒縁メガネの男[nse]
-「あぁ～～……まっし゛ろぉ～～……」[pcms]
+[ns]Man with Black-Rimmed Glasses[nse]
+"Ahh~~... so pure white~~..."[pcms]
 
 *429|
 [fc]
 [vo_may s="maya0758"]
-[ns]お嬢様[nse]
-「あああぁぁ……あぁ……あうぅ……、[r]
-　こんな……こんな事……うぁぁ……」[pcms]
+[ns]Young Lady[nse]
+"Aaaaahh... ah... auh..., like this... this shouldn't be[r]
+happening... uwaah..."[pcms]
 
 *430|
 [fc]
-[ns]大倉[nse]
-「うぉぉおぉ！！　クソォ！！」[pcms]
+[ns]Ookura[nse]
+"Uoooo!! Damn it!!"[pcms]
 
 *431|
 [fc]
-みんな……。[r]
-俺が……今……助けてやる……！！[pcms]
+Everyone... I will save you now...!![pcms]
 
 *432|
 [fc]
-俺が……そいつらを全部……！！[pcms]
+I will take them all down...!![pcms]
 
 *433|
 [fc]
-[ns]大倉[nse]
-「くっそぉ！！　待ってろよ！！[r]
-　うぉおおおお！！」[pcms]
+[ns]Ookura[nse]
+"Damn it!! Wait for me!! Uooooo!!"[pcms]
 
 ;//井：ここで暗転に変更
 [evcg storage="HEV904"][trans_c cross time=301]
 
 *434|
 [fc]
-まだ痛みはするけど、なんとか身動きがとれる程に[r]
-なっていた俺の体を、無理に動かして、速水や、[r]
-みんなを助けようと体を起こした。[pcms]
+Though I was still in pain, I could move enough to force[r]
+myself up and try to help Hayami and everyone else.[pcms]
 
 *435|
 [fc]
-しかし、俺の前には、二人の女が立ちはだかり、[r]
-俺に襲いかかってきた。[pcms]
+However, two women stood in my way and attacked me.[pcms]
 
 ;//------------------------------------------------
 [if exp="tf.scene_mode==1"]
 	[jump storage="b_scene.ks" target=*back_from_SR]
 ;	[link storage=sceneAgain]もう一度見る[endlink]
 ;	[link storage=sceneList]一覧に戻る[endlink]
-;	[s]
+[pcms]
 [endif]
 
 *KAISOU_PASS
@@ -1828,31 +1713,30 @@
 *436|
 [fc]
 [vo_mob s="keibi0002"]
-[ns]警備員の女[nse]
-「あは゛ぁ～……いい゛おとこ゛～～……」[pcms]
+[ns]Female Security Guard[nse]
+"Ahah~... such a good man~~..."[pcms]
 
 *437|
 [fc]
 [vo_mob s="youen0001"]
-[ns]妖艶な女[nse]
-「あたし゛と～～……えっち゛しよ～～……」[pcms]
+[ns]Bewitching Woman[nse]
+"With me~~... let's have sex~~..."[pcms]
 
 *438|
 [fc]
-[ns]大倉[nse]
-「なっ……なんだ……おま、え……ら！！[r]
-　ぐぁっ………」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Wha... what the hell are you... doing!! Guahh..."[pcms]
 
 *439|
 [fc]
-背中の痛みを堪え起きあがった俺は、[r]
-二人の女の手のよってまた床にへばりつく事になって[r]
-しまった。[pcms]
+As I struggled with the pain in my back and got up, I was[r]
+brought down to the floor again by the hands of the two[r]
+women.[pcms]
 
 *440|
 [fc]
-[ns]大倉[nse]
-「くそっ！！　くっそぉぉおおお！！！」[pcms]
+[ns]Ookura[nse]
+"Damn it!! Damn it all to hell!!!"[pcms]
 
 [jump storage="alive_60020.ks" target=*alive_60020_TOP]
 

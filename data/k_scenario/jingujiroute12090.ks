@@ -13,8 +13,8 @@
 
 *4902|
 [fc]
-エスカレーターを上って４階へ着くと、そこ[r]
-はレストラン街だった。[pcms]
+When I reached the fourth floor by escalator, it turned out[r]
+to be a restaurant area.[pcms]
 
 ;//[]BG表示
 ;//★ＢＧ：フキヌケ付近４Ｆ
@@ -24,66 +24,67 @@
 
 *4903|
 [fc]
-早足で、４階の中を一通り見て回ったが、速水の姿は[r]
-どこにも無かった。[pcms]
+I quickly looked around the fourth floor, but there was no[r]
+sign of Hayami anywhere.[pcms]
 
 *4904|
 [fc]
-それどころか、店の中に隠れていたらしいイカレ野郎[r]
-が、俺らを見つけて姿を現し始めた。[pcms]
+Instead, it seemed like some crazed guy who had been hiding[r]
+inside one of the stores began to show himself upon spotting[r]
+us.[pcms]
 
 *4905|
 [fc]
-[ns]大倉[nse]
-「チッ……次から次へと……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Tch... one after another..."[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_n01"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *4906|
 [fc]
 [vo_may s="maya0353"]
-[ns]摩耶[nse]
-「屋上かも……」[pcms]
+[ns]Maya[nse]
+"Maybe the rooftop..."[pcms]
 
 *4907|
 [fc]
-[ns]大倉[nse]
-「屋上……？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"The rooftop...?"[pcms]
 
 *4908|
 [fc]
-聞き返すと、マヤちゃんは俺にうなずいて返した。[pcms]
+When I asked again, Maya-chan nodded back at me.[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_n07"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *4909|
 [fc]
 [vo_may s="maya0354"]
-[ns]摩耶[nse]
-「このビルも、１階はシャッターが閉まってる……。[r]
-　あのシャッターは、簡単に開かないんでしょ……」[pcms]
+[ns]Maya[nse]
+"This building too, the shutters on the first floor are[r]
+closed... Those shutters won't open easily, right...?"[pcms]
 
 *4910|
 [fc]
-[ns]大倉[nse]
-「そうか……ココから逃げようと思ったら、屋上から[r]
-　外に出るしかない……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"I see... If we're trying to escape from here, the only way[r]
+out is through the rooftop..."[pcms]
 
 *4911|
 [fc]
-マヤちゃんはまた、俺にうなずいてみせた。[pcms]
+Maya-chan nodded at me again.[pcms]
 
 *4912|
 [fc]
-[ns]大倉[nse]
-「よし……取りあえず、屋上に行こう。いなかったら、[r]
-　どっかに隠れてるかもしれないし、もう１回建物の[r]
-　中を探してみよう」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Alright... for now, let's head to the rooftop. If she's not[r]
+there, she might be hiding somewhere else, so let's search[r]
+inside the building one more time."[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_n06"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *4913|
 [fc]
-マヤちゃんとうなずき合って、俺はすぐ傍の階段から、[r]
-屋上へと向かった。[pcms]
+After exchanging nods with Maya-chan, I headed towards the[r]
+rooftop using the nearby staircase.[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
@@ -91,4 +92,4 @@
 
 [jump storage="jingujiroute12091.ks" target=*jingujiroute12091_TOP]
 
-;//－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+;//

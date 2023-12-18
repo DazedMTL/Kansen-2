@@ -31,15 +31,15 @@
 
 ;[link storage="prologue03020.ks" target=*prologue03020_TOP]Westtownルートへ[endlink]
 ;[link storage="alive_60000.ks" target=*alive_60000_TOP]Aliveルートへ[endlink]
-;[s]
+;[pcms]
 
 
 *SEL10|Westtownルートへ／Aliveルートへ
 [fc]
 [pcms_sel]
 
-[eval exp="f.seltext02 = 'Westtownルートへ'"]
-[eval exp="f.seltext04 = 'Aliveルートへ'"]
+[eval exp="f.seltext02 = 'To the Westtown route'"]
+[eval exp="f.seltext04 = 'To the Alive route'"]
 
 [if exp="tf.sys_sub == 0 || tf.選択肢ログ表示してね == 1"]
 	;選択肢内容をバックログに表記。改行コード必須。

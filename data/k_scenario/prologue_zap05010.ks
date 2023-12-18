@@ -46,159 +46,160 @@
 *7801|
 [fc]
 [vo_nag s="nagasaki0020"]
-[ns]千尋[nse]
-「あふ……」[pcms]
+[ns]Chihiro[nse]
+"Ah..."[pcms]
 ;//◎アクビ
 
 *7802|
 [fc]
-眠い……。[r]
-[ruby text="さちえ"][ch text="幸恵"]の長電話に付き合うのも、楽じゃないわ……。[pcms]
+"I'm sleepy... Dealing with Sachie's long phone calls isn't[r]
+easy..."[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
 *7803|
 [fc]
-グランドシティの設備について語られても、私にはわ[r]
-からないわよ、もう……。[pcms]
+"Even if she talks about the facilities at Grand City, I[r]
+don't understand it, really..."[pcms]
 
 *7804|
 [fc]
-[ns]男子学生[nse]
-「ねーねーキミ！」[pcms]
+[ns]Male Student[nse]
+"Hey-hey-you!"[pcms]
 
 *7805|
 [fc]
-でも楽しそうに喋るあの子の顔を想像すると、話の途[r]
-中で切るわけにもいかないし……。[pcms]
+"But when I imagine her face, looking so happy as she talks,[r]
+I can't just cut her off in the middle of the[r]
+conversation..."[pcms]
 
 *7806|
 [fc]
-遊んであげたら、言うこと聞くようになるかな……。[r]
-もうすぐ夏休みだし……。[pcms]
+"I wonder if she'll listen to me if I play with her...[r]
+Summer vacation is coming up soon, after all..."[pcms]
 
 *7807|
 [fc]
-[ns]男子学生[nse]
-「シカトしないで聞いてよー、長崎さんでしょー？　[r]
-　青芭学園の」[pcms]
+[ns]Male Student[nse]
+"Don't ignore me, listenYou're Nagasaki-san from Seiha[r]
+Academy, right?"[pcms]
 
 *7808|
 [fc]
-自分の部屋の方が良いか、泊まりで海にでも行った方[r]
-が盛り上がるか、頭の中の計画は、強引に視界に入っ[r]
-てきた醜い顔で中断されてしまった。[pcms]
+"Whether it's better to stay in my own room or to go to the[r]
+beach overnight, my plans in my head were interrupted by an[r]
+ugly face that forced its way into my view."[pcms]
 
 *7809|
 [fc]
 [vo_nag s="nagasaki0021"]
-[ns]千尋[nse]
-「だったら何？」[pcms]
+[ns]Chihiro[nse]
+"And what if I am?"[pcms]
 
 *7810|
 [fc]
-[ns]チャラい男子学生[nse]
-「やっぱそうだー♪　去年、青芭学園の学園祭で長崎[r]
-　さんのこと見てさー！　スッゲー美人だから覚えて[r]
-　たんだー♪」[pcms]
+[ns]Flirty Male Student[nse]
+"I knew it-♪ I saw you at Seiha Academy's school festival[r]
+last year, Nagasaki-san! You're so beautiful, I remembered[r]
+you-♪"[pcms]
 
 *7811|
 [fc]
-[ns]チャラい男子学生[nse]
-「でさ、[ruby text="あべ"][ch text="阿部"][ruby text="みか"][ch text="美佳"]ってコ、知らない？　アイツが青芭[r]
-　学園行ってるって、こないだ聞いてさー。あ、オレ、[r]
-　アイツと同じ学校だったんだー」[pcms]
+[ns]Flirty Male Student[nse]
+"So, do you know a girl named Mika? I heard she goes to[r]
+Seiha Academy. Oh, I went to the same school as her-"[pcms]
 
 *7812|
 [fc]
-[ns]チャラい男子学生[nse]
-「そんで長崎さんと仲良いって言うからさー。紹介し[r]
-　てって頼んだら断られちゃってさー」[pcms]
+[ns]Flirty Male Student[nse]
+"And since they said you were friends with Nagasaki-san... I[r]
+asked for an introduction but got turned down-"[pcms]
 
 *7813|
 [fc]
-[ns]チャラい男子学生[nse]
-「だからさー、どこに行けば長崎さんに会えるか、ド[r]
-　ゲザまでしてー！　そんなオレにメンじてさー、こ[r]
-　れケーバンだからー」[pcms]
+[ns]Flirtatious Male Student[nse]
+"So I was wondering where I could meet Nagasaki-san, even[r]
+going so far as to beg on my knees! Have mercy on me- I'm[r]
+carrying a keychain because-"[pcms]
 
 *7814|
 [fc]
 [vo_nag s="nagasaki0022"]
-[ns]千尋[nse]
-「寄るな」[pcms]
+[ns]Chihiro[nse]
+"Stay away."[pcms]
 
 *7815|
 [fc]
-[ns]チャラい男子学生[nse]
-「え？」[pcms]
+[ns]Flirty Male Student[nse]
+"Eh?"[pcms]
 
 *7816|
 [fc]
 [vo_nag s="nagasaki0023"]
-[ns]千尋[nse]
-「香水とタバコの臭いが混じってて気持ち悪いんだよ。[r]
-　近寄るな」[pcms]
+[ns]Chihiro[nse]
+"The smell of perfume mixed with cigarette smoke is[r]
+nauseating. Don't come any closer."[pcms]
 
 *7817|
 [fc]
-[ns]チャラい男子学生[nse]
-「……」[pcms]
+[ns]Flirtatious male student[nse]
+"..."[pcms]
 
 *7818|
 [fc]
 [vo_nag s="nagasaki0024"]
-[ns]千尋[nse]
-「合うかどうか考える脳もないのに香水付けるな。[r]
-　タバコを吸ったところで頭が弱いのも、ブサイクな[r]
-　顔も治らないんだよ」[pcms]
+[ns]Chihiro[nse]
+"Don't bother wearing perfume if you don't have the brains[r]
+to match it. Smoking won't fix your stupidity or your ugly[r]
+face."[pcms]
 
 *7819|
 [fc]
 [vo_nag s="nagasaki0025"]
-[ns]千尋[nse]
-「あんたみたいなのが、なんでナンパなんかできる[r]
-　の？　私を口説き落とせると思った根拠は何？　一[r]
-　回ヤれば自分のチンポの虜になる、とでも思った？」[pcms]
+[ns]Chihiro[nse]
+"How can someone like you even think about hitting on girls?[r]
+What makes you think you could seduce me? Did you think I'd[r]
+become addicted to your dick after one time?"[pcms]
 
 *7820|
 [fc]
 [vo_nag s="nagasaki0026"]
-[ns]千尋[nse]
-「それに、女ナンパするなら風呂入ってからにしなよ。[r]
-　さっきから吐き気がするぐらい、イカ臭いのが漂っ[r]
-　てきてるから」[pcms]
+[ns]Chihiro[nse]
+"Besides, if you're going to hit on girls, take a bath[r]
+first. The stench of squid has been making me feel[r]
+nauseous."[pcms]
 
 *7821|
 [fc]
 [vo_nag s="nagasaki0027"]
-[ns]千尋[nse]
-「臭くて汚い粗チン突っ込まれて喜ぶのは、あんたと[r]
-　同じレベルの頭が弱くてブサイクな女か、あんたの[r]
-　ママだけ……あ、同じか」[pcms]
+[ns]Chihiro[nse]
+"Only a girl as dumb and ugly as you or your mother would be[r]
+happy to have your smelly, dirty little dick inside them...[r]
+oh, that's the same thing."[pcms]
 
 *7822|
 [fc]
-何も言えず、顔を真っ赤にして立ち尽くしている男の[r]
-横を通り過ぎながら、私は笑顔を見せてやった。[pcms]
+Without a word, the boy's face turned red as I passed by him[r]
+with a smile.[pcms]
 
 *7823|
 [fc]
 [vo_nag s="nagasaki0028"]
-[ns]千尋[nse]
-「とにかく、気持ち悪いから今すぐ死んで、生まれ変[r]
-　わってからナンパしてくれる？　勿論、私以外をね」[pcms]
+[ns]Chihiro[nse]
+"Anyway, you're disgusting, so could you just die now and[r]
+try hitting on someone after you're reborn? Of course,[r]
+someone other than me."[pcms]
 
 *7824|
 [fc]
-[ns]チャラい男子学生[nse]
-「ブスが調子コキやがって……」[pcms]
+[ns]Flirty Male Student[nse]
+"Stuck-up bitch..."[pcms]
 
 *7825|
 [fc]
-話の種にもならない捨て台詞を残して逃げていった男[r]
-と入れ替わりに、いつもの顔が幾つか、私の前に走っ[r]
-て現れた。[pcms]
+"As the boy left behind a parting shot not worth responding[r]
+to, familiar faces appeared before me, running up one after[r]
+another."[pcms]
 
 ;[download image storage="cut009_thum" layer=3]
 [cutin storage="cut009a"][trans_c cross time=500]
@@ -206,121 +207,120 @@
 *7826|
 [fc]
 [vo_mob s="yukie0000"]
-[ns]幸恵[nse]
-「先輩！　おはようございます！　今日もおキレイで[r]
-　すね！」[pcms]
+[ns]Sachie[nse]
+"Senpai! Good morning! You look beautiful today too!"[pcms]
 
 *7827|
 [fc]
 [vo_nag s="nagasaki0029"]
-[ns]千尋[nse]
-「おはよう。あら、髪型変えたの？　可愛いわね」[pcms]
+[ns]Chihiro[nse]
+"Good morning. Oh, did you change your hairstyle? It's[r]
+cute."[pcms]
 
 *7828|
 [fc]
 [vo_mob s="yukie0001"]
-[ns]幸恵[nse]
-「はう～♪　嬉しいですぅ♪」[pcms]
+[ns]Sachie[nse]
+"Ehe~♪ I'm so happy♪"[pcms]
 
 *7829|
 [fc]
 [vo_mob s="ayana0000"]
-[ns]綾奈[nse]
-「長崎さん、さっきの男、誰？　恋人？」[pcms]
+[ns]Ayana[nse]
+"Nagasaki-san, who was that guy just now? A boyfriend?"[pcms]
 
 *7830|
 [fc]
 [vo_nag s="nagasaki0030"]
-[ns]千尋[nse]
-「違うわ、ナンパされてたの。迷惑してたのよ、しつ[r]
-　こくて」[pcms]
+[ns]Chihiro[nse]
+"No, he was just hitting on me. He was persistent and[r]
+annoying."[pcms]
 
 *7831|
 [fc]
-拗ねたような顔で言う綾奈の頭を、私が優しく撫でて[r]
-なだめると、彼女は甘えるように鼻をならした。[pcms]
+"As Ayana made a sulky face, I gently stroked her head to[r]
+soothe her, and she snuggled up to me with a whine."[pcms]
 
 *7832|
 [fc]
 [vo_mob s="mizuho0000"]
-[ns]瑞穂[nse]
-「長崎さんが、あんなキタナイ男と付き合うワケない[r]
-　じゃーん！　アヤナ考えすぎー」[pcms]
+[ns]Mizuho[nse]
+"Nagasaki-san would never date such a filthy guy! Ayana,[r]
+you're overthinking it!"[pcms]
 
 [cutin storage="cut009b"][trans_c cross time=500]
 
 *7833|
 [fc]
 [vo_mob s="ayana0001"]
-[ns]綾奈[nse]
-「ごめんなさい……」[pcms]
+[ns]Ayana[nse]
+"I'm sorry..."[pcms]
 
 *7834|
 [fc]
-申し訳なさそうに上目遣いで見る綾奈に、私は微笑ん[r]
-で首を横に振った。[pcms]
+"Ayana looked up apologetically, and I shook my head with a[r]
+smile."[pcms]
 
 *7835|
 [fc]
 [vo_mob s="nanase0000"]
-[ns]七瀬[nse]
-「千尋さん、そろそろ行かないと……。[r]
-　練習が始まるまで、あんまり時間が無いわ」[pcms]
+[ns]Nanase[nse]
+"Chihiro-san, we should get going... There's not much time[r]
+left before practice starts."[pcms]
 
 *7836|
 [fc]
 [vo_nag s="nagasaki0031"]
-[ns]千尋[nse]
-「あら、大変……。みんな急ごう？」[pcms]
+[ns]Chihiro[nse]
+"Oh dear... Shall we hurry, everyone?"[pcms]
 
 [cutin_int][trans_c cross time=300]
 
 *7837|
 [fc]
-私が促すと、いつもの顔ぶれは、学校へ向けて走り始[r]
-めた。[pcms]
+"At my urging, the usual group started running towards the[r]
+school."[pcms]
 
 *7838|
 [fc]
-いつもの顔ぶれ。[r]
-見慣れた顔ぶれ。[pcms]
+"The usual faces. The familiar faces."[pcms]
 
 *7839|
 [fc]
-少し、見飽きてきた顔ぶれ。[pcms]
+"Faces that I've started to grow tired of seeing."[pcms]
 
 *7840|
 [fc]
-みんな可愛いし、私を慕ってくれている。[r]
-自分も、彼女達が嫌いになったわけじゃない。[r]
-変わらず好きなのは本当。[pcms]
+"They're all cute and they adore me. It's not that I've come[r]
+to dislike them. It's true that I still like them as[r]
+always."[pcms]
 
 *7841|
 [fc]
-ただ、慣れてしまったせいか、いつも一緒にいるのが、[r]
-この頃ちょっと退屈に感じる。[pcms]
+"But maybe because I've gotten used to them, being together[r]
+all the time has started to feel a bit boring lately."[pcms]
 
 *7842|
 [fc]
-最近は、遊ぶ場所や人数を変えても、あまり刺激を感[r]
-じなくなってしまった。[pcms]
+"Lately, even changing the places we hang out or the number[r]
+of people doesn't give me much of a thrill anymore."[pcms]
 
 *7843|
 [fc]
 [vo_nag s="nagasaki0032"]
-[ns]千尋[nse]
-「……」[pcms]
+[ns]Chihiro[nse]
+"..."[pcms]
 ;//◎小さく溜息
 
 *7844|
 [fc]
-夏休みだし、観光スポットであるこの街には、今年も[r]
-多くの観光客が来る筈。[pcms]
+"Since it's summer vacation, this tourist town should see[r]
+many visitors again this year."[pcms]
 
 *7845|
 [fc]
-新しい出会いがあるといいけど……。[r]
-違う土地の人と遊べたら、楽しいだろうな……。[pcms]
+"I hope there will be new encounters... It would be fun to[r]
+hang out with people from different places..."[pcms]
 
 [sysbt_meswin clear]
 [fadeoutbgm time=502]
@@ -332,4 +332,4 @@
 
 [jump storage="prologue01100.ks" target=*prologue01100_TOP]
 
-;//－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+;//

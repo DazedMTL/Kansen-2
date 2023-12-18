@@ -15,112 +15,110 @@
 
 *1901|
 [fc]
-速水達は後ろの箱へ。[r]
-俺と、直美は前の席へ。[pcms]
+Hayami and the others to the back box. Naomi and I will take[r]
+the front seats.[pcms]
 
 *1902|
 [fc]
-それぞれが車に乗り込み、トラックは進む。[r]
-真っ暗な道を通り、まぶしい光の差し込む方へ。[pcms]
+Everyone got into the car, and the truck moved on. Through[r]
+the pitch-black road, towards the dazzling light.[pcms]
 
 [evcg storage="NEV500g"][trans_c cross time=301]
 
 *1903|
 [fc]
 [vo_nao s="naomi0156"]
-[ns]直美[nse]
-「ぐっ……あっ……」[pcms]
+[ns]Naomi[nse]
+"Ugh... Ah..."[pcms]
 
 *1904|
 [fc]
-[ns]大倉[nse]
-「……どうした？　おい！？　ねむいのか！？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"...What's wrong? Hey!? Are you sleepy!?"[pcms]
 
 *1905|
 [fc]
-暗い通路を抜け、まぶしい光を浴びた直美は、[r]
-目が眩んだのか、ハンドルを離してのけぞった。[pcms]
+After emerging from the dark passage and being bathed in[r]
+bright light, Naomi, perhaps dazzled by it, let go of the[r]
+steering wheel and leaned back.[pcms]
 
 *1906|
 [fc]
 [vo_nao s="naomi0157"]
-[ns]直美[nse]
-「くっ……だ、大丈夫……うぅっ……はっ……」[pcms]
+[ns]Naomi[nse]
+"Ngh... I'm okay... Ugh... Hah..."[pcms]
 
 [evcg storage="NEV500e"][trans_c cross time=301]
 
 *1907|
 [fc]
-[ns]大倉[nse]
-「だいじょうぶって……おい！！　しっかりしてくれ！[r]
-　かべがっ……ぶつかるっ！！　ん！？　あかい……[r]
-　おまえのはら、あかい……？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"You say you're okay... Hey!! Pull yourself together! The[r]
+wall... we're going to crash!! Huh!? Red... Your stomach,[r]
+it's red...?"[pcms]
 
 [evcg storage="NEV500g"][trans_c cross time=301]
 
 *1908|
 [fc]
-『大丈夫』と言いながらも、ハンドルに何度も頭を[r]
-ぶつけそうになっている直美の腹からは、赤い水が[r]
-沢山流れていた。[pcms]
+Despite saying "I'm okay," Naomi's stomach, which kept[r]
+nearly hitting the steering wheel, was streaming with a lot[r]
+of red fluid.[pcms]
 
 *1909|
 [fc]
-これ……、もしかして、ち？[r]
-ちがでると……しんじゃうんだったかな……。[pcms]
+This... could it be, blood? If blood comes out... doesn't[r]
+that mean death...?[pcms]
 
 *1910|
 [fc]
-なおみは、いま、しにそうなのかな？[r]
-でも、しぬって……なんだっけ……？[pcms]
+Is Naomi about to die now? But, dying... what was it[r]
+again...?[pcms]
 
 *1911|
 [fc]
-しぬ……。[pcms]
+Dying...[pcms]
 
 *1912|
 [fc]
-そうだ！[r]
-しぬのはまずい！！[pcms]
+That's right! Dying is bad!![pcms]
 
 *1913|
 [fc]
-みんなでいえにかえれなくなる！！[pcms]
+We won't be able to return home together!![pcms]
 
 *1914|
 [fc]
-[ns]大倉[nse]
-「なおみっ！！　しぬなぁぁ！！[r]
-　おれたちといっしょにかえるんだろ！？[r]
-　しぬなっ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Naomi!! Don't die!! You're supposed to go back with us,[r]
+right!? Don't die!!"[pcms]
 
 [evcg storage="NEV500f"][trans_c cross time=301]
 
 *1915|
 [fc]
 [vo_nao s="naomi0158"]
-[ns]直美[nse]
-「……帰る……？　……ふふっ……そうだな……。[r]
-　私は、お前達を無事に……連れて帰らないとな……[r]
-　くっ……」[pcms]
+[ns]Naomi[nse]
+"...Go back...? ...Heheh... That's right... I have to bring[r]
+you guys back safely... Ngh..."[pcms]
 
 *1916|
 [fc]
-[ns]大倉[nse]
-「なおみ……うおっ！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Naomi... Whoa!"[pcms]
 
 *1917|
 [fc]
-なおみ……もうしにそうで……まっすぐに、うんてん[r]
-できないんだ……。[pcms]
+Naomi... looks like she's about to die... can't drive[r]
+straight anymore...[pcms]
 
 *1918|
 [fc]
-このままじゃ……くるまはどこかにぶつかっちまう。[pcms]
+At this rate... the car is going to crash somewhere.[pcms]
 
 *1919|
 [fc]
-どうしたら……。[pcms]
+What should I do...[pcms]
 
 ;[fadeoutbgm time=502]
 ;//BLACKOUT
@@ -136,7 +134,7 @@
 ;	;//通常選択肢
 ;	[link storage="alive_60290.ks" target=*alive_60290_TOP]こんなの……おれでもうんてんしてみせる！[endlink]
 ;	[link storage="alive_60300.ks" target=*alive_60300_TOP]こんなの……うごかすことなんてできない！[endlink]
-;	[s]
+;[pcms]
 
 ;	*60280_1
 ;	[jump storage="alive_60290.ks" target=*alive_60290_TOP]
@@ -149,8 +147,8 @@
 [fc]
 [pcms_sel]
 
-[eval exp="f.seltext02 = 'こんなの……おれでもうんてんしてみせる！'"]
-[eval exp="f.seltext04 = 'こんなの……うごかすことなんてできない！'"]
+[eval exp="f.seltext02 = 'I\'ll show you even I can drive this!'"]
+[eval exp="f.seltext04 = 'I can\'t move something like this!'"]
 
 [if exp="tf.sys_sub == 0 || tf.選択肢ログ表示してね == 1"]
 	;選択肢内容をバックログに表記。改行コード必須。

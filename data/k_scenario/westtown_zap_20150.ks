@@ -30,151 +30,146 @@
 *13480|
 [fc]
 [vo_hay s="hayami0313"]
-[ns]ありす[nse]
-「繋がった……！？」[pcms]
+[ns]Alice[nse]
+"Connected...!?"[pcms]
 
 *13481|
 [fc]
-ここに来たばかりの時は繋がらなかった電話からは、[r]
-今はハッキリと、呼び出し音が聞こえてくる。[pcms]
+When I first came here, the phone didn't connect, but now I[r]
+can clearly hear the ringing.[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
 *13482|
 [fc]
 [vo_hay s="hayami0314"]
-[ns]ありす[nse]
-「もう……電話が繋がるようになったのかな……」[pcms]
+[ns]Alice[nse]
+"Maybe... the phone is working now..."[pcms]
 ;//◎呟くように
 
 *13483|
 [fc]
-お願い……。[r]
-ヒロシ……電話に出て……。[pcms]
+Please... Hiroshi... answer the phone...[pcms]
 
 *13484|
 [fc]
-あたしは祈るように、ケータイを耳に押しつける。[pcms]
+I press the cell phone to my ear as if praying.[pcms]
 
 [stop_se0]
 
 *13485|
 [fc]
-[ns]携帯[nse]
-「ブッ……」[pcms]
+[ns]Mobile phone[nse]
+"Beep..."[pcms]
 
 *13486|
 [fc]
 [vo_hay s="hayami0315"]
-[ns]ありす[nse]
-「！！　ヒ……ヒロシ！？　ヒロシ！！　今……」[pcms]
+[ns]Alice[nse]
+"!! Hi... Hiroshi!? Hiroshi!! Now..."[pcms]
 
 *13487|
 [fc]
-[ns]携帯[nse]
-「ただいま電話に出ることが出来ません。[r]
-　ピーッという発信音の後……」[pcms]
+[ns]Mobile (as in mobile phone) or Portable[nse]
+"The person you are calling cannot take your call right now.[r]
+After the beep..."[pcms]
 
 *13488|
 [fc]
-あたしの願いは、神様に届かなかった。[r]
-電話の相手は、ヒロシじゃなくて、機械だった。[pcms]
+My wish didn't reach the heavens. The one on the other end[r]
+of the phone wasn't Hiroshi, but a machine.[pcms]
 
 *13489|
 [fc]
-……それでも、ヒロシが着信に気づけば、[r]
-かけ直してくれる……。[pcms]
+...But still, if Hiroshi notices the missed call, he might[r]
+call back...[pcms]
 
 *13490|
 [fc]
 [vo_hay s="hayami0316"]
-[ns]ありす[nse]
-「ヒロシ……あたし……」[pcms]
+[ns]Alice[nse]
+"Hiroshi... I..."[pcms]
 
 *13491|
 [fc]
-[ns]携帯[nse]
-「ブッ……」[pcms]
+[ns]Mobile (as in mobile phone) or Portable[nse]
+"Beep..."[pcms]
 
 *13492|
 [fc]
 [vo_hay s="hayami0317"]
-[ns]ありす[nse]
-「！！　ヒロシ……？」[pcms]
+[ns]Alice[nse]
+"!! Hiroshi...?"[pcms]
 
 *13493|
 [fc]
-それまで小さなノイズを発しているだけだった[r]
-携帯から、突如騒々しい音が聞こえてきた後、[r]
-今、一番聞きたい声が飛び出してきた。[pcms]
+After only emitting a small noise until now, suddenly a loud[r]
+sound comes from the cell phone, followed by the voice I[r]
+wanted to hear the most.[pcms]
 
 *13494|
 [fc]
-[ns]大倉[nse]
-「オイ、大丈夫なのか！？　ケガは！？　あのクズ野[r]
-　郎になんかされてねーだろーな！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Hey, are you okay!? Are you hurt!? That bastard didn't do[r]
+anything to you, did he!!"[pcms]
 
 *13495|
 [fc]
-ヒロシ……。[r]
-ヒロシの声だ！！[pcms]
+Hiroshi... It's Hiroshi's voice!![pcms]
 
 *13496|
 [fc]
-まだ離れてそんなに時間は経っていないのに、[r]
-何故か懐かしいその声は、[r]
-あたしの気持ちを落ち着かせた。[pcms]
+Even though we haven't been apart for long, his familiar[r]
+voice somehow calms me down.[pcms]
 
 *13497|
 [fc]
-今すぐ会いたい。[r]
-ヒロシに、会いたい。[pcms]
+I want to see him right now. I want to see Hiroshi.[pcms]
 
 *13498|
 [fc]
-はやる気持ちを抑えて、[r]
-とりあえず自分が無事である事を伝える事にした。[pcms]
+I try to calm my racing heart and decide to let him know[r]
+that I'm safe for now.[pcms]
 
 *13499|
 [fc]
 [vo_hay s="hayami0318"]
-[ns]ありす[nse]
-「大丈夫だから、落ち着いてよ」[pcms]
+[ns]Arisu[nse]
+"I'm okay, so calm down."[pcms]
 
 *13500|
 [fc]
-ホントは大丈夫なんかじゃない。[r]
-あんな事されて、気が滅入っている。[pcms]
+The truth is, I'm not okay at all. What happened has left me[r]
+feeling down.[pcms]
 
 *13501|
 [fc]
-[ns]大倉[nse]
-「あ、ああ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Ah, yeah..."[pcms]
 
 *13502|
 [fc]
-でも、それをヒロシに悟られる訳にはいかない。[r]
-それに、あの事は絶対に、知られたくない。[pcms]
+But I can't let Hiroshi realize that. And I absolutely don't[r]
+want him to know about that incident.[pcms]
 
 *13503|
 [fc]
 [vo_hay s="hayami0319"]
-[ns]ありす[nse]
-「あたしはなんともない。そっちは？　ヒロシも裕樹[r]
-　も無事なの？」[pcms]
+[ns]Alice[nse]
+"I'm fine. How about you? Are Hiroshi and Yuuki safe?"[pcms]
 
 *13504|
 [fc]
-[ns]大倉[nse]
-「ああ、多少バタバタしてるけど、こっちは大丈夫だ。[r]
-　それよりオマエ、今どの辺にいるんだ？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Yeah, it's a bit hectic over here, but we're okay. More[r]
+importantly, where are you right now?"[pcms]
 
 *13505|
 [fc]
 [vo_hay s="hayami0320"]
-[ns]ありす[nse]
-「いまは２階。あたしのあとから入ってきた女の人い[r]
-　たでしょ？　あのひとと一緒に……」[pcms]
+[ns]Alice[nse]
+"I'm on the second floor. There was a woman who came in[r]
+after me, remember? I'm with her..."[pcms]
 
 ;//♪：bgm012 stop
 [fadeoutbgm time=1][wb]
@@ -186,8 +181,8 @@
 *13506|
 [fc]
 [vo_nag s="nagasaki0139"]
-[ns]千尋[nse]
-「やめろ！！　このっ！！」[pcms]
+[ns]Chihiro[nse]
+"Stop it!! You bastard!!"[pcms]
 ;//◎遠くから
 
 ;//SE:雄叫び
@@ -200,98 +195,94 @@
 *13507|
 [fc]
 [vo_hay s="hayami0321"]
-[ns]ありす[nse]
-「……！！　長崎さん！？」[pcms]
+[ns]Arisu[nse]
+"...!! Nagasaki-san!?"[pcms]
 
 *13508|
 [fc]
-またあの声……。[r]
-それに、長崎さんの叫び声がした……？[pcms]
+That voice again... And did I just hear Nagasaki-san's[r]
+scream...?[pcms]
 
 *13509|
 [fc]
-もしかして……。[pcms]
+Could it be...[pcms]
 
 *13510|
 [fc]
-[ns]大倉[nse]
-「オイ、速水？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Hey, Hayami?"[pcms]
 
 *13511|
 [fc]
-[ns]菅生[nse]
-「何だってんだよテメェら！！[r]
-　まだ残ってやがったのかッ！！」[pcms]
+[ns]Sugou[nse]
+"What the hell are you guys doing!! Are you still here!!"[pcms]
 
 *13512|
 [fc]
-やっぱり、すぐ近くまであのヘンな人が……。[pcms]
+Just as I thought, that weird person is nearby...[pcms]
 
 *13513|
 [fc]
-……ヒロシともっと、話していたかった。[r]
-それに、長崎さんとオジサンとは、[r]
-顔を合わせたくない。[pcms]
+...I wanted to talk more with Hiroshi. And I don't want to[r]
+face Nagasaki-san and that man.[pcms]
 
 *13514|
 [fc]
-でも長崎さんを見捨てる事は出来ないし、それに、[r]
-ここにあのヘンな人達が入ってくるかもしれない。[pcms]
+But I can't abandon Nagasaki-san, and those weird people[r]
+might come in here.[pcms]
 
 *13515|
 [fc]
-このままじゃ……ダメだ……。[r]
-ヒロシに会いたいよ……。[pcms]
+This won't do... I want to see Hiroshi...[pcms]
 
 *13516|
 [fc]
-あたし一人じゃ、あのヘンな人達から、[r]
-逃げ切れないかもしれない。[pcms]
+I might not be able to escape from those weird people by[r]
+myself.[pcms]
 
 *13517|
 [fc]
-それなら、顔を見たくないなんて言ってないで、[r]
-長崎さんと協力した方が、逃げられる確率は高くなる。[pcms]
+If that's the case, instead of saying I don't want to see[r]
+their faces, it would be better to cooperate with Nagasaki-[r]
+san to increase our chances of escape.[pcms]
 
 *13518|
 [fc]
-ヒロシと少しだけでも話しが出来た事で、[r]
-気を取り直しつつあったあたしは、[r]
-長崎さんに加勢することに決めた。[pcms]
+Having managed to talk with Hiroshi even for a little bit, I[r]
+decide to help Nagasaki-san.[pcms]
 
 [cutin_int][trans_c cross time=300]
 
 *13519|
 [fc]
 [vo_hay s="hayami0322"]
-[ns]ありす[nse]
-「ごめん、もう切る。また電話するから！」[pcms]
+[ns]Alice[nse]
+"Sorry, I have to hang up now. I'll call again later!"[pcms]
 
 *13520|
 [fc]
-もうちょっと話ししたかったけど……。[r]
-お互いが無事で、また会えばいい。[pcms]
+I wanted to talk a bit more, but... It's enough that we're[r]
+both safe and can meet again.[pcms]
 
 *13521|
 [fc]
-それに、電話は通じる様になった。[r]
-長崎さんを助けた後、また電話しよう。[pcms]
+Besides, the phone is working now. After helping Nagasaki-[r]
+san, I'll call again.[pcms]
 
 *13522|
 [fc]
-今は、我慢しよう……。[r]
-ちょっと、我慢するだけ……。[pcms]
+I'll endure it for now... Just a little bit longer...[pcms]
 
 *13523|
 [fc]
-電話を切ろうとしたとき、スピーカーから、[r]
-ヒロシの力強い声が響いてきた。[pcms]
+Just as I was about to hang up, Hiroshi's strong voice came[r]
+through the speaker.[pcms]
 
 *13524|
 [fc]
-[ns]大倉[nse]
-「あ、オイ！　絶対助けに行くから！　なんとかガン[r]
-　バれ！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Hey! I will definitely come to save you! Hang in there[r]
+somehow!"[pcms]
 
 ;//SE：電話が切れた音（？）
 
@@ -299,21 +290,21 @@
 
 *13525|
 [fc]
-いつものヒロシとちょっと違う真面目なその声に、[r]
-あたしの心に覆い被さった重い空気が、少しだけ[r]
-軽くなった気がした。[pcms]
+Hearing his serious voice, which was a little different from[r]
+usual, lifted some of the heavy air that had been weighing[r]
+on my heart.[pcms]
 
 *13526|
 [fc]
 [vo_hay s="hayami0323"]
-[ns]ありす[nse]
-「ぜったい、お互い無事で、また会えるよね……！」[pcms]
+[ns]Arisu[nse]
+"We'll definitely be safe and meet again...!"[pcms]
 ;//◎独り言
 
 *13527|
 [fc]
-ヒロシの声に元気づけられたあたしは、[r]
-長崎さんに加勢するため、トイレの個室の扉を開いた。[pcms]
+Inspired by Hiroshi's voice, I open the door of the restroom[r]
+stall to go help Nagasaki-san.[pcms]
 
 ;//♪：bgm011 fadeout
 [fadeoutbgm time=1000]

@@ -22,71 +22,70 @@
 
 *809|
 [fc]
-直美の手には、はまだ残された武器が握られている。[pcms]
+Naomi still had a weapon clutched in her hand.[pcms]
 
 *810|
 [fc]
-しかし、直美は迷った。[pcms]
+However, Naomi hesitated.[pcms]
 
 *811|
 [fc]
-感染者達は、須賀原が言っていたように、[r]
-病に冒された人間達という事を知っていた為だ。[pcms]
+She knew that the infected, as Sugahara had said, were[r]
+people stricken with illness.[pcms]
 
 *812|
 [fc]
-彼らについては、まだ何も分かっていない。[r]
-だが、いずれはこの人達を救う方法が、[r]
-発見されるかもしれない。[pcms]
+Nothing was known about them yet. But there might be a way[r]
+to save these people discovered eventually.[pcms]
 
 *813|
 [fc]
-そう考えた直美は、感染者達に向け発砲する事は出来[r]
-なかった。[pcms]
+With that thought, Naomi couldn't bring herself to fire at[r]
+the infected.[pcms]
 
 *814|
 [fc]
-[ns]迷彩服の男[nse]
-「あ～……そ゛れ～……みた゛こと゛ない～～……」[pcms]
+[ns]Camouflage-clad Man[nse]
+"Ahh... that... I've never seen that before..."[pcms]
 
 *815|
 [fc]
 [vo_nao s="naomi0023"]
-[ns]直美[nse]
-「あっ……！！」[pcms]
+[ns]Naomi[nse]
+"Ah...!!"[pcms]
 
 *816|
 [fc]
-直美の周りに集まった感染者の一人が、身を包む[r]
-装備品に手を掛け、引っ張り始めた。[pcms]
+One of the infected surrounding Naomi began to tug at the[r]
+equipment she was wearing.[pcms]
 
 *817|
 [fc]
-他の感染者達と違い、先に直美から自動小銃を奪った[r]
-男と同様、この感染者は銃に興味を持っている。[pcms]
+Unlike the other infected, this one seemed interested in the[r]
+gun, just like the man who had earlier snatched the[r]
+automatic rifle from Naomi.[pcms]
 
 *818|
 [fc]
-直美の混乱は、さらに加速していく。[r]
-何故、感染者が銃に興味を持つのか。[r]
-性欲や、食欲だけで動いている筈ではなかったか、と。[pcms]
+Naomi's confusion accelerated. Why were the infected[r]
+interested in guns? Weren't they supposed to be driven only[r]
+by sexual desire or hunger?[pcms]
 
 *819|
 [fc]
-[ns]迷彩服の男[nse]
-「くれ゛よぉ～～……おれ゛にくれ゛よぉ～～……」[pcms]
+[ns]Camouflage-clad Man[nse]
+"Give it to me... give it to me..."[pcms]
 
 *820|
 [fc]
-[ns]太った男[nse]
-「うは゛ぁ……と゛けぇよぉ～～……」[pcms]
+[ns]Fat Man[nse]
+"Ugh... get out of the way..."[pcms]
 
 *821|
 [fc]
-[ns]迷彩服の男[nse]
-「れあ゛もん゛～～？　そ゛れぇ～～……？？[r]
-　め～か゛～はぁ゛～～？　あ゛ぁ～～、おま゛え、[r]
-　し゛ゃま゛ぁ～～」[pcms]
+[ns]Camouflage-clad Man[nse]
+"Is that a lemon...? What's that...?? A mask... huh? Ahh,[r]
+you're in the way..."[pcms]
 
 ;//★人を殴る
 [se0 storage="SE20"]
@@ -96,143 +95,140 @@
 
 *822|
 [fc]
-[ns]太った男[nse]
-「あ゛か゛っ……」[pcms]
+[ns]Fat Man[nse]
+"That hurts..."[pcms]
 
 *823|
 [fc]
-[ns]迷彩服の男[nse]
-「く゛れぇ～～……こ゛のし゛ゅう゛～～……、[r]
-　あぁ゛～～……」[pcms]
+[ns]Camouflage-clad Man[nse]
+"Give it... that gun... ahh..."[pcms]
 
 *824|
 [fc]
-混乱し、戸惑う直美の目には、[r]
-さらに混乱を誘うような光景が映し出される。[pcms]
+In Naomi's bewildered eyes, a scene unfolded that only added[r]
+to her confusion.[pcms]
 
 *825|
 [fc]
-直美から銃を奪おうとしている感染者が、他の感染者[r]
-と格闘を開始したのだ。[pcms]
+The infected trying to snatch the gun from Naomi began to[r]
+fight with another infected.[pcms]
 
 *826|
 [fc]
-よほど銃に興味を持っているのか、或いはその銃を、[r]
-他の感染者に奪われると考えたのか、直美の装備品を[r]
-握りしめたまま。[pcms]
+Whether he was particularly interested in the gun or thought[r]
+that other infected would take it, he still clutched Naomi's[r]
+equipment.[pcms]
 
 *827|
 [fc]
-[ns]太った男[nse]
-「あ゛ぁ～～……おま゛んこ～～……、うく゛ぁ……」[pcms]
+[ns]Fat Man[nse]
+"Ahh... pussy... ugh..."[pcms]
 
 *828|
 [fc]
-[ns]迷彩服の男[nse]
-「し゛ゅう゛～……あ゛ぁ～～……くれ゛ぇ～～……」[pcms]
+[ns]Camouflage-clad Man[nse]
+"The gun... ahh... give it to me..."[pcms]
 
 *829|
 [fc]
-[ns]背の高い男[nse]
-「お～～め゛ぇこ゛～～おぉおおおぉ！！[r]
-　むね゛ぇ～～……み゛せろぉ～～！！！！！」[pcms]
+[ns]Tall man[nse]
+"Ohhh... show me your tits... let me see!!!"[pcms]
 
 *830|
 [fc]
 [vo_nao s="naomi0024"]
-[ns]直美[nse]
-「うあぁっ！？　は、離せえっ！　ぐあぁぁっ！」[pcms]
+[ns]Naomi[nse]
+"Ugh! Let go of me! Ahh!"[pcms]
 
 *831|
 [fc]
-装備を引っ張られたまま、今度はまた別の感染者が、[r]
-直美の身を守る防護ベストに手を掛け、[r]
-その体を求めようとする。[pcms]
+While being tugged at her equipment, another infected[r]
+reached for Naomi's protective vest, seeking her body.[pcms]
 
 *832|
 [fc]
-そうして揉み合っている間にも、直美を目指し、[r]
-感染者が益々集まってきている。[pcms]
+Even as they scuffled, more and more infected were gathering[r]
+towards Naomi.[pcms]
 
 *833|
 [fc]
-その時、直美の表情から、混乱の色が消えた。[pcms]
+At that moment, the look of confusion vanished from Naomi's[r]
+face.[pcms]
 
 *834|
 [fc]
-迫る感染者の数に、むしろ冷静さを取り戻した直美は、[r]
-一つの決断を下す。[pcms]
+Facing the number of approaching infected, Naomi regained[r]
+her composure and made a decision.[pcms]
 
 *835|
 [fc]
-それは、危険な賭だった。[pcms]
+It was a dangerous gamble.[pcms]
 
 *836|
 [fc]
-直美はおもむろに、その身を守る為の防護服も、[r]
-装備品も外し始めたのだ。[pcms]
+Naomi slowly began to remove her protective gear and[r]
+equipment that she wore for safety.[pcms]
 
 [se0 storage="SE46"]
 
 *837|
 [fc]
-感染者達に捕まれ、逃げる事を困難にしている[r]
-防護マスクと、ベスト、それに銃を[r]
-直美は自らの手で外した。[pcms]
+Naomi removed the protective mask and vest that made it[r]
+difficult to escape from the infected, as well as the gun,[r]
+all by her own hands.[pcms]
 
 *838|
 [fc]
-[ns]迷彩服の男[nse]
-「うく゛ぁあぁぁぁ゛ぁぁぁ……、し゛ゅう゛ぅ～！[r]
-　やった゛ぁぁぁぁ～～……！！」[pcms]
+[ns]Camouflage-clad Man[nse]
+"Ugh ahhhh... the gun! I did it...!!"[pcms]
 
 *839|
 [fc]
-[ns]太った男[nse]
-「うふ゛ぁぁあ～～……！」[pcms]
+[ns]Fat Man[nse]
+"Ufahhh..."[pcms]
 
 *840|
 [fc]
-[ns]背の高い男[nse]
-「く゛うう゛ぅぅ～～～……っ！！！！」[pcms]
+[ns]Tall man[nse]
+"Guhhhhhh...!!!"[pcms]
 
 *841|
 [fc]
-装備品を握りしめたままの二人は、抵抗を失い、[r]
-周りに集まった感染者を巻き添えにしながら、[r]
-勢いよくそれぞれの方向へと倒れ込んでいった。[pcms]
+The two who clutched at the equipment lost their resistance[r]
+and fell in different directions, taking the surrounding[r]
+infected with them in their fall.[pcms]
 
 *842|
 [fc]
 [vo_nao s="naomi0025"]
-[ns]直美[nse]
-「ハアッ……ハアッ……！！　どけぇぇ！！」[pcms]
+[ns]Naomi[nse]
+"Haah... Haah...!! Get out of my way!!"[pcms]
 
 *843|
 [fc]
 [vo_mob s="zenra0002"]
-[ns]全裸の女[nse]
-「き゛ぃい゛ぃぃいっ゛！！」[pcms]
+[ns]Naked Woman[nse]
+"Eeeek!!"[pcms]
 
 *844|
 [fc]
-[ns]鼻の大きい男[nse]
-「く゛ぁぁぁああ゛～～！！」[pcms]
+[ns]Man with a big nose[nse]
+"Gahhhh...!!"[pcms]
 
 *845|
 [fc]
-直美は立ちはだかる感染者達を体当たりで跳ねとばし、[r]
-感染者の群がる中を突っ切り、目の前にそびえ立つ[r]
-ついには建物の中に入ってしまった。[pcms]
+Naomi knocked down the standing infected with a body blow,[r]
+cutting through the swarm of infected and finally entered[r]
+the building in front of her.[pcms]
 
 *846|
 [fc]
-直美は、警戒心から後ろを振り返った。[pcms]
+Naomi looked back warily.[pcms]
 
 *847|
 [fc]
-そこでは、銃を奪い取った男が、[r]
-嬉しそうな表情を浮かべ、それに頬ずりをしていた。[pcms]
+The man who had taken the gun was happily rubbing his cheek[r]
+against it with a pleased expression on his face.[pcms]
 
 [fadeoutbgm time=502]
 [stop_se0]
@@ -248,4 +244,4 @@
 
 [jump storage="alive_60070.ks" target=*alive_60070_TOP]
 
-;//－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+;//

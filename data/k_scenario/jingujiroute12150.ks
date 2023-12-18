@@ -26,20 +26,20 @@
 
 *5187|
 [fc]
-[ns]‘å‘q[nse]
-uIIv[pcms]
+[ns]Ookura Hiroshi[nse]
+"!!"[pcms]
 
 *5188|
 [fc]
-‰´‚Ì‹ŠE‚Íˆêu‚Å^‚Á”’‚É‚È‚èAˆêuA•·‚±‚¦‚½ƒfƒJ[r]
-ƒC‰¹‚àA‚·‚®‚Éƒs[ƒ“‚Á‚Ä¨–Â‚è‚¾‚¯‚É‚È‚Á‚ÄA‘¼‚É[r]
-‚Í‚È‚ñ‚Ì‰¹‚à‚µ‚È‚­‚È‚Á‚½B[pcms]
+My vision went completely white in an instant, and the loud[r]
+sound I heard for a moment soon turned into nothing but a[r]
+ringing in my ears, with no other sound to be heard.[pcms]
 
 *5189|
 [fc]
-‹ó’†‚É•‚‚¢‚Ä‚é‚İ‚½‚¢‚ÅA©•ª‚ª‚Ç‚±‚ğŒü‚¢‚Ä‚é‚Ì‚©[r]
-‚í‚©‚ç‚È‚­‚È‚Á‚ÄA‰´‚Í”½Ë“I‚Éè‘«‚ğƒoƒ^‚Â‚©‚¹‚½[r]
-‚¯‚ÇA‘Ì‚ª“®‚¢‚½Š´‚¶‚ª“`‚í‚Á‚Ä‚­‚éƒRƒg‚Í–³‚©‚Á‚½B[pcms]
+It felt like I was floating in mid-air, unable to tell which[r]
+way I was facing, and I reflexively flailed my arms and[r]
+legs, but I couldn't feel any sensation of my body moving.[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
@@ -47,4 +47,4 @@
 
 [jump storage="jingujiroute12160.ks" target=*jingujiroute12160_TOP]
 
-;//||||||||||||||||||||||||||||||||||||||||
+;//

@@ -14,7 +14,7 @@
 ;//通常選択肢
 ;[link storage="alive_60140.ks" target=*alive_60140_TOP]俺はきっと、前から速水の事が……[endlink]
 ;[link storage="alive_60150.ks" target=*alive_60150_TOP]白いスクール水着と、背の小さい女……[endlink]
-;[s]
+;[pcms]
 
 
 
@@ -34,8 +34,8 @@
 [fc]
 [pcms_sel]
 
-[eval exp="f.seltext02 = '俺はきっと、前から速水の事が……'"]
-[eval exp="f.seltext04 = '白いスクール水着と、背の小さい女……'"]
+[eval exp="f.seltext02 = 'I\'m sure that I\'ve had feelings for Hayami since before'"]
+[eval exp="f.seltext04 = 'White school swimsuit and a short girl'"]
 
 [if exp="tf.sys_sub == 0 || tf.選択肢ログ表示してね == 1"]
 	;選択肢内容をバックログに表記。改行コード必須。

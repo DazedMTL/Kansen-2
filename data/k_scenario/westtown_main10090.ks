@@ -32,7 +32,7 @@
 ;[link storage="westtown_bad_30000.ks" target=*westtown_bad_30000_TOP]すぐ近くの階段へ走る[endlink]
 ;[link storage="westtown_main10100.ks" target=*westtown_main10100_TOP]もう一つの階段に賭けてみる[endlink]
 ;[link storage="westtown_bad_30020.ks" target=*westtown_bad_30020_TOP]より安全なのは……[endlink]
-;[s]
+;[pcms]
 
 
 
@@ -40,9 +40,9 @@
 [fc]
 [pcms_sel]
 
-[eval exp="f.seltext02 = 'すぐ近くの階段へ走る'"]
-[eval exp="f.seltext04 = 'もう一つの階段に賭けてみる'"]
-[eval exp="f.seltext06 = 'より安全なのは……'"]
+[eval exp="f.seltext02 = 'Run to the nearby stairs'"]
+[eval exp="f.seltext04 = 'Try betting on the other staircase'"]
+[eval exp="f.seltext06 = 'The safer one is'"]
 
 [if exp="tf.sys_sub == 0 || tf.選択肢ログ表示してね == 1"]
 	;選択肢内容をバックログに表記。改行コード必須。

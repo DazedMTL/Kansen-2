@@ -23,8 +23,8 @@
 
 *10320|
 [fc]
-[ns]大倉[nse]
-「確か、奥の方に階段あったよな？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"I'm sure there were stairs at the back, right?"[pcms]
 
 
 ;mm 追加
@@ -34,16 +34,16 @@
 *10321|
 [fc]
 [vo_kob s="koba0144"]
-[ns]小林[nse]
-「つきあたりをみぎ、だね」[pcms]
+[ns]Kobayashi[nse]
+"At the end, to the right, huh."[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
 *10322|
 [fc]
-両側に下着売り場が並ぶ長い通路を早足で進みながら、[r]
-ユウが拡げているフロアマップを覗き込んでいると、[r]
-女の人がつぶやくのが聞こえてきた。[pcms]
+As I hurried down the long corridor lined with underwear[r]
+shops, peeking into the floor map Yuu was holding, I could[r]
+hear a woman murmuring.[pcms]
 
 ;mm 追加
 [ChrSetEx layer=4 chbase="anza_n05"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -51,73 +51,69 @@
 *10323|
 [fc]
 [vo_anz s="anzai0077"]
-[ns]女[nse]
-「あれ、店員さんかしら……」[pcms]
+[ns]Female[nse]
+"Hmm, is that a store clerk...?"[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *10324|
 [fc]
-女の人の見ているものを探すと、通路のずっと奥、突[r]
-き当たりの店の前を、ひとがウロついている[r]
-のがわかった。[pcms]
+Looking in the direction the woman was gazing, I could see[r]
+people loitering in front of a store at the very end of the[r]
+corridor.[pcms]
 
 *10325|
 [fc]
-[ns]ジョン[nse]
-「グルルルルルッ……！」[pcms]
+[ns]John[nse]
+"Grrrrrrr...!"[pcms]
 
 *10326|
 [fc]
-まともなひとなら、なにが起きているのか聞けるかも[r]
-しれないと、ウロついている人影に呼びかけようとし[r]
-た俺の後ろで、ハスキーが急に唸り始めた。[pcms]
+Behind me, as I was about to call out to the shadowy figures[r]
+loitering to ask what was happening, the husky suddenly[r]
+started growling.[pcms]
 
 *10327|
 [fc]
-[ns]大倉[nse]
-「……？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"...?"[pcms]
 
 *10328|
 [fc]
-ハスキーが睨んでいる通路の奥へ顔を戻すと、突き当[r]
-たりの所にいたヒトが、いつの間にか歩いてこっちへ[r]
-向かってきていた。[pcms]
+Turning back towards the end of the corridor that the husky[r]
+was glaring at, I noticed that the person who had been there[r]
+was now walking towards us.[pcms]
 
 *10329|
 [fc]
-唸り続けているハスキーは、あのひとを警戒[r]
-しているらしい。[pcms]
+The continuously growling husky seemed to be on guard[r]
+against that person.[pcms]
 
 *10330|
 [fc]
-なんかフラフラしてんな、あのヒト……。[r]
-もしかして、ケガしてるんじゃねーのか……？[pcms]
+That person is staggering... Could they be injured...?[pcms]
 
 *10331|
 [fc]
-あのひとの後ろから現れた、同じようにフラフラと歩[r]
-く人間がゾロゾロと姿を現すのを見て、俺はどうして[r]
-ハスキーが警戒していたのかがわかった。[pcms]
+Seeing more people appearing behind that person, all walking[r]
+unsteadily, I understood why the husky had been on alert.[pcms]
 
 *10332|
 [fc]
-アイツら違う……。[r]
-フツーの人間じゃねぇ……！！[pcms]
+They're different... Not normal humans...!![pcms]
 
 *10333|
 [fc]
-[ns]大倉[nse]
-「隠れろッ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Hide!!"[pcms]
 
 ;mm 追加
 [black_toplayer][trans_c ruf_lr time=300][hide_chara_int]
 
 *10334|
 [fc]
-低い呻き声と一緒にこっちへ向かってくるイカレ野郎[r]
-をやり過ごそうと、俺はとっさに、すぐ傍の店の中へ[r]
-身を隠した。[pcms]
+To avoid the crazed bunch coming towards us with low groans,[r]
+I instinctively hid inside a nearby store.[pcms]
 
 ;mm 追加
 ;//＠：西棟・一階
@@ -125,55 +121,52 @@
 
 *10335|
 [fc]
-だけど、そうしてしまってから、俺は自分の頭の悪さ[r]
-を呪った。[pcms]
+But after doing so, I cursed my own stupidity.[pcms]
 
 *10336|
 [fc]
-ここに隠れたってしょうがねーだろ……。[r]
-隠れるとこ見られてんだから……。[r]
-クソ……逆側に逃げれば良かった……。[pcms]
+Hiding here is pointless... They saw where we hid... Damn...[r]
+Should have run the other way...[pcms]
 
 *10337|
 [fc]
-どうする……。[r]
-今すぐここから出て走れば、捕まらずに逃げられる気[r]
-がする……。[pcms]
+What to do... If we run out now, I feel like we can escape[r]
+without being caught...[pcms]
 
 *10338|
 [fc]
-でも、アイツらが走って追ってきてたら……。[r]
-対抗できるような武器も持ってないし……。[pcms]
+But if they start chasing us running... We don't have any[r]
+weapons to fight back with...[pcms]
 
 *10339|
 [fc]
-でも、どっちにしろ、このままここにいたら４人とも[r]
-捕まっちまう……。[pcms]
+Either way, if we stay here, all four of us will get[r]
+caught...[pcms]
 
 *10340|
 [fc]
-アイツらに捕まったらどうなるかを、今までに見た光[r]
-景から想像してみれば、このままここに留まるのが間[r]
-違いだというのは、どんなバカでもわかる問題だろう。[pcms]
+Imagining what would happen if we got caught by them, based[r]
+on the scenes we've seen so far, even an idiot would[r]
+understand that staying here is a mistake.[pcms]
 
 *10341|
 [fc]
-[ns]大倉[nse]
-「ユウ、俺が合図したら、このひとら連れて、エレベー[r]
-　ターがある方にダッシュで逃げろ」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Yuuki, when I give the signal, take these people and dash[r]
+towards where the elevator is."[pcms]
 
 [ChrSetEx layer=4 chbase="koba_n03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *10342|
 [fc]
 [vo_kob s="koba0145"]
-[ns]小林[nse]
-「ヒロ、なにするつもり……？」[pcms]
+[ns]Kobayashi[nse]
+"Hiro, what are you planning to do...?"[pcms]
 
 *10343|
 [fc]
-[ns]大倉[nse]
-「なにもしねーよ、様子を見るだけだ」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Nothing, just watching."[pcms]
 
 [chara_int][trans_c cross time=150]
 
@@ -181,57 +174,56 @@
 
 *10344|
 [fc]
-俺は物陰から出て、女物の下着がかかっている棚まで[r]
-行き、そこから少し顔を出してヤツらがどこまで来て[r]
-いるかを窺った。[pcms]
+I stepped out from behind cover and went up to a rack of[r]
+women's underwear, peeking out slightly to see how close[r]
+they were.[pcms]
 
 *10345|
 [fc]
-[ns]大倉[nse]
-「……？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"...?"[pcms]
 
 *10346|
 [fc]
-すぐそこまで来てるんじゃないかと思っていたけど、[r]
-ヤツらはその場に立ち止まって、何かを探しているよ[r]
-うにキョロキョロと周りを見回していた。[pcms]
+I thought they would be right upon us by now, but they had[r]
+stopped and were looking around as if searching for[r]
+something.[pcms]
 
 *10347|
 [fc]
-もしかして、俺らを探してんのか……？[r]
-隠れるとこ見られてたと思ったけど、実は見てなかっ[r]
-たとか……？[pcms]
+Could they be looking for us...? I thought they saw us[r]
+hiding, but maybe they didn't actually see...[pcms]
 
 *10348|
 [fc]
-そのうち、見つけるのを諦めたのか、ヤツらの一部は[r]
-反対側の長い通路の方へと歩いていき、残りはそのま[r]
-まこっちへ向かって歩き始めた。[pcms]
+Eventually, some of them gave up looking and walked towards[r]
+the opposite end of the long corridor, while others started[r]
+walking towards us.[pcms]
 
 *10349|
 [fc]
-[ns]ジョン[nse]
-「グルルルルルッ……！」[pcms]
+[ns]John[nse]
+"Grrrrrrr...!"[pcms]
 
 *10350|
 [fc]
-ヤツらが歩き出したのに気がついたのか、お嬢様の横[r]
-にいたハスキーがまた唸りだした。[pcms]
+The husky next to the young lady started growling again as[r]
+it noticed them walking.[pcms]
 
 *10351|
 [fc]
-その唸り声が聞こえたらしく、ヤツらの歩くスピード[r]
-が少し速まる。[pcms]
+Their walking speed increased slightly as if they heard the[r]
+growling.[pcms]
 
 *10352|
 [fc]
-[ns]大倉[nse]
-「オイ……！　その犬黙らせてくれ……！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Hey...! Keep that dog quiet...!"[pcms]
 
 *10353|
 [fc]
-小声で言う俺を無表情に見つめてから、お嬢様はハス[r]
-キーの首に腕を回した。[pcms]
+Gazing expressionlessly at me as I whispered, the young lady[r]
+wrapped her arm around the husky's neck.[pcms]
 
 
 ;mm 追加
@@ -240,187 +232,181 @@
 *10354|
 [fc]
 [vo_may s="maya0069"]
-[ns]お嬢様[nse]
-「……ジョン、声出しちゃダメ……」[pcms]
+[ns]Young Lady[nse]
+"...John, no barking..."[pcms]
 ;//◎小声（空気音のみで喋るカンジ）
 
 *10355|
 [fc]
-[ns]ジョン[nse]
-「……」[pcms]
+[ns]John[nse]
+"..."[pcms]
 
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *10356|
 [fc]
-ハスキーはお嬢様の言うことがわかるのか、鼻にシワ[r]
-を寄せたまま、唸るのだけをやめた。[pcms]
+The husky seemed to understand the young lady's words and[r]
+stopped growling while still wrinkling its nose.[pcms]
 
 *10357|
 [fc]
-俺は別の棚まで移動し、通路からは見えない位置に身[r]
-を隠して、ヤツらの様子を盗み見る。[pcms]
+I moved to another shelf and hid in a spot where I couldn't[r]
+be seen from the corridor, stealing glances at them.[pcms]
 
 *10358|
 [fc]
-[ns]大倉[nse]
-「フーッ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Phew..."[pcms]
 
 *10359|
 [fc]
-見つからないようにヤツらの様子を盗み見る、その時[r]
-の緊張感を、俺は妙に懐かしく感じていた。[pcms]
+I strangely felt nostalgic for the tension of secretly[r]
+watching them without being discovered.[pcms]
 
 *10360|
 [fc]
-かくれんぼで楽しめる歳じゃねーんだけどな……。[r]
-しかも見つかって捕まったら、鬼を交代するだけじゃ[r]
-済まねーし……。[pcms]
+I'm not at an age where I can enjoy hide and seek... Plus,[r]
+if we get caught, it's not just a matter of switching who's[r]
+'it'...[pcms]
 
 [cutin storage="cut002"][trans_c cross time=500]
 
 *10361|
 [fc]
-[ns]金髪の青年[nse]
-「ん゛～～……んん゛～～……ま゛んこぉ～～……？[r]
-　まん゛この゛にお゛い゛かあ゛ぁ～～……？」[pcms]
+[ns]Blond Youth[nse]
+"Nnn~...nnnn~...pussy~...? The smell of pussy~...?"[pcms]
 
 *10362|
 [fc]
 [vo_mob s="tenin0001"]
-[ns]女店員[nse]
-「あ゛れえ゛ぇ～～……？　ちんほ゜ぉ～～、と゛こ[r]
-　い゛ったの゛お゛ぉ～～……？」[pcms]
+[ns]Female Clerk[nse]
+"Whaaat~...? Where did that cock go~...?"[pcms]
 
 *10363|
 [fc]
-こっちから見える所に姿を現したイカレ集団は、焦点[r]
-の合ってない目で空中を見つめ、覚束ない足取りで歩[r]
-き、よだれを垂れ流しながら、低く呻いている。[pcms]
+The crazed group that appeared in view had unfocused eyes[r]
+staring into space, walked unsteadily with drool dripping[r]
+down, and were groaning lowly.[pcms]
 
 *10364|
 [fc]
-ゾロゾロと連れだって歩く連中の中の１人は、白いＹ[r]
-シャツの胸の辺りと口の周りを真っ赤に染めていた。[pcms]
+One of them walking in a group had his white T-shirt and[r]
+mouth area stained bright red.[pcms]
 
 *10365|
 [fc]
-[ns]赤く染まった青年[nse]
-「く゛う゛ぅ～～く゛う゛ぅ～～っ……てぇ、い゛っ[r]
-　てる゛ぅ……」[pcms]
+[ns]A young man dyed red[nse]
+"Guuu~ guuu~... it hurts..."[pcms]
 
 [cutin_int][trans_c cross time=300]
 
 *10366|
 [fc]
-看護師のひとは、覚醒剤じゃないみたいだと言ってたが、[r]
-俺にはヤツらがヤク中にしか見えなかった。[pcms]
+The nurse said it didn't seem like stimulants, but to me,[r]
+they looked like drug addicts.[pcms]
 
 *10367|
 [fc]
-覚醒剤じゃないのかもしれねーけど、ヤバイ薬なのは[r]
-間違いねぇ……。[pcms]
+It might not be stimulants, but there's no doubt it's some[r]
+dangerous drug...[pcms]
 
 *10368|
 [fc]
-でもヤク中だとして、コイツら一体、今までどこにい[r]
-たんだ……？[pcms]
+But even if they are drug addicts, where have they been all[r]
+this time...?[pcms]
 
 *10369|
 [fc]
-バスが商店街に到着して、あそこを歩[r]
-いていた時は、こんなヤツらいなかった……。[pcms]
+When the bus arrived at the shopping district and we were[r]
+walking around there, there were none of these people...[pcms]
 
 *10370|
 [fc]
-それとも、ヤク中じゃないのか……？[r]
-なんかの病気とか……。[r]
-遺伝子が突然変異を起こしたとか……。[pcms]
+Or maybe they're not drug addicts...? Some kind of disease[r]
+or... a sudden genetic mutation...[pcms]
 
 *10371|
 [fc]
-伝染病とか突然変異だったら、俺もアイツらみたいに[r]
-なる可能性があるってことだよな……。[r]
-一応、今んとこ、なんともないけど……。[pcms]
+If it's an infectious disease or a sudden mutation, then[r]
+there's a chance I could end up like them... For now, at[r]
+least, I'm fine...[pcms]
 
 *10372|
 [fc]
-あの白い光と、爆弾が爆発したかのような音……。[r]
-あれに、なんか関係があんのか……？[pcms]
+That white light and the sound like a bomb exploding...[r]
+Could that have something to do with it...?[pcms]
 
 *10373|
 [fc]
-考えを巡らせてる間に、イカレ集団は俺らが隠れてい[r]
-る店を通り過ぎて、反対側の長い通路の方へと歩いて[r]
-いった。[pcms]
+While I was pondering, the crazed group passed by the store[r]
+we were hiding in and walked towards the long corridor on[r]
+the opposite side.[pcms]
 
 *10374|
 [fc]
-[ns]大倉[nse]
-「ハァ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Haa..."[pcms]
 
 *10375|
 [fc]
-見つからなくて良かった……。[r]
-良かったけど……。[pcms]
+Thank goodness we weren't found... Thank goodness, but...[pcms]
 
 *10376|
 [fc]
-アイツら、なんで俺らを見つけられねーんだ……？[r]
-この店に逃げ込むとこを見てたはずだし、あの犬の唸[r]
-り声も聞こえてたのに……。[pcms]
+Why can't they find us...? They should have seen us run into[r]
+this store, and they must have heard that dog growling[r]
+too...[pcms]
 
 *10377|
 [fc]
-これがフツーの人間だったら、俺ら絶対見つかってた[r]
-よな……。[pcms]
+If these were normal people, we would have definitely been[r]
+found...[pcms]
 
 *10378|
 [fc]
-なにが原因か知らねーけど、脳がヤラレちまってるせ[r]
-いで、フツーの人間にできることが、できなくなって[r]
-るのかもしれねーな……。[pcms]
+Maybe their brains are messed up for some reason, and they[r]
+can't do things that normal people can...[pcms]
 
 *10379|
 [fc]
-あのイカレ野郎共、こん中にあとどれぐらいいるんだ[r]
-ろう……。[pcms]
+I wonder how many more of those crazed bastards are around[r]
+here...[pcms]
 
 *10380|
 [fc]
-まぁ、隠れるだけでやり過ごせんなら、そんなに心配[r]
-することもないのかもしれねーけど……。[pcms]
+Well, if we can just hide and wait it out, maybe there's not[r]
+so much to worry about after all...[pcms]
 
 *10381|
 [fc]
-[ns]大倉[nse]
-「よし、行こう……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Alright, let's go..."[pcms]
 
 *10382|
 [fc]
-小声でみんなを促して、俺は下着売り場を出て、イカ[r]
-レ集団とは逆の、フロアの奥へ早足で向かった。[pcms]
+In a low voice, I urged everyone and left the underwear[r]
+section, heading quickly towards the back of the floor,[r]
+opposite from where the crazed group went.[pcms]
 
 *10383|
 [fc]
-[ns]大倉[nse]
-「……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"..."[pcms]
 
 *10384|
 [fc]
-速水、なにもされてなきゃいいけど……。[pcms]
+I hope Hayami hasn't been harmed...[pcms]
 
 *10385|
 [fc]
-ヤク中かもしれないオッサンの他に、あのイカレ集団[r]
-までいたんじゃ、ますます時間に余裕が無くなってく[r]
-る……。[pcms]
+Besides the possibly drug-addicted old man, now with that[r]
+crazed group around, we're running out of time even more...[pcms]
 
 *10386|
 [fc]
-気が焦る俺の足は、もう早足ではなく、走っているの[r]
-と同じくらいのスピードを出していた。[pcms]
+My feet, anxious and hurried, were moving at a speed that[r]
+was almost like running.[pcms]
 
 [fadeoutbgm time=1000]
 [stop_se0]
@@ -430,4 +416,4 @@
 
 [jump storage="westtown_main10040.ks" target=*westtown_main10040_TOP]
 
-;//－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+;//

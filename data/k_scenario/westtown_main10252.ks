@@ -24,60 +24,58 @@
 
 *11116|
 [fc]
-女の子はようやく落ち着を取り戻し、みんなはこの場[r]
-から移動しようとしていた。[pcms]
+The girl finally regained her composure, and everyone was[r]
+about to move away from the spot.[pcms]
 
 *11117|
 [fc]
-しかし、速水の電話が気になった俺は、一人その場に[r]
-立ち止まり、携帯を見つめていた。[pcms]
+However, I was concerned about Hayami's phone call, so I[r]
+stood still alone, staring at my cell phone.[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
 *11118|
 [fc]
-やっぱり気になるな……。[r]
-こっちから電話してみよう……。[pcms]
+I'm still worried... Maybe I should call her...[pcms]
 
 [cutin storage="BGS15"][trans_c cross time=500]
 
 *11119|
 [fc]
-[ns]アナウンス[nse]
-「現在、回線が混み合っており、一時的に通話を制限[r]
-　しております……」[pcms]
+[ns]Announcement[nse]
+"Currently, the lines are congested, and calls are[r]
+temporarily being restricted..."[pcms]
 
 *11120|
 [fc]
-しかし、携帯から聞こえて来た音は、混雑の為に通話[r]
-を制限する、という機械の声だけだった。[pcms]
+But the only sound that came from the cell phone was a[r]
+mechanical voice stating that calls were being restricted[r]
+due to congestion.[pcms]
 
 *11121|
 [fc]
-[ns]大倉[nse]
-「チッ……」[pcms]
+[ns]Ookura[nse]
+"Tch..."[pcms]
 
 *11122|
 [fc]
-直接見ていないので、不安ではあるが、速水は無事だ[r]
-と言っていた。[r]
-それに、”また電話する”とも言っていた。[pcms]
+Since I haven't seen her directly, I am anxious, but Hayami[r]
+said she was safe. She also said she would call again.[pcms]
 
 *11123|
 [fc]
-…………。[r]
-早く探し出した方がいいか……。[pcms]
+... Should I start looking for her soon...?[pcms]
 
 *11124|
 [fc]
-[ns]大倉[nse]
-「そういや……実家の方は……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Come to think of it... how's my family doing..."[pcms]
 
 *11125|
 [fc]
-速水もそうだが、実家の事も心配だ。[r]
-実家の方は大丈夫なのか……？[r]
-しかし電話のバッテリーの残りも気になる……。[pcms]
+I'm worried about Hayami, but also about my family back[r]
+home. Are they okay...? But I'm also concerned about the[r]
+remaining battery on my phone...[pcms]
 
 [fadeoutbgm time=502]
 [cutin_int][trans_c cross time=300]
@@ -90,14 +88,14 @@
 
 ;	[link storage="westtown_main10253.ks" target=*westtown_main10253_TOP]一度だけ、母親に電話をしてみる[endlink]
 ;	[link storage="westtown_main10254.ks" target=*westtown_main10254_TOP]何かあれば連絡が来るだろう。それまで待つ[endlink]
-;	[s]
+;[pcms]
 
 *SEL05|一度だけ、母親に電話をしてみる／何かあれば連絡が来るだろう。それまで待つ
 [fc]
 [pcms_sel]
 
-[eval exp="f.seltext02 = '一度だけ、母親に電話をしてみる'"]
-[eval exp="f.seltext04 = '何かあれば連絡が来るだろう。それまで待つ'"]
+[eval exp="f.seltext02 = 'Try calling your mother just once'"]
+[eval exp="f.seltext04 = 'If there\'s any news, they\'ll contact us We\'ll wait until then'"]
 
 [if exp="tf.sys_sub == 0 || tf.選択肢ログ表示してね == 1"]
 	;選択肢内容をバックログに表記。改行コード必須。

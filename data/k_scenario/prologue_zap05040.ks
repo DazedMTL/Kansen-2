@@ -46,42 +46,41 @@
 *7998|
 [fc]
 [vo_nag s="nagasaki0033"]
-[ns]千尋[nse]
-「しょうがない子達ね、もう……」[pcms]
+[ns]Chihiro[nse]
+"Such hopeless kids, really..."[pcms]
 
 *7999|
 [fc]
-練習の後はいつも、速やかに疲労を回復させるために、[r]
-バナナをみんなに配って食べさせている。[pcms]
+After practice, I always distribute bananas to everyone to[r]
+quickly recover from fatigue.[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
 *8000|
 [fc]
-なのに、あの子達はこれだけでは足りないと、揃って[r]
-お好み焼き屋に入っていってしまった。[pcms]
+Yet, those kids say it's not enough and all head into an[r]
+okonomiyaki restaurant together.[pcms]
 
 *8001|
 [fc]
-確かに、運動後に炭水化物を取るのは理にかなってる[r]
-けど、だからってお好み焼きだなんて……。[pcms]
+Certainly, consuming carbohydrates after exercise makes[r]
+sense, but to go for okonomiyaki of all things...[pcms]
 
 *8002|
 [fc]
-こんなことを続けて太りでもしたら、あの子達全員、[r]
-居残り練習させてやるわ……。[pcms]
+If they keep this up and get fat, I'll make all of them stay[r]
+behind for extra practice...[pcms]
 
 *8003|
 [fc]
-どんなメニューでしごこうか、頭の中で考えを巡らせ[r]
-ていると、去年できた喫茶店から女の子が出てくるの[r]
-を見つけた。[pcms]
+As I'm pondering over what kind of menu to drill them with,[r]
+I spot a girl coming out of a caf that opened last year.[pcms]
 
 *8004|
 [fc]
-ここって確か、メイド喫茶とかいう喫茶店よね……。[r]
-水商売とほとんど一緒で、男が喜ぶ様なサービスしか[r]
-しないって聞いたけど……。[pcms]
+This place is that maid caf, right...? It's almost like the[r]
+nightlife business, I heard they only provide services that[r]
+men enjoy...[pcms]
 
 
 ;mm これメイドのザップと並びちがくてもいいんだっけ？
@@ -93,95 +92,97 @@
 *8005|
 [fc]
 [vo_hay s="hayami0087"]
-[ns]ありす[nse]
-「んじゃ、ショッピングモール行こっか！」[pcms]
+[ns]Arisu[nse]
+"Then, let's go to the shopping mall!"[pcms]
 ;//◎録る必要無し（ブロック０１３２０のものを流用）
 
 *8006|
 [fc]
-この辺りでは見ない制服ね……。[r]
-修業旅行かしら……。[r]
-それなら、観光気分で入ったのね……。[pcms]
+That's a uniform I haven't seen around here... Maybe they're[r]
+on a training trip... If that's the case, they entered in a[r]
+touristy mood...[pcms]
 
 [ChrSetEx layer=4 chbase="hayami_b07"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *8007|
 [fc]
 [vo_kob s="koba0073"]
-[ns]ありす[nse]
-「裕樹、ガラス玉なんていいもの入ってないよ？　ヒ[r]
-　ロシの目に」[pcms]
+[ns]Alice[nse]
+"Yuuki, there's nothing as nice as glass beads in there,[r]
+right? For Hiroshi's eyes"[pcms]
 ;//◎録る必要無し（ブロック０１３２０のものを流用）
 
 *8008|
 [fc]
-可愛い子……。[r]
-顔もスタイルも、私の周りにはいないタイプね……。[r]
-あんな子と仲良くなれたらいいのに……。[pcms]
+Cute girl... Her face and style are types I don't have[r]
+around me... It would be nice to become friends with someone[r]
+like her...[pcms]
 
 [ChrSetEx layer=4 chbase="hayami_b04"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *8009|
 [fc]
 [vo_hay s="hayami0089"]
-[ns]ありす[nse]
-「空洞～♪」[pcms]
+[ns]Alice[nse]
+"Hollow~♪"[pcms]
 ;//◎録る必要無し（ブロック０１３２０のものを流用）
 
 [ChrSetEx layer=2 chbase="ookura_n02g"][ChrSetXY layer=2 x=0 y=0][trans_c cross time=150]
 
 *8010|
 [fc]
-[ns]大倉[nse]
-「オマエが言うな！！　さっきバスん中で美南子《みなこ》に聞[r]
-　いたぞ！　古文、赤点だっただろ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Don't you say that!! I heard from Minako on the bus[r]
+earlier! You got a red mark in Classical Literature, didn't[r]
+you!!"[pcms]
 
 [ChrSetEx layer=3 chbase="koba_n12"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
 
 *8011|
 [fc]
-男２人がいなかったら、案内してあげる、とかって彼[r]
-女を誘えるのに……。[pcms]
+If those two guys weren't there, I could offer to show her[r]
+around or something...[pcms]
 
 *8012|
 [fc]
-口喧嘩してるし、彼女が怒って別行動をとったりしな[r]
-いかしら……。[pcms]
+They're arguing, I wonder if she'll get angry and decide to[r]
+go her own way...[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *8013|
 [fc]
-その願いもむなしく、女の子は一緒にいた２人の男と[r]
-楽しそうに、私とは逆の方向へ歩いていった。[pcms]
+Despite my hopes, the girl walked off in the opposite[r]
+direction from me, looking happy with the two guys she was[r]
+with.[pcms]
 
 *8014|
 [fc]
 [vo_nag s="nagasaki0034"]
-[ns]千尋[nse]
-「残念……。修業旅行みたいだし、明日にはもう、い[r]
-　なくなってるわよね……」[pcms]
+[ns]Chihiro[nse]
+"What a shame... It looks like a training trip, so by[r]
+tomorrow, they'll probably be gone..."[pcms]
 
 *8015|
 [fc]
-惜しいけど、彼女は諦めるしかない。[r]
-でも、私は希望を抱いていた。[pcms]
+It's regrettable, but she has no choice but to give up.[r]
+However, I was still hopeful.[pcms]
 
 *8016|
 [fc]
-七夕祭りもあるし、観光客の中には、あれぐらい可愛[r]
-い子が他にもいるかもしれない。[pcms]
+With the Tanabata festival coming up, there might be other[r]
+tourists as cute as her.[pcms]
 
 *8017|
 [fc]
-ここ最近、私の心を覆っている退屈を吹き飛ばすよう[r]
-な、新しい刺激に出会えるかもしれない。[pcms]
+Maybe I'll encounter a new thrill that will blow away the[r]
+boredom that's been covering my heart lately.[pcms]
 
 *8018|
 [fc]
-相手に警戒心を抱かせない、良い印象を与えるような[r]
-服が手持ちの中にあるか、私は頭の中でクローゼット[r]
-を引っかき回しながら家へと歩いた。[pcms]
+I walked home while rummaging through my closet in my mind,[r]
+looking for clothes that would give a good impression[r]
+without arousing suspicion.[pcms]
 
 [sysbt_meswin clear]
 [fadeoutbgm time=502]
@@ -191,4 +192,4 @@
 
 [jump storage="prologue_zap05041.ks" target=*prologue_zap05041_TOP]
 
-;//－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+;//

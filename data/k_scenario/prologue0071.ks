@@ -23,32 +23,31 @@
 
 *6639|
 [fc]
-[ns]大倉[nse]
-「んん……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Mmm..."[pcms]
 
 [stop_se0]
 
 *6640|
 [fc]
 [vo_mob s="haha0000"]
-[ns]母[nse]
-「浩、いつまで寝てるの！　もう起きなさい！」[pcms]
+[ns]Mother[nse]
+"Hiroshi, how long are you going to sleep! Get up already!"[pcms]
 
 *6641|
 [fc]
-まだ大丈夫……。[r]
-１０分ぐらいなら……。[pcms]
+"It's still fine... I can sleep for about 10 more[r]
+minutes..."[pcms]
 
 *6642|
 [fc]
 [vo_mob s="haha0001"]
-[ns]母[nse]
-「浩！！」[pcms]
+[ns]Mother[nse]
+"Hiroshi!!"[pcms]
 
 *6643|
 [fc]
-っせーなぁ……。[r]
-まだ大丈夫だって……。[pcms]
+"Geez... I said it's still fine..."[pcms]
 
 ;//
 ;選択肢（ダミー・成立フラグ無し）
@@ -63,15 +62,15 @@
 ;[link storage="prologue0072.ks" target=*prologue0072_TOP]もう起きる[endlink]
 ;[link storage="prologue0073.ks" target=*prologue0073_TOP]ケータイのアラームを止める[endlink]
 ;[link storage="prologue0074.ks" target=*prologue0074_TOP]アラームなんて無視！[endlink]
-;[s]
+;[pcms]
 
 *SEL01|もう起きる／ケータイのアラームを止める／アラームなんて無視！
 [fc]
 [pcms_sel]
 
-[eval exp="f.seltext02 = 'もう起きる'"]
-[eval exp="f.seltext04 = 'ケータイのアラームを止める'"]
-[eval exp="f.seltext06 = 'アラームなんて無視！'"]
+[eval exp="f.seltext02 = 'I\'m getting up now'"]
+[eval exp="f.seltext04 = 'Stop the cellphone alarm'"]
+[eval exp="f.seltext06 = 'Ignore the alarm!'"]
 
 [if exp="tf.sys_sub == 0 || tf.選択肢ログ表示してね == 1"]
 	;選択肢内容をバックログに表記。改行コード必須。

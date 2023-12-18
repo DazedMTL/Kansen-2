@@ -23,71 +23,71 @@
 
 *10481|
 [fc]
-もう一つの階段へ向かって走っている最中、右手に並[r]
-ぶ店のいくつかで、中に女がウロついているのを見た。[pcms]
+While running towards another staircase, I saw some women[r]
+loitering inside a few of the shops on my right.[pcms]
 
 *10482|
 [fc]
-女はみんな、後ろから追ってきているイカレ集団と同[r]
-じように、虚ろな目をし、薄ら笑いを顔に浮かべて、[r]
-呻いたり、ブツブツとなにかを喋っている。[pcms]
+The women all had vacant eyes and a faint smile on their[r]
+faces, moaning or muttering something, just like the crazed[r]
+group chasing us from behind.[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
 *10483|
 [fc]
-女の中には、取り放題だ、と高笑いしながら、紙袋や[r]
-バッグに棚の商品を詰め込んでるヤツもいた。[pcms]
+Among the women, there were those who, with a loud laugh,[r]
+were stuffing products from the shelves into paper bags and[r]
+their own bags as if they were up for grabs.[pcms]
 
 *10484|
 [fc]
-レイプしたり、物盗んだり、食ったり……。[r]
-ヤク中かなにか知らねーけど、どいつもこいつもロク[r]
-なモンじゃねーな……。[pcms]
+Raping, stealing, eating... I don't know if they're junkies[r]
+or what, but none of them are any good...[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_n08"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *10485|
 [fc]
 [vo_may s="maya0071"]
-[ns]お嬢様[nse]
-「ぁわっ……！」[pcms]
+[ns]Young Lady[nse]
+"Ah...!"[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *10486|
 [fc]
-後ろから聞こえてきた小さな悲鳴と、ベタッという音[r]
-に振り向くと、お嬢様が床にうつ伏せに倒れていて、[r]
-女が彼女を捕まえようとしていた。[pcms]
+Turning around at the sound of a small scream and a thud[r]
+from behind, I saw the young lady fallen face down on the[r]
+floor, with a woman trying to catch her.[pcms]
 
 *10487|
 [fc]
-急に出てきて突き飛ばしたらしい相手を探して、キョ[r]
-ロキョロしているお嬢様に、売り物をバッグに詰めて[r]
-いたあの女が近づいていく。[pcms]
+As the young lady looked around bewildered, apparently[r]
+having been pushed down suddenly, the woman who had been[r]
+stuffing merchandise into her bag approached her.[pcms]
 
 *10488|
 [fc]
-[ns]ジョン[nse]
-「ウォン！！　ウォウォン！！　ウォンウォンッ！！」[pcms]
+[ns]John[nse]
+"Woof!! Woof woof!! Woof woof!!"[pcms]
 
 *10489|
 [fc]
-他の店にいた女も姿を現し、お嬢様を守ろうと吠えま[r]
-くるハスキーをシカトして、どんどん彼女に近寄って[r]
-いく。[pcms]
+The other women from the shops appeared, ignoring the husky[r]
+barking furiously to protect the young lady, and kept[r]
+getting closer to her.[pcms]
 
 *10490|
 [fc]
-俺は急停止して、ユウに指示を出しながら、お嬢様の[r]
-ところへ走って戻った。[pcms]
+I came to a sudden stop and, while giving instructions to[r]
+Yuu, ran back to where the young lady was.[pcms]
 
 *10491|
 [fc]
-[ns]大倉[nse]
-「ユウ！　先に２階に行って、イカレ野郎がいないか[r]
-　見てきてくれ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Yuu! Go ahead to the second floor and check if there are[r]
+any crazies there!!"[pcms]
 
 
 ;mm 追加
@@ -96,107 +96,107 @@
 *10492|
 [fc]
 [vo_kob s="koba0156"]
-[ns]小林[nse]
-「う、うん、わかった！！」[pcms]
+[ns]Kobayashi[nse]
+"Y-Yes, got it!!"[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *10493|
 [fc]
-焦っているのか、お嬢様は床に尻をつけたまま後ずさ[r]
-りして、なかなか立ち上がれないでいるその間に、女[r]
-らは目の前まで来てしまっていた。[pcms]
+In her panic, the young lady was sitting on the floor[r]
+scooting back and couldn't get up quickly enough, and the[r]
+women had already come right up to her.[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_n10"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *10494|
 [fc]
 [vo_may s="maya0072"]
-[ns]お嬢様[nse]
-「や……」[pcms]
+[ns]Young Lady[nse]
+"No..."[pcms]
 
 *10495|
 [fc]
-[ns]ジョン[nse]
-「ウォンウォンウォンッ！！　ウォンウォンッ！！」[pcms]
+[ns]John[nse]
+"Woof woof woof!! Woof woof!!"[pcms]
 
 [cutin storage="cut001"][trans_c cross time=500]
 
 *10496|
 [fc]
 [vo_mob s="nusumu0001"]
-[ns]盗む女[nse]
-「に゛おい゛ぃ～～……かね゛の゛ぉ……ひとりし゛[r]
-　め゛する゛きな゛のぉ～～～……っ！？」[pcms]
+[ns]Thief Woman[nse]
+"That smeeell~... all that moneeey... I'll have you all to[r]
+myself~...!?"[pcms]
 
 *10497|
 [fc]
-先頭の女が伸ばした手に、ハスキーが今にも噛みつこ[r]
-うと姿勢をグッと低くしたところで、俺はお嬢様に辿[r]
-り着き、後ろから両脇に手を挿し込んだ。[pcms]
+Just as the husky lowered its stance ready to bite at the[r]
+hand stretched out by the leading woman, I reached the young[r]
+lady and slipped my hands under her arms from behind.[pcms]
 
 [cutin_int][trans_c cross time=300]
 
 *10498|
 [fc]
-[ns]大倉[nse]
-「ちょっとゴメン！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Sorry about this!!"[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_f03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *10499|
 [fc]
 [vo_may s="maya0073"]
-[ns]お嬢様[nse]
-「きゃぁっ……！！」[pcms]
+[ns]Young Lady[nse]
+"Kyaa...!!"[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *10500|
 [fc]
-そのまま後ろから抱きかかえるようにして、少し先で[r]
-心配そうな顔をして待っていた、女の人の所まで引き[r]
-ずっていってから、俺は彼女を立たせた。[pcms]
+Holding her from behind as if embracing her, I dragged her[r]
+over to a woman who was waiting a little ahead with a[r]
+worried look on her face, and then I helped her stand up.[pcms]
 
 [ChrSetEx layer=2 chbase="anza_n05"][ChrSetXY layer=2 x=0 y=0]
 [ChrSetEx layer=3 chbase="jinguji_n03"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
 
 *10501|
 [fc]
-[ns]大倉[nse]
-「大丈夫？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Are you okay?"[pcms]
 
 [ChrSetEx layer=3 chbase="jinguji_n02"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
 
 *10502|
 [fc]
 [vo_may s="maya0074"]
-[ns]お嬢様[nse]
-「あ……」[pcms]
+[ns]Young Lady[nse]
+"Ah..."[pcms]
 
 *10503|
 [fc]
 [vo_kob s="koba0157"]
-[ns]小林[nse]
-「うわぁっ！！　ヒロォ！！」[pcms]
+[ns]Kobayashi[nse]
+"Uwahh!! Hiroshi!!"[pcms]
 
 [ChrSetEx layer=2 chbase="anza_n13"][ChrSetXY layer=2 x=0 y=0]
 [ChrSetEx layer=3 chbase="jinguji_n04"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
 
 *10504|
 [fc]
-[ns]大倉[nse]
-「ユウ！？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Yuu!?"[pcms]
 
 *10505|
 [fc]
-一安心したところで、今度はユウの叫び声が、階段の[r]
-方から聞こえてきた。[pcms]
+Just as I felt relieved, I heard Yuu's scream coming from[r]
+the direction of the stairs.[pcms]
 
 *10506|
 [fc]
-[ns]大倉[nse]
-「彼女お願いします！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Please take care of her!"[pcms]
 
 ;//♪：bgm005 stop
 [fadeoutbgm time=1][wb]
@@ -214,105 +214,104 @@
 
 *10507|
 [fc]
-お嬢様を女の人に任せて、俺は階段へ走り、１段抜か[r]
-しで踊り場まで駆け上がる。[pcms]
+Leaving the young lady with the woman, I ran towards the[r]
+stairs and skipped steps to reach the landing.[pcms]
 
 *10508|
 [fc]
-踊り場から数段上ったところで立ち止まっていたユウ[r]
-は、俺が来たのに気づくと、泣きそうな顔になって駆[r]
-け寄ってきた。[pcms]
+Yuu, who had stopped a few steps above the landing, noticed[r]
+me coming and ran towards me with a face about to cry.[pcms]
 
 [ChrSetEx layer=4 chbase="koba_n14"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *10509|
 [fc]
 [vo_kob s="koba0158"]
-[ns]小林[nse]
-「ど、どうするの？　あれ……」[pcms]
+[ns]Kobayashi[nse]
+"What do we do? That..."[pcms]
 
 *10510|
 [fc]
-階段の上を見上げると、いると思っていたイカレ集団[r]
-はいなくて、上りきった所に数人、ひとが倒れている[r]
-のが見えるだけだった。[pcms]
+Looking up at the top of the stairs, there was no sign of[r]
+the crazed group I expected to see; instead, I could only[r]
+see several people lying down at the top.[pcms]
 
 *10511|
 [fc]
-[ns]大倉[nse]
-「……ビックリさせんなよ。アイツらに捕まったのか[r]
-　と思っただろ」[pcms]
+[ns]Ookura Hiroshi[nse]
+"...Don't scare me like that. I thought you got caught by[r]
+them."[pcms]
 
 [ChrSetEx layer=4 chbase="koba_n12"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *10512|
 [fc]
 [vo_kob s="koba0159"]
-[ns]小林[nse]
-「だって……また、いきかえったら……」[pcms]
+[ns]Kobayashi[nse]
+"But... if we go back again..."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *10513|
 [fc]
-階段を少し上ってみると、そのひとらは血溜まりの中[r]
-に倒れていて、体のあちこちが虫食いのように欠けて[r]
-いた。[pcms]
+Going up the stairs a bit more, those people were lying in[r]
+pools of blood, with parts of their bodies missing as if[r]
+eaten by insects.[pcms]
 
 *10514|
 [fc]
-多分、全員死んでいるんだろうけど、エスカレーター[r]
-の時とは違って山にはなっていないし、臭いもそれほ[r]
-どじゃない。[pcms]
+They're probably all dead, but unlike with the escalator[r]
+earlier, they weren't piled up, and the smell wasn't that[r]
+bad either.[pcms]
 
 *10515|
 [fc]
-気持ち悪いのは変わらないし、ユウの言う通り、また[r]
-突然動き出すかもしれないけど、俺らにはもう、ここ[r]
-しか２階へ行く道は残されてない。[pcms]
+It's still disgusting, and just like Yuu said, they might[r]
+suddenly start moving again, but we have no other way to get[r]
+to the second floor now.[pcms]
 
 *10516|
 [fc]
-[ns]大倉[nse]
-「アイツらが生き返る前に、ダッシュで通り過ぎるし[r]
-　かないな……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Before they come back to life, we have no choice but to[r]
+dash past them..."[pcms]
 
 [ChrSetEx layer=4 chbase="anza_n06"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *10517|
 [fc]
 [vo_anz s="anzai0079"]
-[ns]女[nse]
-「どうしたの？　急がないと追いつかれるわ」[pcms]
+[ns]Female[nse]
+"What's wrong? We need to hurry or they'll catch up."[pcms]
 
 *10518|
 [fc]
-踊り場まで上がってきていた女の人に声をかけられて、[r]
-顔を彼女の方に向けた俺の目に、見覚えのあるものが[r]
-映った。[pcms]
+Being called out by the woman who had come up to the[r]
+landing, I turned my face towards her and saw something[r]
+familiar.[pcms]
 
 *10519|
 [fc]
-[ns]大倉[nse]
-「あれは……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"That is..."[pcms]
 
 *10520|
 [fc]
-俺が見たそれは、このビルの出入り口にあったのと同[r]
-じ、壁に付いている装置だった。[pcms]
+What I saw was a device attached to the wall, just like the[r]
+one at the entrance of this building.[pcms]
 
 [ChrSetEx layer=4 chbase="anza_n06"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *10521|
 [fc]
 [vo_anz s="anzai0080"]
-[ns]女[nse]
-「え？　何？」[pcms]
+[ns]Female[nse]
+"Huh? What is it?"[pcms]
 
 *10522|
 [fc]
-[ns]大倉[nse]
-「先に２階へ上がっててください！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Please go up to the second floor first!"[pcms]
 
 [chara_int]
 [ChrSetEx layer=4 chbase="koba_n07"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -320,14 +319,14 @@
 *10523|
 [fc]
 [vo_kob s="koba0160"]
-[ns]小林[nse]
-「ヒロ！？」[pcms]
+[ns]Kobayashi[nse]
+"Hiro!?"[pcms]
 
 *10524|
 [fc]
-俺は急いで階段を駆け下りて、出入り口の時と同じよ[r]
-うに、赤いプラスチックの板を割り、金具の取っ手を[r]
-引いてシャッターを降ろした。[pcms]
+I hurried down the stairs and just like at the entrance,[r]
+broke the red plastic plate and pulled on the metal handle[r]
+to lower the shutter.[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
@@ -339,14 +338,14 @@
 
 *10525|
 [fc]
-２階にも同じシャッターがあるはずだ……。[r]
-この階段と、向こうの階段のシャッターも閉めれば、[r]
-１階からは上がってこれなくなる……。[pcms]
+There must be a similar shutter on the second floor... If we[r]
+close this shutter and the one on the other staircase, they[r]
+won't be able to come up from the first floor...[pcms]
 
 *10526|
 [fc]
-急がねーと、向こうの階段にいたヤツらが、２階に上[r]
-がってきちまう……！[pcms]
+We need to hurry or those guys from the other staircase will[r]
+make it up to the second floor...![pcms]
 
 ;//[fadeoutbgm time=502]
 ;//[stop_se0]
@@ -356,4 +355,4 @@
 
 [jump storage="westtown_main10120.ks" target=*westtown_main10120_TOP]
 
-;//－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+;//

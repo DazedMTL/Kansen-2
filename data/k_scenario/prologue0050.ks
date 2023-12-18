@@ -24,23 +24,22 @@
 
 *6602|
 [fc]
-俺は最後まで行かないと言い張ったが、結局、ユウが[r]
-食べてみたいと言い出したことで、ずんだモチは食べ[r]
-に行くことに決まってしまった。[pcms]
+"I insisted that I wouldn't go all the way, but in the end,[r]
+we decided to go eat zunda mochi because Yuu said she wanted[r]
+to try it."[pcms]
 
 *6603|
 [fc]
 [vo_hay s="hayami0045"]
-[ns]ありす[nse]
-「もー、あたしがおごってあげるから、ね？　それで[r]
-　いいでしょ」[pcms]
+[ns]Arisu[nse]
+"Come on, I'll treat you, okay? That's fine, right?"[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
 *6604|
 [fc]
-[ns]大倉[nse]
-「っせーよ。だいたいオマエが、あ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Geez. It's always you who..."[pcms]
 
 [chara_int_ layer=4][chara_int_ layer=2][chara_int_ layer=3]
 [ChrSetEx layer=4 chbase="jinguji_f01"][ChrSetXY layer=4 x=800 y=0][trans_c cross time=150]
@@ -50,8 +49,8 @@
 *6605|
 [fc]
 [vo_kob s="koba0037"]
-[ns]小林[nse]
-「……？　どうしたの？」[pcms]
+[ns]Kobayashi[nse]
+"...? What's wrong?"[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_f01"][ChrSetXY layer=4 x=600 y=0][trans_c cross time=150]
 [move layer=4 accel=1 path=(400,0,255) time=500 cond=sf.efect]
@@ -59,8 +58,8 @@
 
 *6606|
 [fc]
-こないだ見たあの子だ……。[r]
-あのデカイ屋敷の……。[pcms]
+"It's that girl I saw the other day... from that huge[r]
+mansion..."[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_f01"][ChrSetXY layer=4 x=400 y=0][trans_c cross time=150]
 [move layer=4 accel=1 path=(200,0,255) time=500 cond=sf.efect]
@@ -68,8 +67,8 @@
 
 *6607|
 [fc]
-俺達がいるところと反対側の歩道を、お嬢様は犬をつ[r]
-れて歩いていた。[pcms]
+"The young lady was walking her dog on the sidewalk opposite[r]
+to where we were."[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_f01"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 [move layer=4 accel=1 path=(100,0,255) time=300 cond=sf.efect]
@@ -77,9 +76,8 @@
 
 *6608|
 [fc]
-ここら辺が散歩コースなんだろうな……。[r]
-家があれだけデカイんだから、庭で遊ばせておくだけ[r]
-でもいいような気もするけど……。[pcms]
+"This area must be her walking route... With a house that[r]
+big, you'd think she could just play in the yard..."[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_f01"][ChrSetXY layer=4 x=100 y=0][trans_c cross time=150]
 [move layer=4 accel=1 path=(-400,0,255) time=1000 cond=sf.efect]
@@ -87,8 +85,8 @@
 
 *6609|
 [fc]
-俺が何を見ているのか、速水とユウもわかったみたい[r]
-で、それぞれ“わぁ”と声をあげた。[pcms]
+"Hayami and Yuu seemed to realize what I was looking at too,[r]
+and they both exclaimed in awe."[pcms]
 
 [chara_int]
 [ChrSetEx layer=2 chbase="koba_n01"][ChrSetXY layer=2 x=0 y=0]
@@ -97,89 +95,90 @@
 *6610|
 [fc]
 [vo_hay s="hayami0046"]
-[ns]ありす[nse]
-「ハスキーだ、カワイイ～♪」[pcms]
+[ns]Alice[nse]
+"It's a Husky, how cute~♪"[pcms]
 
 *6611|
 [fc]
 [vo_kob s="koba0038"]
-[ns]小林[nse]
-「綺麗な子だね、ヒロシの知りあい？」[pcms]
+[ns]Kobayashi[nse]
+"She's a beautiful girl, isn't she? Are you acquainted with[r]
+Hiroshi?"[pcms]
 
 [ChrSetEx layer=3 chbase="hayami_n03"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
 
 *6612|
 [fc]
-[ns]大倉[nse]
-「いや、この辺でたまに見るってだけ。俺んち来る途[r]
-　中に、すごいデカイ家あるの知らねぇ？　あそこに[r]
-　住んでる子」[pcms]
+[ns]Ookura[nse]
+"No, I just see her around here sometimes. Don't you know[r]
+there's a really big house on the way to my place? She lives[r]
+there."[pcms]
 
 [ChrSetEx layer=2 chbase="koba_n08"][ChrSetXY layer=2 x=0 y=0][trans_c cross time=150]
 
 *6613|
 [fc]
 [vo_kob s="koba0039"]
-[ns]小林[nse]
-「あー、あそこの……。じゃあ、お嬢様なんだ」[pcms]
+[ns]Kobayashi[nse]
+"Ah, that place... So she's a young lady."[pcms]
 
 *6614|
 [fc]
-[ns]大倉[nse]
-「みたいだぜ。こないだ、あの家の前で見てさ。いか[r]
-　にも高級って外車から降りてきたし」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Seems like it. I saw her in front of that house the other[r]
+day. She got out of a really fancy car."[pcms]
 
 [ChrSetEx layer=2 chbase="koba_n12"][ChrSetXY layer=2 x=0 y=0][trans_c cross time=150]
 
 *6615|
 [fc]
 [vo_kob s="koba0040"]
-[ns]小林[nse]
-「観察してたの？　ストーカーじゃない、それ……」[pcms]
+[ns]Kobayashi[nse]
+"Were you observing her? That's not stalking, is it...?"[pcms]
 
 *6616|
 [fc]
-[ns]大倉[nse]
-「やっぱ気になるじゃん？　あれだけカワイイ子だし[r]
-　さ。物静かなカンジで……一回でいいから、ああい[r]
-　う子とつきあってみたいよなー」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Can't help but be curious, right? She's so cute and all.[r]
+She has this quiet vibe... I'd like to date a girl like that[r]
+just once."[pcms]
 
 [ChrSetEx layer=3 chbase="hayami_n05"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
 
 *6617|
 [fc]
 [vo_hay s="hayami0047"]
-[ns]ありす[nse]
-「ふーん……ヒロシ、ああいうのが好き？」[pcms]
+[ns]Arisu[nse]
+"Hmm... Hiroshi, you like that type?"[pcms]
 
 *6618|
 [fc]
-[ns]大倉[nse]
-「ああいうのって、あの子に失礼だろ。[r]
-　オマエとは格が違うんだぜ？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"That type? That's rude to her. She's out of your league,[r]
+you know?"[pcms]
 
 [ChrSetEx layer=3 chbase="hayami_n09"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
 
 *6619|
 [fc]
 [vo_hay s="hayami0048"]
-[ns]ありす[nse]
-「あっそ。んじゃ、下々の者は先に帰ら[r]
-　せていただきます。行こ、裕樹」[pcms]
+[ns]Alice[nse]
+"Oh really. Then us commoners will take our leave first.[r]
+Let's go, Yuuki."[pcms]
 
 *6620|
 [fc]
 [vo_kob s="koba0041"]
-[ns]小林[nse]
-「そうだね。セレブのことはわからないし」[pcms]
+[ns]Kobayashi[nse]
+"Yeah. We don't understand the ways of the elite."[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *6621|
 [fc]
-速水とユウが呆れ顔で行ってしまったあとも、俺はし[r]
-ばらく足を止めて、商店街の方へ歩いていく彼女を眺[r]
-めていた。[pcms]
+"Even after Hayami and Yuu left with a look of disbelief, I[r]
+stood still for a while, watching her as she walked towards[r]
+the shopping district."[pcms]
 
 [fadeoutbgm time=502]
 [stop_se0]
@@ -189,4 +188,4 @@
 
 [jump storage="prologue0060.ks" target=*prologue0060_TOP]
 
-;//－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+;//

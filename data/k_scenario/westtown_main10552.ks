@@ -19,89 +19,90 @@
 
 *12431|
 [fc]
-ココまで来てなに言ってんだ……。[r]
-行かなきゃ速水は助けらんねーんだぞ……！[pcms]
+"What are you saying at a time like this...? If we don't go,[r]
+Hayami won't be saved...!"[pcms]
 
 *12432|
 [fc]
-[ns]大倉[nse]
-「よし……！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Alright...!!"[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
 *12433|
 [fc]
-心を決めて、走りだした俺の腕を、マヤちゃんが両手[r]
-を掴んで止めた。[pcms]
+As I made up my mind and started to run, Maya-chan grabbed[r]
+my arms with both hands to stop me.[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_n01"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *12434|
 [fc]
-[ns]大倉[nse]
-「離してくれ。行かなきゃ速水が……！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Let go of me. If I don't go, Hayami will...!!"[pcms]
 
 *12435|
 [fc]
-腕を掴む手に力を込めて、マヤちゃんは俺に大きく首[r]
-を横に振った。[pcms]
+Maya-chan shook her head vigorously from side to side,[r]
+putting strength into the hands that were gripping my arms.[pcms]
 
 *12436|
 [fc]
 [vo_may s="maya0136"]
-[ns]摩耶[nse]
-「あの数が相手じゃ無理……。無謀過ぎる……」[pcms]
+[ns]Maya[nse]
+"It's impossible against that many... It's too reckless..."[pcms]
 
 *12437|
 [fc]
-[ns]大倉[nse]
-「でも……！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"But...!!"[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *12438|
 [fc]
 [vo_kob s="koba0262"]
-[ns]小林[nse]
-「うわぁっ！！」[pcms]
+[ns]Kobayashi[nse]
+"Uwaaah!!"[pcms]
 
 [bg storage="bg22a"][trans_c cross time=1000]
 
 *12439|
 [fc]
-叫び声がした方に顔を向けると、イカレ野郎に襲われ[r]
-そうになったユウが、床に尻餅をつくのが見えた。[pcms]
+Turning towards the direction of the scream, I saw Yuuki[r]
+about to be attacked by a crazed guy, falling on her butt on[r]
+the floor.[pcms]
 
 [ChrSetEx layer=4 chbase="anza_n06"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *12440|
 [fc]
 [vo_anz s="anzai0216"]
-[ns]みき[nse]
-「ヒロシくんっ……！！　手を貸して！！」[pcms]
+[ns]Mikki[nse]
+"Hiroshi-kun...!! Help me!!"[pcms]
 
 *12441|
 [fc]
-近づこうとしているイカレ野郎を押し戻すのに精一杯[r]
-で、アンザイさんも対処しきれなくなってきていた。[pcms]
+Anzai-san was struggling to push back the approaching crazed[r]
+guy and was starting to be overwhelmed.[pcms]
 
 *12442|
 [fc]
-[ns]大倉[nse]
-「クソ……ッ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Damn it...!!"[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *12443|
 [fc]
-俺は急いで引き返し、床を這いずるようにして逃げる[r]
-ユウに近づくイカレ野郎に、高く掲げたシャベルを思[r]
-いっきり振り下ろした。[pcms]
+I hurried back and swung the shovel I held high above my[r]
+head with all my might at the crazed guy who was approaching[r]
+Yuuki as she crawled on the floor trying to escape.[pcms]
 
 *12444|
 [fc]
-[ns]大倉[nse]
-「ォラアアァァッ！！！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Take thissss!!!"[pcms]
 
 ;[fadeoutbgm time=502]
 [stop_se0]
@@ -123,4 +124,4 @@
 ;//ブロック１２０００：『西館神宮司エンドルート』へ
 [jump storage="jingujiroute12000.ks" target=*jingujiroute12000_TOP]
 
-;//－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+;//

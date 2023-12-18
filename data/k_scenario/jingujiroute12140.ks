@@ -18,14 +18,16 @@
 
 *5055|
 [fc]
-非常階段は狭いし、途中にある扉が開くかどうかも[r]
-わからないから、上と下から挟み撃ちにでもされたら、[r]
-確実に襲われる。[pcms]
+The emergency stairs are narrow, and it's uncertain if the[r]
+doors along the way will open, so if we were to be trapped[r]
+between attackers from above and below, we'd definitely be[r]
+assaulted.[pcms]
 
 *5056|
 [fc]
-そう考えて、スロープで下へ降りようと決めた俺らは、[r]
-イカレ集団がウロつく屋上を走りだした。[pcms]
+With that in mind, we decided to descend via the slope, and[r]
+started running across the rooftop where the crazed group[r]
+was loitering.[pcms]
 
 ;//[]BG表示
 ;//★ＢＧ：屋上・駐車場東崩壊A
@@ -41,8 +43,8 @@
 
 *5057|
 [fc]
-[ns]大倉[nse]
-「この……ッ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"This...!!"[pcms]
 
 [se0 storage="se20"]
 [赤フラ]
@@ -50,20 +52,20 @@
 
 *5058|
 [fc]
-[ns]ステテコの老人[nse]
-「け゛はぁっ……」[pcms]
+[ns]Old Man in Loincloth[nse]
+"Geha...!"[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
 *5059|
 [fc]
-走る勢いのままシャベルを突き出し、進路をジャマ[r]
-するイカレ野郎を、俺は次々と倒していった。[pcms]
+As I ran, I thrust out my shovel and knocked down one after[r]
+another of the crazed bastards blocking my path.[pcms]
 
 *5060|
 [fc]
-[ns]大倉[nse]
-「どいてろッ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Get out of the way!!"[pcms]
 
 [se0 storage="se20"]
 [赤フラ]
@@ -71,65 +73,64 @@
 
 *5061|
 [fc]
-[ns]甚兵衛の中年[nse]
-「は゛く゛ふぅっ……」[pcms]
+[ns]Jubei's Middle Age[nse]
+"Hakufu...!"[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_f01"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *5062|
 [fc]
-走り続けながら、マヤちゃんがヤツらに捕まってない[r]
-か、俺は時々、後ろを振り返って確認した。[pcms]
+While running, I occasionally looked back to make sure Maya-[r]
+chan hadn't been caught by them.[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_f02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *5063|
 [fc]
 [vo_may s="maya0370"]
-[ns]摩耶[nse]
-「はっ……はっ……」[pcms]
+[ns]Maya[nse]
+"Hah... Hah..."[pcms]
 ;//◎走っている
 
 *5064|
 [fc]
-[ns]大倉[nse]
-「……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"..."[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *5065|
 [fc]
-ヤツらに捕まって、気がついた時にはいなかった、[r]
-なんてコトになったら、嫌だからな……。[pcms]
+I hate the thought of them catching her and realizing she's[r]
+gone when I come to...[pcms]
 
 *5066|
 [fc]
-マヤちゃんは……。[r]
-マヤちゃんだけは、絶対に守る……！！[pcms]
+Maya-chan... I will absolutely protect Maya-chan...!![pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_n04"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *5067|
 [fc]
 [vo_may s="maya0371"]
-[ns]摩耶[nse]
-「ヒロシ、前っ……！」[pcms]
+[ns]Maya[nse]
+"Hiroshi, in front...!"[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *5068|
 [fc]
-[ns]大倉[nse]
-「え……ぉわぁっ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Eh...owah!!"[pcms]
 
 *5069|
 [fc]
-肩越しに後ろを見ながら走っていた俺は、ボコボコに[r]
-なった青い車の影から、手が伸ばされていたコトに[r]
-気づいていなかった。[pcms]
+While running and looking back over my shoulder, I hadn't[r]
+noticed a hand reaching out from the shadow of a battered[r]
+blue car.[pcms]
 
 *5070|
 [fc]
-その手に片足を掴まれ、俺は後ろ向きに倒れて、背中[r]
-を地面に打ちつけた。[pcms]
+That hand grabbed my leg, and I fell backward, slamming my[r]
+back onto the ground.[pcms]
 
 [se0 storage="se20"][赤フラ]
 
@@ -138,30 +139,30 @@
 
 *5071|
 [fc]
-[ns]大倉[nse]
-「ぐはっ……！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Guh...!!"[pcms]
 
 *5072|
 [fc]
-足を掴んだヤツを振り返ると、真っ裸で地面に[r]
-這いつくばった男が、俺の足をガッチリ掴んでいた。[pcms]
+When I turned to look at the person who grabbed my leg,[r]
+there was a naked man sprawled on the ground, firmly holding[r]
+onto my foot.[pcms]
 
 *5073|
 [fc]
-[ns]丸裸の男[nse]
-「な゛んた゛よぉ～、お゛とこの゛あ゛しかよぉ～～[r]
-　……ます゛そうた゛なぁ～～……」[pcms]
+[ns]Naked Man[nse]
+"What's this~, such a nice ass~ ...looks delicious~..."[pcms]
 
 *5074|
 [fc]
-足を掴んだまま、這いずって近づいてくる男を[r]
-引き剥がそうとして初めて、自分がシャベルを放して[r]
-しまっていたコトに、俺は気が付いた。[pcms]
+As I tried to shake off the man crawling towards me while[r]
+still holding onto my leg, I realized for the first time[r]
+that I had let go of my shovel.[pcms]
 
 *5075|
 [fc]
-[ns]大倉[nse]
-「離れろ、この野郎ッ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Let go, you bastard!!"[pcms]
 
 [se0 storage="se20"][赤フラ]
 [quake_bg 元time=200 xy m]
@@ -174,14 +175,14 @@
 
 *5076|
 [fc]
-顔や頭を何回蹴り飛ばしても、男は気にもしないで、[r]
-ニヤニヤ笑いながら近づいてくる。[pcms]
+No matter how many times I kicked his face and head, the man[r]
+didn't care and kept crawling towards me with a sneering[r]
+smile.[pcms]
 
 *5077|
 [fc]
-[ns]丸裸の男[nse]
-「はら゛へってる゛から゛ぁ、お゛とこて゛も゛、[r]
-　いい゛かあ゛ぁ～～～……」[pcms]
+[ns]Naked Man[nse]
+"I'm so hungry~, even a guy will do~..."[pcms]
 
 [se0 storage="se20"][赤フラ]
 
@@ -190,13 +191,13 @@
 
 *5078|
 [fc]
-[ns]大倉[nse]
-「クソッ……！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Damn it...!!"[pcms]
 
 *5079|
 [fc]
-俺の膝の下が掴まれた瞬間、シャベルの先が振り下ろ[r]
-されて、男の頭が鈍い音を出して揺れる。[pcms]
+The moment my knee was grabbed, the shovel swung down and[r]
+the man's head wobbled with a dull sound.[pcms]
 
 [se0 storage="se20"][赤フラ]
 
@@ -204,13 +205,13 @@
 
 *5080|
 [fc]
-[ns]丸裸の男[nse]
-「う゛く゛っ……」[pcms]
+[ns]Naked Man[nse]
+"Ugh..."[pcms]
 
 *5081|
 [fc]
-[ns]大倉[nse]
-「マヤちゃん！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Maya-chan!!"[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_n01"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
@@ -220,8 +221,8 @@
 *5082|
 [fc]
 [vo_may s="maya0372"]
-[ns]摩耶[nse]
-「っ……！！」[pcms]
+[ns]Maya[nse]
+"Ah...!!"[pcms]
 
 
 
@@ -232,8 +233,8 @@
 
 *5083|
 [fc]
-[ns]丸裸の男[nse]
-「く゛う゛ぅっ……」[pcms]
+[ns]Naked Man[nse]
+"Guh..."[pcms]
 
 [se0 storage="se20"]
 ;[赤フラ]
@@ -242,48 +243,47 @@
 
 *5084|
 [fc]
-マヤちゃんは必死になって、何回もシャベルを振り下[r]
-ろすが、男は全然手を放そうとしない。[pcms]
+Maya-chan desperately swung down the shovel several times,[r]
+but the man wouldn't let go of her at all.[pcms]
 
 [ChrSetEx layer=4 chbase="etc03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *5085|
 [fc]
-その内、周りをウロついていた何人かのイカレ野郎が、[r]
-俺らの声に気づいて、こっちに近づき始めた。[pcms]
+Meanwhile, some of the other crazed bastards loitering[r]
+around noticed our voices and started approaching us.[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *5086|
 [fc]
-[ns]大倉[nse]
-「マヤちゃん、後ろから来てるッ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Maya-chan, they're coming from behind!!"[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_n08"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *5087|
 [fc]
 [vo_may s="maya0373"]
-[ns]摩耶[nse]
-「……！！」[pcms]
+[ns]Maya[nse]
+"...!!"[pcms]
 ;//◎息を飲む
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *5088|
 [fc]
-マヤちゃんは振り返り、近づいてくるイカレ野郎と[r]
-向かい合って、シャベルの先をヤツらに向けた。[pcms]
+Maya-chan turned around to face the approaching crazed[r]
+bastards and pointed the tip of her shovel at them.[pcms]
 
 *5089|
 [fc]
-早くコイツをどかさねーと……。[r]
-守るって言ったのに、マヤちゃんを危ない目に[r]
-遭わせるワケにはいかねーんだ……！！[pcms]
+We need to get this guy out of the way quickly... I said I'd[r]
+protect her, but I can't let Maya-chan be put in danger...!![pcms]
 
 *5090|
 [fc]
-[ns]大倉[nse]
-「離ッ、れろッ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Let go!!"[pcms]
 
 [se0 storage="se20"][赤フラ]
 
@@ -291,19 +291,19 @@
 
 *5091|
 [fc]
-[ns]丸裸の男[nse]
-「んか゛ぅっ……も゛く゛っ……」[pcms]
+[ns]Naked Man[nse]
+"Nguh...mugh..."[pcms]
 
 *5092|
 [fc]
-[ns]大倉[nse]
-「クッソ……！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Damn it...!!"[pcms]
 
 *5093|
 [fc]
-男の顔を蹴り続けながら、気になってマヤちゃんに[r]
-目を向けると、彼女はイカレ野郎相手に、意外によく[r]
-動いていた。[pcms]
+While continuing to kick the man's face, I glanced at Maya-[r]
+chan and saw that she was moving surprisingly well against[r]
+the crazed bastard.[pcms]
 
 [se0 storage="se20"][赤フラ]
 
@@ -311,15 +311,15 @@
 
 *5094|
 [fc]
-[ns]無精ヒゲの男[nse]
-「く゛っ……」[pcms]
+[ns]Unshaven Man[nse]
+"Guh..."[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_n06"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *5095|
 [fc]
 [vo_may s="maya0374"]
-[ns]摩耶[nse]
-「ふっ……！　んっ……！」[pcms]
+[ns]Maya[nse]
+"Fuh...! Nnh...!"[pcms]
 
 [se0 storage="se23"]
 ;[赤フラ]
@@ -327,35 +327,36 @@
 
 *5096|
 [fc]
-[ns]長髪の青年[nse]
-「ぉう゛っ……」[pcms]
+[ns]Long-haired young man[nse]
+"Ough..."[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *5097|
 [fc]
-けど、女の子の、しかも体の小さいマヤちゃんの[r]
-力じゃ、突き放すだけが精一杯のようで、イカレ野郎[r]
-は彼女から離れ、また近づいてを繰り返している。[pcms]
+But Maya-chan, being a small girl, could only muster enough[r]
+strength to push them away, and the crazed bastard kept[r]
+repeating the cycle of backing off and then approaching her[r]
+again.[pcms]
 
 *5098|
 [fc]
-そうしてる内に、イカレ野郎の位置が円を描くように[r]
-変わっていって、マヤちゃんは自分がその円の中心に[r]
-立っているコトに、全然気づいてなかった。[pcms]
+As this went on, the positions of the crazed bastards began[r]
+to shift in a circular pattern, and Maya-chan didn't realize[r]
+at all that she was standing in the center of that circle.[pcms]
 
 *5099|
 [fc]
-[ns]大倉[nse]
-「マヤちゃん、囲まれてるぞ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Maya-chan, you're being surrounded!!"[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_n04"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *5100|
 [fc]
 [vo_may s="maya0375"]
-[ns]摩耶[nse]
-「え……きゃあぁっ！！」[pcms]
+[ns]Maya[nse]
+"Eh...kyaaah!!"[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_n10"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 [wait_c time=500]
@@ -363,79 +364,78 @@
 
 *5101|
 [fc]
-後ろから近づいていた無精ヒゲの男に、マヤちゃんは[r]
-引き倒されて、手から放れたシャベルが地面を跳ねた。[pcms]
+Maya-chan was pulled down by an unshaven man who had[r]
+approached from behind, and the shovel she dropped bounced[r]
+off the ground.[pcms]
 
 *5102|
 [fc]
-無精ヒゲの男はマヤちゃんの横に両膝をつき、彼女の[r]
-腕を押さえて、顔を近づけていく。[pcms]
+The unshaven man knelt beside Maya-chan, pinned her arms[r]
+down, and brought his face closer to hers.[pcms]
 
 *5103|
 [fc]
-[ns]無精ヒゲの男[nse]
-「へへぇあ゛ぁ～～～……ま゛んこぉ、ちい゛さそう[r]
-　た゛な゛あ゛ぁ～～……きつい゛の゛は、きも゛ち[r]
-　い゛いから、すきな゛んた゛あ゛ぁ～～……！」[pcms]
+[ns]Unshaven Man[nse]
+"Hehehe~... Your pussy looks so small~... Tight ones feel[r]
+good, I like them~..."[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_n10"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *5104|
 [fc]
 [vo_may s="maya0376"]
-[ns]摩耶[nse]
-「うぅ……っ！」[pcms]
+[ns]Maya[nse]
+"Ugh...!"[pcms]
 
 *5105|
 [fc]
-ヤバイ……！！[r]
-これじゃマヤちゃんまで……！！[pcms]
+Oh no...!! At this rate, even Maya-chan...!![pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *5106|
 [fc]
-近くに転がっていた、平べったいガレキを掴み、[r]
-叩きつけてやろうと振り返ると、男は大口を開けて、[r]
-俺の太腿に食いつこうとしていた。[pcms]
+I grabbed a flat piece of debris nearby, and as I turned to[r]
+strike it down, the man opened his mouth wide, trying to[r]
+bite into my thigh.[pcms]
 
 *5107|
 [fc]
-[ns]丸裸の男[nse]
-「あ゛ぁ～～～……っ！！」[pcms]
+[ns]Naked Man[nse]
+"Aaahhh...!!"[pcms]
 
 *5108|
 [fc]
-[ns]大倉[nse]
-「くっ……！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Guh...!!"[pcms]
 
 [se0 storage="se20"]
 [quake_bg 元time=200 xy m]
 
 *5109|
 [fc]
-持っていた平べったいガレキを、男の口の中に突っ込[r]
-んで押し戻し、ガラ空きになった喉に足の裏を押しあ[r]
-てて、そのまま思いっきり跳ね飛ばした。[pcms]
+I shoved the flat debris into the man's mouth to push him[r]
+back, then pressed the sole of my foot against his wide-open[r]
+throat and kicked him away with all my might.[pcms]
 
 [se0 storage="se20"]
 [quake_bg 元time=200 xy m]
 
 *5110|
 [fc]
-[ns]丸裸の男[nse]
-「う゛ぅっ……」[pcms]
+[ns]Naked Man[nse]
+"Ugh..."[pcms]
 
 *5111|
 [fc]
-俺は急いで立ち上がって、シャベルを拾い、マヤちゃ[r]
-んに顔を近づけている無精ヒゲの男の顔を、思いっき[r]
-り跳ね上げた。[pcms]
+I quickly stood up, picked up the shovel, and kicked up into[r]
+the face of the unshaven man who was getting close to Maya-[r]
+chan's face.[pcms]
 
 *5112|
 [fc]
-[ns]大倉[nse]
-「ラァッ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Raaah!!"[pcms]
 
 [se0 storage="se20"][赤フラ]
 
@@ -443,19 +443,19 @@
 
 *5113|
 [fc]
-[ns]無精ヒゲの男[nse]
-「か゛はぁっ……」[pcms]
+[ns]Unshaven Man[nse]
+"Gahah..."[pcms]
 
 *5114|
 [fc]
-そのまま後ろ向きに倒れた男の頭に、シャベルで追い[r]
-打ちをかけてから、俺は近くにいた２人のイカレ野郎[r]
-に走り寄った。[pcms]
+After the man fell backward, I followed up with a shovel to[r]
+his head and then ran towards two other crazed bastards[r]
+nearby.[pcms]
 
 *5115|
 [fc]
-[ns]大倉[nse]
-「せぁっ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Seah!!"[pcms]
 
 [se0 storage="se20"][赤フラ]
 
@@ -463,8 +463,9 @@
 
 *5116|
 [fc]
-イカレ野郎の１人を、喉元をシャベルで突いて、地面[r]
-に転がし、アゴを蹴り上げる。[pcms]
+I knocked one of the crazed bastards to the ground by[r]
+jabbing his throat with the shovel and then kicked up his[r]
+chin.[pcms]
 
 
 [se0 storage="se20"][赤フラ]
@@ -473,13 +474,13 @@
 
 *5117|
 [fc]
-[ns]飲食店のウェイター[nse]
-「うく゛ふ゛っ……」[pcms]
+[ns]Restaurant Waiter[nse]
+"Ughuh..."[pcms]
 
 *5118|
 [fc]
-[ns]大倉[nse]
-「だらぁっ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Darahh!!"[pcms]
 
 [se0 storage="se20"][赤フラ]
 
@@ -487,54 +488,54 @@
 
 *5119|
 [fc]
-体ごと振り返る勢いを乗せて、横にいたもう１人の足[r]
-をシャベルですくい上げて、仰向けに倒れた男の頭を[r]
-思いっきり踏みつけ、地面に叩きつけた。[pcms]
+With all my momentum, I turned around and scooped up another[r]
+man's leg with the shovel, stomped down hard on his head as[r]
+he fell on his back, and slammed him into the ground.[pcms]
 
 *5120|
 [fc]
-[ns]長髪の男[nse]
-「こ゛ぉう゛っ……」[pcms]
+[ns]Long-haired man[nse]
+"Gough..."[pcms]
 
 *5121|
 [fc]
-[ns]大倉[nse]
-「ハァッ……ハァッ……マヤちゃん！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Haa... Haa... Maya-chan!!"[pcms]
 
 *5122|
 [fc]
-立ち上がって、ヨロヨロしていたマヤちゃんに駆け[r]
-寄って、俺は体を支えた。[pcms]
+I stood up and rushed over to Maya-chan, who was staggering,[r]
+and supported her.[pcms]
 
 *5123|
 [fc]
-[ns]大倉[nse]
-「大丈夫！？　引っかかれたりしてない！？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Are you okay!? Are you hurt anywhere!?"[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_f02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *5124|
 [fc]
 [vo_may s="maya0377"]
-[ns]摩耶[nse]
-「うん、大丈夫……！」[pcms]
+[ns]Maya[nse]
+"Yeah, I'm fine...!"[pcms]
 
 *5125|
 [fc]
-マヤちゃんにうなずいて返して、俺は持っていたシャ[r]
-ベルを彼女に手渡し、傍に落ちていた大きめのガレキ[r]
-を拾った。[pcms]
+I nodded back at Maya-chan, handed her the shovel I was[r]
+holding, and picked up a larger piece of debris that had[r]
+fallen nearby.[pcms]
 
 *5126|
 [fc]
-[ns]大倉[nse]
-「アイツらは俺が相手するから、スキを見て、先にス[r]
-　ロープに行っててくれ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"I'll handle them, so take the chance to head to the slope[r]
+first!!"[pcms]
 
 *5127|
 [fc]
-俺は取りあえず、すぐ傍まで寄ってきてた、エプロン[r]
-の男の腹に蹴りを入れ、突き放した。[pcms]
+I kicked the apron-wearing man who had come close in the[r]
+stomach and pushed him away.[pcms]
 
 [se0 storage="se20"][赤フラ]
 
@@ -542,22 +543,22 @@
 
 *5128|
 [fc]
-[ns]エプロンの男[nse]
-「く゛ふっ……」[pcms]
+[ns]Man in Apron[nse]
+"Gufh..."[pcms]
 
 *5129|
 [fc]
-傍にあった、上下逆になった車にぶつかって、横向き[r]
-に倒れていく男の頭に、持っていたガレキを叩きつけ[r]
-ようと、俺はソイツに近づいた。[pcms]
+As he stumbled into an overturned car and fell sideways, I[r]
+approached him with the intention of smashing his head with[r]
+the debris I was holding.[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_n06"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *5130|
 [fc]
 [vo_may s="maya0378"]
-[ns]摩耶[nse]
-「っ……！！」[pcms]
+[ns]Maya[nse]
+"Ah...!!"[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
@@ -567,53 +568,53 @@
 
 *5131|
 [fc]
-[ns]エプロンの男[nse]
-「んふ゛ぅっ……」[pcms]
+[ns]Man in Apron[nse]
+"Nfuhh..."[pcms]
 
 *5132|
 [fc]
-[ns]大倉[nse]
-「マヤちゃん！？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Maya-chan!?"[pcms]
 
 *5133|
 [fc]
-俺より早く駆け寄って、マヤちゃんはロンゲの男の[r]
-頭に、シャベルを叩きつけた。[pcms]
+Maya-chan ran up faster than me and struck the long-haired[r]
+man's head with the shovel.[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_f01"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *5134|
 [fc]
 [vo_may s="maya0379"]
-[ns]摩耶[nse]
-「私も手伝う……」[pcms]
+[ns]Maya[nse]
+"I'll help too..."[pcms]
 
 *5135|
 [fc]
-[ns]大倉[nse]
-「でも、危な……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"But it's dangerous..."[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_f05"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *5136|
 [fc]
-危ないからやめてくれ、と俺が言い終わる前に、マヤ[r]
-ちゃんは首を横に振った。[pcms]
+Before I could finish saying it was too dangerous and she[r]
+should stop, Maya-chan shook her head.[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_f01"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *5137|
 [fc]
 [vo_may s="maya0380"]
-[ns]摩耶[nse]
-「２人でやった方が早いから……！」[pcms]
+[ns]Maya[nse]
+"It's faster if we both do it...!"[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *5138|
 [fc]
-[ns]大倉[nse]
-「！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"!!"[pcms]
 
 [se0 storage="se20"][赤フラ]
 
@@ -621,14 +622,13 @@
 
 *5139|
 [fc]
-そう言うのと同時に、マヤちゃんは俺の横へ走り出て、[r]
-後ろから近づいていたイカレ野郎を、シャベルで突き[r]
-飛ばした。[pcms]
+As she said that, Maya-chan ran beside me and pushed away a[r]
+crazed bastard approaching from behind with the shovel.[pcms]
 
 *5140|
 [fc]
-[ns]大倉[nse]
-「ウラァッ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Uraahh!!"[pcms]
 
 [se0 storage="se20"][赤フラ]
 
@@ -636,27 +636,27 @@
 
 *5141|
 [fc]
-転がってた車のタイヤにつまずいて、後ろ向きにハデ[r]
-に倒れた男に駆け寄り、俺は持っていたガレキを振り[r]
-かぶって、ソイツの頭に叩きつけた。[pcms]
+I ran towards a man who had tripped over a car tire and[r]
+fallen backwards, raised the debris I was holding, and[r]
+smashed it down on his head.[pcms]
 
 *5142|
 [fc]
-[ns]サマーセーターの男[nse]
-「ふ゛く゛ぅっ……」[pcms]
+[ns]Summer Sweater Man[nse]
+"Fughuh..."[pcms]
 
 *5143|
 [fc]
-顔を上げると、マヤちゃんは近寄ってきていたもう[r]
-１人の男を、シャベルで何回も突き飛ばして近くの車[r]
-にぶつけ、うまいこと倒していた。[pcms]
+When I looked up, Maya-chan had pushed another man[r]
+approaching her several times with the shovel into a nearby[r]
+car and skillfully took him down.[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_n06"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *5144|
 [fc]
-[ns]大倉[nse]
-「マヤちゃんどいてッ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Maya-chan, get out of the way!!"[pcms]
 
 [se0 storage="se20"][赤フラ]
 
@@ -665,65 +665,65 @@
 
 *5145|
 [fc]
-マヤちゃんが避けるのと同時に、俺は男の顔の上に[r]
-ジャンプし、両足で思いっきり踏みつけた。[pcms]
+As Maya-chan moved aside, I jumped over the man's face and[r]
+stomped down hard with both feet.[pcms]
 
 *5146|
 [fc]
-[ns]学生服の青年[nse]
-「んふ゛く゛っ……」[pcms]
+[ns]Young man in a school uniform[nse]
+"Nfugh..."[pcms]
 
 *5147|
 [fc]
-マヤちゃんとの即席コンビは意外にうまくいって、俺[r]
-らはなんとか、周りのイカレ野郎を蹴散らした。[pcms]
+Our impromptu combo with Maya-chan worked surprisingly well,[r]
+and we managed to scatter the surrounding crazed bastards.[pcms]
 
 *5148|
 [fc]
-[ns]大倉[nse]
-「ハァ……ムチャしないでくれよ、シャレになんない[r]
-　から……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Haa... Don't do anything crazy, it's not a joke..."[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_n07"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *5149|
 [fc]
 [vo_may s="maya0381"]
-[ns]摩耶[nse]
-「……」[pcms]
+[ns]Maya[nse]
+"..."[pcms]
 
 *5150|
 [fc]
-[ns]大倉[nse]
-「けど、助かったよ。マヤちゃんがアイツらの相手[r]
-　してくれてなかったら、今頃、２人ともヤラレてた」[pcms]
+[ns]Ookura Hiroshi[nse]
+"But you saved us. If Maya-chan hadn't dealt with them, we[r]
+both would have been done for by now."[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_n05"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *5151|
 [fc]
-俺にシャベルを手渡しながら、薄く笑ったマヤちゃん[r]
-の顔は、なんでかちょっと満足そうに見えた。[pcms]
+As she handed me back the shovel, Maya-chan's face showed a[r]
+faint smile that somehow seemed satisfied.[pcms]
 
 *5152|
 [fc]
-[ns]大倉[nse]
-「よし、他のヤツらが寄ってこないうちに行こう」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Alright, let's go before any others come close."[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *5153|
 [fc]
-俺らはまた、ウロつくイカレ野郎と、車だった物の間[r]
-を縫うように、スロープへ向かって屋上を走った。[pcms]
+We ran across the rooftop again towards the slope, weaving[r]
+between the lurking crazed bastards and what used to be[r]
+cars.[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
 ;//BKACKOUT
 *5153a|
 [fc]
-走ってる内に、地面に描かれた矢印が見えてきて、[r]
-俺はマヤちゃんの手を引いて、反射的にそっちの道へ[r]
-入り、螺旋状になった道を下へと駆け下りた。[pcms]
+As we ran, arrows painted on the ground came into view, and[r]
+I reflexively pulled Maya-chan's hand towards that path,[r]
+running down the spiraling road.[pcms]
 
 ;//[]BG表示
 ;//★ＢＧ：グランドシティ全景D
@@ -737,92 +737,91 @@
 
 *5154|
 [fc]
-[ns]大倉[nse]
-「う……なんだ、このニオイ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Ugh... what's this smell..."[pcms]
 
 *5155|
 [fc]
-スロープを降りきると、鉄についた錆、腐ったナマ物、[r]
-それにウンコやションベンまで混ざったような臭いが[r]
-辺りに漂っていて、俺は思わず足を止めてしまった。[pcms]
+As we descended the slope, the smell of rust on iron,[r]
+rotting organic matter, and what seemed like a mix of poop[r]
+and pee wafted around us, causing me to involuntarily stop[r]
+in my tracks.[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
 *5156|
 [fc]
-ショッピングモールの裏手らしいこの場所には、イカ[r]
-レ野郎が大勢ウロついていて、さらに、あちこちに[r]
-人だかりができている。[pcms]
+This place behind the shopping mall was crawling with crazed[r]
+bastards, and there were crowds of people gathered here and[r]
+there.[pcms]
 
 *5157|
 [fc]
-人だかりを作っているイカレ集団は、何かの周りに[r]
-しゃがみ込んでいて、モゾモゾと蠢きながら、夢中に[r]
-なって何かを口に運んでいた。[pcms]
+The crazed groups forming the crowds were squatting around[r]
+something, wriggling and eagerly putting something into[r]
+their mouths.[pcms]
 
 *5158|
 [fc]
-イカレ集団の手や口元が赤く濡れているのを見て、[r]
-俺はヤツらがなんの周りに集まって、何をしてるのか、[r]
-想像がついた。[pcms]
+Seeing the crazed group's hands and mouths stained red, I[r]
+could imagine what they were gathered around and what they[r]
+were doing.[pcms]
 
 *5159|
 [fc]
-速水も、ユウも、アンザイさんも、その内、あんな風[r]
-になっちまうのか……。[pcms]
+Hayami, Yuu, and Anzai-san... will they all end up like that[r]
+too...?[pcms]
 
 *5160|
 [fc]
-クソ……。[r]
-絶対、アイツらみたいにはさせねーぞ……！[pcms]
+Damn it... I won't let them become like those guys...![pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_n07"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *5161|
 [fc]
-[ns]大倉[nse]
-「行こう」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Let's go."[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_f02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *5162|
 [fc]
-一斉に近寄ってきたら危険過ぎるのと、近くで見たく[r]
-ないというのもあって、俺らは人だかりを避けながら、[r]
-その向こうに見えている車用のゲートへ走った。[pcms]
+It was too dangerous if they all approached at once, and I[r]
+didn't want to see it up close, so we avoided the crowds and[r]
+ran towards the car gate that we could see beyond them.[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *5163|
 [fc]
-[ns]大倉[nse]
-「……？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"...?"[pcms]
 
 ;//演出上、ここでの感染者表示を止めます
 ;//[ChrSetEx layer=4 chbase="etc01"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *5164|
 [fc]
-走っている最中、ゲートの向こうから現れたイカレ野[r]
-郎が、手に何かを持っているのが気になって、俺は足[r]
-を止めた。[pcms]
+While running, a crazed bastard appeared from beyond the[r]
+gate holding something in his hand, which caught my[r]
+attention, and I stopped in my tracks.[pcms]
 
 *5165|
 [fc]
-なんだ？　アイツ……。[r]
-なに持ってんだ……。[pcms]
+What's that? What's he holding...?[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_n07"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *5166|
 [fc]
 [vo_may s="maya0382"]
-[ns]摩耶[nse]
-「どうしたの……」[pcms]
+[ns]Maya[nse]
+"What's wrong...?"[pcms]
 
 *5167|
 [fc]
-[ns]大倉[nse]
-「いや、アイツがなんか持ってるから……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"No, it's just that guy... he's holding something..."[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
@@ -831,49 +830,48 @@
 
 *5168|
 [fc]
-男が少しずつ近づいてきて、手に持っている物の形も、[r]
-段々ハッキリしてくる。[pcms]
+The man was slowly getting closer, and the shape of what he[r]
+was holding in his hand became clearer.[pcms]
 
 *5169|
 [fc]
-ソイツが持っていたのは、映画かなんかで見たことが[r]
-ある、手榴弾みたいな形をしていた。[pcms]
+What he had was shaped like a grenade I'd seen in movies or[r]
+something.[pcms]
 
 *5170|
 [fc]
-アレ、本物か……？[r]
-いや、まさかな……。[r]
-こんなトコに手榴弾なんかあるワケ……。[pcms]
+Is that real...? No, that can't be... There's no way there[r]
+would be a grenade here...[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *5171|
 [fc]
-[ns]大倉[nse]
-「……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"..."[pcms]
 
 *5172|
 [fc]
-けど、ビルの中で見たニュースで、爆発事故が起こっ[r]
-たとか言ってたし……。[pcms]
+But then again, I saw on the news inside the building that[r]
+there had been an explosion accident...[pcms]
 
 *5173|
 [fc]
-ワケわかんねー病気がイキナリ出てきたし……。[r]
-今なら、ありえねーコトが普通に起きるような[r]
-気もする……。[pcms]
+And with this incomprehensible disease suddenly appearing...[r]
+It feels like things that shouldn't be possible are[r]
+happening normally now...[pcms]
 
 ;//バッドエンド救済ポイント5
 ;AutoSave 5
 
 *5174|
 [fc]
-もし、アレが本物の手榴弾だったら……。[pcms]
+If that's a real grenade...[pcms]
 
 ;[black_toplayer][trans_c cross time=1000][hide_chara_int]
 
-;//－－－－－－－－－－－－－－－－－－－－
-;//－－－－－－－－－－－－－－－－－－－－
+;//
+;//
 
 ;//
 ;選択肢
@@ -902,7 +900,7 @@
 ;[link storage="jingujiroute12141.ks" target=*jingujiroute12141_TOP  ]立ち止まってる場合じゃねー……！！[endlink]
 ;[link storage="jingujiroute12142.ks" target=*jingujiroute12142_TOP  ]アイツが爆発させる前になんとかしねーと……！！[endlink]
 ;[link storage="westtown_bad_30170.ks" target=*westtown_bad_30170_TOP]手榴弾なんて、どうしたらいいんだ……！？[endlink]
-;[s]
+;[pcms]
 
 
 
@@ -922,9 +920,9 @@
 [fc]
 [pcms_sel]
 
-[eval exp="f.seltext02 = '立ち止まってる場合じゃねー……！！'"]
-[eval exp="f.seltext04 = 'アイツが爆発させる前になんとかしねーと……！！'"]
-[eval exp="f.seltext06 = '手榴弾なんて、どうしたらいいんだ……！？'"]
+[eval exp="f.seltext02 = 'This is no time to stop!!'"]
+[eval exp="f.seltext04 = 'We\'ve got to do something before that guy sets off an explosion!!'"]
+[eval exp="f.seltext06 = 'What should we do with a hand grenade!?'"]
 
 [if exp="tf.sys_sub == 0 || tf.選択肢ログ表示してね == 1"]
 	;選択肢内容をバックログに表記。改行コード必須。

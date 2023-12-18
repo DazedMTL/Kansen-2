@@ -21,41 +21,45 @@
 
 *6395|
 [fc]
-[ns]大倉[nse]
-「宮木県千台市青芭区……？　目と鼻の先じゃねーか、[r]
-　コレ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Miyagi Prefecture, Sendai City, Aoba Ward...? It's just[r]
+around the corner, this..."[pcms]
 
 *6396|
 [fc]
-寝ている間にホームルームで配られたらしい、修業旅[r]
-行のしおりをめくりながら、俺は溜息をついた。[pcms]
+While flipping through the training trip brochure that[r]
+seemed to have been distributed during homeroom while I was[r]
+asleep, I let out a sigh.[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
 *6397|
 [fc]
-行き先は宮木県千台市青芭区。[r]
-修業旅行といえば、一番想い出に残るビッグイベント[r]
-だってのに、行くのが隣りの県ってのが泣ける話だ。[pcms]
+The destination is Aoba Ward, Sendai City, Miyagi[r]
+Prefecture. Training trips are supposed to be one of the[r]
+most memorable big events, but it's a bit of a letdown that[r]
+we're just going to the neighboring prefecture.[pcms]
 
 [ChrSetEx layer=4 chbase="koba_n01"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *6398|
 [fc]
 [vo_kob s="koba0006"]
-[ns]小林[nse]
-「そうでもないよ。西の端から東の端だから」[pcms]
+[ns]Kobayashi[nse]
+"It's not so bad. It's from the westernmost to the[r]
+easternmost end."[pcms]
 
 *6399|
 [fc]
-[ns]大倉[nse]
-「端から端ったって、隣の県じゃねーかよ」[pcms]
+[ns]Ookura[nse]
+"Even if it's from end to end, it's still the neighboring[r]
+prefecture."[pcms]
 
 *6400|
 [fc]
 [vo_kob s="koba0007"]
-[ns]小林[nse]
-「まあねー」[pcms]
+[ns]Kobayashi[nse]
+"Well, yeah."[pcms]
 
 [chara_int]
 ;[trans_c cross time=150]
@@ -65,17 +69,18 @@
 *6401|
 [fc]
 [vo_hay s="hayami0011"]
-[ns]ありす[nse]
-「んじゃ、卒業したあと、３人でもっとオモシロそう[r]
-　なとこ行こうよ。海外でもいいしさ」[pcms]
+[ns]Alice[nse]
+"Then, after we graduate, let's go somewhere more[r]
+interesting, just the three of us. Even going abroad would[r]
+be nice."[pcms]
 
 [ChrSetEx layer=2 chbase="koba_n08"][ChrSetXY layer=2 x=0 y=0][trans_c cross time=150]
 
 *6402|
 [fc]
 [vo_kob s="koba0008"]
-[ns]小林[nse]
-「いいね、行こー行こー！」[pcms]
+[ns]Kobayashi[nse]
+"Sounds good, let's go-let's go!"[pcms]
 
 [ChrSetEx layer=2 chbase="koba_n01"][ChrSetXY layer=2 x=0 y=0]
 [ChrSetEx layer=3 chbase="hayami_n07"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
@@ -83,390 +88,392 @@
 *6403|
 [fc]
 [vo_hay s="hayami0012"]
-[ns]ありす[nse]
-「あ、そうだ、３人って言えばさ……」[pcms]
+[ns]Arisu[nse]
+"Oh, speaking of the three of us..."[pcms]
 
 *6404|
 [fc]
-千台市青芭区は歴史のある、東北で一番デカイ街で、[r]
-青芭城址や潮鎌とか色々観る所が多い、日本でも有数[r]
-の観光地だそうだ。[pcms]
+Aoba Ward in Sendai City is a historic place and the largest[r]
+city in the Tohoku region, with many sights to see like Aoba[r]
+Castle ruins and Shiohama, making it one of Japan's leading[r]
+tourist destinations.[pcms]
 
 *6405|
 [fc]
-特に有名なのは、俺でも知ってる七夕祭りで、毎年こ[r]
-の時期の人出は大変なことになるらしい。[pcms]
+Especially famous is the Tanabata Festival, which even I[r]
+know about, and it seems that the number of people who come[r]
+out for it every year at this time is quite something.[pcms]
 
 *6406|
 [fc]
-城跡なんか知ったこっちゃねーけど、七夕祭りは面白[r]
-そうだな……。[pcms]
+I don't care much about castle ruins, but the Tanabata[r]
+Festival sounds fun...[pcms]
 
 *6407|
 [fc]
-とはいえ、どうせ夏休み潰すんなら、もっと地元から[r]
-離れたトコに行きたかったぜ……。[pcms]
+Still, if I'm going to spend my summer vacation on this, I[r]
+would have preferred to go somewhere further away from[r]
+home...[pcms]
 
 [ChrSetEx layer=3 chbase="hayami_n03"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
 
 *6408|
 [fc]
 [vo_hay s="hayami0013"]
-[ns]ありす[nse]
-「……で、この３人だけで作っといたから」[pcms]
+[ns]Arisu[nse]
+"...so, I made this just for the three of us."[pcms]
 
 *6409|
 [fc]
-夏休みを潰して修業旅行に行く理由として、『息抜き』[r]
-と『七夕』の２つがしおりに書かれていた。[pcms]
+As reasons for going on a training trip during summer[r]
+vacation, "taking a break" and "Tanabata" were written in[r]
+the brochure.[pcms]
 
 *6410|
 [fc]
-一応、進学校で名が通っているせいか、ウチの学校で[r]
-は最下級生と最上級生の時の夏休みは、そのほとんど[r]
-が夏期講習で埋められる。[pcms]
+Perhaps because our school is known as a college preparatory[r]
+school, almost all of the summer vacations for the lowest[r]
+and highest grades are filled with summer courses.[pcms]
 
 *6411|
 [fc]
-でも、３年間ずっとそれじゃキツイだろう、というこ[r]
-とで、真ん中の学年だけは夏期講習を無しにして、旅[r]
-行にでも行かせてやろう、ということらしい。[pcms]
+But it would be tough to do that for three years straight,[r]
+so it seems that they decided to give the middle grade a[r]
+break from summer courses and let them go on a trip instead.[pcms]
 
 *6412|
 [fc]
-その代わり、試験休みがねーんだよな……。[r]
-なんか、うまくダマされてる気がすんだよなー、この[r]
-システム……。[pcms]
+Instead, we don't get any breaks for exams... It feels like[r]
+we've been cleverly deceived by this system...[pcms]
 
 [ChrSetEx layer=3 chbase="hayami_n09"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
 
 *6413|
 [fc]
 [vo_hay s="hayami0014"]
-[ns]ありす[nse]
-「ちょっとヒロシ！　聞いてんの！？」[pcms]
+[ns]Alice[nse]
+"Hey Hiroshi! Are you listening!?"[pcms]
 
 *6414|
 [fc]
-[ns]大倉[nse]
-「あぁ、今日の[ruby text="おぐち"][ch text="尾口"]のブラが、オレンジ色だったって[r]
-　話だろ」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Ah, you're talking about how Oguchi's bra today was orange,[r]
+right?"[pcms]
 
 [ChrSetEx layer=3 chbase="hayami_n04"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
 
 *6415|
 [fc]
 [vo_hay s="hayami0015"]
-[ns]ありす[nse]
-「あ～、そういえばヒデコ、スケてたね。ベスト着れ[r]
-　ばいいのに」[pcms]
+[ns]Alice[nse]
+"Ah, speaking of which, Hideko's was see-through. She should[r]
+wear a vest."[pcms]
 
 *6416|
 [fc]
-[ns]大倉[nse]
-「新しいの買ったから見せたいんじゃねーの？　初め[r]
-　て見る色だしな、アレ」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Maybe she wanted to show off her new one? It was a color[r]
+I've never seen before."[pcms]
 
 [ChrSetEx layer=2 chbase="koba_n12"][ChrSetXY layer=2 x=0 y=0][trans_c cross time=150]
 
 *6417|
 [fc]
 [vo_kob s="koba0009"]
-[ns]小林[nse]
-「今まで見た色、全部覚えてるんだ……」[pcms]
+[ns]Kobayashi[nse]
+"You remember all the colors you've seen so far..."[pcms]
 
 [ChrSetEx layer=3 chbase="hayami_n08"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
 
 *6418|
 [fc]
 [vo_hay s="hayami0016"]
-[ns]ありす[nse]
-「……もしかしてヒロシ、あたしのブラもチェックし[r]
-　てたりする？」[pcms]
+[ns]Alice[nse]
+"...Hiroshi, are you checking out my bra too?"[pcms]
 
 *6419|
 [fc]
-[ns]大倉[nse]
-「で、なんで俺ら３人だけなんだ？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"So, why is it just the three of us?"[pcms]
 
 [ChrSetEx layer=3 chbase="hayami_n04"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
 
 *6420|
 [fc]
 [vo_hay s="hayami0017"]
-[ns]ありす[nse]
-「えっとね……」[pcms]
+[ns]Alice[nse]
+"Well, you see..."[pcms]
 
 [ChrSetEx layer=2 chbase="koba_n06"][ChrSetXY layer=2 x=0 y=0][trans_c cross time=150]
 
 *6421|
 [fc]
 [vo_kob s="koba0010"]
-[ns]小林[nse]
-「え、スルーなの……？」[pcms]
+[ns]Kobayashi[nse]
+"Eh, are you skipping over me...?"[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *6422|
 [fc]
-ユウの話によると、旅行先での自由行動は、２人以上[r]
-なら何人で行動しても良い、男のみ、女のみで班を組[r]
-んでも良い、ということになったそうだ。[pcms]
+According to Yuu's story, during the trip you're free to[r]
+move around in groups of two or more; you can form groups[r]
+with just boys or just girls if you want.[pcms]
 
 *6423|
 [fc]
-そのせいで、女子と組みたい男、女子だけで組みたい[r]
-女が発生して、教室内は一時騒然となったらしかった。[pcms]
+Because of that, there were boys who wanted to pair up with[r]
+girls and girls who wanted to be in girls-only groups,[r]
+causing quite a stir in the classroom for a while.[pcms]
 
 *6424|
 [fc]
-俺はといえば、速水とユウと、３人だけの班を組むこ[r]
-とに、寝ている間にこの２人によって既に決められて[r]
-いた。[pcms]
+As for me, it had already been decided by these two while I[r]
+was asleep that I would be in a group with just Hayami and[r]
+Yuu.[pcms]
 
 [ChrSetEx layer=2 chbase="koba_n01"][ChrSetXY layer=2 x=0 y=0]
 [ChrSetEx layer=3 chbase="hayami_n01"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
 
 *6425|
 [fc]
-[ns]大倉[nse]
-「３人か……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Just the three of us..."[pcms]
 
 [ChrSetEx layer=3 chbase="hayami_n07"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
 
 *6426|
 [fc]
 [vo_hay s="hayami0018"]
-[ns]ありす[nse]
-「一緒の班になりたい女の子でもいた？」[pcms]
+[ns]Arisu[nse]
+"Was there a girl you wanted to be in the same group with?"[pcms]
 
 *6427|
 [fc]
-[ns]大倉[nse]
-「いや、俺はそういうのないけど、お前らはあったん[r]
-　じゃないのか？」[pcms]
+[ns]Ookura[nse]
+"No, I don't have anyone like that, but what about you two?"[pcms]
 
 [ChrSetEx layer=2 chbase="koba_n08"][ChrSetXY layer=2 x=0 y=0][trans_c cross time=150]
 
 *6428|
 [fc]
 [vo_kob s="koba0011"]
-[ns]小林[nse]
-「ありすと組みたいって男子は多かったよ」[pcms]
+[ns]Kobayashi[nse]
+"There were a lot of boys who wanted to be with Arisu."[pcms]
 
 [ChrSetEx layer=3 chbase="hayami_n04"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
 
 *6429|
 [fc]
 [vo_hay s="hayami0019"]
-[ns]ありす[nse]
-「裕樹と組みたいって言ってた女子も多かったよ～。[r]
-　他のクラスの子も言ってたもん。小林クンと一緒に[r]
-　見て回りたーい、って」[pcms]
+[ns]Alice[nse]
+"There were also many girls who said they wanted to be with[r]
+Yuuki. Even girls from other classes. They said they wanted[r]
+to go sightseeing with Kobayashi-kun."[pcms]
 
 *6430|
 [fc]
-[ns]大倉[nse]
-「へぇ～……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Huh..."[pcms]
 
 *6431|
 [fc]
-ユウはヘタすりゃ女にしか見えない時があるから、そ[r]
-ういうヤツが女子にモテるってのはわかる。[pcms]
+Yuu sometimes looks indistinguishable from a girl, so I can[r]
+understand why such a person would be popular with girls.[pcms]
 
 *6432|
 [fc]
-だけど、下ネタにも余裕でついてくるようなコイツが、[r]
-本当に男子に人気があるのか……？[pcms]
+But it's hard to believe that this guy, who can easily keep[r]
+up with dirty jokes, is really popular with boys...[pcms]
 
 *6433|
 [fc]
-他のクラス男子ならわかるけど、ウチのクラスのヤツ[r]
-らは全員、速水が見た目通りの女じゃないってことは[r]
-知ってるはずだ。[pcms]
+Boys from other classes I can understand, but all the guys[r]
+in our class know that Hayami isn't as she appears.[pcms]
 
 *6434|
 [fc]
-その速水が、クラスの男子に人気だというのが、俺に[r]
-はうまく想像できない。[pcms]
+The fact that Hayami is popular with boys in our class is[r]
+something I can't quite imagine.[pcms]
 
 *6435|
 [fc]
-それとも俺が知らないだけで、コイツけっこうモテるの[r]
-か……？[pcms]
+Or maybe I'm just unaware that she's actually quite popular?[pcms]
 
 [ChrSetEx layer=3 chbase="hayami_n07"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
 
 *6436|
 [fc]
 [vo_hay s="hayami0020"]
-[ns]ありす[nse]
-「なんかさー、ギラギラしてるんだよね。修業旅行前[r]
-　にカップルになっておきたいっていうさ。誰でもい[r]
-　いんじゃないの？　あれ」[pcms]
+[ns]Alice[nse]
+"You know, they're all so eager. They want to become a[r]
+couple before the training trip. Isn't it like anyone will[r]
+do for them?"[pcms]
 
 [ChrSetEx layer=2 chbase="koba_n01"][ChrSetXY layer=2 x=0 y=0][trans_c cross time=150]
 
 *6437|
 [fc]
 [vo_kob s="koba0012"]
-[ns]小林[nse]
-「ウチのクラスでも、何組かできてるみたいだね。[r]
-　大伴さんとタッちゃんとか」[pcms]
+[ns]Kobayashi[nse]
+"It seems like there are a few couples in our class too.[r]
+Like Otomo-san and Tatsu-chan."[pcms]
 
 *6438|
 [fc]
-そういうことか……。[pcms]
+So that's what it is...[pcms]
 
 *6439|
 [fc]
-修業旅行と言えば、文化祭と同レベルの一大告白きっ[r]
-かけイベントだ。[pcms]
+Training trips are events on par with cultural festivals as[r]
+major opportunities for confessions.[pcms]
 
 *6440|
 [fc]
-最近になって、校舎の中と外に同学年のカップルをよ[r]
-く見かけるのは、そういうことだったワケだ。[pcms]
+Lately, I've been seeing more couples from my grade around[r]
+the school building and outside. That must be why.[pcms]
 
 *6441|
 [fc]
-考えてみれば、俺が知ってるだけでも、ユウの言った[r]
-大伴＆館山カップルの他に、ウチのクラスでは四組の[r]
-カップルがいつの間にかできあがっていた。[pcms]
+Come to think of it, besides the Otomo & Tateyama couple Yuu[r]
+mentioned, there were four other couples in our class that[r]
+had somehow formed without me knowing.[pcms]
 
 *6442|
 [fc]
-ただ、それにしたって速水に狙いを定めるってのは、[r]
-そういうのとは少し違うような気がする。[pcms]
+Still, setting your sights on Hayami seems a bit different[r]
+from that...[pcms]
 
 *6443|
 [fc]
-なんでかって、速水の体には男（の下半身）を引き寄[r]
-せるパーツが付いてるからだ。[pcms]
+Because attached to Hayami's body are parts that attract men[r]
+(the lower half).[pcms]
 
 *6444|
 [fc]
-[ns]大倉[nse]
-「でもよ、速水に目ェ付けるヤツって、コイツの巨乳[r]
-　が目あてじゃねーのか？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"But hey, guys who set their sights on Hayamiare they just[r]
+after her big tits?"[pcms]
 
 *6445|
 [fc]
-[ns]大倉[nse]
-「あわよくば自由行動中にお触りしちまえとか、何か[r]
-　の間違いで付き合えればマジでやれるし、とか」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Maybe they're thinking they can get a feel during the free[r]
+time, or if they somehow start dating, they could actually[r]
+do it."[pcms]
 
 [ChrSetEx layer=3 chbase="hayami_n09"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
 
 *6446|
 [fc]
 [vo_hay s="hayami0021"]
-[ns]ありす[nse]
-「ちょっと！　やめてくれない！？」[pcms]
+[ns]Arisu[nse]
+"Hey! Can you not?!"[pcms]
 
 *6447|
 [fc]
-体のことを言われたのがカンに触ったのか、速水が横[r]
-目で俺をギヌロと睨む。[pcms]
+Perhaps it was the mention of her body that got under her[r]
+skin, as Hayami glared at me sideways with a sharp look.[pcms]
 
 *6448|
 [fc]
 [vo_hay s="hayami0022"]
-[ns]ありす[nse]
-「お触りって言わないでよ！　オヤジに言い寄られる[r]
-　の想像しちゃって、ちょーキモイんですけど！」[pcms]
+[ns]Alice[nse]
+"Don't say 'touching'! Just imagining some old guy hitting[r]
+on me is super creepy!"[pcms]
 
 [ChrSetEx layer=2 chbase="koba_n03"][ChrSetXY layer=2 x=0 y=0][trans_c cross time=150]
 
 *6449|
 [fc]
 [vo_kob s="koba0013"]
-[ns]小林[nse]
-「そっちなの？　ツッコむところ間違えてると思うん[r]
-　だけど」[pcms]
+[ns]Kobayashi[nse]
+"Is that what you're focusing on? I think you're missing the[r]
+point."[pcms]
 
 *6450|
 [fc]
-素早く入れられたツッコミに、今度はそれこそ中高年[r]
-のオッサンのようないやらしい目つきに変えて、速水[r]
-はユウの腕に抱きつき、カラミ始めた。[pcms]
+With a quick retort, Hayami then clung to Yuu's arm,[r]
+changing her expression to one of an older, lecherous man[r]
+and started to flirt.[pcms]
 
 [ChrSetEx layer=3 chbase="hayami_n04"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
 
 *6451|
 [fc]
 [vo_hay s="hayami0023"]
-[ns]ありす[nse]
-「やだぁ、裕樹エッチぃ～♪　カワイイ顔してるけど、[r]
-　やっぱり男の子なんだね～。ツッコむところは別、[r]
-　とかいってキャー！」[pcms]
+[ns]Alice[nse]
+"No way, Yuuki, you're so naughty~♪ You have such a cute[r]
+face, but you're still a boy after all. Saying 'that's not[r]
+what I meant to poke at'Kyaa!"[pcms]
 
 [ChrSetEx layer=2 chbase="koba_n12"][ChrSetXY layer=2 x=0 y=0][trans_c cross time=150]
 
 *6452|
 [fc]
 [vo_kob s="koba0014"]
-[ns]小林[nse]
-「そのツッコむじゃないよ……」[pcms]
+[ns]Kobayashi[nse]
+"That's not the kind of 'poking' I was talking about..."[pcms]
 
 [ChrSetEx layer=3 chbase="hayami_n08"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
 
 *6453|
 [fc]
 [vo_hay s="hayami0024"]
-[ns]ありす[nse]
-「あ、でも谷間にならツッコめるよ？」[pcms]
+[ns]Alice[nse]
+"Ah, but you can poke between my cleavage?"[pcms]
 
 [ChrSetEx layer=2 chbase="koba_n12"][ChrSetXY layer=2 x=0 y=0][trans_c cross time=150]
 
 *6454|
 [fc]
 [vo_kob s="koba0015"]
-[ns]小林[nse]
-「ならオジサンにお金でもツッコんでもらったら？」[pcms]
+[ns]Kobayashi[nse]
+"Why don't you let some old man poke his money in there[r]
+instead?"[pcms]
 
 [ChrSetEx layer=3 chbase="hayami_n09"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
 
 *6455|
 [fc]
 [vo_hay s="hayami0025"]
-[ns]ありす[nse]
-「ひどーい！　ウリしろっていうの～？」[pcms]
+[ns]Arisu[nse]
+"That's terrible! Are you telling me to sell myself?!"[pcms]
 
 *6456|
 [fc]
 [vo_kob s="koba0016"]
-[ns]小林[nse]
-「歌舞伎とかのイメージで言ったんだけど」[pcms]
+[ns]Kobayashi[nse]
+"I meant it in the sense of Kabuki or something like that."[pcms]
 
 *6457|
 [fc]
-慣れたもんだな、ユウも……。[r]
-同じクラスになって、しばらくは速水のノリにまるで[r]
-ついていけてなかったのに……。[pcms]
+Yuuki has gotten used to it... Ever since we became[r]
+classmates, it took a while for me to catch up with Hayami's[r]
+pace...[pcms]
 
 *6458|
 [fc]
-進学したばかりの頃は、『なんで女子が男子の制服着[r]
-てるんだ？』とみんなに思われるような、か弱い感じ[r]
-の無口な男だったけど、成長したもんだ……。[pcms]
+When we first advanced grades, he was a quiet boy who looked[r]
+so frail that everyone wondered, "Why is a girl wearing a[r]
+boy's uniform?" But he's grown so much since then...[pcms]
 
 *6459|
 [fc]
 [vo_hay s="hayami0026"]
-[ns]ありす[nse]
-「ヒロシー！　裕樹が歌舞伎町のフーゾクで稼いでこ[r]
-　いとか言うー！」[pcms]
+[ns]Arisu[nse]
+"Hiroshi! Yuuki is saying that you should go earn money in[r]
+the red-light district of Kabukicho!"[pcms]
 
 *6460|
 [fc]
-[ns]大倉[nse]
-「はいはい」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Yeah, yeah."[pcms]
 
 *6461|
 [fc]
-速水はユウの腕を離れ、代わりに俺の腕に抱きつき、[r]
-悲痛そうな顔を作ってカラミ始めた。[pcms]
+Hayami let go of Yuu's arm and clung to mine instead, making[r]
+a pained face and started flirting again.[pcms]
 
 [chara_int]
 [ChrSetEx layer=4 chbase="hayami_n09"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -474,70 +481,70 @@
 *6462|
 [fc]
 [vo_hay s="hayami0027"]
-[ns]ありす[nse]
-「ウチのＤＶ夫をなんとかしてください！　カラダを[r]
-　売って、飲み代を稼いでこいって言うんです！」[pcms]
+[ns]Arisu[nse]
+"Please do something about my DV husband! He tells me to[r]
+sell my body to earn money for his drinking!"[pcms]
 
 *6463|
 [fc]
-[ns]大倉[nse]
-「昭和初期かオマエ。別れりゃいいだろ、そんなもん」[pcms]
+[ns]Ookura Hiroshi[nse]
+"You sound like someone from the early Showa period. Just[r]
+break up with him if it's that bad."[pcms]
 
 [ChrSetEx layer=4 chbase="hayami_n02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *6464|
 [fc]
 [vo_hay s="hayami0028"]
-[ns]ありす[nse]
-「でも……夫はあたしがいないとダメな人なんです。[r]
-　それにあの人、本当は悪い人じゃないんです！」[pcms]
+[ns]Arisu[nse]
+"But... my husband can't live without me. And he's not[r]
+really a bad person!"[pcms]
 
 *6465|
 [fc]
-[ns]大倉[nse]
-「クッ……」[pcms]
+[ns]Ookura[nse]
+"Tch..."[pcms]
 
 *6466|
 [fc]
-わざわざ表情まで作った、速水の芝居がかったボケに、[r]
-俺はリアクションをするより先に吹き出してしまった。[pcms]
+I couldn't help but burst out laughing before I could react[r]
+to Hayami's exaggerated and theatrical silliness.[pcms]
 
 *6467|
 [fc]
-オマエ……。[r]
-いちいち気合い入れ過ぎなんだよ……。[pcms]
+You... You always put too much effort into everything...[pcms]
 
 *6468|
 [fc]
-密かにネタを仕入れて、家で一人で練習してるんじゃ[r]
-ないかとか、想像するとさらに笑えてくる。[pcms]
+I can't help but laugh even more when I imagine that she[r]
+must be practicing these jokes alone at home.[pcms]
 
 [ChrSetEx layer=4 chbase="hayami_n09"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *6469|
 [fc]
 [vo_hay s="hayami0029"]
-[ns]ありす[nse]
-「ねぇ、笑いすぎじゃない？　そこまで面白くないで[r]
-　しょ、今の」[pcms]
+[ns]Arisu[nse]
+"Hey, aren't you laughing too much? It wasn't that funny,[r]
+was it?"[pcms]
 
 *6470|
 [fc]
-[ns]大倉[nse]
-「つーか、暑いからあんまりくっつくんじゃねーよ」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Besides, it's hot, so don't cling too much."[pcms]
 
 [ChrSetEx layer=4 chbase="hayami_n08"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *6471|
 [fc]
 [vo_hay s="hayami0030"]
-[ns]ありす[nse]
-「ホレホレ～、ギュ～ッ♪」[pcms]
+[ns]Arisu[nse]
+"Here, herehug~♪"[pcms]
 
 *6472|
 [fc]
-[ns]大倉[nse]
-「だから暑いっつの！」[pcms]
+[ns]Ookura[nse]
+"I said it's hot!"[pcms]
 
 [chara_int]
 [ChrSetEx layer=4 chbase="koba_n03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -545,29 +552,29 @@
 *6473|
 [fc]
 [vo_kob s="koba0017"]
-[ns]小林[nse]
-「ハイそこの２人、不純異性交遊禁止ぃ～」[pcms]
+[ns]Kobayashi[nse]
+"Okay you two, no inappropriate behavior between sexes!"[pcms]
 
 *6474|
 [fc]
-速水を引き離そうとしたところで、間にユウが割って[r]
-入り、俺ら２人の腕を抱え込んだ。[pcms]
+As I tried to pull Hayami away, Yuu stepped in between us[r]
+and embraced both our arms.[pcms]
 
 [ChrSetEx layer=4 chbase="koba_n12"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *6475|
 [fc]
 [vo_kob s="koba0018"]
-[ns]小林[nse]
-「お願いだから、旅行先で今みたいなこと、[r]
-　しないでね？　ボクが恥ずかしいから」[pcms]
+[ns]Kobayashi[nse]
+"Please don't do what we just saw on the trip, okay? It[r]
+would be embarrassing for me."[pcms]
 
 *6476|
 [fc]
-[ns]大倉[nse]
-「あ、そういや、修業旅行の時の班は、なんで俺ら３[r]
-　人だけなんだ？　速水とかユウと一緒の班になりた[r]
-　いって言ってたヤツ、けっこういたんだろ？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Ah, by the way, why are we three the only ones in our group[r]
+for the training trip? Weren't there quite a few people who[r]
+said they wanted to be in the same group as Hayami and Yuu?"[pcms]
 
 [chara_int][trans_c cross time=150]
 
@@ -577,75 +584,74 @@
 *6477|
 [fc]
 [vo_hay s="hayami0031"]
-[ns]ありす[nse]
-「うーん……なんか、３人だけの方がよくない？」[pcms]
+[ns]Arisu[nse]
+"Hmm... isn't it better with just the three of us?"[pcms]
 
 *6478|
 [fc]
-[ns]大倉[nse]
-「そうか？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Is that so?"[pcms]
 
 [ChrSetEx layer=3 chbase="hayami_n07"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
 
 *6479|
 [fc]
 [vo_hay s="hayami0032"]
-[ns]ありす[nse]
-「あたしだけかもしれないけど、ヒロシと裕樹じゃな[r]
-　いと、しっくりこないんだよね～。うまくハマらな[r]
-　いっていうか」[pcms]
+[ns]Alice[nse]
+"It might just be me, but things just don't feel right[r]
+without Hiroshi and Yuuki. It's like we don't mesh well with[r]
+others."[pcms]
 
 [ChrSetEx layer=2 chbase="koba_n01"][ChrSetXY layer=2 x=0 y=0][trans_c cross time=150]
 
 *6480|
 [fc]
 [vo_kob s="koba0019"]
-[ns]小林[nse]
-「ボクも、この三人だけの方がいいな。普段あんまり[r]
-　話さない人がいると、ちょっと、ね」[pcms]
+[ns]Kobayashi[nse]
+"I also prefer it to be just us three. It gets a little[r]
+awkward when there are people we don't usually talk to."[pcms]
 
 [ChrSetEx layer=3 chbase="hayami_n04"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
 
 *6481|
 [fc]
 [vo_hay s="hayami0033"]
-[ns]ありす[nse]
-「なーんか調子狂うよね」[pcms]
+[ns]Arisu[nse]
+"It kind of throws off the vibe, doesn't it?"[pcms]
 
 [ChrSetEx layer=2 chbase="koba_n08"][ChrSetXY layer=2 x=0 y=0][trans_c cross time=150]
 
 *6482|
 [fc]
 [vo_kob s="koba0020"]
-[ns]小林[nse]
-「そうそう」[pcms]
+[ns]Kobayashi[nse]
+"Exactly."[pcms]
 
 *6483|
 [fc]
-確かに、それは俺にも言えることだった。[pcms]
+Indeed, I felt the same way.[pcms]
 
 *6484|
 [fc]
-速水みたいに、どんなネタでも合わせてきてくれる女[r]
-友達はいないし、ユウみたいにいい具合にツッコんで[r]
-くれる男友達も、今のところいない。[pcms]
+I don't have any female friends who can play along with any[r]
+topic like Hayami does, nor do I have male friends who can[r]
+retort as well as Yuu does at the moment.[pcms]
 
 *6485|
 [fc]
-そう考えれば、俺は恵まれている。[r]
-どんなことがあっても失いたくないと思える親友を、[r]
-二人も手に入れることができたんだからな。[pcms]
+Thinking about it, I'm blessed. I've managed to gain two[r]
+best friends whom I never want to lose no matter what[r]
+happens.[pcms]
 
 *6486|
 [fc]
-学年が上がった時のクラス替えが無いと聞いて、最初[r]
-はつまんねーと思ったけど、今は反対に無くて良かっ[r]
-たと思っている。[pcms]
+When I heard there wouldn't be any class changes when we[r]
+moved up a grade, I initially thought it was boring, but now[r]
+I'm glad there weren't any changes.[pcms]
 
 *6487|
 [fc]
-ユウも速水も、今では俺にとってなくてはならない存[r]
-在だ。[pcms]
+Yuu and Hayami have become indispensable to me now.[pcms]
 
 ;//SE：メールの着信音
 [se0 storage="SE03"]
@@ -656,204 +662,202 @@
 *6488|
 [fc]
 [vo_hay s="hayami0034"]
-[ns]ありす[nse]
-「あっ、トモちゃんからだ。ちょっとゴメンね」[pcms]
+[ns]Alice[nse]
+"Ah, it's from Tomo-chan. Excuse me for a sec."[pcms]
 
 *6489|
 [fc]
-[ns]大倉[nse]
-「お、誰よ。これ？　これか？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Oh? Who is it? This one? This one?"[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *6490|
 [fc]
-ニヤニヤしながら、立てた親指を顔の前でチラつかせ[r]
-ると、速水はベーッと舌を出して、俺とユウから少し[r]
-離れ、ケータイをいじり始めた。[pcms]
+While grinning, she teased with her thumb raised in front of[r]
+her face; Hayami stuck out her tongue at me and Yuu and[r]
+moved away a bit to start fiddling with her phone.[pcms]
 
 *6491|
 [fc]
-友達からのメールか……。[pcms]
+A message from a friend...[pcms]
 
 *6492|
 [fc]
-そういや、速水って誰かと付き合ってるとか、誰かが[r]
-好きとか、そういうの聞いたことないな……。[pcms]
+Come to think of it, I've never heard about Hayami dating[r]
+anyone or having a crush on someone...[pcms]
 
 *6493|
 [fc]
-友達のひいき目、ってのもあるかもしれないけど、速[r]
-水はカワイイし、なにしろあの巨乳だ。[pcms]
+Maybe it's just favoritism from being friends, but Hayami is[r]
+cute and has those big tits after all.[pcms]
 
 *6494|
 [fc]
-オトコの一人や二人どころか、ハーレム状態で男を振[r]
-り回してても、ゼンゼン不思議じゃない。[pcms]
+It wouldn't be surprising at all if she had a harem of guys[r]
+wrapped around her finger instead of just one or two.[pcms]
 
 *6495|
 [fc]
-どうなんだろう、その辺……。[r]
-直で聞いてみるかな……。[pcms]
+I wonder about that... Maybe I'll ask her directly...[pcms]
 
 [ChrSetEx layer=4 chbase="koba_n01"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *6496|
 [fc]
 [vo_kob s="koba0021"]
-[ns]小林[nse]
-「気になる？」[pcms]
+[ns]Kobayashi[nse]
+"Are you curious?"[pcms]
 
 *6497|
 [fc]
-ボンヤリと速水を眺めていた俺の顔を、ユウがからか[r]
-うような様子で覗き込んでくる。[pcms]
+As I was absentmindedly watching Hayami, Yuu peeked into my[r]
+face with a teasing look.[pcms]
 
 *6498|
 [fc]
-[ns]大倉[nse]
-「ん？　いや……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Hm? No..."[pcms]
 
 *6499|
 [fc]
-ユウは時々、こっちの頭の中を覗き込んだんじゃない[r]
-かって疑いたくなるようなことを言う。[pcms]
+Sometimes Yuu says things that make me suspect she's peeking[r]
+into my head.[pcms]
 
 *6500|
 [fc]
-速水もたまに同じようなことをするから、これは多分、[r]
-女のカンってヤツなんじゃないのか。[pcms]
+Hayami does the same thing occasionally, so maybe it's that[r]
+women's intuition thing.[pcms]
 
 *6501|
 [fc]
-なんで男のユウがそんなものを持ってるのかはわから[r]
-ないけど、その辺の女より女らしい顔立ちを見ている[r]
-と、変に納得してしまう。[pcms]
+I don't know why Yuu, a guy, would have that, but looking at[r]
+his more feminine features than most girls, it weirdly makes[r]
+sense.[pcms]
 
 [ChrSetEx layer=4 chbase="koba_n12"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *6502|
 [fc]
 [vo_kob s="koba0022"]
-[ns]小林[nse]
-「いや、何？」[pcms]
+[ns]Kobayashi[nse]
+"No, what?"[pcms]
 
 *6503|
 [fc]
-[ns]大倉[nse]
-「……多分、Ｆだろうなってさ」[pcms]
+[ns]Ookura Hiroshi[nse]
+"...Probably F, I guess."[pcms]
 
 [ChrSetEx layer=4 chbase="koba_n03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *6504|
 [fc]
 [vo_kob s="koba0023"]
-[ns]小林[nse]
-「エフ……？」[pcms]
+[ns]Kobayashi[nse]
+"F...?"[pcms]
 
 *6505|
 [fc]
-[ns]大倉[nse]
-「あぁ、俺の見立てじゃな」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Yeah, that's my guess."[pcms]
 
 [ChrSetEx layer=4 chbase="koba_n12"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *6506|
 [fc]
 [vo_kob s="koba0024"]
-[ns]小林[nse]
-「頭文字か何か？」[pcms]
+[ns]Kobayashi[nse]
+"An initial or something?"[pcms]
 
 *6507|
 [fc]
-[ns]大倉[nse]
-「まぁ、頭文字っちゃぁ頭文字かな」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Well, it's an initial if you want to call it that."[pcms]
 
 [ChrSetEx layer=4 chbase="koba_n01"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *6508|
 [fc]
 [vo_kob s="koba0025"]
-[ns]小林[nse]
-「ふぅ～ん……。あ、ねぇ、修業旅行の自由行動だけ[r]
-　どさ、ヒロはどこ行きたい？」[pcms]
+[ns]Kobayashi[nse]
+"Hmm... Oh, hey, for the free time during the training trip,[r]
+where do you want to go, Hiro?"[pcms]
 
 *6509|
 [fc]
-[ns]大倉[nse]
-「自由行動かー……」[pcms]
+[ns]Ookura[nse]
+"Free time, huh..."[pcms]
 
 *6510|
 [fc]
-今回の修業旅行では、自由行動の時間が割と多めに取[r]
-られているらしい。[pcms]
+It seems there will be quite a lot of free time during this[r]
+training trip.[pcms]
 
 *6511|
 [fc]
-学生ら本人の自主性を重んじ、とかいうご大層な理由[r]
-があるらしいけど、何にしろ、見たいものを見る時間[r]
-が増えるのはありがたいことだ。[pcms]
+The grand reason seems to be to value the students'[r]
+autonomy, but anyway, I'm grateful for the increased time to[r]
+see what I want.[pcms]
 
 *6512|
 [fc]
-興味の無い史跡を見せられたところで、アクビの回数[r]
-が増えるだけだしな。[pcms]
+Being shown uninteresting historical sites would just[r]
+increase the number of yawns after all.[pcms]
 
 *6513|
 [fc]
-[ns]大倉[nse]
-「ユウは？　どっか行きたいトコあんのか？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"What about you, Yuu? Got any place you want to go?"[pcms]
 
 [ChrSetEx layer=4 chbase="koba_n08"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *6514|
 [fc]
 [vo_kob s="koba0026"]
-[ns]小林[nse]
-「ボクはねー、ショッピングモール行きたいんだ」[pcms]
+[ns]Kobayashi[nse]
+"I want to go to a shopping mall."[pcms]
 
 *6515|
 [fc]
-[ns]大倉[nse]
-「ショッピングモールぅ？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"A shopping mall?"[pcms]
 
 [ChrSetEx layer=4 chbase="koba_n01"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *6516|
 [fc]
 [vo_kob s="koba0027"]
-[ns]小林[nse]
-「ネットで調べたんだけどね、１日目に泊まる所の近[r]
-　くにおっきいショッピングモールがあるんだ」[pcms]
+[ns]Kobayashi[nse]
+"I looked it up on the net, and there's a big shopping mall[r]
+near where we're staying on the first day."[pcms]
 
 *6517|
 [fc]
 [vo_kob s="koba0028"]
-[ns]小林[nse]
-「この辺にはそういうおっきい店が無いから、行って[r]
-　みたいんだよね。いろんな物がありそうだし、楽し[r]
-　そうじゃない？」[pcms]
+[ns]Kobayashi[nse]
+"We don't have big stores like that around here, so I want[r]
+to go. It seems like they have a lot of different things,[r]
+doesn't it sound fun?"[pcms]
 
 *6518|
 [fc]
-[ns]大倉[nse]
-「確かに、なんにもねーからなーこの辺……。あ、そ[r]
-　うだ。メイド喫茶行かねぇ？　一回、生で見てみた[r]
-　いんだよなー、メイドさん」[pcms]
+[ns]Ookura Hiroshi[nse]
+"True, there's nothing around here... Oh, right. Wanna go to[r]
+a maid cafe? I've always wanted to see maids in person."[pcms]
 
 [ChrSetEx layer=4 chbase="koba_n12"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *6519|
 [fc]
 [vo_kob s="koba0029"]
-[ns]小林[nse]
-「メイド喫茶ねぇ……ヒロもああいうの好きなんだ」[pcms]
+[ns]Kobayashi[nse]
+"A maid cafe, huh... You like that kind of thing too, Hiro?"[pcms]
 
 *6520|
 [fc]
 [vo_hay s="hayami0035"]
-[ns]ありす[nse]
-「なになに？　ヒロシ、なにが好きなの？」[pcms]
+[ns]Arisu[nse]
+"What's this? Hiroshi, what do you like?"[pcms]
 
 [chara_int]
 [ChrSetEx layer=2 chbase="koba_n12"][ChrSetXY layer=2 x=0 y=0]
@@ -861,73 +865,68 @@
 
 *6521|
 [fc]
-メールをし終わったらしい速水が、ユウの体越しに俺[r]
-の顔を覗き込んできた。[pcms]
+Hayami, who seemed to have finished her email, peeked over[r]
+Yuu's body to look at my face.[pcms]
 
 *6522|
 [fc]
 [vo_kob s="koba0030"]
-[ns]小林[nse]
-「ヒロがね、自由行動の時に、メイド喫茶に行きたい[r]
-　んだって」[pcms]
+[ns]Kobayashi[nse]
+"Hiro wants to go to a maid cafe during our free time."[pcms]
 
 [ChrSetEx layer=3 chbase="hayami_n05"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
 
 *6523|
 [fc]
 [vo_hay s="hayami0036"]
-[ns]ありす[nse]
-「あー、ハヤリだしねー。ヒロシって意外とミーハー[r]
-　なんだね」[pcms]
+[ns]Arisu[nse]
+"Ah, that's trendy. Hiroshi is surprisingly an enthusiast."[pcms]
 
 *6524|
 [fc]
-[ns]大倉[nse]
-「別にそういうワケじゃねーよ。テレビでしか見たこ[r]
-　とないから、ちょっと生で見てみたいってだけだ」[pcms]
+[ns]Ookura Hiroshi[nse]
+"It's not like that. I've only seen them on TV, so I just[r]
+want to see it in person."[pcms]
 
 [ChrSetEx layer=3 chbase="hayami_n04"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
 
 *6525|
 [fc]
 [vo_hay s="hayami0037"]
-[ns]ありす[nse]
-「ふぅん……んじゃ、あたしが着てあげよっか。メイ[r]
-　ド服」[pcms]
+[ns]Alice[nse]
+"Hmm... then should I wear it for you? A maid outfit."[pcms]
 
 [ChrSetEx layer=2 chbase="koba_n01"][ChrSetXY layer=2 x=0 y=0][trans_c cross time=150]
 
 *6526|
 [fc]
 [vo_kob s="koba0031"]
-[ns]小林[nse]
-「あぁ、ありすなら似合うかもね。エッチぃけど」[pcms]
+[ns]Kobayashi[nse]
+"Ah, Alice might suit it. Though it's a bit naughty."[pcms]
 
 *6527|
 [fc]
 [vo_hay s="hayami0038"]
-[ns]ありす[nse]
-「でしょでしょ？　あたしもけっこうイケると思うん[r]
-　だよね～」[pcms]
+[ns]Alice[nse]
+"Right? I think I can pull it off pretty well~"[pcms]
 
 *6528|
 [fc]
-速水のエッチぃメイド服か……。[r]
-ちょっと興味あるな……。[r]
-需要も多そうだし……。[pcms]
+Hayami in a naughty maid outfit... That's kind of[r]
+interesting... There seems to be a demand for it too...[pcms]
 
 [ChrSetEx layer=3 chbase="hayami_n03"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
 
 *6529|
 [fc]
 [vo_hay s="hayami0039"]
-[ns]ありす[nse]
-「ヒロシ的にはどう？　あたしのメイド服」[pcms]
+[ns]Arisu[nse]
+"What do you think, Hiroshi? About me in a maid outfit."[pcms]
 
 *6530|
 [fc]
-[ns]大倉[nse]
-「とりあえず、写真は撮らせてくれ」[pcms]
+[ns]Ookura[nse]
+"At least let me take a photo."[pcms]
 
 [ChrSetEx layer=2 chbase="koba_n07"][ChrSetXY layer=2 x=0 y=0]
 [ChrSetEx layer=3 chbase="hayami_n02"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
@@ -935,83 +934,81 @@
 *6531|
 [fc]
 [vo_hay s="hayami0040"]
-[ns]ありす[nse]
-「もしかして……使うの？」[pcms]
+[ns]Arisu[nse]
+"Are you planning to... use it?"[pcms]
 
 *6532|
 [fc]
-[ns]大倉[nse]
-「あぁ、オマエのファンがな」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Yeah, for your fans."[pcms]
 
 [ChrSetEx layer=3 chbase="hayami_n09"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
 
 *6533|
 [fc]
 [vo_hay s="hayami0041"]
-[ns]ありす[nse]
-「撮った写真、売るつもりなの！？　……んじゃ分け[r]
-　前は８：２ね。もちろん、あたしが８」[pcms]
+[ns]Arisu[nse]
+"You're planning to sell the photo!? ...Then the split is[r]
+8:2. Of course, I get 8."[pcms]
 
 [ChrSetEx layer=2 chbase="koba_n12"][ChrSetXY layer=2 x=0 y=0][trans_c cross time=150]
 
 *6534|
 [fc]
 [vo_kob s="koba0032"]
-[ns]小林[nse]
-「売るのはいいんだね……」[pcms]
+[ns]Kobayashi[nse]
+"So selling is fine with you..."[pcms]
 
 *6535|
 [fc]
-[ns]大倉[nse]
-「オマエ、そりゃいくらなんでもボッタクリ過ぎだろ！[r]
-　６：４がいいとこだろうが。もちろん、[r]
-　６は俺な！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"You're ripping me off way too much! 6:4 is fair. And the 6[r]
+is mine!"[pcms]
 
 *6536|
 [fc]
 [vo_hay s="hayami0042"]
-[ns]ありす[nse]
-「ハァ？　冗談は遺伝子だけにしてよ。７：３。これ[r]
-　以上はまけないからね！」[pcms]
+[ns]Arisu[nse]
+"Huh? Jokes should only be about genes. 7:3. I won't go[r]
+lower than that!"[pcms]
 
 *6537|
 [fc]
-[ns]大倉[nse]
-「オイ、ちょっと待て！　サラッと俺の存在、否定し[r]
-　やがったろ今ぁ！　生物のテスト４０点だったクセ[r]
-　に、オマエに遺伝子の何がわかんだよ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Hey, wait a minute! You just casually denied my existence![r]
+Despite getting 40 points on the biology test yourself! What[r]
+do you know about genes!!"[pcms]
 
 [ChrSetEx layer=3 chbase="hayami_n13"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
 
 *6538|
 [fc]
 [vo_hay s="hayami0043"]
-[ns]ありす[nse]
-「テストの点数は関係ないでしょ！？　自分なんか数[r]
-　学、赤点だったじゃん！　なに？　２０点て！　あ[r]
-　りえないんですけど！！」[pcms]
+[ns]Arisu[nse]
+"Test scores are irrelevant! You got a failing grade in math[r]
+yourself! What? 20 points! That's unbelievable!!"[pcms]
 
 *6539|
 [fc]
-[ns]大倉[nse]
-「２４点だバーカ！！」[pcms]
+[ns]Ookura[nse]
+"It was 24 points, idiot!!"[pcms]
 
 [ChrSetEx layer=2 chbase="koba_n06"][ChrSetXY layer=2 x=0 y=0][trans_c cross time=150]
 
 *6540|
 [fc]
 [vo_hay s="hayami0044"]
-[ns]ありす[nse]
-「バカって言った方がバカだもんね！　ヒロシのバー[r]
-　カバーカ！！」[pcms]
+[ns]Alice[nse]
+"The one who calls someone stupid is the stupid one![r]
+Hiroshi's stupid stupid!!"[pcms]
 
 [ChrSetEx layer=2 chbase="koba_n12"][ChrSetXY layer=2 x=0 y=0][trans_c cross time=150]
 
 *6541|
 [fc]
 [vo_kob s="koba0033"]
-[ns]小林[nse]
-「２人とも、趣旨変わってるよ……」[pcms]
+[ns]Kobayashi[nse]
+"Both of you are off-topic..."[pcms]
 
 [fadeoutbgm time=502]
 ;//BKACKOUT
@@ -1020,12 +1017,13 @@
 
 *6542|
 [fc]
-そのあと、いつも２人と別れる場所に着き、呆れ顔の[r]
-ユウが速水を引っ張っていくまで、『バカ』の言い合[r]
-いは続いた……。[pcms]
+After that, we reached the usual spot where we part ways[r]
+with the two of them, and Yuu, with an exasperated look on[r]
+his face, pulled Hayami away as they continued their[r]
+"stupid" argument...[pcms]
 
 [sysbt_meswin clear]
 
 [jump storage="prologue0030.ks" target=*prologue0030_TOP]
 
-;//－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+;//

@@ -23,22 +23,21 @@
 *16068|
 [fc]
 [vo_mob s="0073"]
-[ns]女子アナ[nse]
-「ぅぐっ……んく、ぁ……はぁっ、ひぐっ……」[pcms]
+[ns]Female Announcer[nse]
+"Ugh... ngh, ah... haa, biku..."[pcms]
 
 *16069|
 [fc]
-[ns]イケメンのアナウンサー[nse]
-「そしてこの時間から、ＳＢＣ第２スタシ゛オにて、[r]
-　こ゛覧のみなさんに瀧澤アナのおまんこを開放いた[r]
-　します！！」[pcms]
+[ns]Handsome Announcer[nse]
+"And now, from this time at SBC Studio 2, we will be opening[r]
+up Announcer Takizawa's pussy to everyone watching!!"[pcms]
 
 *16070|
 [fc]
-[ns]イケメンのアナウンサー[nse]
-「お時間のある方は是非！　こ゛参加くた゛さい！！[r]
-　ＳＢＣアナウンサー、檜原昌紀て゛したー！！[r]
-　僕も中出しするぞー！！　ふ゛はははははっ！！！」[pcms]
+[ns]Handsome Announcer[nse]
+"Those who have time, please join us!! This has been SBC[r]
+announcer, Masanori Hihara!! I'm going to cum inside too-!![r]
+Bwahahahaha!!"[pcms]
 
 ;//♪：m05 fadeout
 [fadeoutbgm time=1000]
@@ -54,81 +53,78 @@
 *16071|
 [fc]
 [vo_nag s="nagasaki0294"]
-[ns]千尋[nse]
-「さいてい……。みじめね……」[pcms]
+[ns]Chihiro[nse]
+"The lowest... How miserable..."[pcms]
 
 *16072|
 [fc]
-テレビに映し出された女は、醜い男から次々に犯され、[r]
-ついには白目を剥いて倒れてしまった。[pcms]
+The woman shown on TV was violated by ugly men one after[r]
+another, and finally collapsed with her eyes rolled back.[pcms]
 
 *16073|
 [fc]
 [vo_nag s="nagasaki0295"]
-[ns]千尋[nse]
-「……はぁ……」[pcms]
+[ns]Chihiro[nse]
+"...Haa..."[pcms]
 
 *16074|
 [fc]
-……もし、アタシが男だったら。[r]
-……もし、アタシが、あの場にいたなら……。[pcms]
+If I were a man... If I had been there at that place...[pcms]
 
 *16075|
 [fc]
-アタシもあの男達に混ざって、[r]
-あのアナウンサーを犯していただろうか。[pcms]
+Would I have joined those men and violated that announcer as[r]
+well?[pcms]
 
 *16076|
 [fc]
-あの女子アナを犯す自分の姿を想像してみると、[r]
-それは素晴らしく愉快な事に思えて、[r]
-思わず笑みがこぼれてしまう。[pcms]
+Imagining myself violating that female announcer, it seems[r]
+like a wonderfully amusing thing, and I can't help but let a[r]
+smile slip out.[pcms]
 
 *16077|
 [fc]
 [vo_nag s="nagasaki0296"]
-[ns]千尋[nse]
-「くっ……ふふふっ……あはははは！！[r]
-　ねえ……ありすさん……？　あれ……！？」[pcms]
+[ns]Chihiro[nse]
+"Kuh... fufufu... ahahaha!! Hey... Arisu-san...? Huh...!?"[pcms]
 
 *16078|
 [fc]
-一緒にテレビを見ていた筈のありすさんは、[r]
-忽然と消えてしまっていた。[pcms]
+Arisu-san, who was supposed to be watching TV with me, had[r]
+suddenly disappeared.[pcms]
 
 *16079|
 [fc]
-一人、この広いレストランに残されてしまったアタシ。[pcms]
+I was left alone in this spacious restaurant.[pcms]
 
 *16080|
 [fc]
 [vo_nag s="nagasaki0297"]
-[ns]千尋[nse]
-「さみしい……」[pcms]
+[ns]Chihiro[nse]
+"I feel so lonely..."[pcms]
 
 *16081|
 [fc]
-アタシ以外だれもいなくなったこの部屋は、広すぎる。[pcms]
+This room, now devoid of anyone else but me, is too vast.[pcms]
 
 *16082|
 [fc]
-そうだ……。[r]
-あの子はトイレが近かった。[pcms]
+That's right... She often needed to use the restroom.[pcms]
 
 *16083|
 [fc]
-今回もきっと、トイレに行ったんだろう。[pcms]
+She must have gone to the toilet again this time.[pcms]
 
 *16084|
 [fc]
 [vo_nag s="nagasaki0298"]
-[ns]千尋[nse]
-「アタシをひとりにしないで……ありすさん……」[pcms]
+[ns]Chihiro[nse]
+"Don't leave me alone... Arisu-san..."[pcms]
 
 *16085|
 [fc]
-ありすさんを追うために、[r]
-レストランから外へと向かう。[pcms]
+In order to follow Arisu-san, I head outside from the[r]
+restaurant.[pcms]
 
 ;//★ＢＧ：トイレ付近東
 ;//＠：東棟・四階
@@ -140,9 +136,8 @@
 
 *16086|
 [fc]
-あの子が向かったトイレは、ここからそう遠くはない。[r]
-でも、足が思うように動かせない事で、なかなか[r]
-たどり着くことが出来なかった。[pcms]
+The toilet she went to isn't too far from here. But my legs[r]
+aren't moving as I want them to, making it hard to reach it.[pcms]
 
 ;//SE:雄叫
 
@@ -155,55 +150,55 @@
 
 *16087|
 [fc]
-あのイヤらしい声が。[r]
-あのイヤらしい奴らが、この階に登って来た。[pcms]
+Those sleazy voices. Those sleazy guys are coming up to this[r]
+floor.[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
 *16088|
 [fc]
 [vo_nag s="nagasaki0299"]
-[ns]千尋[nse]
-「きたならしい……クズどもめ……」[pcms]
+[ns]Chihiro[nse]
+"Filthy... scum..."[pcms]
 
 *16089|
 [fc]
-あの声を聞くと、イライラする。[r]
-なんであんなモノが、この世の中に存在するんだろう。[pcms]
+Hearing that voice makes me irritated. Why do such things[r]
+even exist in this world?[pcms]
 
 *16090|
 [fc]
-男なんてこの世の中から、消えて無くなればいいのに！[pcms]
+If only men would disappear from this world![pcms]
 
 [ChrSetEx layer=4 chbase="etc01"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *16091|
 [fc]
-[ns]トランクス姿の青年[nse]
-「あぁぁ……おんなだぁ……」[pcms]
+[ns]A young man in trunks[nse]
+"Ahh... a woman..."[pcms]
 
 [ChrSetEx layer=4 chbase="etc02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *16092|
 [fc]
-[ns]ジャケットを着た男[nse]
-「おぉぉおおおおおおおぉおおぉお……！」[pcms]
+[ns]Man in a jacket[nse]
+"Oooooohhhhhhhhhhh!!"[pcms]
 
 *16093|
 [fc]
 [vo_nag s="nagasaki0300"]
-[ns]千尋[nse]
-「ふん……うなるしかのうのないクズどもめ……」[pcms]
+[ns]Chihiro[nse]
+"Hmph... Groaning is all you scum are good for..."[pcms]
 
 *16094|
 [fc]
-クズのうちの一人が、アタシの肩に触れた。[pcms]
+One of the scum touched my shoulder.[pcms]
 
 *16095|
 [fc]
 [vo_nag s="nagasaki0301"]
-[ns]千尋[nse]
-「さわるな……！！　きたならしい……」[pcms]
+[ns]Chihiro[nse]
+"Don't touch me...!! Filthy..."[pcms]
 
 ;//SE:人を殴る
 [se0 storage="SE20"]
@@ -216,20 +211,18 @@
 
 *16096|
 [fc]
-[ns]ジャケットを着た男[nse]
-「あがっ……」[pcms]
+[ns]Man in a Jacket[nse]
+"Agah..."[pcms]
 
 *16097|
 [fc]
-アタシの邪魔をするヤツは許さない。[r]
-アタシは、ありすさんをもう一度、抱きしめるために、[r]
-歩いている。[pcms]
+I won't forgive anyone who gets in my way. I am walking to[r]
+embrace Arisu-san once more.[pcms]
 
 *16098|
 [fc]
-こんなクズ共には触らせない。[r]
-アタシの体にも、あの子の体にも。[r]
-絶対に、指一本触れさせない。[pcms]
+I won't let these scum touch me. Not my body, nor hers. I[r]
+absolutely won't let them lay a single finger on us.[pcms]
 
 ;//BLACKOUT
 

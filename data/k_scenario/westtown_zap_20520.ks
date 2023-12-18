@@ -36,583 +36,548 @@
 
 *16697|
 [fc]
-後ろから抱きついてくる男が、自分もろとも私を仰向[r]
-けに倒した時には、下着が脱がされ、胸も性器も露わ[r]
-にされてしまっていた。[pcms]
+When the man who hugged me from behind knocked us both down[r]
+facing upwards, my underwear was removed, and my breasts and[r]
+genitals were exposed.[pcms]
 
 *16698|
 [fc]
-そして、私の服を引き裂き、下着を脱がせた男達の手[r]
-は、また体の上を這い回り始めた。[pcms]
+Then, the men who had torn off my clothes and removed my[r]
+underwear began to crawl their hands over my body again.[pcms]
 
 *16699|
 [fc]
-[ns]コック服の中年[nse]
-「かわ゛いい゛おっは゜いた゛ね゛ぇ～～……[r]
-　おし゛さん、こう゛ふんしちゃうよ゛ぉ～……っ！」[pcms]
+[ns]Middle-aged man in a cook's outfit[nse]
+"You're so cute... I'm getting excited...!"[pcms]
 
 *16700|
 [fc]
 [vo_may s="maya0229"]
-[ns]摩耶[nse]
-「触るなっ、近寄るなぁ……っ！！[r]
-　離れろぉ……っ！！　気持ち悪いぃ……っ！！」[pcms]
+[ns]Maya[nse]
+"Don't touch me, don't come any closer...!! Get away...!![r]
+It's disgusting...!!"[pcms]
 
 *16701|
 [fc]
-下着を取られ、剥き出しになった胸に、コックの様な[r]
-白衣を着た中年男の息がかかる。[pcms]
+The breath of the middle-aged man in a cook's outfit brushed[r]
+against my bare breasts as he took off my underwear.[pcms]
 
 *16702|
 [fc]
-もう片方の胸は、２人の男が奪い合うようにまさぐっ[r]
-ていて、時々乱暴に掴まれ、鈍い痛みに襲われた。[pcms]
+One of my breasts was being fondled by two men as if they[r]
+were fighting over it, occasionally being grabbed roughly,[r]
+causing a dull pain.[pcms]
 
 *16703|
 [fc]
-[ns]警備員の男[nse]
-「く゛ふふぁはぁ～～[r]
-　おっは゜い、へ゜ちゃんこた゛あ゛ぁ～～～……」[pcms]
+[ns]Male Security Guard[nse]
+"Haha~... Your breasts are so soft~..."[pcms]
 
 *16704|
 [fc]
-[ns]半袖シャツの中年[nse]
-「かってにさわんなよおぉ～～～……っ！[r]
-　おれんた゛そ゛おぉ～～～……っ！」[pcms]
+[ns]Middle-aged man in a short-sleeved shirt[nse]
+"Don't touch me like that...! It's mine...!"[pcms]
 
 *16705|
 [fc]
 [vo_may s="maya0230"]
-[ns]摩耶[nse]
-「やめ、ろぉ……っ！！　いっ、ぁぐっ！！」[pcms]
+[ns]Maya[nse]
+"Stop it...!! Ah, aguh!!"[pcms]
 
 *16706|
 [fc]
-[ns]作業服の男Ｂ[nse]
-「おまんこかぁ……あなるかぁ……くちかぁ……[r]
-　と゛こに゛、つっこも゛う゛かな゛あぁ～～～[r]
-　けひはふぁはっ……！！」[pcms]
+[ns]Work Clothes Man B[nse]
+"Pussy or anus or mouth... where should I stick it in...[r]
+kehihahah...!!"[pcms]
 
 *16707|
 [fc]
-[ns]Ｔシャツの青年[nse]
-「ま゛んこぉ～～ま゛んこた゛よぉ～～……っ！！[r]
-　ま゛んこあ゛けろ゛よ゛おぉ～～～……っ！！[r]
-　はや゛くう゛ぅ～～～……っ！！」[pcms]
+[ns]Young man in a T-shirt[nse]
+"Pussy~ Pussy~...!! Open up your pussy...!! Hurry up...!!"[pcms]
 
 *16708|
 [fc]
-私と群がる男達の声に誘われてか、１人、また１人と、[r]
-こっちへ向かって近づいてきていた。[pcms]
+As if drawn by the voices of the men crowding around me, one[r]
+by one, they started to approach me.[pcms]
 
 *16709|
 [fc]
-[ns]作業服の男Ａ[nse]
-「う゛はあ゛ぁ～～～……[r]
-　おま゛んこか゛ぁ、ふに゛ふに゛してぇ～～……[r]
-　きも゛ちい゛ぃ～～～……っ！！」[pcms]
+[ns]Work Clothes Man A[nse]
+"Uhaa~... Your pussy feels so squishy~... It feels[r]
+good~...!!"[pcms]
 
 *16710|
 [fc]
 [vo_may s="maya0231"]
-[ns]摩耶[nse]
-「ひぁっ、いやぁあぁっ！！」[pcms]
+[ns]Maya[nse]
+"Hiaa, nooo!!"[pcms]
 
 *16711|
 [fc]
-ペニスで私の性器の合わせ目を擦りながら、後ろの男[r]
-が首筋に、荒くなった息を吐きかけてくる。[pcms]
+While rubbing his dick against the seam of my genitals, the[r]
+man behind me breathed raggedly on my nape.[pcms]
 
 *16712|
 [fc]
-性器に伝わるペニスの感触と、首筋に吐きかけられる[r]
-男の息の、あまりのおぞましさに、私は全身が大きく[r]
-震えた。[pcms]
+The sensation of the dick on my genitals and the man's[r]
+breath on my nape were so vile that my whole body trembled[r]
+violently.[pcms]
 
 *16713|
 [fc]
-[ns]作業服の男Ａ[nse]
-「あ゛れ゛えぇ～～～……？[r]
-　さきっちょに゛ぃ、くり゛くりってぇ、な゛んか[r]
-　あ゛たってる゛よ゛おぉ～～～……？」[pcms]
+[ns]Work Clothes Man A[nse]
+"Are~...? Something's bumping against the tip, what's[r]
+that...?"[pcms]
 
 *16714|
 [fc]
 [vo_may s="maya0232"]
-[ns]摩耶[nse]
-「い、やぁ……っ！！　やめ、ろっ……！！」[pcms]
+[ns]Maya[nse]
+"No...!! Stop it...!!"[pcms]
 
 *16715|
 [fc]
-[ns]コック服の中年[nse]
-「んん～～ちゅぷっ、ちゅうぅっ……！」[pcms]
+[ns]Middle-aged man in a cook's outfit[nse]
+"Nnn~ chup, chuuu...!"[pcms]
 
 *16716|
 [fc]
 [vo_may s="maya0233"]
-[ns]摩耶[nse]
-「いやぁあぁっ！！　離っ、れろぉ……っ！！」[pcms]
+[ns]Maya[nse]
+"Nooo!! Get off me...!!"[pcms]
 
 *16717|
 [fc]
-白衣の男に胸に吸い付かれ、舐められる感触に、おぞ[r]
-ましさはさらに増した。[pcms]
+The sensation of being sucked and licked on my breast by the[r]
+man in the white coat increased my disgust even further.[pcms]
 
 *16718|
 [fc]
-同時に、もう片方の胸の先をつねられ、乳房を力任せ[r]
-に握られて、痛みと、苦しさが襲ってくる。[pcms]
+At the same time, the other breast was pinched and[r]
+forcefully grasped, causing pain and discomfort to assault[r]
+me.[pcms]
 
 *16719|
 [fc]
-[ns]警備員の男[nse]
-「きれ゛いな゛ちくひ゛た゛ね゛えぇ～～～……[r]
-　いし゛め゛たくな゛っちゃうな゛ぁ～～……っ！！」[pcms]
+[ns]Male Security Guard[nse]
+"Your nipples are so pretty~... Makes me want to bully[r]
+them~...!!"[pcms]
 
 *16720|
 [fc]
-[ns]半袖シャツの中年[nse]
-「つまんねぇなあぁ～～～……っ！！　な゛んた゛ぁ、[r]
-　この゛ひんに゛ゅうはよ゛お゛ぉ～～～……っ！！」[pcms]
+[ns]Middle-aged man in a short-sleeved shirt[nse]
+"This is boring... What's with these soft breasts...!!"[pcms]
 
 *16721|
 [fc]
 [vo_may s="maya0234"]
-[ns]摩耶[nse]
-「いぎっ！！　あぁああっ！！」[pcms]
+[ns]Maya[nse]
+"Igii!! Aaaaah!!"[pcms]
 
 *16722|
 [fc]
-逃げなきゃ……。[r]
-本当に犯される前に……。[r]
-ヒロシにあげるより先に、奪われてしまう前に……！[pcms]
+I have to escape... Before I'm truly violated... Before I'm[r]
+taken away before I can give myself to Hiroshi...![pcms]
 
 *16723|
 [fc]
-手足をばたつかせ、体をめちゃくちゃに動かして、[r]
-私はこの場から逃れる為に、男達の手の中でもがいた。[pcms]
+Flailing my limbs and thrashing about wildly, I struggled[r]
+within the grasp of the men to escape from this place.[pcms]
 
 *16724|
 [fc]
-[ns]作業服の男Ａ[nse]
-「し゛ふ゛んから゛、お゛まんこ、こすり゛つける゛[r]
-　な゛んてぇ～～……せっきょくてきた゛な゛ぁ、[r]
-　わ゛かい゛こはあ゛ぁ～～～……！」[pcms]
+[ns]Work Clothes Man A[nse]
+"Rubbing your own pussy against someone like that~... You're[r]
+so proactive, young girl~..."[pcms]
 
 *16725|
 [fc]
 [vo_may s="maya0235"]
-[ns]摩耶[nse]
-「放、せ……っ！！　離れ、ろぉ……っ！！」[pcms]
+[ns]Maya[nse]
+"Let go of me...!! Get away...!!"[pcms]
 
 *16726|
 [fc]
-[ns]コック服の中年[nse]
-「えぁあ～～れろれろぉ～～……んん～～ぷちゅっ、[r]
-　ぢゅうぅっ……！！」[pcms]
+[ns]Middle-aged man in a cook's outfit[nse]
+"Ehaa~ let go let go~... nnn~ puchu, juuu...!!"[pcms]
 
 *16727|
 [fc]
 [vo_may s="maya0236"]
-[ns]摩耶[nse]
-「や、めろぉ……っ！！　放せぇ……っ！！」[pcms]
+[ns]Maya[nse]
+"Stop it...!! Let me go...!!"[pcms]
 
 *16728|
 [fc]
-[ns]警備員の男[nse]
-「かたくな゛ってきたよ゛ぉ～～……っ！[r]
-　ほら゛ぁ～～ほら゛あ゛ぁ～～～……っ！」[pcms]
+[ns]Male Security Guard[nse]
+"It's getting hard~... Look at this~ Look at this~...!!"[pcms]
 
 *16729|
 [fc]
 [vo_may s="maya0237"]
-[ns]摩耶[nse]
-「く、ぁっ……！　やめろ、ぉ……っ！！」[pcms]
+[ns]Maya[nse]
+"Kuahh...! Stop it, please...!!"[pcms]
 
 *16730|
 [fc]
-[ns]半袖シャツの中年[nse]
-「かんし゛てんの゛かぁ～～お゛い゛ぃ～～～……！[r]
-　か゛きの゛くせに゛よお゛ぉ～～～……！」[pcms]
+[ns]Middle-aged man in a short-sleeved shirt[nse]
+"You feeling it now~? You're just a kid...!!"[pcms]
 
 *16731|
 [fc]
-[ns]作業服の男Ａ[nse]
-「ん゛ん～～……？　おま゛んこ、ぬる゛ぬ゛るして[r]
-　きたそ゛ぉ～～……？　くちゅくちゅい゛ってる゛[r]
-　し゛ゃな゛いかぁ、ほら゛あ゛ぁ～～～……っ！！」[pcms]
+[ns]Work Clothes Man A[nse]
+"Nnn~...? Your pussy is getting slippery~? It's making[r]
+squishy noises, isn't it? Look at this~...!!"[pcms]
 
 *16732|
 [fc]
 [vo_may s="maya0238"]
-[ns]摩耶[nse]
-「してっ……してない……っ！！　やめろ……っ！！」[pcms]
+[ns]Maya[nse]
+"I'm not... I'm not doing it...!! Stop it...!!"[pcms]
 
 *16733|
 [fc]
-信じられないことに私の体では、意志に背いて、胸の[r]
-先が変化を起こし、性器に湿り気が生まれていた。[pcms]
+Incredibly, against my will, my nipples began to change and[r]
+moisture appeared on my genitals.[pcms]
 
 *16734|
 [fc]
-私が認めた人以外の男に弄ばれ、反応する自分の女の[r]
-体が恨めしかった。[pcms]
+I resented my female body for reacting when played with by[r]
+men other than the one I had accepted.[pcms]
 
 *16735|
 [fc]
 [vo_may s="maya0239"]
-[ns]摩耶[nse]
-「うぁあ……っ！！　放せぇ……っ！！」[pcms]
+[ns]Maya[nse]
+"Uwaaahh...!! Let me go...!!"[pcms]
 
 *16736|
 [fc]
-[ns]作業服の男Ａ[nse]
-「あぁはぁあ～～～……っ！！　[r]
-　きも゛ちい゛ぃな゛ぁ～～いれ゛ちゃお゛う゛[r]
-　かな゛あ゛ぁ～～～……っ！！」[pcms]
+[ns]Work Clothes Man A[nse]
+"Ahhaha~... It feels good~ Maybe I'll put it in~..."[pcms]
 
 *16737|
 [fc]
 [vo_may s="maya0240"]
-[ns]摩耶[nse]
-「やっ……！！　やだぁっ、やめろぉ……っ！！」[pcms]
+[ns]Maya[nse]
+"No...! Nooo, stop it...!!"[pcms]
 
 *16738|
 [fc]
-私の体は、自分の求めていた人だけ……。[r]
-ヒロシだけが、自由にできる……。[pcms]
+My body is only for the person I desire... Only Hiroshi can[r]
+freely have me...[pcms]
 
 *16739|
 [fc]
-こんな男達に、好きにさせるわけにはいかない……。[r]
-そんなこと、絶対に許さない……！[pcms]
+I can't let these men do as they please with me... I will[r]
+never allow that...![pcms]
 
 *16740|
 [fc]
 [vo_may s="maya0241"]
-[ns]摩耶[nse]
-「お前達なんかに……っ！！」[pcms]
+[ns]Maya[nse]
+"Not by you guys...!!"[pcms]
 
 *16741|
 [fc]
-全身の力を振り絞り、暴れる様にしてもがくことで、[r]
-後ろの男の腕から逃れ、性器に擦りつけられていたペ[r]
-ニスの感触も消えた。[pcms]
+Gathering all my strength and struggling violently, I[r]
+managed to escape from the arms of the man behind me, and[r]
+the sensation of his penis rubbing against my genitals[r]
+disappeared.[pcms]
 
 *16742|
 [fc]
-やった……！[r]
-早く……！[r]
-早く逃げなきゃ……！[pcms]
+I did it...! I must escape quickly...![pcms]
 
 *16743|
 [fc]
-胸に取り付いていた男達を突き飛ばし、勢いで前に傾[r]
-いた体を支えようと、地面に手がつく寸前、私は髪を[r]
-引っ張られて、後ろに引き戻されてしまった。[pcms]
+As I pushed away the men clinging to my breasts and leaned[r]
+forward to support myself, just before my hands touched the[r]
+ground, my hair was pulled back and I was dragged backward.[pcms]
 
 *16744|
 [fc]
 [vo_may s="maya0242"]
-[ns]摩耶[nse]
-「あぅっ……！」[pcms]
+[ns]Maya[nse]
+"Auhh...!"[pcms]
 
 *16745|
 [fc]
-[ns]作業服の男Ａ[nse]
-「にけ゛ちゃ、た゛めし゛ゃな゛い゛かぁ～～……[r]
-　ま゛た゛、おま゛んこにも゛けつに゛も、い゛れて[r]
-　な゛いんた゛から゛さあ゛ぁ～～～……っ！！」[pcms]
+[ns]Work Clothes Man A[nse]
+"You can't run away now~... You still haven't been entered[r]
+in your pussy or ass yet~..."[pcms]
 
 *16746|
 [fc]
 [vo_may s="maya0243"]
-[ns]摩耶[nse]
-「やっ、やめ……っ！！」[pcms]
+[ns]Maya[nse]
+"Stop, please stop...!!"[pcms]
 
 *16747|
 [fc]
-引き戻された時に、私はペニスの上に座る様な体勢に[r]
-なってしまい、男は今度はアヌスに擦りつけ始めた。[pcms]
+When I was pulled back, I ended up sitting on top of the[r]
+penis, and the man began to rub it against my anus.[pcms]
 
 *16748|
 [fc]
 [vo_may s="maya0244"]
-[ns]摩耶[nse]
-「ひっ……！」[pcms]
+[ns]Maya[nse]
+"Hik...!"[pcms]
 
 *16749|
 [fc]
-[ns]作業服の男Ａ[nse]
-「はっ、ふはっ、はあ゛ぁ……っ！　[r]
-　けつの゛あな゛て゛、ちんほ゜しこ゛くとぉ……[r]
-　きも゛ちい゛ぃのかな゛あ゛ぁ～～～……？」[pcms]
+[ns]Work Clothes Man A[nse]
+"Hah, fuhah, haaah...! Does your ass feel good being rubbed[r]
+by my dick...?"[pcms]
 
 *16750|
 [fc]
 [vo_may s="maya0245"]
-[ns]摩耶[nse]
-「やっ、やめ……っ！！」[pcms]
+[ns]Maya[nse]
+"Stop, please...!!"[pcms]
 
 *16751|
 [fc]
-アヌスに圧力を感じ、男が何をしようとしているかに[r]
-気がついて、私はまた、暴れる様にめちゃくちゃに[r]
-もがいた。[pcms]
+I felt pressure on my anus and realized what the man was[r]
+trying to do, so I struggled violently in an attempt to[r]
+escape.[pcms]
 
 *16752|
 [fc]
-でも私の体は、男の手によって沈められていき、[r]
-同時に、ペニスが強引にアヌスを押し広げていった。[pcms]
+But my body was pushed down by the man's hands, and at the[r]
+same time, his penis forcefully spread my anus.[pcms]
 
 [evcg storage="HEV218b"][trans_c cross time=301]
 
 *16753|
 [fc]
 [vo_may s="maya0246"]
-[ns]摩耶[nse]
-「いぃぃいぃぃぃぁああぁあああぁあっ！！！！！！」[pcms]
+[ns]Maya[nse]
+"Aiiiiieeeeeeeaaaaahhhhhhh!!!"[pcms]
 
 *16754|
 [fc]
-凄い力で体を引き裂かれている様な激しい痛みに、[r]
-私は絶叫し、暴れ、もがき続けた。[pcms]
+The intense pain felt as if my body was being torn apart,[r]
+and I screamed, thrashed, and continued to struggle.[pcms]
 
 *16755|
 [fc]
-でも、突き飛ばした男達がまた群がってきて、体に[r]
-次々に取りつき、抑え込まれたせいで、私は男のペニ[r]
-スから逃れることはできなかった。[pcms]
+But the men I had pushed away gathered around me again,[r]
+clinging to my body one after another, and because they held[r]
+me down, I couldn't escape from the man's penis.[pcms]
 
 *16756|
 [fc]
 [vo_may s="maya0247"]
-[ns]摩耶[nse]
-「あっ……が……っ！！」[pcms]
+[ns]Maya[nse]
+"Ah...ga...!!"[pcms]
 
 *16757|
 [fc]
-圧迫感と、熱と、痛みで、私は声を上げることもでき[r]
-なくなった。[pcms]
+With the pressure, heat, and pain, I couldn't even raise my[r]
+voice anymore.[pcms]
 
 *16758|
 [fc]
-どうして……！？[r]
-こんなの嫌だ……！！[pcms]
+Why...!? I don't want this...!![pcms]
 
 *16759|
 [fc]
-熱い……！！[r]
-痛い……！！[r]
-苦しい……！！[pcms]
+It's hot...!! It hurts...!! It's agonizing...!![pcms]
 
 *16760|
 [fc]
-助けて……！！[r]
-ヒロシ……！！[pcms]
+Help me...!! Hiroshi...!![pcms]
 
 *16761|
 [fc]
-[ns]作業服の男Ａ[nse]
-「くはぁ、あ゛ぁ～～……[r]
-　けつの゛な゛か、あ゛ったけえ゛ぇ～～～……」[pcms]
+[ns]Work Clothes Man A[nse]
+"Kuhaa, aah~... The inside of your ass is so hot~..."[pcms]
 
 *16762|
 [fc]
-[ns]作業服の男Ｂ[nse]
-「おれ゛も゛ぉ……あな゛るに゛ちんこ、[r]
-　いれ゛てぇよ゛お゛ぉ～～……っ！！　[r]
-　とっととおわ゛ら゛せろ゛お゛ぉ～～～……っ！！」[pcms]
+[ns]Work Clothes Man B[nse]
+"I also want to put my cock in your anus... Finish up[r]
+quickly...!!"[pcms]
 
 *16763|
 [fc]
-[ns]Ｔシャツの青年[nse]
-「はや゛くと゛けよ゛ぉ～～……っ！！　[r]
-　ま゛んこに゛ぃ、な゛かた゛ししてぇんた゛から[r]
-　よおぉ～～……っ！！」[pcms]
+[ns]Young man in a T-shirt[nse]
+"Hurry up and move...!! I want to cum inside your pussy so[r]
+bad...!!"[pcms]
 
 *16764|
 [fc]
 [vo_may s="maya0248"]
-[ns]摩耶[nse]
-「か、はっ……はっ……！　ふはっ……！」[pcms]
+[ns]Maya[nse]
+"Ka, hah...hah...! Fuhah...!"[pcms]
 
 *16765|
 [fc]
-ほんの少し動いただけで激しく痛み、私は呼吸をする[r]
-のもやっとだった。[pcms]
+Even a slight movement caused intense pain, and it was all I[r]
+could do to breathe.[pcms]
 
 *16766|
 [fc]
-でも、後ろの男は挿入しただけでは満足せず、下から[r]
-私の体を突き上げ始めた。[pcms]
+But the man behind me wasn't satisfied with just inserting[r]
+it; he began to thrust upwards from below.[pcms]
 
 *16767|
 [fc]
 [vo_may s="maya0249"]
-[ns]摩耶[nse]
-「あっ、ぐぅっ！！　うぁ、いぎぃいっ！！」[pcms]
+[ns]Maya[nse]
+"Ah, guh!! Uwa, igyiiii!!"[pcms]
 
 *16768|
 [fc]
-[ns]作業服の男Ａ[nse]
-「ん゛ん～～……？　ちんほ゜の゛さきに゛ぃ、[r]
-　な゛んかあ゛たってる゛そ゛お゛ぉ～～～……？」[pcms]
+[ns]Work Clothes Man A[nse]
+"Nnn~...? Is there something touching the tip of my dick[r]
+inside~...?"[pcms]
 
 *16769|
 [fc]
-[ns]コック服の中年[nse]
-「んも゛……ちゅは゛っ、ちゅう゛ぅっ……[r]
-　ん゛ん～～……」[pcms]
+[ns]Middle-aged man in a cook's outfit[nse]
+"Nmo...chuba, chu~... Nnn~..."[pcms]
 
 *16770|
 [fc]
-[ns]警備員の男[nse]
-「ちくひ゛ぃ、き゛ゅってつね゛る゛と[r]
-　きも゛ちい゛ぃ～～……？　[r]
-　ね゛ぇ～～きも゛ちい゛ぃ～～～……？」[pcms]
+[ns]Male Security Guard[nse]
+"Does it feel good when I pinch and twist your nipples~?[r]
+Hey~ does it feel good~...?"[pcms]
 
 *16771|
 [fc]
-[ns]半袖シャツの中年[nse]
-「もみ゛か゛いの゛ねぇちちた゛な゛ぁ～～……！！[r]
-　は゛くに゛ゅうの゛おんな゛ぁ、い゛ねぇの゛か[r]
-　よ゛お゛ぉ～～～……！！」[pcms]
+[ns]Middle-aged man in a short-sleeved shirt[nse]
+"Your breasts are so soft~!! Are all lactating women like[r]
+this, huh~...?!"[pcms]
 
 *16772|
 [fc]
-取りついた男達に執拗に弄ばれて、胸全体が痺れ、[r]
-痛みすらほとんど感じなくなっていた。[pcms]
+The men who clung to me played with me persistently, and my[r]
+entire chest went numb, almost unable to feel pain anymore.[pcms]
 
 *16773|
 [fc]
-何も感じなくて済むように、今だけでも心を殺せたら、[r]
-と思ったが、叶う筈もなく、アヌスを犯される痛みと[r]
-苦しみは、気を失うことすら許さなかった。[pcms]
+I wished I could kill my heart even for just now so that I[r]
+wouldn't have to feel anything, but that wish was[r]
+unattainable, and the pain and suffering from being violated[r]
+in my anus didn't even allow me to lose consciousness.[pcms]
 
 *16774|
 [fc]
-[ns]作業服の男Ａ[nse]
-「あ゛ぁあ゛～～～……っ！　けつの゛あ゛なぁ、[r]
-　きつくてきも゛ちい゛ぃ～～～……っ！」[pcms]
+[ns]Work Clothes Man A[nse]
+"Aaaaah~...! Your ass is so tight, it feels good~...!"[pcms]
 
 *16775|
 [fc]
 [vo_may s="maya0250"]
-[ns]摩耶[nse]
-「ぐ、ぁっ……ふはっ、はぁっ……！」[pcms]
+[ns]Maya[nse]
+"Gu, ah...fuhah, hah...!"[pcms]
 
 *16776|
 [fc]
-[ns]作業服の男Ａ[nse]
-「な゛かに゛た゛すから゛ぁ～～……けつの゛あな゛[r]
-　から、さ゛ーめんもれ゛てくる゛とこ、[r]
-　み゛せてね゛ぇ～～……っ！」[pcms]
+[ns]Work Clothes Man A[nse]
+"I'm gonna cum inside~... Let me see the semen leaking out[r]
+from your ass~...!"[pcms]
 
 *16777|
 [fc]
-男が言うのを聞いて、こいつらは本当に気が触れてい[r]
-るのだと、私は総毛立った。[pcms]
+Hearing the man speak, I was horrified to realize that these[r]
+guys were truly insane.[pcms]
 
 *16778|
 [fc]
-欲望のままに他人を犯し、殺す輩だから、当たり前の[r]
-様に変態行為に走るのも、不思議ではない。[pcms]
+Ravaging others at will and killing them made it[r]
+unsurprising that they would indulge in perverted acts as a[r]
+matter of course.[pcms]
 
 *16779|
 [fc]
 [vo_may s="maya0251"]
-[ns]摩耶[nse]
-「はぁっ……！　はぁっ……！　やめ……ろ……っ！」[pcms]
+[ns]Maya[nse]
+"Hah...! Hah...! Stop it...!"[pcms]
 
 *16780|
 [fc]
-[ns]作業服の男Ａ[nse]
-「はあ゛ぁ～～……っ！！　はあ゛ぁ～～……っ！！[r]
-　はあ゛ぁ～～……っ！！　はあ゛ぁ～～……っ！！」[pcms]
+[ns]Work Clothes Man A[nse]
+"Haaaah~...! Haaaah~...! Haaaah~...! Haaaah~...!"[pcms]
 
 *16781|
 [fc]
-痛みと苦しさを堪え、男の手から逃れようともがいた[r]
-が、突き刺さった硬いペニスは、簡単には抜けそうも[r]
-なかった。[pcms]
+I endured the pain and discomfort as I struggled to escape[r]
+from the man's grasp, but the hard penis that had pierced me[r]
+didn't seem like it would come out easily.[pcms]
 
 *16782|
 [fc]
-[ns]作業服の男Ａ[nse]
-「はぁあ゛～～～……っ！！　あ゛ぁ～～[r]
-　い゛いよ゛ぉ～～きも゛ちい゛ぃ～～～……っ！！」[pcms]
+[ns]Work Clothes Man A[nse]
+"Haaaah~...! Ahh~ it feels so good~...!"[pcms]
 
 *16783|
 [fc]
 [vo_may s="maya0252"]
-[ns]摩耶[nse]
-「いっ、ぎ……っ！！　はぁっ……はな、せ……！」[pcms]
+[ns]Maya[nse]
+"Itt, gi...!! Hah...let go...!"[pcms]
 
 *16784|
 [fc]
-早く逃げないと……。[r]
-本当に、お尻の中に射精される……！[r]
-そんなの、許せない……。[pcms]
+I have to escape quickly... Otherwise, he's really going to[r]
+ejaculate inside my ass...! I can't allow that...[pcms]
 
 *16785|
 [fc]
-ヒロシ以外の男に、そんなこと……！[pcms]
+No man other than Hiroshi should be doing this to me...![pcms]
 
 *16786|
 [fc]
 [vo_may s="maya0253"]
-[ns]摩耶[nse]
-「やめ、ろ……っ！」[pcms]
+[ns]Maya[nse]
+"Stop it...!"[pcms]
 
 *16787|
 [fc]
-[ns]作業服の男Ａ[nse]
-「う゛ぁあ゛～～～……っ！！[r]
-　そんな゛に゛、ちんほ゜しめ゛つけたら゛ぁ……[r]
-　て゛ちゃう゛よお゛ぉ～～～……っ！！」[pcms]
+[ns]Work Clothes Man A[nse]
+"Uvaaah~...! If you squeeze my dick that hard... I'm gonna[r]
+cum~...!"[pcms]
 
 *16788|
 [fc]
-後ろの男の呼吸が、一際荒く、激しくなると、アヌス[r]
-がさらに押し広げられた様に、私は感じた。[pcms]
+The breathing of the man behind me became especially rough[r]
+and intense, and I felt my anus being stretched even[r]
+further.[pcms]
 
 *16789|
 [fc]
-[ns]作業服の男Ａ[nse]
-「あ゛ぁ～～た゛めた゛あ゛ぁ～～～も゛うて゛る[r]
-　う゛ぅ～～～……っ！！　も゛っとぉ、けつの゛[r]
-　あな゛て゛したい゛の゛にぃ～～～……っ！！」[pcms]
+[ns]Work Clothes Man A[nse]
+"Aaah~ can't hold it anymore~... Uuu~...! I want to do it[r]
+more in your ass~...!"[pcms]
 
 *16790|
 [fc]
 [vo_may s="maya0254"]
-[ns]摩耶[nse]
-「ひ、ぎっ……やぁ……っ！！　んいぃいっ！！」[pcms]
+[ns]Maya[nse]
+"Hi, gig...yaah...!! Niiiih!!"[pcms]
 
 *16791|
 [fc]
-男は体を激しく打ち付け始め、痛みは増し、圧迫感か[r]
-らくる苦しさに、私は吐き気さえ催した。[pcms]
+The man began to thrust his body violently, increasing the[r]
+pain and causing me nausea from the pressure.[pcms]
 
 *16792|
 [fc]
-[ns]作業服の男Ａ[nse]
-「て゛るう゛ぅ～～～……っ！！[r]
-　て゛る゛うぅ～～～……っ！！[r]
-　て゛るよ゛お゛ぉ～～～……っ！！」[pcms]
+[ns]Work Clothes Man A[nse]
+"I'm cumming~...! Cumming~...! Gonna cum~...!"[pcms]
 
 *16793|
 [fc]
 [vo_may s="maya0255"]
-[ns]摩耶[nse]
-「か、はっ……うぇっ……おえぇっ……！！」[pcms]
+[ns]Maya[nse]
+"Ka, hah...ueh...oh ehhhh...!!"[pcms]
 
 *16794|
 [fc]
-[ns]作業服の男Ａ[nse]
-「あ゛ぁ～～～て゛る゛よお゛ぉ～～～……っ！！[r]
-　な゛かに゛た゛すよお゛ぉ～～～……っ！？」[pcms]
+[ns]Work Clothes Man A[nse]
+"Aaaah~ I'm cumming inside you~...! Gonna fill you up~!? "[pcms]
 
 
 ;mm 追加
@@ -624,51 +589,49 @@
 *16795|
 [fc]
 [vo_may s="maya0256"]
-[ns]摩耶[nse]
-「ごほっ、おぇ……っ！！　……ぎっ、いぃいっ！！」[pcms]
+[ns]Maya[nse]
+"Gohh, ohh...!! ...gih, iiiih!!"[pcms]
 
 *16796|
 [fc]
-アヌスを犯されて……。[r]
-そのうえ、射精まで……。[pcms]
+To be violated in my anus... And on top of that, to be[r]
+ejaculated into...[pcms]
 
 *16797|
 [fc]
-嫌……。[r]
-嫌だ……。[r]
-やめて……！[pcms]
+No... I don't want this... Stop...![pcms]
 
 *16798|
 [fc]
-助けて、ヒロシ……！！[pcms]
+Help me, Hiroshi...!![pcms]
 
 
 *16799|
 [fc]
-[ns]作業服の男Ａ[nse]
-「うぁあ～～はあぁ～～～……っ！！」[pcms]
+[ns]Work Clothes Man A[nse]
+"Uvaaah~...! Haaaah~...!"[pcms]
 
 *16800|
 [fc]
 [vo_may s="maya0257"]
-[ns]摩耶[nse]
-「あぁあ……っ！！」[pcms]
+[ns]Maya[nse]
+"Aaah...!"[pcms]
 
 *16801|
 [fc]
-気持ちの悪い、吐息混じりの男の喘ぎ声に一瞬遅れて、[r]
-腸内でスペルマが撒き散らされるのを感じた。[pcms]
+I felt the sperm being sprayed inside my intestines a moment[r]
+after hearing the disgusting, breathy moans of the man.[pcms]
 
 *16802|
 [fc]
-腹部にじわじわと熱が拡がっていくような不快さに、[r]
-私は身をよじる。[pcms]
+The discomfort of a spreading warmth in my abdomen made me[r]
+writhe.[pcms]
 
 *16803|
 [fc]
 [vo_may s="maya0258"]
-[ns]摩耶[nse]
-「うぐ、うぅう……」[pcms]
+[ns]Maya[nse]
+"Ugu, uuu..."[pcms]
 
 ;mm 追加
 ;[射精フラA]
@@ -679,85 +642,82 @@
 
 *16804|
 [fc]
-嫌……。[r]
-射精されてる……。[r]
-アヌスを犯されて、お尻の中に射精されてる……。[pcms]
+No... Being ejaculated into... My anus is being violated,[r]
+and he's ejaculating inside my butt...[pcms]
 
 *16805|
 [fc]
-どうして……。[r]
-どうして、こんなことに……。[pcms]
+Why... Why is this happening to me...[pcms]
 
 *16806|
 [fc]
-私の体は、ヒロシの為にあるのに……。[r]
-ヒロシの為だけに……。[pcms]
+My body exists for Hiroshi... Only for Hiroshi...[pcms]
 
 *16807|
 [fc]
 [vo_may s="maya0259"]
-[ns]摩耶[nse]
-「うっ、うぅ……」[pcms]
+[ns]Maya[nse]
+"Ugh, uuu..."[pcms]
 ;//◎泣き
 
 *16808|
 [fc]
-ヒロシの以外の男に体を良いようにされ、その結果、[r]
-ニュースで言っていたウイルスに感染してしまった[r]
-かもしれない。[pcms]
+My body was used by men other than Hiroshi, and as a result,[r]
+I might have been infected with the virus mentioned in the[r]
+news.[pcms]
 
 *16809|
 [fc]
-その事実に、私はどうにかなってしまいそうだった。[r]
-自分が自分でなくなってしまうような、そんな気さえ[r]
-していた。[pcms]
+The reality of it made me feel like I was going to lose my[r]
+mind. I even felt like I was no longer myself.[pcms]
 
 *16810|
 [fc]
-だから、ヒロシに傍にいてほしいと、私は思った。[pcms]
+That's why I wanted Hiroshi to be by my side.[pcms]
 
 *16811|
 [fc]
-お祖父様が頭のおかしな人達に命を奪われて、今と同[r]
-じ様に、どうにかなってしまいそうだったあの時みた[r]
-いに、私を掴まえていてほしいと思った。[pcms]
+Just like when my grandfather was killed by those insane[r]
+people, I felt like I was going to lose it and wanted him to[r]
+hold onto me.[pcms]
 
 *16812|
 [fc]
 [vo_may s="maya0260"]
-[ns]摩耶[nse]
-「う、く……っ！」[pcms]
+[ns]Maya[nse]
+"U, ku...!"[pcms]
 
 *16813|
 [fc]
-射精して余韻に浸っているのか、押さえる手の力が緩[r]
-んでいるこの隙をついて、私は後ろの男から逃れ、[r]
-立ち上がった。[pcms]
+Taking advantage of the moment while the man was relaxed in[r]
+the afterglow of ejaculation, I escaped from the man behind[r]
+me and stood up.[pcms]
 
 *16814|
 [fc]
-腸内を往復していたペニスがようやく引き抜かれると、[r]
-男が射精したスペルマがアヌスから漏れ、太腿を伝って流[r]
-れ落ちていく。[pcms]
+As the penis that had been moving back and forth inside me[r]
+was finally pulled out, the sperm that the man had[r]
+ejaculated leaked from my anus, trickling down my thighs.[pcms]
 
 *16815|
 [fc]
 [vo_may s="maya0261"]
-[ns]摩耶[nse]
-「ぐ、ぅ……」[pcms]
+[ns]Maya[nse]
+"Gu, u..."[pcms]
 
 *16816|
 [fc]
-裂けたアヌスの痛みと、体内に残る酷い不快さを堪え、[r]
-私はヒロシの待つトラックへと、近寄ってくる男達を[r]
-突き飛ばしながら引き返した。[pcms]
+Enduring the pain of my torn anus and the terrible[r]
+discomfort remaining inside me, I pushed through the[r]
+approaching men and made my way back to the truck where[r]
+Hiroshi was waiting.[pcms]
 
 ;//------------------------------------------------
 [if exp="tf.scene_mode==1"]
 	[jump storage="b_scene.ks" target=*back_from_SR]
 ;	[link storage=sceneAgain]もう一度見る[endlink]
 ;	[link storage=sceneList]一覧に戻る[endlink]
-;	[s]
+[pcms]
 [endif]
 
 *KAISOU_PASS
@@ -773,4 +733,4 @@
 
 [jump storage="westtown_zap_20530.ks" target=*westtown_zap_20530_TOP]
 
-;//－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+;//

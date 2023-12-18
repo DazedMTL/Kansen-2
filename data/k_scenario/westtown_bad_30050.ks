@@ -31,21 +31,22 @@
 
 *9130|
 [fc]
-目を押さえ、体を掴む幾つもの手は、俺をどこかへと[r]
-引きずっていく。[pcms]
+Covering my eyes, the numerous hands grabbing me dragged me[r]
+somewhere.[pcms]
 
 *9131|
 [fc]
-自分を掴む手を振り切ろうと、俺は逆の方向へ走ろう[r]
-としたが、その場で踏ん張ることすらできないで、[r]
-俺は引きずられ続けた。[pcms]
+Trying to shake off the hands that were holding me, I[r]
+attempted to run in the opposite direction, but I couldn't[r]
+even plant my feet firmly on the ground, and I continued to[r]
+be dragged along.[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
 *9132|
 [fc]
-[ns]大倉[nse]
-「クソぉ……ッ！！　放せぇッ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Damn it...! Let go of me!!"[pcms]
 
 ;//＠神宮寺　帽子あり
 
@@ -53,47 +54,49 @@
 *9133|
 [fc]
 [vo_may s="maya0692"]
-[ns]摩耶[nse]
-「や、め……っ！！　触るなぁ……っ！！」[pcms]
+[ns]Maya[nse]
+"No, stop...! Don't touch me...!!"[pcms]
 
 *9134|
 [fc]
-[ns]大倉[nse]
-「マヤちゃん！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Maya-chan!!"[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *9135|
 [fc]
-時々、目を隠す手の隙間から、イカレ野郎に囲まれた[r]
-ままのマヤちゃんが見えた。[pcms]
+Occasionally, through the gaps between the hands covering my[r]
+eyes, I could see Maya-chan surrounded by those crazed[r]
+bastards.[pcms]
 
 *9136|
 [fc]
-あの人数の男を相手に、体の小さいマヤちゃんが逃げ[r]
-られるワケねー……。[pcms]
+With that many men, there's no way the petite Maya-chan[r]
+could escape...[pcms]
 
 *9137|
 [fc]
-早く助けてやんなきゃヤバイ……！[r]
-アイツら、集団であの子を……！！[pcms]
+I have to hurry and help her...! Those guys are ganging up[r]
+on her...!![pcms]
 
 *9138|
 [fc]
-マヤちゃんがどんな目に遭うか想像して、食い込んで[r]
-くる指や爪を振り切ろうと、俺は必死で体を動かした。[pcms]
+Imagining what they might do to Maya-chan, I desperately[r]
+moved my body to shake off the fingers and nails digging[r]
+into me.[pcms]
 
 *9139|
 [fc]
-[ns]大倉[nse]
-「クソがぁ……ッ！！　放せよテメーらッ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"You bastards...! Let go of me, damn you!!"[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_n10"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *9140|
 [fc]
 [vo_may s="maya0693"]
-[ns]摩耶[nse]
-「放せぇ……っ！！　近づくなぁ……っ！！」[pcms]
+[ns]Maya[nse]
+"Let go...! Don't come any closer...!!"[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
@@ -102,29 +105,28 @@
 
 *9141|
 [fc]
-[ns]大倉[nse]
-「！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"!!"[pcms]
 
 *9142|
 [fc]
-突然、前の方から聞こえてきたシャッターの音で、[r]
-俺は自分が渡り廊下の中にいるのがわかった。[pcms]
+Suddenly, I heard the sound of a shutter from ahead, and I[r]
+realized I was in a corridor.[pcms]
 
 *9143|
 [fc]
-けど、そんなコトよりも、さっき開いてたシャッター[r]
-が、また動きだしたってのがどういうコトかを考えて、[r]
-俺は血の気が引いてくのが自分でわかった。[pcms]
+But more importantly than that, I understood what it meant[r]
+that the shutter that had been open was starting to move[r]
+again, and I felt the blood drain from my face.[pcms]
 
 *9144|
 [fc]
-閉まってる……！！[r]
-早くしねーと閉じこめられちまう……ッ！！[pcms]
+It's closing...!! If we don't hurry we'll be trapped...!![pcms]
 
 *9145|
 [fc]
-焦った俺は、ほとんど暴れるようにして、体を掴む[r]
-手を振り払おうとした。[pcms]
+In my panic, I almost violently tried to shake off the hands[r]
+gripping me.[pcms]
 
 
 ;mm 追加
@@ -133,17 +135,17 @@
 
 *9146|
 [fc]
-[ns]大倉[nse]
-「ぐあああぁあぁっぁぁぁがあああっぁぁ！！！！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Guaaaaahhhhhhhhhhhhhhhhhhhhhh!!!!!"[pcms]
 
 [stop_se0]
 ;//SE：シャッター乙
 
 *9147|
 [fc]
-けど、その時、体のあちこちに次から次へと噛みつか[r]
-れて、さらにそのままねじ切られるような激痛が走り、[r]
-俺は動けなくなってしまった。[pcms]
+But at that moment, I was bitten all over my body one after[r]
+another, and an intense pain as if being twisted off ran[r]
+through me, and I became unable to move.[pcms]
 
 
 ;mm 追加
@@ -152,22 +154,22 @@
 
 *9148|
 [fc]
-[ns]大倉[nse]
-「あがぁッ！！　がはっ、ぅぐああぁぁあッ！！！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Agahh!! Gahh, uguuuaaahhhhhhh!!!!!"[pcms]
 
 *9149|
 [fc]
-逃げるためにもがくコトもできず、俺は強制的に、[r]
-死ぬほどの激痛を味わわされた。[pcms]
+Unable to struggle to escape, I was forced to endure an[r]
+excruciating pain that felt like death.[pcms]
 
 ;mm 追加
 [white_toplayer][trans_c cross time=500][hide_chara_int_w]
 
 *9150|
 [fc]
-目を押さえられて真っ暗だった視界は、そのうち段々[r]
-と白く変わっていき、最後に真っ白になったところで、[r]
-俺の体から、完全に力が抜けた。[pcms]
+My vision, which had been darkened by my eyes being covered,[r]
+gradually turned white over time, and when it finally became[r]
+completely white, all strength left my body.[pcms]
 
 ;mm 追加
 ;システムボタン＆ウィンドウ消去
@@ -183,4 +185,4 @@
 
 [jump storage="westtown_bad_30060.ks" target=*westtown_bad_30060_TOP]
 
-;//－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+;//

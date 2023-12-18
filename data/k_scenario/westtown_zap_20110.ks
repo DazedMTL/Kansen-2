@@ -29,245 +29,226 @@
 *13111|
 [fc]
 [vo_mob s="Elevator0011"]
-[ns]エレベーターガール[nse]
-「やっ、いやあぁっ！！　見ないでえぇっ！！」[pcms]
+[ns]Elevator Girl[nse]
+"No, nooo! Don't look at meee!"[pcms]
 
 *13112|
 [fc]
-[ns]Ｙシャツの男１[nse]
-「うはぁ……マンコが……急にキツく……なりやがっ[r]
-　た……」[pcms]
+[ns]Man in a Dress Shirt 1[nse]
+"Uhaa... Her pussy... suddenly got so tight..."[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
 *13113|
 [fc]
-ボクの目の前で、女の人が、沢山の男の人に囲まれて、[r]
-おちんちんを、体中に押しつけられている。[pcms]
+In front of me, a woman is surrounded by many men, their[r]
+dicks pressed against her all over.[pcms]
 
 *13114|
 [fc]
-ボクはその女の人の、[r]
-カウパーまみれになって、濡れたおっぱいや、[r]
-紅くなった唇に見とれていた。[pcms]
+I was mesmerized by the woman, covered in cum, her wet[r]
+breasts and reddened lips.[pcms]
 
 *13115|
 [fc]
-おちんちんからあふれ出る透明な液は、糸を引いて、[r]
-女の人の体を滑る。[pcms]
+The clear fluid overflowing from the dicks was stringing[r]
+along, sliding over the woman's body.[pcms]
 
 *13116|
 [fc]
-ボクも、あんな風に……。[r]
-でも、それはイケない事……。[pcms]
+I also want to... But I know it's wrong...[pcms]
 
 *13117|
 [fc]
-地震がおきてから、ボクの頭はヘンになった。[r]
-エッチな事ばっかり考えてしまう。[pcms]
+Ever since the earthquake, my mind has been messed up. I can[r]
+only think about naughty things.[pcms]
 
 *13118|
 [fc]
-今も、みんなやヒロがいるすぐそばで……。[r]
-目の前のエッチなビデオみたいなのを見て、[r]
-ボクのおちんちんは、どんどん大きくなっていく。[pcms]
+Even now, right next to everyone and Hiro, watching this[r]
+scene like a dirty video, my dick is getting bigger and[r]
+bigger.[pcms]
 
 *13119|
 [fc]
 [vo_kob s="koba0275"]
-[ns]小林[nse]
-「はぁっ……はあっ……」[pcms]
+[ns]Kobayashi[nse]
+"Haa... Hah..."[pcms]
 ;//◎小さく押し殺すように
 
 *13120|
 [fc]
-大きく腫れたおちんちんが、[r]
-ズボンに押さえつけられて、凄く苦しい。[pcms]
+My swollen dick is pressed against my pants, and it's[r]
+incredibly uncomfortable.[pcms]
 
 *13121|
 [fc]
-今すぐ、ここで……。[r]
-ボクも、ズボンを脱いで……。[pcms]
+Right now, right here... I want to take off my pants too...[pcms]
 
 *13122|
 [fc]
-でも、そんなこと出来ない。[r]
-ボクは、まともなんだ。[pcms]
+But I can't do that. I'm supposed to be decent.[pcms]
 
 *13123|
 [fc]
-ボクはエレベーターの中にいる、ヘンな人達とは、[r]
-違うんだ。[pcms]
+I'm different from the weird people in the elevator.[pcms]
 
 *13124|
 [fc]
-そんなことしたら……。[r]
-ボクは……。[r]
-ヒロに嫌われる……。[pcms]
+If I did that... I would be... hated by Hiro...[pcms]
 
 *13125|
 [fc]
-ヒロには、絶対にバレないようにしないと。[r]
-こんな時に、おちんちんを大きくしてるなんて事は。[pcms]
+I must make sure Hiro never finds out. That I'm getting a[r]
+hard-on at a time like this.[pcms]
 
 *13126|
 [fc]
-見ちゃいけない。[r]
-そう頑張って目を背けようとしたけど、[r]
-女の人から目が離す事が出来ない。[pcms]
+I shouldn't look. I try hard to look away, but I can't take[r]
+my eyes off the woman.[pcms]
 
 *13127|
 [fc]
-そうしてボクは、固まったまま、彼女を見ていると、[r]
-女の人は、うっとりした顔を[r]
-こちらに向けて、大きな声で叫んだ。[pcms]
+As I stand there frozen, watching her, the woman turns her[r]
+enraptured face towards us and screams loudly.[pcms]
 
 *13128|
 [fc]
 [vo_mob s="Elevator0010"]
-[ns]エレベーターガール[nse]
-「ひっ、うひぃっ！！　……見な、でっ……くひっ、[r]
-　ひあぁっ！！」[pcms]
+[ns]Elevator Girl[nse]
+"Hiih, uhihh!! ...Don't look... kuhiih, hiaahh!!"[pcms]
 
 *13129|
 [fc]
-『見ないで』[r]
-そう叫びながらも女の人は、[r]
-逆にボク達を潤んだ目で見つめ続けている。[pcms]
+"Don't look," she screams, yet the woman continues to gaze[r]
+at us with moist eyes.[pcms]
 
 *13130|
 [fc]
 [vo_kob s="koba0276"]
-[ns]小林[nse]
-「あぁ……、はぁっ……」[pcms]
+[ns]Kobayashi[nse]
+"Ahh... Hah..."[pcms]
 ;//◎小さく押し殺す様に
 
 *13131|
 [fc]
-自分でも分かるくらい、息が荒くなっている。[r]
-それをごまかそうとおなかに力を入れると、[r]
-おちんちんの先が、ズボンにこすれてしまう。[pcms]
+My breathing is so ragged it's obvious. Trying to hide it by[r]
+tensing my stomach only makes the tip of my dick rub against[r]
+my pants.[pcms]
 
 *13132|
 [fc]
 [vo_kob s="koba0277"]
-[ns]小林[nse]
-「うぁぁ……」[pcms]
+[ns]Kobayashi[nse]
+"Uaah..."[pcms]
 ;//◎小さく押し殺す様に
 
 *13133|
 [fc]
-その刺激で、ボクの頭はだんだん、[r]
-もやが掛かったみたいになって行った。[pcms]
+The stimulation makes my head go foggy as if covered in a[r]
+haze.[pcms]
 
 *13134|
 [fc]
-このまま、ここでズボンを脱いで……。[r]
-ボクも、あの中に飛び込んで……。[r]
-ボクも仲間に入れて欲しい。[pcms]
+If I just took off my pants right here... And jumped into[r]
+the middle of them... I want to join them.[pcms]
 
 *13135|
 [fc]
-この女の人……。[r]
-……いや……。[r]
-ダメだよ……。[pcms]
+This woman... No... It's wrong...[pcms]
 
 *13136|
 [fc]
-そんなことは、考えちゃダメだ。[r]
-この人達に襲われたらきっと、何かに取り憑かれて[r]
-ボクもこの人達みたいになっちゃう。[pcms]
+I must not think about such things. If I get attacked by[r]
+these people, I'll become possessed and turn into one of[r]
+them.[pcms]
 
 *13137|
 [fc]
-ボクは、ヒロと、ありすと一緒に、[r]
-家に帰らなくちゃいけないんだ。[pcms]
+I have to go home with Hiro and Arisu.[pcms]
 
 *13138|
 [fc]
-でも……。[r]
-こんなのばっかり見せられたら、[r]
-我慢できるかな……。[pcms]
+But... If they keep showing me this, can I really hold[r]
+back...?[pcms]
 
 *13139|
 [fc]
 [vo_mob s="Elevator0012"]
-[ns]エレベーターガール[nse]
-「中だめぇっ！！　お願い、抜いてぇっ！！」[pcms]
+[ns]Elevator Girl[nse]
+"Not inside, please! Please pull out!!"[pcms]
 
 *13140|
 [fc]
-女の人の声が、[r]
-だんだん大きくなって、その声に合わせるみたいに[r]
-男の人達の声も大きくなっていく。[pcms]
+The woman's voice grows louder, and in sync with it, the[r]
+men's voices also increase in volume.[pcms]
 
 *13141|
 [fc]
-[ns]背広の中年[nse]
-「はあぁああ～……！　かわいい顔に……たっぷりか[r]
-　けてあげるからね～……ふはぁあぁぁ～……！」[pcms]
+[ns]Middle-aged man in a suit[nse]
+"Haaaah...! I'll cover your cute face... with lots of it...[r]
+fuhahaaa...!"[pcms]
 
 *13142|
 [fc]
-[ns]Ｔシャツの男２[nse]
-「出る……あぁ出る……出る～……っ！！」[pcms]
+[ns]T-shirt Man 2[nse]
+"It's coming... Ahh it's coming... It's coming out...!!"[pcms]
 
 *13143|
 [fc]
-[ns]Ｙシャツの男２[nse]
-「くぁああっ……！！」[pcms]
+[ns]Man in a Dress Shirt 2[nse]
+"Quaah...!!"[pcms]
 
 *13144|
 [fc]
 [vo_mob s="Elevator0013"]
-[ns]エレベーターガール[nse]
-「ひぁっ！！　いやぁっ……！！」[pcms]
+[ns]Elevator Girl[nse]
+"Hiah!! Nooo...!!"[pcms]
 
 *13145|
 [fc]
-[ns]背広の中年[nse]
-「んふうぅう～～～……っ！！」[pcms]
+[ns]Middle-aged man in a suit[nse]
+"Nfuuu~~~...!!"[pcms]
 
 *13146|
 [fc]
-[ns]Ｔシャツの男２[nse]
-「おおっ……！　おっ、あっ……！！」[pcms]
+[ns]T-shirt Man 2[nse]
+"Ooh...! Ohh, ah...!!"[pcms]
 
 *13147|
 [fc]
 [vo_mob s="Elevator0014"]
-[ns]エレベーターガール[nse]
-「んむうぅっ！！　んんーーーっ！！！」[pcms]
+[ns]Elevator Girl[nse]
+"Nmuuuh!! Nnn---!!!"[pcms]
 
 [evcg storage="HEV101e"][trans_c cross time=301]
 
 *13148|
 [fc]
-男の人達から次々に吹き出す白く濁った液が、[r]
-女の人のおっぱいや、おなかに[r]
-沢山降り注いでいった。[pcms]
+The cloudy white fluid spurting out from the men one after[r]
+another rains down on the woman's breasts and stomach in[r]
+abundance.[pcms]
 
 *13149|
 [fc]
-女の人の白い肌が、[r]
-汚れた白い液で、どんどん真っ白になっていく。[pcms]
+The woman's white skin becomes completely covered with the[r]
+dirty white liquid.[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
 *13150|
 [fc]
-ボクも……。[r]
-あの人みたいに……。[pcms]
+I also want to... Be like that person...[pcms]
 
 *13151|
 [fc]
-大勢の人達に……。[pcms]
+By many people...[pcms]
 
 *13152|
 [fc]
 [vo_kob s="koba0278"]
-[ns]小林[nse]
-「ふっ……ふふっ……」[pcms]
+[ns]Kobayashi[nse]
+"Fuh... Fufu..."[pcms]
 ;//◎押し殺した笑い
 
 [bg storage="bg09c"][trans_c cross time=1000]
@@ -277,99 +258,95 @@
 
 *13153|
 [fc]
-[ns]大倉[nse]
-「ラァッ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Raaah!!"[pcms]
 
 *13154|
 [fc]
 [vo_kob s="koba0279"]
-[ns]小林[nse]
-「……？！」[pcms]
+[ns]Kobayashi[nse]
+"...?!"[pcms]
 
 *13155|
 [fc]
-ボクは、とんでもない妄想に浸っていたせいで、[r]
-ヘンな男の人達の手が迫ってきていた事に[r]
-気が付かなかった。[pcms]
+I was so lost in my outrageous fantasy that I didn't notice[r]
+the strange men's hands approaching me.[pcms]
 
 *13156|
 [fc]
-すんでの所で、ヒロに助けられた。[pcms]
+I was saved by Hiro at the last moment.[pcms]
 
 *13157|
 [fc]
-ヒロ……。[pcms]
+Hiro...[pcms]
 
 [ChrSetEx layer=4 chbase="ookura_n02l"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *13158|
 [fc]
-[ns]大倉[nse]
-「ユウ、どうした？　行くぞ！」[pcms]
+[ns]Ookura[nse]
+"Yuuki, what's wrong? Let's go!"[pcms]
 
 *13159|
 [fc]
-あの大勢の男の人達が、全員ヒロだったら……。[r]
-ボクは、どうしていただろう……。[pcms]
+If all those men had been Hiro... What would I have done...?[pcms]
 
 [ChrSetEx layer=4 chbase="ookura_n02a"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *13160|
 [fc]
-[ns]大倉[nse]
-「エスカレーターで行こう……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Let's take the escalator..."[pcms]
 
 *13161|
 [fc]
-ヒロがこの場所から動こうとしている。[r]
-もう少し、あの女の人を見ていたかったけど、[r]
-ヒロから離れたくない。[pcms]
+Hiro is about to move from this spot. I wanted to look at[r]
+that woman a bit longer, but I don't want to be separated[r]
+from Hiro.[pcms]
 
 *13162|
 [fc]
-ボクは……。[pcms]
+I...[pcms]
 
 *13163|
 [fc]
-……また、ボクはヘンな事考えてる。[r]
-ヒロにボクの頭の中を覗かれたら……。[r]
-ボクは、絶対に嫌われる……。[pcms]
+...Again, I'm thinking strange things. If Hiro were to peek[r]
+into my mind... I would definitely be hated...[pcms]
 
 [ChrSetEx layer=4 chbase="ookura_n02b"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *13164|
 [fc]
-[ns]大倉[nse]
-「ユウ？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Yuuki?"[pcms]
 
 *13165|
 [fc]
 [vo_kob s="koba0280"]
-[ns]小林[nse]
-「あっ……」[pcms]
+[ns]Kobayashi[nse]
+"Ah..."[pcms]
 ;//◎小さく、呟くように
 
 *13166|
 [fc]
-ヒロの温かい手が、ボクの腕をつかんで引っ張る。[pcms]
+Hiro's warm hand grabs my arm and pulls me.[pcms]
 
 *13167|
 [fc]
-この手で、ボクを……。[pcms]
+With this hand, he...[pcms]
 
 *13168|
 [fc]
-心臓の動く音がボクの胸から飛び出しそうになる。[r]
-ヒロの手が、ボクを触っている。[pcms]
+The sound of my heartbeat seems like it's about to leap out[r]
+of my chest. Hiro's hand is touching me.[pcms]
 
 *13169|
 [fc]
-でもボクは、男。[r]
-ヒロも、男。[pcms]
+But I am a man. Hiro is also a man.[pcms]
 
 *13170|
 [fc]
-ボクは、どうしちゃったんだろう……。[pcms]
+What's gotten into me...[pcms]
 
 ;//♪：m05 fadeout
 [fadeoutbgm time=1000]
@@ -380,7 +357,7 @@
 [zapfade]
 
 ;//BKACKOUT
-;//－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+;//
 
 [jump storage="westtown_main10250.ks" target=*westtown_main10250_TOP]
 

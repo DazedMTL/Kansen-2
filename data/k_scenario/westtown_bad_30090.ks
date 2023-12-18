@@ -28,184 +28,179 @@
 
 *9355|
 [fc]
-あんなクズ野郎でも、助けられるのに助けなかった[r]
-せいで目の前で死なれたら、寝覚めが悪くてしょうが[r]
-ない。[pcms]
+Even if he's a scumbag, I'd feel terrible waking up knowing[r]
+I could have saved him but let him die right in front of me.[pcms]
 
 *9356|
 [fc]
 [vo_mob s="siro0001"]
-[ns]白いワンピースの女[nse]
-「あ゛ぁ～～あ゛はぁ～～……ちん゛ちん～～……[r]
-　ちんちん゛、ふたつも゛ある゛ぅ～～……！[r]
-　うれ゛しぃ～～……ははふぁはひっ！」[pcms]
+[ns]Woman in a white dress[nse]
+"Aaah~... Ahhaa~... Two cocks~... I'm so happy~...[r]
+Hahafahahic!"[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
 *9357|
 [fc]
-助けてやろうと決めて振り返ると、オッサンに白い[r]
-ワンピースを着た女が近づいてきていた。[pcms]
+As I decided to help and turned around, a woman in a white[r]
+dress was approaching the old man.[pcms]
 
 *9358|
 [fc]
-表情や動きから、多分、アレも普通の人間じゃないと[r]
-感じた俺は、慌ててオッサンの所へ走って戻った。[pcms]
+From her expression and movements, I could tell she probably[r]
+wasn't a normal human either, so I hurried back to the old[r]
+man.[pcms]
 
 *9359|
 [fc]
-急がねーと、俺までやられちまう……。[r]
-拘束具、簡単に外れりゃいいけどな……。[pcms]
+I need to hurry, or I'll be done for too... If only these[r]
+restraints would come off easily...[pcms]
 
 *9360|
 [fc]
-[ns]大倉[nse]
-「オイ、外してやるから大人しくしてろ」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Hey, keep still. I'm going to take these off."[pcms]
 
 *9361|
 [fc]
-俺はオッサンの横にしゃがみこんで、付けられた[r]
-拘束具に手をかけた。[pcms]
+I crouched down next to the old man and reached for the[r]
+restraints that had been put on him.[pcms]
 
 *9362|
 [fc]
-けど、オッサンがわめいて暴れるせいで、中々作業に[r]
-取りかかれない。[pcms]
+But the old man was screaming and thrashing about, making it[r]
+hard to get started on the task.[pcms]
 
 [ChrSetEx layer=4 chbase="sugo_n04"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *tuia23|
 [fc]
-[ns]作業服の男[nse]
-「んだァ！？　コラ！！[r]
-　誰に口聞いてんだクソガキ！！」[pcms]
+[ns]Work clothes man[nse]
+"What the!? Hey!! Who do you think you're talking to, you[r]
+little shit!!"[pcms]
 
 *9363|
 [fc]
-[ns]大倉[nse]
-「黙って大人しくしてろ！！[r]
-　外せーねだろーがッ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Shut up and stay still!! You want them off or not?!"[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *9364|
 [fc]
-俺は舌打ちをしながら、オッサンの体を押さえつけ、[r]
-ベルト状になってる拘束具にまた手をかけた。[pcms]
+I clicked my tongue while holding down the old man's body[r]
+and reached for the belt-like restraints again.[pcms]
 
 *9365|
 [fc]
-[ns]大倉[nse]
-「固ぇコレ……！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Damn, this is tight...!!"[pcms]
 
 *9366|
 [fc]
 [vo_mob s="siro0002"]
-[ns]白いワンピースの女[nse]
-「ね゛ぇ～～ちん゛ちん、ちょう゛た゛ぁい゛……！[r]
-　おま゛んこて゛も゛、おしり゛て゛も、[r]
-　すきな゛ほうて゛い゛いから゛ぁ～～……！」[pcms]
+[ns]Woman in a White Dress[nse]
+"Hey~... I want your cock, please...! Whether it's my pussy[r]
+or my butt, you can choose whichever you like~...!"[pcms]
 
 [ChrSetEx layer=4 chbase="sugo_n06"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *tuia24|
 [fc]
-[ns]作業服の男[nse]
-「いつまでかかってんだボケェ！！　ダラダラやって[r]
-　んじゃねェよコラァ！！　早くしろやクソガキ！！」[pcms]
+[ns]Work Clothes Man[nse]
+"How long are you gonna take, you idiot!! Don't dawdle, damn[r]
+it!! Hurry up, you little shit!!"[pcms]
 
 *9367|
 [fc]
-[ns]大倉[nse]
-「っせーな！！　黙ってろッ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Shut it!! Be quiet!!"[pcms]
 
 *9368|
 [fc]
-クソッ……！[r]
-やっぱ助けようなんて考えるんじゃなかったぜ……！！[r]
-こんなクズ野郎、ほっときゃ良かったんだ……！！[pcms]
+Damn it...! I shouldn't have even thought about helping...!![r]
+Should've just left this piece of trash alone...!![pcms]
 
 [ChrSetEx layer=4 chbase="sugo_n04"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *tuia25|
 [fc]
-[ns]作業服の男[nse]
-「痛ェっ！！　痛ェだろうがバカ野郎！！[r]
-　テメェ憶えとけよコラァ！！」[pcms]
+[ns]Work Clothes Man[nse]
+"Ow!! That hurts, you moron!! Remember this, you little[r]
+bastard!!"[pcms]
 
 *9369|
 [fc]
-[ns]大倉[nse]
-「ギャーギャーうるっせーんだよテメー！！[r]
-　テメーが憶えとけクズ野郎ッ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Stop your yapping, damn it!! You're the one who should[r]
+remember this, you piece of trash!!"[pcms]
 
 *9370|
 [fc]
-中々外せないコトにもイラッときていた俺は、力任せ[r]
-に引っ張り、強引にベルト部分を外して、オッサンに[r]
-付けられてた拘束具を全部、取りのぞいてやった。[pcms]
+Irritated that I couldn't get them off, I pulled with all my[r]
+might and forcibly removed the belt part of the restraints,[r]
+taking off all that had been put on the old man.[pcms]
 
 [ChrSetEx layer=4 chbase="sugo_n01"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *tuia26|
 [fc]
-[ns]作業服の男[nse]
-「ハッハァ～～っ！！　これでやっと、あの女コマせ[r]
-　るぜェ！！」[pcms]
+[ns]Work Clothes Man[nse]
+"Hahhaa~!! Now I can finally play with that woman to my[r]
+heart's content!!"[pcms]
 
 *9371|
 [fc]
-オッサンは礼の一つもしないで、すぐ傍まで来ていた[r]
-様子のおかしい女に、急いで飛びかかっていった。[pcms]
+Without even a word of thanks, the old man lunged at the[r]
+strange woman who had come close by.[pcms]
 
 *9372|
 [fc]
-[ns]大倉[nse]
-「オ、オイ！　その女は……！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Hey! That woman is...!"[pcms]
 
 *9373|
 [fc]
 [vo_mob s="siro0003"]
-[ns]白いワンピースの女[nse]
-「はや゛くぅ～～……！　ちん゛ちん、ちょうた゛い[r]
-　よ゛ぉ～～……！　おまんこに゛も゛、おしり゛[r]
-　にも、いっは゜いた゛してえ゛ぇ～～～……っ！！」[pcms]
+[ns]Woman in a white dress[nse]
+"Hurry~...! I want your cock so bad~...! Fill up my pussy or[r]
+my butt, I want it so bad~...!!"[pcms]
 
 [ChrSetEx layer=4 chbase="sugo_n02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *tuia27|
 [fc]
-[ns]作業服の男[nse]
-「ヒャアッハハァ！！　お望み通り、オレのぢんぼこ[r]
-　で死ぬほどヒィヒィ言わせてやるよォ！！」[pcms]
+[ns]Work Clothes Man[nse]
+"Hyaaahahaha!! Just as you wish, I'll make you scream with[r]
+my dick until you die!!"[pcms]
 
 *9374|
 [fc]
-ワンピースの女を肩に抱え上げると、オッサンはすぐ[r]
-近くに展示されているベッドに向かい、その上に倒れ[r]
-込んだ。[pcms]
+Lifting the woman in the white dress onto his shoulder, the[r]
+old man headed towards a bed displayed nearby and collapsed[r]
+onto it with her.[pcms]
 
 *9375|
 [fc]
-[ns]大倉[nse]
-「……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"..."[pcms]
 
 *9376|
 [fc]
-アイツ、マトモかどうかもわからない女と[r]
-ヤるつもりなのか……！？[r]
-しかもこんなトコで……！？[pcms]
+Is he really going to do it with a woman whose sanity is[r]
+questionable...!? And in a place like this...!?[pcms]
 
 *9377|
 [fc]
-やっぱり、助けない方が良かったんじゃねーのか……。[r]
-あんなヤツ、死んだ方が世のため人のためって[r]
-もんだ、クソッ……！[pcms]
+Maybe I really shouldn't have helped him... A guy like that[r]
+would be better off dead for the good of everyone, damn[r]
+it...![pcms]
 
 *9378|
 [fc]
-これ以上ココにいる必要は無いと、４階へ向かおうと[r]
-した俺は、抱きつかれ、身動きが取れなくなるまで、[r]
-イカレ女が後ろに迫っていたコトに気がつかなかった。[pcms]
+Realizing there was no need for me to stay here any longer[r]
+and about to head to the fourth floor, I didn't notice that[r]
+the crazy woman had crept up behind me and grabbed hold of[r]
+me until I couldn't move.[pcms]
 
 [fadeoutbgm time=1][wb]
 
 ;//ブロック３０１００へ
 [jump storage="westtown_bad_30100.ks" target=*westtown_bad_30100_TOP]
 
-;//－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+;//

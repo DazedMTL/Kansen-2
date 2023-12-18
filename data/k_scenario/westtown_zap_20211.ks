@@ -13,9 +13,9 @@
 
 *13870|
 [fc]
-あたしと長崎さんは、相変わらずナイフを[r]
-突きつけられたまま、エスカレーターの終点から顔を[r]
-出して、三階の様子を伺った。[pcms]
+Nagasaki-san and I, as usual, were still being threatened[r]
+with a knife, peeking out from the end of the escalator,[r]
+checking out the situation on the third floor.[pcms]
 
 ;//SE:雄叫び
 
@@ -32,8 +32,8 @@
 *13871|
 [fc]
 [vo_hay s="hayami0350"]
-[ns]ありす[nse]
-「……！」[pcms]
+[ns]Alice[nse]
+"!"[pcms]
 ;//◎息をのむ
 
 ;//♪：bgm011 stop
@@ -45,9 +45,8 @@
 
 *13872|
 [fc]
-[ns]ハザードマークの男[nse]
-「お゛ん゛な゛……と゛こ゛た゛ぁ゛……。[r]
-　は゛ら゛へ゛っ゛た゛……～～」[pcms]
+[ns]Man with a Hazard Mark[nse]
+"Wo...man...where...I'm...hungry..."[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
@@ -55,57 +54,54 @@
 
 *13873|
 [fc]
-[ns]太った若者[nse]
-「は゛ら゛へ゛っ゛た゛な゛ぁ゛～～……」[pcms]
+[ns]Fat Young Man[nse]
+"I'm...hungry..."[pcms]
 
 *13874|
 [fc]
 [vo_hay s="hayami0351"]
-[ns]ありす[nse]
-「い……いた！　一人……二人……。[r]
-　他は……見えない……」[pcms]
+[ns]Arisu[nse]
+"Th-there! One...two... The others...I can't see them..."[pcms]
 ;//◎ささやく様に
 
 *13875|
 [fc]
-目の前に広がる沢山のベッドの間を、二人の男の人が[r]
-酔っぱらいみたいにフラフラしながら、[r]
-どこへ行くでもなく歩いていた。[pcms]
+Two men were staggering around like drunkards among the many[r]
+beds, walking aimlessly without going anywhere.[pcms]
 
 [ChrSetEx layer=4 chbase="sugo_k01"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *13876|
 [fc]
-[ns]菅生[nse]
-「クッソォ……アイツら！！[r]
-　……オウ！　デッケェ姉ちゃんよォ！[r]
-　今すぐアイツら追っ払うぞ！　手伝え！！」[pcms]
+[ns]Sugou[nse]
+"Damn it...those guys!! ...Hey! Big sis! I'm gonna chase[r]
+them off right now! Help me!!"[pcms]
 
 [ChrSetEx layer=4 chbase="naga_n03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *13877|
 [fc]
 [vo_nag s="nagasaki0164"]
-[ns]千尋[nse]
-「ち……ちょっと！　押さないでよ！！ アンタ、[r]
-　ナイフ持ってるんだから、先に行きなさいよ！」[pcms]
+[ns]Chihiro[nse]
+"Wait a minute! Don't push me!! You have a knife, so you go[r]
+first!"[pcms]
 
 [ChrSetEx layer=4 chbase="sugo_k01"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *13878|
 [fc]
-[ns]菅生[nse]
-「楯になれっつってんだよ！[r]
-　俺様に万が一の事があったら、テメェ……！[r]
-　どう責任取るつもりなんだよ！　オラ！　行けよ！」[pcms]
+[ns]Sugou[nse]
+"I'm telling you to be my shield! If something happens to[r]
+me, you...! How are you gonna take responsibility?! Go on![r]
+Move it!"[pcms]
 
 [ChrSetEx layer=4 chbase="naga_n01"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *13879|
 [fc]
 [vo_nag s="nagasaki0165"]
-[ns]千尋[nse]
-「何様のつもりよ……」[pcms]
+[ns]Chihiro[nse]
+"Who do you think you are..."[pcms]
 
 ;//SE:雄叫び
 
@@ -114,68 +110,63 @@
 *13880|
 [fc]
 [vo_hay s="hayami0352"]
-[ns]ありす[nse]
-「いやあっ！　長崎さん！　危ない！」[pcms]
+[ns]Arisu[nse]
+"No! Nagasaki-san! It's dangerous!"[pcms]
 
 [ChrSetEx layer=4 chbase="etc04"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *13881|
 [fc]
-[ns]スーツの中年[nse]
-「い゛た゛ぁ゛～～！[r]
-　お゛ん゛な゛の゛こ゛ぉ゛ぉ゛ぉ゛ぉ゛！！」[pcms]
+[ns]Middle-aged man in a suit[nse]
+"It hurts...woman...over there!!"[pcms]
 
 [ChrSetEx layer=4 chbase="naga_n17"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *13882|
 [fc]
 [vo_nag s="nagasaki0166"]
-[ns]千尋[nse]
-「ひっ！！　い……いやっ！！[r]
-　何よアンタ！！」[pcms]
+[ns]Chihiro[nse]
+"Eek!! No...stop it!! What do you want?!"[pcms]
 
 *13883|
 [fc]
-エスカレーターの手すりの陰から急に飛び出した[r]
-手が、長崎さんの足首を掴んだ。[pcms]
+A hand suddenly leaped out from behind the escalator's[r]
+handrail and grabbed Nagasaki-san's ankle.[pcms]
 
 *13884|
 [fc]
-先に見つけた二人と、長崎さんとオジサンの[r]
-やりとりに気を取られて、エスカレーターの手すりの[r]
-陰に潜んでいた男には、全く気が付かなかった。[pcms]
+We were so distracted by the two men we found earlier and[r]
+the exchange between Nagasaki-san and the middle-aged man[r]
+that we didn't notice the man lurking in the shadows of the[r]
+escalator's handrail.[pcms]
 
 [ChrSetEx layer=4 chbase="sugo_k05"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *13885|
 [fc]
-[ns]菅生[nse]
-「なっ！！　何だテメェ！！[r]
-　急に出てくるんじゃねぇッ！！」[pcms]
+[ns]Sugou[nse]
+"What the!! Who are you!! Don't just pop out like that!!"[pcms]
 
 [ChrSetEx layer=4 chbase="etc04"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *13886|
 [fc]
-[ns]スーツの中年[nse]
-「し゛ろ゛い゛ふ゛と゛も゛も゛……。[r]
-　わ゛か゛く゛て゛ぇ～ぴち、ぴち～……。[r]
-　え゛へぁ～～！！」[pcms]
+[ns]Middle-aged man in a suit[nse]
+"Young and fresh...so peachy, peachy... Ehehe!!"[pcms]
 
 *13887|
 [fc]
 [vo_hay s="hayami0353"]
-[ns]ありす[nse]
-「長崎さん！」[pcms]
+[ns]Arisu[nse]
+"Nagasaki-san!"[pcms]
 
 [ChrSetEx layer=4 chbase="naga_n03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *13888|
 [fc]
 [vo_nag s="nagasaki0167"]
-[ns]千尋[nse]
-「離せ！！　この……クズがっ！！[r]
-　おおぉぉおお！！」[pcms]
+[ns]Chihiro[nse]
+"Let go!! You...scumbag!! Aaahhh!!"[pcms]
 
 ;//SE：人を殴る
 [se0 storage="SE20"]
@@ -190,18 +181,17 @@
 
 *13889|
 [fc]
-[ns]スーツの中年[nse]
-「く゛へぇ～～……、ふ、ふま゛れた゛ぁ～～！[r]
-　う゛へへぇ～～！！」[pcms]
+[ns]Middle-aged man in a suit[nse]
+"Gehhehe...I've been stepped on... Uhehehe!!"[pcms]
 
 [ChrSetEx layer=4 chbase="naga_n03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *13890|
 [fc]
 [vo_nag s="nagasaki0168"]
-[ns]千尋[nse]
-「この……ヘンタイ親父ッ！！[r]
-　バカァ！！　離せって言ってるのに！！」[pcms]
+[ns]Chihiro[nse]
+"You...perverted old man!! Idiot!! I'm telling you to let[r]
+go!!"[pcms]
 
 ;//SE：人を殴る
 [se0 storage="SE20"]
@@ -216,9 +206,9 @@
 
 *13891|
 [fc]
-[ns]菅生[nse]
-「いつまでくっついてんだ、このクソッタレ！[r]
-　俺様の女に手ェだすんじゃねぇッ！！」[pcms]
+[ns]Sugou[nse]
+"How long are you gonna stick around, you piece of trash![r]
+Don't lay your hands on my woman!!"[pcms]
 
 ;//SE:雄叫び
 
@@ -227,55 +217,52 @@
 *13892|
 [fc]
 [vo_hay s="hayami0354"]
-[ns]ありす[nse]
-「え……！！　ま……、また！？[r]
-　また来た！！　オジサン！　危ない！！」[pcms]
+[ns]Arisu[nse]
+"Eh...!! Again!? They're coming again!! Mister, it's[r]
+dangerous!!"[pcms]
 
 [ChrSetEx layer=4 chbase="sugo_k01"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *13893|
 [fc]
-[ns]菅生[nse]
-「アァ！？　何だと……！？[r]
-　うぉぉっ！！！」[pcms]
+[ns]Sugou[nse]
+"Ah!? What did you say...!? Woahhh!!"[pcms]
 
 [ChrSetEx layer=4 chbase="etc02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *13894|
 [fc]
-[ns]ハザードマークの男[nse]
-「ぐぇは゛ぁ……は゛らぁ……へった゛……」[pcms]
+[ns]Man with a Hazard Mark[nse]
+"Geha...I'm hungry..."[pcms]
 
 [ChrSetEx layer=4 chbase="etc01"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *13895|
 [fc]
-[ns]太った若者[nse]
-「お゛れに゛もぉ～……。[r]
-　お゛れに゛もぉ～……」[pcms]
+[ns]Fat Young Man[nse]
+"Me too... Me too..."[pcms]
 
 [ChrSetEx layer=4 chbase="sugo_k05"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *13896|
 [fc]
-[ns]菅生[nse]
-「テメェら気持ち悪りぃんだよ！！[r]
-　離れろクソッタレ共がよ！！」[pcms]
+[ns]Sugou[nse]
+"You guys are disgusting!! Get away from me, you freaks!!"[pcms]
 
 *13897|
 [fc]
-いつしか、長崎さんとオジサンの周りには[r]
-三人のヘンな人が集まってきていた。[pcms]
+Before we knew it, three strange people had gathered around[r]
+Nagasaki-san and the middle-aged man.[pcms]
 
 *13898|
 [fc]
-あたしはその不気味な三人に、ただ怯えてしまって、[r]
-指先一つ動かす事が出来なくなってしまっていた。[pcms]
+I was just terrified by those creepy three people and[r]
+couldn't even move a finger.[pcms]
 
 *13899|
 [fc]
-[ns]菅生[nse]
-「いい加減ぶっ殺すぞこのくそガキがッ！」[pcms]
+[ns]Sugou[nse]
+"I'm gonna kill you little shits if this keeps up!"[pcms]
 
 ;//SE:人を殴る
 [se0 storage="SE20"]
@@ -287,9 +274,8 @@
 
 *13900|
 [fc]
-[ns]太った青年[nse]
-「うふ゛ふ゛ふ゛ふ゛ふ゛～～……。[r]
-　うあ～～……」[pcms]
+[ns]Overweight Young Man[nse]
+"Ufufufufu... Uwaaah..."[pcms]
 
 ;//SE：どさっ
 
@@ -299,209 +285,193 @@
 
 *13901|
 [fc]
-オジサンが突き飛ばすと、太った男の人は[r]
-あたしの横を転がって、エスカレーターの階段を[r]
-下の階まで転がり落ちていった。[pcms]
+When the middle-aged man pushed him, the overweight man[r]
+rolled past me and tumbled down the escalator stairs to the[r]
+floor below.[pcms]
 
 *13902|
 [fc]
 [vo_hay s="hayami0355"]
-[ns]ありす[nse]
-「いやっ！！　いやぁぁぁ！！！　やだっ！！[r]
-　オジサン！　なんて事……」[pcms]
+[ns]Alice[nse]
+"No!! Noooo!!! No way!! Mister! What have you done..."[pcms]
 
 *13903|
 [fc]
-あまりの事に、転がり落ちた人から目を[r]
-離せずにいると、階段を落ちた直後、首がヘンな方に[r]
-曲がったのを見てしまった。[pcms]
+Unable to take my eyes off the person who had fallen, I saw[r]
+his neck bend in a strange direction right after he fell[r]
+down the stairs.[pcms]
 
 *13904|
 [fc]
 [vo_hay s="hayami0356"]
-[ns]ありす[nse]
-「あああぁあぁぁ！！　あの人の首……、[r]
-　ヘンな方に……！！　いやあぁぁ！！」[pcms]
+[ns]Arisu[nse]
+"Aaaaahhh!! That person's neck... it's bent in a weird[r]
+way... Noooo!!"[pcms]
 
 *13905|
 [fc]
-死んだ……。[r]
-また、人が死んじゃった……！！[pcms]
+He's dead... Another person has died...!![pcms]
 
 *13906|
 [fc]
-今体を動かすと、自分の首まであの人みたいに[r]
-なってしまいそうで、それが怖くて、ますます[r]
-太った人から目を離せなくなってしまっていた。[pcms]
+If I move now, I feel like my neck will end up like that[r]
+person's, and that fear makes it even harder for me to look[r]
+away from the overweight man.[pcms]
 
 *13907|
 [fc]
-気持ち悪い！[r]
-気持ち悪い！！[pcms]
+It's disgusting! It's so disgusting!![pcms]
 
 *13908|
 [fc]
-折れた首はそのまま、だらりと垂れている。[pcms]
+The broken neck just hung there, dangling limply.[pcms]
 
 *13909|
 [fc]
 [vo_hay s="hayami0357"]
-[ns]ありす[nse]
-「う……うぇぇ！！　げほっ……うぅ……」[pcms]
+[ns]Arisu[nse]
+"Ugh...ughh!! Gag...uhh..."[pcms]
 ;//◎嘔吐
 
 *13910|
 [fc]
-あたし、いつから夢を見てるの？[r]
-夢ならもう覚めて！　[r]
-お願い……！！[pcms]
+Have I been dreaming this whole time? If it's a dream,[r]
+please let me wake up! Please...!![pcms]
 
 [ChrSetEx layer=4 chbase="sugo_k03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *13911|
 [fc]
-[ns]菅生[nse]
-「オイコラ！　離せ！！[r]
-　離せっつってんだろボケェ！！[r]
-　ヤメロぉ！！」[pcms]
+[ns]Sugou[nse]
+"Hey you! Let go!! I said let go, damn it!! Stop it!!"[pcms]
 
 *13912|
 [fc]
 [vo_hay s="hayami0358"]
-[ns]ありす[nse]
-「オジサン！？　あ……あぁああぁぁ！！」[pcms]
+[ns]Alice[nse]
+"Mister!? Ah...ahhhhh!!"[pcms]
 
 *13913|
 [fc]
-オジサンは坊主頭の人に掴まれ、[r]
-地面を引きずられて行った。[pcms]
+The middle-aged man was grabbed by a bald man and dragged[r]
+across the ground.[pcms]
 
 *13914|
 [fc]
-いくら小柄とはいえ、男のオジサンが。[r]
-それに、手足を必死にジタバタさせていると[r]
-言うのに、簡単に引きずられていく。[pcms]
+No matter how small he was, a grown man was being dragged so[r]
+easily despite desperately flailing his arms and legs.[pcms]
 
 [ChrSetEx layer=4 chbase="sugo_k05"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *13915|
 [fc]
-[ns]菅生[nse]
-「オイ！　オッパイちゃん！！[r]
-　ボサッと見てねェで助けろ！！　何してんだ！[r]
-　テメェもだよ！！　離せコンチクショウ！！」[pcms]
+[ns]Sugou[nse]
+"Hey! Boobs girl!! Don't just stand there gawking, help me[r]
+out!! What are you doing! You too, damn it! Let go, you[r]
+bastard!!"[pcms]
 
 [ChrSetEx layer=4 chbase="etc02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *13916|
 [fc]
-[ns]ハザードマークの男[nse]
-「はら゛ぁ～へった゛ぁ～～……、うぅあ～～」[pcms]
+[ns]Hazard Mark Man[nse]
+"I'm so hungry..."[pcms]
 
 *13917|
 [fc]
 [vo_hay s="hayami0359"]
-[ns]ありす[nse]
-「オジサン！！」[pcms]
+[ns]Alice[nse]
+"Mister!!"[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *13918|
 [fc]
-このオジサンは、憎い！[r]
-ホントは助けたくない……。[pcms]
+I hate this man! I really don't want to help him...[pcms]
 
 *13919|
 [fc]
-でも、見捨てるなんて出来ない……。[pcms]
+But I can't just abandon him...[pcms]
 
 *13920|
 [fc]
-オジサンを助けるかどうか迷うあたしの耳に、[r]
-長崎さんの悲鳴じみた声が飛び込んできた。[pcms]
+As I hesitated whether to help the old man, Chihiro's[r]
+scream-like voice reached my ears.[pcms]
 
 [ChrSetEx layer=4 chbase="naga_n03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *13921|
 [fc]
 [vo_nag s="nagasaki0169"]
-[ns]千尋[nse]
-「ありすさん！！　手を貸して！！」[pcms]
+[ns]Chihiro[nse]
+"Alice-san!! Help me!!"[pcms]
 
 *13922|
 [fc]
-オジサンは、武器も持ってるし……。[r]
-男の人だし……。[pcms]
+The old man has a weapon... And he's a man...[pcms]
 
 *13923|
 [fc]
-…………。[r]
-……。[pcms]
+...[pcms]
 
 *13924|
 [fc]
-今は、長崎さんが先！！[pcms]
+Right now, Chihiro comes first!![pcms]
 
 [ChrSetEx layer=4 chbase="sugo_k05"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *13925|
 [fc]
-[ns]菅生[nse]
-「見捨てるつもりかっ！！　畜生！　覚えてろよ！！[r]
-　オッパイちゃんよォ！！　オメェも……、[r]
-　オメェもぶっ殺してやっかんなぁ！！　うぉぉ！」[pcms]
+[ns]Sugou[nse]
+"You're going to abandon me, huh!! Damn it! Remember this!![r]
+Boobs girl!! You too... I'll kill you too, damn it!! Uooo!"[pcms]
 
 *13926|
 [fc]
-オジサンは腕や足を力任せに振り回して、[r]
-抵抗していた。[pcms]
+The old man was flailing his arms and legs with all his[r]
+might, resisting.[pcms]
 
 *13927|
 [fc]
-それでも坊主頭の人は、それを気にしないで、[r]
-オジサンを寝具売り場の奥へと引きずって行った。[pcms]
+Yet the bald man didn't care and dragged the old man towards[r]
+the back of the bedding section.[pcms]
 
 [ChrSetEx layer=4 chbase="etc04"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *13928|
 [fc]
-[ns]スーツの中年[nse]
-「お゛お゛～～……」[pcms]
+[ns]Middle-aged man in a suit[nse]
+"Ooohh..."[pcms]
 
 [ChrSetEx layer=4 chbase="naga_n17"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *13929|
 [fc]
-うめき声を背中に受けながら振り返ると、[r]
-そこには男に抱きつかれ、もがいている長崎さんの[r]
-姿があった。[pcms]
+As I turned around with his groans at my back, I saw Chihiro[r]
+struggling, embraced by a man.[pcms]
 
 *13930|
 [fc]
 [vo_nag s="nagasaki0170"]
-[ns]千尋[nse]
-「ヘンタイ親父！！　くたばれ！！[r]
-　いい加減にアタシから離れろ！　キモイ！[r]
-　うあっ……んぶっ……」[pcms]
+[ns]Chihiro[nse]
+"Perverted old man!! Drop dead!! Get away from me already![r]
+Gross! Ugh...ngh..."[pcms]
 ;//◎感染者にキスされる
 
 [ChrSetEx layer=4 chbase="etc04"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *13931|
 [fc]
-[ns]スーツの中年[nse]
-「んう゛ぇぁあ～……、わか゛いこ゛のくち゛ぃ～、[r]
-　あま゛ぁい゛ぃぃ～～……」[pcms]
+[ns]Middle-aged man in a suit[nse]
+"Nnghh...young girl's skin is so sweet..."[pcms]
 
 [ChrSetEx layer=4 chbase="naga_n03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *13932|
 [fc]
 [vo_nag s="nagasaki0171"]
-[ns]千尋[nse]
-「ん……んぁぁあぁあっ！！[r]
-　ぷあっ！！　はぁッ……はぁッ……、こ……この、[r]
-　このクソ外道！！　死ねぇぇ！！」[pcms]
+[ns]Chihiro[nse]
+"Nn...nnahhh!! Pah!! Hah...hah...you...you bastard!! Die!!"[pcms]
 
 ;//SE：人を殴る
 [se0 storage="SE20"]
@@ -516,69 +486,66 @@
 
 *13933|
 [fc]
-長崎さんの足が空気を裂くと、何かが潰れる様な[r]
-鈍い音と共に、スーツ姿の男の顔面を潰していた。[r]
-その勢いで男は数歩後ろによろめいた。[pcms]
+As Chihiro's legs cut through the air, a dull sound of[r]
+something being crushed echoed as she smashed the face of[r]
+the man in the suit. The force made the man stagger[r]
+backwards.[pcms]
 
 *13934|
 [fc]
-[ns]スーツの中年[nse]
-「うほ゛ぁ～～……」[pcms]
+[ns]Middle-aged man in a suit[nse]
+"Ughh..."[pcms]
 
 *13935|
 [fc]
 [vo_hay s="hayami0360b"]
-[ns]ありす[nse]
-「長崎さん！！[r]
-　大丈夫！？　怪我、無い！？」[pcms]
+[ns]Alice[nse]
+"Chihiro-san!! Are you okay!? Are you hurt!?"[pcms]
 
 [ChrSetEx layer=4 chbase="naga_n03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *13936|
 [fc]
 [vo_nag s="nagasaki0172"]
-[ns]千尋[nse]
-「怪我は無い……けど！！[r]
-　このクソ親父！！　殺してやる！！[r]
-　殺してやる！！　よくも！！」[pcms]
+[ns]Chihiro[nse]
+"I'm not hurt...but this damn old man!! I'll kill him!! I'll[r]
+kill him for sure!! How dare he!!"[pcms]
 
 *13937|
 [fc]
 [vo_nag s="nagasaki0173"]
-[ns]千尋[nse]
-「よくも……アタシの……アタシの……。[r]
-　うぅ……ぐすっ………うぅぉおぉぉお！！」[pcms]
+[ns]Chihiro[nse]
+"How dare he...touch me...my...uhh...sob...uhhooohh!!"[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *13938|
 [fc]
 [vo_hay s="hayami0361"]
-[ns]ありす[nse]
-「長崎さん！！　やめて！！[r]
-　そんな人に構ってないで、今のうちに逃げよう！？」[pcms]
+[ns]Alice[nse]
+"Chihiro-san!! Stop it!! Don't bother with such a person,[r]
+let's escape while we can!?"[pcms]
 
 *13939|
 [fc]
-長崎さんは頭に血が上ったのか、[r]
-あたしの叫びを無視して、[r]
-スーツ姿の人に飛びかかった。[pcms]
+Chihiro, blood rushing to her head, ignored my screams and[r]
+lunged at the man in the suit.[pcms]
 
 [ChrSetEx layer=4 chbase="naga_n03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *13940|
 [fc]
 [vo_nag s="nagasaki0174"]
-[ns]千尋[nse]
-「後悔するまで殺してやる！！　殺してから、[r]
-　目も、耳も！　全部剔って火を付けて！[r]
-　その口に突っ込んでやる！！」[pcms]
+[ns]Chihiro[nse]
+"I'll kill you until you regret it!! After killing you, I'll[r]
+gouge out your eyes, ears! Everything! And set them on fire![r]
+I'll stuff them in your mouth!!"[pcms]
 
 *13941|
 [fc]
 [vo_hay s="hayami0362"]
-[ns]ありす[nse]
-「きゃあっ！！」[pcms]
+[ns]Arisu[nse]
+"Kyaa!!"[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
@@ -601,14 +568,13 @@
 
 *13942|
 [fc]
-長崎さんの勢いに驚いたあたしは、[r]
-思わず目を閉じてしまっていた。[pcms]
+Surprised by Chihiro's momentum, I involuntarily closed my[r]
+eyes.[pcms]
 
 *13943|
 [fc]
-ゆっくりと目を開けると、そこにはまた、[r]
-スーツ姿の人に組み付かれている[r]
-長崎さんの姿があった。[pcms]
+When I slowly opened my eyes again, there was Chihiro, still[r]
+being grappled by the man in the suit.[pcms]
 
 ;//<ImageFade 6,60,OFF,OFF>
 
@@ -616,52 +582,48 @@
 
 *13944|
 [fc]
-[ns]スーツの中年[nse]
-「わか゛いこ゛ぉ～～……。むは゛は゛は゛！[r]
-　つ゛か゛まえ゛た゛ぁ～～！！」[pcms]
+[ns]Middle-aged man in a suit[nse]
+"Young girl~... Muhahaha! You're caught now~!"[pcms]
 
 [ChrSetEx layer=4 chbase="naga_n15"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *13945|
 [fc]
 [vo_nag s="nagasaki0175"]
-[ns]千尋[nse]
-「くっ……！　くそぉぉぉおおお！！[r]
-　いやぁぁあぁぁあぁあぁああ！！！[r]
-　気持ち悪い！！　ありすさん！！　助けて！！」[pcms]
+[ns]Chihiro[nse]
+"Ugh...! Damn it all!! Nooo!! Disgusting!! Alice-san!! Help[r]
+me!!"[pcms]
 
 [ChrSetEx layer=4 chbase="etc04"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *13946|
 [fc]
-[ns]スーツの中年[nse]
-「しろ゛い゛～くひ゛ぃ～～……、う、うまそ゛～！[r]
-　んぁ゛あ゛～～……」[pcms]
+[ns]Middle-aged man in a suit[nse]
+"Your white neck~ so delicious~ Nghaa~..."[pcms]
 
 *13947|
 [fc]
-スーツ姿の男の人は、長崎さんの首筋に噛みつこうと[r]
-しているみたいだった。[pcms]
+The man in the suit seemed to be trying to bite into[r]
+Chihiro's neck.[pcms]
 
 *13948|
 [fc]
 [vo_hay s="hayami0363"]
-[ns]ありす[nse]
-「長崎さんを離せ！！　この！　離れてっ！！　[r]
-　お願い！！」[pcms]
+[ns]Alice[nse]
+"Let go of Chihiro-san!! You! Get off her!! Please!!"[pcms]
 
 *13949|
 [fc]
-[ns]スーツの中年[nse]
-「お゛まえ゛はぁ～～……あ゛とた゛ぁ～……」[pcms]
+[ns]Middle-aged man in a suit[nse]
+"You're next~...after this~..."[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *13950|
 [fc]
 [vo_hay s="hayami0364"]
-[ns]ありす[nse]
-「ぐっ……うわぁぁあっ！！」[pcms]
+[ns]Arisu[nse]
+"Guh...uwaaaahh!!"[pcms]
 
 ;//SE：人を殴る
 [se0 storage="SE20"]
@@ -675,29 +637,29 @@
 
 *13951|
 [fc]
-スーツ姿の人を引き離そうと飛びかかったけど、[r]
-まるで紙切れの様にはねのけられてしまった。[pcms]
+I tried to pull the man in the suit off, but I was brushed[r]
+aside like a piece of paper.[pcms]
 
 *13952|
 [fc]
-このままじゃ……長崎さん、噛みつかれちゃう……。[pcms]
+If this goes on... Chihiro will be bitten...[pcms]
 
 *13953|
 [fc]
 [vo_hay s="hayami0365"]
-[ns]ありす[nse]
-「何とかしなきゃ……。[r]
-　何か……あたしでも使える武器があれば……！」[pcms]
+[ns]Alice[nse]
+"I have to do something... If only I had some kind of weapon[r]
+I could use...!"[pcms]
 
 *13954|
 [fc]
-二階の工具売り場にいた時に、[r]
-何か持ってくればよかった。[pcms]
+If only I had taken something when I was at the tool section[r]
+on the second floor.[pcms]
 
 *13955|
 [fc]
-そう悔やみながら、あたりを見回すと、[r]
-枝の長い間接照明スタンドが置いてあるのが見えた。[pcms]
+As I regretted this, looking around, I saw a floor lamp with[r]
+a long branch.[pcms]
 
 ;//★ＢＧＳ：照明器具売り場
 
@@ -706,37 +668,35 @@
 *13956|
 [fc]
 [vo_hay s="hayami0366"]
-[ns]ありす[nse]
-「そうだ……！　アレを使えば！！」[pcms]
+[ns]Arisu[nse]
+"That's it...! I can use that!!"[pcms]
 
 *13957|
 [fc]
-照明スタンドに駆け寄り、それを手に取って、[r]
-長崎さんに組み付いている男の人めがけて[r]
-力一杯突いた。[pcms]
+I ran to the floor lamp, grabbed it, and thrust it with all[r]
+my might at the man grappling Chihiro.[pcms]
 
 [cutin_int][trans_c cross time=300]
 
 *13958|
 [fc]
 [vo_hay s="hayami0367"]
-[ns]ありす[nse]
-「いい加減にしてっ！！[r]
-　この！！　この！！　この！！」[pcms]
+[ns]Alice[nse]
+"Enough already!! You!! You!! You!!"[pcms]
 ;//◎殺す勢いで
 
 [ChrSetEx layer=4 chbase="etc04"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *13959|
 [fc]
-[ns]スーツの中年[nse]
-「く゛ぁっ……あ゛あ゛あ゛！」[pcms]
+[ns]Middle-aged man in a suit[nse]
+"Gah...ahhh!"[pcms]
 
 *13960|
 [fc]
 [vo_hay s="hayami0368"]
-[ns]ありす[nse]
-「えいッ！　このぉおおぉぉ！！」[pcms]
+[ns]Alice[nse]
+"Take this! You bastard!!"[pcms]
 
 ;//★ＳＥ：人を殴る
 [se0 storage="SE20"]
@@ -749,66 +709,64 @@
 
 *13961|
 [fc]
-[ns]スーツの中年[nse]
-「あ゛か゛あっ……」[pcms]
+[ns]Middle-aged man in a suit[nse]
+"Aggghh..."[pcms]
 
 *13962|
 [fc]
 [vo_hay s="hayami0369"]
-[ns]ありす[nse]
-「や……やった！」[pcms]
+[ns]Alice[nse]
+"Did it...!"[pcms]
 
 [ChrSetEx layer=4 chbase="naga_n15"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *13963|
 [fc]
 [vo_nag s="nagasaki0176"]
-[ns]千尋[nse]
-「げほっ……げほっ……」[pcms]
+[ns]Chihiro[nse]
+"Cough...cough..."[pcms]
 
 *13964|
 [fc]
-あたしが突き出したスタンドは、スーツ姿の人の[r]
-胸に当たり、長崎さんを解放する事が出来た。[pcms]
+The stand I thrust out hit the chest of the man in the suit,[r]
+freeing Chihiro.[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *13965|
 [fc]
 [vo_hay s="hayami0370"]
-[ns]ありす[nse]
-「よかった！　これがあれば、[r]
-　あたしでもなんとか出来そう！」[pcms]
+[ns]Arisu[nse]
+"Thank goodness! With this, even I can manage somehow!"[pcms]
 
 *13966|
 [fc]
-長崎さんがスーツ姿の人から離れた事を確認して、[r]
-勢い任せに何度も何度も、照明スタンドでスーツ姿の[r]
-人を突き回した。[pcms]
+After confirming that Chihiro was away from the man in the[r]
+suit, I repeatedly thrust the floor lamp at him with all my[r]
+might.[pcms]
 
 [ChrSetEx layer=4 chbase="etc04"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *13967|
 [fc]
-[ns]スーツの中年[nse]
-「か゛あ゛あ゛あ゛～～……」[pcms]
+[ns]Middle-aged man in a suit[nse]
+"Gaaaahhh..."[pcms]
 
 *13968|
 [fc]
-スーツ姿の人がよろめき、エスカレーターの縁に[r]
-手をかけた時、あたしは手を止めるべきだった。[pcms]
+The man in the suit stumbled and reached for the edge of the[r]
+escalator; that's when I should have stopped.[pcms]
 
 *13969|
 [fc]
-何故かあたしは興奮してしまっていて、力の加減が[r]
-出来なくなってしまっていた。[pcms]
+For some reason, I was so excited that I couldn't control my[r]
+strength anymore.[pcms]
 
 *13970|
 [fc]
 [vo_hay s="hayami0370a"]
-[ns]ありす[nse]
-「あっちにいけ！！　この！！　ハアッ！　ハアッ！[r]
-　あはっ！　このっ！！　えいっ！！」[pcms]
+[ns]Alice[nse]
+"Go away!! You!! Haah! Haah! Ahah! You!! Ei!"[pcms]
 ;//◎楽しくて興奮しているように
 
 ;//SE：人を殴る
@@ -822,8 +780,8 @@
 
 *13971|
 [fc]
-[ns]スーツの中年[nse]
-「く゛あ゛っ……あ゛ぁ！」[pcms]
+[ns]Middle-aged man in a suit[nse]
+"Guah...ahh!"[pcms]
 
 ;//★画面揺らし
 
@@ -838,16 +796,15 @@
 *13972|
 [fc]
 [vo_nag s="nagasaki0177"]
-[ns]千尋[nse]
-「あ……」[pcms]
+[ns]Chihiro[nse]
+"Ah..."[pcms]
 
 *13973|
 [fc]
 [vo_hay s="hayami0371"]
-[ns]ありす[nse]
-「ハアッ……ハアッ……！[r]
-　ふふっ……ふふふふふっ！！　長崎さん！！[r]
-　あの人、追い払ったよ！　あたし追い払ったよ！」[pcms]
+[ns]Alice[nse]
+"Haah...Haah...! Fufu...fufufufufu!! Chihiro-san!! I drove[r]
+that man away! I did it!"[pcms]
 
 ;//♪：bgm009 fadeout
 [fadeoutbgm time=1000]
@@ -856,24 +813,24 @@
 
 *13974|
 [fc]
-長崎さんを襲っていた男の人が、視界から消えた。[r]
-その事に喜ぶあたしと対照的に、長崎さんは真っ青な[r]
-顔をして、肩を震わせている。[pcms]
+The man who was attacking Chihiro disappeared from my sight.[r]
+Contrary to my joy, Chihiro-san had a pale face and was[r]
+trembling.[pcms]
 
 [ChrSetEx layer=4 chbase="naga_n17"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *13975|
 [fc]
 [vo_nag s="nagasaki0178"]
-[ns]千尋[nse]
-「さっきの人……そこから……落ちていった……」[pcms]
+[ns]Chihiro[nse]
+"That man from before...he fell from there..."[pcms]
 
 *13976|
 [fc]
 [vo_hay s="hayami0372"]
-[ns]ありす[nse]
-「うん！！　そう……！　やっつけたよ！[r]
-　追い払った……ここから落とした……」[pcms]
+[ns]Alice[nse]
+"Yeah!! That's right...! I beat him! I drove him away...I[r]
+pushed him off from here..."[pcms]
 
 ;//♪：bgm012
 [bgm storage="bgm012"]
@@ -882,168 +839,156 @@
 
 *13977|
 [fc]
-あたしは、長崎さんに言われるまで、事の重大さに[r]
-気が付いていなかった。[pcms]
+I didn't realize the gravity of the situation until Chihiro-[r]
+san told me.[pcms]
 
 *13978|
 [fc]
 [vo_hay s="hayami0373"]
-[ns]ありす[nse]
-「……いやぁぁあぁぁああぁぁあああ！！　[r]
-　あたし……なんて事……なんて事したの！？[r]
-　これじゃまるで……オジサンと一緒じゃない！」[pcms]
+[ns]Alice[nse]
+"...Noooooo!! What have I done...!? This is just like...just[r]
+like that old man!"[pcms]
 
 *13979|
 [fc]
-エスカレーターの上から下の階までの高さは、[r]
-８メートルくらいある。[pcms]
+The height from the top of the escalator to the lower floor[r]
+is about 8 meters.[pcms]
 
 *13980|
 [fc]
-いくら様子がおかしい人だといえ……。[r]
-いくら長崎さんを助けるためとはいえ……。[pcms]
+No matter how strange that person was... No matter that it[r]
+was to save Chihiro-san...[pcms]
 
 *13981|
 [fc]
-あたしは、ここから人を突き落とした……！[r]
-突き落としてしまった！！[pcms]
+I pushed someone off from here...! I pushed him off!![pcms]
 
 *13982|
 [fc]
-さっきの太った男の人みたいに、下手したら[r]
-首の骨が折れて、死んでしまうかもしれない。[pcms]
+Just like the fat man before, he might have broken his neck[r]
+and died.[pcms]
 
 *13983|
 [fc]
 [vo_hay s="hayami0374"]
-[ns]ありす[nse]
-「いやぁぁあぁああああぁ！！[r]
-　あた……あ、あたし……、ひ……人を……。[r]
-　人を殺しちゃったよ！　いやぁっぁあぁぁぁぁ！」[pcms]
+[ns]Alice[nse]
+"Nooooo!! I...I...I killed someone...! Noooooo!"[pcms]
 
 *13984|
 [fc]
 [vo_hay s="hayami0375"]
-[ns]ありす[nse]
-「うわっ……うわぁぁぁぁぁぁぁあぁぁぁあ！！！[r]
-　あたし……、人を殺しちゃった……」[pcms]
+[ns]Arisu[nse]
+"Uwah...uwaaaaaaaah!! I...I killed someone..."[pcms]
 
 [ChrSetEx layer=4 chbase="naga_n03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *13985|
 [fc]
 [vo_nag s="nagasaki0179"]
-[ns]千尋[nse]
-「仕方ないのよ！！　あれは、正当防衛よ！！[r]
-　あの人がアタシ達を襲ってこなければ、[r]
-　こんな事にはなってないのよ！！」[pcms]
+[ns]Chihiro[nse]
+"It can't be helped!! It was self-defense!! If that man[r]
+hadn't attacked us, this wouldn't have happened!!"[pcms]
 
 *13986|
 [fc]
 [vo_nag s="nagasaki0180"]
-[ns]千尋[nse]
-「それに……まだあの人が死んだって決まった[r]
-　訳じゃない！　泣くのは確認してからにして！」[pcms]
+[ns]Chihiro[nse]
+"Besides...it's not certain yet that he's dead! Wait until[r]
+we confirm before you cry!"[pcms]
 
 *13987|
 [fc]
 [vo_hay s="hayami0376"]
-[ns]ありす[nse]
-「いやだ！！　あたし……見たくない！！[r]
-　生きてたとしても、死んじゃってたとしても！[r]
-　あたしが酷いことしたのは間違いないんだから！」[pcms]
+[ns]Arisu[nse]
+"No!! I don't want to see!! Whether he's alive or dead! It's[r]
+undeniable that I did something terrible!"[pcms]
 
 *13988|
 [fc]
 [vo_hay s="hayami0377"]
-[ns]ありす[nse]
-「あの人が死んじゃってたら……あたし……。[r]
-　どうしよう！　どうなるんだろう……！！」[pcms]
+[ns]Alice[nse]
+"If that man is dead...what should I do? What's going to[r]
+happen to me...!!"[pcms]
 
 [ChrSetEx layer=4 chbase="naga_n01"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *13989|
 [fc]
 [vo_nag s="nagasaki0181"]
-[ns]千尋[nse]
-「落ち着きなさい！！　アタシが見てきて[r]
-　あげるから……。貴女はそこにいて……。[r]
-　いい、落ち着くのよ……何があっても……」[pcms]
+[ns]Chihiro[nse]
+"Calm down!! I'll go and check... You stay here... Calm[r]
+down, no matter what happens..."[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *13990|
 [fc]
-長崎さんに言い聞かされ、その場に立ちつくす[r]
-あたしの体に、急に寒気が襲ってきた。[pcms]
+Chilled to the bone, I stood rooted to the spot as Chihiro-[r]
+san instructed me.[pcms]
 
 *13991|
 [fc]
-もし、あの人が死んでしまっていたら……。[r]
-あたしは、この先いったいどうしたら……。[pcms]
+If that man had died... What on earth should I do from now[r]
+on...?[pcms]
 
 *13992|
 [fc]
-震えが止まらない体を必死で押さえようと、[r]
-両手で胸をきつく抱きしめた。[r]
-でも、それはいっこうに止まることは無かった。[pcms]
+Trying desperately to stop my uncontrollable shaking, I[r]
+hugged my chest tightly with both hands. But it didn't stop[r]
+at all.[pcms]
 
 *13993|
 [fc]
-床に目を落としてガタガタ震えるあたしに、[r]
-戻って来た長崎さんが、不思議そうな声で[r]
-語りかけてきた。[pcms]
+As I looked down at the floor, trembling, Chihiro-san[r]
+returned and spoke to me in a puzzled voice.[pcms]
 
 [ChrSetEx layer=4 chbase="naga_n05"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *13994|
 [fc]
 [vo_nag s="nagasaki0182"]
-[ns]千尋[nse]
-「……落ち着いて聞いて……。[r]
-　あの人……下にはいなかった……」[pcms]
+[ns]Chihiro[nse]
+"...Calm down and listen... That man...wasn't down there..."[pcms]
 
 *13995|
 [fc]
 [vo_hay s="hayami0378"]
-[ns]ありす[nse]
-「……！？　じゃあ、あたしが落としたのは……！？[r]
-　あれは、一体……？」[pcms]
+[ns]Arisu[nse]
+"...!? Then, what did I drop...!? What on earth was[r]
+that...?"[pcms]
 
 *13996|
 [fc]
-夢……かな……。[pcms]
+Was it a dream...?[pcms]
 
 *13997|
 [fc]
-でも、そんな都合のいい話なんかじゃない。[r]
-なにより、あたしの手には、あの人を突いた時の[r]
-感覚が残っている。[pcms]
+But it couldn't be such a convenient story. Above all, the[r]
+sensation of pushing that man remained in my hands.[pcms]
 
 *13998|
 [fc]
 [vo_nag s="nagasaki0183"]
-[ns]千尋[nse]
-「あの人はいなかったけど……血……血が、廊下に[r]
-　付いてた……。でも信じて。あの人は、[r]
-　エスカレーターの所にはいなかったわ……」[pcms]
+[ns]Chihiro[nse]
+"That man wasn't there, but...blood...there was blood in the[r]
+hallway... But believe me. That man wasn't at the[r]
+escalator..."[pcms]
 
 *13999|
 [fc]
 [vo_hay s="hayami0379"]
-[ns]ありす[nse]
-「……どういう事……？[r]
-　生きてた……の？　それとも……？」[pcms]
+[ns]Arisu[nse]
+"...What does it mean...? Was he alive...? Or...?"[pcms]
 
 *14000|
 [fc]
-落ちた時、偶然助かって、どこかに歩いて行ったの？[r]
-それとも……誰かが運んだ……？[pcms]
+Did he miraculously survive the fall and walk away[r]
+somewhere? Or was he carried away by someone...?[pcms]
 
 *14001|
 [fc]
-どうなってるの……？[r]
-二階に誰かがいて、あの人を……？[pcms]
+What's going on...? Was there someone on the second floor[r]
+who took that man away...?[pcms]
 
 ;//SE:雄叫び
 
@@ -1054,68 +999,65 @@
 *14002|
 [fc]
 [vo_nag s="nagasaki0184"]
-[ns]千尋[nse]
-「……！！　いけない！！　奴らだわ！！[r]
-　今は自分の事を考えなさい！　あの人は、きっと[r]
-　生きてる！　貴女は人殺しなんてしていない！」[pcms]
+[ns]Chihiro[nse]
+"...!! No good!! It's them!! Think about yourself now! That[r]
+man must be alive! You haven't killed anyone!"[pcms]
 
 *14003|
 [fc]
 [vo_nag s="nagasaki0185"]
-[ns]千尋[nse]
-「だから、今は……今は、ここから[r]
-　逃げ出す事だけを考えて！」[pcms]
+[ns]Chihiro[nse]
+"So for now...now, we need to think about escaping from[r]
+here!"[pcms]
 
 *14004|
 [fc]
-そう叫ぶ長崎さんは、あたしを抱き、[r]
-映画のカップルがするように、胸にあたしの顔を[r]
-押しつけた。[pcms]
+Chihiro-san shouted and hugged me, pressing my face against[r]
+her chest like a couple in a movie.[pcms]
 
 *14005|
 [fc]
 [vo_hay s="hayami0380"]
-[ns]ありす[nse]
-「長崎さん……！」[pcms]
+[ns]Arisu[nse]
+"Chihiro-san...!"[pcms]
 
 *14006|
 [fc]
-長崎さんは険しい顔つきで辺りを見回すと、一点を[r]
-見つめ、つぶやいた。[pcms]
+Chihiro-san looked around with a stern face, then focused on[r]
+one spot and murmured.[pcms]
 
 [ChrSetEx layer=4 chbase="naga_n02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *14007|
 [fc]
 [vo_nag s="nagasaki0186"]
-[ns]千尋[nse]
-「そうだ……寝具売り場のベッドに隠れるのよ。[r]
-　時間稼ぎくらいにはなるでしょう。[r]
-　それに……、少しは、休めるかもしれない……」[pcms]
+[ns]Chihiro[nse]
+"That's right...we'll hide in the bed at the bedding[r]
+department. It should buy us some time. And maybe...we can[r]
+get some rest..."[pcms]
 
 *14008|
 [fc]
-長崎さんはあたしを抱いたまま、[r]
-寝具売り場へと歩き始めた。[pcms]
+Chihiro-san began walking towards the bedding department[r]
+while holding me.[pcms]
 
 *14009|
 [fc]
-長崎さんの胸は、柔らかく暖かで、[r]
-それを心地よく感じたあたし。[pcms]
+Chihiro-san's chest was soft and warm, and I felt[r]
+comfortable against it.[pcms]
 
 *14010|
 [fc]
-それまで感じていた動揺が、少しだけ。[r]
-ほんの少しだけ、押さえられた。[pcms]
+The turmoil I had felt until then was slightly, just[r]
+slightly, suppressed.[pcms]
 
 *14011|
 [fc]
-今だけ……。[r]
-今だけは、さっきの事は忘れよう。[pcms]
+Just for now... Let's forget about what happened just now.[pcms]
 
 *14012|
 [fc]
-無事に、ここから逃れる事を考えよう……。[pcms]
+Let's think about safely escaping from here...[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 

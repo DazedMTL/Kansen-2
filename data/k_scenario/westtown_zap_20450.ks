@@ -19,28 +19,26 @@
 
 *16100|
 [fc]
-重い足を引きずって、[r]
-ようやくトイレの前にたどり着いた。[pcms]
+Dragging my heavy feet, I finally made it to the front of[r]
+the bathroom.[pcms]
 
 *16101|
 [fc]
-アタシの後ろには、何人かの男どもが[r]
-付いて歩いてきていたけど、[r]
-そんなことはどうでもよかった。[pcms]
+Some guys had been following me, but I didn't care about[r]
+that.[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
 *16102|
 [fc]
-このクズ共が、トイレに入って来る前に、[r]
-アタシはあの子を連れて、逃げ出さなければ[r]
-ならない。[pcms]
+Before these scumbags could enter the bathroom, I had to[r]
+escape with that girl.[pcms]
 
 *16103|
 [fc]
 [vo_nag s="nagasaki0302"]
-[ns]千尋[nse]
-「ちかよるな……アタシにちかよるな……！！」[pcms]
+[ns]Chihiro[nse]
+"Don't come any closer... Don't come any closer to me...!!"[pcms]
 
 ;//SE:人を殴る
 [se0 storage="SE20"]
@@ -52,8 +50,8 @@
 
 *16104|
 [fc]
-[ns]トランクス姿の青年[nse]
-「あがあっっ……！」[pcms]
+[ns]A young man in trunks[nse]
+"Agaaah...!"[pcms]
 
 ;//SE:人が倒れる
 
@@ -64,28 +62,29 @@
 *16105|
 [fc]
 [vo_nag s="nagasaki0303"]
-[ns]千尋[nse]
-「ふん……」[pcms]
+[ns]Chihiro[nse]
+"Hmph..."[pcms]
 
 *16106|
 [fc]
-軽くこずいただけなのに、勢いよく飛ばされた男は、[r]
-もう一人の付いてきていたヤツにぶつかり、倒れて[r]
-もがいている。[pcms]
+The man who was merely nudged flew off with force, crashing[r]
+into another guy who had been following, and they both[r]
+writhed on the ground.[pcms]
 
 *16107|
 [fc]
 [vo_nag s="nagasaki0304"]
-[ns]千尋[nse]
-「ぶざまね……、いっしょうそこで、そうしてなさい」[pcms]
+[ns]Chihiro[nse]
+"How pathetic... just stay there like that for the rest of[r]
+your life."[pcms]
 
 *16108|
 [fc]
-これで、邪魔者はいなくなった。[pcms]
+With that, the nuisance was gone.[pcms]
 
 *16109|
 [fc]
-あとは、ここの中にいるあの子を探すだけ。[pcms]
+All that's left is to find that girl inside here.[pcms]
 
 ;//♪：bgm009 fadeout
 [fadeoutbgm time=1000]
@@ -104,23 +103,21 @@
 *16110|
 [fc]
 [vo_nag s="nagasaki0305"]
-[ns]千尋[nse]
-「ありすさん……？　どこ……に、いる……？[r]
-　あたしを、ひとりにしないで……、[r]
-　このまちをあんないしてあげるから……」[pcms]
+[ns]Chihiro[nse]
+"Arisu-san...? Where... are you...? Don't leave me alone...[r]
+I'll show you around this town..."[pcms]
 ;//◎ブロック２０３３０流用
 
 *16111|
 [fc]
-アタシの声に気が付いたら、[r]
-きっとあの子は出てきてくれる。[pcms]
+If she hears my voice, surely she will come out.[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
 *16112|
 [fc]
-逸る気持ちを抑えながら、ありすさんを探すため、[r]
-トイレの個室をノックしていく。[pcms]
+Trying to contain my impatience, I knock on the bathroom[r]
+stalls in search of Arisu-san.[pcms]
 
 ;//SE:トイレの扉をノックする
 
@@ -129,35 +126,33 @@
 *16113|
 [fc]
 [vo_nag s="nagasaki0306"]
-[ns]千尋[nse]
-「ありすさん～……ありすさん～……」[pcms]
+[ns]Chihiro[nse]
+"Arisu-san~... Arisu-san~..."[pcms]
 ;//◎ブロック２０３３０流用
 
 *16114|
 [fc]
-足がまるで石のように重く、もつれてしまって、[r]
-体のあちこちを、トイレの扉にぶつけてしまう。[pcms]
+My legs feel as heavy as stone, getting tangled up, and I[r]
+keep bumping into the bathroom doors.[pcms]
 
 *16115|
 [fc]
-でも、ちっとも痛くない。[r]
-むしろ、体が軽くて、調子が良いように思える。[pcms]
+But it doesn't hurt at all. On the contrary, my body feels[r]
+light and in good condition.[pcms]
 
 *16116|
 [fc]
-それに、アタシはあの子に会わなければならない。[pcms]
+Besides, I have to meet that girl.[pcms]
 
 *16117|
 [fc]
-早く……。[r]
-早く、あの子に会いたい……。[pcms]
+Quickly... I want to see her quickly...[pcms]
 
 *16118|
 [fc]
 [vo_nag s="nagasaki0307"]
-[ns]千尋[nse]
-「ありすさん……でてきて……。[r]
-　あたしをひとりにしないで……」[pcms]
+[ns]Chihiro[nse]
+"Arisu-san... come out... Don't leave me alone..."[pcms]
 ;//◎ブロック２０３３０を流用
 
 ;//SE:扉を叩く
@@ -170,22 +165,19 @@
 
 *16119|
 [fc]
-いた……。[r]
-ここね……。[pcms]
+I found it... here...[pcms]
 
 *16120|
 [fc]
-ありすさんは、[r]
-アタシに会うのが恥ずかしいのかしら……。[r]
-そんな所に隠れてないで、早く出てきて……。[pcms]
+Is Arisu-san too embarrassed to meet me? Don't hide there,[r]
+come out quickly...[pcms]
 
 *16121|
 [fc]
 [vo_nag s="nagasaki0308"]
-[ns]千尋[nse]
-「ありすさんね……あなた、そこに……いるのね……[r]
-　でてきて……ねぇ………あたしを、[r]
-　ひとりにしないで……おねがい……」[pcms]
+[ns]Chihiro[nse]
+"Arisu-san... you're there, aren't you... Come out...[r]
+please... don't leave me alone..."[pcms]
 ;//◎泣き声
 ;//◎ブロック２０３３０を流用
 
@@ -195,14 +187,14 @@
 
 *16122|
 [fc]
-ありすさんが隠れている扉を叩いて、アタシが[r]
-ここに居ることを知らせた。[pcms]
+I knocked on the door where Arisu-san was hiding to let her[r]
+know I was here.[pcms]
 
 *16123|
 [fc]
 [vo_nag s="nagasaki0309"]
-[ns]千尋[nse]
-「でてきて……ねぇ……」[pcms]
+[ns]Chihiro[nse]
+"Come out... please..."[pcms]
 
 ;//SE:扉を叩く
 
@@ -210,8 +202,9 @@
 
 *16124|
 [fc]
-何度か扉を叩くと、それはヘンな方に開いて、[r]
-やはり中に隠れていたありすさんと再会出来た。[pcms]
+After knocking several times, the door opened strangely and[r]
+I was reunited with Arisu-san who had indeed been hiding[r]
+inside.[pcms]
 
 
 ;mm 追加　速水貼って無くね？
@@ -220,29 +213,28 @@
 *16125|
 [fc]
 [vo_hay s="hayami0608"]
-[ns]ありす[nse]
-「い……いや……長崎さん……、[r]
-　こっちに……来ないで！！」[pcms]
+[ns]Alice[nse]
+"No... Nagasaki-san... don't come over here!!"[pcms]
 
 *16126|
 [fc]
 [vo_nag s="nagasaki0310"]
-[ns]千尋[nse]
-「……？？」[pcms]
+[ns]Chihiro[nse]
+"...??"[pcms]
 
 *16127|
 [fc]
-ありすさんは何故かアタシをみて怯えている。[pcms]
+For some reason, Arisu-san looked frightened when she saw[r]
+me.[pcms]
 
 *16128|
 [fc]
-何でだろう……。[r]
-アタシの顔に、何か付いてるの……？[pcms]
+Why is that...? Is there something on my face...?[pcms]
 
 *16129|
 [fc]
-その怯え方が不思議に思えて、もしやアタシの後ろに[r]
-何かがあるのかと、振り返ってみた。[pcms]
+Her frightened look made me wonder if there was something[r]
+behind me, so I turned around to check.[pcms]
 
 ;//♪：bgm012 stop
 [fadeoutbgm time=1][wb]
@@ -255,32 +247,32 @@
 
 *16130|
 [fc]
-するとそこには、さっきアタシが倒した筈のクズ共が、[r]
-気味の悪いニヤけ顔をして、突っ立っていた。[pcms]
+There they were, the scumbags I thought I had taken down[r]
+earlier, standing with a creepy grin on their faces.[pcms]
 
 *16131|
 [fc]
 [vo_nag s="nagasaki0311"]
-[ns]千尋[nse]
-「な……なによ……アンタたち……、[r]
-　でていきなさい……いますぐに！！」[pcms]
+[ns]Chihiro[nse]
+"What... what do you want... you guys... get out of here...[r]
+right now!!"[pcms]
 
 *16132|
 [fc]
-[ns]トランクス姿の青年[nse]
-「おんなぁた゛ぁぁあああ……！！」[pcms]
+[ns]A young man in trunks[nse]
+"Womaaan daaaaahhh...!!"[pcms]
 
 *16133|
 [fc]
-[ns]ジャケットを着た男[nse]
-「あは゛ぁ～……ふたりもいるぅ～……」[pcms]
+[ns]Man in a jacket[nse]
+"Ahaha~... two of them~..."[pcms]
 
 *16134|
 [fc]
 [vo_nag s="nagasaki0312"]
-[ns]千尋[nse]
-「あっ……はなしなさい！！　クズがっ！！[r]
-　アタシに……そのこにさわるなぁ！！」[pcms]
+[ns]Chihiro[nse]
+"Ah... let go!! Scum!! Don't touch her... don't touch that[r]
+girl!!"[pcms]
 
 ;mm 追加　速水貼って無くね？
 [ChrSetEx layer=4 chbase="hayami_o02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -288,26 +280,24 @@
 *16135|
 [fc]
 [vo_hay s="hayami0609"]
-[ns]ありす[nse]
-「やっ……いやぁあぁぁぁぁぁ！！[r]
-　離してっ！！　離してえ！」[pcms]
+[ns]Arisu[nse]
+"No... noooooo!! Let go!! Let go of me!"[pcms]
 
 *16136|
 [fc]
-アタシがぼーっとしていたせいで、[r]
-ありすさんがクズの一人に捕まってしまった。[pcms]
+Because I was dazed, Arisu-san got caught by one of the[r]
+scumbags.[pcms]
 
 *16137|
 [fc]
 [vo_nag s="nagasaki0313"]
-[ns]千尋[nse]
-「そのこにさわるなぁ！　やめろぉ！！[r]
-　おまえら、やめろぉ！！」[pcms]
+[ns]Chihiro[nse]
+"Don't touch that girl! Stop it!! You guys, stop it!!"[pcms]
 
 *16138|
 [fc]
-ありすさんを助けようとしたけど、[r]
-アタシもクズに捕まってしまってしまった。[pcms]
+I tried to help Arisu-san, but I ended up being caught by[r]
+the scumbags as well.[pcms]
 
 
 ;mm 追加　速水貼って無くね？
@@ -316,32 +306,29 @@
 *16139|
 [fc]
 [vo_hay s="hayami0610"]
-[ns]ありす[nse]
-「いやあぁあ！！　こんなの、もういやだぁ！！」[pcms]
+[ns]Arisu[nse]
+"Nooooo!! I can't take this anymore!!"[pcms]
 
 *16140|
 [fc]
-くそっ……。[r]
-どうして、こんな……。[pcms]
+Dammit... Why is this happening...[pcms]
 
 *16141|
 [fc]
-ありすはアタシのモノだ！！[pcms]
+Arisu is mine!![pcms]
 
 *16142|
 [fc]
 [vo_nag s="nagasaki0314"]
-[ns]千尋[nse]
-「くそぉ……はなせ！！[r]
-　はなせ……クズどもがあっ！」[pcms]
+[ns]Chihiro[nse]
+"Damn it... let go!! Let go... you scumbags!!"[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *16143|
 [fc]
-精一杯張り上げた叫びも、抵抗もむなしく、[r]
-あたし達二人はトイレの外へと[r]
-引きずり出されてしまった。[pcms]
+My screams and resistance were in vain as we both were[r]
+dragged out of the bathroom.[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 

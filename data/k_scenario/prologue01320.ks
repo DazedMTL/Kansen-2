@@ -47,13 +47,13 @@
 *6890|
 [fc]
 [vo_hay s="hayami0087"]
-[ns]ありす[nse]
-「んじゃ、ショッピングモール行こっか！」[pcms]
+[ns]Arisu[nse]
+"Well then, shall we go to the shopping mall?"[pcms]
 
 *6891|
 [fc]
-[ns]大倉[nse]
-「場所はわかってんのか？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Do you know where it is?"[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
@@ -62,130 +62,131 @@
 *6892|
 [fc]
 [vo_kob s="koba0073"]
-[ns]小林[nse]
-「……ヒロの目はガラス玉なの？　あそこに見えてる[r]
-　じゃない」[pcms]
+[ns]Kobayashi[nse]
+"...Are Hiro's eyes made of glass beads? It's visible right[r]
+over there."[pcms]
 
 *6893|
 [fc]
-ユウが指さした商店街の奥に目をやると、アーケード[r]
-の一番端の、そのさらに向こうに、大きな２つのビル[r]
-が見えていた。[pcms]
+When Yuu pointed towards the back of the shopping district,[r]
+beyond the end of the arcade, two large buildings could be[r]
+seen.[pcms]
 
 *6894|
 [fc]
-[ns]大倉[nse]
-「あー、アレがそうなのか……っつーか、なんか言い[r]
-　方にトゲがねーか？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Ah, so that's it... But hey, isn't there a bit of a sting[r]
+in the way you're talking?"[pcms]
 
 *6895|
 [fc]
 [vo_hay s="hayami0088"]
-[ns]ありす[nse]
-「裕樹、ガラス玉なんていいもの入ってないよ？　ヒ[r]
-　ロシの目に」[pcms]
+[ns]Arisu[nse]
+"Yuuki, there's nothing as nice as glass beads in Hiroshi's[r]
+eyes, right?"[pcms]
 
 [ChrSetEx layer=2 chbase="koba_n01"][ChrSetXY layer=2 x=0 y=0][trans_c cross time=150]
 
 *6896|
 [fc]
 [vo_kob s="koba0074"]
-[ns]小林[nse]
-「あ、そっか、節穴だった。穴だけ。空洞。頭の中も[r]
-　空洞」[pcms]
+[ns]Kobayashi[nse]
+"Ah, right, they're just holes. Just empty holes. His head[r]
+is empty too."[pcms]
 
 *6897|
 [fc]
-[ns]大倉[nse]
-「オイ、ちょっと待て！　ジャンケンに負けたからっ[r]
-　て、こんなトコで復讐か！？　ちょっと成績良いか[r]
-　らってオマエ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Hey, wait a minute! Just because I lost at rock-paper-[r]
+scissors, you're taking revenge here!? Just because you have[r]
+slightly better grades..."[pcms]
 
 *6898|
 [fc]
 [vo_hay s="hayami0089"]
-[ns]ありす[nse]
-「空洞～♪」[pcms]
+[ns]Arisu[nse]
+"Empty~♪"[pcms]
 
 *6899|
 [fc]
-[ns]大倉[nse]
-「オマエが言うな！！　さっきバスん中で美南子に聞[r]
-　いたぞ！　古文、赤点だっただろ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Don't you say that!! I heard from Minami just now on the[r]
+bus! You failed Classical Literature, didn't you!!"[pcms]
 
 [ChrSetEx layer=3 chbase="hayami_b09"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
 
 *6900|
 [fc]
 [vo_hay s="hayami0090"]
-[ns]ありす[nse]
-「……なに？　もしかして美南子をたらしこんだの？[r]
-　あ～、だから最近、仲いいんだ～」[pcms]
+[ns]Alice[nse]
+"...What? Did you sweet-talk Minami? Ah~, that's why you've[r]
+been getting along recently."[pcms]
 
 *6901|
 [fc]
-[ns]大倉[nse]
-「オマエ、バカじゃ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"You're an idiot..."[pcms]
 
 [ChrSetEx layer=2 chbase="koba_n08"][ChrSetXY layer=2 x=0 y=0][trans_c cross time=150]
 
 *6902|
 [fc]
 [vo_kob s="koba0075"]
-[ns]小林[nse]
-「キタナイよねー、男って」[pcms]
+[ns]Kobayashi[nse]
+"Men are so dirty, aren't they?"[pcms]
 
 [ChrSetEx layer=3 chbase="hayami_b01"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
 
 *6903|
 [fc]
 [vo_hay s="hayami0091"]
-[ns]ありす[nse]
-「ね～」[pcms]
+[ns]Arisu[nse]
+"Right~"[pcms]
 
 *6904|
 [fc]
-[ns]大倉[nse]
-「オマエも男だろーが！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"You're a guy too!"[pcms]
 
 *6905|
 [fc]
 [vo_hay s="hayami_koba0001"]
-;[ns]ありす＆小林[nse]
+[ns]Arisu & Kobayashi[nse]
 ;mm ボイス合成がうまくいかないのでここは……小林のみのボイス＆名前にしておく
-[ns]小林[nse]
-「セクハラ最低～」[pcms]
+[ns]Kobayashi[nse]
+"Sexual harassment is the worst~"[pcms]
 
 *6906|
 [fc]
-[ns]大倉[nse]
-「してねーよッ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"I didn't do it!!"[pcms]
 
 ;mm ここでありすがだめ押しでもう１回言えばいいんじゃ？
 *6906a|
 [fc]
 [vo_hay s="hayami_koba0001_hayami"]
-[ns]ありす[nse]
-「セクハラ最っ低～」[pcms]
+[ns]Arisu[nse]
+"Sexual harassment is the worst~"[pcms]
 
 *6907|
 [fc]
-２対１の不利な言い争いを続けながらしばらく歩き、[r]
-左手にあった公園を通り過ぎると、速水は右手に見え[r]
-てきた建物に、感心したような声を出した。[pcms]
+While continuing their disadvantageous argument two against[r]
+one, they walked past a park on their left hand side, and[r]
+Hayami let out an impressed voice at the building that came[r]
+into view on their right.[pcms]
 
 [ChrSetEx layer=3 chbase="hayami_b12"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
 
 *6908|
 [fc]
 [vo_hay s="hayami0092"]
-[ns]ありす[nse]
-「ふわー、スゴーイ……」[pcms]
+[ns]Arisu[nse]
+"Wow, amazing..."[pcms]
 
 *6909|
 [fc]
-[ns]大倉[nse]
-「……？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"...?"[pcms]
 
 [chara_int_ layer=2][chara_int_ layer=3][trans_c cross time=150]
 
@@ -194,18 +195,19 @@
 
 *6910|
 [fc]
-[ns]大倉[nse]
-「これ、病院か……？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Is this a hospital...?"[pcms]
 
 *6911|
 [fc]
-速水が眺めていたのは、俺らの住む街には無いような、[r]
-かなり大きな規模の病院だった。[pcms]
+What Hayami was looking at was a hospital of a considerably[r]
+large scale, something not seen in our town.[pcms]
 
 *6912|
 [fc]
-見えている出入り口は裏口らしく、手前の庭園では、[r]
-患者やその見舞客、看護師などが散策していた。[pcms]
+The entrance that was visible seemed to be the back door,[r]
+and in the garden in front, patients and their visitors, as[r]
+well as nurses, were taking walks.[pcms]
 
 [cutin_int][trans_c cross time=1000]
 
@@ -215,35 +217,35 @@
 *6913|
 [fc]
 [vo_kob s="koba0076"]
-[ns]小林[nse]
-「人が多いところは、病院も大きいんだね。坂田にあ[r]
-　るので一番大きい病院でも、ここの半分もないもん[r]
-　なー」[pcms]
+[ns]Kobayashi[nse]
+"In places with lots of people, even hospitals are big. The[r]
+biggest hospital in Sakata is only half the size of this[r]
+one."[pcms]
 
 *6914|
 [fc]
 [vo_hay s="hayami0093"]
-[ns]ありす[nse]
-「これだけ大っきい病院だと、病院食もゴーカそうだ[r]
-　ね～♪」[pcms]
+[ns]Alice[nse]
+"With a hospital this big, I bet the hospital food is[r]
+luxurious~♪"[pcms]
 
 *6915|
 [fc]
-[ns]大倉[nse]
-「……頼むから、たとえ入院しても隣の患者のメシま[r]
-　で食わないでくれよ？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"...Please, even if you get hospitalized, don't eat the food[r]
+of the patient next to you, okay?"[pcms]
 
 *6916|
 [fc]
 [vo_hay s="hayami0094"]
-[ns]ありす[nse]
-「そんなことするワケないじゃん。ちゃんと看護師さ[r]
-　んにおかわり頼むもーん」[pcms]
+[ns]Arisu[nse]
+"I wouldn't do something like that. I'll properly ask the[r]
+nurse for seconds."[pcms]
 
 *6917|
 [fc]
-[ns]大倉[nse]
-「せいぜい食い過ぎには気をつけろ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Just be careful not to overeat..."[pcms]
 
 [sysbt_meswin clear]
 
@@ -255,4 +257,4 @@
 
 [jump storage="prologue01400.ks" target=*prologue01400_TOP]
 
-;//－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+;//

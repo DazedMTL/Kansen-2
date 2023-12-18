@@ -21,32 +21,32 @@
 
 *10842|
 [fc]
-俺とユウが戻ってくると、女の子はまた、サッと女の[r]
-人の後ろに身を隠した。[pcms]
+When Yuuki and I returned, the girl quickly hid herself[r]
+behind the woman again.[pcms]
 
 *10843|
 [fc]
 [vo_kob s="koba0192"]
-[ns]小林[nse]
-「……」[pcms]
+[ns]Kobayashi[nse]
+"..."[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
 *10844|
 [fc]
-ユウはそんな彼女を一睨みしてから、自分もお前が嫌[r]
-いだ、とでも言うように、体ごとそっぽを向いた。[pcms]
+Yuuki glared at her as if to say she also disliked you, then[r]
+turned her body away in a huff.[pcms]
 
 *10845|
 [fc]
-[ns]大倉[nse]
-「……じゃぁ、行きましょう。焦るなって言っても、[r]
-　あんまり時間が無いのは変わらないんで」[pcms]
+[ns]Ookura Hiroshi[nse]
+"...Well, let's go. Even if I say don't rush, it doesn't[r]
+change the fact that we don't have much time."[pcms]
 
 *10846|
 [fc]
-俺はみんなを促し、短い方の通路を行った所にあるエ[r]
-スカレーターへ向かって歩き出した。[pcms]
+I urged everyone on and started walking towards the[r]
+escalator located at the end of the shorter passage.[pcms]
 
 ;//BKACKOUTBG表示
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
@@ -60,15 +60,14 @@
 
 *10847|
 [fc]
-途中、イカレ野郎がついてきてないかの確認のために[r]
-後ろを振り返ると、女の子は隣を歩く女の人と手を繋[r]
-いでいた。[pcms]
+Halfway through, I looked back to check if the crazy guy was[r]
+following us, and saw the girl holding hands with the woman[r]
+walking beside her.[pcms]
 
 *10848|
 [fc]
-あれ……？[r]
-あの子、右足引きずってるな……。[r]
-もうちょっとゆっくり歩くか……。[pcms]
+Huh...? That child is dragging her right leg... Maybe we[r]
+should walk a bit slower...[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
@@ -78,4 +77,4 @@
 
 [jump storage="westtown_main10220.ks" target=*westtown_main10220_TOP]
 
-;//－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+;//

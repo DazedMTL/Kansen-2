@@ -27,15 +27,14 @@
 
 *8299|
 [fc]
-悩んでいる暇なんて無い……！[r]
-俺はお嬢様の手を勢いよく引くと、[r]
-近くの階段めざし走り出した。[pcms]
+There's no time to hesitate...! I forcefully pulled the[r]
+young lady's hand and started running towards the nearby[r]
+staircase.[pcms]
 
 *8300|
 [fc]
-大丈夫だ……。[r]
-叫び声は一度だけしか聞こえていない。[r]
-こっちにはいないはずだ！[pcms]
+It's okay... I've only heard a scream once. They shouldn't[r]
+be here![pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
@@ -44,101 +43,102 @@
 *8301|
 [fc]
 [vo_kob s="koba0550"]
-[ns]小林[nse]
-「ハァ、ハァ……！」[pcms]
+[ns]Kobayashi[nse]
+"Haa, haa...!"[pcms]
 
 *8302|
 [fc]
-[ns]大倉[nse]
-「大丈夫か、ユウ」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Are you okay, Yuu?"[pcms]
 
 *8303|
 [fc]
 [vo_kob s="koba0551"]
-[ns]小林[nse]
-「う、うん……」[pcms]
+[ns]Kobayashi[nse]
+"Y-yeah..."[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *8304|
 [fc]
-追われる緊張感からか、疲労が早いようだ。[r]
-見ればお嬢様もつらそうにしている。[pcms]
+Perhaps due to the tension of being chased, fatigue seems to[r]
+set in quickly. The young lady also appears to be[r]
+struggling.[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_f02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *8305|
 [fc]
 [vo_may s="maya0798"]
-[ns]お嬢様[nse]
-「ハァ……ハァ……！」[pcms]
+[ns]Young Lady[nse]
+"Haa... Haa...!"[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *8306|
 [fc]
-[ns]大倉[nse]
-「もう少しで上の階だ……もうちょっとだけ頑張れ！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"We're almost at the upper floor... Just a little bit[r]
+longer, hang in there!"[pcms]
 
 *8307|
 [fc]
-俺は自分に言い聞かすように、強くつぶやいた。[r]
-この階段を上りきれば一息つける……。[pcms]
+I muttered to myself as if to convince myself, "Once we get[r]
+up these stairs, we can take a breather..."[pcms]
 
 *8308|
 [fc]
-[ns]大倉[nse]
-「この先にはいないはずだ……！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"They shouldn't be ahead...!"[pcms]
 
 *8309|
 [fc]
-わらにもすがる思いというのは、こういう事だったろ[r]
-うか？[pcms]
+Is this what they call clutching at straws?[pcms]
 
 *8310|
 [fc]
-この先は安全なんだと、信じるしかない。[r]
-祈るしかない。[pcms]
+I have no choice but to believe that it's safe ahead. All I[r]
+can do is pray.[pcms]
 
 *8311|
 [fc]
-[ns]大倉[nse]
-「……！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"...!!"[pcms]
 
 *8312|
 [fc]
-人の祈りというものはかくも儚いものか。[r]
-階段の踊り場に駆け上がった時、俺は自分の選択の愚[r]
-かさを知ることになった。[pcms]
+How fleeting are human prayers? When I rushed up to the[r]
+landing of the staircase, I came to realize the foolishness[r]
+of my choice.[pcms]
 
 [ChrSetEx layer=4 chbase="etc01"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *8313|
 [fc]
-[ns]小太りの男[nse]
-「あ゛う゛ぉ～～～……う゛ぁああ～～～」[pcms]
+[ns]Chubby man[nse]
+"Aghhhhh... Ughaaaaa..."[pcms]
 
 *8314|
 [fc]
-[ns]大倉[nse]
-「クソっ……！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Damn it...!"[pcms]
 
 [chara_int][trans_c cross time=150]
 
 *8315|
 [fc]
-こんな数では、どうも突破できそうにない。[pcms]
+With this many, it doesn't seem like we can break through.[pcms]
 
 *8316|
 [fc]
-……戻るしかないか？[r]
-いや、しかし戻ったところで……。[pcms]
+...Do we have no choice but to go back? But even if we go[r]
+back...[pcms]
 
 *8317|
 [fc]
 [vo_anz s="anzai0424"]
-[ns]女[nse]
-「きゃあああああっ！」[pcms]
+[ns]Female[nse]
+"Kyaaaaaaa!"[pcms]
 
 ;//＠主人公の背後なので立ち絵ださない。
 ;//[ChrSetEx layer=4 chbase="koba_n14"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -146,19 +146,20 @@
 *8318|
 [fc]
 [vo_kob s="koba0552"]
-[ns]小林[nse]
-「う、うわぁぁぁっ！」[pcms]
+[ns]Kobayashi[nse]
+"Uwaaaahhh!"[pcms]
 
 ;//[chara_int][trans_c cross time=150]
 
 *8319|
 [fc]
-考えがまとまらない脳に、突然絹を裂くような悲鳴が[r]
-飛び込んでくる。[pcms]
+A scream like tearing silk suddenly pierces my disorganized[r]
+thoughts.[pcms]
 
 *8320|
 [fc]
-反射的に振り返る俺の目に飛び込んできたのは……。[pcms]
+What jumped into my eyes as I reflexively turned around[r]
+was...[pcms]
 
 [fadeoutbgm time=502]
 [black_toplayer][trans_c cross time=1000][hide_chara_int]

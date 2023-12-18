@@ -25,14 +25,13 @@
 
 *2290|
 [fc]
-苦しいっ！！[r]
-このままじゃ、死んじまうっ！！[pcms]
+It's painful!! At this rate, I'm gonna die!![pcms]
 
 *2291|
 [fc]
-[ns]大倉[nse]
-「ぐ……んぶぁっ！！　はあっ……はあっ！[r]
-　このやろっ！　ころすきかよっ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Guh...ngha!! Haa...haa! You bastard! Are you trying to kill[r]
+me?!!"[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
@@ -41,82 +40,80 @@
 *2292|
 [fc]
 [vo_nao s="naomi0159"]
-[ns]直美[nse]
-「あっ……このバカ！　声を出すなって言ったのに！」[pcms]
+[ns]Naomi[nse]
+"Ah...you idiot! I told you not to make a sound!"[pcms]
 ;//◎囁くように
 
 *2293|
 [fc]
-[ns]大倉[nse]
-「だってよ！　くるしいっての……げほっ……、[r]
-　ああ……しぬかとおもった……あっ！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"But, damn it! It hurts...cough...ah...I thought I was gonna[r]
+die...ah!"[pcms]
 
 [ChrSetEx layer=4 chbase="turuta_n03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *2294|
 [fc]
 [vo_nao s="naomi0160"]
-[ns]直美[nse]
-「どうし……きゃあっ！　なっ……なんだっ！？」[pcms]
+[ns]Naomi[nse]
+"What should I...kyaa! Wha...what's that?!"[pcms]
 
 [ChrSetEx layer=4 chbase="etc01"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *2295|
 [fc]
-[ns]感染者Ａ[nse]
-「うあぁ゛……くいも゛ん、きた゛ぁ～～」[pcms]
+[ns]Infected Person A[nse]
+"Uaah...I'm so hungry, here it comes~~"[pcms]
 
 [ChrSetEx layer=4 chbase="etc02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *2296|
 [fc]
-[ns]感染者Ｂ[nse]
-「おぉ～……おん゛なもぉ～～！[r]
-　らぁっき゛ぃ～～！！」[pcms]
+[ns]Infected Person B[nse]
+"Ooh...women too~~! Lucky~~!!"[pcms]
 
 [ChrSetEx layer=4 chbase="etc03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *2297|
 [fc]
-[ns]感染者Ｃ[nse]
-「あ゛ぁ～～！！」[pcms]
+[ns]Infected Person C[nse]
+"Aah~~!!"[pcms]
 
 [ChrSetEx layer=4 chbase="etc04"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *2298|
 [fc]
-[ns]クールビズの男[nse]
-「んあ゛ぁ～？　おあ゛ぁ～！[r]
-　くい゛もんとぉ～……おまんこ゛た゛ぁ～！」[pcms]
+[ns]Cool Biz Man[nse]
+"Nnaha~~? Oah~~! Hungry for...pussy~~!"[pcms]
 
 *2299|
 [fc]
-[ns]大倉[nse]
-「あぁ……あああぁぁぁ……ぐあぁああぁっ！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Aah...ahhhhh...guahhhhh!"[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *2300|
 [fc]
-この廊下には、あの頭の悪そうなヤツの他にも、[r]
-何人かが潜んでいたようだった。[pcms]
+In this corridor, besides that dumb-looking guy, there[r]
+seemed to be several others lurking.[pcms]
 
 *2301|
 [fc]
-俺は、その中の一人に首を噛み千切られ、[r]
-視界が急に真っ暗になった。[pcms]
+I had my throat bitten off by one of them, and suddenly my[r]
+vision went completely dark.[pcms]
 
 [ChrSetEx layer=4 chbase="etc03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *2302|
 [fc]
-[ns]感染者Ｃ[nse]
-「うあ～……まっし゛ぃ～～……しっぱいし゛たぁ！」[pcms]
+[ns]Infected Person C[nse]
+"Uwa~...so full~~...failed!"[pcms]
 
 *2303|
 [fc]
-[ns]大倉[nse]
-「うあ……がぼっ……げぁっ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Ugh...gaboh...geah..."[pcms]
 
 ;//★黒画面
 
@@ -125,34 +122,32 @@
 
 *2304|
 [fc]
-全身を寒気と暗闇が包んでいく中で、[r]
-直美の悲鳴だけが聞こえてくる。[pcms]
+As chills and darkness enveloped my entire body, only[r]
+Naomi's screams could be heard.[pcms]
 
 *2305|
 [fc]
 [vo_nao s="naomi0161"]
-[ns]直美[nse]
-「あっ……あがあぁぁっ！！　かっ……噛まれっ……、[r]
-　あぎぃぃいいぃいいぃっ！！」[pcms]
+[ns]Naomi[nse]
+"Ah...aghaaaa!! Bi...bitten..., agyiiiiiiii!!"[pcms]
 
 *2306|
 [fc]
-なおみのいうこと、ちゃんときいてればよかった……。[r]
-こんなことになるなんて……。[pcms]
+I should have listened to Naomi properly... I never thought[r]
+it would come to this...[pcms]
 
 *2307|
 [fc]
-[ns]大倉[nse]
-「がふっ……なっ……ぐぶっ……おみ……あがっ……[r]
-　ごぶっ……うあ……あ」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Gafu...na...gubu...omi...agah... gobu...ua...ah"[pcms]
 
 *2308|
 [fc]
-くそっ……。[pcms]
+Damn it...[pcms]
 
 *2309|
 [fc]
-こんなの……。[pcms]
+This is just...[pcms]
 
 [fadeoutbgm time=1000]
 [stop_se0]

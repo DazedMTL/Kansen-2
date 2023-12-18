@@ -25,90 +25,93 @@
 
 *7338|
 [fc]
-病院があれじゃ、あの人をどうすりゃいいんだ……。[r]
-このまま戻っても、俺らには何もできねーし……。[pcms]
+With the hospital in that state, what should we do about[r]
+that person... Even if we go back, there's nothing we can[r]
+do...[pcms]
 
 *7339|
 [fc]
-様子が気になって、俺らは公園の、男の人が倒れてい[r]
-た場所を目指して走ったが、その後どうすればいいの[r]
-か、まるで浮かんではこなかった。[pcms]
+Worried about the situation, we ran towards the park where[r]
+the man had collapsed, but after that, we had no idea what[r]
+to do.[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
 *7340|
 [fc]
-[ns]大倉[nse]
-「あれ……？　ここだったよな……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Huh...? It was here, right...?"[pcms]
 
 *7341|
 [fc]
-その場所で倒れていた男の人は、地面に広がった血溜[r]
-まりを残していなくなっていた。[pcms]
+The man who had collapsed at that spot was gone, leaving[r]
+behind a pool of blood on the ground.[pcms]
 
 *7342|
 [fc]
-公園の中を見回ってみても、それらしい人影は無い。[pcms]
+Looking around the park, there was no sign of anyone[r]
+resembling him.[pcms]
 
 *7343|
 [fc]
-[ns]大倉[nse]
-「あんなケガで、どこに行ったんだ？　あの人……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"With injuries like that, where could he have gone? That[r]
+person..."[pcms]
 
 [ChrSetEx layer=4 chbase="koba_n12"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *7344|
 [fc]
 [vo_kob s="koba0106"]
-[ns]小林[nse]
-「ごめん……ボクらがここを離れちゃったから……」[pcms]
+[ns]Kobayashi[nse]
+"Sorry... It's because we left this place..."[pcms]
 
 *7345|
 [fc]
-俺の横で、地面に広がった血溜まりを見て、ユウはう[r]
-なだれた。[pcms]
+Next to me, Yuuki slumped down, looking at the pool of blood[r]
+spread on the ground.[pcms]
 
 *7346|
 [fc]
-[ns]大倉[nse]
-「いや……オマエらがここにいたとしても、病院があ[r]
-　の状態じゃ、どっちにしろ助けられなかったよ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"No... Even if you guys were here, with the hospital in that[r]
+condition, we couldn't have helped either way..."[pcms]
 
 *7347|
 [fc]
-実際、あの人がそのまま、ここに倒れていたとしても、[r]
-医者じゃない俺らにはどうすることもできなかった。[pcms]
+In reality, even if that person had remained collapsed here,[r]
+there was nothing we could have done since we're not[r]
+doctors.[pcms]
 
 *7348|
 [fc]
-ここに戻った後、どうしたらいいのかわからず、あの[r]
-人が死んでいくのを、ただ黙って見ていなきゃならな[r]
-かったかもしれない。[pcms]
+After returning here, not knowing what to do, we might have[r]
+had to just silently watch that person die.[pcms]
 
 *7349|
 [fc]
-そう考えると、あの人がいなくなっていたことに、俺[r]
-は正直、ホッとしていた。[r]
-命が助かった可能性が高くなるからだ。[pcms]
+Thinking about it, I honestly felt relieved that the person[r]
+was gone. It meant there was a higher chance their life was[r]
+saved.[pcms]
 
 *7350|
 [fc]
-[ns]大倉[nse]
-「俺らがシロートだからわからなかっただけで、もし[r]
-　かしたらあの人のケガは、たいしたことなかったの[r]
-　かもしれないぜ？　自分で動けるぐらいだしな」[pcms]
+[ns]Ookura Hiroshi[nse]
+"We didn't understand because we're amateurs, but maybe that[r]
+person's injuries weren't that serious? Maybe they were able[r]
+to move on their own."[pcms]
 
 *7351|
 [fc]
-[ns]大倉[nse]
-「じゃなきゃ誰か、まともな人がここを通りかかって、[r]
-　違う病院に運んでくれたのかもしれない」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Otherwise, maybe someone decent came by and took them to a[r]
+different hospital."[pcms]
 
 *7352|
 [fc]
 [vo_kob s="koba0107"]
-[ns]小林[nse]
-「うん……」[pcms]
+[ns]Kobayashi[nse]
+"Yeah..."[pcms]
 
 ;//ＳＥ：雄叫び
 [se0 storage="SE48"]
@@ -117,27 +120,27 @@
 
 *7353|
 [fc]
-気に病んでいる様子のユウが、急に辺りを見回し始め[r]
-たのを見て、俺はどこからか低い、お経を唱えるよう[r]
-な声が聞こえてきていることに気がついた。[pcms]
+Seeing Yuuki suddenly start looking around, worriedly, I[r]
+realized I could hear a low voice chanting sutras from[r]
+somewhere.[pcms]
 
 [ChrSetEx layer=4 chbase="koba_n04"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *7354|
 [fc]
 [vo_kob s="koba0108"]
-[ns]小林[nse]
-「気づいた？」[pcms]
+[ns]Kobayashi[nse]
+"Did you notice?"[pcms]
 
 *7355|
 [fc]
-[ns]大倉[nse]
-「ああ……なんだ？　コレ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Yeah... What's this...?"[pcms]
 
 *7356|
 [fc]
-ユウと一緒になって辺りを見回していると、速水が俺[r]
-の後ろに隠れて、Ｙシャツの背中をキツく握りしめた。[pcms]
+As Yuuki and I looked around, Arisu hid behind me and[r]
+gripped the back of my shirt tightly.[pcms]
 
 ;[chara_int]
 [ChrSetEx layer=4 chbase="hayami_t06"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -145,8 +148,8 @@
 *7357|
 [fc]
 [vo_hay s="hayami0121"]
-[ns]ありす[nse]
-「なに？　なんなの……？」[pcms]
+[ns]Arisu[nse]
+"What? What is it...?"[pcms]
 
 ;[chara_int]
 [ChrSetEx layer=4 chbase="koba_n03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -154,12 +157,13 @@
 *7358|
 [fc]
 [vo_kob s="koba0109"]
-[ns]小林[nse]
-「ひっ、人！　人が！！」[pcms]
+[ns]Kobayashi[nse]
+"Ah, people! There are people!!"[pcms]
 
 *7359|
 [fc]
-大声に驚き、ユウを見て、俺はさらに驚いた。[pcms]
+Startled by the loud voice, I looked at Yuuki and was even[r]
+more surprised.[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
@@ -167,25 +171,25 @@
 
 *7360|
 [fc]
-メイド喫茶や病院にいたようなヤツらが、崩壊をまぬ[r]
-がれた店、半壊した店、横道と、至る所からゾロゾロ[r]
-と湧き出てくる。[pcms]
+People like those we saw at the maid cafe and hospital were[r]
+emerging from intact shops, partially destroyed shops, and[r]
+alleys everywhere.[pcms]
 
 *7361|
 [fc]
-姿を現した人間たちは全員、俺ら３人の方へゆっくり[r]
-と、低く呻きながら近づいてくる。[pcms]
+All the people who appeared were slowly approaching us[r]
+three, moaning lowly.[pcms]
 
 *7362|
 [fc]
-コイツらが今までどこにいたのか、どうして俺らに目[r]
-をつけたのか、なぜこんなことをするのか、一切わか[r]
-らない。[pcms]
+I had no idea where these people had been until now, why[r]
+they had set their sights on us, or why they were doing[r]
+this.[pcms]
 
 *7363|
 [fc]
-だが、コイツらに捕まれば自分らがどういう目に遭う[r]
-か、それだけはわかる。[pcms]
+But one thing was clearif we got caught by them, we knew[r]
+exactly what would happen to us.[pcms]
 
 [cutin_int][trans_c cross time=300]
 
@@ -194,20 +198,20 @@
 *7364|
 [fc]
 [vo_hay s="hayami0122"]
-[ns]ありす[nse]
-「ヒ、ヒロシ、逃げないと！」[pcms]
+[ns]Alice[nse]
+"H-Hiroshi, we have to run!"[pcms]
 
 *7365|
 [fc]
-[ns]大倉[nse]
-「あ、ああ……」[pcms]
+[ns]Ookura[nse]
+"Ah, yeah..."[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *7366|
 [fc]
-速水に促されて、俺はとりあえず、ヤツらがいない方[r]
-へと走り出した。[pcms]
+Urged by Arisu, I started running away from them towards an[r]
+area where they weren't.[pcms]
 
 [sysbt_meswin clear]
 
@@ -216,4 +220,4 @@
 
 [jump storage="prologue02070.ks" target=*prologue02070_TOP]
 
-;//－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+;//

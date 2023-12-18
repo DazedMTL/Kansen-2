@@ -23,70 +23,68 @@
 
 *10294|
 [fc]
-女の人が言うには、このビルは階数が少ない割には背[r]
-が高く、そのせいで階段が結構長いらしい。[pcms]
+"According to the woman, this building has fewer floors than[r]
+its height would suggest, which means the staircases are[r]
+quite long."[pcms]
 
 *10295|
 [fc]
-そこで、エレベーターホールにいた俺らは、ちょうど[r]
-いいからと、エレベーターで三階まで行き、そこから[r]
-渡り廊下に向かうことを決めた。[pcms]
+"So there we were in the elevator hall, deciding to take the[r]
+elevator up to the third floor and then head to the corridor[r]
+from there, since it seemed convenient."[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
 *10296|
 [fc]
-でも、俺らはすぐに、その予定を変えないとならなく[r]
-なった。[pcms]
+"But we soon had to change our plans."[pcms]
 
 ;//SE：エレベーターのボタンを押す音（？）
 [se0 storage="SE18"]
 
 *10297|
 [fc]
-『このエレベーターは、現在、ご利用いただけません。[r]
-　最寄りの階段、またはエスカレーターをご利用いた[r]
-　だきますよう、お願い申し上げます』[pcms]
+"'This elevator is currently out of service. Please use the[r]
+nearest staircase or escalator,'"[pcms]
 
 *10298|
 [fc]
-[ns]大倉[nse]
-「……ユウ、そっちのボタン押してみてくれ」[pcms]
+[ns]Ookura Hiroshi[nse]
+"...Yuuki, try pressing that button over there."[pcms]
 
 ;//SE：エレベーターのボタンを押す音（？）
 [se0 storage="SE18"]
 
 *10299|
 [fc]
-『このエレベーターは、現在、ご利用いただけません。[r]
-　最寄りの階段、またはエスカレーターをご利用いた[r]
-　だきますよう、お願い申し上げます』[pcms]
-;//◎録る必要無し（上のものを使用）[pcms]
+"'This elevator is currently out of service. Please use the[r]
+nearest staircase or escalator.' ;//◎No need to record (use[r]
+the one above)"[pcms]
 
 *10300|
 [fc]
-ユウがスイッチを押した、［Ｎｏ．３　１Ｆ－４Ｆ］[r]
-の案内板がついたエレベーターからも、全く同じアナ[r]
-ウンスが流れてくる。[pcms]
+"Yuuki pressed the switch, and from the elevator with the[r]
+sign [No.3 1F-4F], the same announcement played."[pcms]
 
 *10301|
 [fc]
-隣の［Ｎｏ．２　１Ｆ－Ｒ］という案内板のついたエ[r]
-レベーターのスイッチを押して、ユウは扉の上にある[r]
-階数表示を見上げた。[pcms]
+"Pressing the switch for the elevator next to it, marked[r]
+[No.2 1F-R], Yuuki looked up at the floor indicator above[r]
+the door."[pcms]
 
 [ChrSetEx layer=4 chbase="koba_n12"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *10302|
 [fc]
 [vo_kob s="koba0140"]
-[ns]小林[nse]
-「……うごかないね」[pcms]
+[ns]Kobayashi[nse]
+"...It's not moving."[pcms]
 
 *10303|
 [fc]
-階数表示は屋上を示す『Ｒ』の部分を点灯させたまま、[r]
-いつまでたっても他の階に移動しない。[pcms]
+"The floor indicator kept lighting up 'R' for the rooftop[r]
+and didn't move to any other floor no matter how long we[r]
+waited."[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 [ChrSetEx layer=2 chbase="anza_n17"][ChrSetXY layer=2 x=0 y=0]
@@ -95,22 +93,22 @@
 *10304|
 [fc]
 [vo_anz s="anzai0076"]
-[ns]女[nse]
-「地震で故障したのかしら……」[pcms]
+[ns]Female[nse]
+"I wonder if it's broken because of an earthquake..."[pcms]
 
 [ChrSetEx layer=3 chbase="koba_n04"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
 
 *10305|
 [fc]
 [vo_kob s="koba0141"]
-[ns]小林[nse]
-「じしんでこしょうするぐらいなら、ひなんばしょに[r]
-　なんかしなきゃいいのに……」[pcms]
+[ns]Kobayashi[nse]
+"If it's going to break down from an earthquake, they[r]
+shouldn't use it as an evacuation spot..."[pcms]
 
 *10306|
 [fc]
-[ns]大倉[nse]
-「もういい、アレで行こうぜ」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Enough, let's go that way."[pcms]
 
 [chara_int_ layer=2][chara_int_ layer=3][trans_c cross time=150]
 
@@ -118,24 +116,24 @@
 
 *10307|
 [fc]
-相変わらず動こうとしないエレベーターに舌打ちして、[r]
-俺は向かい側にあったエスカレーターへ向かった。[pcms]
+"Clicking his tongue at the elevator that still wouldn't[r]
+move, I headed towards the escalator on the opposite side."[pcms]
 
 *10308|
 [fc]
-[ns]大倉[nse]
-「う……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Ugh..."[pcms]
 
 *10309|
 [fc]
-エスカレーターに近づくにつれて、なにかが腐った、[r]
-吐き気がするような臭いが強くなっていく。[pcms]
+"As we got closer to the escalator, a nauseating smell, like[r]
+something rotting, grew stronger."[pcms]
 
 *10310|
 [fc]
-エスカレーターの前まで来て、２階の降り口に山積み[r]
-になっている『それ』が、この臭いの原因だということが[r]
-わかった。[pcms]
+"Reaching the front of the escalator, it became clear that[r]
+'it' piled up at the second-floor exit was the source of[r]
+this stench."[pcms]
 
 [cutin_int][trans_c cross time=300]
 
@@ -144,56 +142,57 @@
 *10311|
 [fc]
 [vo_kob s="koba0142"]
-[ns]小林[nse]
-「うぅ……なんなの？　このにおい……」[pcms]
+[ns]Kobayashi[nse]
+"Ugh... What is this smell...?"[pcms]
 
 *10312|
 [fc]
-[ns]大倉[nse]
-「あれだよ。腐り始めてんだ」[pcms]
+[ns]Ookura Hiroshi[nse]
+"That's what it is. It's starting to rot."[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *10313|
 [fc]
-動いていないエスカレーターの２階の降り口には、避[r]
-難しようとして将棋倒しにでもなったのか、何人もの[r]
-人間が折り重なって倒れていた。[pcms]
+"At the non-moving escalator's second-floor exit, several[r]
+people had fallen on top of each other as if they had been[r]
+caught in a stampede while trying to evacuate."[pcms]
 
 *10314|
 [fc]
-よく見れば、エスカレーターの段、手すり、１階の降[r]
-り口に、血が付いている。[pcms]
+"Upon closer inspection, there was blood on the escalator[r]
+steps, handrails, and the first-floor exit."[pcms]
 
 *10315|
 [fc]
-倒れてる人間は、多分、みんな死んでて、空調が効い[r]
-てないせいで、暑さで腐り始めてるんだろう。[pcms]
+"The people who had fallen were probably all dead, and with[r]
+no air conditioning, they were starting to rot from the[r]
+heat."[pcms]
 
 *10316|
 [fc]
-この強烈な臭いは、そのせいらしかった。[pcms]
+"This intense smell seemed to be because of that."[pcms]
 
 [ChrSetEx layer=4 chbase="koba_n05"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *10317|
 [fc]
 [vo_kob s="koba0143"]
-[ns]小林[nse]
-「ヒロ……ボク、はきそう……」[pcms]
+[ns]Kobayashi[nse]
+"Hiro... I think I'm going to vomit..."[pcms]
 
 *10318|
 [fc]
-[ns]大倉[nse]
-「あぁ、俺もだ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Yeah, me too..."[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *10319|
 [fc]
-それ以上、そこに立っていられないほどに強烈な臭い[r]
-から逃げるように、俺はエスカレーターに背を向け、[r]
-目の前の通路を早足で歩き始めた。[pcms]
+"Unable to stand there any longer because of the[r]
+overpowering stench, I turned my back on the escalator and[r]
+started walking quickly down the passage in front of me."[pcms]
 
 [fadeoutbgm time=1000]
 [stop_se0]
@@ -203,4 +202,4 @@
 
 [jump storage="westtown_main10030.ks" target=*westtown_main10030_TOP]
 
-;//－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+;//

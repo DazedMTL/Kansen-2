@@ -23,74 +23,72 @@
 
 *10632|
 [fc]
-シャッターを閉めに行った時は、イカレた連中はいな[r]
-かったけど、気をつけておいた方がいいな……。[pcms]
+When I went to close the shutter, those crazies weren't[r]
+there, but we better be careful...[pcms]
 
 *10633|
 [fc]
-２階に来る途中、イカレ野郎が突然出てきて、お嬢様[r]
-を襲ったからな……。[pcms]
+On the way to the second floor, a madman suddenly appeared[r]
+and attacked the young lady...[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
 *10634|
 [fc]
-[ns]大倉[nse]
-「ユウ、一番後ろについてくれるか？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Yuuki, can you follow at the very back?"[pcms]
 
 [ChrSetEx layer=4 chbase="koba_n05"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *10635|
 [fc]
-そう声をかけて歩きだそうとしたが、ユウはボンヤリ[r]
-とした顔で突っ立ったまま、動こうとしない。[pcms]
+As he called out and started walking, Yuuki stood still with[r]
+a vacant look on her face, not moving an inch.[pcms]
 
 *10636|
 [fc]
-[ns]大倉[nse]
-「ユウ？　聞いてるか？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Yuuki? Are you listening?"[pcms]
 
 *10637|
 [fc]
-吹き抜けにかかっている、なにも映ってないディスプ[r]
-レイを、ユウはボンヤリと見つめている。[pcms]
+Yuuki was staring blankly at the display hanging in the[r]
+atrium, which showed nothing.[pcms]
 
 *10638|
 [fc]
-さっきまで普通に喋ってたのに……。[r]
-このビルに入ってから、アイツ少しおかしいな……。[pcms]
+She was talking normally just a moment ago... Ever since we[r]
+entered this building, she's been acting a bit strange...[pcms]
 
 *10639|
 [fc]
-[ns]大倉[nse]
-「オイ、ユウ！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Hey, Yuuki!"[pcms]
 
 [ChrSetEx layer=4 chbase="koba_n07"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *10640|
 [fc]
 [vo_kob s="koba0172"]
-[ns]小林[nse]
-「え……？」[pcms]
+[ns]Kobayashi[nse]
+"Eh...?"[pcms]
 
 *10641|
 [fc]
-[ns]大倉[nse]
-「俺が先頭いくから、オマエは一番後ろについてくれ。[r]
-　いいか？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"I'll lead the way, so you follow at the very back. Got it?"[pcms]
 
 [ChrSetEx layer=4 chbase="koba_n05"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *10642|
 [fc]
 [vo_kob s="koba0173"]
-[ns]小林[nse]
-「あ、うん、わかった」[pcms]
+[ns]Kobayashi[nse]
+"Ah, yeah, got it."[pcms]
 
 *10643|
 [fc]
-まだボンヤリしてるユウの顔を、女の人が心配そうに[r]
-覗き込む。[pcms]
+A woman looked worriedly into Yuuki's still vacant face.[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 [ChrSetEx layer=2 chbase="anza_n16"][ChrSetXY layer=2 x=0 y=0]
@@ -99,55 +97,54 @@
 *10644|
 [fc]
 [vo_anz s="anzai0097"]
-[ns]女[nse]
-「地震やおかしな人達のせいで、精神的にショック状[r]
-　態になっているのかもしれないわね……」[pcms]
+[ns]Female[nse]
+"Maybe she's in shock from the earthquake and the strange[r]
+people around..."[pcms]
 
 *10645|
 [fc]
 [vo_kob s="koba0174"]
-[ns]小林[nse]
-「だいじょうぶですよ。ちょっとボーッとしちゃった[r]
-　だけですから」[pcms]
+[ns]Kobayashi[nse]
+"It's okay. I just spaced out for a bit."[pcms]
 
 [ChrSetEx layer=2 chbase="anza_n01"][ChrSetXY layer=2 x=0 y=0][trans_c cross time=150]
 
 *10646|
 [fc]
 [vo_anz s="anzai0098"]
-[ns]女[nse]
-「落ち着くまで休んでいてもいいのよ？　わたしが一[r]
-　緒にいてあげる。いいわよね？」[pcms]
+[ns]Female[nse]
+"You can rest until you feel calm. I'll stay with you. Is[r]
+that alright?"[pcms]
 
 *10647|
 [fc]
-そう言って、こっちに顔を向けた女の人に、俺はうな[r]
-ずいて見せた。[pcms]
+Saying that, I nodded to the woman who turned her face[r]
+towards us.[pcms]
 
 *10648|
 [fc]
-気がついた時には襲われてた、ってことになってから[r]
-じゃ遅いからな……。[pcms]
+It'll be too late if we only realize we're being attacked[r]
+when it happens...[pcms]
 
 [ChrSetEx layer=3 chbase="koba_n12"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
 
 *10649|
 [fc]
 [vo_kob s="koba0175"]
-[ns]小林[nse]
-「ほんとにだいじょうぶです。さぁ、いこう？　ヒロ」[pcms]
+[ns]Kobayashi[nse]
+"I'm really fine. Shall we go, Hiro?"[pcms]
 
 *10650|
 [fc]
-[ns]大倉[nse]
-「ああ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Yeah..."[pcms]
 
 [chara_int_ layer=2][chara_int_ layer=3][trans_c cross time=150]
 
 *10651|
 [fc]
-ユウの様子に不安を感じながら、俺は３階へ続くエス[r]
-カレーターに向かって歩き出した。[pcms]
+Feeling anxious about Yuuki's condition, I started walking[r]
+towards the escalator leading to the third floor.[pcms]
 
 [fadeoutbgm time=502]
 [stop_se0]
@@ -157,4 +154,4 @@
 
 [jump storage="westtown_main10150.ks" target=*westtown_main10150_TOP]
 
-;//－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+;//

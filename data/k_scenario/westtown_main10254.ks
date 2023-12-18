@@ -21,21 +21,21 @@
 
 *11136|
 [fc]
-いま電話をかけても、またあのアナウンスが流れる[r]
-だけだろう。[pcms]
+Even if I call now, that announcement will probably just[r]
+play again.[pcms]
 
 *11137|
 [fc]
-俺は充電器を持っていないが、母さんは[r]
-いつでも充電出来る場所にいる。それなら、向こう[r]
-からの連絡を待っていた方が良いかもしれない。[pcms]
+I don't have a charger, but Mom is always in a place where[r]
+she can charge her phone. Maybe it's better to wait for her[r]
+to contact me.[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
 *11138|
 [fc]
-俺はこの場では連絡することを諦め、先へと急ぐ事に[r]
-決めた。[pcms]
+I decided to give up on contacting anyone from here and[r]
+hurried on ahead.[pcms]
 
 ;//[fadeoutbgm time=502]
 [stop_se0]

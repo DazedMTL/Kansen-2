@@ -14,7 +14,7 @@
 ;//4になるかも
 ;[eval exp="f.l_flow_flg = 3"]
 
-;//♪～　このファイルは無音
+;//♪　このファイルは無音
 
 ;//[]BG表示
 ;//★ＢＧ：地下搬入口
@@ -27,13 +27,14 @@
 
 *5300|
 [fc]
-[ns]大倉[nse]
-「！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"!!"[pcms]
 
 *5301|
 [fc]
-突然、幌がめくられる音がして、俺は膝の間に埋めて[r]
-いた顔を慌てて上げ、中腰になって身構えた。[pcms]
+Suddenly, I heard the sound of the canopy being lifted, and[r]
+I hurriedly raised my face that had been buried between my[r]
+knees, half-standing in a defensive posture.[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
@@ -41,257 +42,253 @@
 *5302|
 [fc]
 [vo_may s="maya0401"]
-[ns]摩耶[nse]
-「私……」[pcms]
+[ns]Maya[nse]
+"I..."[pcms]
 
 *5303|
 [fc]
-[ns]大倉[nse]
-「マヤちゃん！？　良かった、無事だったんだ……」[pcms]
+[ns]Ookura[nse]
+"Maya-chan!? Thank goodness, you're safe..."[pcms]
 
 *5304|
 [fc]
-久しぶりに聞いたマヤちゃんの声に、俺は大きく息を[r]
-吐き出して、尻餅をつくように床に座った。[pcms]
+Relieved to hear Maya-chan's voice after so long, I let out[r]
+a big sigh and sat down on the floor as if dropping onto my[r]
+butt.[pcms]
 
 *5305|
 [fc]
-[ns]大倉[nse]
-「どこ行ってたの？　遠くへは行かないって[r]
-　言ってたけど」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Where have you been? You said you wouldn't go far."[pcms]
 
 *5306|
 [fc]
-マヤちゃんが近くにくる気配のあと、何か重い物を置[r]
-いたような音がした。[pcms]
+After sensing Maya-chan approaching, I heard a sound like[r]
+something heavy being placed down.[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_n03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *5307|
 [fc]
 [vo_may s="maya0402"]
-[ns]摩耶[nse]
-「食べる物と、氷を探してた……。[r]
-　遅くなってごめんなさい……」[pcms]
+[ns]Maya[nse]
+"I was looking for food and ice... I'm sorry for being[r]
+late..."[pcms]
 
 *5308|
 [fc]
-上から下に移ってきて、目の前から聞こえるように[r]
-なった声の出所に、俺はしかめた顔を向けた。[pcms]
+I turned my scowling face towards the source of the voice[r]
+that had moved from above to in front of me.[pcms]
 
 *5309|
 [fc]
-[ns]大倉[nse]
-「食いモンと氷って……もしかして、またビルの中に[r]
-　入ったの！？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Food and ice... Don't tell me, you went inside the building[r]
+again!?"[pcms]
 
 *5310|
 [fc]
 [vo_may s="maya0403"]
-[ns]摩耶[nse]
-「この奥にある部屋……。多分、宿直室……」[pcms]
+[ns]Maya[nse]
+"The room in the back... Probably the duty room..."[pcms]
 
 *5311|
 [fc]
-[ns]大倉[nse]
-「宿直室……？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Duty room...?"[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_n01"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *5312|
 [fc]
 [vo_may s="maya0404"]
-[ns]摩耶[nse]
-「制服がかかってたから、多分、警備員の人が使って[r]
-　るんだと思う……。そこに冷蔵庫があったから、[r]
-　悪いとは思ったけど貰ってきた……」[pcms]
+[ns]Maya[nse]
+"There were uniforms hanging, so I think it's used by[r]
+security guards... There was a fridge there, and although I[r]
+felt bad, I took some..."[pcms]
 
 *5313|
 [fc]
-袋の中を漁るような音がして、次々と何かが床に置か[r]
-れていく。[pcms]
+I heard the sound of rummaging through a bag, followed by[r]
+items being placed on the floor one after another.[pcms]
 
 *5314|
 [fc]
-その中の１つ、ペットボトルらしい物を、マヤちゃん[r]
-は俺の手に持たせた。[pcms]
+Among them, Maya-chan handed me something that felt like a[r]
+plastic bottle.[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_n07"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *5315|
 [fc]
 [vo_may s="maya0405"]
-[ns]摩耶[nse]
-「お水……。フタが開いてないのを持ってきたから、[r]
-　飲んでも大丈夫だと思うけど……」[pcms]
+[ns]Maya[nse]
+"Water... I brought ones with unopened caps, so I think it's[r]
+safe to drink..."[pcms]
 
 *5316|
 [fc]
-[ns]大倉[nse]
-「ん、ありがとう」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Mm, thank you."[pcms]
 
 *5317|
 [fc]
-俺は手探りでフタを開けて、勢い良く喉に流し込んだ。[pcms]
+I fumbled to open the cap and eagerly gulped down the water.[pcms]
 
 *5318|
 [fc]
-喉を通り、胃に落ちた冷たい水が、さらに全身に[r]
-拡がっていくように感じて、干からびた自分の体が元[r]
-に戻っていくように思えた。[pcms]
+The cold water passed through my throat and settled in my[r]
+stomach, spreading throughout my body, making me feel as if[r]
+my parched self was being restored.[pcms]
 
 *5319|
 [fc]
-[ns]大倉[nse]
-「ハァ～ッ……」[pcms]
+[ns]Ookura[nse]
+"Haaah..."[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_n03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *5320|
 [fc]
 [vo_may s="maya0406"]
-[ns]摩耶[nse]
-「これで目を冷やして……。[r]
-　効くかどうか、わからないけど……」[pcms]
+[ns]Maya[nse]
+"Use this to cool your eyes... I don't know if it will work,[r]
+but..."[pcms]
 
 *5321|
 [fc]
-次にマヤちゃんが俺に持たせたのは、ヒンヤリとした[r]
-タオルで、手触りとか音から、氷を入れたビニール袋[r]
-を包んだものらしかった。[pcms]
+Next, Maya-chan handed me a cool towel which, by its feel[r]
+and sound, seemed to be wrapped around a plastic bag filled[r]
+with ice.[pcms]
 
 *5322|
 [fc]
-そうか……。[r]
-氷って、このために……。[r]
-それで、わざわざムチャして……。[pcms]
+So that's it... The ice was for this... And she went through[r]
+all that trouble...[pcms]
 
 *5323|
 [fc]
-[ns]大倉[nse]
-「ゴメンね、俺のために……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"I'm sorry, for making you do this for me..."[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_n02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *5324|
 [fc]
 [vo_may s="maya0407"]
-[ns]摩耶[nse]
-「“困っている時に助けてやれないなんて、そんなの[r]
-　友達じゃねー”……」[pcms]
+[ns]Maya[nse]
+"'If you can't help someone in trouble, then what kind of[r]
+friend are you...'”[pcms]
 
 *5325|
 [fc]
-申し訳ない気持ちで一杯になって、暗い声になる俺に、[r]
-聞き覚えのある言葉を、マヤちゃんは言った。[pcms]
+Filled with guilt and speaking in a somber tone, I heard[r]
+Maya-chan repeat a familiar phrase.[pcms]
 
 *5326|
 [fc]
-あれ……？[r]
-今の、どっかで……。[pcms]
+Wait...? Where have I heard that before...?[pcms]
 
 *5327|
 [fc]
-[ns]大倉[nse]
-「……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"..."[pcms]
 
 *5328|
 [fc]
-どこで聞いたのか思い出せなくて、ポカンとした顔で[r]
-いると、マヤちゃんの小さく笑う声が聞こえてきた。[pcms]
+Unable to remember where I had heard it and looking puzzled,[r]
+I heard Maya-chan's soft laughter.[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_n03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *5329|
 [fc]
 [vo_may s="maya0408"]
-[ns]摩耶[nse]
-「ヒロシが言ったことなのに、憶えてないの……」[pcms]
+[ns]Maya[nse]
+"Hiroshi said it himself, and he doesn't remember..."[pcms]
 
 *5330|
 [fc]
-[ns]大倉[nse]
-「あ、あー、そっか、俺が言ったんだっけ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Ah, ah-, right, was it something I said...?"[pcms]
 
 *5331|
 [fc]
-本人も言われて思い出すような言葉を、マヤちゃんが[r]
-憶えていたコトが、俺にはオドロキだった。[pcms]
+The fact that Maya-chan remembered words that even the[r]
+person who said them had to be reminded of was surprising to[r]
+me.[pcms]
 
 *5332|
 [fc]
-[ns]大倉[nse]
-「確かに、困った時に助け合うのが友達だけど、[r]
-　だからって……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Surely, helping each other out in times of trouble is what[r]
+friends do, but still..."[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_n01"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *5333|
 [fc]
 [vo_may s="maya0409"]
-[ns]摩耶[nse]
-「ヒロシは……」[pcms]
+[ns]Maya[nse]
+"Hiroshi is..."[pcms]
 
 *5334|
 [fc]
-俺の言葉を遮って、マヤちゃんは強く、ハッキリと[r]
-言った。[pcms]
+Interrupting me, Maya-chan spoke firmly and clearly.[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_n02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *5335|
 [fc]
 [vo_may s="maya0410"]
-[ns]摩耶[nse]
-「ヒロシは、私の大事な友達だから……。[r]
-　少なくとも、私はそう思ってるから……」[pcms]
+[ns]Maya[nse]
+"Hiroshi is an important friend to me... At least, that's[r]
+what I believe..."[pcms]
 
 *5336|
 [fc]
-[ns]大倉[nse]
-「……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"..."[pcms]
 
 *5337|
 [fc]
-ちょっと目が見えなくなったぐらいで、マヤちゃんを[r]
-疑って、自分を置いて逃げたとかウジウジして……。[pcms]
+I doubted Maya-chan just because I couldn't see for a bit[r]
+and sulked about her leaving me behind...[pcms]
 
 *5338|
 [fc]
-ホント、バカじゃねーのか……？[r]
-自分がこんなに情けないヤツだとは思わなかった……。[pcms]
+Really, am I such an idiot...? I never thought I could be so[r]
+pathetic...[pcms]
 
 *5339|
 [fc]
-そんな自分を、マヤちゃんが友達だと言ってくれた[r]
-コトが嬉しくて、俺はタオルを両目に交互に当てて、[r]
-なんでか少しずつ溜まってきた涙をごまかした。[pcms]
+Hearing Maya-chan call me her friend made me so happy that I[r]
+alternated the towel over my eyes to hide the tears that[r]
+were starting to well up for some reason.[pcms]
 
 *5340|
 [fc]
-[ns]大倉[nse]
-「マヤちゃんだけじゃないよ。俺も、マヤちゃんの[r]
-　コト、大事な友達だと思ってるから」[pcms]
+[ns]Ookura Hiroshi[nse]
+"It's not just Maya-chan. I also think of you as an[r]
+important friend."[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *5341|
 [fc]
-目の前に見えていたマヤちゃんの影が、俺の隣へ[r]
-動いて、肩にヒトの温度を感じるようになって、声が[r]
-すぐ横から聞こえるようになった。[pcms]
+The shadow of Maya-chan that I could see in front of me[r]
+moved next to me, and I began to feel someone's warmth on my[r]
+shoulder as her voice sounded right beside me.[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_n03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *5342|
 [fc]
 [vo_may s="maya0411"]
-[ns]摩耶[nse]
-「少し休んだら……。[r]
-　ここなら、変な人達はこないから……」[pcms]
+[ns]Maya[nse]
+"Let's rest a little... No strange people will come here..."[pcms]
 ;//◎少し休んだら……＝少し休んだら？　というニュアンスで
 
 *5343|
 [fc]
-[ns]大倉[nse]
-「うん……」[pcms]
+[ns]Ookura[nse]
+"Yeah..."[pcms]
 
 *5344|
 [fc]
-肩から伝わってくるマヤちゃんの温度に、なんだか[r]
-ホッとした気持ちになって、俺のまぶたは自然と閉じ[r]
-ていった。[pcms]
+Comforted by the warmth coming from Maya-chan's shoulder, my[r]
+eyelids naturally closed.[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
@@ -299,4 +296,4 @@
 
 [jump storage="jingujiroute12180.ks" target=*jingujiroute12180_TOP]
 
-;//－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+;//

@@ -24,49 +24,49 @@
 
 *4313|
 [fc]
-４階には相変わらず、多くのイカレ野郎があちこちを[r]
-ウロついていた。[pcms]
+As usual, the fourth floor was crawling with a bunch of[r]
+crazies.[pcms]
 
 *4314|
 [fc]
-けど、前と違って自分らが武器を持っているというこ[r]
-とを利用して、状況を有利にしようと俺はみんなに持[r]
-ちかけた。[pcms]
+But unlike before, I suggested to everyone that we use the[r]
+fact we're armed to our advantage and turn the situation in[r]
+our favor.[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
 *4315|
 [fc]
-[ns]大倉[nse]
-「あそこの、ドアが開きっぱなしになってる映画館に、[r]
-　外をウロついてるヤツを閉じこめるんだ」[pcms]
+[ns]Ookura Hiroshi[nse]
+"We're going to trap those wandering outside in that movie[r]
+theater with the door left wide open."[pcms]
 
 *4316|
 [fc]
-[ns]大倉[nse]
-「そうすりゃ、あとで起き上がってきても、さっきみ[r]
-　たいに襲われない」[pcms]
+[ns]Ookura Hiroshi[nse]
+"That way, even if they get up later, we won't be attacked[r]
+like before."[pcms]
 
 [ChrSetEx layer=4 chbase="anza_n09"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *4317|
 [fc]
 [vo_anz s="anzai0320"]
-[ns]みき[nse]
-「そうね、安全な方がいいに越したことはないし……。[r]
-　でも、無理はしないようにね。引っかかれるだけで[r]
-　も、ウイルスに感染するんだから」[pcms]
+[ns]Mikki[nse]
+"That's right, it's better to be safe... But don't push[r]
+yourself too hard. Even a scratch can infect you with the[r]
+virus."[pcms]
 
 *4318|
 [fc]
-アンザイさんの言葉にうなずいて、俺はマヤちゃんに[r]
-顔を向けた。[pcms]
+I nodded at Anzai-san's words and turned my face towards[r]
+Maya-chan.[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_f03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *4319|
 [fc]
-[ns]大倉[nse]
-「危ないから、マヤちゃんは離れてて」[pcms]
+[ns]Ookura[nse]
+"It's dangerous, so Maya-chan, stay back."[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_f04"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 [wait_c time=500]
@@ -74,22 +74,22 @@
 
 *4320|
 [fc]
-彼女がうなずくのを見て、俺はシャベルを腰に構え、[r]
-一番近くをウロついてるヤツに向かった。[pcms]
+Seeing her nod, I gripped the shovel at my waist and[r]
+approached the closest one wandering around.[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
 ;//BKACKOUT
 *4320a|
 [fc]
-俺らはまず、イカレ野郎を倒し、動けなくしてから、[r]
-ヤツらの体に触らないように、持ってる武器で映画館[r]
-の中へ押し込んだ。[pcms]
+First, we took down the crazies, immobilized them, and then[r]
+pushed them into the movie theater with our weapons without[r]
+touching their bodies.[pcms]
 
 *4321|
 [fc]
-だいぶかかって、俺らはなんとか外をウロついてたヤ[r]
-ツを全員、『Ｎｏ．６』の映画館に閉じこめた。[pcms]
+It took quite a while, but we somehow managed to lock all[r]
+those wandering outside into cinema "No. 6".[pcms]
 
 ;//[]BG表示
 ;//★ＢＧ：映画館・通路A
@@ -102,15 +102,14 @@
 
 *4322|
 [fc]
-扉を開かないようにするのに、ホントはシャベルを使[r]
-いたかったけど、形の問題で、取っ手の裏にはピッケ[r]
-ルしか通らなかった。[pcms]
+I wanted to use a shovel to keep the door from opening, but[r]
+due to its shape, only a pickaxe could fit through the[r]
+handle on the back.[pcms]
 
 *4323|
 [fc]
-[ns]大倉[nse]
-「コレじゃねーとムリだな……。ユウ、コレ使ってい[r]
-　いか？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"This won't do... Yuu, can you use this?"[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
@@ -118,16 +117,15 @@
 *4324|
 [fc]
 [vo_kob s="koba0357"]
-[ns]小林[nse]
-「いいよー」[pcms]
+[ns]Kobayashi[nse]
+"Sure."[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *4325|
 [fc]
-ユウのピッケルで『Ｎｏ．６』の扉を固定してから、[r]
-俺らは『Ｎｏ．３』の映画館に入り、それぞれ好きな[r]
-場所へ腰を下ろした。[pcms]
+After securing the door of "No. 6" with Yuu's pickaxe, we[r]
+entered cinema "No. 3" and each found a spot to sit down.[pcms]
 
 ;//♪：bgm009 fadeout
 [fadeoutbgm time=1000]
@@ -144,52 +142,51 @@
 
 *4326|
 [fc]
-[ns]大倉[nse]
-「ハァ～ッ、疲れた……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Phew, I'm exhausted..."[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_f02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *4327|
 [fc]
 [vo_may s="maya0298"]
-[ns]摩耶[nse]
-「ごめんなさい……何もできなくて……」[pcms]
+[ns]Maya[nse]
+"I'm sorry... I couldn't do anything..."[pcms]
 
 *4328|
 [fc]
-通路沿いの席に座り、うなだれて、大きく息をつくと、[r]
-俺の前の椅子に腰を下ろしたマヤちゃんが、申し訳な[r]
-さそうな顔をして言った。[pcms]
+Sitting in a seat along the aisle, I sighed deeply and Maya-[r]
+chan, who sat down in the chair in front of me, said with an[r]
+apologetic look.[pcms]
 
 *4329|
 [fc]
-[ns]大倉[nse]
-「そんなことないよ。さっき助けてくれたじゃん、俺[r]
-　のコト」[pcms]
+[ns]Ookura Hiroshi[nse]
+"That's not true. You helped me out just now, didn't you?"[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_f04"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *4330|
 [fc]
 [vo_may s="maya0299"]
-[ns]摩耶[nse]
-「あれは、咄嗟に……」[pcms]
+[ns]Maya[nse]
+"That was just on impulse..."[pcms]
 
 *4331|
 [fc]
-[ns]大倉[nse]
-「俺がアツくなってギャーギャー言ってる時も、マヤ[r]
-　ちゃんが冷静にダメ出ししてくれたしさ」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Even when I was getting heated and ranting, Maya-chan, you[r]
+were there to calmly point out what was wrong."[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_f02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 *4332|
 [fc]
 [vo_may s="maya0300"]
-[ns]摩耶[nse]
-「……」[pcms]
+[ns]Maya[nse]
+"..."[pcms]
 
 *4333|
 [fc]
-[ns]大倉[nse]
-「気にしなくていーって。大丈夫」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Don't worry about it. It's okay."[pcms]
 
 ;//♪：m02 stop
 [fadeoutbgm time=1000]
@@ -199,19 +196,19 @@
 
 *4334|
 [fc]
-納得いかないって顔のマヤちゃんに、そう言って笑っ[r]
-てみせた途端、映画館の中の電気が全部消えた。[pcms]
+Just as I said that with a smile to Maya-chan, who looked[r]
+unconvinced, all the lights inside the cinema went out.[pcms]
 
 *4335|
 [fc]
-[ns]大倉[nse]
-「停電！？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"A blackout!?"[pcms]
 
 *4336|
 [fc]
-壁の下の方に付いてる、『非常口』と書かれた標識の[r]
-白い光を頼りに出入り口まで行き、扉を少し開けて外[r]
-を覗いてみる。[pcms]
+Relying on the white light of the "Emergency Exit" sign[r]
+attached near the bottom of the wall, I went to the entrance[r]
+and peeked outside through a slightly opened door.[pcms]
 
 ;//[]BG表示
 ;//★ＢＧ：映画館・通路B
@@ -224,41 +221,40 @@
 
 *4337|
 [fc]
-[ns]大倉[nse]
-「外も消えてんな……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"It's out outside too..."[pcms]
 
 *4338|
 [fc]
-どうやら建物全体が停電してるみたいで、暗い通路を[r]
-『非常口』の灯りだけが、辺りをボンヤリと照らして[r]
-いる。[pcms]
+It seems like the whole building is experiencing a blackout,[r]
+with only the light from the "Emergency Exit" signs dimly[r]
+illuminating the dark corridors.[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
 *4339|
 [fc]
-この建物だけなのか、それとも、この辺り全部が停電[r]
-してんのか……。[pcms]
+I wonder if it's just this building or if the whole area is[r]
+having a blackout...[pcms]
 
 *4340|
 [fc]
-どっちにしろ、停電したままだと３階のシャッター開[r]
-かねーぞ……。[pcms]
+If it stays like this, we won't be able to open the shutters[r]
+on the third floor...[pcms]
 
 *4341|
 [fc]
-けど、自分にどうにかできる問題じゃねーし……。[pcms]
+But it's not something I can do anything about...[pcms]
 
 *4342|
 [fc]
-[ns]大倉[nse]
-「違うトコから向こうに行けないか、考えた方が早い[r]
-　かもな……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"It might be faster to think about getting over there from a[r]
+different place..."[pcms]
 
 *4343|
 [fc]
-俺は溜息をつきながら、さっき自分が座っていた場所[r]
-へ戻った。[pcms]
+I sighed and returned to where I had been sitting before.[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 
@@ -266,4 +262,4 @@
 
 [jump storage="jingujiroute12011.ks" target=*jingujiroute12011_TOP]
 
-;//－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+;//

@@ -24,14 +24,13 @@
 *14375|
 [fc]
 [vo_hay s="hayami0419"]
-[ns]ありす[nse]
-「ひっ……」[pcms]
+[ns]Arisu[nse]
+"Hik...!"[pcms]
 
 *14376|
 [fc]
-オジサンの振り下ろしたナイフは、[r]
-あたしの太ももスレスレに突き刺さって、[r]
-ベッドの中の羽毛が飛び散った。[pcms]
+The knife the old man swung down stabbed into the bed just[r]
+past my thigh, scattering the feathers inside.[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
@@ -39,309 +38,298 @@
 
 *14377|
 [fc]
-[ns]菅生[nse]
-「ベッドで待っててくれるなんざ……、[r]
-　嬉しいねぇ！！　俺様の為によぉ！！」[pcms]
+[ns]Sugou[nse]
+"To think you'd be waiting for me in bed... I'm delighted!![r]
+All for me, huh!!"[pcms]
 
 *14378|
 [fc]
 [vo_hay s="hayami0420"]
-[ns]ありす[nse]
-「長崎さん……起きてよ……ぐすっ……、[r]
-　うぅ……うわあぁぁあぁぁん！！　長崎さん！！」[pcms]
+[ns]Arisu[nse]
+"Nagasaki-san... please wake up... *sob*... ugh...[r]
+uwaaaahhh!! Nagasaki-san!!"[pcms]
 
 *14379|
 [fc]
-いくら揺さぶっても、叩いても、長崎さんは全く[r]
-目を覚まさなかった。[pcms]
+No matter how much I shook her or hit her, Nagasaki-san[r]
+wouldn't wake up at all.[pcms]
 
 *14380|
 [fc]
-オジサンが言ったように、寝たフリをしている様でも[r]
-無かった。[pcms]
+Just as the old man said, it didn't seem like she was[r]
+pretending to be asleep.[pcms]
 
 *14381|
 [fc]
 [vo_hay s="hayami0421"]
-[ns]ありす[nse]
-「一体、どうしたの……！？　早く逃げないと……！[r]
-　あたしだけ逃げる訳にはいかないのに！！」[pcms]
+[ns]Arisu[nse]
+"What on earth...!? We need to escape quickly...! I can't[r]
+just run away by myself!!"[pcms]
 
 [ChrSetEx layer=4 chbase="sugo_k03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *14382|
 [fc]
-[ns]菅生[nse]
-「いい加減黙れや！！　テメェもコイツの餌食に[r]
-　なりてぇのかァ？　アァ！？」[pcms]
+[ns]Sugou[nse]
+"Shut the hell up already!! Do you wanna become this guy's[r]
+prey too, huh? Huh!?"[pcms]
 
 *14383|
 [fc]
-オジサンはベッドに突き立てられていたナイフを[r]
-引き抜いて、あたしの目の前の空気を切り裂いた。[pcms]
+The old man pulled out the knife that was stuck in the bed[r]
+and slashed the air right in front of me.[pcms]
 
 *14384|
 [fc]
 [vo_hay s="hayami0422"]
-[ns]ありす[nse]
-「きゃぁぁぁぁぁあああぁぁあ！！」[pcms]
+[ns]Alice[nse]
+"Kyaaaahhhhhhh!!"[pcms]
 
 *14385|
 [fc]
-[ns]菅生[nse]
-「オラァ！！　コイツでザックリやられたく[r]
-　なかったら、デッケェ姉ちゃんをコイツで縛りな！」[pcms]
+[ns]Sugou[nse]
+"Hey!! If you don't want to get slashed up by this thing,[r]
+tie up that big sister with it!"[pcms]
 
 *14386|
 [fc]
 [vo_hay s="hayami0423"]
-[ns]ありす[nse]
-「痛っ……！？　いやぁあぁ！！　[r]
-　……！？　な……何よ……コレ……」[pcms]
+[ns]Arisu[nse]
+"Ouch...!? Nooo!! ...!? What... what is this...?"[pcms]
 
 *14387|
 [fc]
-あたしの胸に何かがぶつかって、足下に落ちた。[r]
-よく見るとそれは、荷作りするときに使う、[r]
-ヒモだった。[pcms]
+Something hit my chest and fell to my feet. When I looked[r]
+closely, it was a rope used for tying things up.[pcms]
 
 [ChrSetEx layer=4 chbase="sugo_k01"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *14388|
 [fc]
-[ns]菅生[nse]
-「モタモタしてねぇで、そいつが起きる前にさっさと[r]
-　縛っちまえよ！」[pcms]
+[ns]Sugou[nse]
+"Don't dawdle, tie her up before that one wakes up!"[pcms]
 
 *14389|
 [fc]
-ナイフを構えてにやつきながら、あたしに命令する[r]
-オジサン。[pcms]
+While grinning with a knife in hand, the old man ordered me[r]
+around.[pcms]
 
 *14390|
 [fc]
 [vo_hay s="hayami0424"]
-[ns]ありす[nse]
-「どうして……自分でやらないのよ……。[r]
-　なんであたしにこんな事させるの！？」[pcms]
+[ns]Arisu[nse]
+"Why... won't you do it yourself...? Why are you making me[r]
+do such a thing!?"[pcms]
 
 *14391|
 [fc]
-あたしは、まるで犯罪の片棒を担がされているような[r]
-気がして、オジサンに従うのがイヤだった。[pcms]
+I felt like I was being made an accomplice to a crime, and I[r]
+hated following the old man's orders.[pcms]
 
 *14392|
 [fc]
-ただでさえ、人を殺してしまったかもしれないのに、[r]
-これ以上悪いことを重ねたくない。[pcms]
+I might have already killed someone, and I didn't want to[r]
+pile on more bad deeds.[pcms]
 
 [ChrSetEx layer=4 chbase="sugo_k02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *14393|
 [fc]
-[ns]菅生[nse]
-「俺様が縛ってる間に逃げられたら、[r]
-　たまったモンじゃねぇからな……。また探すの[r]
-　メンドクセェしよ！！　分かったらさっさとヤれ！」[pcms]
+[ns]Sugou[nse]
+"If you try to escape while I'm tying her up, it'll be a[r]
+real pain... I don't want to go looking for you again!! Got[r]
+it? So hurry up and do it!"[pcms]
 
 *14394|
 [fc]
-オジサンはナイフを振り回して、あたしを睨む。[r]
-あたしを睨み付けるその目は、[r]
-明らかに普通じゃなかった。[pcms]
+The old man waved his knife around and glared at me. His[r]
+eyes, glaring at me, were clearly not normal.[pcms]
 
 *14395|
 [fc]
-血走り、大きく見開かれた瞳は、あたしじゃない[r]
-誰かを睨んでいる。[pcms]
+They were bloodshot and wide open, glaring at someone other[r]
+than me.[pcms]
 
 *14396|
 [fc]
-この人も、やっぱり……。[r]
-街の人達みたいに、おかしくなってる……？[pcms]
+This person too, has he... gone crazy like the people in[r]
+town...?[pcms]
 
 *14397|
 [fc]
-戸惑うあたしの顔のすぐ横を、オジサンのナイフが[r]
-掠める。[pcms]
+The old man's knife grazed right past my face as I stood[r]
+there bewildered.[pcms]
 
 *14398|
 [fc]
-[ns]菅生[nse]
-「ヒヒッ！　俺様ァ、もう怖いモンなんてねえ！！[r]
-　コイツで何人もヤッちまったからな！！[r]
-　何も躊躇いなくザックリいくぜェ！？」[pcms]
+[ns]Sugou[nse]
+"Heheh! I ain't scared of anything anymore!! I've done in so[r]
+many with this thing!! I won't hesitate to slash you wide[r]
+open!?"[pcms]
 
 [ChrSetEx layer=4 chbase="sugo_k01"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *14399|
 [fc]
-[ns]菅生[nse]
-「分かったら……さっさと言われた通りにしな！」[pcms]
+[ns]Sugou[nse]
+"Got it? Now hurry up and do as you're told!"[pcms]
 
 *14400|
 [fc]
 [vo_hay s="hayami0425"]
-[ns]ありす[nse]
-「くっ……、長崎さん……ごめんなさい……。[r]
-　ごめんなさい……」[pcms]
+[ns]Alice[nse]
+"Ugh... Nagasaki-san... I'm sorry... I'm so sorry..."[pcms]
 ;//◎涙声で
 
 *14401|
 [fc]
-眠ったままの長崎さんの手を縛りながら、謝るあたし。[pcms]
+While tying Nagasaki-san's hands as she remained asleep, I[r]
+apologized.[pcms]
 
 *14402|
 [fc]
-あたしは一体、何をしてるんだろう……。[pcms]
+What on earth am I doing...?[pcms]
 
 *14403|
 [fc]
-せめてもと、長崎さんの腕は、[r]
-オジサンに気が付かれない様に、すこし緩めに縛った。[pcms]
+To make amends, I tied Nagasaki-san's arms loosely so the[r]
+old man wouldn't notice.[pcms]
 
 [ChrSetEx layer=4 chbase="sugo_n02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *14404|
 [fc]
-[ns]菅生[nse]
-「終わったか……次はオッパイちゃん、オメェだ……。[r]
-　色々持ってきたから、俺様と遊ぼうぜェ……！！[r]
-　ヒャハハハ！！　ヒャハハハハ！！」[pcms]
+[ns]Sugou[nse]
+"You done yet...? Next up is you, Tits. I've brought a[r]
+variety of things, so let's have some fun with me...!![r]
+Hyahahaha!! Hyahahahaha!!"[pcms]
 
 *14405|
 [fc]
-オジサンは、ピンク色のローターや、[r]
-バイブレーターを持ってニヤニヤしている。[pcms]
+The old man was grinning with a pink rotor and a vibrator in[r]
+his hands.[pcms]
 
 *14406|
 [fc]
-どっちもヒロシの持っていた本や、ネットでこっそり[r]
-見た事はあった。[pcms]
+I had seen both in books Hiroshi had and on the internet[r]
+when I secretly looked them up.[pcms]
 
 *14407|
 [fc]
-でも実際に目の前にあるソレが、[r]
-まさかあたしに対して使われるなんて事は、[r]
-これっぽっちも想像できなかった。[pcms]
+But I never imagined that these things would actually be[r]
+used on me, not even in the slightest.[pcms]
 
 [ChrSetEx layer=4 chbase="sugo_n03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *14408|
 [fc]
-[ns]菅生[nse]
-「ンだぁ？　こいつがそんなに好きかぁ？[r]
-　変態だな、その歳でよ！！　それともあの男……、[r]
-　オメェの彼氏、こんなん使ってんのかァ！？」[pcms]
+[ns]Sugou[nse]
+"What's this? You like this thing that much? You're a[r]
+pervert for your age!! Or maybe that guy... is he your[r]
+boyfriend? Does he use these things on you!?"[pcms]
 
 *14409|
 [fc]
 [vo_hay s="hayami0426"]
-[ns]ありす[nse]
-「ち……違う！　そんなの使ったことない！」[pcms]
+[ns]Alice[nse]
+"No... that's not it! I've never used such things!"[pcms]
 
 [ChrSetEx layer=4 chbase="sugo_k03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *14410|
 [fc]
-[ns]菅生[nse]
-「もうよォ……俺様のヂンボゴがよ……、[r]
-　言うこと聞かねぇんだよ！！　オメェ、相手しろ！[r]
-　相手！！　さっさと脱げやオラァ！！」[pcms]
+[ns]Sugou[nse]
+"Enough already... my dick is getting impatient... Listen to[r]
+what I say! Entertain me! Entertain!! Strip now, hurry up!!"[pcms]
 
 *14411|
 [fc]
 [vo_hay s="hayami0427"]
-[ns]ありす[nse]
-「あぁ……いやっ！！　いやぁ！！[r]
-　離して！！　やめてぇ！！　変態！！　変態！！」[pcms]
+[ns]Arisu[nse]
+"Ahh... no!! Nooo!! Let go!! Stop it!! Pervert!! Pervert!!"[pcms]
 
 *14412|
 [fc]
-あたしに飛びかかったオジサンは、制服を無理に[r]
-破こうとした。[pcms]
+The old man who pounced on me tried to forcibly tear off my[r]
+uniform.[pcms]
 
 *14413|
 [fc]
-でも、制服は少し横に広がっただけで、オジサンは[r]
-すぐにそれを諦めた。[pcms]
+But the uniform only stretched a bit to the side, and he[r]
+quickly gave up on tearing it.[pcms]
 
 [ChrSetEx layer=4 chbase="sugo_n04"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *14414|
 [fc]
-[ns]菅生[nse]
-「何だこりゃ！！　破れねぇ！！　クソッ！！[r]
-　オイお前！！　脱げ！！　今すぐ脱げよクソッタレ！[r]
-　チッ……ビデオじゃ簡単に破れてたのによ！！」[pcms]
+[ns]Sugou[nse]
+"What's this crap?! It won't tear!! Damn it!! Hey you!![r]
+Strip!! Strip right now, damn you! Tch... it tore easily in[r]
+the videos!!"[pcms]
 
 *14415|
 [fc]
-頭を押さえつけられ、ほっぺたにナイフを押し当て[r]
-られながら怒鳴られ、あたしに許される選択は、[r]
-たった一つしかなかった。[pcms]
+As he held my head down and pressed a knife against my cheek[r]
+while yelling, there was only one choice left for me.[pcms]
 
 *14416|
 [fc]
-悔しい！！　せっかく逃げられそうだったのに！！[r]
-またこんな……こんな目に！！[pcms]
+It's so frustrating!! I was almost able to escape!! To go[r]
+through this again... this kind of experience!![pcms]
 
 *14417|
 [fc]
-今日は、最悪の日！[r]
-生まれてきてから今までこんな……。[r]
-こんなに酷い日は無かった！！[pcms]
+Today is the worst day! There has never been such a terrible[r]
+day in my life until now!![pcms]
 
 [ChrSetEx layer=4 chbase="sugo_k05"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *14418|
 [fc]
-[ns]菅生[nse]
-「脱げよオラァ！！」[pcms]
+[ns]Sugou[nse]
+"Strip now, hurry up!!"[pcms]
 
 *14419|
 [fc]
 [vo_hay s="hayami0428"]
-[ns]ありす[nse]
-「痛いっ！」[pcms]
+[ns]Alice[nse]
+"Ouch!"[pcms]
 
 *14420|
 [fc]
-ナイフの背が、ほっぺたに食い込む。[r]
-このままだと、ホントに顔を切られちゃう。[pcms]
+The back of the knife dug into my cheek. If this continued,[r]
+he would really cut my face.[pcms]
 
 *14421|
 [fc]
-オジサンに抵抗することを諦め、目を閉じたあたし。[r]
-溢れた涙が、ほっぺたを伝う。[pcms]
+Giving up on resisting the old man, I closed my eyes. The[r]
+tears that overflowed traced down my cheeks.[pcms]
 
 *14422|
 [fc]
-目を閉じたまま制服を脱ごうとしたけど、[r]
-その手をオジサンが止めた。[pcms]
+As I tried to take off my uniform with my eyes closed, the[r]
+old man stopped my hands.[pcms]
 
 [ChrSetEx layer=4 chbase="sugo_k03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *14423|
 [fc]
-[ns]菅生[nse]
-「テメェ！　モタモタしてんじゃねぇよ！！[r]
-　クソッ！！　こんなモン！！」[pcms]
+[ns]Sugou[nse]
+"You! Don't dawdle around!! Damn it!! This crap!!"[pcms]
 
 *14424|
 [fc]
 [vo_hay s="hayami0429"]
-[ns]ありす[nse]
-「痛い！！　そんな無理にしないで！！[r]
-　言うこと聞くから……！！」[pcms]
+[ns]Alice[nse]
+"Ow!! Don't be so rough!! I'll listen to what you say...!!"[pcms]
 ;//◎泣き声
 
 [ChrSetEx layer=4 chbase="sugo_k05"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *14425|
 [fc]
-[ns]菅生[nse]
-「ウルセェ！！」[pcms]
+[ns]Sugou[nse]
+"Shut up!!"[pcms]
 
 ;//♪：bgm009 fadeout
 [fadeoutbgm time=1000][wb]
@@ -370,288 +358,273 @@
 
 *14426|
 [fc]
-オジサンはあたしの制服を無理矢理捲り上げ、[r]
-ソファーに押し倒した。[pcms]
+The old man forcefully rolled up my uniform and pushed me[r]
+down onto the sofa.[pcms]
 
 *14427|
 [fc]
-目の前に仁王立ちになったオジサンは、[r]
-鼻息を荒くして、顔を近づけてくる。[pcms]
+Standing over me, the old man approached with rough breaths,[r]
+bringing his face close to mine.[pcms]
 
 *14428|
 [fc]
-[ns]菅生[nse]
-「へ……へへっ！！[r]
-　いいカッコだな、オイ！！　来たぜぇ！！[r]
-　来たぜェ！！　俺様のヂンボゴがよぉ！！」[pcms]
+[ns]Sugou[nse]
+"Heh... heheh!! You look good, damn!! Here it comes!! Here[r]
+it comes!! My dick is ready!!"[pcms]
 
 *14429|
 [fc]
-制服とブラを捲り上げられて、上下につぶされた[r]
-オッパイが丸見えになった。[pcms]
+My uniform and bra were rolled up, and my breasts were[r]
+completely exposed as they were squished up and down.[pcms]
 
 [evcg storage="HEV203b"][trans_c cross time=301]
 
 *14430|
 [fc]
 [vo_hay s="hayami0430"]
-[ns]ありす[nse]
-「やだぁ！！　こんなのいやだ！！[r]
-　見ないでよ！！　やだぁぁあ！！」[pcms]
+[ns]Alice[nse]
+"No!! I don't want this!! Don't look!! Noooo!!"[pcms]
 
 *14431|
 [fc]
-[ns]菅生[nse]
-「なンだよ！！　乳首おっ立ててるクセによ！！[r]
-　イヤよイヤよも好きのウチってかぁ！？[r]
-　ヒャハァ！！　オメェも喜んでんじゃねぇか！！」[pcms]
+[ns]Sugou[nse]
+"What's this!? Your nipples are hard, aren't they!? Playing[r]
+hard to get, huh!? Hyaha!! You're enjoying this, aren't[r]
+you!!"[pcms]
 
 [evcg storage="HEV203a"][trans_c cross time=301]
 
 *14432|
 [fc]
 [vo_hay s="hayami0431"]
-[ns]ありす[nse]
-「ちっ……違うっ！！　そんなことないよ！！[r]
-　いやぁあああ！　恥ずかしい！　見ないでぇ！！」[pcms]
+[ns]Alice[nse]
+"Tch... No!! That's not it at all!! Nooooo! I'm embarrassed![r]
+Don't look!!"[pcms]
 
 *14433|
 [fc]
-[ns]菅生[nse]
-「見るなっつっても、こんなデッケェオッパイ、[r]
-　見ねぇ訳いかねぇだろォ！！　ほぉ～！！[r]
-　ほんっとデッケェなぁ！！　オッパイちゃんよォ！」[pcms]
+[ns]Sugou[nse]
+"Even if you say don't look, with such huge tits, I can't[r]
+help but stare!! Hoo~!! They're really huge, tits-chan!!"[pcms]
 
 [evcg storage="HEV203b"][trans_c cross time=301]
 
 *14434|
 [fc]
 [vo_hay s="hayami0432"]
-[ns]ありす[nse]
-「言わないで……そんな事……うぅ……、[r]
-　もうやぁ……ぐすっ……」[pcms]
+[ns]Alice[nse]
+"Don't say... things like that... ugh..., I can't take it[r]
+anymore... sob..."[pcms]
 
 *14435|
 [fc]
-胸を丸出しにしたままの惨めな姿を、こんな[r]
-変態オジサンに見られて、それに、バカにされて……。[pcms]
+Exposed with my breasts out, seen by such a perverted old[r]
+man, and being ridiculed...[pcms]
 
 *14436|
 [fc]
-もう死にたい……。[pcms]
+I just want to die...[pcms]
 
 *14437|
 [fc]
-こんな事がずっと続くんなら、いっそこの場で[r]
-死んでしまいたい。[pcms]
+If this is going to continue, I'd rather die right here.[pcms]
 
 *14438|
 [fc]
-自分の姿を想像すると、それがあまりにも惨めに[r]
-思えて、涙が溢れてくる。[pcms]
+Imagining myself in this situation, it seemed so miserable[r]
+that tears overflowed.[pcms]
 
 *14439|
 [fc]
-[ns]菅生[nse]
-「何だァ！？　オメェ……うれし泣きかよ！！[r]
-　そうかァ……そうかァ！！[r]
-　俺様とヤれるのがそんなにいいのか！！」[pcms]
+[ns]Sugou[nse]
+"What's this!? Are you crying tears of joy!? Is that it...[r]
+Is that it!? You're so happy to do it with me!!"[pcms]
 
 [evcg storage="HEV203a"][trans_c cross time=301]
 
 *14440|
 [fc]
 [vo_hay s="hayami0433"]
-[ns]ありす[nse]
-「違う！！　違うよ！！　そんなことない！！[r]
-　もう、こんな事……やめて！！」[pcms]
+[ns]Arisu[nse]
+"No!! It's not like that at all!! Stop this already!!"[pcms]
 
 *14441|
 [fc]
-[ns]菅生[nse]
-「へっ！　でけぇオッパイ、プルプルさせて悦んでる[r]
-　くせによ！！　なぁにが『やめて』だァ……。[r]
-　今に、もっとぉ～！　とか言わせてやっからよ！」[pcms]
+[ns]Sugou[nse]
+"Heh! Your big tits are jiggling with pleasure, aren't[r]
+they!? What's this 'stop'... Soon you'll be begging for[r]
+more!"[pcms]
 
 *14442|
 [fc]
-オジサンは気味の悪い顔をいっそう歪めて、[r]
-腹巻きの中をまさぐり、[r]
-中から色々な『大人の玩具』を取り出した。[pcms]
+The old man twisted his creepy face even more as he fumbled[r]
+inside his belly wrap, pulling out various "adult toys."[pcms]
 
 *14443|
 [fc]
-[ns]菅生[nse]
-「へへっ！！　こん中、色々あって面白れぇな！[r]
-　ちっと回っただけでこんなにあったぜ！！」[pcms]
+[ns]Sugou[nse]
+"Heheh!! There's a lot of interesting stuff in here! Just a[r]
+little spin and look what I found!!"[pcms]
 
 *14444|
 [fc]
-そこには、ローターやバイブの他、見たことの無い[r]
-太い棒の様なモノまであった。[pcms]
+There were rotors and vibrators, and even thick rods that I[r]
+had never seen before.[pcms]
 
 *14445|
 [fc]
 [vo_hay s="hayami0434"]
-[ns]ありす[nse]
-「……」[pcms]
+[ns]Alice[nse]
+"..."[pcms]
 
 *14446|
 [fc]
-[ns]菅生[nse]
-「ヒャハッ！　興味津々ってかァ！？　オメェも、[r]
-　好きモンだなァオイ！　コレでオメェ、ヒィヒィ[r]
-　言わせてやっからよ！」[pcms]
+[ns]Sugou[nse]
+"Hyahah! Are you curious!? You like this stuff, huh! With[r]
+this, I'll make you squeal!"[pcms]
 
 *14447|
 [fc]
-あたし……。[r]
-何をされるんだろう……。[pcms]
+I wonder... what he's going to do to me...[pcms]
 
 *14448|
 [fc]
-こんな変態に捕まって……。[pcms]
+Caught by such a pervert...[pcms]
 
 *14449|
 [fc]
-初めてが、こんな所で……！？[pcms]
+My first time... in a place like this!?[pcms]
 
 *14450|
 [fc]
-……そう。[r]
-あたしはまだ……。[r]
-誰ともエッチなんかしたこと無いのに……。[pcms]
+...That's right. I'm still... I've never done anything[r]
+sexual with anyone...[pcms]
 
 *14451|
 [fc]
-初めてが、こんな変態オジサンが相手なんて……、[r]
-絶対イヤ！！[pcms]
+My first time being with such a perverted old man...[r]
+Absolutely not!![pcms]
 
 [evcg storage="HEV203b"][trans_c cross time=301]
 
 *14452|
 [fc]
 [vo_hay s="hayami0435"]
-[ns]ありす[nse]
-「いやぁぁあぁぁあぁ！！　いやだよ！！[r]
-　そんなのイヤだ！！　助けて！！　助けてぇ！」[pcms]
+[ns]Arisu[nse]
+"Nooooo!! I don't want this!! Please, someone help me!! Help[r]
+meee!"[pcms]
 
 *14453|
 [fc]
-[ns]菅生[nse]
-「へっ！！　その叫び声、イイぜェ！！[r]
-　俺様ァ、普通じゃダメなんだよ！！」[pcms]
+[ns]Sugou[nse]
+"Heh!! Your screams are perfect!! I can't stand the ordinary[r]
+stuff!!"[pcms]
 
 *14454|
 [fc]
 [vo_hay s="hayami0436"]
-[ns]ありす[nse]
-「なに考えてるの！？　こんなの……。[r]
-　女の子に相手にされないからって、こんな事！！[r]
-　ヘンタイ！　もう、いい加減に離して！！」[pcms]
+[ns]Alice[nse]
+"What are you thinking!? Doing something like this... Just[r]
+because girls won't give you the time of day, you resort to[r]
+this!? Pervert! Just let me go already!!"[pcms]
 
 *14455|
 [fc]
-[ns]菅生[nse]
-「ヘンタイ！！　ヘンタイかァ！！[r]
-　何とでも言え！！　俺様ァ、絶対止めねぇからな！[r]
-　それによ……オメェ、コレ、忘れてねぇか！？」[pcms]
+[ns]Sugou[nse]
+"Pervert, huh!? Call me whatever you want!! I'm not stopping[r]
+no matter what! And hey... haven't you forgotten about[r]
+this!?"[pcms]
 
 [evcg storage="HEV203a"][trans_c cross time=301]
 
 *14456|
 [fc]
 [vo_hay s="hayami0437"]
-[ns]ありす[nse]
-「ひ……っ」[pcms]
+[ns]Arisu[nse]
+"Hic...!"[pcms]
 
 *14457|
 [fc]
-首の皮に針が刺さったような痛みを感じた。[pcms]
+I felt a pain like a needle piercing the skin of my neck.[pcms]
 
 *14458|
 [fc]
-それは、オジサンが持っていたナイフの先っぽが、[r]
-少し皮膚に刺さったからだった。[pcms]
+It was because the tip of the knife the old man was holding[r]
+had slightly pierced my skin.[pcms]
 
 *14459|
 [fc]
-逆らったら、このオジサンはホントにあたしの事を[r]
-刺しかねない。[pcms]
+If I resisted, this old man might really stab me.[pcms]
 
 *14460|
 [fc]
-こんな人に脅されて、何も抵抗できないまま、[r]
-エッチな事されちゃうんだ……。[pcms]
+Threatened by such a person, unable to resist, I'm going to[r]
+be subjected to sexual things...[pcms]
 
 *14461|
 [fc]
-あたしの初めては、こんなクズみたいな人に……。[pcms]
+My first time will be with someone as worthless as him...[pcms]
 
 *14462|
 [fc]
-こんな事なら彼氏、作って……。[r]
-その人としたかった……。[pcms]
+If only I had made a boyfriend... I would have wanted to do[r]
+it with him...[pcms]
 
 *14463|
 [fc]
 [vo_hay s="hayami0438"]
-[ns]ありす[nse]
-「……」[pcms]
+[ns]Alice[nse]
+"..."[pcms]
 
 *14464|
 [fc]
-あたしの頭の中に、『あの笑顔』が浮かんできた。[pcms]
+The image of "that smile" came to my mind.[pcms]
 
 *14465|
 [fc]
-どうして、こんな時に……。[r]
-やっぱりあたし……。[pcms]
+Why am I thinking of that now...? Maybe I really do...[pcms]
 
 *14466|
 [fc]
-ヒロシの事が好きなのかな……。[pcms]
+Like Hiroshi...[pcms]
 
 *14467|
 [fc]
-『あの笑顔』を思い出すたび、[r]
-とめどなく涙があふれ出る。[pcms]
+Every time I remember "that smile," tears flow endlessly.[pcms]
 
 *14468|
 [fc]
-[ns]菅生[nse]
-「お……やっと諦めたかよ、オッパイちゃん！！[r]
-　したら、さっそくヤらせて貰うかァ！！」[pcms]
+[ns]Sugou[nse]
+"Oh... finally given up, tits-chan!? Then let's get started[r]
+right away!!"[pcms]
 
 *14469|
 [fc]
-涙で歪んだ視界から、オジサンの醜い顔が離れて、[r]
-あたしの背後に回った。[pcms]
+The ugly face of the old man moved away from my tear-blurred[r]
+vision and went behind me.[pcms]
 
 *14470|
 [fc]
 [vo_hay s="hayami0439"]
-[ns]ありす[nse]
-「ぐすっ……うっ……ひくっ……。[r]
-　こんなの、もうイヤ……。帰りたい……。[r]
-　もう、ウチに帰りたい……！！」[pcms]
+[ns]Arisu[nse]
+"Sob... ugh... biku... I can't stand this anymore... I want[r]
+to go home... I just want to go back home...!!"[pcms]
 
 *14471|
 [fc]
-抵抗する気力を無くしたあたしの腕に[r]
-ゴツゴツした手と、細いヒモが触る。[pcms]
+Rough hands and thin ropes touched my arms that had lost the[r]
+will to resist.[pcms]
 
 *14472|
 [fc]
-その動きは、あたしがさっき長崎さんにしたのと[r]
-違って、緩まないようにと、[r]
-何度も何度も巻き付けられていた。[pcms]
+The way they were tied was different from how I had tied[r]
+Nagasaki-san earlier; they were wrapped around many times so[r]
+they wouldn't loosen.[pcms]
 
 *14473|
 [fc]
-[ns]菅生[nse]
-「これでもう逃げられねェな……。[r]
-　ヒャヒャヒャ！！」[pcms]
+[ns]Sugou[nse]
+"Now you can't escape... Hyahyahya!!"[pcms]
 
 ;//★黒画面
 ;消し無し[chara_int]
@@ -663,405 +636,383 @@
 
 *14474|
 [fc]
-慣れた手つきで固定したオジサンは、勝ち誇った様に[r]
-あたしの前に立ってニヤニヤしている。[pcms]
+The old man, with practiced hands, secured me and stood in[r]
+front of me with a triumphant grin.[pcms]
 
 ;//★イベントＣＧ２
 [evcg storage="HEV204a"][trans_c cross time=301]
 
 *14475|
 [fc]
-[ns]菅生[nse]
-「ヒューっ！！　若い女のオメコ……やっぱり[r]
-　キレイなモンだなァ！！　ピンク色だぁ！！[r]
-　ヒャハァ！　毛も柔らかそうだしよぉ！！」[pcms]
+[ns]Sugou[nse]
+"Hoo! The pussy of a young girl... it's really beautiful,[r]
+isn't it? Pink and all!! Hyaha! And the hair seems so[r]
+soft!!"[pcms]
 
 *14476|
 [fc]
 [vo_hay s="hayami0440"]
-[ns]ありす[nse]
-「いやぁ！！　見ないでぇ！！[r]
-　こんなの、絶対いやだよ！！　離してよ！！[r]
-　お願い！！」[pcms]
+[ns]Arisu[nse]
+"No!! Don't look!! I absolutely hate this!! Let me go!![r]
+Please!!"[pcms]
 
 *14477|
 [fc]
-ソファーの上で足を無理矢理開かされて、アソコを[r]
-見せつけるような格好をさせられてしまった。[pcms]
+I was forced to spread my legs on the sofa, exposing my[r]
+crotch in such a humiliating pose.[pcms]
 
 *14478|
 [fc]
-誰にも見せてはいけない、大事な所を、[r]
-こんな広い部屋の中で、変態オジサンに見せつけて[r]
-しまっている。[pcms]
+The place that should never be shown to anyone was now being[r]
+exposed to a perverted old man in the middle of this[r]
+spacious room.[pcms]
 
 *14479|
 [fc]
-あまりにも非日常的な今の状況に、[r]
-頭の中が混乱してしまって、ただ叫ぶ事と、[r]
-体を動かそうと無理にもがく事しか出来なかった。[pcms]
+In this extremely abnormal situation, my mind was in chaos,[r]
+and all I could do was scream and struggle futilely to move[r]
+my body.[pcms]
 
 *14480|
 [fc]
 [vo_hay s="hayami0441"]
-[ns]ありす[nse]
-「う――っ！！　イヤぁ！！[r]
-　こんなの酷い！！　恥ずかしいよ！！[r]
-　うわぁぁあん！！　いやぁぁぁあぁあぁ！！」[pcms]
+[ns]Alice[nse]
+"Ugh!! No!! This is terrible!! It's embarrassing!! Uwaaaah!![r]
+Noooo!!"[pcms]
 
 *14481|
 [fc]
-丸見えのアソコを隠そうともがいたけど、[r]
-固定しているヒモが少し動いて膝に食い込むだけで[r]
-足自体はまるで動かない。[pcms]
+Even though I struggled to cover my exposed pussy, the ropes[r]
+that held me only dug into my knees, and my legs wouldn't[r]
+move at all.[pcms]
 
 *14482|
 [fc]
-[ns]菅生[nse]
-「おいおい、あんまり騒ぐと、隣で寝てる[r]
-　デッケェ姉ちゃんに気が付かれっちまうぜ？」[pcms]
+[ns]Sugou[nse]
+"Hey hey, if you make too much noise, the big sister[r]
+sleeping next door might wake up, you know?"[pcms]
 
 *14483|
 [fc]
-[ns]菅生[nse]
-「……そしたら、オメェ……、[r]
-　大股おっぴろげたみっともねぇ所、二人に[r]
-　みられちまうんだぜぇ！？　ヒヒッ！！」[pcms]
+[ns]Sugou[nse]
+"...Then you... would be seen in this disgraceful state with[r]
+your legs wide open by two people! Heheh!!"[pcms]
 
 *14484|
 [fc]
 [vo_hay s="hayami0442"]
-[ns]ありす[nse]
-「いやあぁぁあ！！　うっ……そんなの……」[pcms]
+[ns]Arisu[nse]
+"Nooo!! Ugh... not that..."[pcms]
 
 *14485|
 [fc]
-そうだ……。[r]
-長崎さんが寝ている……。[r]
-こんな姿、見られたら……あたし……。[pcms]
+That's right... Chihiro-san is sleeping... If she saw me[r]
+like this... I...[pcms]
 
 *14486|
 [fc]
-でも、おかしい……。[r]
-今までだって、あたしは叫んでいた。[r]
-それなのに、まるで起きる気配がない……。[pcms]
+But it's strange... I've been screaming all this time. Yet[r]
+there's no sign of her waking up...[pcms]
 
 *14487|
 [fc]
-長崎さん、一体どうしたの……？[pcms]
+Chihiro-san, what's wrong...?[pcms]
 
 *14488|
 [fc]
-目だけを長崎さんのほうに向けると、そこでは[r]
-相変わらず寝息を立てて横になっている姿が見えた。[pcms]
+When I turned only my eyes towards Chihiro-san, I could see[r]
+her still lying there, breathing steadily as if asleep.[pcms]
 
 *14489|
 [fc]
-休む、と言ってからずいぶん時間が経っている。[r]
-それに、あたしはかなり大きな声で悲鳴を上げていた。[r]
-それなのに、長崎さんは目を覚まさなかった。[pcms]
+A lot of time has passed since she said she was going to[r]
+rest. And I've been screaming so loudly. Yet Chihiro-san[r]
+hasn't woken up.[pcms]
 
 *14490|
 [fc]
-……もしかして、長崎さん、病気か何かで……？[pcms]
+...Could it be that Chihiro-san is sick or something...?[pcms]
 
 *14491|
 [fc]
-……もし病気だったとしても……。[r]
-こんな所は見られたくない……。[pcms]
+...Even if she were sick... I wouldn't want her to see[r]
+this...[pcms]
 
 *14492|
 [fc]
-出来れば、このまま……。[r]
-あたしが、こんなカッコウをしている間だけでも……。[r]
-寝ていてもらった方が……。[pcms]
+I'd rather she keep sleeping... at least while I'm in this[r]
+state...[pcms]
 
 *14493|
 [fc]
-[ns]菅生[nse]
-「デッケェ姉ちゃんもよく寝るなァ……！！[r]
-　こんだけギャーギャー騒いでるってのによ！！[r]
-　でもまぁ、そりゃソレでいいかァ！！」[pcms]
+[ns]Sugou[nse]
+"The big sister sure sleeps deeply...!! Even with all this[r]
+racket!! But well, that's fine by me!!"[pcms]
 
 *14494|
 [fc]
-寝ている長崎さんをつついて、起きない事を確認した[r]
-オジサンは、ベッドに散乱していた玩具の中から、[r]
-太い棒を取ってあたしに見せつける。[pcms]
+The old man poked the sleeping Chihiro-san to make sure she[r]
+wouldn't wake up, then picked a thick rod from among the[r]
+toys scattered on the bed and flaunted it before me.[pcms]
 
 *14495|
 [fc]
-[ns]菅生[nse]
-「これよぉ……前にエロビデオで見てから、いっぺん[r]
-　試して見たかったんだよな……へへっ！！[r]
-　電気マッサージ器だ……知ってっかァ？　コレ」[pcms]
+[ns]Sugou[nse]
+"This thing here... ever since I saw it in a porn video,[r]
+I've wanted to try it out... heheh!! It's an electric[r]
+massager... you know what this is, right?"[pcms]
 
 *14496|
 [fc]
 [vo_hay s="hayami0443"]
-[ns]ありす[nse]
-「そんなの……何に使うの……。[r]
-　ま……まさか、それをアソコに……！？[r]
-　そんなの入れられたら、壊れちゃうよ！！」[pcms]
+[ns]Arisu[nse]
+"What are you going to use that for... You can't possibly[r]
+mean to put that in my pussy!? If you do that, it'll break[r]
+me!!"[pcms]
 
 *14497|
 [fc]
-電気マッサージ器は、あたしの握り拳くらいの[r]
-大きさがあった。[pcms]
+The electric massager was about the size of my clenched[r]
+fist.[pcms]
 
 *14498|
 [fc]
-あんなに太いものを入れられたら、あたしのアソコは[r]
-裂けてしまう。[pcms]
+If something that thick were inserted, my pussy would tear[r]
+apart.[pcms]
 
 *14499|
 [fc]
-[ns]菅生[nse]
-「へっ！！　コイツ、入れて欲しいのかァ？[r]
-　オメェの、そんなにガバガバなんかよ！！[r]
-　オメェ、よっぽどヤッてんだな、ヒャハッ！」[pcms]
+[ns]Sugou[nse]
+"Heh! You want this inside you? Is your pussy that loose?[r]
+You must be quite the slut, Hyah!"[pcms]
 
 *14500|
 [fc]
 [vo_hay s="hayami0444"]
-[ns]ありす[nse]
-「……違うよ……そんなんじゃないよ！！[r]
-　ヤッて……だなんて……そんなこと……」[pcms]
+[ns]Arisu[nse]
+"...That's not true... It's not like that at all! I[r]
+haven't... done such things..."[pcms]
 
 *14501|
 [fc]
-[ns]菅生[nse]
-「……！！　ホォ！　オメェ、もしかして……、[r]
-　処女かよ？　ヒャッ！！　こりゃ参ったぜぇ！！[r]
-　ヤリマンだとばっかり思ってたぜ！！」[pcms]
+[ns]Sugou[nse]
+"...!! Ho! Could it be... you're a virgin? Hyah! This is[r]
+unexpected! I totally thought you were a slut!!"[pcms]
 
 *14502|
 [fc]
 [vo_hay s="hayami0445"]
-[ns]ありす[nse]
-「違うぅ……そんなんじゃない！！[r]
-　もうやめて……言わないでよ……！！」[pcms]
+[ns]Arisu[nse]
+"That's not true... I'm not like that!! Stop it... don't say[r]
+that...!!"[pcms]
 
 *14503|
 [fc]
-[ns]菅生[nse]
-「オォ！？　何だよオメェ、濡れてんじゃねぇか！！[r]
-　想像してヌレヌレかよォ！　ヒャハァ！！[r]
-　罵られて濡れるって、オメェ、マゾかよ！！」[pcms]
+[ns]Sugou[nse]
+"Oh!? What's this? You're wet, aren't you!? Getting all wet[r]
+from imagination! Hyaha! Getting wet from being insulted,[r]
+you're a masochist, aren't you!!"[pcms]
 
 *14504|
 [fc]
 [vo_hay s="hayami0446"]
-[ns]ありす[nse]
-「え……そ、そんな事ない！！　濡れてなんてない！」[pcms]
+[ns]Alice[nse]
+"Eh... no, that's not true! I'm not wet!"[pcms]
 
 *14505|
 [fc]
-[ns]菅生[nse]
-「ヒャハハハ！！　そしたらオメェのオメコ、[r]
-　濡れてるのはションベンかァ？　ずいぶん緩いな、[r]
-　オメェ！！　立ちションもしたしなァ！！」[pcms]
+[ns]Sugou[nse]
+"Hyahahaha!! Then is your pussy wet from pee? You're pretty[r]
+loose, aren't you? Even did a standing pee earlier!!"[pcms]
 
 *14506|
 [fc]
 [vo_hay s="hayami0447"]
-[ns]ありす[nse]
-「いやっ！！　違うぅ……違うよ！！　もうやぁ！[r]
-　うわぁぁああん……ぐすっ……うぁぁあぁあ！」[pcms]
+[ns]Alice[nse]
+"No!! That's not true... Stop it! Uwaaaah... *sob* Uwaaaah!"[pcms]
 
 *14507|
 [fc]
-ただでさえ恥ずかしいのに、せっかく忘れようと[r]
-していた事を思い出させられて、顔に全身の血が[r]
-集まってきたように、熱くなる。[pcms]
+As if it wasn't embarrassing enough already, being reminded[r]
+of something I'd tried so hard to forget made my face feel[r]
+like all the blood in my body was rushing to it.[pcms]
 
 *14508|
 [fc]
-心臓じゃなくて、顔がドキドキいう。[r]
-今にも鼻血が出そうなほど、顔に血が集まっている。[pcms]
+It wasn't my heart but my face that was pounding. It felt[r]
+like my nose might start bleeding from how much blood was[r]
+rushing to my face.[pcms]
 
 *14509|
 [fc]
-今のあたしの顔は、きっと絵の具を塗ったみたいに、[r]
-真っ赤になっているんだろう。[pcms]
+My face must be as red as if it had been painted with red[r]
+paint right now.[pcms]
 
 *14510|
 [fc]
-[ns]菅生[nse]
-「……そろそろ、イッてみっかァ！？[r]
-　俺様も、興奮してきたぜェ――！！」[pcms]
+[ns]Sugou[nse]
+"...Shall we get started then? I'm getting excited too--!!"[pcms]
 
 ;//SE:モーターの音
 [se0 storage="SE07"]
 
 *14511|
 [fc]
-スイッチを入れられた電気マッサージ器は、[r]
-大きなうねる音をたてて、細かく震え始めた。[pcms]
+The electric massager turned on with a loud whirring noise[r]
+and began to vibrate finely.[pcms]
 
 *14512|
 [fc]
 [vo_hay s="hayami0448"]
-[ns]ありす[nse]
-「な、何……！？　何する気……！？」[pcms]
+[ns]Alice[nse]
+"What...!? What are you planning to do...!?"[pcms]
 
 *14513|
 [fc]
-[ns]菅生[nse]
-「ビデオじゃよぉ、コイツ押しつけられた女、みんな[r]
-　白目剥いて気絶してたぜ……。処女がこんなん[r]
-　喰らったら、どうなっちまうんだろうなァ！」[pcms]
+[ns]Sugou[nse]
+"In the videos, girls pressed against by this thing all[r]
+rolled their eyes back and fainted... Wonder what'll happen[r]
+to a virgin who gets hit by this!"[pcms]
 
 *14514|
 [fc]
 [vo_hay s="hayami0449"]
-[ns]ありす[nse]
-「やだぁ！！　そんなのやめて！！[r]
-　許してください！！　そんなの怖いよ！！」[pcms]
+[ns]Arisu[nse]
+"No!! Stop that!! Please have mercy!! That's scary!!"[pcms]
 
 *14515|
 [fc]
-あたしの叫びを無視して、オジサンはマッサージ器を[r]
-どんどん近づけてくる。[pcms]
+Ignoring my screams, the old man brought the massager closer[r]
+and closer.[pcms]
 
 [evcg storage="HEV204b"][trans_c cross time=301]
 
 *14516|
 [fc]
-マッサージ器がアソコの毛に軽く触れただけで、[r]
-股間がビリビリし始めた。[pcms]
+Just a light touch of the massager on the hair around my[r]
+pussy started an electric tingling sensation.[pcms]
 
 *14517|
 [fc]
 [vo_hay s="hayami0450"]
-[ns]ありす[nse]
-「ひうっ……！！　な……なにコレ……！！[r]
-　あ……アソコが！！　うぅっ……！」[pcms]
+[ns]Arisu[nse]
+"Eek...!! What is this...!? My pussy is... Ugh...!"[pcms]
 
 *14518|
 [fc]
-[ns]菅生[nse]
-「アァ？　アソコだぁ？？[r]
-　アソコがどうしたってェ！？」[pcms]
+[ns]Sugou[nse]
+"Ah? Your pussy? What about it!?"[pcms]
 
 *14519|
 [fc]
-大きく震えるソレは、ついにアソコに押しつけられた。[r]
-あたしの股間に、くすぐったいような、痺れるような[r]
-感覚が襲う。[pcms]
+The violently vibrating object was finally pressed against[r]
+my pussy. A ticklish and numbing sensation assaulted me.[pcms]
 
 *14520|
 [fc]
 [vo_hay s="hayami0451"]
-[ns]ありす[nse]
-「ふあぁッ！！　イヤァ！！　な……何！　何コレ！[r]
-　うあぁぁぁあ！？　んうぅ――ッ！！」[pcms]
+[ns]Arisu[nse]
+"Fuaah!! Noo!! What is this! What is this!? Uwaaahhh!?[r]
+Nuuuh--!!"[pcms]
 
 *14521|
 [fc]
-あたしの意思とは裏腹に、アソコの周りが熱くなって、[r]
-恥ずかしい声を上げてしまった。[pcms]
+Against my will, the area around my pussy heated up and I[r]
+let out an embarrassing moan.[pcms]
 
 *14522|
 [fc]
-周りだけじゃなくて、クリも細かく震えている。[pcms]
+It wasn't just around; even my clit was trembling finely.[pcms]
 
 *14523|
 [fc]
-自分の指で、シた事はあった。[r]
-でも、こんな道具を使ったのは、初めて。[pcms]
+I had done it with my fingers before. But this was the first[r]
+time using such a tool.[pcms]
 
 *14524|
 [fc]
-気持ち悪い変態オジサンに、こんな事を[r]
-されているのに、あたしのアソコは、どんどん熱く[r]
-なっていく。[pcms]
+Despite being done by a creepy pervert, my pussy is getting[r]
+hotter and hotter.[pcms]
 
 *14525|
 [fc]
 [vo_hay s="hayami0452"]
-[ns]ありす[nse]
-「やっ、やぁっ！！　んうぅぅ～！！　ビリビリする！[r]
-　いやっ！　んぅうぅっ！　ク……クリがっ！　[r]
-　うぁあぁぁぁぁっ！！　ダメぇ――ッ！」[pcms]
+[ns]Alice[nse]
+"No, noo!! Nghh~!! It's tingling! No! Nghh! My clit--[r]
+Ahhhhh!! No--!"[pcms]
 
 *14526|
 [fc]
-アソコとクリに強烈な刺激を受けて、[r]
-頭の中がチカチカし始めた。[pcms]
+My pussy and clit received such intense stimulation that my[r]
+head started to feel dizzy.[pcms]
 
 *14527|
 [fc]
-目も口も、居眠りし始めた時みたいに力が入らなくて、[r]
-半開きのまま喘ぐあたしの口から、ヨダレが垂れる。[pcms]
+My eyes and mouth, like when I start to doze off, couldn't[r]
+muster any strength and hung half-open as I gasped, drool[r]
+dripping from my mouth.[pcms]
 
 *14528|
 [fc]
 [vo_hay s="hayami0453"]
-[ns]ありす[nse]
-「あ、あ、あ、あ――っ！！　はーっ！　はーっ！[r]
-　こ、こんなの、ダメ！！　死んじゃう！！[r]
-　死んじゃうよ！！　イヤァ！！」[pcms]
+[ns]Arisu[nse]
+"Ah, ah, ah, ah--!! Ha-! Ha-! This is bad!! I'm going to[r]
+die!! I'm going to die!! Nooo!!"[pcms]
 
 *14529|
 [fc]
-下半身の震えは、体全体に伝わって、[r]
-ついにはあたしの声までが、震えだした。[pcms]
+The trembling in my lower half spread throughout my body,[r]
+and even my voice began to quiver.[pcms]
 
 *14530|
 [fc]
-[ns]菅生[nse]
-「ヒャハッ！！　ヨダレ垂れるほど気持ち良いのかァ！[r]
-　こりゃ面白れぇ！！　ヒャハハ！　生きてて[r]
-　良かったぜェ！！　こんなモンみれるなんてよォ！」[pcms]
+[ns]Sugou[nse]
+"Hyahah!! Are you feeling so good that you're drooling!?[r]
+This is hilarious!! Hyahaha! I'm glad to be alive to see[r]
+this!!"[pcms]
 
 *14531|
 [fc]
-お腹……、お腹が熱い！！[r]
-クリも痺れて……もう……頭がヘンに……。[pcms]
+My belly... it's hot!! My clit is numb... my head is getting[r]
+weird...[pcms]
 
 *14532|
 [fc]
 [vo_hay s="hayami0454"]
-[ns]ありす[nse]
-「あ……あぁ！？　な……なに！？　何！？[r]
-　落ちちゃう……頭がヘンに……！？　うあぁぁ！！[r]
-　怖いよ！！　うぁぁ！！」[pcms]
+[ns]Arisu[nse]
+"Ah...ahh!? Wha...what!? What!? I'm falling... my head's[r]
+getting weird...! Uwaaah!! I'm scared!! Uwaaah!!"[pcms]
 
 *14533|
 [fc]
-[ns]菅生[nse]
-「ヒャッハハハハ！！　オッパイブルンブルンさせて[r]
-　ヨガってんぜ！！　ヒャァァッ！！[r]
-　何だァ？　オメェ、イッちまうってのかァ？」[pcms]
+[ns]Sugou[nse]
+"Hyahahahaha!! Your tits are bouncing as you squirm!![r]
+Hyaaah!! What's that? You gonna cum or what?"[pcms]
 
 *14534|
 [fc]
-[ns]菅生[nse]
-「初めてなのにイくなんてよォ！　最近の若いモンは[r]
-　エロだなァオイ！！　ホントはオメェ、処女じゃ[r]
-　ねぇだろ！！　アァ？　オイ！！　ヒャッハー！」[pcms]
+[ns]Sugou[nse]
+"To cum on your first time like this! Young people these[r]
+days are so lewd!! You're not really a virgin, are you!?[r]
+Huh? Hey!! Hyahha-!"[pcms]
 
 *14535|
 [fc]
 [vo_hay s="hayami0455"]
-[ns]ありす[nse]
-「怖い！！　なにこれぇ！！　いやっ！！[r]
-　頭が真っ白に、真っ白になるっ！！[r]
-　うぅぅううっ……うあぁぁ！！」[pcms]
+[ns]Arisu[nse]
+"Scary!! What is this!? Noo!! My head's going blank,[r]
+completely blank!! Uuuuuh...uwaaahh!!"[pcms]
 
 *14536|
 [fc]
 [vo_hay s="hayami0456"]
-[ns]ありす[nse]
-「あっ……あっ……あぁぁあ！！[r]
-　あっ……あ――――ッ！！　ダメ、ダメっ！！[r]
-　いやぁぁぁぁぁぁぁ――ッ！！」[pcms]
+[ns]Arisu[nse]
+"Ah...ah...ahhh!! Ah...ah----!! No, no!! Nooooo--!!"[pcms]
 
 *14537|
 [fc]
-全身から力が抜けて、頭の中に真っ白なモヤが[r]
-広がって、すぐに全体が真っ暗になった。[pcms]
+All strength left my body, and a white haze spread through[r]
+my mind until everything went dark.[pcms]
 
 ;//★黒画面
 ;消し無し[chara_int]
@@ -1069,210 +1020,191 @@
 
 *14538|
 [fc]
-……電気……消えたの……？[r]
-それに、体が浮いてるみたい……。[pcms]
+...Did the lights go out...? And it feels like my body is[r]
+floating...[pcms]
 
 *14539|
 [fc]
-何……これ……。[r]
-あたし、もしかして、死んじゃったのかな……。[pcms]
+What...is this...? Did I possibly die...?[pcms]
 
 *14540|
 [fc]
-[ns]菅生[nse]
-「ブハハッ！！　ヒャァッ！！　コイツ、[r]
-　イッちまった！！　でもよぉ！　まだだぜ……、[r]
-　まだまだイけるんだろォ？　女ってよぉ！！」[pcms]
+[ns]Sugou[nse]
+"Buhahah!! Hyaaah!! She came!! But hey! It's not over yet...[r]
+you can still cum more, right? Women, huh!!"[pcms]
 
 ;//★イベントＣＧ２
 [evcg storage="HEV204b"][trans_c cross time=301]
 
 *14541|
 [fc]
-……何？[r]
-何をいってるの……？[pcms]
+...What? What are you saying...?[pcms]
 
 *14542|
 [fc]
-[ns]菅生[nse]
-「あーあ、ベットベトになってんな……。[r]
-　スゲェな、オッパイちゃん！！[r]
-　もう一回、イッてみっかァ！？　ヒャハッ！！」[pcms]
+[ns]Sugou[nse]
+"Ah-ah, you're soaking wet... Amazing, Tits-chan!! Wanna cum[r]
+again? Hyahah!!"[pcms]
 
 *14543|
 [fc]
-何が起きたのか分からず、全身の力が抜けてぐったり[r]
-しているあたしに、オジサンがまた、[r]
-イヤらしい笑い顔を見せる。[pcms]
+Without understanding what happened, I lay there limp all[r]
+over, as the old man showed me his lecherous smile again.[pcms]
 
 *14544|
 [fc]
-[ns]菅生[nse]
-「連続だとどうなるんだろうなァ！[r]
-　楽しみだぜぇ！！　オラァ！！　イッちまえ！！」[pcms]
+[ns]Sugou[nse]
+"Wonder what happens if it's continuous! I'm looking forward[r]
+to it!! Oraa!! Cum again!!"[pcms]
 
 *14545|
 [fc]
 [vo_hay s="hayami0457"]
-[ns]ありす[nse]
-「えっ！！　やっ、やっ、やぁぁぁ――ッ！[r]
-　やめて！！　やぁぁあ！　あ、あぁ、あぁ！！[r]
-　ダメダメダメぇ！！　死んじゃう！　死んじゃう！」[pcms]
+[ns]Arisu[nse]
+"Eh!! No, no, nooo--! Stop it!! Nooo! Ah, ahh, ahh!! No no[r]
+no!! I'm going to die! I'm going to die!"[pcms]
 
 *14546|
 [fc]
-さっきよりも、もっと強く押しつけられたソレが、[r]
-ビショビショになったあたしのアソコを、音を立てて[r]
-揺さぶった。[pcms]
+The thing that was pressed even more forcefully against my[r]
+drenched pussy made a squelching noise as it shook.[pcms]
 
 *14547|
 [fc]
-[ns]菅生[nse]
-「ヒャハァ！！　オメェのオメコ、エッロイ音[r]
-　出してんなァ！！　洪水だァ！　ブハハハ！！[r]
-　ヒヒヒヒヒヒッ！！」[pcms]
+[ns]Sugou[nse]
+"Hyahaa!! Your pussy is making such a dirty sound! It's a[r]
+flood! Buhahaha!! Hihhihihih!!"[pcms]
 
 *14548|
 [fc]
 [vo_hay s="hayami0458"]
-[ns]ありす[nse]
-「う――ッ！！　ダメぇ！！　な、なんか！！[r]
-　なんか出ちゃうよ！　溢れる！！　イヤァ！[r]
-　やあぁぁ！！　漏れちゃう！　漏らしちゃう！！」[pcms]
+[ns]Arisu[nse]
+"Ugh--! Noo!! Something... something's coming out! It's[r]
+overflowing! Noo! Nooo! It's leaking out! I'm leaking out!"[pcms]
 
 *14549|
 [fc]
-や……いや……。[r]
-おしっこ出ちゃう！！[pcms]
+No...no... I'm going to pee myself![pcms]
 
 *14550|
 [fc]
-強すぎる刺激を続けざまに受けたアソコは、[r]
-もうあたしの言うことは聞いてくれなかった。[pcms]
+My pussy, having received too much stimulation in[r]
+succession, wouldn't listen to me anymore.[pcms]
 
 *14551|
 [fc]
-おしっこを我慢していて、それの限界を超えた時の[r]
-様な感覚をお腹の下に覚えたあと、アソコが痙攣して、[r]
-中の液体を派手に押し出したような気がした。[pcms]
+After feeling a sensation in the pit of my stomach like when[r]
+I've held in pee for too long and surpassed its limit, my[r]
+pussy convulsed and seemed to forcefully expel the liquid[r]
+inside.[pcms]
 
 [evcg storage="HEV204c"][trans_c cross time=301]
 
 *14552|
 [fc]
 [vo_hay s="hayami0459"]
-[ns]ありす[nse]
-「うわぁっ！！　出るっ！！　なんか出る！！[r]
-　いやぁあぁぁぁぁ！！　恥ずかしい！！[r]
-　何これ！！　ああぁ――ッ！！」[pcms]
+[ns]Arisu[nse]
+"Uwaaahh!! It's coming out! Something's coming out! Noooo!![r]
+It's embarrassing! What is this!? Aaahhh--!"[pcms]
 
 *14553|
 [fc]
-[ns]菅生[nse]
-「うぉぉ！！　スゲェ！！　潮吹きかよ！！[r]
-　オメェ、スゲェなァオイ！！　ヒャハッ！！[r]
-　潮吹きまで見せてくれるなんてよォ！！」[pcms]
+[ns]Sugou[nse]
+"Woahh!! Amazing! Is that squirting!? You're incredible,[r]
+girlie!! Hyahah! To think you'd show me squirting too!"[pcms]
 
 *14554|
 [fc]
 [vo_hay s="hayami0460"]
-[ns]ありす[nse]
-「イヤァ！！　うぁぁ！！　あ……ああ……あ……、[r]
-　苦しい！！　もうダメ、ダメェ！！　苦しい！！[r]
-　ハッ……はぁッ！！　し……死ぬ……死ぬっ！！」[pcms]
+[ns]Alice[nse]
+"Nooo!! Uwaaahh!! Ah...ahh... it's suffocating! It's too[r]
+much, too much! Suffocating! Ha...haaahh!! I'm...I'm[r]
+dying...I'm dying!"[pcms]
 
 *14555|
 [fc]
-お漏らしした時みたいな音がしたあと、[r]
-また連続して、アソコの中から何か飛び出した。[pcms]
+After a sound like when you wet yourself, something else[r]
+burst forth from my pussy in quick succession.[pcms]
 
 *14556|
 [fc]
 [vo_hay s="hayami0461"]
-[ns]ありす[nse]
-「あ――――ッ！！　はぁ――ッ！！　だ……ダメ、[r]
-　もうダメ！！　やめてってば！！　あぁぁあ！！」[pcms]
+[ns]Arisu[nse]
+"Ah----! Haa--! No, no more! Stop it please! Aaahhh!"[pcms]
 
 *14557|
 [fc]
-腰……腰が言うことを聞かない……！？[pcms]
+My hips...my hips won't listen to me...!?[pcms]
 
 *14558|
 [fc]
 [vo_hay s="hayami0462"]
-[ns]ありす[nse]
-「もう止めて！！　このままじゃあたし……、[r]
-　ホントに頭がヘンになっちゃう！」[pcms]
+[ns]Arisu[nse]
+"Please stop already! At this rate, I'll really go crazy!"[pcms]
 
 *14559|
 [fc]
-止めようとしても止まらない腰は、その結果、[r]
-さらにマッサージ器の刺激をアソコ全体に受ける事に[r]
-なってしまった。[pcms]
+Despite trying to stop it, my hips wouldn't halt and as a[r]
+result, they received even more stimulation from the[r]
+massager all over my pussy.[pcms]
 
 *14560|
 [fc]
-腰がガクガクして、それに合わせて、クリや入り口が[r]
-刺激される。[pcms]
+My hips were shaking uncontrollably and with each movement,[r]
+my clit and entrance were stimulated.[pcms]
 
 *14561|
 [fc]
 [vo_hay s="hayami0463"]
-[ns]ありす[nse]
-「だ……だ、め……もう……あた、あたし……、[r]
-　どうにかなっちゃう……頭が……くらくら……、[r]
-　あ、ああ、あ、あ……ああ――ッ！！」[pcms]
+[ns]Arisu[nse]
+"No...no more...I'm going to...lose it...my head's[r]
+spinning... ah, ah, ah...aaahhh--!"[pcms]
 
 *14562|
 [fc]
-自分でも何を言っているのか分からなくなるくらい、[r]
-頭がボーっとして、体がふわふわする。[r]
-体全体が、地面に埋まっていく感じがする。[pcms]
+I was so dazed that I didn't even understand what I was[r]
+saying anymore; my head felt foggy and my body felt light.[r]
+It was as if my whole body was sinking into the ground.[pcms]
 
 *14563|
 [fc]
-それに、アソコからはずっと、[r]
-何かが吹き出して止まらない。[pcms]
+And from my pussy, something kept spurting out non-stop.[pcms]
 
 *14564|
 [fc]
-お尻の周りも、水浸しになっている。[pcms]
+The area around my butt was also drenched.[pcms]
 
 *14565|
 [fc]
-あたし、おかしくなったのかな！！[r]
-あたまが、ヘンになっちゃったのかな！！[pcms]
+I must be going crazy! Is my head really messed up now?[pcms]
 
 *14566|
 [fc]
-体が言うことを聞かない。[r]
-目は開いたまま閉じる事も出来ず、口も開きっぱなし。[pcms]
+My body wouldn't respond. My eyes stayed open without being[r]
+able to close them, and my mouth remained agape.[pcms]
 
 *14567|
 [fc]
-あたし、このまま死んじゃうのかな！！[r]
-イヤだ……イヤだよ！！[pcms]
+I don't want to die like this! I don't want this![pcms]
 
 *14568|
 [fc]
-こんなので死にたくない！！[pcms]
+I don't want to die like this![pcms]
 
 *14569|
 [fc]
 [vo_hay s="hayami0464"]
-[ns]ありす[nse]
-「やぁ！！　や、や……死にたくない……。[r]
-　死にたくない……うあぁぁあぁ！！」[pcms]
+[ns]Alice[nse]
+"No! I don't want to die. I don't want to die...uwaaaahhh!"[pcms]
 
 *14570|
 [fc]
-相変わらず言うことを聞かないあたしの腰が、[r]
-大きくビクン、と跳ねたのを感じたあと、すぐにまた、[r]
-目の前が真っ暗になった。[pcms]
+Despite my unresponsive hips jerking violently, soon after[r]
+everything in front of me went dark again.[pcms]
 
 *14571|
 [fc]
-オジサンの笑い声が、遠くに聞こえる。[pcms]
+The old man's laughter sounded far away.[pcms]
 
 ;//★黒画面
 ;消し無し[chara_int]
@@ -1281,280 +1213,255 @@
 *14572|
 [fc]
 [vo_hay s="hayami0465"]
-[ns]ありす[nse]
-「はあっ……はあっ……」[pcms]
+[ns]Arisu[nse]
+"Haah...haah..."[pcms]
 
 *14573|
 [fc]
-[ns]菅生[nse]
-「へへへ……そしたら、次は俺様が楽しませて[r]
-　もらうぜ！！」[pcms]
+[ns]Sugou[nse]
+"Hehehe...then next up, it's my turn to enjoy myself!"[pcms]
 
 ;//SE:ズボンのベルトを下ろす
 [se0 storage="se55"]
 
 *14574|
 [fc]
-…………。[r]
-今度は……何を……。[pcms]
+...What's going to happen next...?[pcms]
 
 *14575|
 [fc]
-ぐったりしたあたしは、急に突き飛ばされて、[r]
-足を開いたままの格好で横倒しにされてしまった。[pcms]
+I was completely exhausted, suddenly pushed over, and left[r]
+lying on my side with my legs spread open.[pcms]
 
 *14576|
 [fc]
-まだ目が開かなくて、よく見えないけど、[r]
-相変わらず長崎さんの寝息が聞こえてくる。[pcms]
+I still couldn't open my eyes well, and everything was[r]
+blurry, but I could hear Nagasaki-san's breathing as usual.[pcms]
 
 *14577|
 [fc]
-長崎さん……。[r]
-助けて……。[pcms]
+Nagasaki-san... Please help me...[pcms]
 
 *14578|
 [fc]
-もう、こんなのイヤ……。[r]
-イヤだ……。[pcms]
+I can't take this anymore... I don't want this...[pcms]
 
 *14579|
 [fc]
-ようやく焦点が合いだした時、[r]
-あたしの目の前には、ドス黒い醜い棒があった。[pcms]
+When my focus finally started to return, there was a[r]
+grotesque black rod in front of my eyes.[pcms]
 
 ;//★イベントＣＧ３
 [evcg storage="HEV203c"][trans_c cross time=301]
 
 *14580|
 [fc]
-[ns]菅生[nse]
-「ヒャッハァ！！　可愛い口してんぜェ――！！[r]
-　まずは、こっちから犯してやっからよ！！」[pcms]
+[ns]Sugou[nse]
+"Hyahha!! You've got a pretty mouth!! First off, I'm gonna[r]
+fuck this!!"[pcms]
 
 *14581|
 [fc]
-オジサンが胸の上にまたがって、あたしの鼻を[r]
-摘んだ。[pcms]
+The old man straddled my chest and pinched my nose.[pcms]
 
 *14582|
 [fc]
 [vo_hay s="hayami0466"]
-[ns]ありす[nse]
-「うう――っ……苦しい……、息が……っ、[r]
-　苦しいぃぃ！！」[pcms]
+[ns]Arisu[nse]
+"Ugh...it's hard to breathe...I can't breathe...it's[r]
+suffocating!!"[pcms]
 
 *14583|
 [fc]
-[ns]菅生[nse]
-「オラ……よっと！！　歯ァ立てるんじゃねぇぞ！？[r]
-　しっかりシャブれやァ！！　よっ……と！！」[pcms]
+[ns]Sugou[nse]
+"Hey...there you go!! Don't you dare bite! Suck it[r]
+properly!! There...you go!!"[pcms]
 
 [evcg storage="HEV203d"][trans_c cross time=301]
 
 *14584|
 [fc]
 [vo_hay s="hayami0467"]
-[ns]ありす[nse]
-「んぶッ！？　んぐうぅっ！　……ぶちゅぅっ、[r]
-　ちゅぼぉっ！！　うぇっ、ぐちゅうぅっ！！」[pcms]
+[ns]Arisu[nse]
+"Nmbu!? Nguuh! ...Buchuu, chuboo!! Ueh, guchuu!!"[pcms]
 
 *14585|
 [fc]
-口の中にねじ込まれたのは、[r]
-オジサンのおちんちんだった。[pcms]
+What was forced into my mouth was the old man's dick.[pcms]
 
 *14586|
 [fc]
-臭くて、しょっぱいヘンな汁が、舌に絡まってくる。[pcms]
+It was smelly and salty, a strange fluid entangling with my[r]
+tongue.[pcms]
 
 *14587|
 [fc]
-[ns]菅生[nse]
-「ヒャアァァッ！！　いいぜェ！！　いいぜェ！！[r]
-　オメェ、ホントに処女かぁ！？　[r]
-　イイ舌使いしてんなオイ！！」[pcms]
+[ns]Sugou[nse]
+"Hyaaa!! That's it!! That's it!! Are you really a virgin!?[r]
+You've got some good tongue skills there!!"[pcms]
 
 *14588|
 [fc]
 [vo_hay s="hayami0468"]
-[ns]ありす[nse]
-「ぢゅぐっ！！　ぢゅっ、ぶぢゅっ！！　んぶっ、ぷ[r]
-　ぢゅっ、ぢゅぼぉっ！！　んぶおぉっ！！」[pcms]
+[ns]Alice[nse]
+"Juguh!! Ju, bujuh!! Nbu, pu juguh, juboo!! Nbuoo!!"[pcms]
 
 *14589|
 [fc]
-髪の毛を鷲づかみにされて、頭を前後に揺さぶられた[r]
-あたしは、声を出す事ができなくて、ただオジサンの[r]
-いいようにされてしまっていた。[pcms]
+My hair was grabbed tightly, and my head was shaken back and[r]
+forth. I couldn't make a sound, just being toyed with by the[r]
+old man.[pcms]
 
 *14590|
 [fc]
-[ns]菅生[nse]
-「鼻水なんて垂らしてよォ！！　オメェ、よっぽど[r]
-　好きなんだろォ？　ヂンボゴがよッ！　[r]
-　この淫乱がよッ！！　ヒャハアァアッ！！」[pcms]
+[ns]Sugou[nse]
+"Let that snot drip down! You must really like it, huh? You[r]
+love this dick! You filthy slut!! Hyahhaa!!"[pcms]
 
 *14591|
 [fc]
 [vo_hay s="hayami0469"]
-[ns]ありす[nse]
-「ぢ……ぢが……ぢがぶっ……ぅがぁはっ！！[r]
-　ゲホッ……んおおおぉぉほおぉぉっ！！！！」[pcms]
+[ns]Alice[nse]
+"Ji...jigabu...ugahah!! Geho...noooohhhhh!!"[pcms]
 ;//◎ち……ちが……ちがう……　と言おうとしている。
 
 *14592|
 [fc]
-否定しようにも……。[r]
-こんな事されて、声を出せない……。[pcms]
+I couldn't even deny it... With this happening, I couldn't[r]
+make a sound...[pcms]
 
 *14593|
 [fc]
-オジサンのおちんちんが、あたしの口の中を前後する。[r]
-だんだん大きくなってきたソレは、喉の中に入ろうと[r]
-していた。[pcms]
+The old man's dick moved back and forth in my mouth. It was[r]
+swelling up and trying to push its way down my throat.[pcms]
 
 *14594|
 [fc]
 [vo_hay s="hayami0470"]
-[ns]ありす[nse]
-「んぼぉおっ！　んぶうっ！　がっ！！[r]
-　うぇえっ……ぶぢゅっ……」[pcms]
+[ns]Alice[nse]
+"Nbooh! Nguh! Gah!! Ueeh...bujuh..."[pcms]
 
 *14595|
 [fc]
-[ns]菅生[nse]
-「オォ！？　喉まで使って……、[r]
-　誰に仕込まれたんだァ？　アイツかァ？[r]
-　オッパイちゃんを助けようとしてたアイツかぁ！？」[pcms]
+[ns]Sugou[nse]
+"Oh!? Using your throat too... Who taught you that? Was it[r]
+him? The guy who tried to save Oppai-chan?"[pcms]
 
 *14596|
 [fc]
 [vo_hay s="hayami0471"]
-[ns]ありす[nse]
-「んああっ……ゲホッ……んぶっ……ぢゅっ！[r]
-　うあうっ！！　ずるっ！！」[pcms]
+[ns]Arisu[nse]
+"Naaah...Geho...nbuh...juh! Uauh!! Zuruh!!"[pcms]
 
 *14597|
 [fc]
-[ns]菅生[nse]
-「アイツ、うらやましいぜェ！！　こんなオッパイの[r]
-　デけぇ彼女がいてよォ！！　それにこんな淫乱でよ！[r]
-　……でもよォ、俺様の女になった方がいいぜェ！？」[pcms]
+[ns]Sugou[nse]
+"That guy's gotta be jealous!! Having a girlfriend with such[r]
+big tits! And such a slut too! ...But hey, you'd be better[r]
+off as my woman, right!?"[pcms]
 
 *14598|
 [fc]
-[ns]菅生[nse]
-「そしたらよ、毎日、悦ばせてやっからよォ！！[r]
-　さっきみたいに、何度も潮吹くくらい、[r]
-　楽しませてやっからよォ！！　ヒャハッハハ！！」[pcms]
+[ns]Sugou[nse]
+"Then every day, I'll make you feel good!! Just like[r]
+earlier, I'll make you squirt over and over again!![r]
+Hyahhahaha!!"[pcms]
 
 *14599|
 [fc]
 [vo_hay s="hayami0472"]
-[ns]ありす[nse]
-「んううぅぅっ！！　んっぐぅ……ぢゅぶうぅっ！！[r]
-　んうぅっ！　んううぅぅっ！！」[pcms]
+[ns]Alice[nse]
+"Nuuuuhhh!! Nggguh...jubuuhh!! Nuuuh! Nuuuuhhh!!"[pcms]
 
 *14600|
 [fc]
-楽しくなんてない！！[r]
-こんなのイヤだ！！[pcms]
+It's not fun at all!! I don't want this!![pcms]
 
 *14601|
 [fc]
-ヒロシ……助けて……！！[r]
-こんなオジサン、やっつけて！！[pcms]
+Hiroshi...help me...!! Take down this old man!![pcms]
 
 *14602|
 [fc]
-そう願うあたしの頭は、酸欠でぼうっとして、[r]
-まただんだんと、オジサンの声が遠くに聞こえる[r]
-ようになっていた。[pcms]
+As I wished for that, my head became dizzy from lack of[r]
+oxygen, and the old man's voice started to sound distant[r]
+again.[pcms]
 
 *14603|
 [fc]
-[ns]菅生[nse]
-「へっ！！　オメェも目ェ、トロンとさせやがってよ！[r]
-　ヂンボゴ好きなんだろォ！！　嬉しそうにシャブり[r]
-　やがってよォ！！　もっとツッこんでやんぜェ！」[pcms]
+[ns]Sugou[nse]
+"Heh!! Your eyes are getting all dopey! You love sucking[r]
+dick, don't you!? You look so happy doing it! I'm gonna[r]
+thrust in deeper!"[pcms]
 
 *14604|
 [fc]
 [vo_hay s="hayami0473"]
-[ns]ありす[nse]
-「うげぇっ……、やべでっ……んぶっ！！[r]
-　ぐぶっ！！　んぼぉっ！！　ぢゅぷっ、ぐちゅっ、[r]
-　ぼちゅぅっ！！　ぢゅぼぉっ！！」[pcms]
+[ns]Alice[nse]
+"Ugehh...yabede...nbuh! Gubuh! Nbooh! Jupuh, guchu, bochuu!![r]
+Juboo!!"[pcms]
 
 *14605|
 [fc]
-喉の奥を何度も突かれ、胃の中身が上がって[r]
-きそうになるのを堪えていると、それはオジサンを[r]
-悦ばせる事になってしまった。[pcms]
+As the dick thrust deep into my throat repeatedly, I[r]
+struggled to keep from vomiting up the contents of my[r]
+stomach, which only seemed to please the old man more.[pcms]
 
 *14606|
 [fc]
-[ns]菅生[nse]
-「お……おお！？　いいぜ、オイ！！[r]
-　そのちょうしだァ……」[pcms]
+[ns]Sugou[nse]
+"Oh...ohh!? That's right, keep going like that..."[pcms]
 
 *14607|
 [fc]
-オジサンは裏返った声をあげて、あたしの頭を[r]
-思いっきり揺さぶった。[pcms]
+The old man let out an inverted scream and shook my head[r]
+violently.[pcms]
 
 *14608|
 [fc]
 [vo_hay s="hayami0474"]
-[ns]ありす[nse]
-「ん――ッ！　んぶうっ！　ぐっ……んえぇぇ！[r]
-　ぢゅぶっ！」[pcms]
+[ns]Arisu[nse]
+"N--! Nguh! Guh...neeeh! Jubuh!"[pcms]
 
 *14609|
 [fc]
-もう、終わってよ……。[r]
-こんなの、おわって……。[r]
-苦しいよ……。[pcms]
+Please, let it end... I can't take this anymore... It's too[r]
+much...[pcms]
 
 *14610|
 [fc]
 [vo_hay s="hayami0475"]
-[ns]ありす[nse]
-「ん゛――ッ！　ん゛――ッ！！　ぶちゅうううっ！[r]
-　ぢゅっ……んぶっ！」[pcms]
+[ns]Alice[nse]
+"N--! N--!! Buchuuuuh! Juh...nbuh!"[pcms]
 
 *14611|
 [fc]
-[ns]菅生[nse]
-「おぉぉ……！　来た来たァ！！　来たぜェ――ッ！[r]
-　あとちょっとで、オメェの口にブチ撒けてやんぜェ！[r]
-　オラァ！！　オラァ！！　来たぜェ――ッ！！」[pcms]
+[ns]Sugou[nse]
+"Oooh...! It's coming! It's coming!! Just a little more and[r]
+I'll blow it all in your mouth! Oraa!! Oraa!! It's coming!!"[pcms]
 
 *14612|
 [fc]
 [vo_hay s="hayami0476"]
-[ns]ありす[nse]
-「んぐうぅっ！　……ぶちゅぅっ、ちゅぼぉっ！！[r]
-　おぇっ、ぐちゅうぅっ！！」[pcms]
+[ns]Arisu[nse]
+"Nguuuh! ...Buchuu, chuboo!! Oeh, guchuu!!"[pcms]
 
 *14613|
 [fc]
-喉の奥を突くオジサンのおちんちんは、ますます[r]
-腫れ上がって、喉の奥に引っかかる。[pcms]
+The dick thrusting into the back of my throat was swelling[r]
+even more, getting stuck in my throat.[pcms]
 
 *14614|
 [fc]
-[ns]菅生[nse]
-「イクぞぉ！！　オラァ！！　全部飲めやァ！！[r]
-　飲めェ！！　イクゼェ――ッ！！」[pcms]
+[ns]Sugou[nse]
+"I'm cumming!! Oraa!! Swallow it all!! Swallow it!! I'm[r]
+cumming--!"[pcms]
 
 *14615|
 [fc]
 [vo_hay s="hayami0477"]
-[ns]ありす[nse]
-「んぶうっ！！　ぢゅっ……んばあっ！[r]
-　ぐちゅうっ！！　ぶっ……んぐぅっ！」[pcms]
+[ns]Alice[nse]
+"Nguh! Juh...nbah! Guchuu! Buh...nguu!"[pcms]
 
 ;//SE:射精音
 [se0 storage="SE51"]
@@ -1567,67 +1474,63 @@
 
 *14616|
 [fc]
-[ns]菅生[nse]
-「うぉおおおおぉぉぉ！！」[pcms]
+[ns]Sugou[nse]
+"Uoooohhhh!!!!"[pcms]
 
 *14617|
 [fc]
 [vo_hay s="hayami0478"]
-[ns]ありす[nse]
-「んぶぁぁぁあぁぁああぁあっ！！！！！！」[pcms]
+[ns]Alice[nse]
+"Nbuuaaaaahhhhhhh!!!!!"[pcms]
 
 *14618|
 [fc]
-オジサンは、宣言通りあたしの口の中に、射精した。[r]
-口の中一杯に、ヘンな味が広がっていく。[pcms]
+Just as he announced, the old man ejaculated in my mouth. A[r]
+strange taste spread throughout my mouth.[pcms]
 
 *14619|
 [fc]
-[ns]菅生[nse]
-「ヒャアッハ！　飲めよォ……飲めェ……！[r]
-　俺様のセーエキ、一滴残らずのむんだぞォ！！」[pcms]
+[ns]Sugou[nse]
+"Hyahha! Drink it up...drink it up...! Swallow every drop of[r]
+my semen!!"[pcms]
 
 *14620|
 [fc]
 [vo_hay s="hayami0479"]
-[ns]ありす[nse]
-「うげぇ……うぇぇぇっ……、はぁッ……はッ……。[r]
-　んぁぁ……、んぐっ……、んっ……」[pcms]
+[ns]Arisu[nse]
+"Ugehh...weeehh...haa...haa. Naaah...nguh...nh..."[pcms]
 
 *14621|
 [fc]
-口の中に溜まった臭い液を、オジサンに命令される[r]
-ままに飲み干した。[pcms]
+I swallowed the smelly liquid that had accumulated in my[r]
+mouth as the old man commanded.[pcms]
 
 *14622|
 [fc]
-喉の奥に引っかかって、流れて行かないソレは、[r]
-口の中に生臭い匂いをまきちらかした。[pcms]
+The stuff caught in the back of my throat wouldn't flow[r]
+down, leaving a fishy smell lingering in my mouth.[pcms]
 
 [evcg storage="HEV203f"][trans_c cross time=301]
 
 *14623|
 [fc]
 [vo_hay s="hayami0480"]
-[ns]ありす[nse]
-「ゲホッ……ゲホゲホッ……、[r]
-　も、もう……こんなの……いや……」[pcms]
+[ns]Arisu[nse]
+"Geho...GehoGeho...more of this...I can't..."[pcms]
 
 *14624|
 [fc]
-口から溢れた粘度の高い液体が、顎を伝って[r]
-首や、胸に流れ落ちる。[pcms]
+The viscous liquid that overflowed from my mouth trickled[r]
+down my chin, flowing down my neck and chest.[pcms]
 
 *14625|
 [fc]
-まるで生きているみたいに動くソレが、[r]
-あたしの体の上を這いずっていく。[pcms]
+It moved as if it were alive, crawling over my body.[pcms]
 
 *14626|
 [fc]
-[ns]菅生[nse]
-「チッ！　全部飲めッつったろォがよ！！[r]
-　このクソ女がァっ！！」[pcms]
+[ns]Sugou[nse]
+"Tch! I told you to swallow it all!! You shitty girl!!"[pcms]
 
 ;//SE:人を殴る
 [se0 storage="SE20"]
@@ -1638,29 +1541,29 @@
 *14627|
 [fc]
 [vo_hay s="hayami0481"]
-[ns]ありす[nse]
-「痛いっ！！　何でこんな……、あたしに……、[r]
-　何か恨みでもあるの……！？[r]
-　どうしてこんな……酷い事するのっ！！」[pcms]
+[ns]Arisu[nse]
+"Ouch!! Why are you doing this... to me...? Do you have a[r]
+grudge or something...!? Why are you doing such terrible[r]
+things!!"[pcms]
 
 *14628|
 [fc]
-[ns]菅生[nse]
-「どうしてだァ？　そりゃオメェ……、[r]
-　俺さまが、たまってッからだよ！！まだたりねぇ！[r]
-　次、イクぜぇ！　オラ！　ケツだせやァ！！」[pcms]
+[ns]Sugou[nse]
+"Why, you ask? That's because I'm... I'm pent up, that's[r]
+why!! Still not enough! Next, I'm going! Ora! Show me your[r]
+ass!!"[pcms]
 
 *14629|
 [fc]
 [vo_hay s="hayami0482"]
-[ns]ありす[nse]
-「いやあっ！　も、もう……やめ……て……」[pcms]
+[ns]Arisu[nse]
+"No, please... stop..."[pcms]
 
 *14630|
 [fc]
-[ns]菅生[nse]
-「こいつ、ジャマだァ……とってやっからよぉ！！[r]
-　俺さまに感謝しろよォ！？」[pcms]
+[ns]Sugou[nse]
+"This thing's in the way... I'll take it off for you!! Be[r]
+grateful to me, will ya!?"[pcms]
 
 ;//★黒画面
 ;消し無し[chara_int]
@@ -1668,430 +1571,406 @@
 
 *14631|
 [fc]
-足を拘束していたヒモが、オジサンに外されて[r]
-やっとあたしに自由が戻ってきた。[pcms]
+The rope that had been restraining my legs was removed by[r]
+the old man, and finally, freedom returned to me.[pcms]
 
 *14632|
 [fc]
-でも、せっかく自由になったのに、腰にも足にも[r]
-力が入らなくて、[r]
-結局オジサンから逃げ出す事は出来なかった。[pcms]
+But even though I was free, I couldn't muster any strength[r]
+in my hips or legs, and in the end, I couldn't escape from[r]
+the old man.[pcms]
 
 *14633|
 [fc]
-[ns]菅生[nse]
-「腰ぬけてんのかよ……ヒャハッ！！　てつだって[r]
-　やっから、よッ……」[pcms]
+[ns]Sugou[nse]
+"Got jelly legs, huh... Hyahha!! I'll help you out,[r]
+alright..."[pcms]
 
 *14634|
 [fc]
 [vo_hay s="hayami0483"]
-[ns]ありす[nse]
-「え……？　きゃあっ！！」[pcms]
+[ns]Alice[nse]
+"Eh...? Kyaa!!"[pcms]
 
 ;//★イベントＣＧ４
 [evcg storage="HEV205a"][trans_c cross time=301]
 
 *14635|
 [fc]
-オジサンはあたしの腰を持って、ソファーの上で[r]
-ひっくり返した。[pcms]
+The old man grabbed my hips and flipped me over on the sofa.[pcms]
 
 *14636|
 [fc]
-まるで犬みたいな格好をさせられているのに、[r]
-体が動かなくて、抵抗すら出来ないあたしの[r]
-お尻に、おちんちんが押し当てられた。[pcms]
+Even though I was made to assume a position like a dog, my[r]
+body wouldn't move, and I couldn't resist as his dick was[r]
+pressed against my ass.[pcms]
 
 *14637|
 [fc]
 [vo_hay s="hayami0484"]
-[ns]ありす[nse]
-「い……いやぁ！！」[pcms]
+[ns]Arisu[nse]
+"No... please!!"[pcms]
 
 *14638|
 [fc]
-[ns]菅生[nse]
-「ヒューッ！　いいケツしてんなァ！　オメェ、[r]
-　ますます気にいったぜェ！！　俺さまのぢんぼごも[r]
-　大よろこびだぜェ……！」[pcms]
+[ns]Sugou[nse]
+"Hyu-! Nice ass you got there! I like you even more now!! My[r]
+dick is overjoyed too...!"[pcms]
 
 *14639|
 [fc]
 [vo_hay s="hayami0485"]
-[ns]ありす[nse]
-「ひぁっ……！？　あうっ……やめ、や……、[r]
-　そんな所……擦らないで……やぁぁ……」[pcms]
+[ns]Alice[nse]
+"Hiaa...!? Auh... stop, don't... rub it there... yaaah..."[pcms]
 
 *14640|
 [fc]
-オジサンは、おちんちんをあたしのアソコと、[r]
-クリに擦りつけ始めた。[pcms]
+The old man began rubbing his dick against my pussy and[r]
+clit.[pcms]
 
 *14641|
 [fc]
-お漏らしをしてしまったあたしのアソコは、[r]
-なんの抵抗もなく、オジサンのおちんちんが[r]
-前後する。[pcms]
+My pussy, which had accidentally leaked, offered no[r]
+resistance as the old man's dick slid back and forth.[pcms]
 
 *14642|
 [fc]
 [vo_hay s="hayami0486"]
-[ns]ありす[nse]
-「はぁぁ……あつ……い……、[r]
-　気持ちわるいぃぃ……、いやだよ……こんなの……」[pcms]
+[ns]Arisu[nse]
+"Haaa... it's hot... it feels disgusting... I don't want[r]
+this..."[pcms]
 
 *14643|
 [fc]
-[ns]菅生[nse]
-「ヌルヌルしてんぜ、オメコがよォ！！[r]
-　クッセェ汁ダラダラ流してよ！！[r]
-　そんなに俺さまとセックスしたかったんかァ！！」[pcms]
+[ns]Sugou[nse]
+"Your pussy is all slippery!! Dripping with stinky juice!![r]
+Did you want to have sex with me that badly!?"[pcms]
 
 *14644|
 [fc]
 [vo_hay s="hayami0487"]
-[ns]ありす[nse]
-「そんな……ち、ちが……んぁっ！！　んふっ――っ[r]
-　あぁ……うぅっ……、やめて……お願い……！」[pcms]
+[ns]Alice[nse]
+"That's not... it's different... nhaa!! Nfuh-- ah... uuh...[r]
+please stop...!"[pcms]
 
 *14645|
 [fc]
-触らなくても分かる程に腫れ上がったあたしのクリに、[r]
-オジサンのが当たるたびに、体に電気を流された[r]
-みたいになる。[pcms]
+Every time the old man's dick touched my swollen clit, it[r]
+felt like electricity was coursing through my body.[pcms]
 
 *14646|
 [fc]
-お腹が熱い……。[r]
-それに、中から……また何か溢れてる……。[pcms]
+My stomach is hot... And something is overflowing from[r]
+inside again...[pcms]
 
 *14647|
 [fc]
-イヤなのに……。[r]
-もしかして、あたし……。[pcms]
+Even though I hate it... Could it be that I'm...?[pcms]
 
 *14648|
 [fc]
-感じてる……？[pcms]
+Feeling it...?[pcms]
 
 *14649|
 [fc]
-違う……、絶対に、違う……。[r]
-こんなので感じたりしない！！[pcms]
+No... it's definitely not that... I wouldn't feel anything[r]
+from this!![pcms]
 
 *14650|
 [fc]
-でも、何で……！？[pcms]
+But why...!?[pcms]
 
 *14651|
 [fc]
-あたしのお腹の奥から溢れる液は、太ももを流れて、[r]
-膝のあたりまで塗らしていた。[pcms]
+The liquid overflowing from deep inside my belly streamed[r]
+down my thighs, smearing all the way to my knees.[pcms]
 
 *14652|
 [fc]
-いくら止まってと願っても、まるで壊れた蛇口の様に[r]
-液を流し続けるあたしのアソコ。[pcms]
+No matter how much I wished for it to stop, my pussy[r]
+continued to flow like a broken faucet.[pcms]
 
 *14653|
 [fc]
-オジサンは、その溢れた液をおちんちんに塗りつけて、[r]
-喜び、わざと音が聞こえるように、あたしのアソコに[r]
-ぶつけている。[pcms]
+The old man smeared the overflowing liquid onto his dick[r]
+with delight and deliberately made sounds so that they could[r]
+be heard as he struck my pussy with it.[pcms]
 
 *14654|
 [fc]
-[ns]菅生[nse]
-「オメェのオメコ、ブッ壊れてんじゃねぇかァ？[r]
-　こんなにダラダラ、マン汁垂らしてよォ！！[r]
-　ピチャピチャうるせぇったらありゃしねぇ！！」[pcms]
+[ns]Sugou[nse]
+"Is your pussy broken or what!? Dripping so much pussy juice[r]
+like that!! It's so damn noisy with all that splashing!!"[pcms]
 
 *14655|
 [fc]
 [vo_hay s="hayami0488"]
-[ns]ありす[nse]
-「やっ……やだ、言わないで！！　そんな事……！」[pcms]
+[ns]Arisu[nse]
+"Don't... don't say that!! Don't talk about such things...!"[pcms]
 
 *14656|
 [fc]
-[ns]菅生[nse]
-「ンだと……ヨシャ、わかった……、[r]
-　オメェ、自分で言えや！！　ヒャハハ！！[r]
-　オメコがどうなってるか、自分で言えよォ！！」[pcms]
+[ns]Sugou[nse]
+"What's that... Alright, I got it... You say it yourself!![r]
+Hyahaha!! Tell me what's happening to your pussy!!"[pcms]
 
 *14657|
 [fc]
 [vo_hay s="hayami0489"]
-[ns]ありす[nse]
-「……！！」[pcms]
+[ns]Alice[nse]
+"...!!"[pcms]
 
 *14658|
 [fc]
-[ns]菅生[nse]
-「……んだよ！　ダンマリかよっ！！[r]
-　よぉーし、分かった！！　ケツ切んぞ！！[r]
-　それがイヤだったら、言えよ！！　オラァ！！」[pcms]
+[ns]Sugou[nse]
+"...What's wrong! Silent treatment, huh!! Alright, I got[r]
+it!! I'll cut your ass open!! If you don't want that, then[r]
+say it!! Oraa!!"[pcms]
 
 *14659|
 [fc]
-オジサンの方を見る事は出来なかったけど、[r]
-お尻にまた、なにか尖ったものを突き立てられた。[pcms]
+I couldn't look at the old man, but something sharp was[r]
+being thrust into my ass again.[pcms]
 
 *14660|
 [fc]
-それがナイフで有ることは、見なくても分かった。[pcms]
+I knew without looking that it was a knife.[pcms]
 
 *14661|
 [fc]
 [vo_hay s="hayami0490"]
-[ns]ありす[nse]
-「いやぁ！！　言います！！　分かりました！[r]
-　うぅっ……ぐすっ……ひっ……うわあぁぁん！！」[pcms]
+[ns]Alice[nse]
+"No!! I'll say it!! I understand! Uuhh... gusss... hiih...[r]
+uwaaaahhh!!"[pcms]
 
 *14662|
 [fc]
-恥ずかしさと屈辱にまみれて、あたしの顔は涙で[r]
-グシャグシャになっていた。[pcms]
+Covered in shame and humiliation, my face was a mess with[r]
+tears.[pcms]
 
 *14663|
 [fc]
-涙がボロボロこぼれて、目の周りが腫れぼったい。[pcms]
+My tears kept spilling out, making the area around my eyes[r]
+swollen.[pcms]
 
 *14664|
 [fc]
-殺される……。[pcms]
+I'm going to be killed...[pcms]
 
 *14665|
 [fc]
-このオジサンに、あたしは、殺されちゃう……。[r]
-言うことを聞かないと……。[pcms]
+This old man is going to kill me... If I don't obey him...[pcms]
 
 [evcg storage="HEV205b"][trans_c cross time=301]
 
 *14666|
 [fc]
 [vo_hay s="hayami0491"]
-[ns]ありす[nse]
-「あたしの……アソコは……、液が溢れて……、[r]
-　エッチな音を……」[pcms]
+[ns]Alice[nse]
+"My pussy is overflowing with liquid... making lewd[r]
+sounds..."[pcms]
 
 *14667|
 [fc]
-[ns]菅生[nse]
-「アァ！？　なぁに寝言いってんだテメェ……！[r]
-　アソコって何だよ！！　液って、なんだぁ！？[r]
-　オメコと、マン汁だろうがよッ！！　言い直せ！」[pcms]
+[ns]Sugou[nse]
+"Ah!? What are you babbling about in your sleep!? What's[r]
+this 'pussy' and 'liquid'? It's your pussy and pussy juice,[r]
+isn't it!? Say it again!"[pcms]
 
 *14668|
 [fc]
 [vo_hay s="hayami0492"]
-[ns]ありす[nse]
-「……あ、あたしの、お、オマンコ……マン汁が……[r]
-　溢れて……音を……ビショビショのオマンコ……、[r]
-　いやぁぁッ！　もう、いやぁ！！」[pcms]
+[ns]Arisu[nse]
+"...my pussy... is overflowing with pussy juice... making[r]
+sounds... my soaking wet pussy..., nooo! I can't take it[r]
+anymore!!"[pcms]
 
 *14669|
 [fc]
-[ns]菅生[nse]
-「ブシャシャシャ！！　オメェ、マジいいやがった！！[r]
-　バカじゃねぇのかァ！？　ヒャハハハハ！！[r]
-　ヒャアァァアアッ！！　このインラン女がよッ！」[pcms]
+[ns]Sugou[nse]
+"Bushasha! You're really something else!! Are you stupid or[r]
+what!? Hyahahaha!! Hyaahhhhh! You filthy woman!"[pcms]
 
 *14670|
 [fc]
-[ns]菅生[nse]
-「もっといえや！　オラァ！！　あたしにブッといの、[r]
-　つっこんで下さいぃ～ってな！！　ヒャハハ！！」[pcms]
+[ns]Sugou[nse]
+"Say more! Oraa!! Beg me to shove it in you, say 'Please[r]
+give me your dick'!! Hyahaha!!"[pcms]
 
 *14671|
 [fc]
-オジサンにさんざん笑われ、お尻を叩かれて、[r]
-半ばヤケになったあたしは、もう何もかもが[r]
-どうでもよくなっていた。[pcms]
+Laughed at by the old man and having my ass slapped, I[r]
+became half-desperate and didn't care about anything[r]
+anymore.[pcms]
 
 *14672|
 [fc]
-こんな事で、オジサンの気が静まるのなら……。[r]
-あのナイフで、切られたり、刺されたりするより……。[pcms]
+If this would calm the old man down... Better than being cut[r]
+or stabbed with that knife...[pcms]
 
 *14673|
 [fc]
 [vo_hay s="hayami0493"]
-[ns]ありす[nse]
-「あ……あたしに……下さい！！[r]
-　おちんちん、下さい……！　もう……イヤぁ！[r]
-　うぅっ……うえぇぇぇぇん！！」[pcms]
+[ns]Arisu[nse]
+"Please... give it to me!! Your dick, please...! I can't[r]
+stand it anymore! Uuhh... ueeeehhhnn!!"[pcms]
 
 *14674|
 [fc]
-[ns]菅生[nse]
-「ヨシャ！！　よくいったァ！！[r]
-　おのぞみ通り、ツッこんでやんぜェ！！[r]
-　ただし、こっちだけどなァ！！」[pcms]
+[ns]Sugou[nse]
+"Alright!! Well said!! I'll thrust it in as you wish, but[r]
+it's going to be here!!"[pcms]
 
 *14675|
 [fc]
-お尻を叩いていた手を止めて、お尻を鷲づかみにした[r]
-オジサンは、お尻の穴におちんちんを突き立てると、[r]
-そのまま全体重を、あたしに乗せてきた。[pcms]
+Stopping the hand that was spanking my butt, the old man[r]
+grabbed my ass and thrust his dick into my asshole, then put[r]
+all his weight on me.[pcms]
 
 *14676|
 [fc]
-アソコじゃなくてお尻の穴に、オジサンの[r]
-おちんちんが湿った音を立てて埋まっていく。[pcms]
+It wasn't my pussy but my asshole that the old man's dick[r]
+was penetrating with wet sounds.[pcms]
 
 [evcg storage="HEV205c"][trans_c cross time=301]
 
 *14677|
 [fc]
 [vo_hay s="hayami0494"]
-[ns]ありす[nse]
-「ぎっ……う……うあっあぁぁ！！[r]
-　痛い痛い痛い！　抜いて！！　抜いてぇ！！[r]
-　痛いよ！！　裂けちゃう！！　ぎぃぃっ！」[pcms]
+[ns]Alice[nse]
+"Guh... ugh... ahhhh!! It hurts, it hurts, it hurts! Pull it[r]
+out!! Pull it out!! It hurts!! I'm going to tear!! Gyaahhh!"[pcms]
 
 *14678|
 [fc]
-あたしの処女は、守られたけど……。[r]
-お尻が焼ける様に熱くて、痛い。[pcms]
+My virginity was preserved... But my ass is burning hot and[r]
+painful.[pcms]
 
 *14679|
 [fc]
 [vo_hay s="hayami0495"]
-[ns]ありす[nse]
-「お腹……苦しい！！　ぎっ！　い、痛いよ！！[r]
-　抜いてぇ！！　あぅぅぅ……うぅぅぁあぁ！！」[pcms]
+[ns]Alice[nse]
+"My stomach... it's painful!! Gah! It hurts!! Pull it out!![r]
+Auuu... uuuahhh!!"[pcms]
 
 *14680|
 [fc]
-あたしのお尻の穴に、まるで真っ赤に焼けた鉄の棒を[r]
-ねじ込まれたかの様な激痛が走る。[pcms]
+An intense pain ran through my asshole as if a red-hot iron[r]
+rod had been twisted into it.[pcms]
 
 *14681|
 [fc]
-でもオジサンは、そんなあたしの事はお構いなしに、[r]
-激しく腰を前後させ、自分だけ快楽をむさぼっている。[pcms]
+But the old man, unconcerned about me, kept thrusting his[r]
+hips back and forth, indulging in pleasure all by himself.[pcms]
 
 *14682|
 [fc]
-[ns]菅生[nse]
-「オメェのケツ、しまっていいぜ！　オイ！[r]
-　こりゃ俺さまの、もたねぇよ！　きょうは……、[r]
-　いい日だぜェ！！　こんな子とヤれるなんてよぉ！」[pcms]
+[ns]Sugou[nse]
+"Your ass is nice and tight! Hey! I can't hold back anymore![r]
+Today is... a good day!! To think I'd get to do this with[r]
+such a girl!"[pcms]
 
 *14683|
 [fc]
 [vo_hay s="hayami0496"]
-[ns]ありす[nse]
-「や……やっ……んうぅぅうぅ……！！[r]
-　痛いよぉ！　うぁぁ……あぅっ！」[pcms]
+[ns]Arisu[nse]
+"No... stop... nnnuuu...!! It hurts! Uwaa... ahh!"[pcms]
 
 *14684|
 [fc]
-助けて……！！[r]
-このままじゃ……お尻がっ！[r]
-もう……ダメ！！[pcms]
+Help me...!! At this rate... my ass! I can't take it[r]
+anymore!![pcms]
 
 *14685|
 [fc]
-[ns]菅生[nse]
-「ケツまでヌルヌルさせやがってよォ！！　オメェ、[r]
-　ホンットエロい体してやがんぜ！！　ヒャハァ！！[r]
-　ケツ穴犯されて、感じてるんだろォ！？　アァ！？」[pcms]
+[ns]Sugou[nse]
+"You've got your ass all slippery too, huh!? You really have[r]
+a lewd body!! Hyahaa!! You're feeling it getting fucked in[r]
+the ass, aren't you!? Ah!?"[pcms]
 
 *14686|
 [fc]
 [vo_hay s="hayami0497"]
-[ns]ありす[nse]
-「ち……が……んぁっ！！　うッ！！　もうやめて！[r]
-　おね……がっ……いぃ！！　いやぁ！！」[pcms]
+[ns]Arisu[nse]
+"That's not... ahn!! Ugh!! Stop it already! Please...[r]
+nooo!!"[pcms]
 
 *14687|
 [fc]
-オジサンは腰の動きをどんどん速くして、あたしの[r]
-中を激しく掻き回す。[pcms]
+The old man sped up his hip movements, stirring violently[r]
+inside me.[pcms]
 
 *14688|
 [fc]
-お腹の中を引っかき回され、何度も何度もお尻の穴を[r]
-刺激されたあたしの声は、いつしか痛みの悲鳴から、[r]
-すこし甘い声に変わっていた。[pcms]
+My voice, which had been screaming in pain as my insides[r]
+were scratched and my asshole was stimulated over and over,[r]
+had gradually turned into a slightly sweet moan.[pcms]
 
 *14689|
 [fc]
-……あたし、どうしたの……？[r]
-痛い筈なのに……。[r]
-どうして……？[pcms]
+What's happening to me...? It should be painful... Why...?[pcms]
 
 *14690|
 [fc]
-なんか、アソコが熱い……。[r]
-お尻も、アソコの中も……。[pcms]
+Somehow, my pussy is hot... Both my ass and inside my[r]
+pussy...[pcms]
 
 *14691|
 [fc]
-全部、熱くなってる……？[pcms]
+Everything is getting hot...?[pcms]
 
 *14692|
 [fc]
 [vo_hay s="hayami0498"]
-[ns]ありす[nse]
-「いやぁ……んうぅ……もう……いやぁ！！[r]
-　んふっ……んあぁぁあぁ！！」[pcms]
+[ns]Arisu[nse]
+"No... nnnuuu... no more... nooo!! Nnhh... nnaaahhh!!"[pcms]
 
 *14693|
 [fc]
-[ns]菅生[nse]
-「オォ？　感じてんのかァ？　ケツ犯されて[r]
-　感じてんのかよォ！！　このド変態が！[r]
-　変態がよォ！！　ヒャハハハァ！！」[pcms]
+[ns]Sugou[nse]
+"Oh? Are you feeling it? Are you feeling getting your ass[r]
+fucked!? You pervert! Pervert indeed!! Hyahahaha!!"[pcms]
 
 *14694|
 [fc]
 [vo_hay s="hayami0499"]
-[ns]ありす[nse]
-「うぅ～……うぁぁ……んっ……んっ……！！[r]
-　あっ……うあぁぁ！！　お尻っ！！　お尻が熱い！[r]
-　もうやめて！！　やだぁ！　こんなの……！」[pcms]
+[ns]Alice[nse]
+"Uuu~... uwaah... nnn... nnn...!! Ahh... uwaaahh!! My ass!![r]
+My ass is hot! Stop it already!! Noo! Not like this...!"[pcms]
 
 *14695|
 [fc]
-[ns]菅生[nse]
-「んだァ！？　ケツ穴ヒクつかせてよォ！！[r]
-　オォ！？　また来たぜェッ！！　イクぜェ！！[r]
-　こんどァ、ケツ穴にぶちまけてやんぜェ！！」[pcms]
+[ns]Sugou[nse]
+"That's right!? Make your asshole twitch!! Oh!? Here it[r]
+comes again! I'm cumming!! This time, I'm going to shoot it[r]
+all into your asshole!!"[pcms]
 
 *14696|
 [fc]
 [vo_hay s="hayami0500"]
-[ns]ありす[nse]
-「イヤァ！！　ダメぇ！！　出さないでッ！！[r]
-　んうぅぅうッ！！」[pcms]
+[ns]Arisu[nse]
+"NOOO!! Don't do it!! Don't cum inside!! Nuuuuhhh!!"[pcms]
 
 *14697|
 [fc]
-[ns]菅生[nse]
-「オラオラァ！！　来た来たァ――！！[r]
-　うおぉおおおおぉぉ！！」[pcms]
+[ns]Sugou[nse]
+"Oraoraaa!! Here it comes--!! Uoooohhhh!!"[pcms]
 
 *14698|
 [fc]
 [vo_hay s="hayami0501"]
-[ns]ありす[nse]
-「あ、あ……あ！！　いやぁ！　いやっ！！[r]
-　んあうッ！！　あぅううッ！！」[pcms]
+[ns]Arisu[nse]
+"Ah, ah... ah!! Nooo! Nooo!! Nnahh!! Auuuhh!!"[pcms]
 
 *14699|
 [fc]
-力んだ拍子に、おちんちんが外に押し出されて、[r]
-そのままオジサンは、あたしのお尻に大量の[r]
-精液を吐きかけた。[pcms]
+As I strained, the dick was pushed out, and the old man[r]
+ejaculated a large amount of semen onto my ass.[pcms]
 
 *14700|
 [fc]
-[ns]菅生[nse]
-「うぉぉぉおおぉっ！！」[pcms]
+[ns]Sugou[nse]
+"Uoooohhhhh!!"[pcms]
 
 ;[射精フラA]
 ;イベントCG射精差分
@@ -2102,15 +1981,13 @@
 *14701|
 [fc]
 [vo_hay s="hayami0502"]
-[ns]ありす[nse]
-「ああぁぁあ！！　熱いぃい！！[r]
-　お尻にかかってるッ！　ああぁぁぁ！！」[pcms]
+[ns]Alice[nse]
+"Aaaahhh!! It's hot!! It's on my ass! Aaaahhhhh!!"[pcms]
 
 *14702|
 [fc]
-[ns]菅生[nse]
-「へ……へへっ！！[r]
-　次いくぞぉ……うがッ！？」[pcms]
+[ns]Sugou[nse]
+"Heh... heheh!! Next up, let's go... ugh!?"[pcms]
 
 ;//SE:人を殴る
 [se0 storage="SE20"]
@@ -2124,7 +2001,7 @@
 	[jump storage="b_scene.ks" target=*back_from_SR]
 ;	[link storage=sceneAgain]もう一度見る[endlink]
 ;	[link storage=sceneList]一覧に戻る[endlink]
-;	[s]
+[pcms]
 [endif]
 
 *KAISOU_PASS
@@ -2137,14 +2014,14 @@
 
 *14703|
 [fc]
-オジサンは突然悲鳴を上げたあと、[r]
-急にあたしの背中に、顔を押しつけてきた。[pcms]
+Suddenly screaming, the old man then pressed his face[r]
+against my back.[pcms]
 
 *14704|
 [fc]
 [vo_hay s="hayami0503"]
-[ns]ありす[nse]
-「……！？」[pcms]
+[ns]Arisu[nse]
+"...!?"[pcms]
 
 [bg storage="bg26a"][trans_c cross time=1000]
 
@@ -2152,68 +2029,68 @@
 
 *14705|
 [fc]
-オジサンを払いのけようと振り返ると、[r]
-そこには、枯れ木の様に立つ長崎さんの姿があった。[pcms]
+When I turned around to push the old man away, there stood[r]
+Nagasaki-san, standing like a withered tree.[pcms]
 
 *14706|
 [fc]
 [vo_hay s="hayami0504"]
-[ns]ありす[nse]
-「な……長崎さん？　いやぁぁ！！　見ないでぇ！」[pcms]
+[ns]Alice[nse]
+"Na... Nagasaki-san? Nooo!! Don't look!"[pcms]
 
 *14707|
 [fc]
-助けられたとはいえ、こんな姿を見られたくない。[pcms]
+Even though I was saved, I didn't want to be seen like this.[pcms]
 
 *14708|
 [fc]
 [vo_nag s="nagasaki0209"]
-[ns]千尋[nse]
-「…………」[pcms]
+[ns]Chihiro[nse]
+"..."[pcms]
 
 ;//♪：bgm012
 [bgm storage="bgm012"]
 
 *14709|
 [fc]
-まるであたしに興味がないような、無表情のまま[r]
-ぼうっと立っている長崎さんには、[r]
-変わった所があった。[pcms]
+Nagasaki-san stood there blankly with an expressionless face[r]
+as if she had no interest in me at all. There was something[r]
+different about her.[pcms]
 
 *14710|
 [fc]
-あたしが縛った筈の手が、自由になっていた。[pcms]
+The hands that I had tied were now free.[pcms]
 
 *14711|
 [fc]
-確かに、そんなにきつく縛ってはいなかったけど……。[r]
-一人でほどく事は出来ないはず……？[pcms]
+I hadn't tied them very tightly, but... she shouldn't have[r]
+been able to untie them by herself, right?[pcms]
 
 *14712|
 [fc]
-良くみると、縛っていたはずのヒモはちぎれていた。[pcms]
+Upon closer inspection, the rope that should have been tying[r]
+her was torn.[pcms]
 
 *14713|
 [fc]
-自分でも、縛られた手を思いっきり左右に広げて、[r]
-ちぎろうとしてみたけど、ただ手首に食い込むだけで、[r]
-それはぴくりともしなかった。[pcms]
+I even tried spreading my tied hands as far as possible to[r]
+the left and right to tear them apart, but they only dug[r]
+into my wrists without budging an inch.[pcms]
 
 *14714|
 [fc]
-長崎さんがちぎったのかな……？[r]
-でも、このヒモはそんなに簡単には切れない……。[pcms]
+Did Nagasaki-san tear them? But this rope isn't so easily[r]
+cut...[pcms]
 
 *14715|
 [fc]
 [vo_nag s="nagasaki0210"]
-[ns]千尋[nse]
-「……」[pcms]
+[ns]Chihiro[nse]
+"..."[pcms]
 
 *14716|
 [fc]
-長崎さん……。[r]
-いったい……何が……？[pcms]
+Nagasaki-san... What on earth...?[pcms]
 
 [black_toplayer][trans_c cross time=1000][hide_chara_int]
 

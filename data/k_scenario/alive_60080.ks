@@ -15,34 +15,33 @@
 
 *956|
 [fc]
-[ns]大倉[nse]
-「まてよ！　オッサン！！」[pcms]
+[ns]Ookura[nse]
+"Wait a minute! Old man!!"[pcms]
 
 ;//★食品売り場
 [bg storage="bg25"][trans_c cross time=1000]
 
 *957|
 [fc]
-ヒロを引きずって、建物へと入っていくオヤジを追い[r]
-かけ、走ろうとしたが、怪我をした訳でも無いのに、[r]
-足がうまく動かせなかった。[pcms]
+As I tried to chase after the old man dragging Hiro into the[r]
+building and run, my legs wouldn't move properly, even[r]
+though I wasn't injured.[pcms]
 
 *958|
 [fc]
-目が覚めてから、ずっと体調はいいのに、[r]
-足や腕の動きは、自分の想像と違って緩慢だった。[pcms]
+Ever since I woke up, I felt fine, but the movement of my[r]
+legs and arms was sluggish, different from what I imagined.[pcms]
 
 *959|
 [fc]
-[ns]大倉[nse]
-「くそっ……なんだってんだよ！[r]
-　俺の体、一体どうなっちまったんだよ！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Damn it... what the hell is going on?! What's happened to[r]
+my body?!"[pcms]
 
 *960|
 [fc]
-ユウを引きずってあるくオヤジに、やっと追いついた[r]
-ところで、ユウが奇妙な行動を取っている事に気が付[r]
-いた。[pcms]
+Finally catching up to the old man dragging Yuu along, I[r]
+noticed that Yuu was engaging in strange behavior.[pcms]
 
 [ChrSetEx layer=2 chbase="koba_n17"][ChrSetXY layer=2 x=0 y=0]
 [ChrSetEx layer=3 chbase="sugo_n08"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
@@ -50,103 +49,102 @@
 *961|
 [fc]
 [vo_kob s="koba0514"]
-[ns]小林[nse]
-「わぁ～……美味しそうなのがいっぱいある～……[r]
-　あ～ん……」[pcms]
+[ns]Kobayashi[nse]
+"Wow~... There's so much delicious food... Ah~n..."[pcms]
 
 *962|
 [fc]
-[ns]菅生[nse]
-「おら！　きりきりあるけぇ……って、おい！[r]
-　おれさまのもんにてぇだすなっ！」[pcms]
+[ns]Sugou[nse]
+"Hey! Move it along... and hey! Don't touch my stuff!"[pcms]
 
 [ChrSetEx layer=2 chbase="koba_n19"][ChrSetXY layer=2 x=0 y=0][trans_c cross time=150]
 
 *963|
 [fc]
 [vo_kob s="koba0515"]
-[ns]小林[nse]
-「あ～！　もっと食べたいよ～～！　お腹空いた～！」[pcms]
+[ns]Kobayashi[nse]
+"Ah~! I want to eat more~~! I'm hungry~!"[pcms]
 
 *964|
 [fc]
-[ns]大倉[nse]
-「……？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"...?"[pcms]
 
 [chara_int_ layer=2][chara_int_ layer=3][trans_c cross time=150]
 
 *965|
 [fc]
-オヤジに引きずられながら、その事をまるで気にして[r]
-いないかの様なユウは、周りにある食べ物に手を伸ば[r]
-して、それを次々と口にねじ込んでいた。[pcms]
+While being dragged by the old man, Yuu seemed not to care[r]
+at all and was reaching out for the food around her,[r]
+stuffing it into her mouth one after another.[pcms]
 
 *966|
 [fc]
-しかし、食べ物を美味しそうに頬張るユウを見ている[r]
-と、俺も、猛烈な空腹を感じる様になっていた。[pcms]
+But watching Yuu eagerly munching on the food, I too began[r]
+to feel a fierce hunger.[pcms]
 
 *967|
 [fc]
-[ns]大倉[nse]
-「……俺も、なんか食っておこ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"...I should eat something too..."[pcms]
 
 *968|
 [fc]
-[ns]菅生[nse]
-「たからよ！　おれさまのもんに、てぇだすなっ！！」[pcms]
+[ns]Sugou[nse]
+"You thief! Don't touch my stuff!!"[pcms]
 
 *969|
 [fc]
-汚い声で怒鳴り散らすオヤジを横目に、食い物の棚を[r]
-あさっていると、そこには猛烈に美味そうな生ハムが[r]
-あった。[pcms]
+Ignoring the old man shouting with a dirty voice, as I[r]
+rummaged through the food shelves, there was an incredibly[r]
+delicious-looking prosciutto.[pcms]
 
 *970|
 [fc]
-それは、透明な何かに包まれていたが、あまりにも[r]
-美味そうで、それに腹が減って我慢できず、そのまま[r]
-かぶりついた。[pcms]
+It was wrapped in something transparent, but it looked so[r]
+appetizing and I was so hungry that I couldn't resist biting[r]
+into it directly.[pcms]
 
 *971|
 [fc]
-[ns]大倉[nse]
-「う……うめぇ！　こんなん、今まで食った事ねえ！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Ugh... this is amazing! I've never eaten anything like this[r]
+before!"[pcms]
 
 *972|
 [fc]
-透明な包みは味がしなかったけど、中身のハムは、[r]
-柔らかく、塩味が効いていて、猛烈に美味かった。[pcms]
+The transparent wrapping had no taste, but the ham inside[r]
+was tender and well-seasoned with salt, incredibly[r]
+delicious.[pcms]
 
 *973|
 [fc]
-あまりの美味さに、俺の顔ほどもあったハムは、[r]
-すべて胃の中に消えていった。[pcms]
+Due to its deliciousness, the ham, as big as my face,[r]
+disappeared into my stomach.[pcms]
 
 *974|
 [fc]
-しかしそれでも、空腹は消えることは無かった。[pcms]
+But even then, my hunger did not subside.[pcms]
 
 *975|
 [fc]
-[ns]大倉[nse]
-「腹へった……まだ食いたりねぇ……」[pcms]
+[ns]Ookura[nse]
+"I'm hungry... still not satisfied..."[pcms]
 
 *976|
 [fc]
-隣の棚に置いてある、赤い汁にまみれた肉に手を出し、[r]
-それにまたかじり付く。[pcms]
+I reached out for the meat drenched in red sauce on the next[r]
+shelf and bit into it again.[pcms]
 
 *977|
 [fc]
-[ns]大倉[nse]
-「ぐっ……ぐぉっ……硬い……でも、美味い……」[pcms]
+[ns]Ookura[nse]
+"Guh... guh... it's tough... but tasty..."[pcms]
 
 *978|
 [fc]
-その肉は硬く、なかなか噛みきれなかった。[r]
-しかし、猛烈な空腹に襲われていた俺は、それを[r]
-そのまま飲み込んだ。[pcms]
+The meat was tough and hard to chew through. However,[r]
+overwhelmed by intense hunger, I swallowed it whole.[pcms]
 
 [ChrSetEx layer=2 chbase="koba_n19"][ChrSetXY layer=2 x=0 y=0]
 [ChrSetEx layer=3 chbase="sugo_n08"][ChrSetXY layer=3 x=400 y=0][trans_c cross time=150]
@@ -154,81 +152,81 @@
 *979|
 [fc]
 [vo_kob s="koba0516"]
-[ns]小林[nse]
-「あ～……いいなぁ……美味しそう……」[pcms]
+[ns]Kobayashi[nse]
+"Ah~... that looks good... delicious..."[pcms]
 
 *980|
 [fc]
-[ns]菅生[nse]
-「いいかげんにしろオメェ！　くいもんにてだすな！[r]
-　さっさとアイツらおっぱらいにいくぞ！」[pcms]
+[ns]Sugou[nse]
+"Enough already! Don't touch the food! Let's hurry up and[r]
+get rid of those guys!"[pcms]
 
 *981|
 [fc]
-チッ……！[r]
-うるせーオッサンだな……。[pcms]
+Tch...! What an annoying old man...[pcms]
 
 *982|
 [fc]
-[ns]大倉[nse]
-「分かったよ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Got it..."[pcms]
 
 [chara_int_ layer=2][chara_int_ layer=3][trans_c cross time=150]
 
 *983|
 [fc]
-訳の分からない事を言っているオヤジのいる所へ向か[r]
-おうと、次の肉を取るために伸ばした手を引っ込めた。[pcms]
+As I was about to reach for the next piece of meat, I[r]
+retracted my hand to head towards where the incomprehensible[r]
+old man was.[pcms]
 
 *984|
 [fc]
-[ns]大倉[nse]
-「１５００円？　円？」[pcms]
+[ns]Ookura Hiroshi[nse]
+"1500 yen? Yen?"[pcms]
 
 *985|
 [fc]
-肉を包む透明なモノに付いていた紙には、[r]
-よく分からない事が書いてあった。[pcms]
+The paper attached to the transparent thing wrapping the[r]
+meat had something written on it that I couldn't understand.[pcms]
 
 *986|
 [fc]
-[ns]大倉[nse]
-「円……、なんだ……？　えん？」[pcms]
+[ns]Ookura[nse]
+"Yen... what's that...? Yen?"[pcms]
 
 *987|
 [fc]
-なんだっけ、これ……？[r]
-たしか、何か交換するとき言ってた様な……？[pcms]
+What was that again...? It's something said when exchanging[r]
+something, right...?[pcms]
 
 [ChrSetEx layer=4 chbase="sugo_n08"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *988|
 [fc]
-[ns]菅生[nse]
-「さっさとしろよボケェ！　なにやってやがるっ！」[pcms]
+[ns]Sugou[nse]
+"Hurry up, you idiot! What are you doing?!"[pcms]
 
 *989|
 [fc]
-[ns]大倉[nse]
-「ボケだと？　うるせぇな、クソオヤジが……。[r]
-　大体、何様のつもりだよ……クソッ！！」[pcms]
+[ns]Ookura[nse]
+"Idiot? Shut up, damn old man... Who do you think you are...[r]
+Damn!!"[pcms]
 
 *990|
 [fc]
-[ns]菅生[nse]
-「なんかいったか？　はやくしろ！　うえだ！！！[r]
-　さきにうえ、いってるぞ！」[pcms]
+[ns]Sugou[nse]
+"Did you say something? Hurry up! Go up!!! Move ahead, we're[r]
+going up!"[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
 *991|
 [fc]
-[ns]大倉[nse]
-「へーへー……わかりました！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Ye-yes... understood!"[pcms]
 
 *992|
 [fc]
-それにしても、１５００円ってなんだ？[pcms]
+But still, what is this 1500 yen?[pcms]
 
 ;//[fadeoutbgm time=502]
 ;//[stop_se0]
@@ -241,4 +239,4 @@
 [jump storage="alive_60090.ks" target=*alive_60090_TOP]
 
 ;//BLACKOUT
-;//－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+;//

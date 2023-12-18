@@ -23,41 +23,39 @@
 
 *10944|
 [fc]
-[ns]大倉[nse]
-「……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"..."[pcms]
 
 *10945|
 [fc]
-まだ手の中で着信音を鳴らせ続けているケータイと、[r]
-暴れながら動物たちが入っている檻の方へ歩いて行く[r]
-女の子。[pcms]
+The girl walks towards the cage containing the restless[r]
+animals, while still letting her cellphone ring in her hand.[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
 *10946|
 [fc]
-俺はその２つに交互に目を向けながら、どっちを先に[r]
-片付ければいいのか、決められないでいた。[pcms]
+As I alternately look at the two, I can't decide which one[r]
+to deal with first.[pcms]
 
 *10947|
 [fc]
-いま電話に出なきゃ、次にいつ速水と話せるかわかん[r]
-ねぇ……。[pcms]
+If I don't answer the phone now, I don't know when I'll be[r]
+able to talk to Hayami again...[pcms]
 
 *10948|
 [fc]
-けど、あの子をこのままほっといたら、ヘタすりゃケ[r]
-ガじゃ済まなくなりそうだし……。[pcms]
+But if I leave that girl alone, she might end up more than[r]
+just hurt...[pcms]
 
 ;//バッドエンド救済ポイント3
 ;AutoSave 3
 
 *10949|
 [fc]
-どうする……。[r]
-どっちを選べば……。[pcms]
+What should I do... Which one should I choose...[pcms]
 
-;//－－－－－－－－－－－－－－－－－－－－
+;//
 ;//♪：bgm005 stop
 [fadeoutbgm time=1][wb]
 
@@ -75,16 +73,16 @@
 ;[link storage="westtown_main10241.ks" target=*westtown_main10241_TOP]速水が無事なのかだけ確かめたい……[endlink]
 ;[link storage="westtown_main10242.ks" target=*westtown_main10242_TOP]とりあえずあの娘を止めなきゃ……！[endlink]
 ;[link storage="westtown_main10243.ks" target=*westtown_main10243_TOP]どちらにするか、冷静に考えないと……！[endlink]
-;[s]
+;[pcms]
 
 
 *SEL04|速水が無事なのか／あの娘を止めなきゃ……！／冷静に考えないと……！
 [fc]
 [pcms_sel]
 
-[eval exp="f.seltext02 = '速水が無事なのかだけ確かめたい……'"]
-[eval exp="f.seltext04 = 'とりあえずあの娘を止めなきゃ……！'"]
-[eval exp="f.seltext06 = 'どちらにするか、冷静に考えないと……！'"]
+[eval exp="f.seltext02 = 'I just want to make sure Hayami is safe'"]
+[eval exp="f.seltext04 = 'I have to stop that girl for now!'"]
+[eval exp="f.seltext06 = 'I need to think calmly before deciding!'"]
 
 [if exp="tf.sys_sub == 0 || tf.選択肢ログ表示してね == 1"]
 	;選択肢内容をバックログに表記。改行コード必須。

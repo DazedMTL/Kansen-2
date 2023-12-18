@@ -15,9 +15,9 @@
 
 *12391|
 [fc]
-吹き抜け側より長い通路の方が、イカレ野郎の数が少[r]
-ないと判断して、俺らは手に入れたばかりの武器でヤ[r]
-ツらをはねのけながら、エスカレーターへ走った。[pcms]
+Judging that the longer corridor on the other side of the[r]
+atrium had fewer crazies, we knocked them aside with the[r]
+weapons we had just acquired and ran for the escalator.[pcms]
 
 ;//BG表示
 ;//★ＢＧ：ペットショップA
@@ -29,40 +29,40 @@
 
 *12392|
 [fc]
-上がってきた３階に響き渡っている、檻の中で暴れる[r]
-動物たちの声は、前に聴いた時よりも激しくなってい[r]
-るような気がした。[pcms]
+The sounds of animals raging in cages that echoed throughout[r]
+the third floor we had just reached seemed more intense than[r]
+when I had heard them before.[pcms]
 
 *12393|
 [fc]
-[ns]大倉[nse]
-「ふーっ……」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Phew..."[pcms]
 
 ;場所<ImageFade 6,60,OFF,OFF>
 
 *12394|
 [fc]
-あちこちに大勢ウロついているイカレ野郎に、沸き上[r]
-がる恐怖を抑え込もうと、俺は大きく息を吐き、シャ[r]
-ベルの柄をきつく握り直した。[pcms]
+Trying to suppress the rising fear from the many crazies[r]
+wandering around, I took a deep breath and tightened my grip[r]
+on the handle of the shovel.[pcms]
 
 *12395|
 [fc]
-[ns]大倉[nse]
-「よしっ……！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Alright...!!"[pcms]
 
 [ChrSetEx layer=4 chbase="etc03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
 *12396|
 [fc]
-渡り廊下に続いている短い通路へ入り、一番近くをフ[r]
-ラフラとウロついている男を、俺はシャベルで思いっ[r]
-きり突き飛ばした。[pcms]
+Entering a short corridor that continued from the walkway, I[r]
+shoved the man staggering nearby with all my might using the[r]
+shovel.[pcms]
 
 *12397|
 [fc]
-[ns]大倉[nse]
-「ゥラアッ！！！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Uraaah!!!!!"[pcms]
 
 ;//SE：打撃音（？）
 [se0 storage="SE20"]
@@ -72,8 +72,8 @@
 
 *12398|
 [fc]
-[ns]ワイシャツの男[nse]
-「んく゛ぅっ……」[pcms]
+[ns]Man in a Dress Shirt[nse]
+"Nghh..."[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
@@ -82,31 +82,34 @@
 
 *12399|
 [fc]
-男は踏ん張ろうという素振りも見せずに、俺に突き飛[r]
-ばされるまま仰向けに倒れ、床に思いっきり後頭部を[r]
-打ち付けて、大の字になって動かなくなった。[pcms]
+Without any attempt to brace himself, the man was pushed by[r]
+me and fell on his back, hitting the back of his head hard[r]
+on the floor, and lay there motionless in a spread-eagle[r]
+position.[pcms]
 
 *12400|
 [fc]
-もしかしてコイツら、病気のせいで足がうまく動かせ[r]
-ないんじゃねーのか……？[r]
-だから走れねーし、歩くのも遅いんだ……。[pcms]
+Could it be that these guys can't move their legs properly[r]
+because of some illness...? That's why they can't run, and[r]
+even walking is slow...[pcms]
 
 *12401|
 [fc]
-こうやって転ばして動きを止めてけば、結構簡単に向[r]
-こうのビルまで行けそうだな……。[pcms]
+If I keep knocking them down like this and stop their[r]
+movement, it seems like it'll be quite easy to get to the[r]
+building across...[pcms]
 
 *12402|
 [fc]
-シャベルを駆使して、胸や腹を突き、足をすくい上げ、[r]
-顔を張り飛ばして、通路をウロつくイカレ集団を、俺[r]
-は転ばせて動きを止めさせながら進んだ。[pcms]
+Using the shovel skillfully, I poked at chests and bellies,[r]
+swept legs from under them, and slapped faces, stopping the[r]
+movement of the crazy group wandering the corridor as I[r]
+advanced.[pcms]
 
 *12403|
 [fc]
-[ns]大倉[nse]
-「ダラァッ！！」[pcms]
+[ns]Ookura[nse]
+"Daraah!!"[pcms]
 
 [ChrSetEx layer=4 chbase="etc01"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
@@ -118,8 +121,8 @@
 
 *12404|
 [fc]
-[ns]腹の出た男[nse]
-「ぉく゛ぅっ……」[pcms]
+[ns]Pot-bellied man[nse]
+"Oguhh..."[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
@@ -128,8 +131,8 @@
 
 *12405|
 [fc]
-[ns]大倉[nse]
-「この野郎……っ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"You bastard...!!"[pcms]
 
 [ChrSetEx layer=4 chbase="etc04"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
@@ -141,8 +144,8 @@
 
 *12406|
 [fc]
-[ns]メガネの男[nse]
-「か゛ふっ……」[pcms]
+[ns]Glasses-wearing man[nse]
+"Gafh..."[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
@@ -151,8 +154,8 @@
 
 *12407|
 [fc]
-[ns]大倉[nse]
-「そこのイカレ野郎、どけぇッ！！」[pcms]
+[ns]Ookura Hiroshi[nse]
+"Out of the way, you crazy bastard!!"[pcms]
 
 [ChrSetEx layer=4 chbase="etc02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
@@ -164,8 +167,8 @@
 
 *12408|
 [fc]
-[ns]髪を逆立てた男[nse]
-「ふ゛く゛ぁっ……」[pcms]
+[ns]A man with spiky hair[nse]
+"Fughah..."[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
@@ -175,24 +178,25 @@
 *12409|
 [fc]
 [vo_anz s="anzai0215"]
-[ns]みき[nse]
-「くっ……んんっ！！」[pcms]
+[ns]Mikki[nse]
+"Kuh...nnnh!!"[pcms]
 
 *12410|
 [fc]
 [vo_kob s="koba0261"]
-[ns]小林[nse]
-「それっ……！　むこういけっ……！！」[pcms]
+[ns]Kobayashi[nse]
+"That's it...! Go that way...!!"[pcms]
 
 *12411|
 [fc]
-アンザイさんもユウも、それぞれ手に持った武器で、[r]
-イカレ野郎を遠ざけようと突き飛ばす。[pcms]
+Anzai-san and Yuu also pushed away the crazies with the[r]
+weapons they held, trying to keep them at bay.[pcms]
 
 *12412|
 [fc]
-そうして、囲まれないように、近づけさせないように、[r]
-ヤツらをはねのけながら、俺らは渡り廊下へ急いだ。[pcms]
+Thus, to avoid being surrounded and to prevent them from[r]
+getting close, we knocked them aside and hurried towards the[r]
+walkway.[pcms]
 
 ;//[fadeoutbgm time=502]
 ;//[stop_se0]
@@ -204,4 +208,4 @@
 
 [jump storage="westtown_main10540.ks" target=*westtown_main10540_TOP]
 
-;//－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+;//
