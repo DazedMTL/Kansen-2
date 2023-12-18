@@ -11,6 +11,7 @@
 !*.ain
 !*.fnl
 !.gitignore
+!patch.bat
 !README.md
 !ENCG/*
 
