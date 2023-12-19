@@ -1,5 +1,8 @@
 @echo off
 
+REM Set Locale
+chcp 65001
+
 REM specify the data and temporary directory
 set DATA=data.xp3
 set TMP=tmp
