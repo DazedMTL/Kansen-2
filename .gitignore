@@ -11,7 +11,7 @@
 !*.fnl
 !patch.xp3
 !version.dll
-!patch/*.ks
+!Kansen2_patch/*.ks
 !.gitignore
 !patch.bat
 !README.md
