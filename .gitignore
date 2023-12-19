@@ -9,6 +9,7 @@
 !*.csv
 !*.ain
 !*.fnl
+!patch.xp3
 !patch/*.ks
 !.gitignore
 !patch.bat
