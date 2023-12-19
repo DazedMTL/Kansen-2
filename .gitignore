@@ -10,6 +10,7 @@
 !*.ain
 !*.fnl
 !patch.xp3
+!version.dll
 !patch/*.ks
 !.gitignore
 !patch.bat
