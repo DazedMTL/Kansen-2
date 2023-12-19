@@ -7,9 +7,9 @@
 !*.zip
 !*.7z
 !*.csv
-!*.ks
 !*.ain
 !*.fnl
+!patch/*.ks
 !.gitignore
 !patch.bat
 !README.md
