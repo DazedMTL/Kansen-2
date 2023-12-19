@@ -9,7 +9,7 @@
 !*.csv
 !*.ain
 !*.fnl
-!patch.xp3
+!Kansen2_patch.xp3
 !version.dll
 !Kansen2_patch/*.ks
 !.gitignore
