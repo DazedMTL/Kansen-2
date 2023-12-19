@@ -115,8 +115,8 @@ without a subject line sent from mom.[pcms]
 
 *4021|
 [fc]
-[Hiroshi is safe. Strange people who seem to have caught the[r]
-disease on the news. Many are coming inside and it's scary][pcms]
+(Hiroshi is safe. Strange people who seem to have caught the[r]
+disease on the news. Many are coming inside and it's scary)[pcms]
 
 *4022|
 [fc]
@@ -129,13 +129,13 @@ caught the disease...[pcms]
 
 *4024|
 [fc]
-[I'm hiding in the closet now, might be found, dad might not[r]
-make it. Tied up because of the news][pcms]
+(I'm hiding in the closet now, might be found, dad might not[r]
+make it. Tied up because of the news)[pcms]
 
 *4025|
 [fc]
-[Waiting for Hiroshi to come home, mom is okay don't worry,[r]
-definitely come back safely][pcms]
+(Waiting for Hiroshi to come home, mom is okay don't worry,[r]
+definitely come back safely)[pcms]
 
 *4026|
 [fc]

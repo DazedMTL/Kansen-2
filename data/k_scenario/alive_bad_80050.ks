@@ -131,8 +131,8 @@ I'm scared...[pcms]
 [fc]
 [vo_hay s="hayami1220"]
 [ns]Arisu[nse]
-Hey~!? What's wrong Hiroshi...? It's kind of scary...?[r]
-Maya-chan, shall we go over there together?[pcms]
+Hey~!? What's wrong Hiroshi...? It's kind of scary...? Maya-[r]
+chan, shall we go over there together?[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_h02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
@@ -258,9 +258,9 @@ It's somehow exciting...[pcms]
 *2341|
 [fc]
 [ns]Sugou[nse]
-Oh-oh-, those tan lines are nice, huh? They fit quite[r]
-well!! My dick is getting excited for the first time in a[r]
-while too!![pcms]
+Oh-oh-, those tan lines are nice, huh? They fit quite well!![r]
+My dick is getting excited for the first time in a while[r]
+too!![pcms]
 
 *2342|
 [fc]
@@ -1257,7 +1257,7 @@ hahaha! I'm so happy..., ahaha!"[pcms]
 *2509|
 [fc]
 [ns]Ookura[nse]
-"Yuu... it felt good.... I'm sleepy..."[pcms]
+"Yuu... it felt good... I'm sleepy..."[pcms]
 
 *2510|
 [fc]

@@ -292,8 +292,8 @@ informed about this!!"[pcms]
 *641|
 [fc]
 [ns]Squad Member: Sugahara[nse]
-Sugahara: Sugahara: "What's with these numbers!! What's[r]
-going on here!!"[pcms]
+Sugahara: Sugahara: Sugahara: "What's with these numbers!![r]
+What's going on here!!"[pcms]
 
 *642|
 [fc]
@@ -360,7 +360,7 @@ spot, it happened.[pcms]
 *649|
 [fc]
 [ns]Squad Member: Sugahara[nse]
-Sugahara: Sugahara: "C-Captain!! Uwaaaah!!"[pcms]
+Sugahara: Sugahara: Sugahara: "C-Captain!! Uwaaaah!!"[pcms]
 
 [cutin storage="cut005"][trans_c cross time=300]
 
@@ -424,20 +424,20 @@ everywhere appeared and surrounded the squad.[pcms]
 *659|
 [fc]
 [ns]Squad Member: Shinoda[nse]
-Shinoda: Shinoda: "Ah... Aahh!! Hey! We're surrounded from[r]
-behind too!"[pcms]
+Shinoda: Shinoda: Shinoda: "Ah... Aahh!! Hey! We're[r]
+surrounded from behind too!"[pcms]
 
 *660|
 [fc]
 [ns]Team Member: Nakagawa[nse]
-Nakagawa: Nakagawa: "Ugh... Shoot!! Hey! Shoot!!"[pcms]
+Nakagawa: Nakagawa: Nakagawa: "Ugh... Shoot!! Hey! Shoot!!"[pcms]
 
 *661|
 [fc]
 [ns]Squad Member: Sugahara[nse]
-Sugahara: Sugahara: "Can't do it! I can't shoot!! These[r]
-guys, even though they're like this now! They used to be...[r]
-humans!!"[pcms]
+Sugahara: Sugahara: Sugahara: "Can't do it! I can't shoot!![r]
+These guys, even though they're like this now! They used to[r]
+be... humans!!"[pcms]
 
 *662|
 [fc]
@@ -465,9 +465,9 @@ by the actions of one team member.[pcms]
 *666|
 [fc]
 [ns]Squad Member: Shinoda[nse]
-Shinoda: Shinoda: "Damn it!! With this many enemies, no[r]
-matter how much ammo we have it won't be enough!! Run!! If[r]
-you can't shoot, then run!"[pcms]
+Shinoda: Shinoda: Shinoda: "Damn it!! With this many[r]
+enemies, no matter how much ammo we have it won't be[r]
+enough!! Run!! If you can't shoot, then run!"[pcms]
 
 *667|
 [fc]
@@ -505,14 +505,15 @@ infected, one of the squad members finally opened fire.[pcms]
 *672|
 [fc]
 [ns]Squad Member: Shinoda[nse]
-Shinoda: Shinoda: "Wha- What?! You there!!"[pcms]
+Shinoda: Shinoda: Shinoda: "Wha- What?! You there!!"[pcms]
 
 *673|
 [fc]
 [ns]Squad Member: Nakagawa[nse]
-Nakagawa: Nakagawa: "Haha! You guys shoot too!! Even if we[r]
-say run, we're surrounded!! If everyone shoots we might make[r]
-it through! Create an escape route by shooting wildly!"[pcms]
+Nakagawa: Nakagawa: Nakagawa: "Haha! You guys shoot too!![r]
+Even if we say run, we're surrounded!! If everyone shoots we[r]
+might make it through! Create an escape route by shooting[r]
+wildly!"[pcms]
 
 *674|
 [fc]
@@ -543,7 +544,7 @@ the infected approaching from behind.[pcms]
 *677|
 [fc]
 [ns]Squad Member: Nakagawa[nse]
-Nakagawa: Nakagawa: "Gih... Gyaaahhhhh!!"[pcms]
+Nakagawa: Nakagawa: Nakagawa: "Gih... Gyaaahhhhh!!"[pcms]
 
 [cutin storage="cut010b"][trans_c cross time=300]
 ;//Åöé©ìÆè¨èe
@@ -560,8 +561,8 @@ briefly illuminated the dim sky.[pcms]
 *679|
 [fc]
 [ns]Squad Member: Shinoda[nse]
-Shinoda: Shinoda: "Uwaaahh!! Damn it!! This bastard!! Get[r]
-away from him!!"[pcms]
+Shinoda: Shinoda: Shinoda: "Uwaaahh!! Damn it!! This[r]
+bastard!! Get away from him!!"[pcms]
 
 [cutin_int][trans_c cross time=300]
 [ChrSetEx layer=4 chbase="turuta_c02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
@@ -598,13 +599,14 @@ around Nakagawa.[pcms]
 *684|
 [fc]
 [ns]Team Member: Nakagawa[nse]
-Nakagawa: Nakagawa: "Agagaaaahhhhh! Stop it! Guuuaaahhh!!"[pcms]
+Nakagawa: Nakagawa: Nakagawa: "Agagaaaahhhhh! Stop it![r]
+Guuuaaahhh!!"[pcms]
 
 *685|
 [fc]
 [ns]Squad Member: Shinoda[nse]
-Shinoda: Shinoda: "You piece of shit!! Die!! Dieee!![r]
-Dieeeeeee!!"[pcms]
+Shinoda: Shinoda: Shinoda: "You piece of shit!! Die!![r]
+Dieee!! Dieeeeeee!!"[pcms]
 
 ;//Åöé©ìÆè¨èe
 ;//åpë±íÜ
@@ -622,7 +624,7 @@ Blood spouts rose from all over their bodies.[pcms]
 *688|
 [fc]
 [ns]Squad Member: Shinoda[nse]
-Shinoda: Shinoda: "Ah--!! Uwaaaahh!! Ah--!![r]
+Shinoda: Shinoda: Shinoda: "Ah--!! Uwaaaahh!! Ah--!![r]
 Ah----!!!!!!!!!!!!!!!!!!!!!"[pcms]
 
 ;//Åöé©ìÆè¨èe
@@ -642,8 +644,8 @@ without aiming.[pcms]
 *691|
 [fc]
 [ns]Squad Member: Sugahara[nse]
-Sugahara: Sugahara: "Gyaaahhhhh!! Stop! Please stop! I'm[r]
-different!! Ugaahhh!!"[pcms]
+Sugahara: Sugahara: Sugahara: "Gyaaahhhhh!! Stop! Please[r]
+stop! I'm different!! Ugaahhh!!"[pcms]
 
 *692|
 [fc]
@@ -679,7 +681,8 @@ groans of his squad mates and the infected.[pcms]
 *697|
 [fc]
 [ns]Squad Member: Shinoda[nse]
-Shinoda: Shinoda: "You!! Die! Die!! Die!! Dieeeee!!"[pcms]
+Shinoda: Shinoda: Shinoda: "You!! Die! Die!! Die!![r]
+Dieeeee!!"[pcms]
 
 *698|
 [fc]
@@ -690,7 +693,7 @@ there.[pcms]
 *699|
 [fc]
 [ns]Squad Member: Shinoda[nse]
-Shinoda: Shinoda: "Ah... ugh..."[pcms]
+Shinoda: Shinoda: Shinoda: "Ah... ugh..."[pcms]
 
 *700|
 [fc]
@@ -743,14 +746,14 @@ He cried without fending off the approaching infected.[pcms]
 *709|
 [fc]
 [ns]Squad Member: Shinoda[nse]
-Shinoda: Shinoda: "Gik! Guahhh! Aaahhhhhhh! Uwaaahh!! I've[r]
-been... bitten! Bitten!!"[pcms]
+Shinoda: Shinoda: Shinoda: "Gik! Guahhh! Aaahhhhhhh![r]
+Uwaaahh!! I've been... bitten! Bitten!!"[pcms]
 
 *710|
 [fc]
 [ns]Squad Member: Shinoda[nse]
-Shinoda: Shinoda: "Tsu... Tsuruta!! Help me out here!! It[r]
-hurts!! Guahhhhh!!"[pcms]
+Shinoda: Shinoda: Shinoda: "Tsu... Tsuruta!! Help me out[r]
+here!! It hurts!! Guahhhhh!!"[pcms]
 
 *711|
 [fc]
@@ -862,7 +865,7 @@ that they were supposed to protect.[pcms]
 *731|
 [fc]
 [ns]Squad Member: Sugahara[nse]
-Sugahara: Sugahara: "Gahh!! Damn itttttt!!"[pcms]
+Sugahara: Sugahara: Sugahara: "Gahh!! Damn itttttt!!"[pcms]
 
 [ChrSetEx layer=4 chbase="turuta_e02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
@@ -894,7 +897,7 @@ dropped to the ground in a trained, efficient motion.[pcms]
 *736|
 [fc]
 [ns]Squad Member: Sugahara[nse]
-Sugahara: Sugahara: "Guuooohhhhhhhhh!!!!!"[pcms]
+Sugahara: Sugahara: Sugahara: "Guuooohhhhhhhhh!!!!!"[pcms]
 
 [chara_int_ layer=4][trans_c cross time=150]
 
@@ -945,7 +948,8 @@ rain.[pcms]
 *743|
 [fc]
 [ns]Squad Member: Sugahara[nse]
-Sugahara: Sugahara: "Tsu... ru... ta... run... away"[pcms]
+Sugahara: Sugahara: Sugahara: "Tsu... ru... ta... run...[r]
+away"[pcms]
 
 *744|
 [fc]
@@ -1151,12 +1155,12 @@ horror movie.[pcms]
 *777|
 [fc]
 [ns]Team Member: Nakagawa[nse]
-Nakagawa: Nakagawa: "Eheaaa~... Tsurudaaa~..."[pcms]
+Nakagawa: Nakagawa: Nakagawa: "Eheaaa~... Tsurudaaa~..."[pcms]
 
 *778|
 [fc]
 [ns]Squad Member: Shinoda[nse]
-Shinoda: Shinoda: "Aaa~... I want to do it~..."[pcms]
+Shinoda: Shinoda: Shinoda: "Aaa~... I want to do it~..."[pcms]
 
 *779|
 [fc]

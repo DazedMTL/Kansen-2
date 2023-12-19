@@ -647,17 +647,17 @@ me.[pcms]
 [fc]
 [vo_may s="maya0104"]
 [ns]Young Lady[nse]
-「ジョン……」[pcms]
+"John..."[pcms]
 
 *11531|
 [fc]
 [ns]John[nse]
-「クゥン……」[pcms]
+"Woof..."[pcms]
 
 *11532|
 [fc]
-俺に向けていた目をお嬢様に移して、ハスキーが小さ[r]
-く鳴くと、彼女の顔から冷たさが消えた。[pcms]
+As the husky shifted its gaze from me to the young lady and[r]
+let out a small whine, the coldness in her face disappeared.[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_n03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
@@ -665,18 +665,19 @@ me.[pcms]
 [fc]
 [vo_may s="maya0105"]
 [ns]Young Lady[nse]
-「ごめんなさい……」[pcms]
+"I'm sorry..."[pcms]
 
 *11534|
 [fc]
 [ns]Ookura[nse]
-「あ、ウン……」[pcms]
+"Ah, yeah..."[pcms]
 
 *11535|
 [fc]
-なんだか話を続けづらい空気になって、俺は黙ったま[r]
-ま、膝の上にアゴを乗せて目をつぶっているハスキー[r]
-の頭を撫でていた。[pcms]
+The atmosphere became somewhat awkward to continue the[r]
+conversation, so I remained silent, stroking the head of the[r]
+husky that was resting its chin on my knee with its eyes[r]
+closed.[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_f01"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
@@ -684,61 +685,58 @@ me.[pcms]
 [fc]
 [vo_may s="maya0106"]
 [ns]Young Lady[nse]
-「……私も見てた……」[pcms]
+"...I was watching too..."[pcms]
 
 *11537|
 [fc]
 [ns]Ookura[nse]
-「え……？」[pcms]
+"Eh...?"[pcms]
 
 *11538|
 [fc]
 [vo_may s="maya0107"]
 [ns]Young Lady[nse]
-「ジョンの散歩をしてる時とかに見かけて……ずっと[r]
-　見てた……」[pcms]
+"I saw you when you were walking John... I've been watching[r]
+for a while..."[pcms]
 
 *11539|
 [fc]
 [ns]Ookura[nse]
-「え、俺を……？」[pcms]
+"Eh, me...?"[pcms]
 
 *11540|
 [fc]
-無言でうなずく彼女を見て、俺の心臓は今までに無い[r]
-ぐらい、物凄いイキオイで動き出した。[pcms]
+Seeing her nod silently, my heart started beating with an[r]
+intensity I had never felt before.[pcms]
 
 *11541|
 [fc]
-これ……。[r]
-これ、まさか……。[pcms]
+This... Could this possibly be...?[pcms]
 
 *11542|
 [fc]
 [ns]Ookura[nse]
-「お、俺も、ずっと、友達になりたいなって……」[pcms]
+"I, I've also always wanted to be friends..."[pcms]
 
 *11543|
 [fc]
 [vo_may s="maya0108"]
 [ns]Young Lady[nse]
-「私も……そう思ってた……」[pcms]
+"I've felt the same way..."[pcms]
 
 *11544|
 [fc]
-告白……？[r]
-告白なのか……！？[pcms]
+A confession...? Is this a confession...!?[pcms]
 
 *11545|
 [fc]
-産まれて初めて、女の子から告白されるかもしれない[r]
-という状況に、俺は鼻血でも出してるんじゃないかと、[r]
-思わず指で鼻の下をこすった。[pcms]
+For the first time in my life, I might be getting confessed[r]
+to by a girl, and I instinctively rubbed under my nose with[r]
+my finger, wondering if I was about to get a nosebleed.[pcms]
 
 *11546|
 [fc]
-でも、なんで急に……？[r]
-しかもこんな時に……。[pcms]
+But why all of a sudden...? And at a time like this...?[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_f02"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
@@ -746,28 +744,27 @@ me.[pcms]
 [fc]
 [vo_may s="maya0109"]
 [ns]Young Lady[nse]
-「あの３人、いつも楽しそう……私もあの中に入りた[r]
-　いって……」[pcms]
+"Those three always seem to be having fun... I wanted to be[r]
+part of that group too..."[pcms]
 
 *11548|
 [fc]
 [ns]Ookura[nse]
-「３……？　え……？」[pcms]
+"Three...? Eh...?"[pcms]
 
 *11549|
 [fc]
-身を乗り出してまで待った言葉は、彼女の口からは出[r]
-てこなかった。[pcms]
+The words I had been eagerly waiting for did not come out of[r]
+her mouth.[pcms]
 
 *11550|
 [fc]
-３人……？[r]
-３人って……？[pcms]
+"Three...? Three people...?"[pcms]
 
 *11551|
 [fc]
 [ns]Ookura[nse]
-「３人……？」[pcms]
+"Three...?"[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_f01"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
@@ -775,36 +772,35 @@ me.[pcms]
 [fc]
 [vo_may s="maya0110"]
 [ns]Young Lady[nse]
-「いつも一緒にいる人……」[pcms]
+"The ones who are always together..."[pcms]
 
 *11553|
 [fc]
 [ns]Ookura[nse]
-「あー……ユウと速水……」[pcms]
+"Ah-... Yuu and Hayami..."[pcms]
 
 *11554|
 [fc]
-なんだ、そういうことか……。[r]
-友達って、ホントの友達だったんだな……。[pcms]
+So that's what it was... She meant real friends...[pcms]
 
 *11555|
 [fc]
-そりゃそうだ……。[r]
-いくら話したことがあるからって、こんな時に告白な[r]
-んかするヤツぁいねーよな……。[pcms]
+Of course... It's not like someone would confess at a time[r]
+like this, just because we've talked before...[pcms]
 
 *11556|
 [fc]
-勝手な勘違いで身を乗り出しまでしたのが、俺は猛烈[r]
-に恥ずかしくなって、チラチラと様子を探るように見[r]
-ている彼女に、ごまかそうと大げさに振る舞った。[pcms]
+Feeling extremely embarrassed by my own presumptuous[r]
+misunderstanding, I exaggerated my actions in an attempt to[r]
+cover it up, glancing at her as she looked around, trying to[r]
+gauge the situation.[pcms]
 
 *11557|
 [fc]
 [ns]Ookura[nse]
-「な、なんだぁ！　だったら、もっと早く言ってくれ[r]
-　れば良かったのに。俺だって、あんなカワイイ子と[r]
-　友達になれたらなー、って思ってたしね！」[pcms]
+"What, that's it! You should have said something sooner. I[r]
+was thinking I'd love to be friends with such a cute girl[r]
+too!"[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_f03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
@@ -812,30 +808,30 @@ me.[pcms]
 [fc]
 [vo_may s="maya0111"]
 [ns]Young Lady[nse]
-「……」[pcms]
+"..."[pcms]
 
 *11559|
 [fc]
 [ns]Ookura[nse]
-「いや、ホントホント！　こっちから友達になってく[r]
-　れってお願いしたいぐらい！」[pcms]
+"No, really, really! I was so hoping you'd ask to be friends[r]
+with me!"[pcms]
 
 *11560|
 [fc]
-急にテンションが上がったのを見て、ポカンとした顔[r]
-になっている彼女に、俺はさらにまくし立てる。[pcms]
+Seeing my sudden burst of enthusiasm, she looked at me with[r]
+a blank expression, and I rambled on even more.[pcms]
 
 *11561|
 [fc]
 [ns]Ookura[nse]
-「つーか、お願いしちゃおうかなー！　良かったらさ、[r]
-　俺と友達になってよ、ね！」[pcms]
+"Or maybe I should be the one asking! If it's okay with you,[r]
+let's be friends, okay?"[pcms]
 
 *11562|
 [fc]
 [ns]Ookura[nse]
-「そうだ、いま俺と友達になってくれると、もれなく[r]
-　ユウと速水もついてくるけど！　どう！　奥さん！」[pcms]
+"That's right, if you become friends with me now, you'll[r]
+also get Yuu and Hayami as a bonus! How about it, ma'am?"[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_n05"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
@@ -843,27 +839,27 @@ me.[pcms]
 [fc]
 [vo_may s="maya0112"]
 [ns]Young Lady[nse]
-「ふっ……」[pcms]
+"Heh..."[pcms]
 
 *11564|
 [fc]
-不自然に大げさな俺を見て、ポカンとしてたのが呆れ[r]
-たような顔に変わって、彼女は小さく吹き出した。[pcms]
+Seeing my unnaturally exaggerated behavior, her blank[r]
+expression turned into one of amusement, and she let out a[r]
+small laugh.[pcms]
 
 *11565|
 [fc]
-カ、カワイイ……。[pcms]
+She's so cute...[pcms]
 
 *11566|
 [fc]
-笑うとこんなカワイイのに、なんでいつも無表情なん[r]
-だろう、この子……。[r]
-なんか理由があんのかな……。[pcms]
+She's so cute when she laughs, why is she always[r]
+expressionless? I wonder if there's a reason for that...[pcms]
 
 *11567|
 [fc]
-ちょっとしてから、彼女はいつもの無表情に戻って、[r]
-俺に聞いてきた。[pcms]
+After a little while, she returned to her usual[r]
+expressionless face and asked me.[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_n01"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 
@@ -871,64 +867,64 @@ me.[pcms]
 [fc]
 [vo_may s="maya0118"]
 [ns]Young Lady[nse]
-「本当の友達ってどんなもの……？」[pcms]
+"What are real friends like...?"[pcms]
 
 *11569|
 [fc]
 [ns]Ookura[nse]
-「ホントの友達……親友ってこと？　うん……どん[r]
-　だけ一緒にいても全然飽きないとか、ヘンな気を遣[r]
-　わなくていいとか……」[pcms]
+"Real friends... you mean best friends? Yeah... like never[r]
+getting tired of being together, or not having to act weird[r]
+around each other..."[pcms]
 
 *11570|
 [fc]
-自分の友達が、ホントの友達なのかどうかなんて考え[r]
-たことの無い俺にとって、彼女の質問はいまいちピン[r]
-とこなかった。[pcms]
+As someone who has never really thought about whether my own[r]
+friends are true friends or not, her question didn't quite[r]
+resonate with me.[pcms]
 
 *11571|
 [fc]
-仲の良さのレベル、みたいなものはあると思うけど、[r]
-ホントかどうかってのはな……。[pcms]
+I think there are levels of closeness, but as for whether[r]
+they're true or not...[pcms]
 
 *11572|
 [fc]
 [ns]Ookura[nse]
-「うん……」[pcms]
+"Yeah..."[pcms]
 
 *11573|
 [fc]
 [vo_may s="maya0119"]
 [ns]Young Lady[nse]
-「困っている時に、何の見返りも求めず、手を差し伸[r]
-　べてくれるのが、私は本当の友達だと思う」[pcms]
+"I think that true friends are those who offer help without[r]
+expecting anything in return when you're in trouble."[pcms]
 
 *11574|
 [fc]
-他にいい答えが思いつくことができないで、見上げて[r]
-唸っている俺に、彼女は珍しく、ハッキリとした[r]
-口調でそう言った。[pcms]
+Unable to come up with a better answer, I looked up and[r]
+groaned, to which she unusually responded in a clear tone.[pcms]
 
 *11575|
 [fc]
-確かに、ユウや速水が困っていたら、俺は自分のでき[r]
-ることは全部やるし、実際やってきた……。[pcms]
+Indeed, if Yuu or Hayami were in trouble, I would do[r]
+everything I could, and I have done so...[pcms]
 
 *11576|
 [fc]
-逆に俺が困ってた時、ユウも速水も助けてくれた……。[pcms]
+Conversely, when I was the one in trouble, both Yuu and[r]
+Hayami helped me out...[pcms]
 
 *11577|
 [fc]
-俺もヤツらも、相手に見返りを求めたことはない……。[r]
-困ってる友達を助けるのは、当たり前だと思ってるか[r]
-らだ……。[pcms]
+We never expected anything in return from each other...[r]
+Helping a friend in need is just natural to us...[pcms]
 
 *11578|
 [fc]
 [ns]Ookura[nse]
-「うん……俺もその意見に賛成だな。困ってる時に助[r]
-　けてやれないなんて、そんなの友達じゃねーよな」[pcms]
+"Yeah... I agree with that opinion. If you can't help out[r]
+when someone's in trouble, then that's not really a friend,[r]
+is it?"[pcms]
 
 [ChrSetEx layer=4 chbase="jinguji_n03"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]
 

@@ -64,12 +64,12 @@ the one above)"[pcms]
 *10300|
 [fc]
 "Yuuki pressed the switch, and from the elevator with the[r]
-sign [No.3 1F-4F], the same announcement played."[pcms]
+sign (No.3 1F-4F), the same announcement played."[pcms]
 
 *10301|
 [fc]
 "Pressing the switch for the elevator next to it, marked[r]
-[No.2 1F-R], Yuuki looked up at the floor indicator above[r]
+(No.2 1F-R), Yuuki looked up at the floor indicator above[r]
 the door."[pcms]
 
 [ChrSetEx layer=4 chbase="koba_n12"][ChrSetXY layer=4 x=200 y=0][trans_c cross time=150]

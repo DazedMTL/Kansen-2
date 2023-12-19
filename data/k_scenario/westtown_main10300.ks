@@ -122,26 +122,26 @@ the sender was my mother.[pcms]
 
 *11329|
 [fc]
-Are you okay?][pcms]
+Are you okay?)[pcms]
 
 *11330|
 [fc]
-[I can't get through on the phone, so I'm sending an email.[r]
-I saw the news. Are you really okay? I'm worried.][pcms]
+(I can't get through on the phone, so I'm sending an email.[r]
+I saw the news. Are you really okay? I'm worried.)[pcms]
 
 *11331|
 [fc]
-[It seems the same thing is happening in Sakata. They're[r]
-saying there are strange people all over town.][pcms]
+(It seems the same thing is happening in Sakata. They're[r]
+saying there are strange people all over town.)[pcms]
 
 *11332|
 [fc]
-[They don't know the cause. The Self-Defense Forces are out,[r]
-but rescue operations are struggling.][pcms]
+(They don't know the cause. The Self-Defense Forces are out,[r]
+but rescue operations are struggling.)[pcms]
 
 *11333|
 [fc]
-[Anyway, be careful. Come back safe.][pcms]
+(Anyway, be careful. Come back safe.)[pcms]
 
 *11334|
 [fc]
@@ -157,15 +157,15 @@ The emails received one after another were sent by Hayami.[pcms]
 
 *11336|
 [fc]
-How is it over there?][pcms]
+How is it over there?)[pcms]
 
 *11337|
 [fc]
-[We're still okay here. Don't worry about us.][pcms]
+(We're still okay here. Don't worry about us.)[pcms]
 
 *11338|
 [fc]
-[I'm waiting for you to come help, so hurry up!][pcms]
+(I'm waiting for you to come help, so hurry up!)[pcms]
 
 *11339|
 [fc]
@@ -193,16 +193,16 @@ First, I decided to send an email to my mother.[pcms]
 
 *11344|
 [fc]
-I'm okay][pcms]
+I'm okay)[pcms]
 
 *11345|
 [fc]
-[I'm safe for now. Don't worry, I'll come back properly.][pcms]
+(I'm safe for now. Don't worry, I'll come back properly.)[pcms]
 
 *11346|
 [fc]
-[More importantly, be careful over there too. Those guys are[r]
-really out of their minds, so don't get close!][pcms]
+(More importantly, be careful over there too. Those guys are[r]
+really out of their minds, so don't get close!)[pcms]
 
 *11347|
 [fc]
@@ -210,13 +210,13 @@ Next, I created an email for Hayami.[pcms]
 
 *11348|
 [fc]
-Over here too][pcms]
+Over here too)[pcms]
 
 *11349|
 [fc]
-[I'm okay. Sorry for being late. I will definitely come to[r]
+(I'm okay. Sorry for being late. I will definitely come to[r]
 rescue you, so hang in there until we arrive. Let's go back[r]
-to Yama together.][pcms]
+to Yama together.)[pcms]
 
 *11350|
 [fc]
