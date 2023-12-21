@@ -58,8 +58,7 @@ nearest staircase or escalator,'"[pcms]
 *10299|
 [fc]
 "'This elevator is currently out of service. Please use the[r]
-nearest staircase or escalator.' ;//ÅùNo need to record (use[r]
-the one above)"[pcms]
+nearest staircase or escalator.'[pcms]
 
 *10300|
 [fc]
